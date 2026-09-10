@@ -1,7 +1,47 @@
 {
-  "generatedAt": "2026-09-10T23:30:50.917Z",
+  "generatedAt": "2026-09-10T23:31:07.112Z",
   "scope": "Integração do grafo: índices, home, reciprocidade estrutural, tipos de design e nós órfãos. Conceitos e variáveis não exigem backlink exaustivo.",
-  "issueCount": 0,
-  "countsByKind": {},
-  "issues": []
+  "issueCount": 6,
+  "countsByKind": {
+    "missing-reciprocal-link": 3,
+    "design-type-drift": 3
+  },
+  "issues": [
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Atalhos de Teclado.md",
+      "targetPath": "00 tipos de design/Design de Interface.md",
+      "detail": "A ficha liga para 00 tipos de design/Design de Interface.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Hero Section.md",
+      "targetPath": "00 tipos de design/Design de Interface.md",
+      "detail": "A ficha liga para 00 tipos de design/Design de Interface.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Undo Send.md",
+      "targetPath": "00 tipos de design/Design de Interface.md",
+      "detail": "A ficha liga para 00 tipos de design/Design de Interface.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "design-type-drift",
+      "sourcePath": "03 artefatos/Atalhos de Teclado.md",
+      "targetPath": "00 tipos de design/Design de Interface.md",
+      "detail": "Artefato declara 00 tipos de design/Design de Interface.md, mas o tipo de design não o referencia."
+    },
+    {
+      "kind": "design-type-drift",
+      "sourcePath": "03 artefatos/Hero Section.md",
+      "targetPath": "00 tipos de design/Design de Interface.md",
+      "detail": "Artefato declara 00 tipos de design/Design de Interface.md, mas o tipo de design não o referencia."
+    },
+    {
+      "kind": "design-type-drift",
+      "sourcePath": "03 artefatos/Undo Send.md",
+      "targetPath": "00 tipos de design/Design de Interface.md",
+      "detail": "Artefato declara 00 tipos de design/Design de Interface.md, mas o tipo de design não o referencia."
+    }
+  ]
 }
