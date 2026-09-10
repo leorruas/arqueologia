@@ -9,43 +9,53 @@ tags:
 
 # Acesso e disponibilidade
 
-Uma parte importante do design consiste em mudar não o recurso em si, mas **o custo de alcançá-lo**. Água, atendimento, informação e conteúdo podem continuar essencialmente iguais enquanto o sistema que regula quando, onde e como chegam às pessoas muda por completo.
+Uma garrafa de água, uma fila, um agendamento, um cartão de embarque, um arquivo digital e o infinite scroll parecem pertencer a mundos diferentes. Mas todos alteram uma mesma distância: o intervalo entre querer alguma coisa e conseguir acessá-la.
 
-## A ideia recorrente
+A hipótese desta genealogia é que uma parte importante do design atua justamente nesse intervalo. O recurso pode continuar o mesmo, seja água, atendimento, transporte, informação ou conteúdo, enquanto muda radicalmente o esforço necessário para chegar até ele. A pergunta deixa de ser apenas “o que está disponível?” e passa a ser “quanto de espera, deslocamento, busca, coordenação ou decisão existe entre a intenção e o acesso?”.
 
-Esta genealogia acompanha artefatos que transformam acesso episódico em acesso coordenado, portátil ou contínuo. A pergunta comum é: quanto esforço, espera, deslocamento ou incerteza existe entre desejar algo e conseguir usá-lo?
+## Tornar o acesso menos episódico
 
-## Constelação de artefatos
+A [[03 artefatos/Garrafa de Agua|garrafa de água]] transforma o acesso a uma fonte fixa em uma pequena reserva portátil. A água não muda, mas a pessoa deixa de depender de retornar à fonte toda vez que sente sede. A relação aqui é funcional e comportamental: o artefato reduz deslocamento e torna o consumo possível em mais momentos.
 
-- [[03 artefatos/Garrafa de Agua|Garrafa de Água]]: parentesco **funcional**. Torna uma reserva de água portátil e reduz a dependência do ponto fixo de abastecimento.
-- [[03 artefatos/Fila|Fila]]: parentesco **institucional**. Organiza acesso quando várias pessoas disputam um recurso incapaz de atender todas ao mesmo tempo.
-- [[03 artefatos/Agendamento|Agendamento]]: parentesco **institucional e temporal**. Distribui acesso futuro para reduzir disputa simultânea e incerteza.
-- [[03 artefatos/Cartao de Embarque|Cartão de Embarque]]: parentesco **logístico**. Condensa autorização, destino e sequência de acesso em um documento portátil.
-- [[03 artefatos/Archive|Archive]]: parentesco **informacional**. Mantém informação disponível sem mantê-la permanentemente no primeiro plano.
-- [[03 artefatos/Infinite Scroll|Infinite Scroll]]: parentesco **funcional e comportamental**. Reduz quase a zero o atrito entre terminar um conteúdo e receber o próximo.
+A [[03 artefatos/Fila|fila]] resolve outro tipo de intervalo. Quando muitas pessoas querem acessar ao mesmo tempo um recurso que não comporta todas, ela cria uma ordem. O acesso continua escasso, mas ganha uma regra sequencial. Já o [[03 artefatos/Agendamento|agendamento]] desloca parte dessa disputa para o futuro: em vez de decidir a ordem somente no momento da chegada, distribui o acesso antecipadamente no tempo. Nos dois casos, o design não elimina a espera. Ele tenta torná-la mais previsível.
 
-## Quando reduzir o custo muda o comportamento
+O [[03 artefatos/Cartao de Embarque|cartão de embarque]] comprime outro conjunto de incertezas. Autorização, destino, horário, portão, assento e sequência de ações podem acompanhar a pessoa em um documento portátil. O artefato reduz a necessidade de renegociar a cada etapa se aquela pessoa pode seguir adiante e para onde deve ir.
 
-A hipótese central é que disponibilidade não é neutra. Quando o acesso deixa de exigir deslocamento, espera ou decisão explícita, a frequência de uso pode crescer. A garrafa torna beber possível fora da fonte. O infinite scroll torna continuar consumindo conteúdo possível sem nova escolha perceptível.
+No campo informacional, [[03 artefatos/Archive|Archive]] faz um movimento diferente: mantém uma informação disponível sem exigir que ela continue ocupando o primeiro plano. O conteúdo sai do fluxo imediato, mas permanece recuperável. O acesso deixa de depender de visibilidade constante.
 
-Isso não os torna descendentes históricos. O parentesco proposto aqui é **funcional e comportamental**.
+O [[03 artefatos/Infinite Scroll|infinite scroll]] leva a redução do intervalo quase ao limite. Quando um conteúdo termina, outro já está disponível com um gesto mínimo. A transição que antes poderia exigir escolher uma página, decidir continuar ou executar uma nova busca passa a acontecer com quase nenhuma interrupção.
 
-## Poder
+Esses artefatos não formam uma descendência histórica conhecida. Eles são parentes porque reorganizam funcionalmente a mesma variável: o custo de passar de uma intenção ao recurso desejado.
 
-Quem controla a arquitetura de acesso controla também escassez, prioridade e ritmo. Fila e agendamento podem aumentar justiça percebida, mas também podem institucionalizar esperas. Acesso contínuo pode ampliar autonomia, mas também criar expectativa de disponibilidade permanente.
+## Quando disponibilidade muda comportamento
 
-## Conceitos relacionados
+A disponibilidade parece uma qualidade neutra até percebermos que ela pode alterar a frequência do comportamento. Uma garrafa ao alcance da mão permite beber sem procurar uma fonte. Um feed sem fim permite continuar consumindo conteúdo sem formular uma nova escolha. Uma agenda reduz a necessidade de disputar atendimento no momento em que ele ocorre.
 
-- [[01 conceitos/Tecnologia de Acesso|Tecnologia de Acesso]]
-- [[01 conceitos/Continuidade de Acesso|Continuidade de Acesso]]
-- [[01 conceitos/Distribuicao de Escassez|Distribuição de Escassez]]
+Essa é a conexão com [[01 conceitos/Tecnologia de Acesso|tecnologia de acesso]] e [[01 conceitos/Continuidade de Acesso|continuidade de acesso]]. O design pode transformar uma relação episódica em coordenada, portátil ou quase contínua. Ao fazer isso, reduz [[02 variaveis/Custo de Busca|custo de busca]] e [[02 variaveis/Custo Transacional|custo transacional]], mas também pode aumentar a [[02 variaveis/Expectativa de Disponibilidade|expectativa de disponibilidade]]. Depois que algo se torna fácil de acessar, sua ausência começa a parecer uma falha.
 
-## Variáveis relacionadas
+A consequência política aparece quando o acesso é escasso. Quem desenha a arquitetura de acesso também pode definir prioridade, ritmo e critérios. Filas e calendários podem aumentar a percepção de justiça ao tornar uma regra visível, mas também institucionalizam a própria espera. Acesso contínuo pode ampliar autonomia e, ao mesmo tempo, criar a expectativa de que serviços, conteúdos ou pessoas estejam permanentemente disponíveis.
 
-- [[02 variaveis/Custo de Busca|Custo de Busca]]
-- [[02 variaveis/Custo Transacional|Custo Transacional]]
-- [[02 variaveis/Expectativa de Disponibilidade|Expectativa de Disponibilidade]]
+Por isso, [[01 conceitos/Distribuicao de Escassez|distribuição de escassez]] pertence a esta genealogia tanto quanto conveniência. O problema não é apenas tornar algo disponível. Muitas vezes é decidir como o indisponível será distribuído.
 
-## Hipótese em aberto
+## A conveniência talvez seja uma operação sobre intervalos
 
-Talvez muitas inovações que chamamos de conveniência sejam, em termos de design, operações sobre o intervalo entre intenção e acesso. A questão mais interessante passa a ser quanto desse intervalo convém realmente eliminar.
+“Conveniência” costuma funcionar como uma palavra ampla demais. Uma hipótese mais precisa seria tratá-la como um conjunto de operações sobre o intervalo entre intenção e acesso. Um projeto pode diminuir distância física, eliminar espera, reduzir busca, antecipar coordenação ou remover uma decisão intermediária.
+
+Essa leitura permite comparar artefatos sem fingir que eles têm a mesma história. Também cria uma pergunta mais crítica: quanto desse intervalo queremos realmente eliminar? Alguns atrasos são puro desperdício. Outros são momentos de escolha, verificação, descanso ou negociação. Quando o design reduz o custo de acesso a quase zero, ele pode não apenas facilitar um comportamento existente, mas torná-lo mais frequente e mais esperado.
+
+## Ficha da genealogia
+
+| Campo | Registro |
+|---|---|
+| **Genealogia** | Acesso e disponibilidade |
+| **Pergunta central** | O que acontece quando o design reduz o intervalo entre querer algo e conseguir acessá-lo? |
+| **Hipótese de parentesco** | Artefatos muito diferentes podem transformar acesso episódico em acesso coordenado, portátil ou quase contínuo |
+| **Natureza das relações** | Funcional, comportamental, institucional e comparativa; não implica descendência histórica |
+| **Artefatos principais** | [[03 artefatos/Garrafa de Agua|Garrafa de água]], [[03 artefatos/Fila|Fila]], [[03 artefatos/Agendamento|Agendamento]], [[03 artefatos/Cartao de Embarque|Cartão de embarque]], [[03 artefatos/Archive|Archive]], [[03 artefatos/Infinite Scroll|Infinite scroll]] |
+| **Comportamento recorrente** | Procurar, esperar, deslocar-se, coordenar-se e continuar acessando recursos |
+| **O que o design redistribui** | Espera, deslocamento, busca, coordenação, decisão e disponibilidade |
+| **Relação de poder** | Quem define a arquitetura de acesso pode definir prioridade, ritmo e critérios de entrada |
+| **Conceitos relacionados** | [[01 conceitos/Tecnologia de Acesso|Tecnologia de acesso]], [[01 conceitos/Continuidade de Acesso|Continuidade de acesso]], [[01 conceitos/Distribuicao de Escassez|Distribuição de escassez]] |
+| **Variáveis relacionadas** | [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Expectativa de Disponibilidade|Expectativa de disponibilidade]] |
+| **Cuidado histórico** | Os artefatos são aproximados por mecanismo de acesso, não por uma linhagem histórica direta |
+| **Hipótese em aberto** | Conveniência pode ser descrita com mais precisão como redução ou redistribuição do intervalo entre intenção e acesso; resta investigar quais intervalos não deveriam ser eliminados |
