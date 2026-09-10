@@ -46,6 +46,7 @@ A disciplina se consolida entre marketing de serviços, operações e design a p
 - [[03 artefatos/Value Proposition Ad Lib|Value Proposition Ad Lib]]: estrutura lacunada para explicitar hipótese de valor.
 - [[03 artefatos/Justificativa de Valor Público|Justificativa de valor público]]: adaptação experimental para tornar escolhas públicas justificáveis.
 - [[03 artefatos/Carrinho de Compras|Carrinho de compras]]: infraestrutura material que participa da organização do autosserviço.
+- [[03 artefatos/Portfólio|Portfólio]]: seleção e ordenação de evidências para tornar uma trajetória avaliável por outras pessoas.
 
 ## Conexões
 
