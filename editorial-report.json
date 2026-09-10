@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-10T22:42:41.658Z",
+  "generatedAt": "2026-09-10T22:43:22.620Z",
   "rule": "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
   "artifactSheetRule": "Cada artefato deve conter uma única Ficha arqueológica em tabela Campo/Registro com os 22 campos definidos no template atual.",
-  "candidateCount": 27,
-  "fileCount": 21,
+  "candidateCount": 28,
+  "fileCount": 22,
   "files": [
     {
       "sourcePath": "00 índices/Indice de Autores.md",
@@ -163,6 +163,17 @@
           "sourcePath": "03 artefatos/North Star.md",
           "kind": "frontmatter-title",
           "text": "North Star"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Pesquisa Quantitativa.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Pesquisa Quantitativa.md",
+          "kind": "h2",
+          "line": 58,
+          "text": "JTBD contém uma disputa sobre como medir um Job"
         }
       ]
     },
