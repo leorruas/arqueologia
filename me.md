@@ -53,6 +53,7 @@ leitura: "mandatória: ler antes de qualquer operação no vault"
 26. **Sem artigo isolado por omissão operacional**: todo artefato novo deve sair da operação com as relações sustentadas pela evidência registradas. Se uma camada não se aplicar, não force o vínculo; se a relação existir, não deixe sua integração para uma revisão futura indefinida.
 27. **Tipos de design como ensaios disciplinares**: notas em `00 tipos de design/` investigam como uma classe de problemas ganhou forma como campo. Não usar estrutura enciclopédica de definição, pioneiros, marcos, empresas e lista exaustiva de artefatos. Autores e instituições entram apenas quando explicam uma transformação.
 28. **Percursos como argumentos de leitura**: notas em `05 percursos/` não devem ser listas numeradas de artigos. Organizar por mudanças de ideia, comparar estudos dentro da mesma seção e fazer a pergunta inicial se transformar ao longo da leitura.
+29. **Propagação semântica**: uma correção factual ou conceitual também precisa atravessar a rede. Ao mudar autoria, data, papel histórico, procedência, grau de certeza, interpretação central ou estatuto de uma hipótese, procure notas que dependam dessa afirmação e corrija versões incompatíveis. Um grafo pode ter links corretos e ainda contar histórias contraditórias.
 
 ## Regras editoriais
 
@@ -107,6 +108,7 @@ Uma operação que cria ou altera materialmente um estudo só termina depois de:
 - verificar genealogias e percursos existentes e atualizá-los quando o novo estudo mudar sua leitura;
 - criar ou atualizar autores e empresas apenas quando tiverem papel histórico ou intelectual relevante;
 - registrar livros úteis em [[00 índices/Livros Indicados|Livros indicados]] e associá-los aos autores correspondentes;
+- procurar afirmações dependentes quando uma correção alterar autoria, data, papel, procedência ou grau de certeza;
 - atualizar os índices afetados;
 - registrar a mudança significativa em `log.md`;
 - verificar wikilinks sem destino e vínculos que deveriam ser recíprocos.
