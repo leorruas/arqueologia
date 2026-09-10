@@ -1,12 +1,11 @@
 {
-  "generatedAt": "2026-09-10T23:18:31.871Z",
+  "generatedAt": "2026-09-10T23:19:09.036Z",
   "scope": "Integração do grafo: índices, home, reciprocidade explícita, tipos de design e nós órfãos.",
-  "issueCount": 281,
+  "issueCount": 276,
   "countsByKind": {
-    "missing-from-index": 12,
-    "missing-from-home": 1,
+    "missing-from-index": 9,
     "missing-reciprocal-link": 259,
-    "orphan-node": 9
+    "orphan-node": 8
   },
   "issues": [
     {
@@ -59,33 +58,9 @@
     },
     {
       "kind": "missing-from-index",
-      "sourcePath": "autores/Barry Schwartz.md",
-      "targetPath": "00 índices/Indice de Autores.md",
-      "detail": "Arquivo não aparece em 00 índices/Indice de Autores.md."
-    },
-    {
-      "kind": "missing-from-index",
-      "sourcePath": "autores/Robert Adler.md",
-      "targetPath": "00 índices/Indice de Autores.md",
-      "detail": "Arquivo não aparece em 00 índices/Indice de Autores.md."
-    },
-    {
-      "kind": "missing-from-index",
       "sourcePath": "empresas/3M.md",
       "targetPath": "00 índices/Indice de Empresas.md",
       "detail": "Arquivo não aparece em 00 índices/Indice de Empresas.md."
-    },
-    {
-      "kind": "missing-from-index",
-      "sourcePath": "empresas/Zenith.md",
-      "targetPath": "00 índices/Indice de Empresas.md",
-      "detail": "Arquivo não aparece em 00 índices/Indice de Empresas.md."
-    },
-    {
-      "kind": "missing-from-home",
-      "sourcePath": "05 percursos/Da Parede ao Interlocutor.md",
-      "targetPath": "index.md",
-      "detail": "Genealogia ou percurso publicado não aparece no index.md."
     },
     {
       "kind": "missing-reciprocal-link",
@@ -1686,12 +1661,6 @@
     {
       "kind": "orphan-node",
       "sourcePath": "05 percursos/Da Parede ao Interlocutor.md",
-      "targetPath": null,
-      "detail": "Nota sem links de entrada a partir do acervo auditado."
-    },
-    {
-      "kind": "orphan-node",
-      "sourcePath": "autores/Barry Schwartz.md",
       "targetPath": null,
       "detail": "Nota sem links de entrada a partir do acervo auditado."
     }
