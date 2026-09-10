@@ -1,6 +1,7 @@
 ---
 title: "Número de protocolo"
 type: "artefato"
+status: "publicado"
 tags:
   - design/artefato
   - arqueologia
@@ -8,51 +9,116 @@ tags:
 
 # Número de protocolo
 
-O número de protocolo é um artefato de rastreabilidade, persistência e identificação sistêmica projetado para atribuir um código numérico exclusivo a uma solicitação ou processo, permitindo que a demanda exista de forma independente dos indivíduos nela envolvidos.
+Uma reclamação pode mudar de atendente, setor, prédio ou sistema e ainda continuar sendo a mesma reclamação. Para isso, a instituição precisa de alguma forma de reconhecer que eventos separados pertencem ao mesmo caso. O **número de protocolo** resolve esse problema atribuindo identidade persistente a uma demanda.
 
-## Ficha técnica
-- **Criador(es)**: Invenção distribuída (convergência burocrática estatal)
-- **Empresa/Fabricante**: Correios, tribunais e repartições públicas
-- **Ano de Lançamento**: Séculos XIX e XX (ligado à profissionalização das burocracias de massa)
-- **Materiais/Mídia**: Registro em livros de protocolo físicos, tíquetes de papel impresso, bancos de dados digitais
-- **Tipo de Design**: [[00 tipos de design/Design de Servicos|Design de Serviços]] / Arquitetura da Informação
+A pessoa conta uma história. O sistema devolve um código.
 
-## História e contexto de criação
-- **Demanda / Problema**: Como acompanhar, rastrear e cobrar o andamento de uma solicitação individual ao longo do tempo e por diferentes departamentos, sem que ela se perca fisicamente ou dependa da memória das partes.
-- **Processo de Desenvolvimento**: Surgiu com a expansão dos serviços postais e a necessidade de registrar a entrada e saída de correspondências e processos jurídicos. Com a profissionalização administrativa, o número sequencial ou gerado por algoritmos tornou-se a chave mestra de busca de qualquer fluxo de trabalho.
+## O problema de manter o mesmo caso através de muitas mãos
 
-## Inovação e impacto
-- **Ampliação de Capacidade**: Amplia a capacidade de rastreabilidade temporal e coordenação de processos em escala populacional.
-- **Enfraquecimento de Capacidade**: Enfraquece a necessidade de interações baseadas no conhecimento pessoal e no tratamento particular das demandas.
-- **Comportamento Coletivo**: Acostumou a sociedade a identificar e cobrar direitos por meio de códigos abstratos (ex: "me informe o número do protocolo").
-- **Linhagem e Descendência**: Descendente de índices de livros de cartório e números de registro. Antepassado de números de pedidos de e-commerce, códigos de rastreamento de encomendas, UUIDs de computação e números de processos judiciais eletrônicos.
-- **Custo Invisível**: Desumanização do atendimento (transformar o cidadão ou sua dor em um simples número), atrito de busca caso o código seja perdido e a falsa sensação de que a geração de um número equivale à resolução do problema.
+Organizações que recebem grande volume de documentos e solicitações enfrentam um problema diferente daquele resolvido pela memória individual. Uma demanda pode entrar por uma pessoa, ser encaminhada a outra, ficar armazenada, retornar meses depois e precisar ser consultada por alguém que nunca conheceu o solicitante.
 
-## Referências e onde encontrar
-- **Acervos**: Arquivos públicos, sistemas de atendimento ao consumidor (SAC)
-- **Leituras**: Literaturas sobre a história da administração pública e teoria dos sistemas organizacionais.
+Nessas condições, nomes e lembranças pessoais são identificadores frágeis. Pessoas podem ter o mesmo nome, funcionários mudam de função e descrições verbais variam. Livros de registro, índices, números sequenciais e classificações oferecem uma maneira mais estável de localizar e relacionar registros.
 
----
+A versão anterior da nota datava o número de protocolo nos séculos XIX e XX como se houvesse um ponto de invenção associado à burocracia moderna. A relação histórica é plausível, mas ampla demais para sustentar essa precisão sem uma genealogia documental mais profunda. Sistemas de registro numerado e indexação são muito anteriores e assumiram formas diferentes em correios, tribunais, comércio e administrações.
 
-### Ficha resumo
+O artefato deve, portanto, ser entendido como uma solução distribuída de **identificação de casos**, não como invenção isolada de uma instituição ou século.
 
-- **Nome do artefato**: Número de Protocolo
-- **Categoria**: Design de Serviços / Arquitetura da Informação
-- **Período aproximado**: Século XIX ao XX
-- **Pessoas ou equipes envolvidas**: Sem inventor individual conhecido
-- **Produto onde apareceu**: Repartições públicas, serviços postais e sistemas de atendimento ao consumidor
-- **Problema original**: Acompanhar o andamento de uma demanda complexa ao longo do tempo e entre diferentes pessoas
-- **Mundo antes da inovação**: Demandas dependiam do conhecimento pessoal do funcionário responsável, de anotações informais em cadernos ou da lembrança direta das partes envolvidas, o que tornava o extravio e o esquecimento de processos extremamente comuns.
-- **A ideia que mudou tudo**: Criar um identificador exclusivo para cada processo de entrada que funciona como uma âncora de persistência em todo o sistema.
-- **Comportamento aproveitado**: A necessidade humana de acompanhar promessas e a capacidade de buscar termos por índices numéricos.
-- **Comportamento criado**: O hábito de solicitar, anotar e rastrear trâmites através de uma sequência numérica de controle.
-- **Por que funcionou**: Criou um ponto único de verdade para a consulta, independente de qual funcionário está atendendo, reduzindo o custo de comunicação entre o sistema e o usuário.
-- **Consequências inesperadas**: O cidadão passa a ser tratado como um número sequencial, gerando distanciamento e frieza nas interações de serviços.
-- **Legado**: Infraestrutura de controle de tráfego de dados e rastreamento físico (e-commerce) e digital em praticamente todas as indústrias modernas.
-- **Conceitos relacionados**: Rastreabilidade, Persistência, Memória Institucional, [[02 variaveis/Custo Transacional|Custo Transacional]]
-- **Família de ideias**: Artefatos de identificação e controle
-- **Parentes**: [[03 artefatos/Carimbo|Carimbo]], [[03 artefatos/Login|Login]]
-- **Hipótese central**: Uma demanda passa a existir institucionalmente para um sistema apenas quando ganha um identificador único representável.
-- **Princípio de design revelado**: Para coordenar o mundo real em escala, o design precisa primeiro transformá-lo em identificadores.
-- **Destino do artefato**: Onipresente e invisibilizado em bancos de dados digitais por meio de hashes, IDs de transação e APIs de rastreamento.
-- **Perguntas em aberto**: Como equilibrar a eficiência dos identificadores sistêmicos com a necessidade humana de empatia e personalização no design de serviços?
+## Quando a demanda ganha uma segunda identidade
+
+Para a pessoa, o caso possui identidade narrativa: “a encomenda que não chegou”, “o pedido que fiz”, “o processo que protocolei”. Para a organização, essa descrição é difícil de operar em escala. O número converte o caso em uma chave curta e relativamente inequívoca.
+
+Essa conversão parece reduzir o humano a um código, mas sua função primária é separar duas coisas que frequentemente são confundidas: **a identidade da pessoa** e **a identidade da demanda**. Uma mesma pessoa pode abrir muitos processos; um mesmo processo pode envolver muitas pessoas. O número identifica o objeto administrativo que precisa atravessar o sistema.
+
+Essa distinção dá ao artefato enorme capacidade de coordenação. Um atendente não precisa ter participado do atendimento original. Se o identificador permanece ligado aos registros corretos, ele consegue recuperar o histórico.
+
+O número passa a funcionar como uma âncora de [[01 conceitos/Memoria Distribuida|memória institucional]].
+
+## O exemplo brasileiro do NUP
+
+A Administração Pública Federal brasileira oferece um caso contemporâneo especialmente claro de padronização. O **Número Único de Protocolo, NUP**, é atribuído a documentos avulsos ou processos quando são recebidos ou autuados por órgãos e entidades federais abrangidos pela norma.
+
+O Ministério da Gestão explica que a padronização do NUP favorece tanto a comunicação entre instituições quanto a consulta pelos usuários. Na forma atual, o número possui grupos que identificam a unidade protocolizadora, um registro sequencial, o ano e dígitos verificadores.
+
+A estrutura mostra algo importante: o identificador não serve apenas para distinguir um caso de outro. Ele pode carregar metadados sobre origem e período, além de mecanismos para detectar erros de digitação.
+
+Nesse estágio, o protocolo deixa de ser apenas número sequencial local e se torna **linguagem interoperável entre sistemas**.
+
+## O que o número permite cobrar
+
+Quando uma instituição fornece um protocolo ao usuário, ela cria uma referência compartilhada. A pessoa pode voltar depois e dizer “estou falando do caso X”. Isso reduz [[02 variaveis/Custo Transacional|Custo Transacional]] de reconstruir a situação em cada contato.
+
+Há também uma mudança de poder. Uma conversa sem registro pode ser negada, esquecida ou reinterpretada. Um protocolo não prova que o problema foi resolvido, mas oferece evidência de que determinada demanda entrou em algum regime institucional de registro.
+
+É por isso que “anote o número do protocolo” se tornou um comportamento cotidiano em serviços. O usuário aprende a guardar o identificador como instrumento de cobrança futura.
+
+Essa propriedade conecta o artefato a [[03 artefatos/Carimbo|Carimbo]]. O carimbo pode registrar que algo foi recebido ou alterar seu status; o protocolo permite reencontrar o objeto posteriormente. Um marca um acontecimento. O outro estabiliza a identidade do que está acontecendo.
+
+## Registrar não é resolver
+
+A mesma propriedade que fortalece rastreabilidade pode criar uma ilusão. Receber um número produz uma sensação de formalização e progresso, mesmo que nenhuma ação substantiva tenha acontecido depois.
+
+A versão anterior já identificava esse custo invisível, e ele merece ser preservado: **a geração de um identificador pode ser confundida com atendimento**. Um sistema excelente em registrar demandas pode continuar péssimo em resolvê-las.
+
+Essa distinção é essencial em design de serviços. Rastreabilidade reduz incerteza sobre onde o caso está e o que ocorreu. Ela não elimina a necessidade de capacidade, decisão, responsabilização ou prazo.
+
+O protocolo pode inclusive tornar a ineficiência mais legível. Quando o usuário possui um código e histórico, atrasos que antes se perderiam em conversas tornam-se comparáveis e documentáveis.
+
+## Desumanização ou despersonalização útil?
+
+Chamar alguém pelo número pode ser desumanizante. Identificar o **caso** por número não precisa ser. A diferença depende do que o sistema substitui.
+
+Se o protocolo serve para recuperar rapidamente contexto e evitar que a pessoa conte sua história várias vezes, o identificador pode tornar o atendimento mais humano. Se ele vira desculpa para ignorar contexto e tratar situações diferentes como unidades equivalentes, pode produzir o efeito oposto.
+
+O problema, então, não está na abstração em si. Sistemas em escala precisam abstrair. A pergunta de design é **o que pode ser abstraído sem apagar aquilo que ainda precisa ser compreendido qualitativamente**.
+
+Essa tensão também aparece em [[03 artefatos/Login|Login]]. Um login identifica ou autentica uma pessoa para um sistema; um protocolo identifica uma ocorrência ou processo. Ambos mostram que sistemas digitais e burocráticos dependem de transformar entidades complexas em chaves operáveis.
+
+## Do livro de protocolo ao identificador invisível
+
+Em registros físicos, números eram escritos em livros, capas, fichas e recibos. No software, a lógica se expandiu para IDs de transação, números de pedido, códigos de rastreamento, tickets de suporte e identificadores internos de bancos de dados.
+
+UUIDs e hashes pertencem a histórias técnicas diferentes e não devem ser tratados simplesmente como descendentes diretos do protocolo administrativo. O parentesco é funcional: permitir que sistemas se refiram a uma entidade de forma consistente sem carregar toda a sua descrição a cada operação.
+
+Quando essa infraestrutura funciona bem, o identificador pode desaparecer da interface. Aplicativos recuperam pedidos automaticamente, links carregam IDs internamente e usuários não precisam memorizar códigos extensos. O princípio permanece mesmo quando o número deixa de ser mostrado.
+
+É outro caso em que uma ideia de design se torna tão importante que pode sumir da experiência visível.
+
+## Referências
+
+1. Ministério da Gestão e da Inovação em Serviços Públicos. “Número Único de Protocolo (NUP)”. Definição, finalidade e composição do padrão utilizado na Administração Pública Federal brasileira.
+2. Portaria Interministerial MJSP/ME nº 11, de 25 de novembro de 2019, e Instrução Normativa Interministerial nº 13, de 27 de fevereiro de 2020, com alterações posteriores.
+3. Literatura de arquivologia, diplomática e história administrativa sobre registros, índices e protocolos documentais.
+4. Literatura de arquitetura da informação e bancos de dados sobre identificadores persistentes, como referência comparativa e não como origem histórica do protocolo administrativo.
+
+## Ficha arqueológica
+
+- **Nome do artefato**: Número de protocolo
+- **Categoria**: Design de serviços / arquitetura da informação / identificação sistêmica
+- **Período aproximado**: Origem distribuída em tradições de registro e numeração; formas modernas padronizadas em burocracias físicas e digitais
+- **Pessoas ou equipes envolvidas**: Sem inventor individual conhecido; desenvolvido e refinado por sistemas administrativos, postais, jurídicos e comerciais
+- **Produto ou contexto onde apareceu**: Livros de protocolo, repartições, correios, tribunais, SACs, tickets de suporte e sistemas eletrônicos de processos
+- **Problema original**: Preservar a identidade de uma demanda enquanto ela atravessa tempo, pessoas e setores diferentes
+- **Mundo antes da inovação**: Registros e índices já existiam em muitas formas; sem identificador estável, recuperar um caso podia depender mais de nomes, descrições, localização física e conhecimento dos envolvidos
+- **Invenção**: Distribuída, sem data ou autor únicos suficientemente documentados
+- **Refinamento**: Numeração sequencial, códigos estruturados, dígitos verificadores e integração com bancos de dados
+- **Popularização**: Serviços de massa, burocracias estatais, comércio, logística e atendimento ao consumidor
+- **Padronização**: Sistemas como o NUP brasileiro demonstram a transformação do protocolo em padrão interoperável entre órgãos
+- **Hipótese sobre o comportamento humano**: Pessoas e instituições conseguem coordenar melhor objetos complexos quando possuem uma referência curta e compartilhada para apontar para eles
+- **Relação de poder**: Dá à organização capacidade de classificar e rastrear casos, mas também oferece ao usuário uma referência persistente para cobrar o que foi registrado
+- **Comportamento aproveitado**: Uso de índices e rótulos para reencontrar informação
+- **Comportamento criado**: Solicitar, guardar e informar números de protocolo como parte normal da relação com serviços
+- **Capacidade ampliada**: Rastreabilidade, continuidade entre atendentes e recuperação de histórico
+- **Capacidade reduzida ou deslocada**: Parte da identidade narrativa do caso é substituída por uma chave abstrata no funcionamento interno
+- **Custo invisível**: Atrito quando o identificador se perde e risco de transformar formalização do registro em substituto para resolução
+- **Por que funcionou**: Permite que muitos atores se refiram ao mesmo caso sem depender de memória pessoal ou descrição integral
+- **Consequências inesperadas**: O número pode virar símbolo de burocratização ou, ao contrário, instrumento de controle social quando permite provar que a demanda existe e continua sem resposta
+- **Legado**: Números de pedido, tickets, códigos de rastreamento, IDs de transação e identificadores invisíveis de sistemas digitais
+- **Conceitos relacionados**: [[01 conceitos/Memoria Distribuida|Memória Distribuída]], [[01 conceitos/Redução de Inferências|Redução de Inferências]], [[01 conceitos/Justificabilidade|Justificabilidade]]
+- **Variáveis relacionadas**: [[02 variaveis/Custo Transacional|Custo Transacional]], [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]]
+- **Genealogias**: [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]], [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]]
+- **Família de ideias**: Artefatos de identificação e rastreabilidade
+- **Parentes**: [[03 artefatos/Carimbo|Carimbo]], [[03 artefatos/Login|Login]], número de pedido, código de rastreamento, ticket de suporte
+- **Hipótese central**: O protocolo permite que uma demanda continue sendo reconhecida como a mesma mesmo quando todas as pessoas que lidam com ela mudam
+- **Princípio de design revelado**: Para coordenar entidades através de sistemas extensos, é preciso criar uma referência persistente que sobreviva às interações locais
+- **Destino do artefato**: Permanece visível em serviços formais, mas sua lógica também foi incorporada a identificadores digitais que usuários muitas vezes nunca veem
+- **Perguntas em aberto**: Quanto um identificador deve carregar de significado legível para o usuário e quanto pode permanecer como chave puramente interna sem reduzir sua capacidade de cobrar o sistema?
