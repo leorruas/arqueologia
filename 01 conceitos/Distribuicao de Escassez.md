@@ -2,8 +2,8 @@
 title: "Distribuição de escassez"
 type: "conceito"
 status: "publicado"
-origem: "hipótese-do-projeto"
-grau: "experimental"
+origem: "adaptação"
+grau: "debatido"
 tags:
   - design/conceito
   - arqueologia
@@ -13,7 +13,9 @@ tags:
 
 Uma fila, um concurso, uma triagem médica e um leilão resolvem problemas muito diferentes. Mas todos respondem à mesma pergunta estrutural: **quando não há recurso suficiente para todos ao mesmo tempo, quem recebe primeiro?**
 
-Chamamos de **distribuição de escassez** uma hipótese do projeto para analisar serviços como teorias de prioridade materializadas. A interface não apenas movimenta pessoas ou dados; ela incorpora um critério que torna algumas ordens de atendimento legítimas e outras inaceitáveis.
+Chamamos de **distribuição de escassez** uma adaptação do projeto para analisar serviços como teorias de prioridade materializadas. Ela aproxima tradições já existentes sobre justiça distributiva e procedimental, alocação de recursos e design de serviços, mas lhes dá aqui uma função específica: investigar o critério incorporado no fluxo.
+
+A interface não apenas movimenta pessoas ou dados; ela pode tornar algumas ordens de atendimento legítimas e outras inaceitáveis.
 
 ## Toda fila contém uma teoria de justiça
 
@@ -51,7 +53,7 @@ Sistemas digitais podem esconder a distribuição atrás de ranking, recomendaç
 
 A ausência de uma fila visível não significa ausência de prioridade. Significa que o critério foi incorporado ao sistema.
 
-Essa é uma extensão importante da hipótese: **todo sistema que ordena acesso sob escassez está fazendo uma escolha distributiva**, mesmo quando essa escolha aparece apenas como cálculo técnico.
+Essa é uma extensão interpretativa importante do projeto: **todo sistema que ordena acesso sob escassez está fazendo uma escolha distributiva**, mesmo quando essa escolha aparece apenas como cálculo técnico.
 
 O conceito não diz qual critério é correto. Ele obriga a tornar o critério investigável.
 
@@ -60,9 +62,9 @@ O conceito não diz qual critério é correto. Ele obriga a tornar o critério i
 | Campo | Registro |
 |---|---|
 | **Conceito** | Distribuição de escassez |
-| **Origem** | Hipótese do projeto |
-| **Grau de consolidação** | Experimental |
-| **Formulação associada a** | Arqueologia do Design; diálogo com justiça procedimental, design de serviços e alocação de recursos |
+| **Origem** | Adaptação |
+| **Grau de consolidação** | Debatido; apoia-se em campos consolidados, mas a lente comparativa específica é do projeto |
+| **Formulação associada a** | Arqueologia do Design; justiça distributiva e procedimental, design de serviços e alocação de recursos |
 | **Área principal** | Design de serviços / filosofia política / economia comportamental |
 | **Distinção central** | Otimizar fluxo não é o mesmo que justificar quem recebe um recurso escasso |
 | **O que ajuda a explicar** | Critérios de prioridade incorporados em serviços e interfaces |
@@ -73,4 +75,4 @@ O conceito não diz qual critério é correto. Ele obriga a tornar o critério i
 
 ## Referências
 
-Esta é uma formulação interpretativa do projeto. Sua consolidação deve dialogar com literatura sobre justiça distributiva e procedimental, teoria das filas, triagem, alocação e governança algorítmica sem apresentar essa literatura como origem direta do termo.
+A formulação usada aqui é uma adaptação do projeto. Sua consolidação deve dialogar com literatura sobre justiça distributiva e procedimental, teoria das filas, triagem, alocação e governança algorítmica sem apresentar qualquer uma dessas tradições como origem direta do termo.
