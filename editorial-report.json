@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T23:31:07.030Z",
+  "generatedAt": "2026-09-10T23:31:44.782Z",
   "rule": "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
   "typeDesignRule": "Tipos de design devem funcionar como ensaios disciplinares. Headings do template atual são permitidos; permanecem suspeitos apenas headings enciclopédicos legados.",
   "pathRule": "Percursos devem funcionar como argumentos de leitura e não usar sequência numerada de resumos de artefatos.",
@@ -337,45 +337,9 @@
       ]
     }
   ],
-  "legacyTypeDesignStructureCount": 6,
-  "legacyTypeDesignFileCount": 1,
-  "legacyTypeDesignFiles": [
-    {
-      "sourcePath": "00 tipos de design/Design de IA.md",
-      "items": [
-        {
-          "sourcePath": "00 tipos de design/Design de IA.md",
-          "line": 13,
-          "text": "Origens e surgimento"
-        },
-        {
-          "sourcePath": "00 tipos de design/Design de IA.md",
-          "line": 47,
-          "text": "Evolução e desenvolvimento"
-        },
-        {
-          "sourcePath": "00 tipos de design/Design de IA.md",
-          "line": 53,
-          "text": "Figuras e autores de destaque"
-        },
-        {
-          "sourcePath": "00 tipos de design/Design de IA.md",
-          "line": 57,
-          "text": "Empresas e estúdios de destaque"
-        },
-        {
-          "sourcePath": "00 tipos de design/Design de IA.md",
-          "line": 61,
-          "text": "Artefatos históricos relacionados"
-        },
-        {
-          "sourcePath": "00 tipos de design/Design de IA.md",
-          "line": 66,
-          "text": "Conexões e referências"
-        }
-      ]
-    }
-  ],
+  "legacyTypeDesignStructureCount": 0,
+  "legacyTypeDesignFileCount": 0,
+  "legacyTypeDesignFiles": [],
   "legacyArtifactStructureCount": 0,
   "legacyArtifactFileCount": 0,
   "legacyArtifactFiles": [],
