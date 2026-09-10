@@ -32,6 +32,7 @@ O **Design de IA** (ou Design de Inteligência Artificial) é a vertente do desi
 
 ## Artefatos históricos relacionados
 - [[03 artefatos/Prompt Conversacional|Prompt Conversacional]] — A metainterface de texto livre piscante que substitui controles tradicionais.
+- [[03 artefatos/LLM Wiki|LLM Wiki]] — Base de conhecimento persistente em que um agente LLM mantém sínteses, relações e regras de atualização entre consultas.
 
 ## Conexões e referências
 - **Áreas Correlatas**: [[00 tipos de design/Design de Interface|Design de Interface]], [[00 tipos de design/Design de Servicos|Design de Serviços]]
