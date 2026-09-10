@@ -91,6 +91,8 @@ Isso sugere uma hipótese importante para o projeto: **algumas restrições mate
 | **Período** | Whiteboards comerciais a partir dos anos 1960; difusão muito maior nas décadas de 1980 e 1990 |
 | **Autoria** | Martin Heit e Albert Stallion são nomes frequentemente associados à comercialização inicial, mas a autoria é disputada e existem alegações de precedentes anteriores |
 | **Produto ou contexto** | Escolas, escritórios, salas de reunião, laboratórios e posteriormente softwares colaborativos Categoria: Produto / superfície de escrita / cognição distribuída |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Criar uma superfície vertical reutilizável para escrita e desenho com limpeza mais simples e materiais diferentes do giz |
 | **Mundo antes** | Lousas de giz, ardósia, papel, flipcharts e outras superfícies já permitiam escrita pública e, em alguns casos, apagável |
 | **Invenção** | Autoria não estabelecida com segurança; desenvolvimento distribuído de superfícies brancas apagáveis |
@@ -106,6 +108,8 @@ Isso sugere uma hipótese importante para o projeto: **algumas restrições mate
 | **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória Distribuída]], [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção Boa vs Fricção Ruim]] |
 | **Variáveis relacionadas** | [[02 variaveis/Reversibilidade|Reversibilidade]], [[02 variaveis/Custo do Erro|Custo do Erro]], [[02 variaveis/Permanencia|Permanência]] |
 | **Genealogia** | [[04 genealogias/Reversibilidade e Custo do Erro|Reversibilidade e custo do erro]], [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] Família de ideias: Superfícies de pensamento provisório |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | Quadro de giz, flipchart, [[03 artefatos/Post-it|Post-it]], [[03 artefatos/Undo|Undo]] e whiteboards digitais |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Tornar uma representação fácil de apagar pode torná-la mais fácil de criar Por que funcionou: Combina grande visibilidade coletiva com baixo custo material de corrigir e redesenhar |
 | **Questão em aberto** | O que se perde quando uma superfície criada para ser apagada se transforma num arquivo digital que nunca precisa acabar? |

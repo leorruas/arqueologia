@@ -89,9 +89,11 @@ Um princípio útil não substitui pensamento. Ele tenta preservar uma forma de 
 | **Artefato** | Princípio |
 | **Período** | Muito anterior às organizações modernas; uso deliberado em design e gestão se amplia no século XX e XXI |
 | **Autoria** | Distribuída; sem inventor único |
-| **Produto ou contexto** | Não explicitado na ficha anterior. |
+| **Produto ou contexto** | Ainda não explicitado. |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Orientar decisões em situações que regras e procedimentos não conseguem antecipar completamente |
-| **Mundo antes** | Não explicitado na ficha anterior. |
+| **Mundo antes** | Ainda não explicitado. |
 | **Invenção** | Sem ocorrência única identificável |
 | **Refinamento** | Direito, ética, gestão, arquitetura e design desenvolvem diferentes formas de princípios gerais aplicados a casos concretos |
 | **Popularização** | Códigos profissionais, design principles, leadership principles, metodologias e sistemas de governança |
@@ -101,12 +103,14 @@ Um princípio útil não substitui pensamento. Ele tenta preservar uma forma de 
 | **Comportamento produzido** | Julgar localmente em vez de depender apenas de instruções pré-escritas |
 | **Relação de poder** | Pode distribuir autonomia, mas quem define e interpreta princípios continua influenciando quais decisões são consideradas legítimas |
 | **Consequências inesperadas** | Custo invisível: Ambiguidade, decisões inconsistentes e uso retórico do princípio para justificar escolhas feitas por outros motivos |
-| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
-| **Conceitos relacionados** | Não explicitado na ficha anterior. |
-| **Variáveis relacionadas** | Não explicitado na ficha anterior. |
+| **Destino ou transformação posterior** | Ainda não explicitado. |
+| **Conceitos relacionados** | Ainda não explicitado. |
+| **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | Família de ideias: Artefatos de autodeterminação e escolha |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | valores, credo organizacional, constituição, [[03 artefatos/Manifesto|Manifesto]], [[03 artefatos/Visão|Visão]], guideline, regra |
-| **Princípio de design revelado** | Não explicitado na ficha anterior. |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
+| **Princípio de design revelado** | Ainda não explicitado. |
 | **Questão em aberto** | Como saber se um princípio realmente orienta decisões ou apenas descreve retrospectivamente aquilo que a organização já queria fazer? |
 
 ## Referências

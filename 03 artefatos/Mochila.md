@@ -59,13 +59,14 @@ Isso produz uma pergunta comportamental: quando um recipiente facilita carregar 
 A mochila mostra que portabilidade não é apenas liberdade espacial. É uma negociação entre autonomia e carga.
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Mochila |
 | **Período** | Antecedentes antigos e distribuídos; formas modernas com armação e materiais industriais se refinam nos séculos XIX e XX |
 | **Autoria** | Difusa; sem inventor único |
 | **Produto ou contexto** | Transporte pessoal, trabalho, viagem, escola, atividades militares e recreação |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Transportar carga por distâncias maiores sem ocupar continuamente as mãos |
 | **Mundo antes** | Cestos, sacos, fardos, bolsas e transporte manual |
 | **Invenção** | Não há momento singular; formas de carga nas costas surgem em diversas culturas |
@@ -81,7 +82,9 @@ A mochila mostra que portabilidade não é apenas liberdade espacial. É uma neg
 | **Conceitos relacionados** | [[01 conceitos/Continuidade de Acesso|Continuidade de acesso]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Redução de Inferências|Redução de inferências]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Expectativa de Disponibilidade|Expectativa de disponibilidade]] |
 | **Genealogia** | [[04 genealogias/Portabilidade e Desancoragem|Portabilidade e desancoragem]] |
+| **Percurso(s)** | [[05 percursos/Como o Design Aprendeu a Guardar|Como o Design Aprendeu a Guardar]] |
 | **Parentes** | [[03 artefatos/Bolso|Bolso]], [[03 artefatos/Baú|Baú]], [[03 artefatos/Garrafa de Agua|Garrafa de água]], [[03 artefatos/Guarda-roupa|Guarda-roupa]] |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Portabilidade pode ser criada não removendo peso, mas redesenhando como ele é distribuído pelo corpo |
 | **Questão em aberto** | Quando a capacidade de carregar mais deixa de ampliar autonomia e começa a produzir obrigação de carregar mais? |
 

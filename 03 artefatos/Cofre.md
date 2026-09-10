@@ -87,13 +87,14 @@ O cofre também revela uma tensão da genealogia [[04 genealogias/Permanencia e 
 Isso produz uma pergunta que o baú sozinho não precisava resolver: **como garantir que a memória sobreviva sem transformar sua permanência em disponibilidade indiscriminada?**
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Cofre |
 | **Período** | Antecedentes antigos e medievais em caixas e baús reforçados; consolidação industrial de safes modernos no século XIX |
 | **Autoria** | Distribuída; não existe inventor único do cofre moderno |
 | **Produto ou contexto** | Residências, comércio, bancos, escritórios, instituições e proteção de dinheiro, documentos e objetos valiosos |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Preservar conteúdo não apenas contra dispersão, mas contra acesso não autorizado, fogo e outras ameaças |
 | **Mundo antes** | Baús, caixas, cofres de ferro, esconderijos, fechaduras e guarda pessoal |
 | **Invenção** | Não há uma invenção singular; o cofre moderno emerge de refinamentos sucessivos em recipientes reforçados, fireproofing e mecanismos de acesso |
@@ -109,7 +110,9 @@ Isso produz uma pergunta que o baú sozinho não precisava resolver: **como gara
 | **Conceitos relacionados** | [[01 conceitos/Tecnologias de Delimitacao|Tecnologias de delimitação]], [[01 conceitos/Continuidade de Acesso|Continuidade de acesso]], [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção boa vs fricção ruim]] |
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Custo do Erro|Custo do erro]] |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]]; relação funcional com [[04 genealogias/Limiares e Delimitacao|Limiares e delimitação]] |
+| **Percurso(s)** | [[05 percursos/Como o Design Aprendeu a Guardar|Como o Design Aprendeu a Guardar]] |
 | **Parentes** | [[03 artefatos/Baú|Baú]], [[03 artefatos/Login|Login]], [[03 artefatos/Tela de Login|Tela de login]], [[03 artefatos/Crachá|Crachá]] |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Segurança é o projeto de uma fronteira que precisa permanecer atravessável para quem pode entrar e resistente para quem não pode |
 | **Questão em aberto** | Quanto de fricção um sistema pode adicionar em nome da proteção antes que passe a impedir o acesso legítimo ao que deveria preservar? |
 

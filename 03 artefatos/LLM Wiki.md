@@ -105,13 +105,14 @@ Talvez esse seja o passo mais importante da genealogia [[04 genealogias/Permanen
 A pergunta deixa de ser apenas “como guardar conhecimento?”. Passa a ser: **quando a memória externa começa a editar a si mesma, quem passa a ser responsável pelo que ela acredita saber?**
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | LLM Wiki |
 | **Período** | Formulação pública identificável em abril de 2026; experimentação e refinamento em curso |
 | **Autoria** | Andrej Karpathy é o formulador e principal popularizador identificável do padrão chamado LLM Wiki; os componentes e antecedentes são distribuídos e muito anteriores |
 | **Produto ou contexto** | Padrão de arquitetura e workflow para bases de conhecimento mantidas por agentes LLM |
+| **Tipo(s) de design** | [[00 tipos de design/Design de Interface|Design de interface]] |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | O custo de manter uma base de conhecimento estruturada e a necessidade de reconstruir sínteses quando consultas partem repetidamente de fontes brutas |
 | **Mundo antes** | Arquivos e notas manuais, wikis mantidas por pessoas, busca documental, sistemas de recuperação/RAG e bases persistentes consultadas por assistentes |
 | **Invenção** | Não há evidência de que Karpathy tenha inventado bases auto-organizadas por IA em sentido amplo; sua contribuição identificável é a formulação pública deste padrão específico de fontes brutas + wiki persistente + schema |
@@ -127,7 +128,9 @@ A pergunta deixa de ser apenas “como guardar conhecimento?”. Passa a ser: **
 | **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Investigação|Investigação]], [[01 conceitos/Justificabilidade|Justificabilidade]] |
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Reversibilidade|Reversibilidade]] |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] |
+| **Percurso(s)** | [[05 percursos/Como o Design Aprendeu a Guardar|Como o Design Aprendeu a Guardar]] |
 | **Parentes** | [[03 artefatos/Prompt Conversacional|Prompt conversacional]], [[03 artefatos/Botao Salvar|Botão salvar]], [[03 artefatos/Archive|Archive]], [[03 artefatos/Checklist|Checklist]], [[03 artefatos/Pergunta|Pergunta]]; Memex, WikiWikiWeb, RAG, Gemini Enterprise Projects e Gemini Notebook Enterprise como antecedentes ou parentes ainda sem estudo próprio no vault |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Persistir a síntese pode reduzir o custo da próxima investigação, mas transforma manutenção da memória em uma questão de governança |
 | **Questão em aberto** | Como impedir que uma interpretação probabilística, depois de incorporada à memória persistente, se fossilize como fato para todas as consultas seguintes? |
 

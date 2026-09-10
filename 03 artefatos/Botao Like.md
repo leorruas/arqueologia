@@ -87,6 +87,8 @@ Essa estrutura aparece hoje em corações, estrelas, upvotes, reações, favorit
 | **Período** | Precedentes em 2005–2007; lançamento do Facebook em 2009; expansão posterior |
 | **Autoria** | Equipes de Vimeo e FriendFeed em implementações anteriores; no Facebook, Leah Pearlman, Justin Rosenstein, Andrew Bosworth, Akhil Wable, Jared Morgenstern, Jonathan Pines, Tom Whitnah e outros participantes de produto, design e engenharia |
 | **Produto ou contexto** | Plataformas sociais e de mídia; Facebook a partir de 2009 Categoria: Interface digital / feedback social / sinal de dados |
+| **Tipo(s) de design** | [[00 tipos de design/Design de Interface|Design de interface]] |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Permitir que usuários expressem aprovação ou presença sem precisar escrever comentários redundantes ou mínimos |
 | **Mundo antes** | Comentários, votos, estrelas e outros sinais de aprovação exigiam formatos diferentes e, muitas vezes, maior esforço |
 | **Invenção** | Não há inventor único da categoria; Vimeo tinha Like em 2005 e FriendFeed em 2007 |
@@ -102,6 +104,8 @@ Essa estrutura aparece hoje em corações, estrelas, upvotes, reações, favorit
 | **Conceitos relacionados** | [[01 conceitos/Economia da Atencao|Economia da Atenção]], [[01 conceitos/Recompensa Variavel|Recompensa Variável]], [[01 conceitos/Compressao do Esforco|Compressão do Esforço]], [[01 conceitos/Redução de Inferências|Redução de Inferências]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo Transacional|Custo Transacional]], [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Friccao|Fricção]] |
 | **Genealogia** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]], [[04 genealogias/Compressao do Esforco|Compressão do esforço]] Família de ideias: Sinais sociais comprimidos |
+| **Percurso(s)** | [[05 percursos/Da Parede ao Feed|Da Parede ao Feed]] |
 | **Parentes** | [[03 artefatos/Infinite Scroll|Infinite Scroll]], reações, coração/favorito, estrela, upvote, aplauso como parentesco comportamental |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Reduzir o custo de uma expressão pode aumentar sua frequência e transformar seu rastro em nova infraestrutura do sistema Por que funcionou: Resolve uma necessidade social frequente com esforço quase nulo e feedback imediatamente compreensível |
 | **Questão em aberto** | Quanto da força histórica do Like vem da facilidade para o usuário e quanto vem do valor que o sinal padronizado produz para quem controla a plataforma? |

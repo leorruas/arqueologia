@@ -93,9 +93,11 @@ Seu melhor resultado talvez não seja eliminar conflito. É fazer com que o conf
 | **Artefato** | Matriz RACI |
 | **Período** | Linhagens de matrizes de responsabilidade se desenvolvem no século XX; origem específica do acrônimo RACI permanece incerta |
 | **Autoria** | Difusa; não há inventor único confiavelmente documentado |
-| **Produto ou contexto** | Não explicitado na ficha anterior. |
+| **Produto ou contexto** | Ainda não explicitado. |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Reduzir ambiguidade sobre quem executa, responde, deve ser consultado ou informado em cada atividade ou entrega |
-| **Mundo antes** | Não explicitado na ficha anterior. |
+| **Mundo antes** | Ainda não explicitado. |
 | **Invenção** | Sem ocorrência única estabelecida; deriva de práticas mais amplas de responsibility charting e responsibility assignment matrices |
 | **Refinamento** | Consolidação das quatro categorias R, A, C e I e incorporação a métodos de gestão de projetos e governança |
 | **Popularização** | Gestão de projetos, consultorias, governança, tecnologia e organizações matriciais |
@@ -105,12 +107,14 @@ Seu melhor resultado talvez não seja eliminar conflito. É fazer com que o conf
 | **Comportamento produzido** | Negociar antecipadamente execução, decisão, consulta e comunicação em torno das entregas |
 | **Relação de poder** | Pode distribuir autonomia ou apenas tornar hierarquias existentes mais explícitas; quem define o Accountable define onde está a palavra final |
 | **Consequências inesperadas** | Custo invisível: Rigidez, manutenção da matriz, falsa clareza diante de influência informal e uso defensivo para transferir culpa |
-| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
-| **Conceitos relacionados** | Não explicitado na ficha anterior. |
-| **Variáveis relacionadas** | Não explicitado na ficha anterior. |
+| **Destino ou transformação posterior** | Ainda não explicitado. |
+| **Conceitos relacionados** | Ainda não explicitado. |
+| **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | Família de ideias: Artefatos de autorização e coordenação |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | organograma, matriz de decisão, alçadas, [[03 artefatos/Kanban|Kanban]], [[03 artefatos/Workshop|Workshop]], [[03 artefatos/Princípio|Princípio]] |
-| **Princípio de design revelado** | Não explicitado na ficha anterior. |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
+| **Princípio de design revelado** | Ainda não explicitado. |
 | **Questão em aberto** | Quanto de responsabilidade precisa ser definido antecipadamente antes que a clareza comece a destruir a colaboração adaptativa? |
 
 ## Referências

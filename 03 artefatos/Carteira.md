@@ -65,13 +65,14 @@ A carteira digital intensifica a [[01 conceitos/Continuidade de Acesso|continuid
 Isso revela uma transformação maior da portabilidade: **carregar deixa de significar possuir fisicamente e passa cada vez mais a significar conseguir provar, sob demanda, uma relação com algo que está em outro lugar**.
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Carteira |
 | **Período** | Antecedentes distribuídos em bolsas, porta-moedas e pocketbooks; forma moderna transformada profundamente pela expansão dos cartões no século XX |
 | **Autoria** | Difusa; sem inventor único |
 | **Produto ou contexto** | Vida cotidiana, pagamentos, identidade, transporte e acesso a serviços |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Reunir e transportar pequenos objetos valiosos, documentos e meios de pagamento de forma recuperável |
 | **Mundo antes** | Objetos soltos em bolsas, bolsos, caixas ou recipientes separados |
 | **Invenção** | Não há momento único; pequenos recipientes portáteis para dinheiro e papéis têm longa história |
@@ -87,7 +88,9 @@ Isso revela uma transformação maior da portabilidade: **carregar deixa de sign
 | **Conceitos relacionados** | [[01 conceitos/Continuidade de Acesso|Continuidade de acesso]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Tecnologias de Delimitacao|Tecnologias de delimitação]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Expectativa de Disponibilidade|Expectativa de disponibilidade]], [[02 variaveis/Custo do Erro|Custo do erro]] |
 | **Genealogia** | [[04 genealogias/Portabilidade e Desancoragem|Portabilidade e desancoragem]] |
+| **Percurso(s)** | [[05 percursos/Como o Design Aprendeu a Guardar|Como o Design Aprendeu a Guardar]] |
 | **Parentes** | [[03 artefatos/Bolso|Bolso]], [[03 artefatos/Crachá|Crachá]], [[03 artefatos/Cartao de Embarque|Cartão de embarque]] |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Portabilidade pode deslocar-se do transporte do recurso para o transporte de credenciais reconhecidas por infraestruturas externas |
 | **Questão em aberto** | Quando nossa capacidade cotidiana depende de credenciais concentradas numa carteira física ou digital, quem controla de fato essa capacidade: quem carrega ou quem valida? |
 

@@ -89,9 +89,11 @@ Talvez o prompt conversacional não seja o fim da interface gráfica. Seja um no
 | **Artefato** | Prompt conversacional |
 | **Período** | Antecedentes em comandos, busca e conversação computacional; popularização massiva com interfaces de LLM a partir de 2022 |
 | **Autoria** | Distribuída; não há inventor único do prompt conversacional contemporâneo |
-| **Produto ou contexto** | Não explicitado na ficha anterior. |
+| **Produto ou contexto** | Ainda não explicitado. |
+| **Tipo(s) de design** | [[00 tipos de design/Design de Interface|Design de interface]] |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Permitir especificar uma variedade grande de intenções sem antecipá-las todas em controles fixos |
-| **Mundo antes** | Não explicitado na ficha anterior. |
+| **Mundo antes** | Ainda não explicitado. |
 | **Invenção** | Entrada textual e diálogo computacional antecedem LLMs |
 | **Refinamento** | Modelos capazes de seguir instruções e manter interação contextual em múltiplos turnos |
 | **Popularização** | ChatGPT e outras interfaces generativas a partir de 2022 |
@@ -101,12 +103,14 @@ Talvez o prompt conversacional não seja o fim da interface gráfica. Seja um no
 | **Comportamento produzido** | Iterar com software por diálogo, desenvolver repertórios de prompting e validar saídas probabilísticas |
 | **Relação de poder** | Amplia liberdade de formulação do usuário, mas concentra interpretação e geração numa infraestrutura opaca e probabilística |
 | **Consequências inesperadas** | Custo invisível: Ansiedade diante da caixa vazia, esforço de formulação, imprevisibilidade e necessidade contínua de validar respostas plausíveis |
-| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
+| **Destino ou transformação posterior** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Formulação|Formulação]], [[01 conceitos/Antropomorfismo|Antropomorfismo]], [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção boa vs fricção ruim]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]] |
-| **Variáveis relacionadas** | Não explicitado na ficha anterior. |
-| **Genealogia** | Não explicitado na ficha anterior. |
+| **Variáveis relacionadas** | Ainda não explicitado. |
+| **Genealogia** | Ainda não explicitado. |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | interface de linha de comando, barra de busca, ELIZA, [[03 artefatos/Brief|Brief]], [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Mascote|Mascote]] |
-| **Princípio de design revelado** | Não explicitado na ficha anterior. |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
+| **Princípio de design revelado** | Ainda não explicitado. |
 | **Questão em aberto** | Quanto da liberdade do prompt continuará aberta quando interfaces generativas amadurecerem e voltarem a incorporar estruturas visíveis para reduzir ambiguidade? |
 
 ## Referências

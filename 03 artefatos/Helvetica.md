@@ -94,6 +94,8 @@ Talvez esse seja o paradoxo mais forte da Helvetica: sua permanência depende de
 | **Período** | 1957 aos dias atuais |
 | **Autoria** | [[autores/Max Miedinger|Max Miedinger]], Eduard Hoffmann, equipes da [[empresas/Haas Type Foundry|Haas Type Foundry]], Stempel e [[empresas/Linotype|Linotype]]; equipes posteriores da Monotype |
 | **Produto ou contexto** | Neue Haas Grotesk, depois Helvetica; identidades, sinalização, publicidade, embalagens, impressos e sistemas digitais Categoria: Tipografia / sistema visual |
+| **Tipo(s) de design** | [[00 tipos de design/Tipografia|Tipografia]] |
+| **Empresas ou instituições relacionadas** | [[empresas/Haas Type Foundry|Haas Type Foundry]], [[empresas/Linotype|Linotype]] |
 | **Problema original** | Criar para a Haas uma nova grotesca contemporânea capaz de competir no mercado de sans serifs e atender ao ambiente gráfico suíço do período |
 | **Mundo antes** | Grotescas do século XIX e início do XX, especialmente Akzidenz-Grotesk e outras famílias já amplamente utilizadas |
 | **Invenção** | Neue Haas Grotesk, desenvolvida por Miedinger e Hoffmann e apresentada em 1957 |
@@ -109,6 +111,8 @@ Talvez esse seja o paradoxo mais forte da Helvetica: sua permanência depende de
 | **Conceitos relacionados** | [[01 conceitos/Design Systems|Design Systems]], [[01 conceitos/Redução de Inferências|Redução de Inferências]] |
 | **Variáveis relacionadas** | [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]], [[02 variaveis/Atencao|Atenção]] |
 | **Genealogia** | [[04 genealogias/Compressao do Esforco|Compressão do esforço]] Família de ideias: Artefatos de padronização e neutralização visual |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | Akzidenz-Grotesk, [[03 artefatos/Grid|Grid]], Arial como parente funcional e métrico, outras grotescas e neo-grotescas |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Uma convenção visual pode ganhar poder justamente quando deixa de ser percebida como decisão Por que funcionou: Qualidade do desenho combinada a um ambiente modernista favorável, expansão de família, adaptação técnica e forte infraestrutura de distribuição |
 | **Questão em aberto** | Quando uma forma se torna tão familiar que deixa de ser percebida como estilo, quem ganha poder para definir o que parece “neutro”? |

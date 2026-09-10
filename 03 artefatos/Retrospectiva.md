@@ -120,6 +120,8 @@ A retrospectiva é uma dessas condições materializadas no calendário.
 | **Período** | Práticas de debriefing e revisão são anteriores; AAR militar formalizada especialmente nas décadas de 1970 e 1980; Sprint Retrospective popularizada com Scrum desde os anos 1990 |
 | **Autoria** | Múltiplas tradições; S. L. A. Marshall e posteriormente estruturas do U.S. Army na história da AAR; Ken Schwaber e Jeff Sutherland no Scrum; Esther Derby e Diana Larsen na sistematização de retrospectivas ágeis |
 | **Produto ou contexto** | Treinamento militar, projetos, desenvolvimento de software, operações e equipes de trabalho Categoria: Processo / reflexão coletiva / aprendizagem organizacional |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Criar oportunidade recorrente de aprender com experiência recente antes que problemas se acumulem até o encerramento ou fracasso final |
 | **Mundo antes** | Revisões posteriores, debriefings, críticas e post-mortems já existiam; a mudança está em integrar ciclos frequentes de reflexão ao próprio processo de trabalho |
 | **Invenção** | Não há inventor único da reflexão pós-ação; diferentes tradições desenvolveram formas próprias |
@@ -135,6 +137,8 @@ A retrospectiva é uma dessas condições materializadas no calendário.
 | **Conceitos relacionados** | [[01 conceitos/Servico de Reflexao|Serviço de Reflexão]], [[01 conceitos/Memoria Distribuida|Memória Distribuída]], [[01 conceitos/Autodeterminação|Autodeterminação]], [[01 conceitos/Justica Procedimental|Justiça Procedimental]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo do Erro|Custo do Erro]], [[02 variaveis/Legitimidade Decisoria|Legitimidade Decisória]], [[02 variaveis/Custo Transacional|Custo Transacional]] |
 | **Genealogia** | [[04 genealogias/Reversibilidade e Custo do Erro|Reversibilidade e custo do erro]], [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]], [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] Família de ideias: Artefatos de reflexão e aprendizagem recorrente |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | After Action Review, debriefing, post-mortem, diário, supervisão, [[03 artefatos/Workshop|Workshop]], [[03 artefatos/Checklist|Checklist]] |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Aprendizagem contínua precisa de um lugar recorrente no processo; depender apenas de boa intenção faz a urgência ocupar todo o tempo disponível Por que funcionou: Cria cadência curta entre ação, interpretação e nova tentativa, permitindo que aprendizagem retorne ao sistema |
 | **Questão em aberto** | Como manter uma retrospectiva capaz de produzir mudança depois que o próprio ritual já se tornou perfeitamente previsível? |

@@ -76,13 +76,14 @@ A decisão de design parece pequena: escrever uma sequência e exigir uma confir
 A hipótese central pode então ser formulada assim: **confiabilidade não exige heróis com memória perfeita; exige sistemas que saibam onde a memória humana não deve ser o único ponto de falha**.
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Checklist |
 | **Período** | Listas são antigas; checklist operacional moderno consolidado na aviação dos anos 1930 e posteriormente difundido em outras áreas |
 | **Autoria** | Não há inventor identificável da lista; equipes de aviação institucionalizaram o checklist operacional, e a checklist cirúrgica da OMS foi desenvolvida por colaboração internacional sob liderança de Atul Gawande |
 | **Produto ou contexto** | Aviação, cirurgia, manutenção, auditoria, engenharia e operações digitais |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Impedir que etapas simples e críticas sejam omitidas em sistemas cuja complexidade torna arriscado depender apenas da memória individual |
 | **Mundo antes** | Listas e procedimentos já existiam, mas muitas operações dependiam mais fortemente de treinamento, hábito e memória do especialista |
 | **Invenção** | Não há uma invenção única do formato; a aviação dos anos 1930 é um marco documentado de sua institucionalização como instrumento operacional de segurança |
@@ -98,7 +99,9 @@ A hipótese central pode então ser formulada assim: **confiabilidade não exige
 | **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção boa vs fricção ruim]], [[01 conceitos/Justificabilidade|Justificabilidade]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo do Erro|Custo do erro]], [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]] |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]], [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]], [[04 genealogias/Reversibilidade e Custo do Erro|Reversibilidade e custo do erro]] |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | [[03 artefatos/Undo|Undo]], [[03 artefatos/Carimbo|Carimbo]], receita, roteiro, procedimento operacional padrão, wizard e fluxograma |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Quando a consequência de esquecer é grande, o ambiente deve lembrar junto com a pessoa |
 | **Questão em aberto** | Como desenhar uma checklist que continue provocando atenção real depois que seus itens se tornaram rotina? |
 

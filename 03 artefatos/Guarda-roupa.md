@@ -59,13 +59,14 @@ O guarda-roupa fica, então, num ponto intermediário importante da arqueologia 
 A pergunta em aberto é quase doméstica demais para parecer teórica: quando cada coisa ganha seu lugar, **o espaço está servindo aos nossos hábitos ou nossos hábitos começam a servir ao espaço?**
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Guarda-roupa |
 | **Período** | Formas distribuídas ao longo de séculos; exemplos documentados em diferentes culturas pelo menos desde a Idade Moderna |
 | **Autoria** | Difusa; sem inventor único |
 | **Produto ou contexto** | Mobiliário doméstico, armazenamento de roupas, tecidos e bens pessoais |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Guardar roupas e objetos de modo que possam ser separados, protegidos e reencontrados |
 | **Mundo antes** | Baús, arcas, ganchos, prateleiras e outros recipientes ou superfícies de armazenamento |
 | **Invenção** | Não há momento único; armários fechados e móveis de armazenamento surgem em diferentes tradições |
@@ -81,7 +82,9 @@ A pergunta em aberto é quase doméstica demais para parecer teórica: quando ca
 | **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Redução de Inferências|Redução de inferências]], [[01 conceitos/Tecnologias de Delimitacao|Tecnologias de delimitação]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]], [[02 variaveis/Permanencia|Permanência]] |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] |
+| **Percurso(s)** | [[05 percursos/Como o Design Aprendeu a Guardar|Como o Design Aprendeu a Guardar]] |
 | **Parentes** | [[03 artefatos/Baú|Baú]], [[03 artefatos/Archive|Archive]]; gaveta, closet, pasta e diretório como parentes ainda sem estudo próprio |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Armazenamento se torna mais recuperável quando o recipiente incorpora uma arquitetura de classificação |
 | **Questão em aberto** | Quanto de disciplina comportamental é necessário para que uma estrutura externa de organização continue reduzindo busca? |
 

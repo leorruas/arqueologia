@@ -77,13 +77,14 @@ O resultado é uma forma peculiar de posse. Dizemos “meu arquivo” mesmo quan
 Por isso, a pergunta arqueológica que a nuvem produz é menos tecnológica do que política: **quando um objeto pode estar disponível em toda parte sem estar fisicamente conosco, o que significa realmente possuir aquilo que guardamos?**
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Arquivo em nuvem |
 | **Período** | Antecedentes em armazenamento remoto e redes; modelo contemporâneo de cloud computing consolidado no fim dos anos 2000 e início dos 2010 |
 | **Autoria** | Distribuída; não há inventor único do arquivo em nuvem |
 | **Produto ou contexto** | Armazenamento remoto, sincronização de documentos, cloud computing e serviços digitais |
+| **Tipo(s) de design** | [[00 tipos de design/Design de Interface|Design de interface]] |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Manter arquivos acessíveis entre lugares e dispositivos sem transportar fisicamente o mesmo suporte de armazenamento |
 | **Mundo antes** | Discos locais, disquetes, CDs, pendrives, anexos, servidores e outras formas de transferência ou acesso remoto |
 | **Invenção** | Não há momento singular; armazenamento remoto e redes precedem o modelo contemporâneo de cloud computing |
@@ -99,7 +100,9 @@ Por isso, a pergunta arqueológica que a nuvem produz é menos tecnológica do q
 | **Conceitos relacionados** | [[01 conceitos/Continuidade de Acesso|Continuidade de acesso]], [[01 conceitos/Redução de Inferências|Redução de inferências]], [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Tecnologia de Acesso|Tecnologia de acesso]] |
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Expectativa de Disponibilidade|Expectativa de disponibilidade]], [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Custo de Busca|Custo de busca]] |
 | **Genealogia** | [[04 genealogias/Portabilidade e Desancoragem|Portabilidade e desancoragem]]; [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] |
+| **Percurso(s)** | [[05 percursos/Como o Design Aprendeu a Guardar|Como o Design Aprendeu a Guardar]] |
 | **Parentes** | [[03 artefatos/Bolso|Bolso]], [[03 artefatos/Carteira|Carteira]], [[03 artefatos/Banco de dados|Banco de dados]], [[03 artefatos/Botao Salvar|Botão salvar]], [[03 artefatos/Cofre|Cofre]] |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Uma capacidade pode tornar-se portátil não porque o recurso viaja, mas porque a infraestrutura torna sua localização física irrelevante para a interação cotidiana |
 | **Questão em aberto** | O que significa posse quando aquilo que chamamos de “meu arquivo” depende continuamente de credenciais, contratos e infraestrutura administrada por terceiros? |
 

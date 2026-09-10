@@ -73,6 +73,8 @@ Há, portanto, uma diferença entre **desenhar a fila** e **resolver o gargalo**
 | **Período** | Origem indeterminada; forma urbana moderna documentada pelo menos desde o fim do século XVIII e início do XIX |
 | **Autoria** | Emergência social coletiva, sem inventor conhecido |
 | **Produto ou contexto** | Comércio, transportes, bancos, repartições, eventos, serviços públicos e sistemas digitais Categoria: Serviço / coordenação social / organização espacial |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Distribuir acesso quando várias pessoas desejam um recurso que não pode atender todas simultaneamente |
 | **Mundo antes** | Diversas regras locais de prioridade; o “amontoado” é um contraste possível, não um estágio universal anterior |
 | **Invenção** | Sem primeira implementação identificável |
@@ -88,6 +90,8 @@ Há, portanto, uma diferença entre **desenhar a fila** e **resolver o gargalo**
 | **Conceitos relacionados** | [[01 conceitos/Justica Procedimental|Justiça Procedimental]], [[01 conceitos/Distribuicao de Escassez|Distribuição de Escassez]], [[01 conceitos/Limiares|Limiares]], [[01 conceitos/Tecnologia de Acesso|Tecnologia de Acesso]] |
 | **Variáveis relacionadas** | [[02 variaveis/Justica|Justiça]], [[02 variaveis/Legitimidade Decisoria|Legitimidade Decisória]], [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Custo Transacional|Custo Transacional]] |
 | **Genealogia** | [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]], [[04 genealogias/Acesso e Disponibilidade|Acesso e disponibilidade]] Família de ideias: Tecnologias de distribuição de escassez |
+| **Percurso(s)** | [[05 percursos/Da Espera a Sincronizacao|Da Espera a Sincronizacao]] |
 | **Parentes** | Senha numerada, [[03 artefatos/Agendamento|Agendamento]], [[03 artefatos/Tela de Login|Tela de Login]], FIFO em computação; [[03 artefatos/Pôster|Pôster]] como comparação entre diagramação de corpos e diagramação do olhar |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Tornar uma regra de distribuição legível pode aumentar sua legitimidade mesmo sem aumentar a quantidade do recurso distribuído Por que funcionou: Converte uma regra abstrata de prioridade em uma ordem espacial imediatamente legível |
 | **Questão em aberto** | Quando melhorar a experiência da fila deixa de ser cuidado com o usuário e passa a mascarar um problema de capacidade que deveria ser resolvido? |

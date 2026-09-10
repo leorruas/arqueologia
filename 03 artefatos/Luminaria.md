@@ -52,6 +52,8 @@ O produto não precisa criar uma nova função para mudar o comportamento. Pode 
 | **Período** | Antecedentes em lamparinas antigas; luminária elétrica doméstica consolidada entre o fim do século XIX e o século XX |
 | **Autoria** | Evolução distribuída entre artesãos, fabricantes, engenheiros, arquitetos e designers; sem inventor único adequado |
 | **Produto ou contexto** | Lamparinas, abajures, luminárias de mesa, piso, parede, leitura e tarefa |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Tornar atividades possíveis em locais ou horários com iluminação insuficiente |
 | **Mundo antes** | Maior dependência de luz natural ou de fontes luminosas centrais e coletivas |
 | **Invenção** | Conter e posicionar uma fonte de luz perto de uma atividade |
@@ -67,6 +69,8 @@ O produto não precisa criar uma nova função para mudar o comportamento. Pode 
 | **Conceitos relacionados** | atenção, figura e fundo, ritual, limiar temporal, ergonomia visual, atmosfera e focalização |
 | **Variáveis relacionadas** | direção, intensidade, alcance, temperatura, contraste, duração e posição |
 | **Genealogia** | fogo controlado → lamparina → iluminação a gás/elétrica → luminária de tarefa → iluminação regulável e inteligente |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | câmera fotográfica, moldura, palco, holofote, cursor, lanterna e projetor |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Controlar visibilidade é uma forma de controlar atenção, atividade e significado espacial |
 | **Questão em aberto** | Quanto da organização contemporânea do trabalho depende de termos tornado a noite projetável? |

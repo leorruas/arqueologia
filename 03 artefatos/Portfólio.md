@@ -73,9 +73,11 @@ Em vez de perguntar apenas “qual título você possui?”, permite perguntar �
 | **Artefato** | Portfólio |
 | **Período** | Práticas de apresentar trabalhos são antigas; o termo como recipiente para papéis aparece no início do século XVIII e o uso profissional se consolida posteriormente |
 | **Autoria** | Distribuída; não há inventor único |
-| **Produto ou contexto** | Não explicitado na ficha anterior. |
+| **Produto ou contexto** | Ainda não explicitado. |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Tornar trabalho, capacidade e trajetória examináveis fora da presença imediata de quem os produziu |
-| **Mundo antes** | Não explicitado na ficha anterior. |
+| **Mundo antes** | Ainda não explicitado. |
 | **Invenção** | Emerge de práticas de reunir e transportar desenhos, documentos e amostras de trabalho |
 | **Refinamento** | Curadoria, descrição de casos, documentação de processo e formatos digitais |
 | **Popularização** | Arte, arquitetura, publicidade, design, fotografia e outras profissões criativas |
@@ -85,12 +87,14 @@ Em vez de perguntar apenas “qual título você possui?”, permite perguntar �
 | **Comportamento produzido** | Documentar, selecionar e narrar o próprio trabalho como parte da vida profissional |
 | **Relação de poder** | Pode reduzir dependência de credenciais formais, mas transfere ao indivíduo a obrigação de curar e promover continuamente sua própria produção |
 | **Consequências inesperadas** | Custo invisível: Autopromoção permanente, ocultação de fracassos e incentivo a privilegiar projetos fáceis de representar |
-| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
-| **Conceitos relacionados** | Não explicitado na ficha anterior. |
-| **Variáveis relacionadas** | Não explicitado na ficha anterior. |
-| **Genealogia** | Não explicitado na ficha anterior. |
+| **Destino ou transformação posterior** | Ainda não explicitado. |
+| **Conceitos relacionados** | Ainda não explicitado. |
+| **Variáveis relacionadas** | Ainda não explicitado. |
+| **Genealogia** | Ainda não explicitado. |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | currículo, diário de projeto, repositório de código, histórico de versões, case study |
-| **Princípio de design revelado** | Não explicitado na ficha anterior. |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
+| **Princípio de design revelado** | Ainda não explicitado. |
 | **Questão em aberto** | Como um portfólio pode tornar visíveis competências relacionais, processuais e coletivas sem falsificar autoria individual? |
 
 ## Referências

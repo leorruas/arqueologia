@@ -107,6 +107,8 @@ Aqui reaparece uma regra recorrente do projeto: **reduzir fricção não reduz n
 | **Período** | Práticas de compromissos são antigas; sistemas de appointments em serviços modernos desenvolveram-se gradualmente e foram amplamente padronizados no século XX |
 | **Autoria** | Sem inventor único; evolução distribuída entre profissões, organizações e sistemas administrativos |
 | **Produto ou contexto** | Consultórios, serviços profissionais, transportes, repartições, reservas e plataformas digitais Categoria: Design de serviços / coordenação temporal / acesso |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Reduzir incerteza e espera produzidas quando várias pessoas disputam uma capacidade que só existe em determinados momentos |
 | **Mundo antes** | Horários gerais de atendimento, comparecimento espontâneo, visitas negociadas individualmente e filas coexistiam com diversas formas de compromisso temporal |
 | **Invenção** | Não há ponto único documentado; diferentes serviços desenvolveram formas de reservar capacidade antecipadamente |
@@ -122,6 +124,8 @@ Aqui reaparece uma regra recorrente do projeto: **reduzir fricção não reduz n
 | **Conceitos relacionados** | [[01 conceitos/Sincronizacao|Sincronização]], [[01 conceitos/Tecnologia de Acesso|Tecnologia de Acesso]], [[01 conceitos/Distribuicao de Escassez|Distribuição de Escassez]] |
 | **Variáveis relacionadas** | [[02 variaveis/Atrito Decisorio|Atrito Decisório]], [[02 variaveis/Justica|Justiça]], [[02 variaveis/Expectativa de Disponibilidade|Expectativa de Disponibilidade]], [[02 variaveis/Custo Transacional|Custo Transacional]] |
 | **Genealogia** | [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]], [[04 genealogias/Acesso e Disponibilidade|Acesso e disponibilidade]] Família de ideias: Tecnologias de pré-alocação de capacidade |
+| **Percurso(s)** | [[05 percursos/Da Espera a Sincronizacao|Da Espera a Sincronizacao]] |
 | **Parentes** | [[03 artefatos/Fila|Fila]], [[03 artefatos/Calendário|Calendário]] |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Escassez pode ser coordenada antes do encontro quando o sistema consegue representar capacidade futura como unidades reserváveis Por que funcionou: Converte capacidade futura em unidades reserváveis e desloca parte da espera do espaço físico para a organização antecipada |
 | **Questão em aberto** | Quando automatizar o agendamento aumenta autonomia e quando apenas torna mais eficiente a ocupação do tempo de uma pessoa por demandas externas? |

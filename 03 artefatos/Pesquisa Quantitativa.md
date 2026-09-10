@@ -88,13 +88,14 @@ Por isso, números deveriam aumentar a capacidade de contestar uma hipótese, n�
 O melhor uso da pesquisa quantitativa talvez não seja transformar pessoas em percentuais. É criar uma linguagem comum para perguntar: **isso que observamos em alguns casos é amplo, raro, concentrado, crescente ou diferente do que imaginávamos?**
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Pesquisa quantitativa |
 | **Período** | Desenvolvimento distribuído ao longo de séculos em censos, estatística, demografia e ciências sociais; ampla incorporação a pesquisa de mercado, produto e UX no século XX e XXI |
 | **Autoria** | Distribuída; não há inventor único |
 | **Produto ou contexto** | Censos, surveys, experimentos, analytics, pesquisa de mercado, product analytics e UX Research |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Comparar casos e inferir padrões, distribuição ou relações que não são observáveis com segurança a partir de poucos casos individuais |
 | **Mundo antes** | Registros administrativos, descrições de casos, observação e contagens locais sem instrumentos ou categorias necessariamente comparáveis |
 | **Invenção** | Não há momento único; diferentes tradições desenvolveram técnicas de contagem, amostragem, medição e inferência |
@@ -110,7 +111,9 @@ O melhor uso da pesquisa quantitativa talvez não seja transformar pessoas em pe
 | **Conceitos relacionados** | [[01 conceitos/Investigação|Investigação]], [[01 conceitos/Justificabilidade|Justificabilidade]], [[01 conceitos/Formulacao|Formulação]], [[01 conceitos/Distribuicao de Escassez|Distribuição de escassez]] |
 | **Variáveis relacionadas** | [[02 variaveis/Variabilidade|Variabilidade]], [[02 variaveis/Justica|Justiça]], [[02 variaveis/Legitimidade Decisoria|Legitimidade decisória]] |
 | **Genealogia** | Artefatos de investigação, medição e comparação |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | [[03 artefatos/Entrevista Qualitativa|Entrevista qualitativa]], [[03 artefatos/Pergunta de Pesquisa|Pergunta de pesquisa]], [[03 artefatos/Customer Journey Map|Customer Journey Map]], [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], questionário, censo e dashboard |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Tornar algo mensurável aumenta sua comparabilidade e governabilidade, mas toda medida depende de categorias que precisam continuar abertas à crítica |
 | **Questão em aberto** | Como combinar escala e comparabilidade sem deixar que a facilidade de medir determine quais experiências merecem existir na investigação? |
 

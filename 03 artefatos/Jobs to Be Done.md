@@ -98,13 +98,14 @@ Ele cria uma espécie de espaço negativo em torno do produto. Ao dizer o que pr
 Talvez seja por isso que uma boa formulação de Job se pareça tanto com uma vontade. Ela aponta para uma direção suficientemente concreta para orientar, mas suficientemente aberta para que ainda exista algo a ser projetado.
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Jobs to Be Done |
 | **Período** | Desenvolvimento de linhagens convergentes desde o início dos anos 1990; consolidação pública nas décadas de 2000 e 2010 |
 | **Autoria** | Disputada e distribuída entre Anthony Ulwick, Clayton Christensen, Bob Moesta e outros; Alan Klement é um refinador importante da leitura centrada em progresso |
 | **Produto ou contexto** | Estratégia, inovação, pesquisa de mercado, product discovery e design de serviços |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Como inovar sem começar pelo produto, pela tecnologia ou pela segmentação existente |
 | **Mundo antes** | Pesquisa centrada em atributos de produto, categorias de mercado e segmentações que nem sempre explicavam por que pessoas mudavam de solução |
 | **Invenção** | Não há um único momento consensual; Ulwick desenvolve ODI a partir de 1991 e Christensen/Moesta desenvolvem a linhagem posteriormente conhecida como Jobs Theory |
@@ -120,7 +121,9 @@ Talvez seja por isso que uma boa formulação de Job se pareça tanto com uma vo
 | **Conceitos relacionados** | [[01 conceitos/Autodeterminacao|Autodeterminação]], [[01 conceitos/Intencao|Intenção]], [[01 conceitos/Formulacao|Formulação]], [[01 conceitos/Investigação|Investigação]], [[01 conceitos/Justificabilidade|Justificabilidade]] |
 | **Variáveis relacionadas** | [[02 variaveis/Atrito Decisorio|Atrito decisório]], [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Legitimidade Decisoria|Legitimidade decisória]] |
 | **Genealogia** | Artefatos de intenção, formulação e investigação |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | [[03 artefatos/Brief|Brief]], [[03 artefatos/Pergunta de Pesquisa|Pergunta de pesquisa]], [[03 artefatos/Problema de Design|Problema de design]], [[03 artefatos/North Star|North Star]], [[03 artefatos/Hipótese Científica|Hipótese científica]], [[03 artefatos/Value Proposition Ad Lib|Value Proposition Ad Lib]], [[03 artefatos/Entrevista Qualitativa|Entrevista qualitativa]], [[03 artefatos/Pesquisa Quantitativa|Pesquisa quantitativa]], [[03 artefatos/Customer Journey Map|Customer Journey Map]] |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Uma formulação útil pode estabilizar o progresso desejado sem estabilizar prematuramente a solução; sua validade depende da cadeia de evidências que a sustenta |
 | **Questão em aberto** | Como integrar a riqueza causal das histórias de mudança com a comparabilidade de outcomes quantitativos sem reduzir uma tradição à outra? |
 

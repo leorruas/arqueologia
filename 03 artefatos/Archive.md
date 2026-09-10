@@ -91,9 +91,11 @@ Arquivar é uma pequena demonstração disso: **uma coisa pode continuar pertenc
 | **Artefato** | Archive |
 | **Período** | Arquivamento digital anterior ao Gmail; padrão ganhou grande visibilidade no Gmail a partir de 2004 |
 | **Autoria** | Distribuída. O Gmail, desenvolvido inicialmente por Paul Buchheit e equipe, é um importante popularizador do padrão de arquivar associado a busca e grande armazenamento |
-| **Produto ou contexto** | Não explicitado na ficha anterior. |
+| **Produto ou contexto** | Ainda não explicitado. |
+| **Tipo(s) de design** | [[00 tipos de design/Design de Interface|Design de interface]] |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Retirar itens concluídos da superfície de atenção sem apagá-los nem exigir classificação detalhada |
-| **Mundo antes** | Não explicitado na ficha anterior. |
+| **Mundo antes** | Ainda não explicitado. |
 | **Invenção** | Arquivamento é anterior ao Gmail; não há uma ocorrência única atribuída ao produto |
 | **Refinamento** | Combinação entre Archive, grande capacidade de armazenamento, busca e visão “Todos os e-mails” reduz necessidade de mover mensagens para pastas |
 | **Popularização** | Gmail e, posteriormente, muitos clientes de e-mail, mensageria e sistemas de produtividade |
@@ -103,12 +105,14 @@ Arquivar é uma pequena demonstração disso: **uma coisa pode continuar pertenc
 | **Comportamento produzido** | Arquivar rapidamente e confiar em busca ou recuperação posterior em vez de classificar cada item |
 | **Relação de poder** | Aumenta autonomia sobre o campo de atenção, mas transfere dependência para infraestrutura de armazenamento e indexação |
 | **Consequências inesperadas** | Custo invisível: Acúmulo de dados, dependência da busca e invisibilidade do custo material da infraestrutura necessária para preservar tudo |
-| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
+| **Destino ou transformação posterior** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Autonomia da Atencao|Autonomia da atenção]], [[01 conceitos/Tecnologia de Acesso|Tecnologia de acesso]], [[01 conceitos/Memoria Distribuida|Memória distribuída]] |
 | **Variáveis relacionadas** | [[02 variaveis/Atrito Decisorio|Atrito decisório]], [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Permanencia|Permanência]] |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] |
+| **Percurso(s)** | [[05 percursos/Como o Design Aprendeu a Guardar|Como o Design Aprendeu a Guardar]] |
 | **Parentes** | pasta, lixeira, busca, [[03 artefatos/Botao Salvar|Botão salvar]], Inbox Zero |
-| **Princípio de design revelado** | Não explicitado na ficha anterior. |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
+| **Princípio de design revelado** | Ainda não explicitado. |
 | **Questão em aberto** | O que acontece com nossa capacidade de distinguir o importante do apenas recuperável quando praticamente tudo pode ser guardado indefinidamente? |
 
 ## Referências

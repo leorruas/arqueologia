@@ -70,6 +70,8 @@ Reduzir esforço pode aumentar não apenas a adoção de uma ação, mas sua fre
 | **Período** | Forma moderna consolidada no século XIX; produção em massa acelerada a partir da década de 1880 |
 | **Autoria** | Invenção distribuída; James Bonsack é importante para mecanização e James Buchanan Duke para escala comercial |
 | **Produto ou contexto** | Cigarros enrolados, industrializados, filtrados e suas variações |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Tornar o consumo de tabaco rápido, portátil, padronizado e pouco dependente de preparação |
 | **Mundo antes** | Cachimbos, charutos e outras formas de consumo exigiam diferentes graus de preparação, tempo e acessórios |
 | **Invenção** | Transformar tabaco em uma unidade fumável envolvida em papel; não atribuível adequadamente a um inventor moderno único |
@@ -85,6 +87,8 @@ Reduzir esforço pode aumentar não apenas a adoção de uma ação, mas sua fre
 | **Conceitos relacionados** | ritual, hábito, dependência, dosagem, pausa, gatilho contextual, fricção, percepção de risco e normalização social |
 | **Variáveis relacionadas** | preparação, portabilidade, duração, frequência, disponibilidade, repetibilidade e percepção de risco |
 | **Genealogia** | usos rituais do tabaco → cachimbo/charuto → cigarro enrolado → cigarro industrial → cigarro filtrado |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | cachimbo, charuto, fósforo, isqueiro, cinzeiro, café e artefatos de dosagem |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Reduzir o custo de uma ação pode aumentar sua frequência e integrá-la às rotinas até que ela deixe de ser percebida como decisão isolada |
 | **Questão em aberto** | Quando o design de uma rotina deixa de facilitar uma escolha e começa a sustentar a própria compulsão? |

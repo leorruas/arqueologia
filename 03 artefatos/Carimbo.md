@@ -104,6 +104,8 @@ O risco acompanha a vantagem. Quanto mais uma marca simplifica o processo, mais 
 | **Período** | Antecedentes em selos antigos; carimbo de borracha moderno difundido a partir da segunda metade do século XIX |
 | **Autoria** | Sem inventor único para a família de estampagem; Charles Goodyear na vulcanização; autoria do carimbo de borracha disputada entre nomes como L. F. Witherell e James Orton Woodruff; J. F. W. Dorman na comercialização de equipamentos |
 | **Produto ou contexto** | Comércio, correios, bancos, tabelionatos, empresas e burocracias estatais Categoria: Produto / design gráfico / interface burocrática |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Aplicar rapidamente marcas repetíveis de identificação, classificação ou status sem reescrever a mesma informação |
 | **Mundo antes** | Selos, sinetes, matrizes metálicas, lacres, escrita manual e assinaturas já desempenhavam funções de marcação e autenticação |
 | **Invenção** | A estampagem é muito antiga; a autoria específica do carimbo de borracha moderno permanece disputada |
@@ -119,6 +121,8 @@ O risco acompanha a vantagem. Quanto mais uma marca simplifica o processo, mais 
 | **Conceitos relacionados** | [[01 conceitos/Compressao do Esforco|Compressão do Esforço]], [[01 conceitos/Redução de Inferências|Redução de Inferências]], [[01 conceitos/Justificabilidade|Justificabilidade]] |
 | **Variáveis relacionadas** | [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]], [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Legitimidade Decisoria|Legitimidade Decisória]], [[02 variaveis/Custo Transacional|Custo Transacional]] |
 | **Genealogia** | [[04 genealogias/Compressao do Esforco|Compressão do esforço]], [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]] Família de ideias: Artefatos de validação, classificação e estado |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | [[03 artefatos/Assinatura|Assinatura]], [[03 artefatos/Número de Protocolo|Número de Protocolo]], sinete, selo, badge de status, timestamp |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Estados complexos tornam-se operáveis em escala quando podem ser representados por sinais consistentes e baratos de produzir Por que funcionou: Uma matriz reutilizável transforma mensagem ou autoridade recorrente em operação física de baixíssimo custo |
 | **Questão em aberto** | Quando a validação migra da marca física para metadados invisíveis, que sinais a interface precisa mostrar para que o usuário continue entendendo por que deve confiar nela? |

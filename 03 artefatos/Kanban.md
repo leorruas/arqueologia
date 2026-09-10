@@ -106,6 +106,8 @@ Essa é uma lição de design de serviços importante. Um artefato de coordenaç
 | **Período** | Desenvolvimento no Sistema Toyota de Produção durante os anos 1950; expansão industrial nos anos 1960; adaptações posteriores para trabalho do conhecimento |
 | **Autoria** | Taiichi Ohno e equipes da Toyota; posteriormente David J. Anderson e comunidades de software e gestão |
 | **Produto ou contexto** | Sistema Toyota de Produção; posteriormente quadros físicos e digitais de gestão de trabalho Categoria: Coordenação / sinalização / gestão visual |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Coordenar produção e reposição sem produzir ou transportar continuamente itens que o processo seguinte ainda não precisava |
 | **Mundo antes** | Produção podia empurrar peças adiante e acumular estoque independentemente do consumo real do processo seguinte |
 | **Invenção** | Desenvolvimento distribuído dentro do TPS; Ohno é figura central, mas a narrativa exata sobre inspiração e primeira formulação possui versões corporativas divergentes |
@@ -121,6 +123,8 @@ Essa é uma lição de design de serviços importante. Um artefato de coordenaç
 | **Conceitos relacionados** | [[01 conceitos/Sincronizacao|Sincronização]], [[01 conceitos/Memoria Distribuida|Memória Distribuída]], [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção Boa vs Fricção Ruim]], [[01 conceitos/Autodeterminação|Autodeterminação]] |
 | **Variáveis relacionadas** | [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]], [[02 variaveis/Custo Transacional|Custo Transacional]], [[02 variaveis/Friccao|Fricção]] |
 | **Genealogia** | [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]], [[04 genealogias/Compressao do Esforco|Compressão do esforço]] Família de ideias: Artefatos de coordenação e visualização do fluxo |
+| **Percurso(s)** | [[05 percursos/Da Espera a Sincronizacao|Da Espera a Sincronizacao]] |
 | **Parentes** | [[03 artefatos/Quadro Branco|Quadro branco]], backlog, Scrum board, painel de produção |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Tornar limites e estados visíveis permite distribuir decisões sem eliminar regras Por que funcionou: Converte necessidade e estado em sinais que podem circular junto ao processo, reduzindo coordenação abstrata e excesso de trabalho iniciado |
 | **Questão em aberto** | Em que momento tornar o trabalho visível para a equipe se transforma em tornar o trabalhador visível para controle externo? |

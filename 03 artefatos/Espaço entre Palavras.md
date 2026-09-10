@@ -71,9 +71,11 @@ O vazio não é o que falta entre dois elementos. Pode ser justamente o que perm
 | **Artefato** | Espaço entre palavras |
 | **Período** | Separação sistemática ganha força na Europa medieval, especialmente a partir dos séculos VII e VIII |
 | **Autoria** | Difusa; escribas insulares, incluindo tradições irlandesas e anglo-saxãs, são centrais na história documentada |
-| **Produto ou contexto** | Não explicitado na ficha anterior. |
+| **Produto ou contexto** | Ainda não explicitado. |
+| **Tipo(s) de design** | [[00 tipos de design/Tipografia|Tipografia]] |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Reduzir o esforço de identificar fronteiras lexicais em texto contínuo |
-| **Mundo antes** | Não explicitado na ficha anterior. |
+| **Mundo antes** | Ainda não explicitado. |
 | **Invenção** | Separadores e práticas de segmentação existiam antes; a inovação é gradual, não pontual |
 | **Refinamento** | Uso sistemático de espaços regulares entre unidades lexicais |
 | **Popularização** | Manuscritos medievais do norte da Europa e posterior tradição tipográfica |
@@ -83,12 +85,14 @@ O vazio não é o que falta entre dois elementos. Pode ser justamente o que perm
 | **Comportamento produzido** | Segmentação visual rápida de palavras e maior facilidade para leitura silenciosa e consulta |
 | **Relação de poder** | Facilita acesso individual ao texto e formas de consulta menos dependentes de mediação oral |
 | **Consequências inesperadas** | Custo invisível: Pode reforçar a percepção da palavra escrita como unidade autônoma e afastar parte da experiência rítmica e oral da linguagem |
-| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
+| **Destino ou transformação posterior** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Redução de Inferências|Redução de inferências]], proximidade, chunking, design da informação |
-| **Variáveis relacionadas** | Não explicitado na ficha anterior. |
-| **Genealogia** | Não explicitado na ficha anterior. |
+| **Variáveis relacionadas** | Ainda não explicitado. |
+| **Genealogia** | Ainda não explicitado. |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | [[03 artefatos/Grid|Grid]], parágrafo, coluna, margem, cartão de interface |
-| **Princípio de design revelado** | Não explicitado na ficha anterior. |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
+| **Princípio de design revelado** | Ainda não explicitado. |
 | **Questão em aberto** | Que outros elementos de interface se tornaram tão fundamentais que já não conseguimos percebê-los como decisões de design? |
 
 ## Referências

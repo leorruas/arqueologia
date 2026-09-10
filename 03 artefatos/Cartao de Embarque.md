@@ -63,9 +63,11 @@ O artefato revela uma ideia recorrente no design de serviços: **para atravessar
 | **Artefato** | Cartão de embarque |
 | **Período** | Evolução gradual na aviação comercial do século XX; digitalização e padronização legível por máquina posteriormente |
 | **Autoria** | Distribuída entre companhias aéreas, aeroportos, sistemas de reservas e organismos de padronização |
-| **Produto ou contexto** | Não explicitado na ficha anterior. |
+| **Produto ou contexto** | Ainda não explicitado. |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Coordenar passageiro, voo, assento e autorização ao longo de múltiplos checkpoints |
-| **Mundo antes** | Não explicitado na ficha anterior. |
+| **Mundo antes** | Ainda não explicitado. |
 | **Invenção** | Deriva de tradições anteriores de bilhetes e documentos de transporte |
 | **Refinamento** | Separação entre reserva/bilhete e credencial operacional de embarque |
 | **Popularização** | Expansão da aviação comercial de massa |
@@ -75,12 +77,14 @@ O artefato revela uma ideia recorrente no design de serviços: **para atravessar
 | **Comportamento produzido** | Navegar autonomamente por checkpoints usando uma representação portátil do estado da viagem |
 | **Relação de poder** | Dá autonomia operacional ao passageiro, mas também codifica permissões, prioridade e restrições definidas pela infraestrutura |
 | **Consequências inesperadas** | Custo invisível: Dependência de sistemas centrais, scanners, bateria e compatibilidade digital |
-| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
+| **Destino ou transformação posterior** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Tecnologia de Acesso|Tecnologia de acesso]], [[01 conceitos/Sincronizacao|Sincronização]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]] |
 | **Genealogia** | [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]] |
+| **Percurso(s)** | [[05 percursos/Da Espera a Sincronizacao|Da Espera a Sincronizacao]] |
 | **Parentes** | bilhete ferroviário, credencial, QR code, carteira digital, [[03 artefatos/Tela de Login|Tela de login]] |
-| **Princípio de design revelado** | Não explicitado na ficha anterior. |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
+| **Princípio de design revelado** | Ainda não explicitado. |
 | **Questão em aberto** | Quando a credencial passa a viver inteiramente em sistemas invisíveis, o que o usuário precisa continuar enxergando para confiar no processo? |
 
 ## Referências

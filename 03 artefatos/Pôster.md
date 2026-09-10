@@ -102,13 +102,14 @@ Há ainda uma questão gráfica. Um pôster pode fazer uma mensagem parecer urge
 A pergunta que fica para o presente é se a migração da parede compartilhada para superfícies personalizadas e responsivas está produzindo algo historicamente novo: uma cidade informacional em que cada pessoa não apenas vê um cartaz diferente, mas pode perguntar ao cartaz o que deseja saber.
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Pôster |
 | **Período** | Antecedentes impressos anteriores; consolidação do pôster litográfico colorido na segunda metade do século XIX |
 | **Autoria** | Distribuída. Senefelder inventou a litografia; Chéret refinou e popularizou o pôster litográfico colorido; Toulouse-Lautrec expandiu sua linguagem visual |
 | **Produto ou contexto** | Muros urbanos, fachadas, estações, teatros, campanhas políticas, publicidade, arte e eventos culturais |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Emitir mensagens visuais para públicos em movimento sem depender da presença contínua do emissor |
 | **Mundo antes** | Pregoeiros, inscrições, arquitetura, sinos, placas e avisos tipográficos já organizavam comunicação pública |
 | **Invenção** | Não há inventor único do pôster; a litografia de Senefelder criou uma infraestrutura decisiva para sua forma moderna |
@@ -124,7 +125,9 @@ A pergunta que fica para o presente é se a migração da parede compartilhada p
 | **Conceitos relacionados** | [[01 conceitos/Peles Temporarias da Arquitetura|Peles temporárias da arquitetura]], [[01 conceitos/Limiares|Limiares]], [[01 conceitos/Economia da Atencao|Economia da atenção]] |
 | **Variáveis relacionadas** | [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]], [[02 variaveis/Permanencia|Permanência]] |
 | **Genealogia** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]], [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] |
+| **Percurso(s)** | [[05 percursos/Da Parede ao Feed|Da Parede ao Feed]], [[05 percursos/Da Parede ao Interlocutor|Da Parede ao Interlocutor]] |
 | **Parentes** | [[03 artefatos/Hero Section|Hero section]], [[03 artefatos/Grid|Grid]], [[03 artefatos/Projetor|Projetor]], [[03 artefatos/Fila|Fila]], [[03 artefatos/Tapete|Tapete]]; outdoor, mural, sinalização, banner digital, thumbnail, post social e interface conversacional |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Alterar a camada simbólica sobre uma estrutura física pode transformar o uso e a percepção do espaço sem reconstruí-lo; superfícies comprimem sistemas ausentes em sinais manipuláveis |
 | **Questão em aberto** | O que muda quando superfícies que antes apenas apresentavam mensagens passam a responder às perguntas de cada observador? |
 

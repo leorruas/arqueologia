@@ -71,9 +71,11 @@ Isso torna a arqueologia do mascote especialmente relevante para IA. Antes de m�
 | **Artefato** | Mascote |
 | **Período** | Práticas ancestrais de personificação; mascote moderno de massa consolidado no fim do século XIX e século XX |
 | **Autoria** | Distribuída. Edmond Audran ajuda a popularizar o termo; Bibendum envolve André e Édouard Michelin e O’Galop |
-| **Produto ou contexto** | Não explicitado na ficha anterior. |
+| **Produto ou contexto** | Ainda não explicitado. |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Dar presença, memória e personalidade a entidades abstratas |
-| **Mundo antes** | Não explicitado na ficha anterior. |
+| **Mundo antes** | Ainda não explicitado. |
 | **Invenção** | Não há origem única; personagens protetores, emblemas e personificações são muito anteriores à publicidade moderna |
 | **Refinamento** | Integração entre personagem, produto e identidade em mascotes comerciais e institucionais |
 | **Popularização** | Publicidade, esporte, campanhas públicas, escolas e grandes eventos |
@@ -83,12 +85,14 @@ Isso torna a arqueologia do mascote especialmente relevante para IA. Antes de m�
 | **Comportamento produzido** | Falar, torcer, brincar, colecionar e interagir simbolicamente com instituições como se fossem sujeitos |
 | **Relação de poder** | Pode aproximar instituições do público, mas também revestir estruturas de poder com uma personalidade emocional mais simpática do que sua operação real |
 | **Consequências inesperadas** | Custo invisível: Confusão entre caráter do personagem e conduta da organização; infantilização ou suavização excessiva de mensagens |
-| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
+| **Destino ou transformação posterior** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Antropomorfismo|Antropomorfismo]], [[01 conceitos/Design Systems|Design Systems]], [[01 conceitos/Esqueuomorfismo|Esqueuomorfismo]] |
-| **Variáveis relacionadas** | Não explicitado na ficha anterior. |
-| **Genealogia** | Não explicitado na ficha anterior. |
+| **Variáveis relacionadas** | Ainda não explicitado. |
+| **Genealogia** | Ainda não explicitado. |
+| **Percurso(s)** | [[05 percursos/Da Parede ao Interlocutor|Da Parede ao Interlocutor]] |
 | **Parentes** | brasão, avatar, personagem publicitário, assistente virtual, robô social |
-| **Princípio de design revelado** | Não explicitado na ficha anterior. |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
+| **Princípio de design revelado** | Ainda não explicitado. |
 | **Questão em aberto** | O que muda eticamente quando um personagem institucional deixa de apenas representar uma voz e passa a gerar respostas por conta própria? |
 
 ## Referências

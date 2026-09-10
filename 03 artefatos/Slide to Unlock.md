@@ -72,6 +72,8 @@ O artefato também pertence à genealogia [[04 genealogias/Limiares e Delimitaca
 | **Período** | Desenvolvimento documentado a partir de 2005; lançamento comercial em 2007 |
 | **Autoria** | Imran Chaudhri, Bas Ording, Freddy Anzures, Marcel van Os, Stephen Lemay, Scott Forstall, Greg Christie e equipes do iPhone |
 | **Produto ou contexto** | Primeiro iPhone Categoria: Interface digital / gesto de desbloqueio / limiar |
+| **Tipo(s) de design** | [[00 tipos de design/Design de Interface|Design de interface]] |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Permitir desbloqueio intencional de uma superfície sensível ao toque sem tornar contatos acidentais equivalentes a comandos |
 | **Mundo antes** | Telefones combinavam diferentes formas de bloqueio, botões físicos, sequências de teclas e interfaces touch anteriores; não havia um único padrão dominante para a nova superfície multitouch do iPhone |
 | **Invenção** | Gesto de desbloquear uma interface movendo uma imagem ao longo de trajetória predefinida, documentado em patente com prioridade de 2005 |
@@ -87,6 +89,8 @@ O artefato também pertence à genealogia [[04 genealogias/Limiares e Delimitaca
 | **Conceitos relacionados** | [[01 conceitos/Manipulacao Direta|Manipulação Direta]], [[01 conceitos/Esqueuomorfismo|Esqueuomorfismo]], [[01 conceitos/Affordance|Affordance]], [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção Boa vs Fricção Ruim]], [[01 conceitos/Limiares|Limiares]] |
 | **Variáveis relacionadas** | [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Custo do Erro|Custo do Erro]], [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]] |
 | **Genealogia** | [[04 genealogias/Limiares e Delimitacao|Limiares e delimitação]], [[04 genealogias/Compressao do Esforco|Compressão do esforço]] Família de ideias: Gestos de intenção e tecnologias de limiar |
+| **Percurso(s)** | [[05 percursos/Como Projetamos Fronteiras|Como Projetamos Fronteiras]] |
 | **Parentes** | [[03 artefatos/Pinch to Zoom|Pinch to Zoom]], [[03 artefatos/Pull to Refresh|Pull to Refresh]], [[03 artefatos/Tela de Login|Tela de Login]], ferrolho e trava física como parentescos semióticos |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Fricção pode ser útil quando torna a intenção mais distinguível do acidente Por que funcionou: Aumenta a dificuldade de ativação acidental sem exigir uma decisão cognitivamente complexa |
 | **Questão em aberto** | Quando um gesto aprendido deixa de precisar da metáfora visual que originalmente ensinava como executá-lo? |

@@ -62,6 +62,8 @@ Isso produz uma tensão: a câmera amplia a capacidade de preservar experiência
 | **Período** | Primeira metade do século XIX, com consolidação e popularização progressiva ao longo dos séculos XIX e XX |
 | **Autoria** | Invenção distribuída; Niépce, Daguerre e Talbot são figuras centrais; George Eastman é central para a popularização industrial posterior |
 | **Produto ou contexto** | Daguerreótipos, câmeras de grande formato, câmeras portáteis, filme, câmeras digitais e smartphones |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Produzir um registro visual durável de uma cena sem depender exclusivamente da reprodução manual por desenho ou pintura |
 | **Mundo antes** | Representações visuais permanentes exigiam técnicas manuais e geralmente maior tempo, habilidade ou mediação especializada |
 | **Invenção** | Fixar por processos fotoquímicos a ação da luz sobre um suporte |
@@ -77,6 +79,8 @@ Isso produz uma tensão: a câmera amplia a capacidade de preservar experiência
 | **Conceitos relacionados** | enquadramento, focalização, memória externa, prova, representação, atenção, figura e fundo, documentação e mediação |
 | **Variáveis relacionadas** | permanência, custo de captura, tempo de exposição, portabilidade, quantidade de registros e campo visual |
 | **Genealogia** | câmera obscura → processos fotossensíveis → fotografia em placa → filme → câmera portátil → digital → smartphone |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | luminária, moldura, cursor, Post-it, projetor, espelho, scanner e câmera de vídeo |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Registrar é também selecionar: todo mecanismo de memória cria simultaneamente um mecanismo de exclusão |
 | **Questão em aberto** | O que acontece com a memória quando registrar praticamente tudo custa menos do que escolher o que merece ser lembrado? |

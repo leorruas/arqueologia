@@ -77,9 +77,11 @@ Mas essa capacidade exige um teste posterior. Se o mundo descrito pelo manifesto
 | **Artefato** | Manifesto |
 | **Período** | Antecedentes antigos; forte consolidação política, artística e profissional entre os séculos XIX e XXI |
 | **Autoria** | Distribuída; cada manifesto possui autores identificáveis, mas o formato não tem inventor único |
-| **Produto ou contexto** | Não explicitado na ficha anterior. |
+| **Produto ou contexto** | Ainda não explicitado. |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Tornar pública e compartilhável uma ruptura de valores, interpretação ou direção |
-| **Mundo antes** | Não explicitado na ficha anterior. |
+| **Mundo antes** | Ainda não explicitado. |
 | **Invenção** | Sem ocorrência única identificável |
 | **Refinamento** | Movimentos políticos e artísticos transformam declarações programáticas em instrumentos de mobilização e identidade |
 | **Popularização** | Política, vanguardas artísticas, movimentos sociais, tecnologia e cultura organizacional |
@@ -89,12 +91,14 @@ Mas essa capacidade exige um teste posterior. Se o mundo descrito pelo manifesto
 | **Comportamento produzido** | Adesão pública a princípios e uso de uma linguagem compartilhada para orientar ação coletiva |
 | **Relação de poder** | Quem redige o manifesto influencia quais valores representarão o grupo e quais práticas serão posicionadas como obsoletas ou ilegítimas |
 | **Consequências inesperadas** | Custo invisível: Simplificação, polarização, dogmatização e distância entre declaração e prática |
-| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
+| **Destino ou transformação posterior** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Intencao|Intenção]], legitimidade, identidade coletiva |
-| **Variáveis relacionadas** | Não explicitado na ficha anterior. |
+| **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | Família de ideias: Artefatos de alinhamento, intenção e mobilização |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | [[03 artefatos/Visão|Visão]], [[03 artefatos/Princípio|Princípio]], [[03 artefatos/Projeto Piloto|Projeto piloto]], [[03 artefatos/Hero Section|Hero section]] |
-| **Princípio de design revelado** | Não explicitado na ficha anterior. |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
+| **Princípio de design revelado** | Ainda não explicitado. |
 | **Questão em aberto** | Em que momento um manifesto deixa de reorganizar decisões e passa a funcionar apenas como sinalização identitária? |
 
 ## Referências

@@ -69,9 +69,11 @@ Talvez a pergunta seja um dos artefatos mais antigos que permanecem centrais jus
 | **Artefato** | Pergunta |
 | **Período** | Anterior ao registro escrito; sem origem individual recuperável |
 | **Autoria** | Distribuída. Sócrates é uma referência histórica para um uso filosófico específico da pergunta, não seu inventor |
-| **Produto ou contexto** | Não explicitado na ficha anterior. |
+| **Produto ou contexto** | Ainda não explicitado. |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Tornar uma ausência de conhecimento, uma dúvida ou uma necessidade de coordenação interrogável |
-| **Mundo antes** | Não explicitado na ficha anterior. |
+| **Mundo antes** | Ainda não explicitado. |
 | **Invenção** | Não recuperável; prática linguística ancestral |
 | **Refinamento** | Entre muitos outros, o diálogo socrático transforma perguntas em instrumento sistemático de exame de crenças |
 | **Popularização** | Educação, ciência, entrevistas, pesquisa qualitativa, terapia, facilitação e práticas de design |
@@ -81,12 +83,14 @@ Talvez a pergunta seja um dos artefatos mais antigos que permanecem centrais jus
 | **Comportamento produzido** | Investigar, justificar, explicitar experiências e construir interpretações em resposta a uma dúvida formulada |
 | **Relação de poder** | Pode distribuir autonomia de pensamento, mas quem formula a pergunta também delimita parcialmente o espaço de resposta |
 | **Consequências inesperadas** | Custo invisível: Desconforto da incerteza, vieses de formulação e possibilidade de manipulação por perguntas capciosas |
-| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
+| **Destino ou transformação posterior** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Investigacao|Investigação]], [[01 conceitos/Autodeterminacao|Autodeterminação]], [[01 conceitos/Intencao|Intenção]] |
-| **Variáveis relacionadas** | Não explicitado na ficha anterior. |
+| **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | Formulação e direção |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | [[03 artefatos/Pergunta de Pesquisa|Pergunta de pesquisa]], [[03 artefatos/Problema de Design|Problema de design]], entrevista, mentoria, terapia, diálogo socrático |
-| **Princípio de design revelado** | Não explicitado na ficha anterior. |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
+| **Princípio de design revelado** | Ainda não explicitado. |
 | **Questão em aberto** | Em ambientes com respostas quase instantâneas, a capacidade de formular perguntas passa a valer mais do que a capacidade de recuperar respostas? |
 
 ## Referências

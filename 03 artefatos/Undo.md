@@ -57,6 +57,8 @@ Também existe uma tensão entre reversão e memória. Um Undo pode eliminar o e
 | **Período** | Década de 1960 aos dias atuais |
 | **Autoria** | Warren Teitelman e equipe BBN-LISP; equipes do Apple Lisa; Bill Atkinson; equipes do Macintosh |
 | **Produto ou contexto** | BBN-LISP; Apple Lisa; Macintosh; posteriormente editores e sistemas de software em geral Categoria: Interface digital / comando de edição |
+| **Tipo(s) de design** | [[00 tipos de design/Design de Interface|Design de interface]] |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Alto custo de recuperar estados anteriores depois de alterações ou erros |
 | **Mundo antes** | Mudanças frequentemente exigiam backups prévios, reconstrução manual ou repetição do trabalho para recuperar um estado perdido |
 | **Invenção** | Implementações iniciais documentadas de Undo em sistemas interativos como o BBN-LISP de Warren Teitelman |
@@ -72,6 +74,8 @@ Também existe uma tensão entre reversão e memória. Um Undo pode eliminar o e
 | **Conceitos relacionados** | [[01 conceitos/Manipulacao Direta|Manipulação Direta]], [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção Boa vs Fricção Ruim]], [[01 conceitos/Justica Procedimental|Justiça Procedimental]] |
 | **Variáveis relacionadas** | [[02 variaveis/Reversibilidade|Reversibilidade]], [[02 variaveis/Custo do Erro|Custo do Erro]], [[02 variaveis/Justica|Justiça]] |
 | **Genealogia** | [[04 genealogias/Reversibilidade e Custo do Erro|Reversibilidade e custo do erro]] Família de ideias: Tecnologias de reversibilidade |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | [[03 artefatos/Undo Send|Undo Send]], [[03 artefatos/Quadro Branco|Quadro Branco]], [[03 artefatos/Botao Salvar|Botão Salvar]] |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Reduzir o custo de voltar atrás pode aumentar a liberdade para avançar Por que funcionou: Transformou recuperação de erro em operação próxima e de baixo custo |
 | **Questão em aberto** | Quanto da criatividade possibilitada por software depende menos da quantidade de ferramentas e mais da confiança de que tentativas podem ser revertidas? |

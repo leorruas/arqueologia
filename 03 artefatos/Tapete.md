@@ -64,6 +64,8 @@ A família pode ser acompanhada até interfaces digitais. Cards, painéis, caixa
 | **Período** | Origem indeterminada; exemplares preservados desde a Antiguidade |
 | **Autoria** | Produção coletiva e anônima em diversas culturas |
 | **Produto ou contexto** | Habitações, tendas, espaços cerimoniais, religiosos e domésticos Categoria: Produto / superfície têxtil / delimitação espacial |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Isolar o corpo do solo e criar superfícies mais habitáveis; em muitos contextos, também organizar usos e relações dentro de um espaço |
 | **Mundo antes** | Não há um único “antes”; superfícies naturais, esteiras e outros revestimentos coexistiram e evoluíram em diferentes culturas |
 | **Invenção** | Sem autoria ou local de origem identificáveis com segurança |
@@ -79,6 +81,8 @@ A família pode ser acompanhada até interfaces digitais. Cards, painéis, caixa
 | **Conceitos relacionados** | [[01 conceitos/Limiares|Limiares]], [[01 conceitos/Tecnologias de Delimitacao|Tecnologias de Delimitação]], [[01 conceitos/Affordance|Affordance]] |
 | **Variáveis relacionadas** | [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]], [[02 variaveis/Friccao|Fricção]] |
 | **Genealogia** | [[04 genealogias/Limiares e Delimitacao|Limiares e delimitação]] Família de ideias: Tecnologias leves de fronteira |
+| **Percurso(s)** | [[05 percursos/Como Projetamos Fronteiras|Como Projetamos Fronteiras]] |
 | **Parentes** | [[03 artefatos/Tela de Login|Tela de Login]], moldura, palco, pedestal, altar, genkan como comparação de limiar |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Alterar a leitura de uma superfície pode reorganizar um espaço sem reconstruí-lo Por que funcionou: Delimita sem bloquear e pode ser movido, substituído ou reinterpretado com baixo custo arquitetônico |
 | **Questão em aberto** | Quantas fronteiras de interface são descendentes conceituais de superfícies que primeiro ensinaram humanos a ler zonas dentro de zonas? |

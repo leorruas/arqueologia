@@ -50,13 +50,14 @@ O custo invisível cresceu junto com a quantidade de sistemas. O hábito de memo
 A pergunta que fica não é se vamos eliminar a tela de login. Talvez ela já esteja desaparecendo visualmente em muitos contextos. A questão é o que acontece quando a fronteira continua existindo, mas sua verificação migra para o rosto, o dedo, um dispositivo próximo ou uma identidade federada. O limiar pode ficar mais invisível sem ficar menos poderoso.
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Tela de login |
 | **Período** | Início dos anos 1960; CTSS demonstrado em 1961 e documentação de contas, senhas e LOGIN consolidada nos anos seguintes |
 | **Autoria** | Desenvolvimento distribuído pela equipe do CTSS no MIT sob direção de Fernando Corbató; Corbató é frequentemente associado à introdução de senhas em sistemas multiusuário |
 | **Produto ou contexto** | Compatible Time-Sharing System, MIT |
+| **Tipo(s) de design** | [[00 tipos de design/Design de Interface|Design de interface]] |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Separar usuários, arquivos e recursos em um computador compartilhado e permitir acesso individualizado |
 | **Mundo antes** | Computação em lote e acesso mais concentrado em operadores ou uso sequencial; pouca necessidade de uma identidade interativa persistente por terminal |
 | **Invenção** | Contas e senhas no CTSS transformaram identidade individual em requisito lógico de acesso a um sistema compartilhado |
@@ -72,7 +73,9 @@ A pergunta que fica não é se vamos eliminar a tela de login. Talvez ela já es
 | **Conceitos relacionados** | [[01 conceitos/Limiares|Limiares]], [[01 conceitos/Tecnologias de Delimitacao|Tecnologias de delimitação]], [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção boa vs fricção ruim]] |
 | **Variáveis relacionadas** | [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Custo do Erro|Custo do erro]], [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]] |
 | **Genealogia** | [[04 genealogias/Limiares e Delimitacao|Limiares e delimitação]] |
+| **Percurso(s)** | [[05 percursos/Como Projetamos Fronteiras|Como Projetamos Fronteiras]] |
 | **Parentes** | [[03 artefatos/Slide to Unlock|Slide to Unlock]], crachá, chave, biometria e mecanismos de autenticação |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Uma fronteira lógica se torna utilizável quando o sistema torna perceptível que existe um “fora”, um “dentro” e uma condição de passagem |
 | **Questão em aberto** | O que muda na percepção de poder e privacidade quando autenticação permanece obrigatória, mas deixa de aparecer como uma tela ou gesto consciente? |
 

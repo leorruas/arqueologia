@@ -91,9 +91,11 @@ Ela não elimina a necessidade de estratégia. Cria um horizonte contra o qual e
 | **Artefato** | Visão |
 | **Período** | Antecedentes muito anteriores à gestão moderna; sistematização organizacional forte ao longo do século XX |
 | **Autoria** | Distribuída. Peter Drucker é referência para propósito e objetivos; Warren Bennis e Burt Nanus para liderança orientada por visão; John Kotter para visão em processos de mudança |
-| **Produto ou contexto** | Não explicitado na ficha anterior. |
+| **Produto ou contexto** | Ainda não explicitado. |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Permitir decisões coerentes em situações não previstas sem depender de instrução hierárquica contínua |
-| **Mundo antes** | Não explicitado na ficha anterior. |
+| **Mundo antes** | Ainda não explicitado. |
 | **Invenção** | Sem ocorrência única identificável |
 | **Refinamento** | Teoria da liderança e gestão estratégica transformam visão em instrumento explícito de direção organizacional |
 | **Popularização** | Planejamento estratégico, transformação organizacional, produtos e organizações de grande escala |
@@ -103,12 +105,14 @@ Ela não elimina a necessidade de estratégia. Cria um horizonte contra o qual e
 | **Comportamento produzido** | Decidir localmente usando uma direção futura compartilhada como critério |
 | **Relação de poder** | Pode distribuir autonomia quando pessoas podem interpretar e agir; pode mascarar centralização quando serve apenas como discurso |
 | **Consequências inesperadas** | Custo invisível: Vaguidão, uso cosmético, rigidez quando a visão envelhece e ocultação das dificuldades concretas de execução |
-| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
-| **Conceitos relacionados** | Não explicitado na ficha anterior. |
-| **Variáveis relacionadas** | Não explicitado na ficha anterior. |
+| **Destino ou transformação posterior** | Ainda não explicitado. |
+| **Conceitos relacionados** | Ainda não explicitado. |
+| **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | Família de ideias: Artefatos de intenção e autodeterminação |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | [[03 artefatos/Manifesto|Manifesto]], missão, [[03 artefatos/North Star|North Star]], estratégia, [[03 artefatos/Princípio|Princípio]] |
-| **Princípio de design revelado** | Não explicitado na ficha anterior. |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
+| **Princípio de design revelado** | Ainda não explicitado. |
 | **Questão em aberto** | Como escrever uma visão aberta o suficiente para permitir autonomia e específica o suficiente para excluir caminhos incompatíveis? |
 
 ## Referências

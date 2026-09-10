@@ -82,13 +82,14 @@ Por isso, a entrevista não é uma máquina de empatia. É uma **situação proj
 O artefato funciona melhor quando sua abertura não é confundida com neutralidade.
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Entrevista qualitativa |
 | **Período** | Consolidação em diferentes tradições das ciências sociais ao longo do século XX; adoção posterior em marketing, design e UX |
 | **Autoria** | Distribuída; não há inventor único |
 | **Produto ou contexto** | Antropologia, sociologia, fenomenologia, pesquisa de mercado, design de serviços e UX Research |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Acessar experiências, interpretações e eventos que não podem ser compreendidos apenas por observação ou medidas padronizadas |
 | **Mundo antes** | Conversação informal, observação, registros documentais e instrumentos estruturados de coleta |
 | **Invenção** | Não há momento único; técnicas abertas de entrevista emergiram em diferentes tradições de pesquisa |
@@ -104,7 +105,9 @@ O artefato funciona melhor quando sua abertura não é confundida com neutralida
 | **Conceitos relacionados** | [[01 conceitos/Investigação|Investigação]], [[01 conceitos/Formulacao|Formulação]], [[01 conceitos/Justificabilidade|Justificabilidade]], [[01 conceitos/Memoria Distribuida|Memória distribuída]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Atrito Decisorio|Atrito decisório]] |
 | **Genealogia** | Artefatos de investigação e externalização da experiência |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | [[03 artefatos/Pergunta de Pesquisa|Pergunta de pesquisa]], [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Customer Journey Map|Customer Journey Map]], Pesquisa quantitativa, diário e observação etnográfica |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Pesquisa qualitativa é poderosa quando permite que a evidência altere as categorias da investigação, não apenas preencha categorias previamente definidas |
 | **Questão em aberto** | Como preservar abertura e descoberta quando ferramentas de IA tornam cada vez mais fácil padronizar, transcrever e sintetizar entrevistas automaticamente? |
 

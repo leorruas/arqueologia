@@ -95,9 +95,11 @@ Se virar só mais uma caixa a preencher, sobra a forma e desaparece a pergunta.
 | **Artefato** | Value Proposition Ad Lib |
 | **Período** | Publicado em 2014 em *Value Proposition Design*; adaptações posteriores variam por contexto |
 | **Autoria** | Alexander Osterwalder, Yves Pigneur, Greg Bernarda e Alan Smith no contexto de *Value Proposition Design* e Strategyzer |
-| **Produto ou contexto** | Não explicitado na ficha anterior. |
+| **Produto ou contexto** | Ainda não explicitado. |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Prototipar rapidamente direções de proposta de valor e tornar explícita a relação entre oferta, público, jobs, dores e ganhos |
-| **Mundo antes** | Não explicitado na ficha anterior. |
+| **Mundo antes** | Ainda não explicitado. |
 | **Invenção** | Ad Lib documentado em *Value Proposition Design* em 2014 |
 | **Refinamento** | Uso da estrutura em workshops, estratégia e adaptações para outros contextos de decisão |
 | **Popularização** | Ecossistema Strategyzer, design thinking, produto e facilitação estratégica |
@@ -107,12 +109,14 @@ Se virar só mais uma caixa a preencher, sobra a forma e desaparece a pergunta.
 | **Comportamento produzido** | Explicitar público, necessidade, transformação e premissas antes de detalhar a implementação |
 | **Relação de poder** | Pode exigir justificativa explícita de propostas hierárquicas e ampliar contestabilidade; também pode fornecer vocabulário para legitimar decisões já tomadas |
 | **Consequências inesperadas** | Custo invisível: Preenchimento performativo, simplificação de problemas complexos e falsa sensação de rigor sem evidência |
-| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
+| **Destino ou transformação posterior** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Formulacao|Formulação]], [[01 conceitos/Intencao|Intenção]], [[01 conceitos/Justificabilidade|Justificabilidade]], [[01 conceitos/Servico de Reflexao|Serviço de reflexão]] |
-| **Variáveis relacionadas** | Não explicitado na ficha anterior. |
+| **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | Família de ideias: Artefatos de intenção, formulação e justificabilidade |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Brief|Brief]], [[03 artefatos/Problema de Design|Problema de design]], [[03 artefatos/Justificativa de Valor Público|Justificativa de Valor Público]], [[03 artefatos/Hipótese Científica|Hipótese científica]] |
-| **Princípio de design revelado** | Não explicitado na ficha anterior. |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
+| **Princípio de design revelado** | Ainda não explicitado. |
 | **Questão em aberto** | Como institucionalizar a exigência de justificar uma proposta sem transformar o Ad Lib em burocracia performativa? |
 
 ## Referências

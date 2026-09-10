@@ -50,13 +50,14 @@ Há ainda um limite material frequentemente apagado pela imagem de “adesivo qu
 Talvez a decisão mais importante do Post-it seja esta: ele tornou barato tratar uma ideia como provisória sem torná-la invisível. É uma pequena tecnologia de permanência temporária. E isso permite uma pergunta maior: quanto do pensamento contemporâneo em equipes passou a assumir que ideias devem existir como unidades móveis porque o suporte tornou essa forma tão fácil?
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Post-it |
 | **Período** | Adesivo desenvolvido no fim dos anos 1960; aplicação por Art Fry em 1974; introdução ampla dos Post-it Notes em 1980 |
 | **Autoria** | Spencer Silver, pelo adesivo reposicionável; Art Fry, pela aplicação como marcador e nota; equipe da 3M no desenvolvimento industrial e comercial |
 | **Produto ou contexto** | Post-it Notes, [[empresas/3M|3M]] |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | [[empresas/3M|3M]] |
 | **Problema original** | Fixar informação temporária no contexto de uso sem recorrer a uma adesão permanente |
 | **Mundo antes** | Papéis soltos, marcadores, clipes, alfinetes, agendas e fitas adesivas tradicionais |
 | **Invenção** | Silver desenvolveu o adesivo de baixa aderência que tornou o produto possível |
@@ -72,7 +73,9 @@ Talvez a decisão mais importante do Post-it seja esta: ele tornou barato tratar
 | **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Autonomia da Atencao|Autonomia da atenção]], [[01 conceitos/Affordance|Affordance]] |
 | **Variáveis relacionadas** | [[02 variaveis/Reversibilidade|Reversibilidade]], [[02 variaveis/Permanencia|Permanência]] |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]], [[04 genealogias/Reversibilidade e Custo do Erro|Reversibilidade e custo do erro]] |
+| **Percurso(s)** | [[05 percursos/Como o Design Aprendeu a Guardar|Como o Design Aprendeu a Guardar]] |
 | **Parentes** | [[03 artefatos/Quadro Branco|Quadro branco]], Kanban físico; parentes digitais comparativos incluem Miro, FigJam e Trello |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Um suporte pode mudar a forma do pensamento ao tornar registro e reorganização parte da mesma operação |
 | **Questão em aberto** | Quanto a popularidade das notas móveis influenciou a tendência de decompor problemas complexos em unidades curtas e rearranjáveis? |
 

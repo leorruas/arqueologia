@@ -44,13 +44,14 @@ Por isso, o Pull to Refresh também pertence à genealogia [[04 genealogias/Comp
 A questão que sobra é menos sobre a origem do gesto e mais sobre sua mudança de papel. Quando uma solução criada para poupar espaço passa a participar de ciclos de atualização repetitiva, o artefato continua sendo o mesmo, mas a hipótese comportamental ao redor dele mudou.
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Pull to Refresh |
 | **Período** | 2009 |
 | **Autoria** | [[autores/Loren Brichter|Loren Brichter]] |
 | **Produto ou contexto** | Tweetie 2 para iPhone, desenvolvido pela Atebits |
+| **Tipo(s) de design** | [[00 tipos de design/Design de Interface|Design de interface]] |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Atualizar uma lista sem ocupar espaço permanente com um botão dedicado |
 | **Mundo antes** | Aplicativos móveis usavam controles explícitos de atualização que competiam por espaço de interface |
 | **Invenção** | Brichter incorporou a atualização ao gesto de puxar a lista além do topo no Tweetie 2 |
@@ -66,7 +67,9 @@ A questão que sobra é menos sobre a origem do gesto e mais sobre sua mudança 
 | **Conceitos relacionados** | [[01 conceitos/Manipulacao Direta|Manipulação direta]], [[01 conceitos/Affordance|Affordance]], [[01 conceitos/Recompensa Variavel|Recompensa variável]] |
 | **Variáveis relacionadas** | [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Atencao|Atenção]] |
 | **Genealogia** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]], [[04 genealogias/Compressao do Esforco|Compressão do esforço]] |
+| **Percurso(s)** | [[05 percursos/Da Parede ao Feed|Da Parede ao Feed]] |
 | **Parentes** | [[03 artefatos/Infinite Scroll|Infinite scroll]], [[03 artefatos/Botao Like|Botão Like]], [[03 artefatos/Slide to Unlock|Slide to Unlock]], [[03 artefatos/Pinch to Zoom|Pinch to Zoom]] |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Um gesto frequente pode absorver uma ação secundária quando ambos compartilham a mesma lógica espacial |
 | **Questão em aberto** | Quando a atualização gestual deixou de ser apenas economia de espaço e passou a participar de comportamentos repetitivos de busca por novidade? |
 

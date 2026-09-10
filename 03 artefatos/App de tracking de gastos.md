@@ -66,13 +66,14 @@ Essa mudança abre uma possível genealogia futura de **registro e auto-observa�
 A pergunta arqueológica é incômoda: **quando um sistema nos ajuda a enxergar nossos próprios hábitos, quem decidiu quais hábitos merecem ser medidos — e em que momento auto-observação começa a se confundir com vigilância?**
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | App de tracking de gastos |
 | **Período** | Antecedentes em registros contábeis e extratos; softwares pessoais desde os anos 1980; agregação automática popularizada por serviços digitais nos anos 2000 |
 | **Autoria** | Distribuída; Quicken, Mint e muitos sistemas bancários representam refinamentos diferentes, não uma invenção única |
 | **Produto ou contexto** | Finanças pessoais, bancos, cartões, softwares e aplicativos de gestão financeira |
+| **Tipo(s) de design** | [[00 tipos de design/Design de Interface|Design de interface]] |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Reconstruir quanto, onde e como o dinheiro foi gasto sem depender apenas de memória ou conciliação manual de registros dispersos |
 | **Mundo antes** | Livros-caixa, recibos, extratos, talões de cheques, planilhas e registros manuais |
 | **Invenção** | Não há momento singular; informatização de finanças pessoais aparece gradualmente, com Quicken como marco popular desde 1983 |
@@ -88,7 +89,9 @@ A pergunta arqueológica é incômoda: **quando um sistema nos ajuda a enxergar 
 | **Conceitos relacionados** | [[01 conceitos/Servico de Reflexao|Serviço de reflexão]], [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]] |
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Atrito Decisorio|Atrito decisório]] |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]]; possível futura genealogia de registro e auto-observação |
+| **Percurso(s)** | [[05 percursos/Como o Design Aprendeu a Guardar|Como o Design Aprendeu a Guardar]] |
 | **Parentes** | [[03 artefatos/Diário|Diário]], [[03 artefatos/Calendário|Calendário]], [[03 artefatos/Checklist|Checklist]] |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Um registro ganha força comportamental quando não apenas preserva o passado, mas o devolve em uma forma que pode alterar a próxima decisão |
 | **Questão em aberto** | Como projetar auto-observação financeira sem transformar categorias e métricas do sistema em julgamentos normativos invisíveis sobre a vida do usuário? |
 

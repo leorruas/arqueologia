@@ -89,6 +89,8 @@ A assinatura gráfica pode permanecer como símbolo cultural da vontade. A prova
 | **Período** | Desenvolvimento gradual; expansão da assinatura manuscrita em documentos europeus medievais e modernos, com trajetórias distintas por sistema jurídico |
 | **Autoria** | Sem inventor individual; produto de convenções jurídicas, administrativas e escriturárias |
 | **Produto ou contexto** | Cartas, escrituras, tratados, contratos, documentos administrativos e posteriormente sistemas eletrônicos Categoria: Identidade / validação / interface documental |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Vincular de maneira persistente uma pessoa a uma declaração, autorização ou compromisso quando ela não estará continuamente presente |
 | **Mundo antes** | Selos, testemunhas, sinais notariais, marcas e fórmulas documentais já autenticavam atos; em muitos contextos medievais o selo era mais importante que a assinatura manuscrita |
 | **Invenção** | Distribuída, sem ponto único identificável |
@@ -104,6 +106,8 @@ A assinatura gráfica pode permanecer como símbolo cultural da vontade. A prova
 | **Conceitos relacionados** | [[01 conceitos/Limiares|Limiares]], [[01 conceitos/Justificabilidade|Justificabilidade]], [[01 conceitos/Redução de Inferências|Redução de Inferências]] |
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Reversibilidade|Reversibilidade]], [[02 variaveis/Legitimidade Decisoria|Legitimidade Decisória]] |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]], [[04 genealogias/Limiares e Delimitacao|Limiares e delimitação]] Família de ideias: Artefatos de identidade, autoria e compromisso |
+| **Percurso(s)** | [[05 percursos/Como o Design Aprendeu a Guardar|Como o Design Aprendeu a Guardar]] |
 | **Parentes** | [[03 artefatos/Carimbo|Carimbo]], [[03 artefatos/Tela de Login|Tela de Login]], selo, sinete e assinatura digital |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Sistemas conseguem coordenar agentes ausentes quando criam representações persistentes de quem assumiu determinada ação Por que funcionou: Condensa agente e intenção em uma marca barata, portátil e incorporada ao próprio documento |
 | **Questão em aberto** | Em sistemas capazes de sintetizar marcas, vozes e identidades convincentes, qual parte da assinatura continuará visível ao usuário e qual parte precisará ser provada por infraestrutura? |

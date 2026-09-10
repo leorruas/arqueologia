@@ -69,9 +69,11 @@ Por isso seu destino mais interessante talvez não seja ser respondida exatament
 | **Artefato** | Pergunta de pesquisa |
 | **Período** | Prática sem origem única; consolidada como convenção metodológica da pesquisa acadêmica moderna |
 | **Autoria** | Distribuída entre tradições científicas e acadêmicas |
-| **Produto ou contexto** | Não explicitado na ficha anterior. |
+| **Produto ou contexto** | Ainda não explicitado. |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Manter uma investigação coerente diante de muitas observações, fontes e caminhos possíveis |
-| **Mundo antes** | Não explicitado na ficha anterior. |
+| **Mundo antes** | Ainda não explicitado. |
 | **Invenção** | Não há ocorrência única identificável |
 | **Refinamento** | Metodologias de pesquisa passam a explicitar critérios para perguntas delimitadas, investigáveis e revisáveis |
 | **Popularização** | Universidades, pesquisa científica, pesquisa de mercado, UX Research e investigação aplicada |
@@ -81,12 +83,14 @@ Por isso seu destino mais interessante talvez não seja ser respondida exatament
 | **Comportamento produzido** | Selecionar métodos, fontes e dados em relação a uma lacuna formulada |
 | **Relação de poder** | Quem formula a pergunta influencia o que será observado e o que poderá permanecer fora do campo |
 | **Consequências inesperadas** | Custo invisível: Exclusão de descobertas periféricas, estreitamento prematuro e risco de transformar pesquisa em confirmação |
-| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
-| **Conceitos relacionados** | Não explicitado na ficha anterior. |
-| **Variáveis relacionadas** | Não explicitado na ficha anterior. |
+| **Destino ou transformação posterior** | Ainda não explicitado. |
+| **Conceitos relacionados** | Ainda não explicitado. |
+| **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | Família de ideias: Artefatos de formulação e investigação |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | [[03 artefatos/Pergunta|Pergunta]], [[03 artefatos/Hipótese Científica|Hipótese científica]], [[03 artefatos/Problema de Design|Problema de design]], [[03 artefatos/Jobs to Be Done|Jobs to Be Done]] |
-| **Princípio de design revelado** | Não explicitado na ficha anterior. |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
+| **Princípio de design revelado** | Ainda não explicitado. |
 | **Questão em aberto** | Como manter uma pergunta suficientemente estável para coordenar a pesquisa sem protegê-la das descobertas que deveriam transformá-la? |
 
 ## Referências

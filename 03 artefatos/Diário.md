@@ -65,13 +65,14 @@ Essa diferença muda a relação de poder. **Quem escolhe as categorias decide q
 A pergunta que sobra é: quando registramos para não esquecer, quanto daquilo que lembramos depois passa a ser produzido pelo próprio formato do registro?
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Diário |
 | **Período** | Práticas distribuídas e antigas; formas pessoais datadas aparecem em diferentes tradições e se tornam amplamente reconhecíveis na modernidade |
 | **Autoria** | Difusa; sem inventor único |
 | **Produto ou contexto** | Vida privada, viagem, espiritualidade, trabalho, memória pessoal e documentação histórica |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Preservar experiências, acontecimentos, pensamentos e observações para consulta ou reflexão posterior |
 | **Mundo antes** | Memória oral, cartas, crônicas, registros ocasionais e lembrança interna |
 | **Invenção** | Não há momento singular; práticas de registro pessoal surgem em múltiplos contextos |
@@ -87,7 +88,9 @@ A pergunta que sobra é: quando registramos para não esquecer, quanto daquilo q
 | **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Servico de Reflexao|Serviço de reflexão]], [[01 conceitos/Investigação|Investigação]] |
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Reversibilidade|Reversibilidade]] |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] |
+| **Percurso(s)** | [[05 percursos/Como o Design Aprendeu a Guardar|Como o Design Aprendeu a Guardar]] |
 | **Parentes** | [[03 artefatos/Calendário|Calendário]], [[03 artefatos/Post-it|Post-it]]; tracker financeiro e log como parentes ainda em estudo |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Externalizar experiência não apenas preserva memória; cria uma superfície sobre a qual a própria experiência pode ser reinterpretada |
 | **Questão em aberto** | Quanto do passado recuperado por um diário pertence ao acontecimento e quanto pertence à forma como o registro ensinou o autor a narrá-lo? |
 

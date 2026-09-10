@@ -59,6 +59,8 @@ A hipótese mais interessante talvez seja justamente essa: ao tornar uma ação 
 | **Período** | 2009 aos dias atuais |
 | **Autoria** | Michael Leggett, Yuzo Fujishima e equipe do Gmail |
 | **Produto ou contexto** | Gmail Labs Categoria: Interface digital / comunicação |
+| **Tipo(s) de design** | [[00 tipos de design/Design de Interface|Design de interface]] |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Arrependimento ou percepção de erro imediatamente após o envio de uma mensagem |
 | **Mundo antes** | Ações digitais de envio tratadas como instantâneas e definitivas, em contraste com os intervalos materiais da correspondência física |
 | **Invenção** | Gmail Labs, 2009, com uma janela inicial de cinco segundos antes do envio efetivo |
@@ -74,6 +76,8 @@ A hipótese mais interessante talvez seja justamente essa: ao tornar uma ação 
 | **Conceitos relacionados** | [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção Boa vs Fricção Ruim]], [[01 conceitos/Limiares|Limiares]] |
 | **Variáveis relacionadas** | [[02 variaveis/Reversibilidade|Reversibilidade]], [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Custo do Erro|Custo do Erro]], [[02 variaveis/Atrito Decisorio|Atrito Decisório]] |
 | **Genealogia** | [[04 genealogias/Reversibilidade e Custo do Erro|Reversibilidade e custo do erro]] Família de ideias: Tecnologias de reversibilidade |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | [[03 artefatos/Undo|Undo]], [[03 artefatos/Fila|Fila]] |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Inserir tempo entre intenção e consequência pode reduzir drasticamente o custo do erro Por que funcionou: Resolve um problema psicológico com uma intervenção temporal mínima e quase invisível |
 | **Questão em aberto** | Até que ponto janelas de reversão alteram o cuidado que as pessoas dedicam à decisão antes de agir? |

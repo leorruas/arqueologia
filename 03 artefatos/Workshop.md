@@ -114,6 +114,8 @@ Nesse sentido, o workshop é parente de [[03 artefatos/Retrospectiva|Retrospecti
 | **Período** | Oficinas e workshops possuem história anterior; uso como dispositivo central de design participativo e colaboração organizacional ganha relevância especialmente a partir das décadas de 1970 e 1980 |
 | **Autoria** | Sem inventor único; tradições de participatory design, desenvolvimento organizacional, facilitação e co-design; posteriormente autores como [[autores/Dave Gray|Dave Gray]], [[autores/Sunni Brown|Sunni Brown]] e [[autores/James Macanufo|James Macanufo]] sistematizaram repertórios de atividades |
 | **Produto ou contexto** | Projetos participativos, transformação organizacional, design de serviços, estratégia, pesquisa, educação e inovação Categoria: Design de serviços / facilitação / interação coletiva |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Criar condições temporárias para que múltiplos atores construam, confrontem ou decidam algo em conjunto |
 | **Mundo antes** | Não há um único “antes”; reuniões, assembleias, oficinas e processos colaborativos já existiam. O design participativo modifica especialmente quem é reconhecido como participante legítimo do processo de projeto |
 | **Invenção** | Sem ponto único. O workshop é uma forma histórica ampla; sua apropriação pelo design participativo é parte de uma transformação metodológica e política dos anos 1970 em diante |
@@ -129,6 +131,8 @@ Nesse sentido, o workshop é parente de [[03 artefatos/Retrospectiva|Retrospecti
 | **Conceitos relacionados** | [[01 conceitos/Autodeterminação|Autodeterminação]], [[01 conceitos/Memoria Distribuida|Memória Distribuída]], [[01 conceitos/Sincronizacao|Sincronização]], [[01 conceitos/Justica Procedimental|Justiça Procedimental]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo Transacional|Custo Transacional]], [[02 variaveis/Legitimidade Decisoria|Legitimidade Decisória]], [[02 variaveis/Atencao|Atenção]] |
 | **Genealogia** | [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]], [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] Família de ideias: Artefatos temporários de participação e coordenação |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | Co-design, design sprint, assembleia, World Café, [[03 artefatos/Quadro Branco|Quadro branco]], [[03 artefatos/Post-it|Post-it]], [[03 artefatos/Retrospectiva|Retrospectiva]] |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Participação depende menos de reunir pessoas do que de projetar quais ações, vozes e representações terão espaço e consequência Por que funcionou: Projeta explicitamente regras de interação e usa representações compartilhadas para permitir que múltiplas contribuições coexistam |
 | **Questão em aberto** | Que mecanismos precisam existir depois de um workshop para que a participação temporária se converta em poder persistente sobre decisões? |

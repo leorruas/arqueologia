@@ -71,13 +71,14 @@ Por isso, a importância histórica do bolso talvez esteja menos no tecido e mai
 A pergunta arqueológica que sobra é: **quando cada vez mais funções cabem no bolso, estamos apenas levando mais coisas conosco — ou redesenhando aquilo que esperamos poder fazer a qualquer momento?**
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Bolso |
 | **Período** | Formas diversas anteriores à modernidade; bolsos costurados em roupas masculinas europeias pelo menos desde o Renascimento e tie-on pockets femininos amplamente usados de cerca de 1650 ao século XIX |
 | **Autoria** | Difusa; não existe inventor identificável |
 | **Produto ou contexto** | Vestuário, mobilidade cotidiana, trabalho, vida doméstica e transporte pessoal de pequenos objetos |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Manter objetos úteis, privados ou valiosos próximos do corpo sem ocupar continuamente as mãos |
 | **Mundo antes** | Bolsas, sacos, cintos, caixas e outros recipientes externos ou fixos |
 | **Invenção** | Não há um momento único; o bolso emerge em formas distintas e em tradições diferentes de vestuário |
@@ -93,7 +94,9 @@ A pergunta arqueológica que sobra é: **quando cada vez mais funções cabem no
 | **Conceitos relacionados** | [[01 conceitos/Continuidade de Acesso|Continuidade de acesso]], [[01 conceitos/Tecnologias de Delimitacao|Tecnologias de delimitação]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Expectativa de Disponibilidade|Expectativa de disponibilidade]] |
 | **Genealogia** | [[04 genealogias/Portabilidade e Desancoragem|Portabilidade e desancoragem]] |
+| **Percurso(s)** | [[05 percursos/Como o Design Aprendeu a Guardar|Como o Design Aprendeu a Guardar]] |
 | **Parentes** | [[03 artefatos/Garrafa de Agua|Garrafa de água]], [[03 artefatos/Cartao de Embarque|Cartão de embarque]], [[03 artefatos/Crachá|Crachá]]; bolsa, carteira e mochila como parentes ainda sem estudo próprio |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Acoplar armazenamento ao corpo transforma posse em capacidade disponível durante o deslocamento |
 | **Questão em aberto** | Até que ponto a expectativa contemporânea de acesso permanente depende de uma história material anterior em que capacidades foram sendo progressivamente aproximadas do corpo? |
 

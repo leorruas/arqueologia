@@ -76,13 +76,14 @@ A diferença é que o espelho não interpreta. Ele devolve luz. Sistemas contemp
 A pergunta que fica para esta escavação é talvez essa: **o que acontece quando o artefato que nos deixa observar a nós mesmos deixa de apenas refletir e passa também a julgar, ordenar ou recomendar como devemos mudar?**
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Espelho |
 | **Período** | Pelo menos desde o sexto milênio a.C.; refinamentos importantes no vidro refletivo a partir da Idade Moderna e industrialização no século XIX |
 | **Autoria** | Difusa; diferentes culturas desenvolveram superfícies refletoras em pedra, metal e vidro. Não há inventor único |
 | **Produto ou contexto** | Cuidado corporal, objetos pessoais, interiores domésticos, mobiliário, arquitetura e práticas de autoapresentação |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Obter informação visual sobre o próprio corpo sem depender de outra pessoa ou de condições ambientais ocasionais |
 | **Mundo antes** | Reflexos incidentais em água e outras superfícies; percepção parcial do corpo; feedback de outras pessoas |
 | **Invenção** | Atribuição distribuída a diferentes tradições de superfícies polidas; exemplos arqueológicos remontam ao sexto milênio a.C. |
@@ -98,7 +99,9 @@ A pergunta que fica para esta escavação é talvez essa: **o que acontece quand
 | **Conceitos relacionados** | [[01 conceitos/Tecnologia de Acesso|Tecnologia de acesso]], [[01 conceitos/Autodeterminação|Autodeterminação]], [[01 conceitos/Redução de Inferências|Redução de inferências]] |
 | **Variáveis relacionadas** | [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Expectativa de Disponibilidade|Expectativa de disponibilidade]], [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]] |
 | **Genealogia** | Possível genealogia futura de auto-observação e feedback |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | [[03 artefatos/Camera Fotografica|Câmera fotográfica]], [[03 artefatos/Quadro Branco|Quadro branco]] por feedback imediato sobre uma superfície manipulável, e sistemas de tracking como hipótese comparativa futura |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Reduzir o custo do feedback pode transformar uma verificação ocasional em rotina de autocorreção |
 | **Questão em aberto** | O que muda quando uma superfície de auto-observação deixa de refletir e passa também a interpretar, comparar ou recomendar? |
 

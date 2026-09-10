@@ -74,13 +74,14 @@ Mas essa separação também produz poder. Quem controla a tampa, a chave ou o l
 É aí que o baú começa a se aproximar do [[03 artefatos/Cofre|cofre]]. A diferença não é apenas material. **O baú pergunta onde guardar; o cofre pergunta quem poderá abrir e contra quais ameaças o conteúdo precisa sobreviver.**
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Baú |
 | **Período** | Formas antigas e distribuídas; exemplos documentados atravessam da Antiguidade e Idade Média à modernidade |
 | **Autoria** | Difusa; não existe inventor identificável |
 | **Produto ou contexto** | Mobiliário, vida doméstica, transporte, armazenamento de roupas, documentos e objetos valiosos |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Reunir e preservar objetos num lugar delimitado, reduzindo dispersão e exposição |
 | **Mundo antes** | Objetos mantidos no ambiente, em sacos, cestos, prateleiras ou recipientes diversos |
 | **Invenção** | Não há um momento único; recipientes fechados surgem em múltiplas culturas e contextos |
@@ -96,7 +97,9 @@ Mas essa separação também produz poder. Quem controla a tampa, a chave ou o l
 | **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Tecnologias de Delimitacao|Tecnologias de delimitação]], [[01 conceitos/Continuidade de Acesso|Continuidade de acesso]] |
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Custo Transacional|Custo transacional]] |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]]; relação parcial com [[04 genealogias/Portabilidade e Desancoragem|Portabilidade e desancoragem]] |
+| **Percurso(s)** | [[05 percursos/Como o Design Aprendeu a Guardar|Como o Design Aprendeu a Guardar]] |
 | **Parentes** | [[03 artefatos/Bolso|Bolso]], [[03 artefatos/Cofre|Cofre]], [[03 artefatos/Guarda-roupa|Guarda-roupa]], [[03 artefatos/Archive|Archive]]; mala e gaveta como parentes ainda sem estudo próprio |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Antes de classificar ou buscar, o design pode reduzir dispersão criando uma fronteira que transforma muitos objetos em um conjunto recuperável |
 | **Questão em aberto** | Em que momento guardar deixa de ser principalmente conter e passa a exigir sistemas explícitos de classificação e busca? |
 

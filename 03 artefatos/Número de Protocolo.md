@@ -97,6 +97,8 @@ Quando essa infraestrutura funciona bem, o identificador pode desaparecer da int
 | **Período** | Origem distribuída em tradições de registro e numeração; formas modernas padronizadas em burocracias físicas e digitais |
 | **Autoria** | Sem inventor individual conhecido; desenvolvido e refinado por sistemas administrativos, postais, jurídicos e comerciais |
 | **Produto ou contexto** | Livros de protocolo, repartições, correios, tribunais, SACs, tickets de suporte e sistemas eletrônicos de processos Categoria: Design de serviços / arquitetura da informação / identificação sistêmica |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Preservar a identidade de uma demanda enquanto ela atravessa tempo, pessoas e setores diferentes |
 | **Mundo antes** | Registros e índices já existiam em muitas formas; sem identificador estável, recuperar um caso podia depender mais de nomes, descrições, localização física e conhecimento dos envolvidos |
 | **Invenção** | Distribuída, sem data ou autor únicos suficientemente documentados |
@@ -112,6 +114,8 @@ Quando essa infraestrutura funciona bem, o identificador pode desaparecer da int
 | **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória Distribuída]], [[01 conceitos/Redução de Inferências|Redução de Inferências]], [[01 conceitos/Justificabilidade|Justificabilidade]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo Transacional|Custo Transacional]], [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]] |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]], [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]] Família de ideias: Artefatos de identificação e rastreabilidade |
+| **Percurso(s)** | [[05 percursos/Como o Design Aprendeu a Guardar|Como o Design Aprendeu a Guardar]] |
 | **Parentes** | [[03 artefatos/Carimbo|Carimbo]], [[03 artefatos/Login|Login]], número de pedido, código de rastreamento, ticket de suporte |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Para coordenar entidades através de sistemas extensos, é preciso criar uma referência persistente que sobreviva às interações locais Por que funcionou: Permite que muitos atores se refiram ao mesmo caso sem depender de memória pessoal ou descrição integral |
 | **Questão em aberto** | Quanto um identificador deve carregar de significado legível para o usuário e quanto pode permanecer como chave puramente interna sem reduzir sua capacidade de cobrar o sistema? |

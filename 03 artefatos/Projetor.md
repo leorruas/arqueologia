@@ -72,6 +72,8 @@ O projetor não é apenas uma máquina de imagem. É um sistema de coordenação
 | **Período** | Antecedentes no século XVII; projeção cinematográfica consolidada no fim do século XIX; slides, retroprojeção e projeção digital nos séculos XX e XXI |
 | **Autoria** | Invenção distribuída entre óptica, lanternas mágicas, fotografia, cinema e eletrônica; não há inventor único adequado para toda a genealogia |
 | **Produto ou contexto** | Lanterna mágica, cinema, projetor de slides, retroprojetor, projetor digital e projection mapping |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Permitir que várias pessoas visualizem simultaneamente uma imagem pequena, rara, distante ou previamente registrada |
 | **Mundo antes** | Imagens precisavam ser vistas diretamente, circular entre pessoas ou ser reproduzidas em múltiplas cópias |
 | **Invenção** | Combinar luz, representação e óptica para lançar uma imagem ampliada sobre outra superfície |
@@ -87,7 +89,9 @@ O projetor não é apenas uma máquina de imagem. É um sistema de coordenação
 | **Conceitos relacionados** | atenção coletiva, sincronização, escala, focalização, ritual, autoridade visual, mediação e arquitetura temporária |
 | **Variáveis relacionadas** | escala visual, simultaneidade, alcance, duração, direção da atenção, quantidade de espectadores |
 | **Genealogia** | lanterna mágica → projeção fotográfica → cinema → slides → retroprojetor → projetor digital → projection mapping |
+| **Percurso(s)** | [[05 percursos/Da Parede ao Interlocutor|Da Parede ao Interlocutor]] |
 | **Parentes** | luminária, câmera fotográfica, palco, tapete, cursor, apontador, cinema e PowerPoint |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Ampliar uma representação também amplia sua capacidade de organizar atenção e comportamento coletivo |
 | **Questão em aberto** | Em que momento uma superfície compartilhada deixa de apoiar uma conversa e passa a governá-la? |
 

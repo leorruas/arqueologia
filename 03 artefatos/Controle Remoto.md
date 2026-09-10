@@ -52,13 +52,14 @@ Essa comparação revela uma mudança curiosa. O controle remoto ampliou autonom
 A pergunta histórica mais interessante talvez seja essa: em que momento uma ferramenta feita para dar controle sobre a televisão também ajudou a normalizar a expectativa de que qualquer conteúdo deve poder ser abandonado instantaneamente?
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Controle remoto |
 | **Período** | 1950 em diante; Space Command em 1956 |
 | **Autoria** | Desenvolvimento distribuído na [[empresas/Zenith|Zenith]]: Lazy Bones em 1950; Eugene Polley no Flash-Matic de 1955; [[autores/Robert Adler|Robert Adler]] e equipe no Space Command de 1956 |
 | **Produto ou contexto** | Televisores Zenith e, depois, eletrônicos de consumo em geral |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | [[empresas/Zenith|Zenith]] |
 | **Problema original** | Operar a televisão à distância e eliminar limitações das soluções anteriores com fio ou sensíveis à luz |
 | **Mundo antes** | O usuário precisava manipular controles no próprio televisor; o primeiro remoto da Zenith ainda dependia de um cabo atravessando a sala |
 | **Invenção** | Lazy Bones tornou o controle à distância possível por fio; Flash-Matic introduziu a solução sem fio na linha da Zenith |
@@ -74,7 +75,9 @@ A pergunta histórica mais interessante talvez seja essa: em que momento uma fer
 | **Conceitos relacionados** | [[01 conceitos/Economia da Atencao|Economia da atenção]], [[01 conceitos/Paradoxo da Escolha|Paradoxo da escolha]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Atencao|Atenção]] |
 | **Genealogia** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]], [[04 genealogias/Compressao do Esforco|Compressão do esforço]] |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | [[03 artefatos/Infinite Scroll|Infinite scroll]]; comparação funcional com autoplay, próximo vídeo e feeds de swipe |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Reduzir a distância entre intenção e comando pode transformar uma ação ocasional em comportamento recorrente |
 | **Questão em aberto** | Quanto da cultura de troca instantânea de conteúdo pode ser relacionada à redução progressiva do custo de abandonar uma opção? |
 

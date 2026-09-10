@@ -65,6 +65,8 @@ A mesma ambiguidade aparece nas garrafas reutilizáveis. Elas podem reduzir desc
 | **Período** | Antecedentes antigos; refinamentos industriais decisivos nos séculos XIX e XX |
 | **Autoria** | Evolução coletiva de recipientes portáteis; William Stanley Jr.; Nathaniel Wyeth; Ronald Roseveare |
 | **Produto ou contexto** | Odres, cabaças, frascos, cantis, garrafas térmicas, garrafas PET e garrafas reutilizáveis contemporâneas Categoria: Produto / recipiente portátil |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Transportar uma reserva de líquido para reduzir dependência de uma fonte fixa durante deslocamentos e atividades |
 | **Mundo antes** | Não há um único “antes”; diferentes sociedades combinaram fontes fixas e recipientes portáteis de diversas formas |
 | **Invenção** | Sem inventor identificável para a garrafa como categoria |
@@ -80,6 +82,8 @@ A mesma ambiguidade aparece nas garrafas reutilizáveis. Elas podem reduzir desc
 | **Conceitos relacionados** | [[01 conceitos/Continuidade de Acesso|Continuidade de Acesso]], [[01 conceitos/Tecnologia de Acesso|Tecnologia de Acesso]] |
 | **Variáveis relacionadas** | [[02 variaveis/Expectativa de Disponibilidade|Expectativa de Disponibilidade]], [[02 variaveis/Variabilidade|Variabilidade]], [[02 variaveis/Friccao|Fricção]] |
 | **Genealogia** | [[04 genealogias/Acesso e Disponibilidade|Acesso e disponibilidade]] Família de ideias: Tecnologias portáteis de acesso |
+| **Percurso(s)** | [[05 percursos/Como o Design Aprendeu a Guardar|Como o Design Aprendeu a Guardar]] |
 | **Parentes** | Cantil militar, frasco de peregrino, garrafa PET, garrafa térmica, smartphone como hipótese comparativa de continuidade de acesso |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Aproximar continuamente um recurso de quem precisa dele pode transformar uma necessidade episódica em expectativa permanente de disponibilidade Por que funcionou: Aproxima uma necessidade recorrente de seu recurso e permite transportar uma reserva previsível junto ao corpo |
 | **Questão em aberto** | Quando um artefato de autonomia passa a produzir uma nova dependência de disponibilidade constante? |

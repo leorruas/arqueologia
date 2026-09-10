@@ -104,6 +104,8 @@ Em calendários digitais, notificações e convites adicionam outra tensão. O f
 | **Período** | Sistemas antigos documentados desde o quarto e terceiro milênios a.C.; múltiplas evoluções posteriores; reforma gregoriana em 1582 |
 | **Autoria** | Diversas sociedades e tradições; no calendário gregoriano, Aloysius Lilius, Christopher Clavius e instituições da Igreja Católica sob Gregório XIII |
 | **Produto ou contexto** | Agricultura, rituais, administração, impostos, religião, comércio, educação, trabalho e interfaces digitais Categoria: Interface temporal / sistema de coordenação / tecnologia cognitiva |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Criar referências temporais compartilháveis para coordenar ações que precisam ocorrer além do presente imediato |
 | **Mundo antes** | Observação de ciclos naturais, tradição oral e conhecimento especializado já permitiam previsão e planejamento; calendários formalizam e externalizam essas referências |
 | **Invenção** | Múltipla e distribuída; diferentes sociedades construíram sistemas próprios |
@@ -119,6 +121,8 @@ Em calendários digitais, notificações e convites adicionam outra tensão. O f
 | **Conceitos relacionados** | [[01 conceitos/Sincronizacao|Sincronização]], [[01 conceitos/Memoria Distribuida|Memória Distribuída]], [[01 conceitos/Tecnologia de Acesso|Tecnologia de Acesso]], [[01 conceitos/Continuidade de Acesso|Continuidade de Acesso]] |
 | **Variáveis relacionadas** | [[02 variaveis/Expectativa de Disponibilidade|Expectativa de Disponibilidade]], [[02 variaveis/Custo Transacional|Custo Transacional]], [[02 variaveis/Permanencia|Permanência]] |
 | **Genealogia** | [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]], [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] Família de ideias: Artefatos de sincronização e externalização do futuro |
+| **Percurso(s)** | [[05 percursos/Da Espera a Sincronizacao|Da Espera a Sincronizacao]] |
 | **Parentes** | [[03 artefatos/Agendamento|Agendamento]], [[03 artefatos/Fila|Fila]], [[03 artefatos/Checklist|Checklist]], [[03 artefatos/Post-it|Post-it]], agenda, cronograma e diagrama de Gantt |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Representar uma variável abstrata em posições compartilhadas permite que grupos coordenem ações sem precisar compartilhar continuamente memória, presença ou observação Por que funcionou: Converte fenômenos temporais e acordos sociais em uma linguagem externa, repetível e compartilhável |
 | **Questão em aberto** | Quando calendários digitais deixam de apenas ajudar uma pessoa a organizar seu tempo e passam a permitir que outras pessoas e sistemas administrem parcelas dele? |

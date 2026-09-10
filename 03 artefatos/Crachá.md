@@ -57,9 +57,11 @@ O crachá mostra uma ideia recorrente no design institucional: **quando confian�
 | **Artefato** | Crachá |
 | **Período** | Credenciais são antigas; badges industriais e fotográficos consolidam-se no fim do século XIX e início do XX |
 | **Autoria** | Distribuída |
-| **Produto ou contexto** | Não explicitado na ficha anterior. |
+| **Produto ou contexto** | Ainda não explicitado. |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Identificar pertencimento e autorização em organizações grandes demais para reconhecimento pessoal |
-| **Mundo antes** | Não explicitado na ficha anterior. |
+| **Mundo antes** | Ainda não explicitado. |
 | **Invenção** | Deriva de passes, badges, certificados e outras credenciais anteriores |
 | **Refinamento** | Inclusão de fotografia, número, cores, hologramas e tecnologias eletrônicas |
 | **Popularização** | Indústria, governos, escolas, eventos e corporações |
@@ -69,12 +71,14 @@ O crachá mostra uma ideia recorrente no design institucional: **quando confian�
 | **Comportamento produzido** | Portar identidade institucional visível e validar o próprio corpo em catracas e portarias |
 | **Relação de poder** | Facilita autonomia de circulação autorizada, mas torna classificação, exclusão e vigilância operacionalmente simples |
 | **Consequências inesperadas** | Custo invisível: Dependência do objeto, clonagem, extravio e hierarquias visuais de vínculo ou acesso |
-| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
+| **Destino ou transformação posterior** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Limiares|Limiares]], [[01 conceitos/Tecnologias de Delimitacao|Tecnologias de delimitação]] |
-| **Variáveis relacionadas** | Não explicitado na ficha anterior. |
+| **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | [[04 genealogias/Limiares e Delimitacao|Limiares e delimitação]] |
+| **Percurso(s)** | [[05 percursos/Como Projetamos Fronteiras|Como Projetamos Fronteiras]] |
 | **Parentes** | [[03 artefatos/Login|Login]], [[03 artefatos/Tela de Login|Tela de login]], passaporte, chave, uniforme |
-| **Princípio de design revelado** | Não explicitado na ficha anterior. |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
+| **Princípio de design revelado** | Ainda não explicitado. |
 | **Questão em aberto** | O que acontece com o pertencimento institucional quando a credencial deixa de ser visível e passa a operar silenciosamente por biometria ou dispositivos pessoais? |
 
 ## Referências

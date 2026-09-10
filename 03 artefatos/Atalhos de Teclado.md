@@ -53,9 +53,11 @@ O princípio é semelhante: **pagar um custo inicial de aprendizagem para econom
 | **Artefato** | Atalhos de teclado |
 | **Período** | Comandos por teclas antecedem GUIs; aceleradores gráficos consolidam-se especialmente entre as décadas de 1970 e 1980 |
 | **Autoria** | Distribuída; Larry Tesler e equipes de SRI, Xerox PARC e Apple são centrais na história de cut/copy/paste e sua popularização |
-| **Produto ou contexto** | Não explicitado na ficha anterior. |
+| **Produto ou contexto** | Ainda não explicitado. |
+| **Tipo(s) de design** | [[00 tipos de design/Design de Interface|Design de interface]] |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Reduzir o custo de repetir ações frequentes sem sacrificar completamente a descobribilidade da interface |
-| **Mundo antes** | Não explicitado na ficha anterior. |
+| **Mundo antes** | Ainda não explicitado. |
 | **Invenção** | Combinações e teclas de controle são anteriores à GUI |
 | **Refinamento** | Integração de aceleradores a comandos visíveis em menus |
 | **Popularização** | Apple Lisa, Macintosh e posteriormente sistemas e aplicativos de massa |
@@ -65,12 +67,14 @@ O princípio é semelhante: **pagar um custo inicial de aprendizagem para econom
 | **Comportamento produzido** | Operar software por memória de combinações sem navegar visualmente a cada ação |
 | **Relação de poder** | Aumenta a eficiência de especialistas, mas cria diferença de desempenho entre quem conhece e quem não conhece o repertório oculto |
 | **Consequências inesperadas** | Custo invisível: Baixa descobribilidade, inconsistência entre aplicativos e dependência de aprendizagem cultural |
-| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
+| **Destino ou transformação posterior** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Manipulacao Direta|Manipulação direta]], [[01 conceitos/Affordance|Affordance]] |
-| **Variáveis relacionadas** | Não explicitado na ficha anterior. |
+| **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | [[04 genealogias/Compressao do Esforco|Compressão do esforço]] |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | [[03 artefatos/Undo|Undo]], estenografia, abreviação, interface de linha de comando |
-| **Princípio de design revelado** | Não explicitado na ficha anterior. |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
+| **Princípio de design revelado** | Ainda não explicitado. |
 | **Questão em aberto** | Até que ponto interfaces generativas e comandos em linguagem natural reduzirão o valor de memorizar atalhos? |
 
 ## Referências

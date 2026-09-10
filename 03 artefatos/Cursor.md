@@ -54,6 +54,8 @@ Talvez um sinal de sucesso do cursor seja justamente ter se tornado tão convenc
 | **Período** | Desenvolvido em sistemas computacionais interativos do século XX e consolidado com interfaces gráficas e dispositivos apontadores |
 | **Autoria** | Evolução distribuída entre laboratórios de computação interativa; associado à história de sistemas de apontamento, hipertexto e interfaces gráficas |
 | **Produto ou contexto** | Terminais, editores de texto, sistemas gráficos, mouse, desktop, navegadores e interfaces digitais |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Tornar perceptível onde entrada, seleção ou ação ocorrerá dentro de um campo computacional |
 | **Mundo antes** | Interação computacional mais dependente de comandos, posições de texto e sistemas com menor manipulação espacial direta |
 | **Invenção** | Representar visualmente uma posição ou ponto de inserção dentro da interface |
@@ -69,6 +71,8 @@ Talvez um sinal de sucesso do cursor seja justamente ter se tornado tão convenc
 | **Conceitos relacionados** | focalização, feedback, apontamento, affordance, manipulação direta, atenção e extensão corporal |
 | **Variáveis relacionadas** | posição, precisão, latência, visibilidade, estado e alvo |
 | **Genealogia** | apontar corporal → instrumentos apontadores → posição em terminais → ponteiro gráfico → cursores contextuais |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | dedo, apontador, mouse, luminária, câmera, holofote, seleção de texto e foco de teclado |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Tornar a intenção visível permite transformar um espaço abstrato em campo de ação |
 | **Questão em aberto** | Quando interfaces antecipatórias souberem onde pretendemos agir antes do gesto, ainda precisaremos representar a intenção com um cursor? |

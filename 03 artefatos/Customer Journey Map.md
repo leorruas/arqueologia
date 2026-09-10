@@ -92,13 +92,14 @@ O artefato funciona melhor quando continua sendo interrogável.
 Talvez sua principal contribuição não seja “mostrar a jornada do cliente”, mas permitir que uma organização veja algo que sua própria estrutura tende a esconder: **a pessoa atravessa fronteiras internas que para ela nunca existiram**.
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Customer Journey Map |
 | **Período** | Antecedentes nos anos 1980 e 1990; consolidação contemporânea principalmente a partir dos anos 2000 |
 | **Autoria** | Distribuída; não existe inventor consensual do Customer Journey Map |
 | **Produto ou contexto** | Marketing de serviços, customer experience, UX e design de serviços |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Experiências atravessam tempo, canais e departamentos, enquanto organizações tendem a analisá-las em pontos isolados |
 | **Mundo antes** | Fluxogramas internos, análise de touchpoints isolados, métricas departamentais e relatos não integrados da experiência |
 | **Invenção** | Não há momento único; diferentes tradições desenvolveram representações temporais da experiência do cliente |
@@ -114,7 +115,9 @@ Talvez sua principal contribuição não seja “mostrar a jornada do cliente”
 | **Conceitos relacionados** | [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Redução de Inferências|Redução de inferências]], [[01 conceitos/Ecologia de Artefatos|Ecologia de artefatos]], [[01 conceitos/Investigação|Investigação]], [[01 conceitos/Formulação|Formulação]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Atrito Decisorio|Atrito decisório]], [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]] |
 | **Genealogia** | Parente funcional de representações que tornam processos e sequências distribuídas inspecionáveis |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | [[03 artefatos/Service Blueprint|Service Blueprint]], [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], Entrevista qualitativa, Pesquisa quantitativa, Storyboard |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Uma experiência distribuída no tempo pode se tornar discutível quando é comprimida numa representação comum, desde que o mapa preserve a diferença entre evidência e hipótese |
 | **Questão em aberto** | Como representar jornadas que são cíclicas, interrompidas, paralelas ou coletivas sem forçá-las a uma linha temporal limpa demais? |
 

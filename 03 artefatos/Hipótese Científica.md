@@ -73,9 +73,11 @@ Talvez seja esse o parentesco mais forte entre ciência e design: ambos avançam
 | **Artefato** | Hipótese científica |
 | **Período** | Prática com antecedentes antigos; formalizações modernas se desenvolvem ao longo da Revolução Científica e da filosofia da ciência posterior |
 | **Autoria** | Distribuída. Bacon, Galileu e Popper representam momentos diferentes da história metodológica, não uma linha de coautoria |
-| **Produto ou contexto** | Não explicitado na ficha anterior. |
+| **Produto ou contexto** | Ainda não explicitado. |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Como transformar uma explicação possível em algo confrontável com evidências |
-| **Mundo antes** | Não explicitado na ficha anterior. |
+| **Mundo antes** | Ainda não explicitado. |
 | **Invenção** | Sem ocorrência única identificável |
 | **Refinamento** | Métodos experimentais, raciocínio hipotético-dedutivo e debates sobre confirmação e falseabilidade tornam hipóteses mais explicitamente testáveis |
 | **Popularização** | Ciência experimental, medicina, pesquisa social, produto e práticas de experimentação em design |
@@ -85,12 +87,14 @@ Talvez seja esse o parentesco mais forte entre ciência e design: ambos avançam
 | **Comportamento produzido** | Formular explicações provisórias, prever resultados e revisar crenças diante de evidência |
 | **Relação de poder** | Fortalece investigação baseada em critérios discutíveis publicamente e enfraquece, em princípio, explicações sustentadas apenas por autoridade |
 | **Consequências inesperadas** | Custo invisível: Viés de confirmação, simplificação excessiva de fenômenos e dogmatização da própria hipótese |
-| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
-| **Conceitos relacionados** | Não explicitado na ficha anterior. |
-| **Variáveis relacionadas** | Não explicitado na ficha anterior. |
+| **Destino ou transformação posterior** | Ainda não explicitado. |
+| **Conceitos relacionados** | Ainda não explicitado. |
+| **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | Família de ideias: Artefatos de formulação e investigação |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | [[03 artefatos/Pergunta de Pesquisa|Pergunta de pesquisa]], [[03 artefatos/Problema de Design|Problema de design]], [[03 artefatos/Projeto Piloto|Projeto piloto]], [[03 artefatos/Jobs to Be Done|Jobs to Be Done]] |
-| **Princípio de design revelado** | Não explicitado na ficha anterior. |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
+| **Princípio de design revelado** | Ainda não explicitado. |
 | **Questão em aberto** | Como projetar processos em que abandonar uma hipótese ruim seja percebido como aprendizado e não como fracasso? |
 
 ## Referências

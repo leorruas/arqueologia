@@ -65,9 +65,11 @@ A pergunta contemporânea não é se o login vai desaparecer. É quanto de seu r
 | **Artefato** | Login |
 | **Período** | Consolidação em sistemas multiusuário no início dos anos 1960 |
 | **Autoria** | Distribuída; CTSS e a equipe liderada por Fernando Corbató são referências centrais na história inicial de contas e passwords |
-| **Produto ou contexto** | Não explicitado na ficha anterior. |
+| **Produto ou contexto** | Ainda não explicitado. |
+| **Tipo(s) de design** | [[00 tipos de design/Design de Interface|Design de interface]] |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Separar identidade, arquivos, permissões e responsabilidade entre usuários de uma infraestrutura compartilhada |
-| **Mundo antes** | Não explicitado na ficha anterior. |
+| **Mundo antes** | Ainda não explicitado. |
 | **Invenção** | Não há um único inventor ou instante isolável do login moderno |
 | **Refinamento** | Contas, passwords, sessões, permissões, autenticação multifator e identidades federadas |
 | **Popularização** | Sistemas multiusuário, redes e serviços web |
@@ -77,12 +79,14 @@ A pergunta contemporânea não é se o login vai desaparecer. É quanto de seu r
 | **Comportamento produzido** | Entrar e sair de identidades digitais e administrar credenciais como parte da vida cotidiana |
 | **Relação de poder** | Protege privacidade e individualiza responsabilidade, mas dá ao sistema poder de admitir, excluir e registrar ações por identidade |
 | **Consequências inesperadas** | Custo invisível: Fadiga de senhas, perda de acesso, roubo de credenciais e dependência de provedores de identidade |
-| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
+| **Destino ou transformação posterior** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Limiares|Limiares]], [[01 conceitos/Tecnologias de Delimitacao|Tecnologias de delimitação]] |
-| **Variáveis relacionadas** | Não explicitado na ficha anterior. |
+| **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | [[04 genealogias/Limiares e Delimitacao|Limiares e delimitação]] |
+| **Percurso(s)** | [[05 percursos/Como Projetamos Fronteiras|Como Projetamos Fronteiras]] |
 | **Parentes** | [[03 artefatos/Tela de Login|Tela de login]], [[03 artefatos/Crachá|Crachá]], chave, passaporte, biometria |
-| **Princípio de design revelado** | Não explicitado na ficha anterior. |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
+| **Princípio de design revelado** | Ainda não explicitado. |
 | **Questão em aberto** | Quanto do ritual de autenticação pode desaparecer sem tornar identidade e permissão opacas demais para o usuário? |
 
 ## Referências

@@ -81,9 +81,11 @@ Isso produz uma pergunta incômoda para o design: e se alguns dos nossos melhore
 | **Artefato** | Wicked Problem |
 | **Período** | Formulação pública documentada em 1967; desenvolvimento posterior e sistematização influente em 1973 |
 | **Autoria** | Horst Rittel formula o termo; C. West Churchman registra e divulga a formulação em 1967; Rittel e Melvin Webber a sistematizam em 1973 |
-| **Produto ou contexto** | Não explicitado na ficha anterior. |
+| **Produto ou contexto** | Ainda não explicitado. |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Explicar por que métodos lineares de solução de problemas falham diante de problemas sociais e de planejamento com formulação instável e valores conflitantes |
-| **Mundo antes** | Não explicitado na ficha anterior. |
+| **Mundo antes** | Ainda não explicitado. |
 | **Invenção** | Horst Rittel, documentado por Churchman em 1967 |
 | **Refinamento** | Desenvolvimento por Rittel e sistematização com Webber nas dez propriedades de 1973 |
 | **Popularização** | Planejamento, políticas públicas, design sistêmico, inovação e design de serviços |
@@ -93,12 +95,14 @@ Isso produz uma pergunta incômoda para o design: e se alguns dos nossos melhore
 | **Comportamento produzido** | Iterar formulação e ação, negociar critérios e abandonar a expectativa de solução final única |
 | **Relação de poder** | Expõe que definição de problema, métrica e sucesso incorporam valores e não são decisões puramente técnicas |
 | **Consequências inesperadas** | Custo invisível: Pode legitimar paralisia, relativismo ou uso indiscriminado da palavra “complexo” para evitar decisões |
-| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
-| **Conceitos relacionados** | Não explicitado na ficha anterior. |
-| **Variáveis relacionadas** | Não explicitado na ficha anterior. |
+| **Destino ou transformação posterior** | Ainda não explicitado. |
+| **Conceitos relacionados** | Ainda não explicitado. |
+| **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | Família de ideias: Artefatos de formulação, complexidade e investigação |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | [[03 artefatos/Problema de Design|Problema de design]], [[03 artefatos/Projeto Piloto|Projeto piloto]], [[03 artefatos/Hipótese Científica|Hipótese científica]], [[03 artefatos/Retrospectiva|Retrospectiva]] |
-| **Princípio de design revelado** | Não explicitado na ficha anterior. |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
+| **Princípio de design revelado** | Ainda não explicitado. |
 | **Questão em aberto** | Como manter capacidade de agir sem converter a complexidade em desculpa para inação ou em promessa falsa de controle? |
 
 ## Referências

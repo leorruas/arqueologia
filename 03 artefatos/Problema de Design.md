@@ -77,9 +77,11 @@ Talvez seja isso que separa formulação de simples briefing. O briefing diz o q
 | **Artefato** | Problema de design |
 | **Período** | Prática histórica do projeto; explicitada e teorizada fortemente na segunda metade do século XX |
 | **Autoria** | Distribuída. Herbert Simon, Horst Rittel e Melvin Webber são referências teóricas importantes, não inventores individuais do artefato |
-| **Produto ou contexto** | Não explicitado na ficha anterior. |
+| **Produto ou contexto** | Ainda não explicitado. |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Evitar que uma solução presumida seja confundida com a situação que realmente precisa ser transformada |
-| **Mundo antes** | Não explicitado na ficha anterior. |
+| **Mundo antes** | Ainda não explicitado. |
 | **Invenção** | Sem ocorrência única identificável |
 | **Refinamento** | Teorias de design, planejamento, problem framing, pesquisa com usuários e métodos de descoberta tornam a formulação uma etapa explícita |
 | **Popularização** | Design estratégico, UX, design de serviços, design thinking e inovação |
@@ -89,12 +91,14 @@ Talvez seja isso que separa formulação de simples briefing. O briefing diz o q
 | **Comportamento produzido** | Suspender soluções precoces, reformular demandas e comparar alternativas em relação a um estado desejado |
 | **Relação de poder** | Quem define o problema influencia quais soluções, usuários, métricas e restrições serão considerados legítimos |
 | **Consequências inesperadas** | Custo invisível: Tempo de investigação, disputa de escopo e possibilidade de paralisia por reformulação contínua |
-| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
-| **Conceitos relacionados** | Não explicitado na ficha anterior. |
-| **Variáveis relacionadas** | Não explicitado na ficha anterior. |
+| **Destino ou transformação posterior** | Ainda não explicitado. |
+| **Conceitos relacionados** | Ainda não explicitado. |
+| **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | Família de ideias: Artefatos de formulação e investigação |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | [[03 artefatos/Pergunta de Pesquisa|Pergunta de pesquisa]], [[03 artefatos/Hipótese Científica|Hipótese científica]], [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Projeto Piloto|Projeto piloto]], [[03 artefatos/Brief|Brief]] |
-| **Princípio de design revelado** | Não explicitado na ficha anterior. |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
+| **Princípio de design revelado** | Ainda não explicitado. |
 | **Questão em aberto** | Como saber quando uma formulação está boa o suficiente para ser testada em vez de continuar sendo refinada? |
 
 ## Referências

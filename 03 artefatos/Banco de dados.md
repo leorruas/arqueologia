@@ -79,13 +79,14 @@ Isso explica sua importância no percurso [[05 percursos/Como o Design Aprendeu 
 A pergunta arqueológica que sobra é: **quando aquilo que não cabe no schema tende a desaparecer das consultas futuras, quem está realmente desenhando a memória — quem registra os dados ou quem decidiu antecipadamente quais dados poderiam existir?**
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Banco de dados |
 | **Período** | Sistemas de dados computadorizados se consolidam nos anos 1960; modelo relacional formulado em 1970 e amplamente adotado nas décadas seguintes |
 | **Autoria** | Distribuída; Edgar F. Codd é autor do modelo relacional, não inventor único de bancos de dados |
 | **Produto ou contexto** | Computação empresarial, sistemas administrativos, ciência, comércio, serviços digitais e infraestrutura de software |
+| **Tipo(s) de design** | [[00 tipos de design/Design de Interface|Design de interface]] |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Armazenar grandes conjuntos de registros e recuperá-los de modo confiável sem depender de memória humana ou navegação manual por arquivos |
 | **Mundo antes** | Arquivos físicos, fichários, sistemas computadorizados baseados em arquivos e bancos hierárquicos ou em rede |
 | **Invenção** | Não há uma invenção singular do banco de dados; sistemas anteriores precedem o modelo relacional |
@@ -101,7 +102,9 @@ A pergunta arqueológica que sobra é: **quando aquilo que não cabe no schema t
 | **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Redução de Inferências|Redução de inferências]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Justificabilidade|Justificabilidade]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]] |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] |
+| **Percurso(s)** | [[05 percursos/Como o Design Aprendeu a Guardar|Como o Design Aprendeu a Guardar]] |
 | **Parentes** | [[03 artefatos/Guarda-roupa|Guarda-roupa]], [[03 artefatos/Archive|Archive]], [[03 artefatos/Número de Protocolo|Número de protocolo]], [[03 artefatos/LLM Wiki|LLM Wiki]] |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Armazenamento escala quando recuperação deixa de depender de conhecer a localização física e passa a depender de relações e consultas |
 | **Questão em aberto** | O que desaparece da memória coletiva quando schemas transformam certas dimensões da realidade em dados e deixam outras fora daquilo que pode ser consultado? |
 

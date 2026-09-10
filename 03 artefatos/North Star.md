@@ -91,9 +91,11 @@ Por isso, escolher uma North Star é também escolher qual parte do mundo a orga
 | **Artefato** | North Star |
 | **Período** | Uso contemporâneo consolidado no produto digital sobretudo nas décadas de 2000 e 2010 |
 | **Autoria** | Difusa; não há inventor único estabelecido. Empresas e autores de growth/product management posteriormente sistematizaram o conceito |
-| **Produto ou contexto** | Não explicitado na ficha anterior. |
+| **Produto ou contexto** | Ainda não explicitado. |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Evitar que equipes otimizem indicadores locais enquanto perdem de vista o valor produzido pelo sistema como um todo |
-| **Mundo antes** | Não explicitado na ficha anterior. |
+| **Mundo antes** | Ainda não explicitado. |
 | **Invenção** | Origem específica não estabelecida |
 | **Refinamento** | Frameworks de produto passam a definir critérios para escolher uma North Star Metric ligada a valor e crescimento sustentável |
 | **Popularização** | Growth, product management, SaaS e organizações de produto digital |
@@ -103,12 +105,14 @@ Por isso, escolher uma North Star é também escolher qual parte do mundo a orga
 | **Comportamento produzido** | Comparar iniciativas pela contribuição esperada a um indicador comum e priorizar de forma mais descentralizada |
 | **Relação de poder** | Distribui autonomia operacional, mas concentra poder epistemológico em quem decide o que será medido como valor |
 | **Consequências inesperadas** | Custo invisível: Simplificação excessiva, gaming da métrica e invisibilização de dimensões importantes que não entram no indicador principal |
-| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
-| **Conceitos relacionados** | Não explicitado na ficha anterior. |
-| **Variáveis relacionadas** | Não explicitado na ficha anterior. |
+| **Destino ou transformação posterior** | Ainda não explicitado. |
+| **Conceitos relacionados** | Ainda não explicitado. |
+| **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | Família de ideias: Artefatos de intenção, mensuração e autodeterminação |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | [[03 artefatos/Visão|Visão]], [[03 artefatos/Princípio|Princípio]], [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Manifesto|Manifesto]] |
-| **Princípio de design revelado** | Não explicitado na ficha anterior. |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
+| **Princípio de design revelado** | Ainda não explicitado. |
 | **Questão em aberto** | Como perceber que uma North Star deixou de representar valor antes que toda a organização aprenda a otimizar apenas o número? |
 
 ## Referências

@@ -83,6 +83,8 @@ Essa gramática abriu caminho para outras interfaces espaciais, inclusive ambien
 | **Período** | Antecedentes de pesquisa desde décadas anteriores; popularização comercial em 2007 |
 | **Autoria** | Pesquisadores de multitouch como Myron Krueger, Bill Buxton e equipes da Universidade de Toronto; Jeff Han; equipes de design e engenharia do primeiro iPhone |
 | **Produto ou contexto** | Sistemas experimentais multitouch; posteriormente iPhone, tablets, trackpads e outras superfícies digitais Categoria: Interface digital / gesto multitouch / controle de escala |
+| **Tipo(s) de design** | [[00 tipos de design/Design de Interface|Design de interface]] |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Alterar rapidamente a escala de imagens, mapas e documentos sem depender de controles separados |
 | **Mundo antes** | Zoom realizado por botões, menus, ferramentas ou comandos indiretos; multitouch já existia em pesquisa, mas não era repertório cotidiano de grande parte do público |
 | **Invenção** | Não atribuível à Apple nem a um único inventor; gestos multitouch de expansão e contração possuem antecedentes anteriores ao iPhone |
@@ -98,6 +100,8 @@ Essa gramática abriu caminho para outras interfaces espaciais, inclusive ambien
 | **Conceitos relacionados** | [[01 conceitos/Manipulacao Direta|Manipulação Direta]], [[01 conceitos/Affordance|Affordance]], [[01 conceitos/Redução de Inferências|Redução de Inferências]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo Transacional|Custo Transacional]], [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]] |
 | **Genealogia** | [[04 genealogias/Compressao do Esforco|Compressão do esforço]] Família de ideias: Gestos de manipulação direta |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | [[03 artefatos/Slide to Unlock|Slide to Unlock]], [[03 artefatos/Pull to Refresh|Pull to Refresh]], lupa como parentesco funcional, gesto de esticar como analogia corporal |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Quando a forma do gesto preserva a estrutura da transformação, o corpo pode aprender um comando como relação em vez de instrução Por que funcionou: Mapeia distância entre dedos diretamente para escala do objeto, mantendo ação e feedback no mesmo espaço perceptivo |
 | **Questão em aberto** | Quais gestos hoje parecem “naturais” apenas porque uma geração inteira foi treinada por produtos que os padronizaram? |

@@ -89,9 +89,11 @@ Um piloto que só pode confirmar o projeto já escolhido não é realmente um ex
 | **Artefato** | Projeto piloto |
 | **Período** | Prática distribuída; forte institucionalização em pesquisa, engenharia, indústria e políticas públicas ao longo do século XX |
 | **Autoria** | Distribuída; sem inventor único |
-| **Produto ou contexto** | Não explicitado na ficha anterior. |
+| **Produto ou contexto** | Ainda não explicitado. |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Aprender sobre uma mudança antes de assumir o risco, custo e irreversibilidade de implementá-la em escala total |
-| **Mundo antes** | Não explicitado na ficha anterior. |
+| **Mundo antes** | Ainda não explicitado. |
 | **Invenção** | Sem ocorrência única identificável; diferentes campos desenvolveram experiências preliminares e operações em escala reduzida |
 | **Refinamento** | Plantas piloto, estudos piloto, programas experimentais e métodos de rollout passam a explicitar escala, viabilidade e critérios de progressão |
 | **Popularização** | Engenharia, ciência, políticas públicas, gestão, design, Lean Startup e desenvolvimento de software |
@@ -101,12 +103,14 @@ Um piloto que só pode confirmar o projeto já escolhido não é realmente um ex
 | **Comportamento produzido** | Testar antes de expandir, observar efeitos em uso e revisar decisões a partir de evidência operacional |
 | **Relação de poder** | Pode criar espaço real para revisão ou ser usado apenas para legitimar uma decisão já tomada sob aparência de experimentação |
 | **Consequências inesperadas** | Custo invisível: Efeito piloto, ilhas de excelência, atrasos, pilotos permanentes e falsa reversibilidade quando não existe possibilidade real de encerrar |
-| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
+| **Destino ou transformação posterior** | Ainda não explicitado. |
 | **Conceitos relacionados** | experimentação, aprendizagem, [[02 variaveis/Reversibilidade|Reversibilidade]], [[02 variaveis/Custo do Erro|Custo do erro]], [[02 variaveis/Friccao|Fricção]] |
-| **Variáveis relacionadas** | Não explicitado na ficha anterior. |
+| **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | Família de ideias: Artefatos de experimentação e compromisso parcial |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | protótipo, estudo piloto, planta piloto, beta, MVP, teste A/B, [[03 artefatos/Hipótese Científica|Hipótese científica]], [[03 artefatos/Retrospectiva|Retrospectiva]] |
-| **Princípio de design revelado** | Não explicitado na ficha anterior. |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
+| **Princípio de design revelado** | Ainda não explicitado. |
 | **Questão em aberto** | Como tornar um piloto representativo o bastante para informar a escala sem retirar justamente as proteções que tornam possível experimentá-lo? |
 
 ## Referências

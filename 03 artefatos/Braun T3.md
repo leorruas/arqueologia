@@ -57,9 +57,11 @@ O T3 é interessante porque ajuda a separar essas duas coisas. Sua força não e
 | **Artefato** | Braun T3 |
 | **Período** | 1958 |
 | **Autoria** | Dieter Rams; associação também registrada com a Hochschule für Gestaltung de Ulm; fabricação Braun |
-| **Produto ou contexto** | Não explicitado na ficha anterior. |
+| **Produto ou contexto** | Ainda não explicitado. |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Dar forma portátil, legível e compacta ao rádio transistorizado |
-| **Mundo antes** | Não explicitado na ficha anterior. |
+| **Mundo antes** | Ainda não explicitado. |
 | **Invenção** | Não inventa o rádio portátil nem o transistor |
 | **Refinamento** | Condensa a linguagem funcionalista da Braun numa interface de bolso extremamente reduzida |
 | **Popularização** | Braun e circulação internacional do design alemão do pós-guerra |
@@ -69,12 +71,14 @@ O T3 é interessante porque ajuda a separar essas duas coisas. Sua força não e
 | **Comportamento produzido** | Uso de mídia sonora portátil e individualizado dentro de uma transformação mais ampla |
 | **Relação de poder** | A portabilidade desloca parte do controle da escuta do ambiente compartilhado para o indivíduo |
 | **Consequências inesperadas** | Custo invisível: A linguagem minimalista pode virar estilo imitativo desvinculado de clareza funcional |
-| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
+| **Destino ou transformação posterior** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Compressao do Esforco|Compressão do esforço]] |
-| **Variáveis relacionadas** | Não explicitado na ficha anterior. |
-| **Genealogia** | Não explicitado na ficha anterior. |
+| **Variáveis relacionadas** | Ainda não explicitado. |
+| **Genealogia** | Ainda não explicitado. |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | rádio doméstico, rádio de bolso, [[03 artefatos/Controle Remoto|Controle remoto]], iPod como comparação formal posterior |
-| **Princípio de design revelado** | Não explicitado na ficha anterior. |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
+| **Princípio de design revelado** | Ainda não explicitado. |
 | **Questão em aberto** | Quando a discrição deixa de ser consequência funcional e passa a ser apenas uma estética de autoridade? |
 
 ## Referências

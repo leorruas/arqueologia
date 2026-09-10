@@ -105,13 +105,14 @@ Talvez por isso o artefato seja tão importante para [[01 conceitos/Compressao d
 E é justamente aí que aparece seu limite: se o serviço muda mais rápido do que o mapa, o artefato que deveria reduzir inferência começa a produzir outra — a suposição de que o desenho ainda representa a realidade.
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Service Blueprint |
 | **Período** | Formulação identificável em 1982; ampla divulgação gerencial em 1984; refinamentos importantes nas décadas seguintes |
 | **Autoria** | G. Lynn Shostack é a formuladora identificável do service blueprinting; a forma contemporânea foi refinada por diversos autores e praticantes, incluindo Mary Jo Bitner, Amy L. Ostrom e Felicia N. Morgan |
 | **Produto ou contexto** | Marketing de serviços, operações, design de serviços, inovação e transformação organizacional |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Tornar serviços intangíveis e processuais suficientemente explícitos para serem analisados, projetados, testados e controlados |
 | **Mundo antes** | Descrições verbais, procedimentos, fluxogramas, engenharia de métodos, PERT e diagramas de sistemas representavam partes do problema, mas não articulavam de modo específico experiência do cliente, visibilidade e produção do serviço |
 | **Invenção** | Shostack sistematiza em 1982 o service blueprinting como método específico para representar e projetar serviços, combinando técnicas anteriores de representação de processos |
@@ -127,7 +128,9 @@ E é justamente aí que aparece seu limite: se o serviço muda mais rápido do q
 | **Conceitos relacionados** | [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Redução de Inferências|Redução de inferências]], [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Ecologia de Artefatos|Ecologia de artefatos]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]], [[02 variaveis/Friccao|Fricção]] |
 | **Genealogia** | [[04 genealogias/Compressao do Esforco|Compressão do esforço]], [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]] |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | Blueprint arquitetônico, fluxograma, mapa de processo, customer journey map, [[03 artefatos/Kanban|Kanban]], [[03 artefatos/Matriz RACI|Matriz RACI]], [[03 artefatos/Checklist|Checklist]] |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Uma representação pode reduzir esforço sem remover trabalho do sistema: basta comprimir o custo de reconstruir suas relações |
 | **Questão em aberto** | Quando um blueprint deixa de tornar o serviço legível e começa a impor ao serviço a simplificação necessária para caber no mapa? |
 
