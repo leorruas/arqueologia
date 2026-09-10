@@ -51,6 +51,8 @@ leitura: "mandatória: ler antes de qualquer operação no vault"
 24. **Reciprocidade da rede**: quando um novo vínculo altera uma nota já existente, atualize também essa nota. Wikilinks no artigo novo não substituem a manutenção de genealogias, percursos, conceitos, variáveis, especialidades ou artefatos antigos afetados.
 25. **Criação seletiva de nós**: não criar autor, empresa, conceito, variável, genealogia, percurso ou tipo de design apenas porque foi mencionado. Novos nós precisam ter função própria no acervo. Livros permanecem registrados em [[00 índices/Livros Indicados|Livros indicados]] e associados aos autores, salvo mudança futura da arquitetura.
 26. **Sem artigo isolado por omissão operacional**: todo artefato novo deve sair da operação com as relações sustentadas pela evidência registradas. Se uma camada não se aplicar, não force o vínculo; se a relação existir, não deixe sua integração para uma revisão futura indefinida.
+27. **Tipos de design como ensaios disciplinares**: notas em `00 tipos de design/` investigam como uma classe de problemas ganhou forma como campo. Não usar estrutura enciclopédica de definição, pioneiros, marcos, empresas e lista exaustiva de artefatos. Autores e instituições entram apenas quando explicam uma transformação.
+28. **Percursos como argumentos de leitura**: notas em `05 percursos/` não devem ser listas numeradas de artigos. Organizar por mudanças de ideia, comparar estudos dentro da mesma seção e fazer a pergunta inicial se transformar ao longo da leitura.
 
 ## Regras editoriais
 
@@ -60,7 +62,7 @@ No conteúdo em português do Brasil, escrever headings e rótulos em sentence c
 
 - `História e contexto de criação`, não `História e Contexto de Criação`;
 - `Inovação e impacto`, não `Inovação e Impacto`;
-- `Ficha técnica`, não `Ficha Técnica`;
+- `Ficha arqueológica`, não `Ficha Arqueológica`;
 - `Conceitos relacionados`, não `Conceitos Relacionados`.
 
 Nomes próprios e grafias oficiais permanecem intactos: `Xerox PARC`, `GitHub`, `Jobs to Be Done`, `Value Proposition Ad Lib`, `iPhone`, `Bauhaus`.
@@ -75,6 +77,8 @@ Os nomes de arquivo são identificadores e podem permanecer estáveis mesmo quan
 - Separar explicitamente fato documentado, interpretação e hipótese quando houver risco de confusão.
 - Tratar citações, datas, autoria e origem de padrões como pontos a verificar, não como preenchimento automático.
 - Quando uma comparação entre artefatos for especulativa, nomear o tipo de parentesco.
+- Tipos de design devem explicar uma transformação disciplinar, não catalogar a profissão.
+- Percursos devem explicar as passagens entre estudos, não resumi-los isoladamente em sequência.
 - Manter a linguagem formal e clara, sem jargão desnecessário.
 
 ## Governança e estrutura do vault
@@ -82,13 +86,13 @@ Os nomes de arquivo são identificadores e podem permanecer estáveis mesmo quan
 ### Pastas principais
 
 - `00 inbox/`: notas temporárias e capturas rápidas.
-- `00 tipos de design/`: mapa disciplinar do acervo.
+- `00 tipos de design/`: ensaios disciplinares sobre classes de problemas que se tornaram campos de projeto.
 - `00 índices/`: índices de consulta.
 - `01 conceitos/`: conceitos teóricos, adaptações e hipóteses explicativas.
 - `02 variaveis/`: eixos sistêmicos e cognitivos comparáveis.
 - `03 artefatos/`: objetos, interfaces, serviços, métodos, sinais, documentos e gestos investigados.
 - `04 genealogias/`: famílias de ideias que atravessam disciplinas e épocas.
-- `05 percursos/`: sequências editoriais de leitura.
+- `05 percursos/`: argumentos editoriais que fazem uma pergunta evoluir ao atravessar vários estudos.
 - `autores/`: pessoas usadas como contexto histórico e intelectual.
 - `empresas/`: organizações usadas como contexto histórico.
 - `templates/`: padrões de criação de notas.
