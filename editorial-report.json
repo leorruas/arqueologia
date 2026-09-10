@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T21:24:13.020Z",
+  "generatedAt": "2026-09-10T21:24:49.282Z",
   "rule": "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
   "candidateCount": 23,
   "fileCount": 19,
@@ -226,9 +226,430 @@
       ]
     }
   ],
-  "legacyArtifactStructureCount": 0,
-  "legacyArtifactFileCount": 0,
-  "legacyArtifactFiles": [],
+  "legacyArtifactStructureCount": 63,
+  "legacyArtifactFileCount": 21,
+  "legacyArtifactFiles": [
+    {
+      "sourcePath": "03 artefatos/Agendamento.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Agendamento.md",
+          "line": null,
+          "text": "Ficha arqueológica ainda usa lista legada em vez de tabela"
+        },
+        {
+          "sourcePath": "03 artefatos/Agendamento.md",
+          "line": null,
+          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
+        },
+        {
+          "sourcePath": "03 artefatos/Agendamento.md",
+          "line": null,
+          "text": "Referências aparecem antes da Ficha arqueológica"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Assinatura.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Assinatura.md",
+          "line": null,
+          "text": "Ficha arqueológica ainda usa lista legada em vez de tabela"
+        },
+        {
+          "sourcePath": "03 artefatos/Assinatura.md",
+          "line": null,
+          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
+        },
+        {
+          "sourcePath": "03 artefatos/Assinatura.md",
+          "line": null,
+          "text": "Referências aparecem antes da Ficha arqueológica"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Botao Like.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Botao Like.md",
+          "line": null,
+          "text": "Ficha arqueológica ainda usa lista legada em vez de tabela"
+        },
+        {
+          "sourcePath": "03 artefatos/Botao Like.md",
+          "line": null,
+          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
+        },
+        {
+          "sourcePath": "03 artefatos/Botao Like.md",
+          "line": null,
+          "text": "Referências aparecem antes da Ficha arqueológica"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Calendário.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Calendário.md",
+          "line": null,
+          "text": "Ficha arqueológica ainda usa lista legada em vez de tabela"
+        },
+        {
+          "sourcePath": "03 artefatos/Calendário.md",
+          "line": null,
+          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
+        },
+        {
+          "sourcePath": "03 artefatos/Calendário.md",
+          "line": null,
+          "text": "Referências aparecem antes da Ficha arqueológica"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Carimbo.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Carimbo.md",
+          "line": null,
+          "text": "Ficha arqueológica ainda usa lista legada em vez de tabela"
+        },
+        {
+          "sourcePath": "03 artefatos/Carimbo.md",
+          "line": null,
+          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
+        },
+        {
+          "sourcePath": "03 artefatos/Carimbo.md",
+          "line": null,
+          "text": "Referências aparecem antes da Ficha arqueológica"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Fila.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Fila.md",
+          "line": null,
+          "text": "Ficha arqueológica ainda usa lista legada em vez de tabela"
+        },
+        {
+          "sourcePath": "03 artefatos/Fila.md",
+          "line": null,
+          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
+        },
+        {
+          "sourcePath": "03 artefatos/Fila.md",
+          "line": null,
+          "text": "Referências aparecem antes da Ficha arqueológica"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Garrafa de Agua.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Garrafa de Agua.md",
+          "line": null,
+          "text": "Ficha arqueológica ainda usa lista legada em vez de tabela"
+        },
+        {
+          "sourcePath": "03 artefatos/Garrafa de Agua.md",
+          "line": null,
+          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
+        },
+        {
+          "sourcePath": "03 artefatos/Garrafa de Agua.md",
+          "line": null,
+          "text": "Referências aparecem antes da Ficha arqueológica"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Grid.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Grid.md",
+          "line": null,
+          "text": "Ficha arqueológica ainda usa lista legada em vez de tabela"
+        },
+        {
+          "sourcePath": "03 artefatos/Grid.md",
+          "line": null,
+          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
+        },
+        {
+          "sourcePath": "03 artefatos/Grid.md",
+          "line": null,
+          "text": "Referências aparecem antes da Ficha arqueológica"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Helvetica.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Helvetica.md",
+          "line": null,
+          "text": "Ficha arqueológica ainda usa lista legada em vez de tabela"
+        },
+        {
+          "sourcePath": "03 artefatos/Helvetica.md",
+          "line": null,
+          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
+        },
+        {
+          "sourcePath": "03 artefatos/Helvetica.md",
+          "line": null,
+          "text": "Referências aparecem antes da Ficha arqueológica"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Hero Section.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Hero Section.md",
+          "line": null,
+          "text": "Ficha arqueológica ainda usa lista legada em vez de tabela"
+        },
+        {
+          "sourcePath": "03 artefatos/Hero Section.md",
+          "line": null,
+          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
+        },
+        {
+          "sourcePath": "03 artefatos/Hero Section.md",
+          "line": null,
+          "text": "Referências aparecem antes da Ficha arqueológica"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Infinite Scroll.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Infinite Scroll.md",
+          "line": null,
+          "text": "Ficha arqueológica ainda usa lista legada em vez de tabela"
+        },
+        {
+          "sourcePath": "03 artefatos/Infinite Scroll.md",
+          "line": null,
+          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
+        },
+        {
+          "sourcePath": "03 artefatos/Infinite Scroll.md",
+          "line": null,
+          "text": "Referências aparecem antes da Ficha arqueológica"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Kanban.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Kanban.md",
+          "line": null,
+          "text": "Ficha arqueológica ainda usa lista legada em vez de tabela"
+        },
+        {
+          "sourcePath": "03 artefatos/Kanban.md",
+          "line": null,
+          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
+        },
+        {
+          "sourcePath": "03 artefatos/Kanban.md",
+          "line": null,
+          "text": "Referências aparecem antes da Ficha arqueológica"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Número de Protocolo.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Número de Protocolo.md",
+          "line": null,
+          "text": "Ficha arqueológica ainda usa lista legada em vez de tabela"
+        },
+        {
+          "sourcePath": "03 artefatos/Número de Protocolo.md",
+          "line": null,
+          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
+        },
+        {
+          "sourcePath": "03 artefatos/Número de Protocolo.md",
+          "line": null,
+          "text": "Referências aparecem antes da Ficha arqueológica"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Pinch to Zoom.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Pinch to Zoom.md",
+          "line": null,
+          "text": "Ficha arqueológica ainda usa lista legada em vez de tabela"
+        },
+        {
+          "sourcePath": "03 artefatos/Pinch to Zoom.md",
+          "line": null,
+          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
+        },
+        {
+          "sourcePath": "03 artefatos/Pinch to Zoom.md",
+          "line": null,
+          "text": "Referências aparecem antes da Ficha arqueológica"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Quadro Branco.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Quadro Branco.md",
+          "line": null,
+          "text": "Ficha arqueológica ainda usa lista legada em vez de tabela"
+        },
+        {
+          "sourcePath": "03 artefatos/Quadro Branco.md",
+          "line": null,
+          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
+        },
+        {
+          "sourcePath": "03 artefatos/Quadro Branco.md",
+          "line": null,
+          "text": "Referências aparecem antes da Ficha arqueológica"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Retrospectiva.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Retrospectiva.md",
+          "line": null,
+          "text": "Ficha arqueológica ainda usa lista legada em vez de tabela"
+        },
+        {
+          "sourcePath": "03 artefatos/Retrospectiva.md",
+          "line": null,
+          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
+        },
+        {
+          "sourcePath": "03 artefatos/Retrospectiva.md",
+          "line": null,
+          "text": "Referências aparecem antes da Ficha arqueológica"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Slide to Unlock.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Slide to Unlock.md",
+          "line": null,
+          "text": "Ficha arqueológica ainda usa lista legada em vez de tabela"
+        },
+        {
+          "sourcePath": "03 artefatos/Slide to Unlock.md",
+          "line": null,
+          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
+        },
+        {
+          "sourcePath": "03 artefatos/Slide to Unlock.md",
+          "line": null,
+          "text": "Referências aparecem antes da Ficha arqueológica"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Tapete.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Tapete.md",
+          "line": null,
+          "text": "Ficha arqueológica ainda usa lista legada em vez de tabela"
+        },
+        {
+          "sourcePath": "03 artefatos/Tapete.md",
+          "line": null,
+          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
+        },
+        {
+          "sourcePath": "03 artefatos/Tapete.md",
+          "line": null,
+          "text": "Referências aparecem antes da Ficha arqueológica"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Undo Send.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Undo Send.md",
+          "line": null,
+          "text": "Ficha arqueológica ainda usa lista legada em vez de tabela"
+        },
+        {
+          "sourcePath": "03 artefatos/Undo Send.md",
+          "line": null,
+          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
+        },
+        {
+          "sourcePath": "03 artefatos/Undo Send.md",
+          "line": null,
+          "text": "Referências aparecem antes da Ficha arqueológica"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Undo.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Undo.md",
+          "line": null,
+          "text": "Ficha arqueológica ainda usa lista legada em vez de tabela"
+        },
+        {
+          "sourcePath": "03 artefatos/Undo.md",
+          "line": null,
+          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
+        },
+        {
+          "sourcePath": "03 artefatos/Undo.md",
+          "line": null,
+          "text": "Referências aparecem antes da Ficha arqueológica"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Workshop.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Workshop.md",
+          "line": null,
+          "text": "Ficha arqueológica ainda usa lista legada em vez de tabela"
+        },
+        {
+          "sourcePath": "03 artefatos/Workshop.md",
+          "line": null,
+          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
+        },
+        {
+          "sourcePath": "03 artefatos/Workshop.md",
+          "line": null,
+          "text": "Referências aparecem antes da Ficha arqueológica"
+        }
+      ]
+    }
+  ],
   "legacyConceptStructureCount": 0,
   "legacyConceptFileCount": 0,
   "legacyConceptFiles": [],
