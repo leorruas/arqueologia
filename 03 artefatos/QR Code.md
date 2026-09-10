@@ -92,24 +92,35 @@ Outra hipótese é que sua importância histórica não esteja em armazenar info
 
 Essa hipótese precisa ser comparada com código de barras, RFID, NFC, marcas fiduciais, reconhecimento visual e hyperlinks antes de se transformar em uma genealogia própria.
 
-## Ficha resumo
-
+## Ficha arqueológica
 | Campo | Registro |
 |---|---|
-| **Nome do artefato** | QR Code |
-| **Ano aproximado** | 1994 |
-| **Pessoas ou equipes envolvidas** | Masahiro Hara e equipe da Denso |
-| **Produto/contexto inicial** | Identificação automática e rastreamento em contexto industrial |
-| **Problema que resolvia** | Aumentar capacidade de dados e velocidade/robustez de leitura em relação a usos baseados em códigos lineares |
+| **Artefato** | QR Code |
+| **Período** | 1994 |
+| **Autoria** | Masahiro Hara e equipe da Denso |
+| **Produto ou contexto** | Ainda não explicitado. |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
+| **Problema original** | Aumentar capacidade de dados e velocidade/robustez de leitura em relação a usos baseados em códigos lineares |
+| **Mundo antes** | Ainda não explicitado. |
+| **Invenção** | Ainda não explicitado. |
+| **Refinamento** | Ainda não explicitado. |
+| **Popularização** | Ainda não explicitado. |
+| **Padronização** | Ainda não explicitado. |
+| **Hipótese de design** | O QR Code reduz o custo de atravessar uma fronteira entre superfície física e sistema digital ao tornar uma imagem diretamente interpretável por máquinas |
 | **Comportamento aproveitado** | Apresentar um marcador a um dispositivo de leitura; posteriormente, apontar a câmera do celular |
-| **Comportamento criado ou normalizado** | Esperar que superfícies físicas possam abrir ações e conteúdos digitais |
-| **Impacto histórico** | Ajudou a transformar objetos impressos e espaços físicos em pontos de entrada para sistemas digitais |
+| **Comportamento produzido** | Esperar que superfícies físicas possam abrir ações e conteúdos digitais |
+| **Relação de poder** | Ainda não explicitado. |
+| **Consequências inesperadas** | Registros adicionais preservados da ficha anterior: produto/contexto inicial: Identificação automática e rastreamento em contexto industrial |
+| **Destino ou transformação posterior** | Em aberto: amplamente padronizado, mas potencialmente incorporável a sistemas mais gerais de visão computacional Legado: Ajudou a transformar objetos impressos e espaços físicos em pontos de entrada para sistemas digitais |
 | **Conceitos relacionados** | identificação automática, correção de erros, mediação, continuidade entre físico e digital, legibilidade computacional |
-| **Artefatos relacionados** | código de barras, hyperlink, RFID, NFC, marcas fiduciais, URL, câmera de smartphone |
-| **Hipótese central** | O QR Code reduz o custo de atravessar uma fronteira entre superfície física e sistema digital ao tornar uma imagem diretamente interpretável por máquinas |
+| **Variáveis relacionadas** | Ainda não explicitado. |
+| **Genealogia** | Ainda não explicitado. |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
+| **Parentes** | código de barras, hyperlink, RFID, NFC, marcas fiduciais, URL, câmera de smartphone |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Uma interface pode reduzir esforço humano transferindo interpretação para uma infraestrutura intermediária |
-| **Questões em aberto** | O marcador explícito desaparecerá quando a câmera puder reconhecer diretamente o mundo? Como QR Codes artísticos reorganizam a disputa entre legibilidade humana e computacional? |
-| **Destino do artefato** | Em aberto: amplamente padronizado, mas potencialmente incorporável a sistemas mais gerais de visão computacional |
+| **Questão em aberto** | O marcador explícito desaparecerá quando a câmera puder reconhecer diretamente o mundo? Como QR Codes artísticos reorganizam a disputa entre legibilidade humana e computacional? |
 
 ## Referências a verificar na revisão documental
 

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T23:28:19.032Z",
+  "generatedAt": "2026-09-10T23:28:38.556Z",
   "rule": "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
   "typeDesignRule": "Tipos de design devem funcionar como ensaios disciplinares e não usar estrutura enciclopédica de origem, pioneiros, empresas ou inventário exaustivo.",
   "pathRule": "Percursos devem funcionar como argumentos de leitura e não usar sequência numerada de resumos de artefatos.",
@@ -471,25 +471,9 @@
       ]
     }
   ],
-  "legacyArtifactStructureCount": 2,
-  "legacyArtifactFileCount": 1,
-  "legacyArtifactFiles": [
-    {
-      "sourcePath": "03 artefatos/QR Code.md",
-      "items": [
-        {
-          "sourcePath": "03 artefatos/QR Code.md",
-          "line": null,
-          "text": "Ficha arqueológica ausente"
-        },
-        {
-          "sourcePath": "03 artefatos/QR Code.md",
-          "line": 95,
-          "text": "Ficha resumo"
-        }
-      ]
-    }
-  ],
+  "legacyArtifactStructureCount": 0,
+  "legacyArtifactFileCount": 0,
+  "legacyArtifactFiles": [],
   "legacyConceptStructureCount": 0,
   "legacyConceptFileCount": 0,
   "legacyConceptFiles": [],

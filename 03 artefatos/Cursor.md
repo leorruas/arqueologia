@@ -54,7 +54,7 @@ Talvez um sinal de sucesso do cursor seja justamente ter se tornado tão convenc
 | **Período** | Desenvolvido em sistemas computacionais interativos do século XX e consolidado com interfaces gráficas e dispositivos apontadores |
 | **Autoria** | Evolução distribuída entre laboratórios de computação interativa; associado à história de sistemas de apontamento, hipertexto e interfaces gráficas |
 | **Produto ou contexto** | Terminais, editores de texto, sistemas gráficos, mouse, desktop, navegadores e interfaces digitais |
-| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Tipo(s) de design** | [[00 tipos de design/Design de Interface|Design de interface]] |
 | **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Tornar perceptível onde entrada, seleção ou ação ocorrerá dentro de um campo computacional |
 | **Mundo antes** | Interação computacional mais dependente de comandos, posições de texto e sistemas com menor manipulação espacial direta |
