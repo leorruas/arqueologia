@@ -9,50 +9,92 @@ tags:
 
 # Design de IA
 
-Design de IA investiga uma mudança de relação: o sistema deixa de oferecer apenas ações previamente enumeradas e passa a interpretar intenções formuladas em linguagem, produzir respostas probabilísticas e, em alguns casos, agir sobre outros sistemas. O problema de projeto já não é apenas tornar comandos utilizáveis. É tornar negociável uma relação em que nem o usuário nem o designer conhecem antecipadamente todas as respostas possíveis.
+Uma interface tradicional costuma prometer uma relação relativamente estável entre ação e resposta. O usuário clica, arrasta, seleciona ou preenche; o designer consegue antecipar boa parte dos estados que virão depois. Sistemas de inteligência artificial quebram parcialmente essa promessa. A mesma instrução pode produzir respostas diferentes, o sistema pode inferir intenções que não foram explicitadas e, em alguns casos, agir sobre outros sistemas.
 
-## Da interface de comandos à interface de intenção
+É nesse deslocamento que este vault usa **Design de IA** como lente disciplinar. Não se trata de afirmar que existe uma profissão universalmente estabilizada, com fronteiras consensuais, que nasceu junto com os LLMs. A interação humano-IA é estudada há décadas, e princípios para sistemas adaptativos, agentes, recomendadores, automação e interfaces inteligentes antecedem a atual onda generativa.[^1] O que muda recentemente é a escala em que interpretação probabilística, linguagem natural e delegação passam a ocupar o centro da experiência cotidiana.
 
-Interfaces tradicionais costumam tornar parte do repertório de ações visível. Botões, menus e fluxos dizem o que o sistema aceita. O [[03 artefatos/Prompt Conversacional|prompt conversacional]] faz quase o inverso: apresenta um espaço relativamente aberto e pede que a pessoa formule o que deseja.
+A pergunta deixa de ser apenas “como tornar a máquina utilizável?”. Passa a ser: **como projetar uma relação em que intenção, resposta, confiança e responsabilidade permanecem parcialmente abertas durante o uso?**
 
-Essa liberdade desloca trabalho cognitivo. Um menu ajuda a reconhecer possibilidades; um prompt exige imaginar possibilidades, formular contexto, escolher critérios e avaliar uma resposta que pode variar. A superfície pode ficar mais simples enquanto a especificação do problema fica mais exigente.
+## A interface deixa de prometer o mesmo resultado
 
-A linguagem passa a funcionar como metainterface. Isso aproxima o prompt de [[03 artefatos/Brief|brief]], [[03 artefatos/Pergunta|pergunta]], [[03 artefatos/Jobs to Be Done|Jobs to Be Done]] e [[03 artefatos/Pergunta de Pesquisa|pergunta de pesquisa]]. O parentesco é funcional: todos tentam transformar intenção em direção sem prescrever completamente o caminho intermediário.
+O ELIZA de Joseph Weizenbaum, publicado em 1966, é um antecedente importante não porque fosse um LLM rudimentar, mas porque revelou cedo uma propriedade da interação linguística: respostas produzidas por regras relativamente simples podiam ser interpretadas por usuários como sinais de compreensão e presença.[^2]
 
-Há antecedentes importantes muito antes da atual onda generativa. O ELIZA, de Joseph Weizenbaum, mostrou em 1966 que uma conversa textual relativamente simples já podia levar pessoas a atribuir compreensão e presença à máquina. Décadas depois, modelos de linguagem, ajuste por instruções e interfaces conversacionais ampliaram esse problema. A partir daí, projetar a superfície passou a incluir também projetar expectativas sobre inteligência, agência, confiança e erro.
+A história posterior da interação humano-IA inclui sistemas especialistas, agentes, recomendadores, busca, reconhecimento de fala e interfaces adaptativas. Em 2019, Amershi e colaboradores, ao sintetizar orientações para interação humano-IA, já descreviam mais de duas décadas de trabalho sobre como sistemas inteligentes deveriam comunicar capacidades, corrigir erros, adaptar-se e permitir controle.[^1] Portanto, a dificuldade de projetar sistemas que não se comportam como software determinístico não nasce com o ChatGPT.
+
+Os modelos generativos tornam, porém, essa dificuldade muito mais visível. A arquitetura Transformer, apresentada em 2017, torna-se uma das infraestruturas técnicas centrais para grandes modelos de linguagem.[^3] O InstructGPT, em janeiro de 2022, mostra o uso de feedback humano para aproximar modelos de instruções e preferências declaradas.[^4] Em novembro do mesmo ano, o ChatGPT ajuda a popularizar em grande escala uma forma de interação em que linguagem natural funciona como superfície geral para pedir, revisar e continuar tarefas.[^5]
+
+Nenhum desses marcos “inventa o Design de IA”. Eles transformam as condições do problema. Quando a resposta deixa de ser inteiramente pré-escrita, o design precisa administrar não só estado e navegação, mas **incerteza sobre o próprio comportamento do sistema**.
+
+## Da operação visível à formulação de intenção
+
+O [[03 artefatos/Prompt Conversacional|prompt conversacional]] condensa essa mudança. Menus e botões oferecem reconhecimento: mostram parte do repertório possível. O prompt oferece abertura: pede ao usuário que formule o que quer antes de saber exatamente o que o sistema aceita.
+
+Essa liberdade desloca trabalho cognitivo. A superfície fica visualmente mais simples, mas a pessoa precisa imaginar possibilidades, escolher contexto, explicitar critérios e avaliar uma resposta que pode soar convincente mesmo quando está errada. O desaparecimento de controles não significa desaparecimento de complexidade; muitas vezes significa **transferência da complexidade para a formulação**.
+
+Por isso o prompt é parente funcional do [[03 artefatos/Brief|Brief]], da [[03 artefatos/Pergunta|Pergunta]], do [[03 artefatos/Jobs to Be Done|Jobs to Be Done]] e da [[03 artefatos/Pergunta de Pesquisa|Pergunta de pesquisa]]. Todos tentam transformar intenção em direção sem prescrever completamente o caminho intermediário. A diferença é que, no prompt, quem interpreta essa direção é um sistema probabilístico.
+
+Isso reabre uma tensão antiga da HCI entre controle direto e delegação. Em um debate da CHI de 1997, Pattie Maes e [[autores/Ben Shneiderman|Ben Shneiderman]] contrapuseram agentes inteligentes, capazes de assumir iniciativa, a interfaces orientadas a manipulação direta e controle previsível do usuário.[^6] Sistemas generativos não resolvem essa disputa. Eles a tornam cotidiana.
+
+Quanto mais o agente assume decomposição, busca, escrita ou execução, menos o usuário precisa operar cada passo — e mais difícil pode se tornar reconstruir **por que** determinada ação aconteceu.
 
 ## A IA como esfinge
 
-Uma hipótese comparativa útil é aproximar a IA da esfinge mitológica. Não há descendência histórica. O parentesco é semiótico e comportamental: ambos podem ocupar um limiar e transformar linguagem em condição de passagem.
+Uma hipótese comparativa útil deste projeto é aproximar a IA da esfinge mitológica. Não há descendência histórica. O parentesco é semiótico e comportamental: ambos podem ocupar um limiar e transformar linguagem em condição de passagem.
 
-No mito de Édipo, a esfinge bloqueia a entrada e apresenta um enigma. O viajante atravessa quando oferece uma resposta aceita. A interface de IA parece inverter a cena porque o humano pergunta e a máquina responde. A inversão, porém, é incompleta. Diante de um campo aberto, o sistema devolve silenciosamente outras exigências: o que você quer, que contexto importa, que critérios definem uma boa resposta, o que pode ser delegado e como reconhecer um erro?
+No mito de Édipo, a esfinge bloqueia a entrada e apresenta um enigma. O viajante atravessa quando oferece uma resposta aceita. A interface de IA parece inverter a cena porque o humano pergunta e a máquina responde. A inversão, porém, é incompleta. Diante de um campo aberto, o sistema devolve silenciosamente outras exigências: **o que você quer, que contexto importa, que critérios definem uma boa resposta, o que pode ser delegado e como reconhecer um erro?**
 
 O prompt pode ser lido como o enigma virado do avesso. A esfinge torna explícita a pergunta e avalia a resposta humana. A IA oferece um campo aparentemente vazio e expõe a capacidade humana de formular o problema.
 
-A comparação fica mais forte quando sistemas de IA classificam, selecionam ou autorizam. Filtros de risco, fraude, visibilidade, prioridade ou elegibilidade transformam modelos em mecanismos de passagem. Nesse caso, a questão deixa de ser apenas “como conversar com a máquina?” e passa a incluir “quem consegue atravessar uma decisão mediada por ela e quais critérios consegue enxergar ou contestar?”.
+A comparação fica mais forte quando sistemas de IA classificam, selecionam ou autorizam. Filtros de risco, fraude, visibilidade, prioridade ou elegibilidade transformam modelos em mecanismos de passagem. Nesse caso, a questão deixa de ser apenas “como conversar com a máquina?” e passa a incluir **quem consegue atravessar uma decisão mediada por ela e quais critérios consegue enxergar ou contestar**.
 
 Existe uma diferença decisiva. O enigma mítico é relativamente estável. Sistemas probabilísticos respondem de modo dependente de contexto, dados, versão, instruções e infraestrutura. Não existe necessariamente uma solução única que encerre o encontro. Isso faz do Design de IA também um design de incerteza.
 
-Há ainda uma advertência útil no mito: Édipo resolve o enigma e mesmo assim não compreende inteiramente a própria situação. Em IA, obter uma resposta correta ou dominar uma técnica de prompting não garante compreender o sistema, seus limites ou as relações de poder que o cercam. Resolver uma tarefa continua sendo diferente de compreender o problema.
+Há ainda uma advertência útil no mito: Édipo resolve o enigma e mesmo assim não compreende inteiramente a própria situação. Em IA, obter uma resposta correta ou dominar uma técnica de prompting não garante compreender o sistema, seus limites ou as relações de poder que o cercam. **Resolver uma tarefa continua sendo diferente de compreender o problema.**
 
-## Quando a superfície parece sujeito
+## Quando a superfície parece sujeito — e começa a lembrar
 
 O design já possui longa experiência em dar presença social a entidades abstratas. [[03 artefatos/Mascote|Mascotes]] dão rosto e temperamento a organizações; interfaces dão feedback e resposta a sistemas invisíveis. A IA acrescenta uma diferença: a entidade pode produzir novas respostas durante a interação, e essa variação fortalece a impressão de interlocução.
 
-É aqui que [[01 conceitos/Antropomorfismo|antropomorfismo]] se torna central. Fluência, voz, memória aparente, nome, avatar e continuidade conversacional podem fazer um sistema parecer saber, desejar ou compreender mais do que sua operação autoriza concluir. Projetar IA significa também projetar a distância entre capacidade real e capacidade percebida.
+É aqui que [[01 conceitos/Antropomorfismo|antropomorfismo]] se torna central. Fluência, voz, nome, avatar e continuidade conversacional podem fazer um sistema parecer saber, desejar ou compreender mais do que sua operação autoriza concluir. Projetar IA significa também projetar a distância entre **capacidade real e capacidade percebida**.
 
-O percurso [[05 percursos/Da Parede ao Interlocutor|Da parede ao interlocutor]] ajuda a enxergar essa passagem: superfícies projetadas foram de lugares que mostram mensagens a lugares que reagem e, depois, parecem responder. O salto não é apenas tecnológico. Ele cria uma nova expectativa cultural sobre superfícies informacionais: se existe informação ali, talvez eu deva poder interrogá-la.
+O percurso [[05 percursos/Da Parede ao Interlocutor|Da parede ao interlocutor]] ajuda a enxergar essa passagem: superfícies projetadas foram de lugares que mostram mensagens a lugares que reagem e, depois, parecem responder. A mudança cria uma expectativa cultural nova: se existe informação ali, talvez seja possível interrogá-la em vez de navegar manualmente por sua estrutura.
 
-## A memória também virou objeto de projeto
+A [[03 artefatos/LLM Wiki|LLM Wiki]] desloca novamente a fronteira. O sistema generativo não responde apenas à consulta atual; pode participar da manutenção de sínteses entre consultas. A memória deixa de ser apenas armazenamento e passa a incluir edição, conexão e revisão realizadas por um agente.
 
-A [[03 artefatos/LLM Wiki|LLM Wiki]] desloca outra fronteira. Um sistema generativo deixa de responder apenas à consulta presente e passa a participar da manutenção de sínteses entre consultas. Isso transforma memória em problema de governança: o que deve persistir, quem pode corrigir, que interpretação ganha autoridade e como impedir que um erro local se transforme em contexto permanente?
+Aí o problema de design muda de forma. Uma alucinação que morre numa conversa é um erro local. Uma interpretação errada incorporada a uma memória persistente pode tornar-se contexto para respostas futuras. Preservar passa a exigir governança sobre **o que o sistema aprende a tratar como já sabido**.
 
-Esse caso aproxima Design de IA de [[04 genealogias/Permanencia e Memoria Externa|permanência e memória externa]]. Quando a infraestrutura não apenas guarda, mas resume, relaciona e atualiza, preservar informação e interpretar informação começam a se misturar.
+Isso conecta Design de IA a [[04 genealogias/Permanencia e Memoria Externa|permanência e memória externa]], [[01 conceitos/Memoria Distribuida|memória distribuída]] e [[01 conceitos/Justificabilidade|justificabilidade]]. A interface precisa permitir não apenas obter respostas, mas reconstruir fonte, estado, autoria, revisão e possibilidade de correção.
 
-## O campo projeta relações, não apenas telas
+## Projetar incerteza é projetar poder
 
-O Design de IA cruza [[00 tipos de design/Design de Interface|design de interface]] porque ainda precisa tornar ação, estado e feedback legíveis. Cruza [[00 tipos de design/Design de Servicos|design de serviços]] porque modelos passam a participar de fluxos distribuídos entre pessoas, regras, decisões e infraestrutura. Cruza [[00 tipos de design/Design Grafico|design gráfico]] porque forma, hierarquia e fluência continuam participando da autoridade percebida das respostas.
+Em software convencional, um erro de interface pode esconder uma opção. Em sistemas de IA, a superfície pode esconder também a própria base do julgamento. Um modelo pode resumir, priorizar, classificar ou agir sem tornar imediatamente visíveis os critérios que produziram aquele resultado.
 
-Entre os problemas recorrentes estão formulação, delegação, avaliação, incerteza, antropomorfismo, memória, autonomia e contestabilidade. A pergunta disciplinar talvez seja menos “como desenhar produtos com IA?” e mais “que novas relações precisam ser projetadas quando parte da interpretação e da ação é delegada a sistemas cujo comportamento não pode ser completamente especificado antes do uso?”.
+Isso aproxima o campo de [[00 tipos de design/Design de Servicos|design de serviços]]. Quando uma IA participa de atendimento, triagem ou decisão, ela não é apenas “uma tela inteligente”: entra numa ecologia de regras, responsabilidades, recursos e consequências. A pergunta passa a incluir quem pode corrigir, interromper ou contestar a ação.
 
-Esta nota deve permanecer ligada aos artefatos que tornam essas relações observáveis. O campo não é definido pela presença de uma tecnologia chamada IA, mas pelas decisões de design necessárias quando intenção, interpretação, probabilidade e agência passam a coexistir na mesma experiência.
+Também aproxima o campo de [[00 tipos de design/Design Grafico|design gráfico]]. Fluência textual, hierarquia, tipografia e composição participam da autoridade percebida de uma resposta. Uma resposta bem diagramada pode parecer epistemicamente mais estável do que realmente é. O design não decide se ela é verdadeira, mas participa da maneira como **parece saber**.
+
+E continua ligado a [[00 tipos de design/Design de Interface|design de interface]], porque estados, feedback e reversibilidade não desaparecem quando entra IA. Pelo contrário: tornam-se mais importantes quando o sistema pode interpretar mal, agir demais ou responder com confiança indevida.
+
+Por isso, Design de IA não deveria ser definido apenas pela presença de uma tecnologia chamada IA. Como lente deste vault, ele aparece quando o projeto precisa administrar uma relação em que **parte da interpretação e da ação foi delegada a um sistema cujo comportamento não pode ser completamente especificado antes do uso**.
+
+A hipótese recorrente do campo é que essa delegação pode ampliar capacidade humana sem exigir que cada passo seja operado diretamente. A tensão recorrente é o inverso: quanto mais a máquina assume o caminho, mais precisamos projetar condições para que o humano continue capaz de compreender, intervir e discordar.
+
+## Leituras no vault
+
+[[03 artefatos/Prompt Conversacional|Prompt conversacional]] mostra a passagem de controles visíveis para formulação aberta. [[03 artefatos/LLM Wiki|LLM Wiki]] leva a questão para memória persistente e manutenção por agentes. [[03 artefatos/Mascote|Mascote]] e [[01 conceitos/Antropomorfismo|antropomorfismo]] ajudam a investigar por que sistemas ganham presença social tão facilmente.
+
+Para atravessar a questão pela história das superfícies, leia [[05 percursos/Da Parede ao Interlocutor|Da parede ao interlocutor]]. [[04 genealogias/Reversibilidade e Custo do Erro|Reversibilidade e custo do erro]] e [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] ajudam a observar dois problemas que ficam mais difíceis — não menos — quando parte do comportamento deixa de ser determinística.
+
+## Referências
+
+[^1]: Amershi, Saleema et al. “Guidelines for Human-AI Interaction”. *CHI Conference on Human Factors in Computing Systems*, 2019. Os autores sintetizam décadas de pesquisa e prática sobre interação com sistemas inteligentes e propõem diretrizes para expectativas, correção, adaptação e controle. https://doi.org/10.1145/3290605.3300233
+
+[^2]: Weizenbaum, Joseph. “ELIZA—A Computer Program for the Study of Natural Language Communication Between Man and Machine”. *Communications of the ACM*, 1966. https://doi.org/10.1145/365153.365168
+
+[^3]: Vaswani, Ashish et al. “Attention Is All You Need”. *Advances in Neural Information Processing Systems 30*, 2017. https://proceedings.neurips.cc/paper/7181-attention-is-all-you-need
+
+[^4]: Ouyang, Long et al. “Training language models to follow instructions with human feedback”. OpenAI, 27 jan. 2022; posteriormente publicado em NeurIPS 2022. https://openai.com/index/instruction-following/
+
+[^5]: OpenAI. “Introducing ChatGPT”. 30 nov. 2022. Registro contemporâneo do lançamento público do ChatGPT como interface conversacional de pesquisa. https://openai.com/index/chatgpt/
+
+[^6]: CHI 1997. “Intelligent Software Agents vs. User-Controlled Direct Manipulation: A Debate”. Painel entre Pattie Maes e Ben Shneiderman sobre agência automática e controle direto. https://chi1997.acm.org/proceedings/panel/jrm.html
