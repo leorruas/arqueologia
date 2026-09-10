@@ -6,6 +6,16 @@ function sincronizarNavbarComPUC() {
   nav.classList.toggle("visible", window.scrollY > 80);
 }
 
+function limparNavegacoesRedundantesDaHome() {
+  const orientacoes = document.getElementById("orientacoes-iniciais");
+  if (orientacoes) orientacoes.hidden = true;
+
+  document.querySelectorAll("#pastas-container .disciplina-card").forEach(card => {
+    const href = decodeURIComponent(card.getAttribute("href") || "");
+    if (href === "#/campo/03 artefatos") card.remove();
+  });
+}
+
 function montarBreadcrumbsComoPUC() {
   const hash = window.location.hash;
   const campo = document.getElementById("disciplina-breadcrumbs");
@@ -80,6 +90,7 @@ function montarBreadcrumbsComoPUC() {
 }
 
 function sincronizarCamadaPUC() {
+  limparNavegacoesRedundantesDaHome();
   sincronizarNavbarComPUC();
   montarBreadcrumbsComoPUC();
 }
