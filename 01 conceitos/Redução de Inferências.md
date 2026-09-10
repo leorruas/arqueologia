@@ -19,7 +19,7 @@ Isso não significa eliminar pensamento. Significa observar quando uma fronteira
 
 ## Não é o mesmo que reduzir esforço em geral
 
-[[01 conceitos/Compressao do Esforco|Compressão do esforço]] pergunta como um artefato encurta ou incorpora passos de uma ação. Redução de inferências pergunta outra coisa: **o que a pessoa deixa de precisar deduzir?**
+[[01 conceitos/Compressao do Esforco|Compressão do esforço]] pergunta como um artefato encurta, incorpora ou externaliza parte do trabalho necessário a uma ação. Redução de inferências pergunta outra coisa: **o que a pessoa deixa de precisar deduzir?**
 
 Um atalho de teclado pode comprimir vários passos sem tornar nada mais explícito. Um separador visual pode não economizar cliques e ainda reduzir fortemente a ambiguidade de leitura.
 
@@ -35,7 +35,7 @@ A decisão parece mínima porque o artefato é ausência de tinta. Seu efeito, p
 
 A importância dessa leitura é não exagerar causalidade. O espaço entre palavras não “elimina a necessidade de vocalização” nem inventa sozinho a leitura silenciosa. Ele reduz uma tarefa de segmentação que antes precisava ser resolvida por outros meios.
 
-## Grids e checklists explicitam relações diferentes
+## Grids, checklists e blueprints explicitam relações diferentes
 
 No [[03 artefatos/Grid|Grid]], a relação explicitada é espacial. Colunas, alinhamentos e módulos criam uma infraestrutura que ajuda autores e leitores a reconhecer continuidade, hierarquia e correspondência.
 
@@ -43,7 +43,9 @@ Isso não significa que o grid remove interpretação ou produz automaticamente 
 
 No [[03 artefatos/Checklist|Checklist]], a inferência reduzida é operacional. Em vez de reconstruir mentalmente quais etapas pertencem ao procedimento e quais já foram executadas, a sequência fica disponível externamente. O usuário continua precisando julgar situações não previstas, mas deixa de carregar parte do estado do processo apenas na memória.
 
-Esses três artefatos são parentes porque retiram trabalhos cognitivos diferentes do campo implícito: segmentação textual, organização espacial e estado procedural.
+O [[03 artefatos/Service Blueprint|Service Blueprint]] torna explícita outra coisa: **dependência organizacional**. Um usuário vê uma ação; o blueprint pode mostrar quais sistemas, pessoas e processos invisíveis precisam operar para que aquela ação aconteça. A relação entre frontstage e backstage deixa de depender apenas do conhecimento tácito de quem conhece a organização por dentro.
+
+Esses artefatos são parentes porque retiram trabalhos cognitivos diferentes do campo implícito: segmentação textual, organização espacial, estado procedural e arquitetura do serviço.
 
 ## Tornar explícito também pode endurecer o sistema
 
@@ -51,19 +53,21 @@ Reduzir inferência não é sempre uma melhoria.
 
 Uma estrutura explícita pode cristalizar categorias ruins. Um formulário que transforma uma situação ambígua em duas opções claras pode reduzir dúvida e, ao mesmo tempo, apagar casos legítimos que não cabem nelas. Um grid pode aumentar consistência e diminuir liberdade compositiva. Um checklist pode proteger contra omissão e incentivar uso mecânico quando julgamento contextual continua necessário.
 
+O Service Blueprint revela a mesma tensão em escala organizacional. Quando uma caixa chamada “aprovação” substitui dezenas de conversas, exceções e julgamentos, o mapa reduz esforço para compreender o fluxo, mas também pode esconder aquilo que não foi representado.
+
 O design não apenas economiza cognição; ele decide **qual interpretação será embutida no ambiente**.
 
 Por isso, [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]] e [[02 variaveis/Custo de Busca|Custo de busca]] são variáveis úteis, mas não bastam para julgar a qualidade da solução. Quanto mais uma estrutura assume inferências pelo usuário, mais importante se torna investigar se essas inferências são adequadas.
 
-## Uma pergunta para escavar interfaces
+## Uma pergunta para escavar interfaces e sistemas
 
 A hipótese se torna operacional quando formulada como pergunta:
 
-**O que eu precisaria descobrir ou lembrar sozinho se esta pista desaparecesse?**
+**O que eu precisaria descobrir, lembrar ou reconstruir sozinho se esta representação desaparecesse?**
 
-Se remover bordas de um formulário torna difícil saber quais campos pertencem à mesma seção, as bordas estavam externalizando agrupamento. Se remover o estado “enviado” força o usuário a deduzir se uma ação ocorreu, o feedback estava externalizando estado. Se remover títulos de navegação exige lembrar a arquitetura do sistema, os rótulos estavam externalizando orientação.
+Se remover bordas de um formulário torna difícil saber quais campos pertencem à mesma seção, as bordas estavam externalizando agrupamento. Se remover o estado “enviado” força o usuário a deduzir se uma ação ocorreu, o feedback estava externalizando estado. Se remover títulos de navegação exige lembrar a arquitetura do sistema, os rótulos estavam externalizando orientação. Se remover um Service Blueprint faz cada área voltar a explicar oralmente suas dependências, o mapa estava externalizando parte da arquitetura organizacional.
 
-Assim, a redução de inferências ajuda a enxergar design não apenas como criação de comandos, mas como redistribuição do trabalho de interpretação entre pessoa e ambiente.
+Assim, a redução de inferências ajuda a enxergar design não apenas como criação de comandos, mas como redistribuição do trabalho de interpretação entre pessoa, equipe e ambiente.
 
 ## Ficha do conceito
 
@@ -73,11 +77,11 @@ Assim, a redução de inferências ajuda a enxergar design não apenas como cria
 | **Origem** | Hipótese do projeto |
 | **Grau de consolidação** | Experimental |
 | **Formulação associada a** | Arqueologia do Design; diálogo com cognição externa e cognitive offloading |
-| **Área principal** | Ergonomia cognitiva / design de interface / arquitetura da informação |
+| **Área principal** | Ergonomia cognitiva / design de interface / arquitetura da informação / design de serviços |
 | **Distinção central** | Reduzir passos de ação não é o mesmo que tornar relações antes implícitas explicitamente observáveis |
-| **O que ajuda a explicar** | Fronteiras, estados, sequências e relações que deixam de depender de dedução ou memória interna |
+| **O que ajuda a explicar** | Fronteiras, estados, sequências, dependências e relações que deixam de depender de dedução ou memória interna |
 | **O que não explica sozinho** | Se a interpretação embutida pelo sistema é correta, inclusiva ou desejável |
-| **Artefatos-chave** | [[03 artefatos/Espaço entre Palavras|Espaço entre palavras]], [[03 artefatos/Grid|Grid]], [[03 artefatos/Checklist|Checklist]] |
+| **Artefatos-chave** | [[03 artefatos/Espaço entre Palavras|Espaço entre palavras]], [[03 artefatos/Grid|Grid]], [[03 artefatos/Checklist|Checklist]], [[03 artefatos/Service Blueprint|Service Blueprint]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]] |
 
 ## Referências
