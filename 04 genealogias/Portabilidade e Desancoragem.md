@@ -21,7 +21,7 @@ Por isso, esta genealogia é parente de [[04 genealogias/Acesso e Disponibilidad
 
 O [[03 artefatos/Bolso|bolso]] é um artefato radical justamente por parecer banal. Ele transforma a roupa em pequena infraestrutura de armazenamento junto ao corpo. No caso dos *tie-on pockets* femininos europeus, documentados pelo Victoria and Albert Museum como amplamente usados a partir do século XVII, essa portabilidade permitia carregar dinheiro, chaves, ferramentas, cartas, objetos sentimentais e utensílios de trabalho. O próprio museu relaciona esses bolsos a independência, segurança e possibilidade de manter objetos necessários sempre próximos.[^1]
 
-A mochila amplia a mesma operação. O corpo continua sendo o centro da mobilidade, mas ganha uma capacidade externa de carga. Em vez de transportar apenas aquilo que cabe nas mãos ou na roupa, a pessoa pode levar um pequeno ambiente de objetos consigo. Cestos de carga e mochilas de armação mostram que essa lógica antecede em muito a mochila urbana contemporânea.[^2]
+A [[03 artefatos/Mochila|mochila]] amplia a mesma operação. O corpo continua sendo o centro da mobilidade, mas ganha uma capacidade externa de carga. Em vez de transportar apenas aquilo que cabe nas mãos ou na roupa, a pessoa pode levar um pequeno ambiente de objetos consigo. Cestos de carga e mochilas de armação mostram que essa lógica antecede em muito a mochila urbana contemporânea.[^2]
 
 A [[03 artefatos/Garrafa de Agua|garrafa de água]] faz algo ainda mais específico: não transporta apenas um objeto; transporta **uma reserva de acesso**. A pessoa não precisa encontrar água toda vez que sente sede porque carrega consigo uma quantidade suficiente para atravessar o intervalo entre fontes.
 
@@ -37,13 +37,13 @@ O [[03 artefatos/Cartao de Embarque|cartão de embarque]] é um caso particularm
 
 O [[03 artefatos/Crachá|crachá]] opera de maneira semelhante em ambientes institucionais. O que acompanha a pessoa é um sinal de identidade ou pertencimento capaz de destravar espaços, permissões ou relações que permanecem fisicamente em outro lugar.
 
-Essa é uma transformação importante: **a portabilidade deixa de significar levar a coisa e passa a poder significar levar o direito de acessá-la**.
+A [[03 artefatos/Carteira|carteira]] concentra essa operação. Dinheiro físico pode viajar dentro dela, mas cartões e documentos carregam algo diferente: **representações de valor, identidade e autorização** reconhecidas por sistemas externos. A portabilidade deixa de significar apenas levar a coisa e passa a poder significar levar o direito de acessá-la.
 
-A carteira, o cartão bancário, a chave, o passaporte e, mais recentemente, credenciais digitais pertencem a essa família por mecanismos diferentes. Em todos eles, parte da capacidade de agir viaja na forma de um sinal reconhecido por uma infraestrutura externa.
+Chave, passaporte e, mais recentemente, credenciais digitais pertencem à mesma família por mecanismos diferentes. Em todos eles, parte da capacidade de agir viaja na forma de um sinal reconhecido por uma infraestrutura externa.
 
 ## Quando nem o arquivo precisa viajar
 
-A computação em nuvem radicaliza a separação entre recurso e lugar percebido. Na definição consolidada pelo NIST em 2011, cloud computing envolve acesso conveniente e sob demanda, via rede, a recursos computacionais compartilhados como armazenamento, aplicações e serviços.[^3]
+O [[03 artefatos/Arquivo em nuvem|arquivo em nuvem]] radicaliza a separação entre recurso e lugar percebido. Na definição consolidada pelo NIST em 2011, cloud computing envolve acesso conveniente e sob demanda, via rede, a recursos computacionais compartilhados como armazenamento, aplicações e serviços.[^3]
 
 Do ponto de vista desta genealogia, o detalhe mais interessante é que **a portabilidade pode deixar de estar no objeto armazenado e passar para o acesso**.
 
@@ -53,11 +53,13 @@ Isso cria uma diferença útil entre **portabilidade física** e **desancoragem 
 
 É aqui que a genealogia encontra [[01 conceitos/Continuidade de Acesso|continuidade de acesso]]. A garrafa reduz dependência de uma fonte porque transporta a água. A nuvem reduz dependência de um computador específico porque transporta, por assim dizer, **a possibilidade de acesso**.
 
+A sequência não é evolutiva, mas a comparação revela um deslocamento: bolso e mochila tornam a capacidade portátil aproximando objetos do corpo; carteira pode tornar portátil uma permissão; arquivo em nuvem torna portátil a **relação de acesso** sem mover perceptivelmente o recurso.
+
 ## Toda portabilidade cria novas dependências
 
 Mover capacidade para junto da pessoa parece sempre ampliar autonomia, mas o ganho vem acompanhado de novos riscos.
 
-O bolso pode ser furtado. A mochila pode pesar. A garrafa precisa ser abastecida. O baú móvel precisa ser carregado e protegido. O cartão pode ser perdido. A credencial pode expirar. A nuvem depende de energia, rede, autenticação, contrato e infraestrutura administrada por terceiros.
+O bolso pode ser furtado. A mochila pode pesar. A garrafa precisa ser abastecida. O baú móvel precisa ser carregado e protegido. A carteira pode ser perdida. A credencial pode expirar. A nuvem depende de energia, rede, autenticação, contrato e infraestrutura administrada por terceiros.
 
 A portabilidade, portanto, não elimina dependência. **Ela troca uma dependência espacial por outras dependências materiais, sociais ou infraestruturais.**
 
@@ -75,14 +77,14 @@ Talvez a pergunta mais produtiva desta genealogia seja: quando algo se torna “
 | **Pergunta central** | O que precisa acompanhar uma pessoa para que uma capacidade continue disponível quando ela muda de lugar? |
 | **Hipótese de parentesco** | Artefatos portáteis reduzem dependência de lugares fixos ao fazer viajar o recurso, o recipiente, a identidade, a permissão ou as condições de acesso |
 | **Natureza das relações** | Funcional, comportamental, infraestrutural e comparativa; não implica descendência histórica |
-| **Artefatos principais** | [[03 artefatos/Bolso|Bolso]], [[03 artefatos/Garrafa de Agua|Garrafa de água]], [[03 artefatos/Baú|Baú]], [[03 artefatos/Cartao de Embarque|Cartão de embarque]], [[03 artefatos/Crachá|Crachá]]; mochila, carteira, chave e arquivo em nuvem como pistas ainda sem estudo próprio |
+| **Artefatos principais** | [[03 artefatos/Bolso|Bolso]], [[03 artefatos/Mochila|Mochila]], [[03 artefatos/Carteira|Carteira]], [[03 artefatos/Garrafa de Agua|Garrafa de água]], [[03 artefatos/Baú|Baú]], [[03 artefatos/Cartao de Embarque|Cartão de embarque]], [[03 artefatos/Crachá|Crachá]], [[03 artefatos/Arquivo em nuvem|Arquivo em nuvem]] |
 | **Comportamento recorrente** | Levar consigo recursos ou condições de acesso para reduzir dependência de um lugar específico |
 | **O que o design redistribui** | Peso, armazenamento, mobilidade, acesso, segurança, dependência e responsabilidade pela disponibilidade |
 | **Relação de poder** | Portabilidade pode ampliar autonomia, mas infraestruturas remotas podem transformar posse física em acesso revogável |
 | **Conceitos relacionados** | [[01 conceitos/Continuidade de Acesso|Continuidade de acesso]], [[01 conceitos/Tecnologia de Acesso|Tecnologia de acesso]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Expectativa de Disponibilidade|Expectativa de disponibilidade]], [[02 variaveis/Permanencia|Permanência]] |
-| **Cuidado histórico** | Bolso, mochila, baú, garrafa, crachá, cartão e cloud storage são aproximados pelo problema da dependência espacial; não constituem uma linha evolutiva única |
-| **Hipótese em aberto** | A portabilidade contemporânea talvez esteja migrando do transporte de objetos para o transporte de identidade e autorização; resta investigar o que isso faz com autonomia quando o acesso pode ser remotamente revogado |
+| **Cuidado histórico** | Bolso, mochila, carteira, baú, garrafa, crachá, cartão e armazenamento em nuvem são aproximados pelo problema da dependência espacial; não constituem uma linha evolutiva única |
+| **Hipótese em aberto** | A portabilidade contemporânea talvez esteja migrando do transporte de objetos para o transporte de identidade, autorização e acesso; resta investigar o que isso faz com autonomia quando a capacidade pode ser remotamente revogada |
 
 ## Referências
 
