@@ -106,7 +106,7 @@ function aplicarTema(tema, persistir = true) {
   document.documentElement.dataset.theme = tema;
   if (persistir) localStorage.setItem("tema-arqueologia", tema);
   themeToggle.textContent = tema === "dark" ? "modo claro" : "modo escuro";
-  document.querySelector('meta[name="theme-color"]')?.setAttribute("content", tema === "dark" ? "#060606" : "#f7f4ee");
+  document.querySelector('meta[name="theme-color"]')?.setAttribute("content", tema === "dark" ? "#050505" : "#f8fafc");
 }
 
 function iniciarTema() {
@@ -488,8 +488,16 @@ function tratarRota() {
   }
 }
 
+function passouDoTitulo() {
+  const masthead = el("page-masthead");
+  if (!masthead) return window.scrollY > 80;
+  const limite = masthead.offsetTop + masthead.offsetHeight;
+  return window.scrollY > limite;
+}
+
 function atualizarNav() {
-  el("sticky-nav").classList.toggle("visible", window.scrollY > 135 || document.body.classList.contains("viewing") || !resultados.classList.contains("escondido"));
+  const navVisivel = document.body.classList.contains("viewing") || !resultados.classList.contains("escondido") || passouDoTitulo();
+  el("sticky-nav").classList.toggle("visible", navVisivel);
 }
 
 let timerBusca;
@@ -532,5 +540,6 @@ corpoArtigo.addEventListener("click", event => {
 window.addEventListener("popstate", tratarRota);
 window.addEventListener("hashchange", tratarRota);
 window.addEventListener("scroll", atualizarNav, { passive: true });
+window.addEventListener("resize", atualizarNav);
 
 carregarCatalogo();
