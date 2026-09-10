@@ -1,6 +1,9 @@
 ---
 title: "Distribuição de escassez"
 type: "conceito"
+status: "publicado"
+origem: "hipótese-do-projeto"
+grau: "experimental"
 tags:
   - design/conceito
   - arqueologia
@@ -8,40 +11,66 @@ tags:
 
 # Distribuição de escassez
 
-A **Distribuição de Escassez** é o princípio de design de serviços e filosofia política aplicada que estabelece que todo serviço que administra recursos limitados opera como uma teoria de justiça em funcionamento. O papel da interface ou do fluxo de serviço não é apenas otimizar a eficiência, mas materializar e legitimar socialmente os critérios de alocação de tais recursos.
+Uma fila, um concurso, uma triagem médica e um leilão resolvem problemas muito diferentes. Mas todos respondem à mesma pergunta estrutural: **quando não há recurso suficiente para todos ao mesmo tempo, quem recebe primeiro?**
 
-## Aplicação nos artefatos
+Chamamos de **distribuição de escassez** uma hipótese do projeto para analisar serviços como teorias de prioridade materializadas. A interface não apenas movimenta pessoas ou dados; ela incorpora um critério que torna algumas ordens de atendimento legítimas e outras inaceitáveis.
 
-Este conceito/princípio se manifesta e ajuda a compreender a lógica operacional dos seguintes artefatos:
+## Toda fila contém uma teoria de justiça
 
-- [[03 artefatos/Fila|Fila]] — Resolve a escassez de atendimento aplicando o critério de justiça de **ordem temporal** (quem chegou primeiro). O tempo de espera funciona como a moeda de troca aceita pela sociedade como imparcial.
-- [[03 artefatos/Agendamento|Agendamento]] — Reorganiza a escassez temporal de forma distribuída, convertendo a espera física em uma transação agendada de slots de tempo.
-- Concursos Públicos e Processos Seletivos — Resolvem a escassez de vagas aplicando o critério de **desempenho ou mérito**, substituindo a ordem de chegada pela preparação individual.
+Na [[03 artefatos/Fila|Fila]], a regra mais comum é temporal: quem chegou antes deve ser atendido antes. A geometria dos corpos torna essa ordem visível e socialmente fiscalizável.
 
-## Taxonomia de critérios de distribuição
+No [[03 artefatos/Agendamento|Agendamento]], a mesma escassez de capacidade é organizada antecipadamente em horários. O usuário troca espera física incerta por uma reserva temporal definida.
 
-Serviços que coordenam escassez adotam diferentes critérios para justificar a prioridade de atendimento ou posse, gerando distintas experiências morais e operacionais:
+Outros sistemas usam critérios diferentes. Processos seletivos distribuem vagas por desempenho segundo regras definidas. Triagens médicas priorizam gravidade. Sorteios recorrem ao acaso quando candidatos são considerados equivalentes. Leilões usam disposição ou capacidade de pagamento.
 
-1. **Ordem Temporal** (Ex: [[03 artefatos/Fila|Fila]]) — Prioridade baseada no tempo investido na espera desde a chegada.
-2. **Mérito ou Desempenho** (Ex: Concursos, vestibulares) — Prioridade baseada no resultado de provas e qualificações.
-3. **Necessidade ou Gravidade** (Ex: Triagem em prontos-socorros) — Prioridade baseada no risco clínico ou urgência.
-4. **Aleatoriedade** (Ex: Sorteio de ingressos, loterias) — Prioridade baseada no acaso neutro.
-5. **Capacidade de Pagamento** (Ex: Leilões, Fast Pass pago em parques) — Prioridade baseada no valor econômico atribuído.
-6. **Relacionamento ou Confiança** (Ex: Sistemas de indicação, networking) — Prioridade baseada em vínculos sociais.
-7. **Preferência Personalizada** (Ex: Algoritmos de recomendação) — Prioridade baseada no perfil e comportamento histórico de dados do usuário.
+Nenhum desses critérios é apenas operacional. Cada um contém uma resposta para “o que conta como prioridade justa neste contexto?”.
 
-## Variáveis relacionadas
+## Critérios diferentes produzem experiências morais diferentes
 
-Este conceito opera associado ou impacta as seguintes variáveis de design:
-- [[02 variaveis/Justica|Justiça]]
-- [[02 variaveis/Custo Transacional|Custo Transacional]]
-- [[02 variaveis/Friccao|Fricção]]
+A versão anterior do conceito reunia sete critérios úteis, que permanecem como uma taxonomia de trabalho do projeto: ordem temporal; mérito ou desempenho; necessidade ou gravidade; aleatoriedade; capacidade de pagamento; relacionamento ou confiança; e preferência personalizada por dados.
 
----
+A lista não pretende ser universal nem mutuamente exclusiva. Serviços reais frequentemente combinam critérios. Uma fila pode reservar prioridade legal por necessidade; uma universidade pode combinar prova, cotas e critérios socioeconômicos; uma plataforma pode ordenar conteúdo por histórico, pagamento e previsão de relevância ao mesmo tempo.
 
-### Ficha resumo do conceito
+É justamente na combinação que a investigação fica interessante. O design precisa tornar compreensível não apenas **quem passou na frente**, mas por que isso foi considerado legítimo.
 
-- **Nome do conceito**: Distribuição de Escassez
-- **Área principal**: Design de Serviços / Filosofia Política / Economia Comportamental
-- **Definição**: Framework que define como os serviços gerenciam a escassez de recursos através de processos de decisão legitimados por diferentes critérios morais e práticos de justiça.
-- **Artefatos chave explicados**: [[03 artefatos/Fila|Fila]], [[03 artefatos/Agendamento|Agendamento]]
+Por isso o conceito se conecta à [[02 variaveis/Justica|Justiça]] e ao custo de explicar decisões.
+
+## Eficiência e legitimidade não são a mesma coisa
+
+O mecanismo mais rápido nem sempre é o mais aceitável. Atender quem grita mais alto pode ser operacionalmente simples e socialmente desastroso. Uma triagem por gravidade pode quebrar a ordem de chegada e ainda ser percebida como mais justa porque existe uma justificativa diferente para prioridade.
+
+Essa distinção evita reduzir design de serviços a otimização de vazão.
+
+Um sistema de distribuição também precisa administrar percepção de equidade, previsibilidade e possibilidade de contestação. Quando a regra é invisível, mudanças de prioridade podem parecer favoritismo mesmo quando existe um critério legítimo.
+
+O artefato de serviço é, portanto, simultaneamente logística e explicação.
+
+## Algoritmos tornam a escassez menos visível, não menos política
+
+Sistemas digitais podem esconder a distribuição atrás de ranking, recomendação e personalização. Um feed decide qual conteúdo recebe espaço escasso na atenção; uma plataforma decide quais motoristas recebem corridas; um marketplace decide quais produtos aparecem primeiro.
+
+A ausência de uma fila visível não significa ausência de prioridade. Significa que o critério foi incorporado ao sistema.
+
+Essa é uma extensão importante da hipótese: **todo sistema que ordena acesso sob escassez está fazendo uma escolha distributiva**, mesmo quando essa escolha aparece apenas como cálculo técnico.
+
+O conceito não diz qual critério é correto. Ele obriga a tornar o critério investigável.
+
+## Ficha do conceito
+
+| Campo | Registro |
+|---|---|
+| **Conceito** | Distribuição de escassez |
+| **Origem** | Hipótese do projeto |
+| **Grau de consolidação** | Experimental |
+| **Formulação associada a** | Arqueologia do Design; diálogo com justiça procedimental, design de serviços e alocação de recursos |
+| **Área principal** | Design de serviços / filosofia política / economia comportamental |
+| **Distinção central** | Otimizar fluxo não é o mesmo que justificar quem recebe um recurso escasso |
+| **O que ajuda a explicar** | Critérios de prioridade incorporados em serviços e interfaces |
+| **O que não explica sozinho** | Qual critério distributivo é moralmente correto em cada contexto |
+| **Artefatos-chave** | [[03 artefatos/Fila|Fila]], [[03 artefatos/Agendamento|Agendamento]] |
+| **Variáveis relacionadas** | [[02 variaveis/Justica|Justiça]], [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Friccao|Fricção]] |
+| **Genealogias relacionadas** | [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]] |
+
+## Referências
+
+Esta é uma formulação interpretativa do projeto. Sua consolidação deve dialogar com literatura sobre justiça distributiva e procedimental, teoria das filas, triagem, alocação e governança algorítmica sem apresentar essa literatura como origem direta do termo.
