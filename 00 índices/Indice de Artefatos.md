@@ -33,9 +33,12 @@ Este índice organiza estudos publicados por campo de design. A classificação 
 - [[03 artefatos/Espaço entre Palavras|Espaço entre Palavras]]: uso do vazio como tecnologia de segmentação da leitura.
 - [[03 artefatos/Helvetica|Helvetica]]: tipografia e projeto de neutralidade visual no século XX.
 
-## Design de serviços e organização
+## Design de serviços, organização e pesquisa
 
 - [[03 artefatos/Service Blueprint|Service Blueprint]]: representação que alinha experiência, frontstage, backstage e processos de suporte numa mesma superfície.
+- [[03 artefatos/Customer Journey Map|Customer Journey Map]]: representação temporal da experiência que integra etapas, transições, expectativas e evidências.
+- [[03 artefatos/Entrevista Qualitativa|Entrevista qualitativa]]: situação projetada para reconstruir experiência, significado, contexto e mudança em profundidade.
+- [[03 artefatos/Pesquisa Quantitativa|Pesquisa quantitativa]]: sistema de medição e comparação para investigar distribuição, magnitude e diferença entre grupos.
 - [[03 artefatos/Calendário|Calendário]]: referência temporal compartilhada.
 - [[03 artefatos/Fila|Fila]]: distribuição sequencial de acesso escasso.
 - [[03 artefatos/Agendamento|Agendamento]]: distribuição temporal de acesso futuro.
