@@ -1,6 +1,8 @@
 ---
 title: "Justificativa de valor público"
 type: "artefato"
+status: "publicado"
+estado: "proposta conceitual"
 tags:
   - design/artefato
   - arqueologia
@@ -8,53 +10,117 @@ tags:
 
 # Justificativa de valor público
 
-Um artefato de governança e design de serviços públicos projetado para institucionalizar e auditar a tomada de decisões no serviço público. Ele funciona como uma microinfraestrutura de accountability inserida em processos eletrônicos oficiais (como o SEI), condicionando o início de novos projetos, sistemas ou contratações à justificabilidade do valor público gerado para o cidadão e a comunidade.
+No serviço público, uma demanda pode parecer institucional simplesmente porque foi formulada dentro de uma instituição.
 
-## Ficha técnica
-- **Criador(es)**: Leo Ruas
-- **Empresa/Fabricante**: Instituto Federal de Minas Gerais (IFMG)
-- **Ano de Lançamento**: 2026
-- **Materiais/Mídia**: Documentos administrativos integrados em sistemas de processos eletrônicos (SEI), planilhas de governança
-- **Tipo de Design**: [[00 tipos de design/Design de Servicos|Design de Serviços]]
+“Precisamos de um novo sistema”, “este setor precisa de uma funcionalidade própria”, “vamos contratar uma solução para automatizar este fluxo”. A linguagem administrativa tende a transformar desejos localizados em necessidades aparentemente objetivas. O custo, porém, é coletivo: orçamento, manutenção, tempo de servidores, integração técnica e complexidade futura continuam existindo mesmo quando o benefício permanece restrito a uma conveniência particular.
 
-## História e contexto de criação
-- **Demanda / Problema**: Recursos coletivos e verba pública podem ser consumidos por demandas de sistemas localizados, customizações desnecessárias e contratações de TI solicitadas por conveniências particulares de chefias ou setores, sem que tragam benefício sistêmico ou institucional real.
-- **Processo de Desenvolvimento**: O artefato foi concebido como uma evolução do *Value Proposition Ad Lib* para o contexto da administração pública. Ele uniu o papel regulador da TI (que fiscaliza custos e viabilidade técnica) e da Comunicação (que defende a clareza e a experiência do cidadão) em uma barreira de legitimidade, obrigando que propostas de intervenções digitais passassem por critérios explícitos de justificabilidade e avaliação retroativa.
+A **Justificativa de valor público** é uma proposta de artefato de governança concebida neste projeto em 2026 para criar fricção exatamente nesse ponto. Sua pergunta central é simples: **antes de mobilizar recursos públicos, conseguimos explicar de forma clara, examinável e posteriormente verificável qual valor público esperamos produzir?**
 
-## Inovação e impacto
-- **Ampliação de Capacidade**: Amplia a capacidade de auditoria e prestação de contas (accountability) de decisões institucionais complexas, convertendo promessas de serviços em premissas lógicas de valor controláveis e questionáveis.
-- **Enfraquecimento de Capacidade**: Dificulta a tomada de decisões discricionárias unilaterais por parte de gestores, reduzindo a velocidade de aprovação de propostas informais e sem dados de base.
-- **Comportamento Coletivo**: Estimula a colaboração transversal entre TI, Comunicação e áreas de negócio, forçando-as a estruturar justificativas em termos de necessidades públicas em vez de exigências hierárquicas.
-- **Linhagem e Descendência**: Descendente direto dos canvases de proposta de valor e da motivação do ato administrativo. Compartilha a mesma linhagem de transparência ativa que gerou a Lei de Acesso à Informação (LAI) e o Portal da Transparência.
-- **Custo Invisível**: Introduz mais uma etapa e um documento no processo burocrático de trâmite governamental, o que pode aumentar a carga operacional se não for devidamente integrado ao fluxo existente.
+Ela ainda deve ser entendida como proposta conceitual. O vault não possui evidência de institucionalização formal ou implantação do artefato no IFMG, e por isso o estudo não deve apresentá-lo como prática já adotada pela instituição.
 
-## Referências e onde encontrar
-- **Acervos**: Fluxo de processos administrativos do IFMG
-- **Leituras**: *Dilemmas in a General Theory of Planning* (Rittel & Webber, 1973) e a legislação brasileira de transparência pública (Lei nº 12.527 - LAI)
+## Da proposta de valor à obrigação de justificar
 
----
+A origem imediata da ideia está no [[03 artefatos/Value Proposition Ad Lib|Value Proposition Ad Lib]]. O Ad Lib comprime público, necessidade e transformação numa frase estruturada, obrigando uma proposta a revelar relações que poderiam permanecer implícitas.
 
-### Ficha resumo
+A adaptação para o serviço público muda, porém, o critério de legitimidade. Uma empresa pode avaliar uma proposta pela combinação entre benefício ao cliente e sustentabilidade do negócio. Uma instituição pública precisa lidar também com interesse público, legalidade, distribuição de custos, transparência e possibilidade de controle.
 
-- **Nome do artefato**: Justificativa de Valor Público
-- **Categoria**: Design de Serviços / Governança / Administração Pública
-- **Período aproximado**: Década de 2020
-- **Pessoas ou equipes envolvidas**: Leo Ruas
-- **Produto onde apareceu**: Processos do Sistema Eletrônico de Informações (SEI) no IFMG
-- **Problema original**: A mobilização de recursos públicos e o desenvolvimento de sistemas para atender conveniências localizadas e preferências de chefias individuais que se disfarçam de necessidades institucionais universais.
-- **Hipótese sobre a natureza humana**: As pessoas tendem a universalizar as próprias necessidades e dores locais, ao mesmo tempo em que ignoram ou minimizam os custos e esforços que suas decisões transferem a outras pessoas ou ao orçamento público.
-- **Relação de poder**: Transfere o poder decisório e discricionário dos solicitantes isolados para uma comissão conjunta de exame técnico e de comunicação, democratizando e dando transparência aos critérios de escolha de investimentos públicos.
-- **Mundo antes da inovação**: Chefias solicitavam sistemas e contratações baseadas apenas na hierarquia ou em termos de "necessidade do setor", sem precisar demonstrar o valor gerado para o usuário final, resultando em desperdício orçamental e proliferação de softwares redundantes.
-- **A ideia que mudou tudo**: Um ritual administrativo formal estruturado em cinco camadas (origem, problema, alternativas, custos/interesse e verificação) que obriga a proposta a demonstrar sua utilidade pública e a definir critérios e condições claras para sua própria descontinuação futura.
-- **Comportamento aproveitado**: O dever legal da motivação e justificativa explícita de atos administrativos do Estado.
-- **Comportamento criado**: O hábito organizacional de realizar diagnósticos com base em evidências antes de formular soluções, e de monitorar e reavaliar retroativamente o valor real produzido pelas ferramentas adquiridas.
-- **Por que funcionou**: Ao cruzar as análises de TI e de Comunicação, o artefato cria uma barreira epistemológica que expõe a falta de consistência lógica ou o caráter puramente particular de certas solicitações.
-- **Consequências inesperadas**: O preenchimento automatizado e retórico com chavões burocráticos ("melhorar o fluxo", "otimizar recursos") feito para contornar a regra e obter aprovação rápida sem reflexão.
-- **Legado**: Introdução da memória epistemológica e da transparência decisória em processos de governança digital do serviço público.
-- **Conceitos relacionados**: [[01 conceitos/Formulação|Formulação]], [[01 conceitos/Justificabilidade|Justificabilidade]], [[01 conceitos/Intenção|Intenção]], [[01 conceitos/Justica Procedimental|Justiça Procedimental]]
-- **Família de ideias**: Artefatos de Justificabilidade, Legibilidade Decisória, Governança Pública
-- **Parentes**: [[03 artefatos/Value Proposition Ad Lib|Value Proposition Ad Lib]], [[03 artefatos/Checklist|Checklist]], [[03 artefatos/Projeto Piloto|Projeto Piloto]], [[03 artefatos/Número de Protocolo|Número de Protocolo]]
-- **Hipótese central**: A legitimidade de um projeto público depende de explicitar para quem ele existe, o que pretende produzir, por que merece ser aceito, e sob quais condições de falha ele deve ser cancelado.
-- **Princípio de design revelado**: Decisões de design de sistemas públicos devem ser compreensíveis, auditáveis e contestáveis pela comunidade que arca com seus custos.
-- **Destino do artefato**: Proposto e integrado incrementalmente às metodologias de análise de sistemas e governança integrada de serviços públicos digitais.
-- **Perguntas em aberto**: Como simplificar a estrutura do documento para que ele não crie uma parálise processual por excesso de exigências burocráticas, mantendo sua força de controle e accountability?
+A expressão “valor público” possui uma tradição própria na administração pública. Em *Creating Public Value*, de 1995, Mark H. Moore propõe pensar a gestão pública em torno daquilo que é valioso produzir para a sociedade, da legitimidade e apoio necessários para agir e da capacidade operacional para realizar essa produção.[^1]
+
+A Justificativa de valor público não é uma aplicação oficial do modelo de Moore. Ela aproxima essa tradição de uma ferramenta de formulação do design: tenta transformar uma justificativa abstrata em um artefato pequeno o suficiente para entrar no fluxo administrativo.
+
+Também existe um parentesco com o dever jurídico de motivação. A Lei nº 9.784/1999 determina que determinados atos administrativos federais sejam motivados com indicação de fatos e fundamentos jurídicos e exige, nesses casos, motivação explícita, clara e congruente.[^2] Isso não significa que a lei imponha esta ferramenta ou que todo projeto público deva legalmente preencher sua estrutura. O parentesco está na ideia de que decisões públicas importantes não deveriam depender apenas de vontade não explicitada.
+
+## Cinco perguntas antes de transformar desejo em infraestrutura
+
+A versão proposta neste projeto organiza a justificativa em cinco camadas.
+
+A primeira é **origem**: de onde veio a demanda e quem a formulou? Isso impede que “a instituição precisa” esconda o ator concreto que identificou a necessidade.
+
+A segunda é **problema**: que situação observável justifica intervenção, para quem e com que evidência? Aqui a ferramenta herda a preocupação do [[03 artefatos/Problema de Design|problema de design]] e da [[03 artefatos/Pergunta de Pesquisa|pergunta de pesquisa]]: separar situação de solução presumida.
+
+A terceira é **alternativas**: que outras formas de responder ao problema foram consideradas, inclusive não fazer nada, alterar processo, reutilizar infraestrutura existente ou mudar comunicação? Uma solução só parece inevitável quando alternativas permanecem invisíveis.
+
+A quarta é **custos e interesse público**: quem recebe o benefício e quem absorve custo, manutenção, risco ou complexidade? Essa camada tenta impedir que conveniência localizada seja financiada como se fosse valor universal.
+
+A quinta é **verificação**: que sinais posteriores mostrariam que a intervenção produziu aquilo que prometeu, e em que condições ela deveria ser revista ou interrompida?
+
+A sequência importa porque transforma a justificativa em memória da decisão. Meses depois, torna-se possível comparar promessa e resultado em vez de reconstruir retrospectivamente por que o projeto existia.
+
+## Governança como serviço de reflexão
+
+A Lei nº 14.129/2021 ajuda a mostrar por que essa proposta faz sentido no contexto do governo digital. Entre seus princípios e diretrizes estão transparência na execução dos serviços públicos, monitoramento da qualidade, participação social no controle, prestação de contas sobre recursos públicos, linguagem clara, simplificação de procedimentos, atuação integrada e uso de dados e evidências para melhorar serviços.[^3]
+
+A Justificativa de valor público tenta condensar parte desse espírito numa decisão concreta de projeto.
+
+Ela funciona como aquilo que este vault chama de [[01 conceitos/Servico de Reflexao|serviço de reflexão]]: um ponto do processo desenhado para fazer a própria organização examinar a coerência de sua intenção antes de avançar.
+
+Por isso a participação conjunta de áreas como TI, Comunicação e área demandante é uma hipótese importante do artefato. TI consegue tornar visíveis custo técnico, interoperabilidade, manutenção e redundância. Comunicação pode examinar clareza, acesso, experiência e relação com públicos. A área de negócio traz conhecimento do problema operacional.
+
+Mas isso não significa que a proposta deva criar uma “comissão de verdade” com poder absoluto para decidir o que conta como valor público. Esse seria um risco de governança tão relevante quanto a arbitrariedade que o artefato tenta reduzir.
+
+A ferramenta deveria aumentar **contestabilidade**, não apenas transferir discricionariedade de uma chefia para outro grupo técnico.
+
+## A barreira que também pode virar burocracia
+
+Toda exigência de justificativa produz custo.
+
+Se cada mudança pequena exigir um documento extenso, a ferramenta pode entrar em conflito com o próprio princípio de simplificação administrativa. A Lei de Governo Digital chega a prever a eliminação de formalidades cujo custo econômico ou social seja superior ao risco envolvido.[^3]
+
+Essa tensão precisa permanecer no centro do design.
+
+A Justificativa de valor público só faz sentido quando o custo da reflexão é proporcional ao custo e à irreversibilidade da decisão. Uma pequena alteração editorial não deveria receber a mesma carga que a aquisição de um novo sistema, a criação de uma base de dados ou uma mudança que afetará milhares de usuários.
+
+Existe ainda o risco de preenchimento performativo. Equipes podem aprender a escrever frases como “otimizar recursos”, “melhorar a experiência” e “promover eficiência” sem produzir qualquer evidência nova. A forma documental começa a funcionar como selo de legitimidade em vez de instrumento de investigação.
+
+O [[03 artefatos/Carimbo|carimbo]] é um parente irônico aqui: uma justificativa criada para impedir aprovação automática pode, depois de institucionalizada, transformar-se exatamente no novo carimbo necessário para o processo continuar.
+
+Por isso a camada de verificação é decisiva. Se a justificativa nunca for retomada depois da implantação, ela recompensa escrita persuasiva, não aprendizagem.
+
+## Tornar decisões legíveis no tempo
+
+O ganho mais interessante da proposta talvez não seja impedir projetos ruins imediatamente. É criar **memória epistemológica**.
+
+Uma decisão administrativa costuma deixar rastros de quem autorizou, quando ocorreu e quanto custou. Nem sempre preserva com a mesma clareza aquilo que se acreditava sobre o problema e por que determinada alternativa parecia produzir valor.
+
+A justificativa tenta registrar esse estado de conhecimento.
+
+Isso a aproxima do [[03 artefatos/Número de Protocolo|número de protocolo]], que estabiliza a identidade de uma demanda, e da [[03 artefatos/Assinatura|assinatura]], que liga pessoas a atos. A Justificativa acrescentaria outra camada: tornar legível a **razão operacional e pública** apresentada para o ato.
+
+Seu descendente mais importante talvez seja o próprio mecanismo de revisão. Se critérios registrados no início forem comparados com uso, custo e benefício posteriores, a organização ganha condições de interromper sistemas que deixaram de produzir valor ou de reconhecer quando hipóteses iniciais estavam erradas.
+
+A hipótese deste projeto é que a legitimidade de decisões de design no setor público aumenta quando suas premissas podem ser compreendidas, contestadas e revisitadas por pessoas que não participaram da decisão original.
+
+Nesse sentido, justificabilidade não é sinônimo de produzir mais documentos. É projetar decisões para que continuem explicáveis depois que seus autores saírem da sala.
+
+## Ficha arqueológica
+
+| Campo | Registro |
+|---|---|
+| **Artefato** | Justificativa de valor público |
+| **Período** | Proposta concebida em 2026 no contexto deste projeto |
+| **Estado** | Proposta conceitual; não há no vault evidência de institucionalização formal no IFMG |
+| **Autoria** | Leo Ruas, como formulação desenvolvida no projeto Arqueologia do Design |
+| **Problema original** | Demandas localizadas podem mobilizar recursos coletivos sem explicitar adequadamente problema, alternativas, benefício público, custos e critérios de continuidade |
+| **Invenção** | Adaptação proposta a partir do Value Proposition Ad Lib para governança de decisões públicas |
+| **Refinamento** | Estrutura em cinco camadas: origem, problema, alternativas, custos/interesse público e verificação |
+| **Popularização** | Ainda não aplicável; artefato em formulação |
+| **Padronização** | Ainda não aplicável |
+| **Comportamento aproveitado** | Necessidade institucional e jurídica de justificar decisões, além da capacidade de revisar argumentos quando premissas ficam explícitas |
+| **Comportamento produzido** | Investigar a demanda antes da solução, comparar alternativas e registrar condições de avaliação posterior |
+| **Hipótese de design** | Uma justificativa curta, estruturada e verificável pode tornar decisões públicas mais legíveis e contestáveis antes de recursos serem comprometidos |
+| **Relação de poder** | Reduz a força de demandas sustentadas apenas por autoridade, mas pode criar nova concentração de poder se a avaliação ficar monopolizada por uma instância técnica |
+| **Custo invisível** | Nova carga burocrática, preenchimento performativo e paralisia quando exigências são desproporcionais ao risco da decisão |
+| **Conceitos relacionados** | [[01 conceitos/Formulacao|Formulação]], [[01 conceitos/Justificabilidade|Justificabilidade]], [[01 conceitos/Intencao|Intenção]], [[01 conceitos/Justica Procedimental|Justiça procedimental]], [[01 conceitos/Servico de Reflexao|Serviço de reflexão]] |
+| **Família de ideias** | Artefatos de justificabilidade, governança e legibilidade decisória |
+| **Parentes** | [[03 artefatos/Value Proposition Ad Lib|Value Proposition Ad Lib]], [[03 artefatos/Problema de Design|Problema de design]], [[03 artefatos/Projeto Piloto|Projeto piloto]], [[03 artefatos/Número de Protocolo|Número de protocolo]], [[03 artefatos/Carimbo|Carimbo]] |
+| **Questão em aberto** | Como tornar a justificativa proporcional ao risco e ao custo da decisão para que ela produza reflexão sem virar mais um rito administrativo? |
+
+## Referências
+
+[^1]: Moore, Mark H. *Creating Public Value: Strategic Management in Government*. Harvard University Press, 1995. Referência para a tradição de gestão pública orientada à produção de valor público, legitimidade e capacidade operacional.
+
+[^2]: Brasil. Lei nº 9.784, de 29 de janeiro de 1999, art. 50. Regula o processo administrativo federal e exige motivação com indicação de fatos e fundamentos jurídicos nas hipóteses previstas em lei, de forma explícita, clara e congruente.
+
+[^3]: Brasil. Lei nº 14.129, de 29 de março de 2021, especialmente arts. 1º e 3º. Estabelece princípios e diretrizes de Governo Digital relacionados a simplificação, transparência, monitoramento de qualidade, participação social, prestação de contas, linguagem clara, integração e uso de tecnologia e evidências.
+
+[^4]: Osterwalder, Alexander; Pigneur, Yves; Bernarda, Greg; Smith, Alan. *Value Proposition Design*. Wiley, 2014. Referência para o Value Proposition Ad Lib que inspira a estrutura de formulação adaptada neste projeto.
