@@ -32,6 +32,10 @@ O **Design de Serviços** é a atividade de planejar e organizar pessoas, infrae
 
 ## Artefatos históricos relacionados
 - [[03 artefatos/Service Blueprint|Service Blueprint]] — Representação que alinha experiência do usuário, frontstage, backstage e processos de suporte numa mesma superfície.
+- [[03 artefatos/Customer Journey Map|Customer Journey Map]] — Representação temporal da experiência que pode integrar ações, expectativas, emoções, touchpoints e evidências.
+- [[03 artefatos/Entrevista Qualitativa|Entrevista qualitativa]] — Situação de investigação que permite reconstruir significado, contexto e mudança em profundidade.
+- [[03 artefatos/Pesquisa Quantitativa|Pesquisa quantitativa]] — Sistema de medição e comparação usado para estimar frequência, distribuição, magnitude e diferenças entre grupos.
+- [[03 artefatos/Jobs to Be Done|Jobs to Be Done]] — Formulação que desloca a investigação do produto para o progresso buscado em determinada circunstância.
 - [[03 artefatos/Calendário|Calendário]] — A tecnologia primitiva de espacialização temporal e sincronização social.
 - [[03 artefatos/Fila|Fila]] — O mecanismo clássico e invisível de coordenação social e legitimação de fluxos.
 - [[03 artefatos/Agendamento|Agendamento]] — A tecnologia de coordenação temporal que estruturou o acesso aos serviços.
@@ -41,5 +45,5 @@ O **Design de Serviços** é a atividade de planejar e organizar pessoas, infrae
 - [[03 artefatos/Justificativa de Valor Público|Justificativa de Valor Público]] — Artefato de governança de serviços públicos em processos administrativos.
 
 ## Conexões e referências
-- **Conceitos Chave**: [[01 conceitos/Ecologia de Artefatos|Ecologia de Artefatos]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Redução de Inferências|Redução de inferências]], [[01 conceitos/Distribuicao de Escassez|Distribuição de Escassez]], [[01 conceitos/Limiares|Limiares]], [[01 conceitos/Tecnologia de Acesso|Tecnologia de Acesso]], [[01 conceitos/Sincronizacao|Sincronização]], [[01 conceitos/Justificabilidade|Justificabilidade]]
+- **Conceitos Chave**: [[01 conceitos/Ecologia de Artefatos|Ecologia de Artefatos]], [[01 conceitos/Investigação|Investigação]], [[01 conceitos/Formulacao|Formulação]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Redução de Inferências|Redução de inferências]], [[01 conceitos/Distribuicao de Escassez|Distribuição de Escassez]], [[01 conceitos/Limiares|Limiares]], [[01 conceitos/Tecnologia de Acesso|Tecnologia de Acesso]], [[01 conceitos/Sincronizacao|Sincronização]], [[01 conceitos/Justificabilidade|Justificabilidade]]
 - **Áreas Correlatas**: [[00 tipos de design/Design de Interface|Design de Interface]], [[00 tipos de design/Design de Produto|Design de Produto]]
