@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-10T15:39:39.246Z",
+  "generatedAt": "2026-09-10T15:40:31.643Z",
   "rule": "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
-  "candidateCount": 309,
-  "fileCount": 77,
+  "candidateCount": 254,
+  "fileCount": 75,
   "files": [
     {
       "sourcePath": "00 índices/Indice de Autores.md",
@@ -172,35 +172,6 @@
           "sourcePath": "05 percursos/Como Projetamos Fronteiras.md",
           "kind": "frontmatter-title",
           "text": "Como Projetamos Fronteiras"
-        },
-        {
-          "sourcePath": "05 percursos/Como Projetamos Fronteiras.md",
-          "kind": "h2",
-          "line": 26,
-          "text": "4. [[03 artefatos/Tela de Login|Tela de Login]]"
-        },
-        {
-          "sourcePath": "05 percursos/Como Projetamos Fronteiras.md",
-          "kind": "h2",
-          "line": 30,
-          "text": "5. [[03 artefatos/Slide to Unlock|Slide to Unlock]]"
-        }
-      ]
-    },
-    {
-      "sourcePath": "05 percursos/Como o Design Aprendeu a Guardar.md",
-      "items": [
-        {
-          "sourcePath": "05 percursos/Como o Design Aprendeu a Guardar.md",
-          "kind": "h2",
-          "line": 18,
-          "text": "2. [[03 artefatos/Botao Salvar|Botão Salvar]]"
-        },
-        {
-          "sourcePath": "05 percursos/Como o Design Aprendeu a Guardar.md",
-          "kind": "h2",
-          "line": 26,
-          "text": "4. [[03 artefatos/Número de Protocolo|Número de Protocolo]]"
         }
       ]
     },
@@ -211,52 +182,12 @@
           "sourcePath": "05 percursos/Da Espera a Sincronizacao.md",
           "kind": "frontmatter-title",
           "text": "Da Espera à Sincronização"
-        },
-        {
-          "sourcePath": "05 percursos/Da Espera a Sincronizacao.md",
-          "kind": "h2",
-          "line": 26,
-          "text": "4. [[03 artefatos/Cartao de Embarque|Cartão de Embarque]]"
-        }
-      ]
-    },
-    {
-      "sourcePath": "05 percursos/Da Parede ao Feed.md",
-      "items": [
-        {
-          "sourcePath": "05 percursos/Da Parede ao Feed.md",
-          "kind": "h2",
-          "line": 18,
-          "text": "2. [[03 artefatos/Hero Section|Hero Section]]"
-        },
-        {
-          "sourcePath": "05 percursos/Da Parede ao Feed.md",
-          "kind": "h2",
-          "line": 22,
-          "text": "3. [[03 artefatos/Botao Like|Botão Like]]"
-        },
-        {
-          "sourcePath": "05 percursos/Da Parede ao Feed.md",
-          "kind": "h2",
-          "line": 26,
-          "text": "4. [[03 artefatos/Pull to Refresh|Pull to Refresh]]"
-        },
-        {
-          "sourcePath": "05 percursos/Da Parede ao Feed.md",
-          "kind": "h2",
-          "line": 30,
-          "text": "5. [[03 artefatos/Infinite Scroll|Infinite Scroll]]"
         }
       ]
     },
     {
       "sourcePath": "autores/Adrian Frutiger.md",
       "items": [
-        {
-          "sourcePath": "autores/Adrian Frutiger.md",
-          "kind": "frontmatter-title",
-          "text": "Adrian Frutiger"
-        },
         {
           "sourcePath": "autores/Adrian Frutiger.md",
           "kind": "h2",
@@ -288,11 +219,6 @@
       "items": [
         {
           "sourcePath": "autores/Alan Kay.md",
-          "kind": "frontmatter-title",
-          "text": "Alan Kay"
-        },
-        {
-          "sourcePath": "autores/Alan Kay.md",
           "kind": "h2",
           "line": 13,
           "text": "Perfil Biográfico"
@@ -314,11 +240,6 @@
     {
       "sourcePath": "autores/Alan Klement.md",
       "items": [
-        {
-          "sourcePath": "autores/Alan Klement.md",
-          "kind": "frontmatter-title",
-          "text": "Alan Klement"
-        },
         {
           "sourcePath": "autores/Alan Klement.md",
           "kind": "h2",
@@ -350,11 +271,6 @@
       "items": [
         {
           "sourcePath": "autores/Alexander Osterwalder.md",
-          "kind": "frontmatter-title",
-          "text": "Alexander Osterwalder"
-        },
-        {
-          "sourcePath": "autores/Alexander Osterwalder.md",
           "kind": "h2",
           "line": 13,
           "text": "Perfil Biográfico"
@@ -382,11 +298,6 @@
     {
       "sourcePath": "autores/Alois Senefelder.md",
       "items": [
-        {
-          "sourcePath": "autores/Alois Senefelder.md",
-          "kind": "frontmatter-title",
-          "text": "Alois Senefelder"
-        },
         {
           "sourcePath": "autores/Alois Senefelder.md",
           "kind": "h2",
@@ -418,11 +329,6 @@
       "items": [
         {
           "sourcePath": "autores/Atul Gawande.md",
-          "kind": "frontmatter-title",
-          "text": "Atul Gawande"
-        },
-        {
-          "sourcePath": "autores/Atul Gawande.md",
           "kind": "h2",
           "line": 13,
           "text": "Perfil Biográfico"
@@ -452,11 +358,6 @@
       "items": [
         {
           "sourcePath": "autores/Barry Schwartz.md",
-          "kind": "frontmatter-title",
-          "text": "Barry Schwartz"
-        },
-        {
-          "sourcePath": "autores/Barry Schwartz.md",
           "kind": "h2",
           "line": 13,
           "text": "Perfil Biográfico"
@@ -480,11 +381,6 @@
       "items": [
         {
           "sourcePath": "autores/Ben Shneiderman.md",
-          "kind": "frontmatter-title",
-          "text": "Ben Shneiderman"
-        },
-        {
-          "sourcePath": "autores/Ben Shneiderman.md",
           "kind": "h2",
           "line": 13,
           "text": "Perfil Biográfico"
@@ -506,11 +402,6 @@
     {
       "sourcePath": "autores/Birgit Mager.md",
       "items": [
-        {
-          "sourcePath": "autores/Birgit Mager.md",
-          "kind": "frontmatter-title",
-          "text": "Birgit Mager"
-        },
         {
           "sourcePath": "autores/Birgit Mager.md",
           "kind": "h2",
@@ -542,11 +433,6 @@
       "items": [
         {
           "sourcePath": "autores/Bob Moesta.md",
-          "kind": "frontmatter-title",
-          "text": "Bob Moesta"
-        },
-        {
-          "sourcePath": "autores/Bob Moesta.md",
           "kind": "h2",
           "line": 13,
           "text": "Perfil Biográfico"
@@ -574,11 +460,6 @@
     {
       "sourcePath": "autores/Cass R. Sunstein.md",
       "items": [
-        {
-          "sourcePath": "autores/Cass R. Sunstein.md",
-          "kind": "frontmatter-title",
-          "text": "Cass R. Sunstein"
-        },
         {
           "sourcePath": "autores/Cass R. Sunstein.md",
           "kind": "h2",
@@ -610,11 +491,6 @@
       "items": [
         {
           "sourcePath": "autores/Clayton Christensen.md",
-          "kind": "frontmatter-title",
-          "text": "Clayton Christensen"
-        },
-        {
-          "sourcePath": "autores/Clayton Christensen.md",
           "kind": "h2",
           "line": 13,
           "text": "Perfil Biográfico"
@@ -642,11 +518,6 @@
     {
       "sourcePath": "autores/Dave Gray.md",
       "items": [
-        {
-          "sourcePath": "autores/Dave Gray.md",
-          "kind": "frontmatter-title",
-          "text": "Dave Gray"
-        },
         {
           "sourcePath": "autores/Dave Gray.md",
           "kind": "h2",
@@ -678,11 +549,6 @@
       "items": [
         {
           "sourcePath": "autores/David Kirkpatrick.md",
-          "kind": "frontmatter-title",
-          "text": "David Kirkpatrick"
-        },
-        {
-          "sourcePath": "autores/David Kirkpatrick.md",
           "kind": "h2",
           "line": 13,
           "text": "Perfil Biográfico"
@@ -710,11 +576,6 @@
     {
       "sourcePath": "autores/Dieter Rams.md",
       "items": [
-        {
-          "sourcePath": "autores/Dieter Rams.md",
-          "kind": "frontmatter-title",
-          "text": "Dieter Rams"
-        },
         {
           "sourcePath": "autores/Dieter Rams.md",
           "kind": "h2",
@@ -746,11 +607,6 @@
       "items": [
         {
           "sourcePath": "autores/Donald Norman.md",
-          "kind": "frontmatter-title",
-          "text": "Donald Norman"
-        },
-        {
-          "sourcePath": "autores/Donald Norman.md",
           "kind": "h2",
           "line": 13,
           "text": "Perfil Biográfico"
@@ -778,11 +634,6 @@
     {
       "sourcePath": "autores/Douglas Engelbart.md",
       "items": [
-        {
-          "sourcePath": "autores/Douglas Engelbart.md",
-          "kind": "frontmatter-title",
-          "text": "Douglas Engelbart"
-        },
         {
           "sourcePath": "autores/Douglas Engelbart.md",
           "kind": "h2",
@@ -814,11 +665,6 @@
       "items": [
         {
           "sourcePath": "autores/Francis Bacon.md",
-          "kind": "frontmatter-title",
-          "text": "Francis Bacon"
-        },
-        {
-          "sourcePath": "autores/Francis Bacon.md",
           "kind": "h2",
           "line": 13,
           "text": "Perfil Biográfico"
@@ -846,11 +692,6 @@
     {
       "sourcePath": "autores/G Lynn Shostack.md",
       "items": [
-        {
-          "sourcePath": "autores/G Lynn Shostack.md",
-          "kind": "frontmatter-title",
-          "text": "G Lynn Shostack"
-        },
         {
           "sourcePath": "autores/G Lynn Shostack.md",
           "kind": "h2",
@@ -882,11 +723,6 @@
       "items": [
         {
           "sourcePath": "autores/Hans Barnard.md",
-          "kind": "frontmatter-title",
-          "text": "Hans Barnard"
-        },
-        {
-          "sourcePath": "autores/Hans Barnard.md",
           "kind": "h2",
           "line": 13,
           "text": "Perfil Biográfico"
@@ -914,11 +750,6 @@
     {
       "sourcePath": "autores/Henri de Toulouse Lautrec.md",
       "items": [
-        {
-          "sourcePath": "autores/Henri de Toulouse Lautrec.md",
-          "kind": "frontmatter-title",
-          "text": "Henri de Toulouse-Lautrec"
-        },
         {
           "sourcePath": "autores/Henri de Toulouse Lautrec.md",
           "kind": "h2",
@@ -950,11 +781,6 @@
       "items": [
         {
           "sourcePath": "autores/Herbert Simon.md",
-          "kind": "frontmatter-title",
-          "text": "Herbert Simon"
-        },
-        {
-          "sourcePath": "autores/Herbert Simon.md",
           "kind": "h2",
           "line": 13,
           "text": "Perfil Biográfico"
@@ -982,11 +808,6 @@
     {
       "sourcePath": "autores/Horst Rittel.md",
       "items": [
-        {
-          "sourcePath": "autores/Horst Rittel.md",
-          "kind": "frontmatter-title",
-          "text": "Horst Rittel"
-        },
         {
           "sourcePath": "autores/Horst Rittel.md",
           "kind": "h2",
@@ -1018,11 +839,6 @@
       "items": [
         {
           "sourcePath": "autores/James Macanufo.md",
-          "kind": "frontmatter-title",
-          "text": "James Macanufo"
-        },
-        {
-          "sourcePath": "autores/James Macanufo.md",
           "kind": "h2",
           "line": 13,
           "text": "Perfil Biográfico"
@@ -1050,11 +866,6 @@
     {
       "sourcePath": "autores/John Kotter.md",
       "items": [
-        {
-          "sourcePath": "autores/John Kotter.md",
-          "kind": "frontmatter-title",
-          "text": "John Kotter"
-        },
         {
           "sourcePath": "autores/John Kotter.md",
           "kind": "h2",
@@ -1086,11 +897,6 @@
       "items": [
         {
           "sourcePath": "autores/John Odling-Smee.md",
-          "kind": "frontmatter-title",
-          "text": "John Odling-Smee"
-        },
-        {
-          "sourcePath": "autores/John Odling-Smee.md",
           "kind": "h2",
           "line": 13,
           "text": "Perfil Biográfico"
@@ -1118,11 +924,6 @@
     {
       "sourcePath": "autores/Josef Muller Brockmann.md",
       "items": [
-        {
-          "sourcePath": "autores/Josef Muller Brockmann.md",
-          "kind": "frontmatter-title",
-          "text": "Josef Müller-Brockmann"
-        },
         {
           "sourcePath": "autores/Josef Muller Brockmann.md",
           "kind": "h2",
@@ -1154,11 +955,6 @@
       "items": [
         {
           "sourcePath": "autores/Jules Cheret.md",
-          "kind": "frontmatter-title",
-          "text": "Jules Chéret"
-        },
-        {
-          "sourcePath": "autores/Jules Cheret.md",
           "kind": "h2",
           "line": 13,
           "text": "Perfil Biográfico"
@@ -1186,11 +982,6 @@
     {
       "sourcePath": "autores/Kevin Laland.md",
       "items": [
-        {
-          "sourcePath": "autores/Kevin Laland.md",
-          "kind": "frontmatter-title",
-          "text": "Kevin Laland"
-        },
         {
           "sourcePath": "autores/Kevin Laland.md",
           "kind": "h2",
@@ -1222,11 +1013,6 @@
       "items": [
         {
           "sourcePath": "autores/Loren Brichter.md",
-          "kind": "frontmatter-title",
-          "text": "Loren Brichter"
-        },
-        {
-          "sourcePath": "autores/Loren Brichter.md",
           "kind": "h2",
           "line": 13,
           "text": "Perfil Biográfico"
@@ -1254,11 +1040,6 @@
     {
       "sourcePath": "autores/Marcus Feldman.md",
       "items": [
-        {
-          "sourcePath": "autores/Marcus Feldman.md",
-          "kind": "frontmatter-title",
-          "text": "Marcus Feldman"
-        },
         {
           "sourcePath": "autores/Marcus Feldman.md",
           "kind": "h2",
@@ -1290,11 +1071,6 @@
       "items": [
         {
           "sourcePath": "autores/Max Miedinger.md",
-          "kind": "frontmatter-title",
-          "text": "Max Miedinger"
-        },
-        {
-          "sourcePath": "autores/Max Miedinger.md",
           "kind": "h2",
           "line": 14,
           "text": "Perfil Biográfico"
@@ -1322,11 +1098,6 @@
     {
       "sourcePath": "autores/Melvin Webber.md",
       "items": [
-        {
-          "sourcePath": "autores/Melvin Webber.md",
-          "kind": "frontmatter-title",
-          "text": "Melvin Webber"
-        },
         {
           "sourcePath": "autores/Melvin Webber.md",
           "kind": "h2",
@@ -1358,11 +1129,6 @@
       "items": [
         {
           "sourcePath": "autores/Merlin Donald.md",
-          "kind": "frontmatter-title",
-          "text": "Merlin Donald"
-        },
-        {
-          "sourcePath": "autores/Merlin Donald.md",
           "kind": "h2",
           "line": 13,
           "text": "Perfil Biográfico"
@@ -1390,11 +1156,6 @@
     {
       "sourcePath": "autores/Michel Foucault.md",
       "items": [
-        {
-          "sourcePath": "autores/Michel Foucault.md",
-          "kind": "frontmatter-title",
-          "text": "Michel Foucault"
-        },
         {
           "sourcePath": "autores/Michel Foucault.md",
           "kind": "h2",
@@ -1426,11 +1187,6 @@
       "items": [
         {
           "sourcePath": "autores/Norbert Elias.md",
-          "kind": "frontmatter-title",
-          "text": "Norbert Elias"
-        },
-        {
-          "sourcePath": "autores/Norbert Elias.md",
           "kind": "h2",
           "line": 13,
           "text": "Perfil Biográfico"
@@ -1458,11 +1214,6 @@
     {
       "sourcePath": "autores/Peter Behrens.md",
       "items": [
-        {
-          "sourcePath": "autores/Peter Behrens.md",
-          "kind": "frontmatter-title",
-          "text": "Peter Behrens"
-        },
         {
           "sourcePath": "autores/Peter Behrens.md",
           "kind": "h2",
@@ -1494,11 +1245,6 @@
       "items": [
         {
           "sourcePath": "autores/Richard H. Thaler.md",
-          "kind": "frontmatter-title",
-          "text": "Richard H. Thaler"
-        },
-        {
-          "sourcePath": "autores/Richard H. Thaler.md",
           "kind": "h2",
           "line": 13,
           "text": "Perfil Biográfico"
@@ -1526,11 +1272,6 @@
     {
       "sourcePath": "autores/Robert Adler.md",
       "items": [
-        {
-          "sourcePath": "autores/Robert Adler.md",
-          "kind": "frontmatter-title",
-          "text": "Robert Adler"
-        },
         {
           "sourcePath": "autores/Robert Adler.md",
           "kind": "h2",
@@ -1562,11 +1303,6 @@
       "items": [
         {
           "sourcePath": "autores/Steve Krug.md",
-          "kind": "frontmatter-title",
-          "text": "Steve Krug"
-        },
-        {
-          "sourcePath": "autores/Steve Krug.md",
           "kind": "h2",
           "line": 13,
           "text": "Perfil Biográfico"
@@ -1594,11 +1330,6 @@
     {
       "sourcePath": "autores/Sunni Brown.md",
       "items": [
-        {
-          "sourcePath": "autores/Sunni Brown.md",
-          "kind": "frontmatter-title",
-          "text": "Sunni Brown"
-        },
         {
           "sourcePath": "autores/Sunni Brown.md",
           "kind": "h2",
@@ -1630,11 +1361,6 @@
       "items": [
         {
           "sourcePath": "autores/Susan Kare.md",
-          "kind": "frontmatter-title",
-          "text": "Susan Kare"
-        },
-        {
-          "sourcePath": "autores/Susan Kare.md",
           "kind": "h2",
           "line": 13,
           "text": "Perfil Biográfico"
@@ -1662,11 +1388,6 @@
     {
       "sourcePath": "autores/Willeke Wendrich.md",
       "items": [
-        {
-          "sourcePath": "autores/Willeke Wendrich.md",
-          "kind": "frontmatter-title",
-          "text": "Willeke Wendrich"
-        },
         {
           "sourcePath": "autores/Willeke Wendrich.md",
           "kind": "h2",
@@ -1838,11 +1559,6 @@
       "items": [
         {
           "sourcePath": "empresas/Chermayeff and Geismar.md",
-          "kind": "frontmatter-title",
-          "text": "Chermayeff and Geismar"
-        },
-        {
-          "sourcePath": "empresas/Chermayeff and Geismar.md",
           "kind": "h2",
           "line": 13,
           "text": "Perfil Institucional"
@@ -1969,11 +1685,6 @@
     {
       "sourcePath": "empresas/Haas Type Foundry.md",
       "items": [
-        {
-          "sourcePath": "empresas/Haas Type Foundry.md",
-          "kind": "frontmatter-title",
-          "text": "Haas Type Foundry"
-        },
         {
           "sourcePath": "empresas/Haas Type Foundry.md",
           "kind": "h2",
@@ -2149,11 +1860,6 @@
     {
       "sourcePath": "empresas/Zenith.md",
       "items": [
-        {
-          "sourcePath": "empresas/Zenith.md",
-          "kind": "frontmatter-title",
-          "text": "Zenith Electronics"
-        },
         {
           "sourcePath": "empresas/Zenith.md",
           "kind": "h2",
