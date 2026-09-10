@@ -39,8 +39,10 @@ tags:
 |---|---|
 | **Artefato** | {{title}} |
 | **Período** | [Ano, década ou intervalo aproximado] |
-| **Autoria** | [Pessoa, equipe ou atribuição distribuída, com ressalvas] |
+| **Autoria** | [Pessoa, equipe ou atribuição distribuída, com ressalvas e wikilinks quando houver perfil] |
 | **Produto ou contexto** | [Produto, serviço, sistema, mídia ou ambiente] |
+| **Tipo(s) de design** | [[00 tipos de design/|Tipo de design]] |
+| **Empresas ou instituições relacionadas** | [[empresas/|Empresa ou instituição]], quando tiver papel histórico relevante |
 | **Problema original** | [Problema] |
 | **Mundo antes** | [Prática ou solução anterior] |
 | **Invenção** | [Primeira formulação ou implementação identificável] |
@@ -56,7 +58,9 @@ tags:
 | **Conceitos relacionados** | [[01 conceitos/|Conceito]] |
 | **Variáveis relacionadas** | [[02 variaveis/|Variável]] |
 | **Genealogia** | [[04 genealogias/|Genealogia]] |
+| **Percurso(s)** | [[05 percursos/|Percurso]], quando a sequência editorial realmente se beneficiar deste estudo |
 | **Parentes** | [[03 artefatos/|Artefato relacionado]] |
+| **Leituras-chave** | [Obras realmente úteis, registradas também em [[00 índices/Livros Indicados|Livros indicados]]] |
 | **Princípio de design revelado** | [Princípio] |
 | **Questão em aberto** | [Pergunta futura] |
 
@@ -65,3 +69,6 @@ tags:
 [^1]: [Fonte histórica, primária, teórica ou comparativa. Inclua informação suficiente para identificar a obra ou documentação e, quando possível, URL ou localização precisa.]
 
 [Use notas junto das afirmações que dependem de evidência. A seção final reúne as referências completas. Não inclua fontes decorativas nem use uma obra teórica para provar um fato histórico que ela não documenta.]
+
+> [!IMPORTANT]
+> Antes de considerar a nota concluída, execute o [[Instrucoes de Arqueologia#Protocolo de propagação|Protocolo de propagação]]. A criação do artefato deve atualizar as outras notas, índices e entidades afetadas; preencher esta ficha sozinho não integra o estudo ao vault.
