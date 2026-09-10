@@ -77,6 +77,9 @@ jobs:
       - name: Consolidar referências futuras como pistas
         run: node scripts/consolidate-unresolved-links.mjs
 
+      - name: Migrar e enriquecer fichas arqueológicas
+        run: node scripts/migrate-artifact-sheets.mjs
+
       - name: Auditar sentence case e fichas arqueológicas
         run: node scripts/audit-editorial.mjs
 
