@@ -71,7 +71,7 @@ Talvez um sinal de sucesso do cursor seja justamente ter se tornado tão convenc
 | **Conceitos relacionados** | focalização, feedback, apontamento, affordance, manipulação direta, atenção e extensão corporal |
 | **Variáveis relacionadas** | posição, precisão, latência, visibilidade, estado e alvo |
 | **Genealogia** | apontar corporal → instrumentos apontadores → posição em terminais → ponteiro gráfico → cursores contextuais |
-| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
+| **Percurso(s)** | [[05 percursos/Da Parede ao Interlocutor|Da Parede ao Interlocutor]] |
 | **Parentes** | dedo, apontador, mouse, luminária, câmera, holofote, seleção de texto e foco de teclado |
 | **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Tornar a intenção visível permite transformar um espaço abstrato em campo de ação |

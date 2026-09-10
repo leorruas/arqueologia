@@ -107,7 +107,7 @@ Talvez o prompt conversacional não seja o fim da interface gráfica. Seja um no
 | **Conceitos relacionados** | [[01 conceitos/Formulação|Formulação]], [[01 conceitos/Antropomorfismo|Antropomorfismo]], [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção boa vs fricção ruim]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]] |
 | **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | Ainda não explicitado. |
-| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
+| **Percurso(s)** | [[05 percursos/Da Parede ao Interlocutor|Da Parede ao Interlocutor]] |
 | **Parentes** | interface de linha de comando, barra de busca, ELIZA, [[03 artefatos/Brief|Brief]], [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Mascote|Mascote]] |
 | **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Ainda não explicitado. |

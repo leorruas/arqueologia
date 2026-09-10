@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-10T23:35:39.048Z",
+  "generatedAt": "2026-09-10T23:36:03.482Z",
   "rule": "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
   "typeDesignRule": "Tipos de design devem funcionar como ensaios disciplinares. Headings do template atual são permitidos; permanecem suspeitos apenas headings enciclopédicos legados.",
   "pathRule": "Percursos devem funcionar como argumentos de leitura e não usar sequência numerada de resumos de artefatos.",
   "artifactSheetRule": "Cada artefato deve conter uma única Ficha arqueológica em tabela Campo/Registro com os 26 campos definidos no template atual.",
-  "candidateCount": 35,
-  "fileCount": 27,
+  "candidateCount": 33,
+  "fileCount": 26,
   "files": [
     {
       "sourcePath": "00 índices/Indice de Autores.md",
@@ -309,23 +309,6 @@
       ]
     },
     {
-      "sourcePath": "05 percursos/Da Parede ao Interlocutor.md",
-      "items": [
-        {
-          "sourcePath": "05 percursos/Da Parede ao Interlocutor.md",
-          "kind": "h2",
-          "line": 34,
-          "text": "3. Interface computacional — a superfície reage"
-        },
-        {
-          "sourcePath": "05 percursos/Da Parede ao Interlocutor.md",
-          "kind": "h2",
-          "line": 42,
-          "text": "4. Interface conversacional — a superfície responde"
-        }
-      ]
-    },
-    {
       "sourcePath": "autores/Robert Adler.md",
       "items": [
         {
@@ -353,38 +336,7 @@
   "legacyVariableFiles": [],
   "variableMetadataMissingCount": 0,
   "variableMetadataMissingFiles": [],
-  "legacyPathStructureCount": 5,
-  "legacyPathFileCount": 1,
-  "legacyPathFiles": [
-    {
-      "sourcePath": "05 percursos/Da Parede ao Interlocutor.md",
-      "items": [
-        {
-          "sourcePath": "05 percursos/Da Parede ao Interlocutor.md",
-          "line": 16,
-          "text": "1. [[03 artefatos/Pôster|Pôster]] — a superfície fala"
-        },
-        {
-          "sourcePath": "05 percursos/Da Parede ao Interlocutor.md",
-          "line": 24,
-          "text": "2. [[03 artefatos/Projetor|Projetor]] — a superfície muda"
-        },
-        {
-          "sourcePath": "05 percursos/Da Parede ao Interlocutor.md",
-          "line": 34,
-          "text": "3. Interface computacional — a superfície reage"
-        },
-        {
-          "sourcePath": "05 percursos/Da Parede ao Interlocutor.md",
-          "line": 42,
-          "text": "4. Interface conversacional — a superfície responde"
-        },
-        {
-          "sourcePath": "05 percursos/Da Parede ao Interlocutor.md",
-          "line": 98,
-          "text": "O fio que une o percurso"
-        }
-      ]
-    }
-  ]
+  "legacyPathStructureCount": 0,
+  "legacyPathFileCount": 0,
+  "legacyPathFiles": []
 }
