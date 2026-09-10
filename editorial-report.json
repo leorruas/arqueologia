@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-10T18:09:22.491Z",
+  "generatedAt": "2026-09-10T18:10:16.331Z",
   "rule": "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
-  "candidateCount": 16,
-  "fileCount": 14,
+  "candidateCount": 17,
+  "fileCount": 15,
   "files": [
     {
       "sourcePath": "00 índices/Indice de Autores.md",
@@ -38,6 +38,17 @@
           "kind": "h2",
           "line": 68,
           "text": "O que o Like talvez tenha realmente inventado"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Calendário.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Calendário.md",
+          "kind": "h2",
+          "line": 54,
+          "text": "O calendário não apenas descreve o futuro. Ele começa a governá-lo"
         }
       ]
     },
