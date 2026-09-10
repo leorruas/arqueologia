@@ -38,6 +38,10 @@ A disciplina moderna se consolida com a industrialização, o desenho para produ
 - [[03 artefatos/Braun T3|Braun T3]]: rádio portátil e síntese formal associada à Braun e a Dieter Rams.
 - [[03 artefatos/Carimbo|Carimbo]]: repetição material de marcas de validação e estado institucional.
 - [[03 artefatos/Crachá|Crachá]]: identificação visível e triagem de acesso.
+- [[03 artefatos/Camera Fotografica|Câmera fotográfica]]: transformação da luz em registro portátil e selecionável.
+- [[03 artefatos/Luminaria|Luminária]]: controle local da luz como forma de orientar atividade e atenção.
+- [[03 artefatos/Projetor|Projetor]]: dispositivo que desacopla a imagem exibida da superfície material que a recebe.
+- [[03 artefatos/Cigarro|Cigarro]]: objeto industrial que torna combustão, dosagem e ritual portáteis e repetíveis.
 
 ## Conexões
 
