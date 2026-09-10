@@ -1,56 +1,93 @@
 ---
-title: "Hero Section"
+title: "Hero section"
 type: "artefato"
+status: "publicado"
 tags:
   - design/artefato
   - arqueologia
 ---
 
-# Hero Section
+# Hero section
 
-A **Hero Section** (ou primeiro bloco visual) é a seção inicial posicionada no topo de uma página web, geralmente composta por uma manchete forte (headline), um subtítulo de suporte, um elemento visual proeminente (imagem, vídeo ou grafismo) e uma chamada para ação clara (Call to Action - CTA). Ela funciona como a vitrine digital e o portal de entrada do usuário em um site ou aplicativo.
+Antes de ler uma página, o visitante precisa decidir se vale a pena continuar nela. A **hero section** ocupa exatamente esse intervalo. É o primeiro grande enquadramento de muitas páginas digitais: combina título, texto de apoio, imagem ou vídeo e, com frequência, uma ação principal. Sua função mais interessante é menos “explicar tudo” do que produzir uma interpretação inicial suficientemente estável para que o restante da página faça sentido.
 
-## Ficha técnica
-- **Criador(es)**: Desenvolvedores web, web designers e profissionais de marketing digital (sem inventor único)
-- **Empresa/Fabricante**: Diversas agências de web e empresas de internet
-- **Ano de Lançamento**: Final da década de 1990 (consolidação global entre 2010 e 2020 com o avanço do web design responsivo)
-- **Materiais/Mídia**: Código (HTML/CSS), tipografia, fotografia digital, ilustrações
-- **Tipo de Design**: [[00 tipos de design/Design de Interface|Design de Interface]] / Arquitetura da Informação
+## Quando entrar em uma página virou um problema de design
 
-## História e contexto de criação
-- **Demanda / Problema**: Orientar rapidamente um visitante que chega a um site novo e desconhecido. Diante da altíssima taxa de rejeição de páginas e da pouca paciência do usuário da internet, a hero section surgiu para responder instantaneamente a perguntas básicas nos primeiros segundos: *“O que é isso?”*, *“Para que serve?”*, *“Como isso me ajuda?”* e *“O que devo fazer a seguir?”*.
-- **O Mundo Antes da Inovação**: As páginas iniciais (home pages) dos primórdios da web (anos 1990) eram estruturadas como índices densos ou documentos de texto contínuos, repletos de links textuais dispersos e sem hierarquia clara de leitura. O visitante precisava rolar a página e ler parágrafos inteiros para extrair o propósito do site.
+As primeiras páginas da web frequentemente herdavam a lógica de documentos e índices: texto, listas de links, blocos de navegação e conteúdo disputavam a mesma superfície. Isso não significa que fossem simplesmente “caóticas”; muitas eram coerentes com uma web centrada em documentos, diretórios e exploração. O problema muda quando homepages passam a funcionar também como apresentações institucionais, vitrines comerciais e pontos de entrada para usuários que chegam sem contexto.
 
-## Inovação e impacto
-- **Ampliação de Capacidade**: Amplia a capacidade de escaneamento visual imediato e tomada de decisão rápida sobre a relevância de uma página.
-- **Enfraquecimento de Capacidade**: Enfraquece a tolerância à leitura de textos detalhados de introdução e a paciência para descobrir caminhos de navegação complexos.
-- **Comportamento Coletivo**: Estabeleceu o hábito cultural de exigir que toda página web declare seu valor imediatamente e forneça um próximo passo indutivo evidente, reduzindo o tempo de atenção dispensado a sites não otimizados.
-- **Linhagem e Descendência**: Descendente direta das manchetes e manchetes secundárias posicionadas "acima da dobra" (*above the fold*) nos jornais impressos diários, além das fachadas físicas de lojas e das capas de livros.
-- **Custo Invisível**: Padronização estética massiva da internet (SaaS, landing pages e aplicativos passaram a usar o mesmo layout de hero section de três blocos), resultando em perda de identidade visual criativa e promessas de marketing vazias ou excessivamente genéricas.
+Pesquisas de usabilidade dos anos 1990 já mostravam duas condições importantes para essa transformação. Usuários tendiam a escanear páginas em vez de lê-las palavra por palavra, e o conteúdo visível antes da rolagem exercia influência desproporcional sobre a decisão de permanecer ou sair. Em 1997, Jakob Nielsen relatava que a maioria dos participantes de seus estudos escaneava páginas novas; pesquisas posteriores mostraram que, mesmo quando rolar se tornou comportamento normal, a região inicial continuou recebendo atenção privilegiada.
 
-## Referências e onde encontrar
-- **Leituras**: *Don't Make Me Think* por Steve Krug (escaneabilidade e facilidade de orientação inicial); diretrizes de IHC do Nielsen Norman Group sobre o comportamento do usuário acima da dobra.
+A hero section pode ser entendida como uma resposta gradual a essas condições. Não há um inventor único ou um lançamento identificável. O padrão emerge da convergência entre hierarquia editorial, publicidade, landing pages, imagens de grande formato, design responsivo e práticas de conversão. Por isso, datá-la simplesmente no “fim dos anos 1990” é útil apenas como aproximação ampla, não como momento de invenção.
 
----
+## A página aprende a fazer uma abertura
 
-### Ficha resumo
+O parentesco com [[03 artefatos/Pôster|Pôster]] ajuda a entender o mecanismo. Ambos trabalham com alguém em movimento que ainda não decidiu dedicar atenção. A diferença está no ambiente: o pôster disputa o olhar no espaço urbano; a hero section disputa a continuidade da navegação em uma superfície digital.
 
-- **Nome do artefato**: Hero Section
-- **Categoria**: Interface digital / Arquitetura da informação
-- **Período aproximado**: Final da década de 1990 aos dias atuais
-- **Pessoas ou equipes envolvidas**: Desenvolvedores e web designers pioneiros
-- **Produto onde apareceu**: Homepages comerciais, portfólios, landing pages e SaaS
-- **Problema original**: A necessidade de fisgar e orientar o visitante nos primeiros segundos antes que ele desista e feche a página
-- **Mundo antes da inovação**: Homepages caóticas estruturadas como documentos e repletas de textos e links sem foco prioritário
-- **A ideia que mudou tudo**: Concentrar no topo visual da página um bloco unificado com a promessa principal do produto, uma imagem explicativa e um botão de ação imediata (CTA)
-- **Comportamento aproveitado**: O comportamento natural de escaneamento visual rápido e a pressa cognitiva do usuário digital
-- **Comportamento criado**: A expectativa do usuário de entender o propósito de qualquer serviço online nos primeiros 3 segundos de carregamento da tela
-- **Por que funcionou**: Reduz drasticamente a incerteza do visitante e o custo de decisão inicial, facilitando o enquadramento (framing) do restante do site
-- **Consequências inesperadas**: Homogeneização visual da web, gerando landing pages esteticamente idênticas com ilustrações 3D abstratas e headlines genéricas
-- **Legado**: Tornou-se o layout de cabeçalho obrigatório de praticamente todas as landing pages e sites corporativos da internet contemporânea
-- **Conceitos relacionados**: [[01 conceitos/Limiares|Limiares]], [[01 conceitos/Affordance|Affordance]], [[02 variaveis/Atrito Decisorio|Atrito Decisório]], [[02 variaveis/Custo de Busca|Custo de Busca]], [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]]
-- **Família de ideias**: Artefatos de limiar
-- **Parentes**: Fachada de loja, vitrine de comércio, capa de livro, abertura de série, [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Tela de Login|Tela de Login]], onboarding de aplicativo, hall de entrada de museu
-- **Hipótese central**: A hero section não é apenas um componente estético de UI, mas um ritual de entrada digital projetado para estabilizar e guiar a atenção do usuário no instante de transição para um novo ambiente lógico
-- **Princípio de design revelado**: Reduzir a incerteza nos primeiros segundos prepara e viabiliza interações de maior complexidade a seguir
-- **Perguntas em aberto**: A inteligência artificial e as interfaces baseadas em chats conversacionais tornarão o padrão visual da hero section obsoleto no futuro?
+Ela também é parente da vitrine, da fachada, da capa de livro e da abertura de uma série. Essas relações são funcionais e semióticas, não necessariamente genealogias históricas diretas. Todos esses artefatos fazem algo semelhante: estabelecem um tom, selecionam o que deve aparecer primeiro e oferecem uma hipótese sobre o que virá depois.
+
+Essa comparação torna a expressão “acima da dobra” menos literal. O termo vem do jornal impresso, mas na web passou a designar a área inicialmente visível sem rolagem. A relação histórica entre jornais e páginas digitais existe como repertório editorial, mas a hero contemporânea também depende de condições próprias da tela: viewport variável, responsividade, carregamento, rolagem e ação interativa.
+
+## O verdadeiro trabalho da hero
+
+Uma hero eficaz reduz [[02 variaveis/Custo de Busca|Custo de Busca]] e [[02 variaveis/Atrito Decisorio|Atrito Decisório]] ao responder rapidamente a perguntas como “onde estou?”, “o que existe aqui?” e “qual é o próximo passo possível?”. Isso explica a recorrência de headline, texto de apoio, imagem e CTA: cada elemento reduz um tipo diferente de incerteza.
+
+A hipótese comportamental embutida no padrão é que pessoas chegam com atenção parcial e contexto incompleto. A interface não pode exigir que o visitante compreenda o sistema inteiro antes de decidir continuar. Ela precisa oferecer uma primeira leitura de baixo custo.
+
+Ao mesmo tempo, isso cria poder de enquadramento. Quem projeta a hero escolhe qual promessa será vista primeiro, qual linguagem define o problema e qual ação aparece como continuação natural. A página não apenas orienta; ela estabelece a moldura pela qual o restante será interpretado.
+
+## Quando o padrão começa a se tornar fórmula
+
+A padronização trouxe previsibilidade. Um visitante aprende onde procurar o título, o argumento principal e a ação. Essa previsibilidade reduz esforço, mas também pode produzir homogeneização. Landing pages de produtos muito diferentes passam a compartilhar a mesma composição: uma headline abstrata, uma frase de benefício, um botão e uma imagem ornamental.
+
+O custo invisível aparece quando a estrutura permanece, mas a informação desaparece. Uma hero pode ocupar quase toda a primeira tela sem explicar concretamente o que o produto faz. Nesse caso, o artefato que nasceu para reduzir incerteza passa a produzir uma camada de marketing entre o visitante e o conteúdo.
+
+Há ainda uma consequência comportamental mais ampla. À medida que o padrão se torna familiar, usuários passam a esperar uma declaração imediata de valor. A versão anterior desta nota tratava isso como uma expectativa de compreensão em “três segundos”; não há base suficiente aqui para sustentar esse número como regra. O fenômeno mais seguro de afirmar é que o topo da página tem custo de descoberta menor e, portanto, recebe atenção privilegiada.
+
+## Um limiar digital
+
+A hero section pertence à família dos [[01 conceitos/Limiares|Limiares]] porque marca uma entrada sem bloquear fisicamente o acesso. Ela prepara o visitante para um ambiente lógico. Nesse sentido, seu parentesco com [[03 artefatos/Tela de Login|Tela de Login]] é especialmente interessante: ambas ocupam a passagem para um sistema, mas uma tenta convencer e orientar antes da entrada, enquanto a outra autentica e controla quem pode atravessar.
+
+Essa leitura também aproxima a hero de [[04 genealogias/Limiares e Delimitacao|Limiares e delimitação]] e de [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]]. A primeira ajuda a pensar sua função de portal; a segunda, sua disputa por atenção. Nenhuma dessas relações exige afirmar que a hero foi historicamente derivada desses outros artefatos.
+
+A pergunta contemporânea mais fértil talvez seja o que acontece quando a página deixa de precisar apresentar um catálogo visível e passa a oferecer uma interface conversacional. Um chatbot pode responder diretamente ao que o usuário pergunta, mas perde parte da capacidade da hero de mostrar, de uma vez, **o que poderia ser perguntado**. A hero é também um dispositivo de encontrabilidade: ela apresenta possibilidades antes que o visitante saiba formulá-las.
+
+## Referências
+
+1. Jakob Nielsen. “How Users Read on the Web”. Nielsen Norman Group, 1997.
+2. Jakob Nielsen. “Usability Testing of Advanced Homepage Concepts for the Sun Microsystems' 1997 Web Design”. Nielsen Norman Group, 1997.
+3. Jakob Nielsen. “Scrolling and Attention”. Nielsen Norman Group, 2010.
+4. Therese Fessenden. “Scrolling and Attention”. Nielsen Norman Group, 2018.
+5. Steve Krug. *Don't Make Me Think*.
+
+## Ficha arqueológica
+
+- **Nome do artefato**: Hero section
+- **Categoria**: Interface digital / arquitetura da informação / enquadramento
+- **Período aproximado**: Emergência gradual na web comercial; consolidação ampla nas décadas de 2000 e 2010
+- **Pessoas ou equipes envolvidas**: Sem inventor único; padrão coletivo de web design, marketing digital e arquitetura da informação
+- **Produto ou contexto onde apareceu**: Homepages, landing pages, portfólios, produtos SaaS e páginas institucionais
+- **Problema original**: Orientar rapidamente visitantes que chegam a uma página com pouco contexto
+- **Mundo antes da inovação**: Homepages mais próximas de documentos, diretórios e índices, com maior concorrência entre navegação e conteúdo inicial
+- **Invenção**: Emergência distribuída, sem primeira implementação suficientemente documentada para atribuição individual
+- **Refinamento**: Combinação recorrente de headline, texto de apoio, mídia visual e CTA em uma unidade de apresentação
+- **Popularização**: Expansão de landing pages, sites comerciais e templates de web design
+- **Padronização**: Tornou-se composição esperada em grande parte da web institucional e comercial
+- **Hipótese sobre o comportamento humano**: Visitantes precisam de uma interpretação inicial de baixo custo antes de investir atenção em um ambiente desconhecido
+- **Relação de poder**: Dá ao projetista forte poder de enquadrar qual promessa, problema e ação aparecem primeiro
+- **Comportamento aproveitado**: Escaneamento visual, atenção privilegiada à região inicial e busca rápida por sinais de relevância
+- **Comportamento criado**: Expectativa de que páginas expliquem rapidamente seu propósito e ofereçam um próximo passo reconhecível
+- **Capacidade ampliada**: Orientação e decisão inicial rápida
+- **Capacidade reduzida ou deslocada**: Pode diminuir a disposição para explorar páginas que não oferecem imediatamente uma moldura reconhecível
+- **Custo invisível**: Homogeneização visual e possibilidade de substituir informação concreta por promessas genéricas
+- **Por que funcionou**: Concentra os sinais de orientação de maior prioridade na região de menor custo de descoberta
+- **Consequências inesperadas**: Transformação de uma solução de orientação em fórmula estética repetitiva
+- **Legado**: Consolidou um ritual de entrada para páginas digitais
+- **Conceitos relacionados**: [[01 conceitos/Limiares|Limiares]], [[01 conceitos/Affordance|Affordance]], [[01 conceitos/Economia da Atencao|Economia da Atenção]], [[01 conceitos/Redução de Inferências|Redução de Inferências]]
+- **Variáveis relacionadas**: [[02 variaveis/Atrito Decisorio|Atrito Decisório]], [[02 variaveis/Custo de Busca|Custo de Busca]], [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]], [[02 variaveis/Atencao|Atenção]]
+- **Genealogias**: [[04 genealogias/Limiares e Delimitacao|Limiares e delimitação]], [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]]
+- **Família de ideias**: Artefatos de limiar e enquadramento
+- **Parentes**: [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Tela de Login|Tela de Login]], fachada, vitrine, capa de livro, abertura de série, onboarding, hall de entrada
+- **Hipótese central**: A hero section funciona como abertura: produz uma primeira moldura interpretativa antes que o visitante conheça o restante do sistema
+- **Princípio de design revelado**: Reduzir a incerteza no limiar prepara interações de maior complexidade depois dele
+- **Destino do artefato**: Padronizado, ainda dominante, mas tensionado por interfaces conversacionais e outras formas de entrada
+- **Perguntas em aberto**: Interfaces conversacionais conseguem orientar descoberta sem algum equivalente visual ao catálogo de possibilidades que a hero oferece?
