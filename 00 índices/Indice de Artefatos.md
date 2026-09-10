@@ -15,6 +15,7 @@ Este índice organiza estudos publicados por campo de design. A classificação 
 - [[03 artefatos/Cofre|Cofre]]: armazenamento que incorpora resistência, exclusão e condições de acesso.
 - [[03 artefatos/Garrafa de Agua|Garrafa de Água]]: acesso portátil à água.
 - [[03 artefatos/Tapete|Tapete]]: superfície de territorialização e limiar.
+- [[03 artefatos/Espelho|Espelho]]: superfície de auto-observação e feedback visual contínuo sobre o próprio corpo.
 - [[03 artefatos/Post-it|Post-it]]: memória externa reposicionável e provisória.
 - [[03 artefatos/Controle Remoto|Controle Remoto]]: controle à distância e mudança de custo do zapping.
 - [[03 artefatos/Quadro Branco|Quadro Branco]]: superfície de escrita apagável para pensamento provisório.
