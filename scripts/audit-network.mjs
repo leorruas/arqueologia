@@ -33,12 +33,7 @@ function semExtensao(p) {
 }
 
 function normalizar(s) {
-  return s
-    .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "")
-    .replace(/\\\|/g, "|")
-    .trim()
-    .toLowerCase();
+  return s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/\\\|/g, "|").trim().toLowerCase();
 }
 
 function titulo(markdown, arquivo) {
@@ -69,17 +64,16 @@ function corpoSecao(markdown, heading) {
 
 const arquivos = [];
 for (const categoria of categorias) {
-  const dir = path.join(raiz, categoria);
-  for (const p of listarMarkdowns(dir)) {
+  for (const p of listarMarkdowns(path.join(raiz, categoria))) {
     const markdown = fs.readFileSync(p, "utf8");
-    arquivos.push({
-      path: relativo(p),
-      stem: semExtensao(relativo(p)),
-      title: titulo(markdown, p),
-      markdown,
-      links: wikilinks(markdown)
-    });
+    arquivos.push({ path: relativo(p), stem: semExtensao(relativo(p)), title: titulo(markdown, p), markdown, links: wikilinks(markdown) });
   }
+}
+
+const indexPath = path.join(raiz, "index.md");
+if (fs.existsSync(indexPath)) {
+  const markdown = fs.readFileSync(indexPath, "utf8");
+  arquivos.push({ path: "index.md", stem: "index", title: titulo(markdown, indexPath), markdown, links: wikilinks(markdown) });
 }
 
 const porStem = new Map(arquivos.map(a => [normalizar(a.stem), a]));
@@ -115,8 +109,8 @@ const indicePorCategoria = {
   "03 artefatos": "00 índices/Indice de Artefatos.md",
   "01 conceitos": "00 índices/Indice de Conceitos.md",
   "02 variaveis": "00 índices/Indice de Variaveis.md",
-  "autores": "00 índices/Indice de Autores.md",
-  "empresas": "00 índices/Indice de Empresas.md"
+  autores: "00 índices/Indice de Autores.md",
+  empresas: "00 índices/Indice de Empresas.md"
 };
 
 for (const [categoria, indicePath] of Object.entries(indicePorCategoria)) {
@@ -128,13 +122,7 @@ for (const [categoria, indicePath] of Object.entries(indicePorCategoria)) {
   }
 }
 
-const index = arquivos.find(a => a.path === "index.md") || (() => {
-  const p = path.join(raiz, "index.md");
-  if (!fs.existsSync(p)) return null;
-  const markdown = fs.readFileSync(p, "utf8");
-  return { path: "index.md", markdown, links: wikilinks(markdown) };
-})();
-
+const index = arquivos.find(a => a.path === "index.md");
 if (index) {
   const alvosIndex = new Set(index.links.map(l => resolver(l.target)?.path).filter(Boolean));
   for (const a of arquivos.filter(x => x.path.startsWith("04 genealogias/") || x.path.startsWith("05 percursos/"))) {
@@ -142,28 +130,27 @@ if (index) {
   }
 }
 
+const categoriasReciprocas = new Set(["04 genealogias", "05 percursos", "autores", "empresas", "00 tipos de design"]);
 for (const artefato of arquivos.filter(a => a.path.startsWith("03 artefatos/"))) {
   const ficha = corpoSecao(artefato.markdown, "Ficha arqueológica");
-  const linksFicha = wikilinks(ficha);
-  for (const link of linksFicha) {
+  for (const link of wikilinks(ficha)) {
     const alvo = resolver(link.target);
     if (!alvo) continue;
     const categoriaAlvo = alvo.path.split("/")[0];
-    if (!["01 conceitos", "02 variaveis", "04 genealogias", "05 percursos", "autores", "empresas", "00 tipos de design"].includes(categoriaAlvo)) continue;
+    if (!categoriasReciprocas.has(categoriaAlvo)) continue;
     const devolve = alvo.links.some(l => resolver(l.target)?.path === artefato.path);
     if (!devolve) add("missing-reciprocal-link", artefato.path, `A ficha liga para ${alvo.path}, mas a nota relacionada não devolve o vínculo.`, alvo.path);
   }
 }
 
 for (const a of arquivos) {
-  if (["00 índices", "00 tipos de design"].includes(a.path.split("/")[0])) continue;
+  if (a.path === "index.md" || ["00 índices", "00 tipos de design"].includes(a.path.split("/")[0])) continue;
   const entradas = inbound.get(a.path) || [];
   if (entradas.length === 0) add("orphan-node", a.path, "Nota sem links de entrada a partir do acervo auditado.");
 }
 
 for (const tipo of arquivos.filter(a => a.path.startsWith("00 tipos de design/"))) {
   const referencias = new Set(tipo.links.map(l => resolver(l.target)?.path).filter(Boolean));
-  const nome = normalizar(tipo.title);
   for (const artefato of arquivos.filter(a => a.path.startsWith("03 artefatos/"))) {
     const ficha = corpoSecao(artefato.markdown, "Ficha arqueológica");
     const linhaTipo = ficha.split(/\r?\n/).find(l => normalizar(l).includes("tipo(s) de design"));
@@ -175,7 +162,7 @@ for (const tipo of arquivos.filter(a => a.path.startsWith("00 tipos de design/")
 
 const relatorio = {
   generatedAt: new Date().toISOString(),
-  scope: "Integração do grafo: índices, home, reciprocidade explícita, tipos de design e nós órfãos.",
+  scope: "Integração do grafo: índices, home, reciprocidade estrutural, tipos de design e nós órfãos. Conceitos e variáveis não exigem backlink exaustivo.",
   issueCount: problemas.length,
   countsByKind: problemas.reduce((acc, p) => ((acc[p.kind] = (acc[p.kind] || 0) + 1), acc), {}),
   issues: problemas
