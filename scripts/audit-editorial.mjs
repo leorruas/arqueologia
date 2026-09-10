@@ -87,6 +87,12 @@ function headingEhApenasLink(texto) {
   return /^\[\[[^\]]+\]\]$/.test(limpo);
 }
 
+function corpoDaSecao(markdown, titulo) {
+  const padrao = new RegExp(`^##\\s+${titulo}\\s*$([\\s\\S]*?)(?=^##\\s+|\\z)`, "im");
+  const match = markdown.match(padrao);
+  return match?.[1] || "";
+}
+
 const candidatos = [];
 const estruturasLegadasArtefato = [];
 const estruturasLegadasConceito = [];
@@ -114,6 +120,32 @@ for (const arquivo of listarMarkdowns(raiz)) {
   if (categoria === "02 variaveis") {
     const ausentes = metadadosVariavelObrigatorios.filter(campo => !temCampoFrontmatter(frontmatter, campo));
     if (ausentes.length) metadadosVariavelAusentes.push({ sourcePath: relativo, fields: ausentes });
+  }
+
+  if (categoria === "03 artefatos") {
+    const fichas = markdown.match(/^##\s+Ficha arqueológica\s*$/gmi) || [];
+    if (fichas.length === 0) {
+      estruturasLegadasArtefato.push({ sourcePath: relativo, line: null, text: "Ficha arqueológica ausente" });
+    }
+    if (fichas.length > 1) {
+      estruturasLegadasArtefato.push({ sourcePath: relativo, line: null, text: "Mais de uma Ficha arqueológica" });
+    }
+
+    const ficha = corpoDaSecao(markdown, "Ficha arqueológica");
+    if (/^\s*-\s+\*\*/m.test(ficha)) {
+      estruturasLegadasArtefato.push({ sourcePath: relativo, line: null, text: "Ficha arqueológica ainda usa lista legada em vez de tabela" });
+    }
+
+    const referencias = corpoDaSecao(markdown, "Referências");
+    if (/^\s*\d+\.\s+/m.test(referencias)) {
+      estruturasLegadasArtefato.push({ sourcePath: relativo, line: null, text: "Referências ainda usam lista numerada em vez de notas de rodapé" });
+    }
+
+    const indiceFicha = markdown.search(/^##\s+Ficha arqueológica\s*$/mi);
+    const indiceReferencias = markdown.search(/^##\s+Referências\s*$/mi);
+    if (indiceFicha >= 0 && indiceReferencias >= 0 && indiceReferencias < indiceFicha) {
+      estruturasLegadasArtefato.push({ sourcePath: relativo, line: null, text: "Referências aparecem antes da Ficha arqueológica" });
+    }
   }
 
   markdown.split(/\r?\n/).forEach((linha, indice) => {
@@ -178,7 +210,7 @@ const relatorio = {
 fs.writeFileSync(path.join(raiz, "editorial-report.json"), JSON.stringify(relatorio, null, 2));
 console.log(
   `Auditoria editorial: ${candidatos.length} candidatos em ${porArquivo.size} arquivos; ` +
-  `${estruturasLegadasArtefato.length} headings legados em ${legadosArtefatoPorArquivo.size} artefatos; ` +
+  `${estruturasLegadasArtefato.length} estruturas legadas em ${legadosArtefatoPorArquivo.size} artefatos; ` +
   `${estruturasLegadasConceito.length} headings legados em ${legadosConceitoPorArquivo.size} conceitos; ` +
   `${metadadosConceitoAusentes.length} conceitos com metadados obrigatórios ausentes; ` +
   `${estruturasLegadasVariavel.length} headings legados em ${legadosVariavelPorArquivo.size} variáveis; ` +
