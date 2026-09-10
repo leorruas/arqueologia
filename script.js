@@ -357,8 +357,16 @@ function limparFrontmatter(markdown) {
 }
 
 function encontrarArtigoPorWiki(alvo) {
-  const tituloBase = String(alvo || "").split("#")[0].replace(/\.md$/i, "").trim();
-  const normal = normalizar(tituloBase.split("/").pop());
+  const referencia = String(alvo || "").split("#")[0].replace(/\.md$/i, "").trim();
+  if (!referencia) return null;
+
+  if (referencia.includes("/")) {
+    const caminhoNormal = normalizar(referencia.replace(/^\.\//, ""));
+    const porCaminho = artigos.find(item => normalizar(item.sourcePath.replace(/\.md$/i, "")) === caminhoNormal);
+    if (porCaminho) return porCaminho;
+  }
+
+  const normal = normalizar(referencia.split("/").pop());
   return artigos.find(item => normalizar(item.titulo) === normal) || null;
 }
 
