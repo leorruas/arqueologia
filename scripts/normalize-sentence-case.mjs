@@ -80,7 +80,19 @@ const substituicoes = new Map([
   ["A Matriz de Estabilização Comportamental", "A matriz de estabilização comportamental"],
   ["As Camadas de Efemeridade Urbana", "As camadas de efemeridade urbana"],
   ["Mecanismos de Construção de Fronteiras", "Mecanismos de construção de fronteiras"],
-  ["Indução de Contextos e Behavior Settings", "Indução de contextos e behavior settings"]
+  ["Indução de Contextos e Behavior Settings", "Indução de contextos e behavior settings"],
+  ["Perfil Biográfico", "Perfil biográfico"],
+  ["Contribuições & Filosofia de Design", "Contribuições e filosofia de design"],
+  ["Projetos e Obras Marcantes", "Projetos e obras marcantes"],
+  ["Parcerias & Empresas", "Parcerias e empresas"],
+  ["Empresas e Parcerias", "Empresas e parcerias"],
+  ["Fontes Bibliográficas", "Fontes bibliográficas"],
+  ["Perfil Institucional", "Perfil institucional"],
+  ["Filosofia & Abordagem de Design", "Filosofia e abordagem de design"],
+  ["Projetos Emblemáticos e Produtos Históricos", "Projetos emblemáticos e produtos históricos"],
+  ["Designers Notáveis Associados", "Designers notáveis associados"],
+  ["Designers e Engenheiros Notáveis", "Designers e engenheiros notáveis"],
+  ["Referências e Leituras", "Referências e leituras"]
 ]);
 
 const titulosSeguros = new Map([
@@ -140,9 +152,14 @@ const titulosSeguros = new Map([
   ["Limiar e Delimitação", "Limiar e delimitação"],
   ["Permanência e Memória Externa", "Permanência e memória externa"],
   ["Reversibilidade e Perdão", "Reversibilidade e perdão"],
+  ["Acesso e Disponibilidade", "Acesso e disponibilidade"],
+  ["Limiares e Delimitação", "Limiares e delimitação"],
+  ["Reversibilidade e Custo do Erro", "Reversibilidade e custo do erro"],
   ["Como o Design Aprendeu a Guardar", "Como o design aprendeu a guardar"],
   ["Da Parede ao Feed", "Da parede ao feed"],
-  ["Do Gesto à Recompensa", "Do gesto à recompensa"]
+  ["Do Gesto à Recompensa", "Do gesto à recompensa"],
+  ["Como Projetamos Fronteiras", "Como projetamos fronteiras"],
+  ["Da Espera à Sincronização", "Da espera à sincronização"]
 ]);
 
 function listarMarkdowns(diretorio, acumulador = []) {
