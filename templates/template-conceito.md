@@ -11,49 +11,40 @@ tags:
 
 # {{title}}
 
-[Explique o conceito de forma concreta. Diga qual problema intelectual ele ajuda a enxergar e por que ele é útil para investigar artefatos.]
+[Abra pela distinção que o conceito permite perceber. Em vez de começar por uma definição de dicionário, mostre um caso concreto em que duas situações parecem iguais até que este conceito revela uma diferença importante.]
 
-## Procedência
+[Explique a procedência em prosa: autor, tradição ou disciplina associada; quando a formulação apareceu; como foi refinada; e se o termo usado no projeto é literatura consolidada, adaptação ou hipótese própria. Não transforme procedência numa ficha no meio do texto.]
 
-- **Origem**: [literatura / adaptação / hipótese-do-projeto]
-- **Formulação associada a**: [autor, tradição, disciplina ou discussão do projeto]
-- **Grau de consolidação**: [consolidado / debatido / experimental]
+## [Heading editorial que avance o argumento]
 
-Se for uma hipótese do projeto, deixe claro que se trata de uma ferramenta interpretativa em desenvolvimento, não de teoria estabelecida.
+[Mostre o mecanismo que o conceito torna visível em artefatos concretos. Integre exemplos ao raciocínio. Use wikilinks apenas para notas existentes.]
 
-## O que este conceito explica
+## [Heading editorial que exponha limite, tensão ou confusão]
 
-[Qual mecanismo ou relação ele torna visível? O que ficaria difícil perceber sem ele?]
+[Explique onde o conceito deixa de funcionar, com que outros conceitos pode ser confundido e que conclusões ele não autoriza. Conceitos devem aumentar precisão, não virar palavras elegantes aplicáveis a tudo.]
 
-## Aplicação nos artefatos
+## [Heading opcional para consequência ou conexão]
 
-- [[03 artefatos/|Artefato 1]]: [como o conceito ajuda a explicá-lo]
-- [[03 artefatos/|Artefato 2]]: [como o conceito ajuda a explicá-lo]
+[Mostre o que muda na investigação quando passamos a enxergar o artefato por essa lente. Conecte variáveis e genealogias em prosa quando fizer sentido.]
 
-## Limites e confusões possíveis
+## Ficha do conceito
 
-[Com que conceitos ele pode ser confundido? Onde ele deixa de ser útil? Que afirmações ele não autoriza?]
+| Campo | Registro |
+|---|---|
+| **Conceito** | {{title}} |
+| **Origem** | literatura / adaptação / hipótese do projeto |
+| **Grau de consolidação** | consolidado / debatido / experimental |
+| **Formulação associada a** | [autor, tradição, disciplina ou discussão do projeto] |
+| **Área principal** | [IHC / psicologia / design de serviços / etc.] |
+| **Distinção central** | [o que este conceito permite distinguir] |
+| **O que ajuda a explicar** | [mecanismo] |
+| **O que não explica sozinho** | [limite principal] |
+| **Artefatos-chave** | [[03 artefatos/|Artefato 1]], [[03 artefatos/|Artefato 2]] |
+| **Variáveis relacionadas** | [[02 variaveis/|Variável 1]], [[02 variaveis/|Variável 2]] |
+| **Genealogias relacionadas** | [[04 genealogias/|Genealogia]] |
 
-## Variáveis relacionadas
+## Referências
 
-- [[02 variaveis/|Variável 1]]
-- [[02 variaveis/|Variável 2]]
+[^1]: [Fonte de procedência ou formulação teórica.]
 
-## Genealogias relacionadas
-
-- [[04 genealogias/|Genealogia]]
-
-## Fontes
-
-[Obras, artigos ou registros que sustentam a procedência e o uso do conceito.]
-
-### Ficha Resumo do Conceito
-
-- **Nome do conceito**: {{title}}
-- **Origem**: [literatura / adaptação / hipótese-do-projeto]
-- **Grau de consolidação**: [consolidado / debatido / experimental]
-- **Área principal**: [IHC / Psicologia / Design de Serviços / etc.]
-- **Definição**: [breve definição]
-- **O que ajuda a explicar**: [mecanismo]
-- **Limite principal**: [limite]
-- **Artefatos chave**: [[03 artefatos/|Artefato 1]], [[03 artefatos/|Artefato 2]]
+[Use notas junto das afirmações que dependem delas. Diferencie fonte teórica, histórica e comparativa. Conceitos propostos pelo projeto devem citar as referências que os inspiram sem atribuir a elas a autoria da formulação própria.]
