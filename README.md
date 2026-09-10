@@ -8,9 +8,9 @@ O artefato é a porta de entrada. Autores, empresas e tecnologias aparecem como 
 
 A GitHub Pages oferece mais de uma leitura do mesmo acervo:
 
-- **Tipos de design**: mapa disciplinar para navegar por Design de Produto, Design Gráfico, Design de Serviços, Interface, Tipografia e Design de IA.
-- **Ideias**: genealogias que atravessam disciplinas, como permanência, limiares, acesso, coordenação, atenção e reversibilidade.
-- **Percursos**: sequências editoriais para ler vários estudos como uma história contínua.
+- **Tipos de design**: ensaios disciplinares que investigam que classes de problema diferentes campos aprenderam a tornar projetáveis e que hipóteses sobre comportamento passaram a institucionalizar.
+- **Ideias**: genealogias que atravessam disciplinas para investigar mecanismos recorrentes sem presumir descendência histórica direta.
+- **Percursos**: argumentos de leitura que colocam estudos em sequência para observar como uma pergunta ou problema muda de forma entre artefatos.
 - **Acervo**: conceitos, variáveis, artefatos e entidades de contexto.
 
 A interface lê automaticamente estas áreas do vault:
@@ -39,7 +39,7 @@ Conceitos também registram sua procedência: literatura estabelecida, adaptaç�
 
 ## Leitura e documentação
 
-O Markdown preserva a documentação completa. Na GitHub Pages, fichas técnicas e fichas-resumo podem ser recolhidas para que a narrativa seja a primeira camada de leitura. Wikilinks `[[Nota]]` são resolvidos quando o destino publicado existe.
+O Markdown preserva a documentação completa. Na GitHub Pages, fichas arqueológicas e outras camadas de consulta podem ser recolhidas para que a narrativa seja a primeira camada de leitura. Wikilinks `[[Nota]]` são resolvidos quando o destino publicado existe.
 
 ## Arquivos do site
 
