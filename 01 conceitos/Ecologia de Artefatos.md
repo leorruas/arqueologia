@@ -21,7 +21,9 @@ Não é uma teoria estabelecida nem uma sequência universal de mudança organiz
 
 Um [[03 artefatos/Jobs to Be Done|Jobs to Be Done]] pode produzir uma formulação suficientemente aberta para orientar um [[03 artefatos/Value Proposition Ad Lib|Value Proposition Ad Lib]]. Este pode tornar premissas explícitas o bastante para um [[03 artefatos/Projeto Piloto|Projeto piloto]] ser desenhado. O piloto pode produzir evidências que alimentam uma decisão de continuidade, revisão ou abandono.
 
-O ponto não é afirmar que projetos devem seguir exatamente essa cadeia. É mostrar que a utilidade de uma ferramenta pode estar menos no documento final e mais no **estado que ela entrega ao próximo processo**.
+O [[03 artefatos/Service Blueprint|Service Blueprint]] oferece outro tipo de passagem. Pesquisa sobre experiência pode revelar pontos de contato; o blueprint relaciona esses momentos a pessoas, sistemas e processos invisíveis; essa representação pode então alimentar mudanças de responsabilidade, checklists, pilotos, métricas ou rotinas operacionais. Seu valor não está apenas no mapa final, mas na capacidade de **converter conhecimento disperso sobre o serviço em estado utilizável por outros artefatos**.
+
+O ponto não é afirmar que projetos devem seguir exatamente essas cadeias. É mostrar que a utilidade de uma ferramenta pode estar menos no documento final e mais no **estado que ela entrega ao próximo processo**.
 
 Isso altera a pergunta de avaliação. Em vez de “o workshop foi bom?”, podemos perguntar: “o que ficou disponível depois dele que não estava disponível antes?”.
 
@@ -34,17 +36,17 @@ A versão anterior organizava a ecologia em oito famílias. Vale preservá-las c
 3. **Imaginação** torna futuros possíveis compartilháveis, como [[03 artefatos/Visão|Visão]], personas e storyboards.
 4. **Experimentação** cria estados provisórios de baixo compromisso, como [[03 artefatos/Projeto Piloto|Projeto piloto]] e protótipos.
 5. **Legitimação** torna razões e critérios examináveis, como [[03 artefatos/Justificativa de Valor Público|Justificativa de valor público]], business cases e notas técnicas.
-6. **Coordenação** distribui trabalho e dependências, como [[03 artefatos/Kanban|Kanban]] e [[03 artefatos/Matriz RACI|Matriz RACI]].
+6. **Coordenação** distribui trabalho e dependências, como [[03 artefatos/Kanban|Kanban]], [[03 artefatos/Matriz RACI|Matriz RACI]] e [[03 artefatos/Service Blueprint|Service Blueprint]].
 7. **Institucionalização** ajuda práticas a sobreviver às pessoas que as iniciaram, como [[03 artefatos/Checklist|Checklist]], [[03 artefatos/Carimbo|Carimbo]] e [[03 artefatos/Numero de Protocolo|Número de protocolo]].
 8. **Avaliação** transforma resultado e experiência em material para revisão, como [[03 artefatos/Retrospectiva|Retrospectiva]], indicadores e dashboards.
 
-Um mesmo artefato pode ocupar mais de uma família, e a ordem pode inverter, repetir ou saltar etapas.
+Um mesmo artefato pode ocupar mais de uma família, e a ordem pode inverter, repetir ou saltar etapas. O Service Blueprint, por exemplo, pode funcionar simultaneamente como investigação, formulação e coordenação dependendo de quando é produzido e do que acontece com ele depois.
 
 ## Ecologia não significa harmonia
 
 A metáfora ecológica é útil justamente porque elementos podem apoiar, competir ou bloquear uns aos outros.
 
-Um excelente piloto pode morrer porque não existe artefato de legitimação capaz de transformar aprendizado em decisão. Um checklist pode institucionalizar uma prática antes que ela tenha sido adequadamente testada. Um dashboard pode produzir métricas sem qualquer ritual capaz de convertê-las em aprendizagem.
+Um excelente piloto pode morrer porque não existe artefato de legitimação capaz de transformar aprendizado em decisão. Um checklist pode institucionalizar uma prática antes que ela tenha sido adequadamente testada. Um dashboard pode produzir métricas sem qualquer ritual capaz de convertê-las em aprendizagem. Um blueprint pode documentar perfeitamente um serviço e ainda assim não produzir mudança se nenhuma decisão, responsabilidade ou experimento receber aquilo que ele revelou.
 
 A ausência de conexão importa tanto quanto a presença de ferramentas.
 
@@ -56,7 +58,7 @@ Há um risco metodológico claro: olhar retrospectivamente para um projeto bem-s
 
 Por isso, a ecologia deve ser usada para procurar **falhas de acoplamento**, e não para encaixar tudo numa narrativa limpa.
 
-A hipótese fica mais forte quando consegue explicar por que uma intervenção não se sustentou. Talvez faltasse investigação. Talvez a decisão nunca tenha adquirido legitimidade. Talvez ninguém tenha transformado experimento em rotina. Talvez a rotina tenha sobrevivido sem avaliação.
+A hipótese fica mais forte quando consegue explicar por que uma intervenção não se sustentou. Talvez faltasse investigação. Talvez a decisão nunca tenha adquirido legitimidade. Talvez ninguém tenha transformado experimento em rotina. Talvez a rotina tenha sobrevivido sem avaliação. Talvez o blueprint tenha tornado a arquitetura formal visível, mas deixado de fora o trabalho informal que realmente mantinha o serviço funcionando.
 
 O conceito serve, então, para investigar transformação como rede de dependências, não como coleção de ferramentas famosas.
 
@@ -72,7 +74,7 @@ O conceito serve, então, para investigar transformação como rede de dependên
 | **Distinção central** | O valor de um artefato pode estar no estado que ele torna disponível para outros artefatos |
 | **O que ajuda a explicar** | Continuidade, falhas de acoplamento e dependências entre investigação, decisão, coordenação, institucionalização e aprendizagem |
 | **O que não explica sozinho** | Uma sequência universal de transformação ou causalidade automática entre ferramentas |
-| **Artefatos-chave** | [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Value Proposition Ad Lib|Value Proposition Ad Lib]], [[03 artefatos/Projeto Piloto|Projeto piloto]], [[03 artefatos/Kanban|Kanban]], [[03 artefatos/Checklist|Checklist]], [[03 artefatos/Retrospectiva|Retrospectiva]] |
+| **Artefatos-chave** | [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Value Proposition Ad Lib|Value Proposition Ad Lib]], [[03 artefatos/Service Blueprint|Service Blueprint]], [[03 artefatos/Projeto Piloto|Projeto piloto]], [[03 artefatos/Kanban|Kanban]], [[03 artefatos/Checklist|Checklist]], [[03 artefatos/Retrospectiva|Retrospectiva]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Legitimidade Decisoria|Legitimidade decisória]], [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Atrito Decisorio|Atrito decisório]] |
 
 ## Referências
