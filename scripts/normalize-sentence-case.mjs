@@ -73,7 +73,14 @@ const substituicoes = new Map([
   ["Tecnologia e Eletrônicos", "Tecnologia e eletrônicos"],
   ["Consultorias de Serviços e Design Estratégico", "Consultorias de serviços e design estratégico"],
   ["Design Gráfico e Estúdios", "Design gráfico e estúdios"],
-  ["Fundições Tipográficas (Type Foundries)", "Fundições tipográficas (type foundries)"]
+  ["Fundições Tipográficas (Type Foundries)", "Fundições tipográficas (type foundries)"],
+  ["Leituras e Livros Catalogados", "Leituras e livros catalogados"],
+  ["Taxonomia de Critérios de Distribuição", "Taxonomia de critérios de distribuição"],
+  ["As Famílias de Artefatos e os Recursos Invisíveis", "As famílias de artefatos e os recursos invisíveis"],
+  ["A Matriz de Estabilização Comportamental", "A matriz de estabilização comportamental"],
+  ["As Camadas de Efemeridade Urbana", "As camadas de efemeridade urbana"],
+  ["Mecanismos de Construção de Fronteiras", "Mecanismos de construção de fronteiras"],
+  ["Indução de Contextos e Behavior Settings", "Indução de contextos e behavior settings"]
 ]);
 
 const titulosSeguros = new Map([
@@ -86,7 +93,56 @@ const titulosSeguros = new Map([
   ["Índice de Conceitos", "Índice de conceitos"],
   ["Índice de Empresas", "Índice de empresas"],
   ["Índice de Variáveis", "Índice de variáveis"],
-  ["Livros Indicados", "Livros indicados"]
+  ["Livros Indicados", "Livros indicados"],
+  ["Autonomia da Atenção", "Autonomia da atenção"],
+  ["Compressão do Esforço", "Compressão do esforço"],
+  ["Continuidade de Acesso", "Continuidade de acesso"],
+  ["Distribuição de Escassez", "Distribuição de escassez"],
+  ["Ecologia de Artefatos", "Ecologia de artefatos"],
+  ["Economia da Atenção", "Economia da atenção"],
+  ["Eras da Economia e Design", "Eras da economia e design"],
+  ["Fricção Boa vs Fricção Ruim", "Fricção boa vs fricção ruim"],
+  ["Justiça Procedimental", "Justiça procedimental"],
+  ["Manipulação Direta", "Manipulação direta"],
+  ["Memória Distribuída", "Memória distribuída"],
+  ["Paradoxo da Escolha", "Paradoxo da escolha"],
+  ["Peles Temporárias da Arquitetura", "Peles temporárias da arquitetura"],
+  ["Recompensa Variável", "Recompensa variável"],
+  ["Redução de Inferências", "Redução de inferências"],
+  ["Serviço de Reflexão", "Serviço de reflexão"],
+  ["Tecnologia de Acesso", "Tecnologia de acesso"],
+  ["Tecnologias de Delimitação", "Tecnologias de delimitação"],
+  ["Atrito Decisório", "Atrito decisório"],
+  ["Custo Transacional", "Custo transacional"],
+  ["Custo de Busca", "Custo de busca"],
+  ["Custo do Erro", "Custo do erro"],
+  ["Expectativa de Disponibilidade", "Expectativa de disponibilidade"],
+  ["Legitimidade Decisória", "Legitimidade decisória"],
+  ["Previsibilidade Visual", "Previsibilidade visual"],
+  ["Atalhos de Teclado", "Atalhos de teclado"],
+  ["Botão Salvar", "Botão salvar"],
+  ["Carrinho de Compras", "Carrinho de compras"],
+  ["Cartão de Embarque", "Cartão de embarque"],
+  ["Controle Remoto", "Controle remoto"],
+  ["Espaço entre Palavras", "Espaço entre palavras"],
+  ["Garrafa de Água", "Garrafa de água"],
+  ["Hipótese Científica", "Hipótese científica"],
+  ["Justificativa de Valor Público", "Justificativa de valor público"],
+  ["Número de Protocolo", "Número de protocolo"],
+  ["Pergunta de Pesquisa", "Pergunta de pesquisa"],
+  ["Problema de Design", "Problema de design"],
+  ["Projeto Piloto", "Projeto piloto"],
+  ["Prompt Conversacional", "Prompt conversacional"],
+  ["Quadro Branco", "Quadro branco"],
+  ["Tela de Login", "Tela de login"],
+  ["Atenção e Recompensa", "Atenção e recompensa"],
+  ["Coordenação e Sincronização", "Coordenação e sincronização"],
+  ["Limiar e Delimitação", "Limiar e delimitação"],
+  ["Permanência e Memória Externa", "Permanência e memória externa"],
+  ["Reversibilidade e Perdão", "Reversibilidade e perdão"],
+  ["Como o Design Aprendeu a Guardar", "Como o design aprendeu a guardar"],
+  ["Da Parede ao Feed", "Da parede ao feed"],
+  ["Do Gesto à Recompensa", "Do gesto à recompensa"]
 ]);
 
 function listarMarkdowns(diretorio, acumulador = []) {
@@ -106,6 +162,7 @@ function listarMarkdowns(diretorio, acumulador = []) {
 let arquivosAlterados = 0;
 let headingsAlterados = 0;
 let titulosAlterados = 0;
+let h1Alterados = 0;
 
 for (const arquivo of listarMarkdowns(raiz)) {
   const original = fs.readFileSync(arquivo, "utf8");
@@ -124,10 +181,17 @@ for (const arquivo of listarMarkdowns(raiz)) {
     return `title: ${aspas}${substituto}${aspas}`;
   });
 
+  novo = novo.replace(/^#\s+(.+)$/m, (linha, titulo) => {
+    const substituto = titulosSeguros.get(titulo.trim());
+    if (!substituto || substituto === titulo.trim()) return linha;
+    h1Alterados += 1;
+    return `# ${substituto}`;
+  });
+
   if (novo !== original) {
     fs.writeFileSync(arquivo, novo);
     arquivosAlterados += 1;
   }
 }
 
-console.log(`Sentence case: ${headingsAlterados} headings e ${titulosAlterados} títulos normalizados em ${arquivosAlterados} arquivos.`);
+console.log(`Sentence case: ${headingsAlterados} headings, ${titulosAlterados} títulos e ${h1Alterados} H1 normalizados em ${arquivosAlterados} arquivos.`);
