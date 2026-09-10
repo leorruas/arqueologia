@@ -75,6 +75,7 @@ Este índice organiza estudos publicados por campo de design. A classificação 
 - [[03 artefatos/Botao Like|Botão Like]]: compressão de aprovação social em um sinal quantificado.
 - [[03 artefatos/Undo Send|Undo Send]]: atraso tático antes da irreversibilidade percebida do envio.
 - [[03 artefatos/Prompt Conversacional|Prompt Conversacional]]: instrução computacional por linguagem natural em sistemas generativos.
+- [[03 artefatos/LLM Wiki|LLM Wiki]]: síntese persistente mantida por LLM entre fontes brutas e consultas futuras.
 
 ## Pistas ainda sem estudo publicado
 
