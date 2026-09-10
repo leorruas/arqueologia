@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-10T23:19:20.872Z",
+  "generatedAt": "2026-09-10T23:20:26.753Z",
   "rule": "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
   "artifactSheetRule": "Cada artefato deve conter uma única Ficha arqueológica em tabela Campo/Registro com os 26 campos definidos no template atual.",
-  "candidateCount": 34,
-  "fileCount": 26,
+  "candidateCount": 35,
+  "fileCount": 27,
   "files": [
     {
       "sourcePath": "00 índices/Indice de Autores.md",
@@ -320,6 +320,17 @@
           "kind": "h2",
           "line": 42,
           "text": "4. Interface conversacional — a superfície responde"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/Robert Adler.md",
+      "items": [
+        {
+          "sourcePath": "autores/Robert Adler.md",
+          "kind": "h2",
+          "line": 19,
+          "text": "Space Command"
         }
       ]
     }
