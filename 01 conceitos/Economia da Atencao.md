@@ -1,12 +1,12 @@
 ---
-title: "Economia da Atenção"
+title: "Economia da atenção"
 type: "conceito"
 tags:
   - design/conceito
   - arqueologia
 ---
 
-# Economia da Atenção
+# Economia da atenção
 
 A **Economia da Atenção** trata a atenção humana como um recurso valioso, escasso e monetizável. O modelo analisa como as escolhas de design de interfaces modernas são modeladas com o objetivo explícito de maximizar o tempo de permanência de um usuário e registrar seus hábitos comportamentais para fins corporativos ou comerciais.
 

@@ -6,7 +6,7 @@ tags:
   - arqueologia
 ---
 
-# Design de Serviços
+# Design de serviços
 
 O **Design de Serviços** é a atividade de planejar e organizar pessoas, infraestrutura, comunicação e componentes materiais de um serviço para melhorar sua qualidade e a interação entre o provedor e os usuários.
 

@@ -1,12 +1,12 @@
 ---
-title: "Tela de Login"
+title: "Tela de login"
 type: "artefato"
 tags:
   - design/artefato
   - arqueologia
 ---
 
-# Tela de Login
+# Tela de login
 
 A **Tela de Login** (ou Interface de Autenticação) é a interface de entrada que exige credenciais de identidade para conceder acesso a um sistema digital personalizado, funcionando como um limiar lógico e barreira comportamental.
 

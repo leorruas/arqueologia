@@ -1,5 +1,5 @@
 ---
-title: "Como o Design Aprendeu a Guardar"
+title: "Como o design aprendeu a guardar"
 type: "percurso"
 status: "publicado"
 tags:
@@ -7,7 +7,7 @@ tags:
   - arqueologia
 ---
 
-# Como o Design Aprendeu a Guardar
+# Como o design aprendeu a guardar
 
 Este percurso parte de uma pergunta: **como o design transforma algo que pode desaparecer em algo recuperável?** Não é uma cronologia completa da memória externa. É uma sequência de estudos do vault que permite observar mudanças na responsabilidade de lembrar.
 

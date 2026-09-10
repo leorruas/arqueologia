@@ -1,5 +1,5 @@
 ---
-title: "Atenção e Recompensa"
+title: "Atenção e recompensa"
 type: "genealogia"
 status: "publicado"
 tags:
@@ -7,7 +7,7 @@ tags:
   - arqueologia
 ---
 
-# Atenção e Recompensa
+# Atenção e recompensa
 
 Alguns artefatos disputam atenção; outros reduzem o custo de continuar prestando atenção. Essa diferença é importante. Um pôster precisa interromper alguém que está passando. Um feed precisa evitar que alguém que já chegou decida parar.
 

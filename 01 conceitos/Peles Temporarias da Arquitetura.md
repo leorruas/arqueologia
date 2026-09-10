@@ -1,16 +1,16 @@
 ---
-title: "Peles Temporárias da Arquitetura"
+title: "Peles temporárias da arquitetura"
 type: "conceito"
 tags:
   - design/conceito
   - arqueologia
 ---
 
-# Peles Temporárias da Arquitetura
+# Peles temporárias da arquitetura
 
 O conceito de **Peles Temporárias da Arquitetura** descreve o conjunto de intervenções gráficas, luminosas ou efêmeras que se apropriam das superfícies verticais e horizontais do ambiente construído para alterar o significado simbólico, a legibilidade e o uso do espaço urbano sem modificar sua estrutura física material. Enquanto a arquitetura funciona como o corpo lento e estável da cidade, as peles temporárias atuam como anotações dinâmicas e registros dos acontecimentos cotidianos.
 
-## As Camadas de Efemeridade Urbana
+## As camadas de efemeridade urbana
 
 O conceito estabelece três regimes fundamentais de presença no espaço público:
 

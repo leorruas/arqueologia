@@ -4,11 +4,11 @@ type: "indice"
 status: "ativo"
 ---
 
-# Livros Indicados
+# Livros indicados
 
 Este índice reúne todos os livros recomendados, citados e referenciados como fontes bibliográficas essenciais nos estudos de arqueologia do design em todo o vault.
 
-## Leituras e Livros Catalogados
+## Leituras e livros catalogados
 
 | Título do Livro                                          | Autor                                           | Ano  | Referências no Vault                                                                                                                                     |
 | :------------------------------------------------------- | :---------------------------------------------- | :--- | :------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -1,12 +1,12 @@
 ---
-title: "Custo do Erro"
+title: "Custo do erro"
 type: "variavel"
 tags:
   - design/variavel
   - arqueologia
 ---
 
-# Custo do Erro
+# Custo do erro
 
 O **Custo do Erro** é a variável que mede o impacto das consequências negativas de uma ação incorreta ou indesejada do usuário em um sistema. O bom design busca reduzir essa variável para evitar perdas críticas de dados ou frustração.
 

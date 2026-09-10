@@ -6,7 +6,7 @@ tags:
   - arqueologia
 ---
 
-# Design Gráfico
+# Design gráfico
 
 O **Design Gráfico** é o processo de comunicação visual por meio de tipografia, fotografia, iconografia e ilustração, focado na projeção e estruturação de mensagens visuais.
 

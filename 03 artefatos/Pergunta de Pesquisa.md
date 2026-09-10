@@ -1,12 +1,12 @@
 ---
-title: "Pergunta de Pesquisa"
+title: "Pergunta de pesquisa"
 type: "artefato"
 tags:
   - design/artefato
   - arqueologia
 ---
 
-# Pergunta de Pesquisa
+# Pergunta de pesquisa
 
 A Pergunta de Pesquisa é um artefato de formulação que delimita a fronteira do conhecimento a ser explorado em investigações de longo prazo.
 

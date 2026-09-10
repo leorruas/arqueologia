@@ -21,7 +21,7 @@ Este conceito/princípio se manifesta e ajuda a compreender a lógica operaciona
 - **Onboarding de Aplicativos** — Estrutura a transição cognitiva do usuário novato para o estado de usuário proficiente de um produto digital.
 - **Halls de Entrada / Vestíbulos** — Transição física e de recepção entre o espaço exterior público e o interior protegido de uma edificação.
 
-## A Matriz de Estabilização Comportamental
+## A matriz de estabilização comportamental
 
 Os limiares trabalham em conjunto com outros três pilares do design comportamental para transformar ações humanas difusas em comportamentos coletivos previsíveis e coordenados:
 

@@ -1,12 +1,12 @@
 ---
-title: "Fricção Boa vs Fricção Ruim"
+title: "Fricção boa vs fricção ruim"
 type: "conceito"
 tags:
   - design/conceito
   - arqueologia
 ---
 
-# Fricção Boa vs Fricção Ruim
+# Fricção boa vs fricção ruim
 
 O design clássico de IHC e serviços frequentemente opera sob o dogma de que toda fricção (atrito, lentidão ou barreira de interação) deve ser eliminada. No entanto, a arqueologia do design revela que as fricções dividem-se em duas categorias qualitativas muito distintas:
 

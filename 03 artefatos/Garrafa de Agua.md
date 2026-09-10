@@ -1,12 +1,12 @@
 ---
-title: "Garrafa de Água"
+title: "Garrafa de água"
 type: "artefato"
 tags:
   - design/artefato
   - arqueologia
 ---
 
-# Garrafa de Água
+# Garrafa de água
 
 A **Garrafa de Água** é um recipiente portátil projetado para armazenar, transportar e facilitar o consumo direto de líquidos. Como artefato, ela marca a transição da hidratação como uma atividade vinculada a pontos geográficos fixos para um comportamento móvel e individualizado que acompanha o corpo em movimento.
 

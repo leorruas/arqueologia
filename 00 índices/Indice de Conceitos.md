@@ -4,7 +4,7 @@ type: "hub"
 status: "ativo"
 ---
 
-# Índice de Conceitos
+# Índice de conceitos
 
 Este índice separa conceitos pela procedência intelectual. A distinção não indica qualidade: serve para impedir que uma formulação criada dentro da Arqueologia do Design pareça ter o mesmo estatuto histórico de uma teoria consolidada na literatura.
 

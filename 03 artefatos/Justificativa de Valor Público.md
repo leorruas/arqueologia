@@ -1,12 +1,12 @@
 ---
-title: "Justificativa de Valor Público"
+title: "Justificativa de valor público"
 type: "artefato"
 tags:
   - design/artefato
   - arqueologia
 ---
 
-# Justificativa de Valor Público
+# Justificativa de valor público
 
 Um artefato de governança e design de serviços públicos projetado para institucionalizar e auditar a tomada de decisões no serviço público. Ele funciona como uma microinfraestrutura de accountability inserida em processos eletrônicos oficiais (como o SEI), condicionando o início de novos projetos, sistemas ou contratações à justificabilidade do valor público gerado para o cidadão e a comunidade.
 

@@ -6,7 +6,7 @@ tags:
   - arqueologia
 ---
 
-# Design de Interface
+# Design de interface
 
 O **Design de Interface** (UI/UID) lida com a projeção visual e o comportamento de pontos de contato digitais através dos quais os seres humanos interagem com computadores, dispositivos e sistemas de software.
 

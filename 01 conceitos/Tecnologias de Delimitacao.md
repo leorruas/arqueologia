@@ -1,16 +1,16 @@
 ---
-title: "Tecnologias de Delimitação"
+title: "Tecnologias de delimitação"
 type: "conceito"
 tags:
   - design/conceito
   - arqueologia
 ---
 
-# Tecnologias de Delimitação
+# Tecnologias de delimitação
 
 As **Tecnologias de Delimitação** referem-se à categoria de artefatos físicos, digitais ou semióticos cuja função de design é responder à pergunta: *"Onde termina um espaço (ou contexto) e começa outro?"*. Elas estabelecem fronteiras não necessariamente por meio de barreiras físicas intransponíveis, mas por indução comportamental e reconfiguração de regras sociais e de acesso.
 
-## Mecanismos de Construção de Fronteiras
+## Mecanismos de construção de fronteiras
 
 Diferentes artefatos e tecnologias operam sob princípios lógicos distintos para materializar e comunicar a existência de uma delimitação de fronteira:
 
@@ -20,7 +20,7 @@ Diferentes artefatos e tecnologias operam sob princípios lógicos distintos par
 4. **Pertencimento** (Ex: Pulseiras de festival, uniformes) — Utiliza marcadores visuais de inclusão/exclusão em um grupo ou evento específico para regular acessos.
 5. **Movimento** (Ex: Catracas, cancelas) — Utiliza restrição mecânica de fluxo direcional ou rítmico para coordenar e ordenar a passagem individualizada.
 
-## Indução de Contextos e Behavior Settings
+## Indução de contextos e behavior settings
 
 Segundo a teoria de *behavior settings* (configuração de comportamento) de Roger G. Barker, os ambientes induzem roteiros comportamentais específicos nos indivíduos que neles entram. As Tecnologias de Delimitação são as ferramentas de design que tornam esses roteiros legíveis e operacionais. 
 

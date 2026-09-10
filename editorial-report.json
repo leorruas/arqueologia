@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-10T15:38:11.754Z",
+  "generatedAt": "2026-09-10T15:39:39.246Z",
   "rule": "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
-  "candidateCount": 363,
-  "fileCount": 124,
+  "candidateCount": 309,
+  "fileCount": 77,
   "files": [
     {
       "sourcePath": "00 índices/Indice de Autores.md",
@@ -12,47 +12,6 @@
           "kind": "h3",
           "line": 13,
           "text": "Século XIX e início do século XX (pioneiros e Bauhaus)"
-        }
-      ]
-    },
-    {
-      "sourcePath": "00 índices/Livros Indicados.md",
-      "items": [
-        {
-          "sourcePath": "00 índices/Livros Indicados.md",
-          "kind": "h2",
-          "line": 11,
-          "text": "Leituras e Livros Catalogados"
-        }
-      ]
-    },
-    {
-      "sourcePath": "01 conceitos/Autonomia da Atencao.md",
-      "items": [
-        {
-          "sourcePath": "01 conceitos/Autonomia da Atencao.md",
-          "kind": "frontmatter-title",
-          "text": "Autonomia da Atenção"
-        }
-      ]
-    },
-    {
-      "sourcePath": "01 conceitos/Compressao do Esforco.md",
-      "items": [
-        {
-          "sourcePath": "01 conceitos/Compressao do Esforco.md",
-          "kind": "frontmatter-title",
-          "text": "Compressão do Esforço"
-        }
-      ]
-    },
-    {
-      "sourcePath": "01 conceitos/Continuidade de Acesso.md",
-      "items": [
-        {
-          "sourcePath": "01 conceitos/Continuidade de Acesso.md",
-          "kind": "frontmatter-title",
-          "text": "Continuidade de Acesso"
         }
       ]
     },
@@ -67,277 +26,6 @@
       ]
     },
     {
-      "sourcePath": "01 conceitos/Distribuicao de Escassez.md",
-      "items": [
-        {
-          "sourcePath": "01 conceitos/Distribuicao de Escassez.md",
-          "kind": "frontmatter-title",
-          "text": "Distribuição de Escassez"
-        },
-        {
-          "sourcePath": "01 conceitos/Distribuicao de Escassez.md",
-          "kind": "h2",
-          "line": 21,
-          "text": "Taxonomia de Critérios de Distribuição"
-        }
-      ]
-    },
-    {
-      "sourcePath": "01 conceitos/Ecologia de Artefatos.md",
-      "items": [
-        {
-          "sourcePath": "01 conceitos/Ecologia de Artefatos.md",
-          "kind": "frontmatter-title",
-          "text": "Ecologia de Artefatos"
-        },
-        {
-          "sourcePath": "01 conceitos/Ecologia de Artefatos.md",
-          "kind": "h2",
-          "line": 13,
-          "text": "As Famílias de Artefatos e os Recursos Invisíveis"
-        }
-      ]
-    },
-    {
-      "sourcePath": "01 conceitos/Economia da Atencao.md",
-      "items": [
-        {
-          "sourcePath": "01 conceitos/Economia da Atencao.md",
-          "kind": "frontmatter-title",
-          "text": "Economia da Atenção"
-        }
-      ]
-    },
-    {
-      "sourcePath": "01 conceitos/Eras da Economia.md",
-      "items": [
-        {
-          "sourcePath": "01 conceitos/Eras da Economia.md",
-          "kind": "frontmatter-title",
-          "text": "Eras da Economia e Design"
-        }
-      ]
-    },
-    {
-      "sourcePath": "01 conceitos/Friccao Boa vs Friccao Ruim.md",
-      "items": [
-        {
-          "sourcePath": "01 conceitos/Friccao Boa vs Friccao Ruim.md",
-          "kind": "frontmatter-title",
-          "text": "Fricção Boa vs Fricção Ruim"
-        }
-      ]
-    },
-    {
-      "sourcePath": "01 conceitos/Justica Procedimental.md",
-      "items": [
-        {
-          "sourcePath": "01 conceitos/Justica Procedimental.md",
-          "kind": "frontmatter-title",
-          "text": "Justiça Procedimental"
-        }
-      ]
-    },
-    {
-      "sourcePath": "01 conceitos/Limiares.md",
-      "items": [
-        {
-          "sourcePath": "01 conceitos/Limiares.md",
-          "kind": "h2",
-          "line": 24,
-          "text": "A Matriz de Estabilização Comportamental"
-        }
-      ]
-    },
-    {
-      "sourcePath": "01 conceitos/Manipulacao Direta.md",
-      "items": [
-        {
-          "sourcePath": "01 conceitos/Manipulacao Direta.md",
-          "kind": "frontmatter-title",
-          "text": "Manipulação Direta"
-        }
-      ]
-    },
-    {
-      "sourcePath": "01 conceitos/Memoria Distribuida.md",
-      "items": [
-        {
-          "sourcePath": "01 conceitos/Memoria Distribuida.md",
-          "kind": "frontmatter-title",
-          "text": "Memória Distribuída"
-        }
-      ]
-    },
-    {
-      "sourcePath": "01 conceitos/Paradoxo da Escolha.md",
-      "items": [
-        {
-          "sourcePath": "01 conceitos/Paradoxo da Escolha.md",
-          "kind": "frontmatter-title",
-          "text": "Paradoxo da Escolha"
-        }
-      ]
-    },
-    {
-      "sourcePath": "01 conceitos/Peles Temporarias da Arquitetura.md",
-      "items": [
-        {
-          "sourcePath": "01 conceitos/Peles Temporarias da Arquitetura.md",
-          "kind": "frontmatter-title",
-          "text": "Peles Temporárias da Arquitetura"
-        },
-        {
-          "sourcePath": "01 conceitos/Peles Temporarias da Arquitetura.md",
-          "kind": "h2",
-          "line": 13,
-          "text": "As Camadas de Efemeridade Urbana"
-        }
-      ]
-    },
-    {
-      "sourcePath": "01 conceitos/Recompensa Variavel.md",
-      "items": [
-        {
-          "sourcePath": "01 conceitos/Recompensa Variavel.md",
-          "kind": "frontmatter-title",
-          "text": "Recompensa Variável"
-        }
-      ]
-    },
-    {
-      "sourcePath": "01 conceitos/Redução de Inferências.md",
-      "items": [
-        {
-          "sourcePath": "01 conceitos/Redução de Inferências.md",
-          "kind": "frontmatter-title",
-          "text": "Redução de Inferências"
-        }
-      ]
-    },
-    {
-      "sourcePath": "01 conceitos/Servico de Reflexao.md",
-      "items": [
-        {
-          "sourcePath": "01 conceitos/Servico de Reflexao.md",
-          "kind": "frontmatter-title",
-          "text": "Serviço de Reflexão"
-        }
-      ]
-    },
-    {
-      "sourcePath": "01 conceitos/Tecnologia de Acesso.md",
-      "items": [
-        {
-          "sourcePath": "01 conceitos/Tecnologia de Acesso.md",
-          "kind": "frontmatter-title",
-          "text": "Tecnologia de Acesso"
-        }
-      ]
-    },
-    {
-      "sourcePath": "01 conceitos/Tecnologias de Delimitacao.md",
-      "items": [
-        {
-          "sourcePath": "01 conceitos/Tecnologias de Delimitacao.md",
-          "kind": "frontmatter-title",
-          "text": "Tecnologias de Delimitação"
-        },
-        {
-          "sourcePath": "01 conceitos/Tecnologias de Delimitacao.md",
-          "kind": "h2",
-          "line": 13,
-          "text": "Mecanismos de Construção de Fronteiras"
-        },
-        {
-          "sourcePath": "01 conceitos/Tecnologias de Delimitacao.md",
-          "kind": "h2",
-          "line": 23,
-          "text": "Indução de Contextos e Behavior Settings"
-        }
-      ]
-    },
-    {
-      "sourcePath": "02 variaveis/Atrito Decisorio.md",
-      "items": [
-        {
-          "sourcePath": "02 variaveis/Atrito Decisorio.md",
-          "kind": "frontmatter-title",
-          "text": "Atrito Decisório"
-        }
-      ]
-    },
-    {
-      "sourcePath": "02 variaveis/Custo Transacional.md",
-      "items": [
-        {
-          "sourcePath": "02 variaveis/Custo Transacional.md",
-          "kind": "frontmatter-title",
-          "text": "Custo Transacional"
-        }
-      ]
-    },
-    {
-      "sourcePath": "02 variaveis/Custo de Busca.md",
-      "items": [
-        {
-          "sourcePath": "02 variaveis/Custo de Busca.md",
-          "kind": "frontmatter-title",
-          "text": "Custo de Busca"
-        }
-      ]
-    },
-    {
-      "sourcePath": "02 variaveis/Custo do Erro.md",
-      "items": [
-        {
-          "sourcePath": "02 variaveis/Custo do Erro.md",
-          "kind": "frontmatter-title",
-          "text": "Custo do Erro"
-        }
-      ]
-    },
-    {
-      "sourcePath": "02 variaveis/Expectativa de Disponibilidade.md",
-      "items": [
-        {
-          "sourcePath": "02 variaveis/Expectativa de Disponibilidade.md",
-          "kind": "frontmatter-title",
-          "text": "Expectativa de Disponibilidade"
-        }
-      ]
-    },
-    {
-      "sourcePath": "02 variaveis/Legitimidade Decisoria.md",
-      "items": [
-        {
-          "sourcePath": "02 variaveis/Legitimidade Decisoria.md",
-          "kind": "frontmatter-title",
-          "text": "Legitimidade Decisória"
-        }
-      ]
-    },
-    {
-      "sourcePath": "02 variaveis/Previsibilidade Visual.md",
-      "items": [
-        {
-          "sourcePath": "02 variaveis/Previsibilidade Visual.md",
-          "kind": "frontmatter-title",
-          "text": "Previsibilidade Visual"
-        }
-      ]
-    },
-    {
-      "sourcePath": "03 artefatos/Atalhos de Teclado.md",
-      "items": [
-        {
-          "sourcePath": "03 artefatos/Atalhos de Teclado.md",
-          "kind": "frontmatter-title",
-          "text": "Atalhos de Teclado"
-        }
-      ]
-    },
-    {
       "sourcePath": "03 artefatos/Botao Like.md",
       "items": [
         {
@@ -348,82 +36,12 @@
       ]
     },
     {
-      "sourcePath": "03 artefatos/Botao Salvar.md",
-      "items": [
-        {
-          "sourcePath": "03 artefatos/Botao Salvar.md",
-          "kind": "frontmatter-title",
-          "text": "Botão Salvar"
-        }
-      ]
-    },
-    {
-      "sourcePath": "03 artefatos/Carrinho de Compras.md",
-      "items": [
-        {
-          "sourcePath": "03 artefatos/Carrinho de Compras.md",
-          "kind": "frontmatter-title",
-          "text": "Carrinho de Compras"
-        }
-      ]
-    },
-    {
-      "sourcePath": "03 artefatos/Cartao de Embarque.md",
-      "items": [
-        {
-          "sourcePath": "03 artefatos/Cartao de Embarque.md",
-          "kind": "frontmatter-title",
-          "text": "Cartão de Embarque"
-        }
-      ]
-    },
-    {
-      "sourcePath": "03 artefatos/Controle Remoto.md",
-      "items": [
-        {
-          "sourcePath": "03 artefatos/Controle Remoto.md",
-          "kind": "frontmatter-title",
-          "text": "Controle Remoto"
-        }
-      ]
-    },
-    {
-      "sourcePath": "03 artefatos/Espaço entre Palavras.md",
-      "items": [
-        {
-          "sourcePath": "03 artefatos/Espaço entre Palavras.md",
-          "kind": "frontmatter-title",
-          "text": "Espaço entre Palavras"
-        }
-      ]
-    },
-    {
-      "sourcePath": "03 artefatos/Garrafa de Agua.md",
-      "items": [
-        {
-          "sourcePath": "03 artefatos/Garrafa de Agua.md",
-          "kind": "frontmatter-title",
-          "text": "Garrafa de Água"
-        }
-      ]
-    },
-    {
       "sourcePath": "03 artefatos/Hero Section.md",
       "items": [
         {
           "sourcePath": "03 artefatos/Hero Section.md",
           "kind": "frontmatter-title",
           "text": "Hero Section"
-        }
-      ]
-    },
-    {
-      "sourcePath": "03 artefatos/Hipótese Científica.md",
-      "items": [
-        {
-          "sourcePath": "03 artefatos/Hipótese Científica.md",
-          "kind": "frontmatter-title",
-          "text": "Hipótese Científica"
         }
       ]
     },
@@ -448,42 +66,12 @@
       ]
     },
     {
-      "sourcePath": "03 artefatos/Justificativa de Valor Público.md",
-      "items": [
-        {
-          "sourcePath": "03 artefatos/Justificativa de Valor Público.md",
-          "kind": "frontmatter-title",
-          "text": "Justificativa de Valor Público"
-        }
-      ]
-    },
-    {
       "sourcePath": "03 artefatos/North Star.md",
       "items": [
         {
           "sourcePath": "03 artefatos/North Star.md",
           "kind": "frontmatter-title",
           "text": "North Star"
-        }
-      ]
-    },
-    {
-      "sourcePath": "03 artefatos/Número de Protocolo.md",
-      "items": [
-        {
-          "sourcePath": "03 artefatos/Número de Protocolo.md",
-          "kind": "frontmatter-title",
-          "text": "Número de Protocolo"
-        }
-      ]
-    },
-    {
-      "sourcePath": "03 artefatos/Pergunta de Pesquisa.md",
-      "items": [
-        {
-          "sourcePath": "03 artefatos/Pergunta de Pesquisa.md",
-          "kind": "frontmatter-title",
-          "text": "Pergunta de Pesquisa"
         }
       ]
     },
@@ -498,36 +86,6 @@
       ]
     },
     {
-      "sourcePath": "03 artefatos/Problema de Design.md",
-      "items": [
-        {
-          "sourcePath": "03 artefatos/Problema de Design.md",
-          "kind": "frontmatter-title",
-          "text": "Problema de Design"
-        }
-      ]
-    },
-    {
-      "sourcePath": "03 artefatos/Projeto Piloto.md",
-      "items": [
-        {
-          "sourcePath": "03 artefatos/Projeto Piloto.md",
-          "kind": "frontmatter-title",
-          "text": "Projeto Piloto"
-        }
-      ]
-    },
-    {
-      "sourcePath": "03 artefatos/Prompt Conversacional.md",
-      "items": [
-        {
-          "sourcePath": "03 artefatos/Prompt Conversacional.md",
-          "kind": "frontmatter-title",
-          "text": "Prompt Conversacional"
-        }
-      ]
-    },
-    {
       "sourcePath": "03 artefatos/Pull to Refresh.md",
       "items": [
         {
@@ -538,32 +96,12 @@
       ]
     },
     {
-      "sourcePath": "03 artefatos/Quadro Branco.md",
-      "items": [
-        {
-          "sourcePath": "03 artefatos/Quadro Branco.md",
-          "kind": "frontmatter-title",
-          "text": "Quadro Branco"
-        }
-      ]
-    },
-    {
       "sourcePath": "03 artefatos/Slide to Unlock.md",
       "items": [
         {
           "sourcePath": "03 artefatos/Slide to Unlock.md",
           "kind": "frontmatter-title",
           "text": "Slide to Unlock"
-        }
-      ]
-    },
-    {
-      "sourcePath": "03 artefatos/Tela de Login.md",
-      "items": [
-        {
-          "sourcePath": "03 artefatos/Tela de Login.md",
-          "kind": "frontmatter-title",
-          "text": "Tela de Login"
         }
       ]
     },
@@ -608,52 +146,12 @@
       ]
     },
     {
-      "sourcePath": "04 genealogias/Atencao e Recompensa.md",
-      "items": [
-        {
-          "sourcePath": "04 genealogias/Atencao e Recompensa.md",
-          "kind": "frontmatter-title",
-          "text": "Atenção e Recompensa"
-        }
-      ]
-    },
-    {
-      "sourcePath": "04 genealogias/Compressao do Esforco.md",
-      "items": [
-        {
-          "sourcePath": "04 genealogias/Compressao do Esforco.md",
-          "kind": "frontmatter-title",
-          "text": "Compressão do Esforço"
-        }
-      ]
-    },
-    {
-      "sourcePath": "04 genealogias/Coordenacao e Sincronizacao.md",
-      "items": [
-        {
-          "sourcePath": "04 genealogias/Coordenacao e Sincronizacao.md",
-          "kind": "frontmatter-title",
-          "text": "Coordenação e Sincronização"
-        }
-      ]
-    },
-    {
       "sourcePath": "04 genealogias/Limiares e Delimitacao.md",
       "items": [
         {
           "sourcePath": "04 genealogias/Limiares e Delimitacao.md",
           "kind": "frontmatter-title",
           "text": "Limiares e Delimitação"
-        }
-      ]
-    },
-    {
-      "sourcePath": "04 genealogias/Permanencia e Memoria Externa.md",
-      "items": [
-        {
-          "sourcePath": "04 genealogias/Permanencia e Memoria Externa.md",
-          "kind": "frontmatter-title",
-          "text": "Permanência e Memória Externa"
         }
       ]
     },
@@ -694,11 +192,6 @@
       "items": [
         {
           "sourcePath": "05 percursos/Como o Design Aprendeu a Guardar.md",
-          "kind": "frontmatter-title",
-          "text": "Como o Design Aprendeu a Guardar"
-        },
-        {
-          "sourcePath": "05 percursos/Como o Design Aprendeu a Guardar.md",
           "kind": "h2",
           "line": 18,
           "text": "2. [[03 artefatos/Botao Salvar|Botão Salvar]]"
@@ -730,11 +223,6 @@
     {
       "sourcePath": "05 percursos/Da Parede ao Feed.md",
       "items": [
-        {
-          "sourcePath": "05 percursos/Da Parede ao Feed.md",
-          "kind": "frontmatter-title",
-          "text": "Da Parede ao Feed"
-        },
         {
           "sourcePath": "05 percursos/Da Parede ao Feed.md",
           "kind": "h2",

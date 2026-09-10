@@ -1,5 +1,5 @@
 ---
-title: "Permanência e Memória Externa"
+title: "Permanência e memória externa"
 type: "genealogia"
 status: "publicado"
 tags:
@@ -7,7 +7,7 @@ tags:
   - arqueologia
 ---
 
-# Permanência e Memória Externa
+# Permanência e memória externa
 
 Guardar é uma decisão de design. Antes de ser uma função de software, guardar significa retirar algo do fluxo imediato da experiência e dar a ele alguma chance de sobreviver ao corpo, à atenção, ao tempo ou à falha.
 

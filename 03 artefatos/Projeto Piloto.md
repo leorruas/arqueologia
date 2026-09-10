@@ -1,12 +1,12 @@
 ---
-title: "Projeto Piloto"
+title: "Projeto piloto"
 type: "artefato"
 tags:
   - design/artefato
   - arqueologia
 ---
 
-# Projeto Piloto
+# Projeto piloto
 
 O projeto piloto é um espaço intermediário e protegido criado para experimentar mudanças organizacionais ou técnicas em escala limitada, permitindo o aprendizado e a redução do risco antes de uma implementação em larga escala.
 

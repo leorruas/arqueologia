@@ -1,12 +1,12 @@
 ---
-title: "Recompensa Variável"
+title: "Recompensa variável"
 type: "conceito"
 tags:
   - design/conceito
   - arqueologia
 ---
 
-# Recompensa Variável
+# Recompensa variável
 
 A **Recompensa Variável** (Variable Reward) é um princípio de condicionamento psicológico operante originado nos experimentos de B. F. Skinner. O conceito descreve como os comportamentos se repetem com frequência e engajamento significativamente maiores quando o retorno gerado por uma ação é imprevisível ou oscilante (dinâmica de caça-níqueis).
 

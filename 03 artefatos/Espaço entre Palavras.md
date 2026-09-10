@@ -1,12 +1,12 @@
 ---
-title: "Espaço entre Palavras"
+title: "Espaço entre palavras"
 type: "artefato"
 tags:
   - design/artefato
   - arqueologia
 ---
 
-# Espaço entre Palavras
+# Espaço entre palavras
 
 O espaço em branco entre palavras é um artefato invisível de arquitetura da informação e tipografia medieval que revolucionou a cognição e a legibilidade textual. Ao introduzir o vazio físico como delimitador visual de termos, converteu a escrita de uma representação sonora (feita para ser declamada) em uma interface direta para o pensamento silencioso.
 

@@ -1,5 +1,5 @@
 ---
-title: "Da Parede ao Feed"
+title: "Da parede ao feed"
 type: "percurso"
 status: "publicado"
 tags:
@@ -7,7 +7,7 @@ tags:
   - arqueologia
 ---
 
-# Da Parede ao Feed
+# Da parede ao feed
 
 Este percurso acompanha uma mudança de problema: **como o design passa de capturar a atenção de quem está passando para prolongar a atenção de quem já chegou?**
 

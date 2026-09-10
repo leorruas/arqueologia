@@ -1,12 +1,12 @@
 ---
-title: "Legitimidade Decisória"
+title: "Legitimidade decisória"
 type: "variavel"
 tags:
   - design/variavel
   - arqueologia
 ---
 
-# Legitimidade Decisória
+# Legitimidade decisória
 
 A **Legitimidade Decisória** é a variável sistêmica que mede o nível de aceitação social, justificação fundamentada, transparência e auditabilidade das decisões tomadas para criar, modificar ou descontinuar sistemas e serviços. Ela avalia se as decisões organizacionais ou públicas estão ancoradas em evidências empíricas e necessidades comprovadas dos usuários ou se decorrem de imposições arbitrárias, conveniências setoriais ou interesses particulares de atores com poder hierárquico.
 

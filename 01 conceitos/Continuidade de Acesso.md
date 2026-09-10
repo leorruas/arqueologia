@@ -1,12 +1,12 @@
 ---
-title: "Continuidade de Acesso"
+title: "Continuidade de acesso"
 type: "conceito"
 tags:
   - design/conceito
   - arqueologia
 ---
 
-# Continuidade de Acesso
+# Continuidade de acesso
 
 O conceito de **Continuidade de Acesso** refere-se ao esforço de design voltado a transformar recursos historicamente episódicos, intermitentes ou atrelados a locais fixos em fluxos permanentemente disponíveis ao corpo ou à atenção do usuário.
 

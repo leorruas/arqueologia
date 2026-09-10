@@ -1,12 +1,12 @@
 ---
-title: "Compressão do Esforço"
+title: "Compressão do esforço"
 type: "conceito"
 tags:
   - design/conceito
   - arqueologia
 ---
 
-# Compressão do Esforço
+# Compressão do esforço
 
 O conceito de **Compressão do Esforço** descreve a tendência histórica de projetos de design buscarem sistematicamente otimizar, automatizar ou encurtar o custo de energia, tempo e carga cognitiva necessários para executar ou repetir uma ação recorrente.
 

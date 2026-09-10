@@ -1,12 +1,12 @@
 ---
-title: "Serviço de Reflexão"
+title: "Serviço de reflexão"
 type: "conceito"
 tags:
   - design/conceito
   - arqueologia
 ---
 
-# Serviço de Reflexão
+# Serviço de reflexão
 
 O **Serviço de Reflexão** (ou serviços baseados em *cognição generativa*) é a categoria de serviços focada em criar interações dialógicas entre duas consciências, de forma que o valor final gerado não seja a extração estática de dados que já existem (cognição de recuperação), mas sim a **construção conjunta de uma compreensão** que ainda não existia antes da interação.
 

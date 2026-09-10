@@ -1,12 +1,12 @@
 ---
-title: "Carrinho de Compras"
+title: "Carrinho de compras"
 type: "artefato"
 tags:
   - design/artefato
   - arqueologia
 ---
 
-# Carrinho de Compras
+# Carrinho de compras
 
 O **Carrinho de Compras** (físico e digital) é uma tecnologia de facilitação de compra e coordenação de fluxo que serve como um suporte móvel ou lógico temporário para armazenar produtos e intenções antes da tomada de decisão de pagamento definitiva.
 

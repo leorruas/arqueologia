@@ -1,12 +1,12 @@
 ---
-title: "Número de Protocolo"
+title: "Número de protocolo"
 type: "artefato"
 tags:
   - design/artefato
   - arqueologia
 ---
 
-# Número de Protocolo
+# Número de protocolo
 
 O número de protocolo é um artefato de rastreabilidade, persistência e identificação sistêmica projetado para atribuir um código numérico exclusivo a uma solicitação ou processo, permitindo que a demanda exista de forma independente dos indivíduos nela envolvidos.
 

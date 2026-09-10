@@ -1,12 +1,12 @@
 ---
-title: "Quadro Branco"
+title: "Quadro branco"
 type: "artefato"
 tags:
   - design/artefato
   - arqueologia
 ---
 
-# Quadro Branco
+# Quadro branco
 
 O **Quadro Branco** (Whiteboard) é uma superfície lisa e não porosa (normalmente feita de esmalte, aço lacado ou melamina) projetada para escrita temporária utilizando marcadores apagáveis de tinta seca.
 

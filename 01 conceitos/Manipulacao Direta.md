@@ -1,12 +1,12 @@
 ---
-title: "Manipulação Direta"
+title: "Manipulação direta"
 type: "conceito"
 tags:
   - design/conceito
   - arqueologia
 ---
 
-# Manipulação Direta
+# Manipulação direta
 
 A **Manipulação Direta** (Direct Manipulation) é o modelo conceitual de IHC no qual os usuários agem fisicamente sobre as representações visuais dos objetos na tela (arrastar, esticar, girar) em tempo real, sem a intermediação de menus abstratos ou sintaxes textuais de comando.
 

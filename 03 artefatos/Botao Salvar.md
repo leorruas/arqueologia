@@ -1,5 +1,5 @@
 ---
-title: "Botão Salvar"
+title: "Botão salvar"
 type: "artefato"
 status: "publicado"
 tags:
@@ -7,7 +7,7 @@ tags:
   - arqueologia
 ---
 
-# Botão Salvar
+# Botão salvar
 
 Durante décadas, salvar foi uma responsabilidade explícita do usuário. O computador permitia criar e alterar um documento, mas a continuidade daquele trabalho dependia de um ritual: em algum momento era preciso mandar o sistema transformar o estado atual em algo persistente.
 

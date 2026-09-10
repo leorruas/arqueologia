@@ -4,7 +4,7 @@ type: "hub"
 status: "ativo"
 ---
 
-# Índice de Autores
+# Índice de autores
 
 Catálogo de designers, pesquisadores, teóricos e pioneiros da história do design catalogados no vault.
 

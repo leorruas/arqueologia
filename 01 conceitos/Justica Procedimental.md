@@ -1,12 +1,12 @@
 ---
-title: "Justiça Procedimental"
+title: "Justiça procedimental"
 type: "conceito"
 tags:
   - design/conceito
   - arqueologia
 ---
 
-# Justiça Procedimental
+# Justiça procedimental
 
 A **Justiça Procedimental** (Procedural Justice) estuda a percepção de que os processos e regras de distribuição de recursos ou tratamento em um sistema são neutros, transparentes, universais e imparciais, garantindo a concordância social e a minimização de atritos.
 

@@ -1,12 +1,12 @@
 ---
-title: "Atrito Decisório"
+title: "Atrito decisório"
 type: "variavel"
 tags:
   - design/variavel
   - arqueologia
 ---
 
-# Atrito Decisório
+# Atrito decisório
 
 O **Atrito Decisório** mede a carga cognitiva ou a quantidade de decisões e escolhas ativas exigidas do usuário para progredir em um fluxo de tarefas.
 

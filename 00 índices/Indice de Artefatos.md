@@ -4,7 +4,7 @@ type: "hub"
 status: "ativo"
 ---
 
-# Índice de Artefatos
+# Índice de artefatos
 
 Este índice organiza estudos publicados por campo de design. A classificação é uma porta de entrada, não uma fronteira: o mesmo artefato pode reaparecer em [[04 genealogias/Permanencia e Memoria Externa|genealogias]] e [[05 percursos/Como o Design Aprendeu a Guardar|percursos]] diferentes.
 

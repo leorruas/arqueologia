@@ -6,7 +6,7 @@ tags:
   - arqueologia
 ---
 
-# Design de Produto
+# Design de produto
 
 O **Design de Produto** (frequentemente associado ao Desenho Industrial) lida com a concepção, desenvolvimento e manufatura de objetos físicos e sistemas utilitários destinados à produção em massa.
 

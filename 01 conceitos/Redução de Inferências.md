@@ -1,12 +1,12 @@
 ---
-title: "Redução de Inferências"
+title: "Redução de inferências"
 type: "conceito"
 tags:
   - design/conceito
   - arqueologia
 ---
 
-# Redução de Inferências
+# Redução de inferências
 
 O conceito de **Redução de Inferências** refere-se ao princípio de design voltado a diminuir o esforço cognitivo e a margem de incerteza do usuário, tornando explícitas as fronteiras, estruturas e categorias que de outra forma teriam de ser adivinhadas, interpretadas ou inferidas a partir do contexto.
 

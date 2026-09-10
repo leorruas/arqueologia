@@ -1,12 +1,12 @@
 ---
-title: "Custo de Busca"
+title: "Custo de busca"
 type: "variavel"
 tags:
   - design/variavel
   - arqueologia
 ---
 
-# Custo de Busca
+# Custo de busca
 
 O **Custo de Busca** (Search Cost) é a variável econômica e cognitiva que mede a quantidade total de recursos, tempo, esforço físico ou psicológico que um usuário deve despender no ambiente para encontrar e avaliar alternativas antes de se comprometer com uma escolha ou ação.
 

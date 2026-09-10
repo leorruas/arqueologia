@@ -1,12 +1,12 @@
 ---
-title: "Paradoxo da Escolha"
+title: "Paradoxo da escolha"
 type: "conceito"
 tags:
   - design/conceito
   - arqueologia
 ---
 
-# Paradoxo da Escolha
+# Paradoxo da escolha
 
 O **Paradoxo da Escolha** (The Paradox of Choice), formulado pelo psicólogo [[autores/Barry Schwartz|Barry Schwartz]], é o modelo teórico que demonstra que a abundância irrestrita de alternativas em um sistema, embora inicialmente libertadora, aumenta o esforço decisório do usuário, resultando em paralisia de escolha e sentimentos subsequentes de arrependimento, ansiedade e insatisfação.
 

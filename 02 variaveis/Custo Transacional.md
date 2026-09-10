@@ -1,12 +1,12 @@
 ---
-title: "Custo Transacional"
+title: "Custo transacional"
 type: "variavel"
 tags:
   - design/variavel
   - arqueologia
 ---
 
-# Custo Transacional
+# Custo transacional
 
 O **Custo Transacional** mede a quantidade de esforço físico, cliques, gestos ou etapas exigidos para que um usuário execute uma transação ou ação em um sistema.
 

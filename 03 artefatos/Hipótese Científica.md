@@ -1,12 +1,12 @@
 ---
-title: "Hipótese Científica"
+title: "Hipótese científica"
 type: "artefato"
 tags:
   - design/artefato
   - arqueologia
 ---
 
-# Hipótese Científica
+# Hipótese científica
 
 A Hipótese Científica é um artefato de formulação e investigação que estrutura dúvidas intelectuais em explicações provisórias refutáveis por evidências empíricas.
 

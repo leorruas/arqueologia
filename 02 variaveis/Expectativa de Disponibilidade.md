@@ -1,12 +1,12 @@
 ---
-title: "Expectativa de Disponibilidade"
+title: "Expectativa de disponibilidade"
 type: "variavel"
 tags:
   - design/variavel
   - arqueologia
 ---
 
-# Expectativa de Disponibilidade
+# Expectativa de disponibilidade
 
 A **Expectativa de Disponibilidade** mede a norma social, a cobrança cultural e a pressão cognitiva de prontidão contínua para responder a estímulos, interagir com outras pessoas ou dispor de recursos de forma instantânea. 
 

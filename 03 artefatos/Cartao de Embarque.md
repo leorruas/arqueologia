@@ -1,12 +1,12 @@
 ---
-title: "Cartão de Embarque"
+title: "Cartão de embarque"
 type: "artefato"
 tags:
   - design/artefato
   - arqueologia
 ---
 
-# Cartão de Embarque
+# Cartão de embarque
 
 O **Cartão de Embarque** (Boarding Pass) é um documento impresso ou digital emitido por uma empresa aérea que concede ao passageiro autorização para embarcar em uma aeronave específica, sintetizando dados de voo, identidade e prioridade.
 

@@ -1,12 +1,12 @@
 ---
-title: "Atalhos de Teclado"
+title: "Atalhos de teclado"
 type: "artefato"
 tags:
   - design/artefato
   - arqueologia
 ---
 
-# Atalhos de Teclado
+# Atalhos de teclado
 
 Os **Atalhos de Teclado** são combinações de duas ou mais teclas pressionadas de forma simultânea ou sequencial para instruir um sistema operacional ou aplicativo a executar uma ação imediata. Eles atuam como aceleradores de fluxo que contornam a necessidade de navegação visual por menus ou digitação de comandos de texto por extenso.
 

@@ -1,5 +1,5 @@
 ---
-title: "Coordenação e Sincronização"
+title: "Coordenação e sincronização"
 type: "genealogia"
 status: "publicado"
 tags:
@@ -7,7 +7,7 @@ tags:
   - arqueologia
 ---
 
-# Coordenação e Sincronização
+# Coordenação e sincronização
 
 Quando várias pessoas precisam agir sobre o mesmo recurso, o problema deixa de ser apenas individual. Surge a necessidade de combinar tempo, ordem, responsabilidade e estado. Muitos artefatos de serviço existem para transformar essa incerteza coletiva em uma situação legível.
 

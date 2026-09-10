@@ -1,12 +1,12 @@
 ---
-title: "Prompt Conversacional"
+title: "Prompt conversacional"
 type: "artefato"
 tags:
   - design/artefato
   - arqueologia
 ---
 
-# Prompt Conversacional
+# Prompt conversacional
 
 O **Prompt Conversacional** é uma metainterface textual baseada em linguagem natural que substitui controles visuais predefinidos (menus, botões, fluxos) por uma caixa de entrada vazia, permitindo que usuários formulem intenções, instruam operações computacionais e validem resultados iterativamente por meio do diálogo.
 

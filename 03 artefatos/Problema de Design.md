@@ -1,12 +1,12 @@
 ---
-title: "Problema de Design"
+title: "Problema de design"
 type: "artefato"
 tags:
   - design/artefato
   - arqueologia
 ---
 
-# Problema de Design
+# Problema de design
 
 O Problema de Design é um artefato de formulação que enquadra e reconfigura as dores dos usuários, evitando que designers pulem direto para a implementação de soluções equivocadas.
 

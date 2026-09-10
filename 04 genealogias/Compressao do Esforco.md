@@ -1,5 +1,5 @@
 ---
-title: "Compressão do Esforço"
+title: "Compressão do esforço"
 type: "genealogia"
 status: "publicado"
 tags:
@@ -7,7 +7,7 @@ tags:
   - arqueologia
 ---
 
-# Compressão do Esforço
+# Compressão do esforço
 
 Muitas soluções de design vencem porque retiram passos de uma ação que já existia. O comportamento não precisa ser inventado: basta tornar mais barato repeti-lo.
 

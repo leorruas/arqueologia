@@ -1,12 +1,12 @@
 ---
-title: "Eras da Economia e Design"
+title: "Eras da economia e design"
 type: "conceito"
 tags:
   - design/conceito
   - arqueologia
 ---
 
-# Eras da Economia e Design
+# Eras da economia e design
 
 A evolução histórica da relação entre humanidade, comércio e design pode ser compreendida através de três grandes eras econômicas, cada uma impondo um gargalo diferente às decisões de projeto:
 

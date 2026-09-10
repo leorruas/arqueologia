@@ -4,7 +4,7 @@ type: "hub"
 status: "ativo"
 ---
 
-# Índice de Variáveis
+# Índice de variáveis
 
 Variáveis são eixos usados para comparar o efeito de decisões de design. Elas podem aumentar, diminuir ou ser redistribuídas entre atores. Nenhum polo é automaticamente melhor: reduzir fricção pode ajudar em uma tarefa e retirar uma pausa importante em outra.
 

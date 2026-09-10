@@ -4,7 +4,7 @@ type: "hub"
 status: "ativo"
 ---
 
-# Índice de Empresas
+# Índice de empresas
 
 Catálogo de estúdios, marcas, corporações, coletivos e fundições tipográficas que moldaram a arqueologia do design.
 

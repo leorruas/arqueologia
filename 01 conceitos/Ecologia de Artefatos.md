@@ -1,16 +1,16 @@
 ---
-title: "Ecologia de Artefatos"
+title: "Ecologia de artefatos"
 type: "conceito"
 tags:
   - design/conceito
   - arqueologia
 ---
 
-# Ecologia de Artefatos
+# Ecologia de artefatos
 
 O conceito de **Ecologia de Artefatos** (ou Ciclo Evolutivo de Transformação) estabelece que intervenções em serviços, organizações e sistemas complexos raramente produzem transformações duradouras por meio de ferramentas ou workshops isolados. Em vez disso, os artefatos operam como uma cadeia ecológica encadeada, em que cada objeto ou documento reorganiza um recurso invisível específico (como conhecimento, significado, futuro, risco, confiança, esforço coletivo, continuidade e aprendizagem) e cria as condições necessárias para o surgimento e a sustentação do artefato seguinte.
 
-## As Famílias de Artefatos e os Recursos Invisíveis
+## As famílias de artefatos e os recursos invisíveis
 
 A ecologia de transformação organiza os artefatos em oito famílias funcionais sequenciais:
 

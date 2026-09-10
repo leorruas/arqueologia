@@ -1,12 +1,12 @@
 ---
-title: "Controle Remoto"
+title: "Controle remoto"
 type: "artefato"
 tags:
   - design/artefato
   - arqueologia
 ---
 
-# Controle Remoto
+# Controle remoto
 
 O **Controle Remoto** para televisão é um dispositivo de interface sem fio que permite aos usuários operar funções básicas de um televisor (como alterar canais, ajustar volume e ligar/desligar) à distância.
 

@@ -1,12 +1,12 @@
 ---
-title: "Tecnologia de Acesso"
+title: "Tecnologia de acesso"
 type: "conceito"
 tags:
   - design/conceito
   - arqueologia
 ---
 
-# Tecnologia de Acesso
+# Tecnologia de acesso
 
 O conceito de **Tecnologia de Acesso** (ou Arquitetura de Acesso) estabelece que muitos dos artefatos e serviços de design mais influentes da história não criam ou produzem novos conteúdos, produtos ou recursos de forma nativa. Em vez disso, o seu valor reside na capacidade de **reorganizar o acesso espacial e temporal** a recursos existentes, alterando o custo, o esforço e a previsibilidade de sua obtenção por parte dos usuários.
 

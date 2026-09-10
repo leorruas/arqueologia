@@ -1,12 +1,12 @@
 ---
-title: "Distribuição de Escassez"
+title: "Distribuição de escassez"
 type: "conceito"
 tags:
   - design/conceito
   - arqueologia
 ---
 
-# Distribuição de Escassez
+# Distribuição de escassez
 
 A **Distribuição de Escassez** é o princípio de design de serviços e filosofia política aplicada que estabelece que todo serviço que administra recursos limitados opera como uma teoria de justiça em funcionamento. O papel da interface ou do fluxo de serviço não é apenas otimizar a eficiência, mas materializar e legitimar socialmente os critérios de alocação de tais recursos.
 
@@ -18,7 +18,7 @@ Este conceito/princípio se manifesta e ajuda a compreender a lógica operaciona
 - [[03 artefatos/Agendamento|Agendamento]] — Reorganiza a escassez temporal de forma distribuída, convertendo a espera física em uma transação agendada de slots de tempo.
 - Concursos Públicos e Processos Seletivos — Resolvem a escassez de vagas aplicando o critério de **desempenho ou mérito**, substituindo a ordem de chegada pela preparação individual.
 
-## Taxonomia de Critérios de Distribuição
+## Taxonomia de critérios de distribuição
 
 Serviços que coordenam escassez adotam diferentes critérios para justificar a prioridade de atendimento ou posse, gerando distintas experiências morais e operacionais:
 

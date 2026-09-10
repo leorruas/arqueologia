@@ -1,12 +1,12 @@
 ---
-title: "Memória Distribuída"
+title: "Memória distribuída"
 type: "conceito"
 tags:
   - design/conceito
   - arqueologia
 ---
 
-# Memória Distribuída
+# Memória distribuída
 
 A **Memória Distribuída** (e o princípio de *Cognição Incorporada* ou *Embodied Cognition*) estuda como os seres humanos externalizam informações no espaço físico ao seu redor (através de pistas visuais, arranjos de objetos e estruturas mecânicas) para descarregar a carga de memória interna e guiar comportamentos futuros.
 

@@ -1,12 +1,12 @@
 ---
-title: "Previsibilidade Visual"
+title: "Previsibilidade visual"
 type: "variavel"
 tags:
   - design/variavel
   - arqueologia
 ---
 
-# Previsibilidade Visual
+# Previsibilidade visual
 
 A **Previsibilidade Visual** mede a consistência geométrica e estrutural do arranjo de elementos em uma página ou tela, permitindo que a mente do leitor ou usuário antecipe a localização de informações cruciais.
 
