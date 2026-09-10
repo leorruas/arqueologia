@@ -11,7 +11,7 @@ tags:
 
 Guardar parece um verbo simples até perguntarmos o que exatamente ele quer dizer. Guardamos uma moeda num cofre, uma camisa num guarda-roupa, uma lembrança num diário, uma despesa num aplicativo, um registro num banco de dados e um documento na nuvem. Em cada caso, “guardar” realiza uma operação diferente.
 
-Este percurso não propõe uma cronologia universal do armazenamento. Ele segue uma transformação mais ampla: **como o design deslocou o problema de guardar da contenção física para a proteção, classificação, portabilidade, registro, recuperação e, mais recentemente, reorganização automática daquilo que foi preservado**.
+Este percurso não propõe uma cronologia universal do armazenamento. A sequência é editorial: aproxima artefatos de épocas e meios diferentes para acompanhar uma transformação mais ampla — **como o design deslocou o problema de guardar da contenção física para a proteção, classificação, portabilidade, registro, recuperação e, mais recentemente, reorganização automática daquilo que foi preservado**.
 
 A pergunta deixa de ser apenas “como fazer algo sobreviver?”. Passa a incluir: onde isso fica, quem pode acessar, como será reencontrado, o que viaja conosco, o que fica para trás e que tipo de passado o sistema consegue devolver.
 
@@ -85,19 +85,13 @@ O lugar de armazenamento deixa de ser parte central da experiência cotidiana do
 
 A sensação de “meus arquivos estão comigo” pode existir justamente porque os arquivos já não estão fisicamente comigo.
 
-## Guardar também pode significar preservar estado, responsabilidade e interpretação
+## O que aparece quando lemos em sequência
 
-Os artefatos já estudados no vault ocupam outras posições dentro desse campo mais amplo.
+Os artefatos já estudados no vault ocupam outras posições dentro desse campo mais amplo. O [[03 artefatos/Post-it|Post-it]] externaliza algo que poderia desaparecer da memória, mas aceita baixa permanência. O [[03 artefatos/Botao Salvar|Botão Salvar]] transforma a passagem entre estado temporário e persistente numa decisão explícita. [[03 artefatos/Archive|Archive]] separa preservação de visibilidade imediata.
 
-O [[03 artefatos/Post-it|Post-it]] externaliza algo que poderia desaparecer da memória, mas aceita baixa permanência. O [[03 artefatos/Botao Salvar|Botão Salvar]] transforma a passagem entre estado temporário e persistente numa decisão explícita. [[03 artefatos/Archive|Archive]] separa preservação de visibilidade imediata.
+O [[03 artefatos/Número de Protocolo|Número de Protocolo]] faz uma demanda sobreviver à troca de pessoas e setores. A [[03 artefatos/Assinatura|Assinatura]] preserva uma relação entre registro e autoria ou responsabilidade. E a [[03 artefatos/LLM Wiki|LLM Wiki]] produz uma mutação recente: o sistema tenta preservar não apenas documentos, mas **sínteses e relações produzidas a partir deles**. A memória externa passa a participar de sua própria reorganização.
 
-O [[03 artefatos/Número de Protocolo|Número de Protocolo]] faz uma demanda sobreviver à troca de pessoas e setores. A [[03 artefatos/Assinatura|Assinatura]] preserva uma relação entre registro e autoria ou responsabilidade.
-
-E a [[03 artefatos/LLM Wiki|LLM Wiki]] produz uma mutação recente: o sistema tenta preservar não apenas documentos, mas **sínteses e relações produzidas a partir deles**. A memória externa passa a participar de sua própria reorganização.
-
-Nesse ponto, a história de guardar deixa de ser apenas a história de recipientes cada vez melhores.
-
-Ela pode ser lida como uma sucessão de perguntas:
+Nesse ponto, a história de guardar deixa de ser apenas a história de recipientes cada vez melhores. Lidos em sequência, os casos transformam o verbo:
 
 **Como conter?**
 
@@ -115,7 +109,9 @@ Ela pode ser lida como uma sucessão de perguntas:
 
 **Como fazer aquilo que foi guardado trabalhar sobre o próximo momento?**
 
-Talvez seja essa a transformação mais ampla. O design não apenas aprendeu a fazer coisas permanecerem. Aprendeu a desenhar **relações diferentes entre passado, espaço, acesso e ação futura**.
+A transformação mais ampla talvez seja esta: o design não apenas aprendeu a fazer coisas permanecerem. Aprendeu a desenhar **relações diferentes entre passado, espaço, acesso e ação futura**.
+
+O que chamamos genericamente de “guardar” pode ser contenção, proteção, classificação, portabilidade, inscrição, rastreamento, endereçamento, desancoragem ou manutenção ativa de memória. A palavra permaneceu; a operação mudou várias vezes.
 
 Continue em [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] e [[04 genealogias/Portabilidade e Desancoragem|Portabilidade e desancoragem]].
 
