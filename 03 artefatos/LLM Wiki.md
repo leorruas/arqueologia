@@ -82,6 +82,12 @@ Esse é também um limite da metáfora de “compilação”. Código compilado 
 
 Em setembro de 2026, o padrão ainda é recente demais para falar em padronização. A formulação de Karpathy já inspirou implementações diferentes, inclusive uma extensão open source da Microsoft em que o LLM mantém uma wiki pessoal estruturada e interligada.[^5] Essas implementações refinam a ideia com interfaces, rastreabilidade, busca e verificações próprias, mas justamente a variedade mostra que ainda não existe uma forma única e estabilizada de “fazer uma LLM Wiki”.
 
+Ao mesmo tempo, produtos empresariais começaram a convergir para uma hipótese próxima por outro caminho. O **Projects do Gemini Enterprise**, do Google Cloud, permite criar uma base de conhecimento dedicada a um trabalho individual ou de equipe, reunindo arquivos enviados, documentos do Google Drive, notas e conectores externos para que o assistente responda com base naquele contexto persistente.[^6] O **Gemini Notebook Enterprise** acrescenta notebooks compartilháveis, fontes organizadas, guias especializados e help centers para uso dentro de organizações.[^7]
+
+O parentesco é forte, mas não são equivalentes. A documentação do Google descreve **fontes e projetos persistentes sobre os quais a IA pesquisa, resume e responde**. Ela não descreve, como operação central, uma camada wiki de síntese que o agente reescreve continuamente após cada ingestão ou consulta segundo um schema explícito. O Google se aproxima da mesma fronteira — fazer o trabalho cognitivo sobreviver entre interações —, mas mantém mais claramente a fonte e o notebook como unidades persistentes. A LLM Wiki de Karpathy torna a **síntese mantida pelo agente** uma unidade arquitetural própria.
+
+Essa comparação é historicamente interessante porque sugere convergência, não necessariamente descendência. Em 2026, diferentes sistemas estão tentando resolver o mesmo problema: como fazer uma interação com IA deixar de começar do zero sem reduzir continuidade a um histórico infinito de chat.
+
 Há, portanto, formulação e rápida experimentação. Popularização está em andamento. Padronização ainda é uma pergunta histórica aberta.
 
 ## Uma wiki estudando a própria wiki
@@ -107,21 +113,21 @@ A pergunta deixa de ser apenas “como guardar conhecimento?”. Passa a ser: **
 | **Autoria** | Andrej Karpathy é o formulador e principal popularizador identificável do padrão chamado LLM Wiki; os componentes e antecedentes são distribuídos e muito anteriores |
 | **Produto ou contexto** | Padrão de arquitetura e workflow para bases de conhecimento mantidas por agentes LLM |
 | **Problema original** | O custo de manter uma base de conhecimento estruturada e a necessidade de reconstruir sínteses quando consultas partem repetidamente de fontes brutas |
-| **Mundo antes** | Arquivos e notas manuais, wikis mantidas por pessoas, busca documental e sistemas de recuperação/RAG |
+| **Mundo antes** | Arquivos e notas manuais, wikis mantidas por pessoas, busca documental, sistemas de recuperação/RAG e bases persistentes consultadas por assistentes |
 | **Invenção** | Não há evidência de que Karpathy tenha inventado bases auto-organizadas por IA em sentido amplo; sua contribuição identificável é a formulação pública deste padrão específico de fontes brutas + wiki persistente + schema |
-| **Refinamento** | Implementações posteriores transformam o padrão abstrato em extensões, CLIs, verificações de integridade, rastreabilidade e interfaces de navegação |
-| **Popularização** | O gist de Karpathy e as implementações surgidas em seguida ampliaram rapidamente a circulação do padrão em 2026 |
+| **Refinamento** | Implementações posteriores transformam o padrão abstrato em extensões, CLIs, verificações de integridade, rastreabilidade e interfaces; produtos como Gemini Enterprise Projects e Gemini Notebook Enterprise convergem para continuidade de contexto e conhecimento por arquiteturas parcialmente diferentes |
+| **Popularização** | O gist de Karpathy, implementações surgidas em seguida e a convergência de produtos empresariais para bases persistentes de conhecimento ampliaram a visibilidade do problema em 2026 |
 | **Padronização** | Ainda não estabelecida; implementações divergem em estrutura, ferramentas, governança e mecanismos de verificação |
 | **Hipótese de design** | Humanos agregam mais valor escolhendo fontes, fazendo perguntas e julgando sínteses do que executando continuamente o trabalho de manutenção e cruzamento da base |
 | **Comportamento aproveitado** | Externalizar memória, organizar registros, seguir relações e fazer perguntas sobre um acervo |
 | **Comportamento produzido** | Ingerir fontes para atualizar uma memória compilada, auditar a base periodicamente e incorporar boas respostas de volta ao conhecimento persistente |
 | **Relação de poder** | O LLM ganha poder editorial sobre a camada de síntese; o humano preserva poder sobre fontes, regras e revisão, mas pode delegar parte desse controle sem perceber |
 | **Consequências inesperadas** | Uma síntese incorreta pode se tornar contexto persistente e propagar erro; ao mesmo tempo, logs, fontes imutáveis e versionamento podem tornar a memória mais auditável |
-| **Destino ou transformação posterior** | Padrão emergente; ainda em experimentação, sem forma estabilizada |
+| **Destino ou transformação posterior** | Padrão emergente; ainda em experimentação, enquanto produtos empresariais exploram soluções vizinhas para continuidade de conhecimento |
 | **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Investigação|Investigação]], [[01 conceitos/Justificabilidade|Justificabilidade]] |
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Reversibilidade|Reversibilidade]] |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] |
-| **Parentes** | [[03 artefatos/Prompt Conversacional|Prompt conversacional]], [[03 artefatos/Botao Salvar|Botão salvar]], [[03 artefatos/Archive|Archive]], [[03 artefatos/Checklist|Checklist]], [[03 artefatos/Pergunta|Pergunta]]; Memex, WikiWikiWeb e RAG como antecedentes e parentes ainda sem estudo próprio no vault |
+| **Parentes** | [[03 artefatos/Prompt Conversacional|Prompt conversacional]], [[03 artefatos/Botao Salvar|Botão salvar]], [[03 artefatos/Archive|Archive]], [[03 artefatos/Checklist|Checklist]], [[03 artefatos/Pergunta|Pergunta]]; Memex, WikiWikiWeb, RAG, Gemini Enterprise Projects e Gemini Notebook Enterprise como antecedentes ou parentes ainda sem estudo próprio no vault |
 | **Princípio de design revelado** | Persistir a síntese pode reduzir o custo da próxima investigação, mas transforma manutenção da memória em uma questão de governança |
 | **Questão em aberto** | Como impedir que uma interpretação probabilística, depois de incorporada à memória persistente, se fossilize como fato para todas as consultas seguintes? |
 
@@ -136,3 +142,7 @@ A pergunta deixa de ser apenas “como guardar conhecimento?”. Passa a ser: **
 [^4]: Lewis, Patrick et al. “Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks”. *Advances in Neural Information Processing Systems 33*, 2020. https://proceedings.neurips.cc/paper/2020/hash/6b493230205f780e1bc26945df7481e5-Abstract.html. Fonte para a formulação técnica de RAG combinando memória paramétrica e memória não paramétrica recuperada durante a geração.
 
 [^5]: Microsoft. `microsoft/llmwiki`. GitHub, consultado em setembro de 2026. https://github.com/microsoft/llmwiki. Implementação open source contemporânea que descreve uma base pessoal em Markdown mantida incrementalmente por LLM e oferece evidência de refinamento posterior do padrão.
+
+[^6]: Google Cloud. “Create and manage projects”. *Gemini Enterprise Documentation*, consultado em setembro de 2026. https://docs.cloud.google.com/gemini/enterprise/docs/projects. Fonte para Projects como bases de conhecimento dedicadas a trabalho individual ou colaborativo, alimentadas por arquivos, Drive, notas e conectores externos e usadas em conversas fundamentadas no acervo.
+
+[^7]: Google Cloud. “Gemini Notebook for enterprise” e “What is Gemini Notebook Enterprise?”. Consultados em setembro de 2026. https://cloud.google.com/gemini-enterprise/gemini-notebook e https://docs.cloud.google.com/gemini/enterprise/notebooklm-enterprise/docs/overview. Fontes para notebooks empresariais, compartilhamento organizacional, fontes persistentes, guias e help centers.
