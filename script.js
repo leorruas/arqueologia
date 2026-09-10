@@ -1,14 +1,49 @@
 const REPO = "leorruas/arqueologia";
 const BRANCH = "main";
 
-const categoriasBase = {
-  "00. Sobre": { numero: "00", resumo: "a hipótese do projeto, modos de investigação e método de escavação" },
-  "01. Interfaces": { numero: "01", resumo: "botões, cursores, gestos, padrões de interação e artefatos digitais" },
-  "02. Design Grafico": { numero: "02", resumo: "cartazes, grids, símbolos, diagramação e sistemas visuais" },
-  "03. Design de Servicos": { numero: "03", resumo: "filas, formulários, jornadas, scripts, regras e artefatos de coordenação" },
-  "04. Design de Produto": { numero: "04", resumo: "objetos físicos, hábitos, ergonomia, materiais e rituais cotidianos" },
-  "05. Tipografia": { numero: "05", resumo: "letras, espaços, sinais e decisões que organizam a leitura" },
-  "06. Inteligencia Artificial": { numero: "06", resumo: "interfaces de linguagem, perguntas, memória, agência e novos pactos de uso" }
+const categoriasPublicas = {
+  "00 tipos de design": {
+    numero: "00",
+    titulo: "tipos de design",
+    resumo: "campos do design usados para classificar e conectar os estudos",
+    grupo: "orientacao"
+  },
+  "00 índices": {
+    numero: "00",
+    titulo: "índices",
+    resumo: "mapas de artefatos, autores, conceitos, empresas, variáveis e leituras",
+    grupo: "orientacao"
+  },
+  "01 conceitos": {
+    numero: "01",
+    titulo: "conceitos",
+    resumo: "ideias recorrentes que ajudam a explicar por que certas decisões de design funcionam",
+    grupo: "principal"
+  },
+  "02 variaveis": {
+    numero: "02",
+    titulo: "variáveis",
+    resumo: "forças que o design aumenta, reduz ou redistribui no comportamento",
+    grupo: "principal"
+  },
+  "03 artefatos": {
+    numero: "03",
+    titulo: "artefatos",
+    resumo: "objetos, interfaces, serviços, métodos, sinais e gestos investigados pelo projeto",
+    grupo: "principal"
+  },
+  "autores": {
+    numero: "A",
+    titulo: "autores",
+    resumo: "pessoas ligadas à invenção, ao refinamento, à popularização ou à crítica das ideias",
+    grupo: "principal"
+  },
+  "empresas": {
+    numero: "E",
+    titulo: "empresas",
+    resumo: "organizações usadas como contexto para localizar ideias, artefatos e padrões de design",
+    grupo: "principal"
+  }
 };
 
 let artigos = [];
@@ -40,7 +75,12 @@ function normalizar(texto) {
 function nomeLimpo(texto) {
   return String(texto || "")
     .replace(/^\d+\.\s*/, "")
+    .replace(/^\d+\s+/, "")
     .replace(/\.md$/i, "");
+}
+
+function nomeCategoria(categoria) {
+  return categoriasPublicas[categoria]?.titulo || nomeLimpo(categoria);
 }
 
 function slug(texto) {
@@ -89,6 +129,7 @@ function mostrarHome(atualizarRota = true) {
   document.title = "arqueologia • do design";
   if (atualizarRota && window.location.hash) history.pushState({}, "", window.location.pathname + window.location.search);
   window.scrollTo({ top: 0, behavior: "instant" });
+  atualizarNav();
 }
 
 function esconderHome() {
@@ -97,6 +138,7 @@ function esconderHome() {
   el("explorar-campos").classList.add("escondido");
   el("site-footer").classList.add("escondido");
   resultados.classList.add("escondido");
+  atualizarNav();
 }
 
 async function carregarCatalogo() {
@@ -110,7 +152,7 @@ async function carregarCatalogo() {
     arquivos = (dados.tree || [])
       .filter(item => item.type === "blob" && /\.md$/i.test(item.path))
       .filter(item => item.path.includes("/"))
-      .filter(item => !item.path.startsWith(".github/"));
+      .filter(item => categoriasPublicas[item.path.split("/")[0]]);
   } catch (erro) {
     console.warn("Não foi possível carregar a árvore do acervo.", erro);
   }
@@ -137,23 +179,11 @@ async function carregarCatalogo() {
   tratarRota();
 }
 
-function metadadosCategoria(categoria, indice) {
-  if (categoriasBase[categoria]) return categoriasBase[categoria];
-  return {
-    numero: String(indice + 1).padStart(2, "0"),
-    resumo: `${(porCategoria[categoria] || []).length} estudos disponíveis neste campo`
-  };
-}
-
 function renderizarCategorias() {
   orientacoes.innerHTML = "";
   pastas.innerHTML = "";
 
-  const categorias = Array.from(new Set([...Object.keys(categoriasBase), ...Object.keys(porCategoria)]))
-    .sort((a, b) => a.localeCompare(b, "pt-BR", { numeric: true, sensitivity: "base" }));
-
-  categorias.forEach((categoria, indice) => {
-    const info = metadadosCategoria(categoria, indice);
+  Object.entries(categoriasPublicas).forEach(([categoria, info]) => {
     const quantidade = (porCategoria[categoria] || []).length;
     const card = document.createElement("a");
     card.className = "disciplina-card";
@@ -161,8 +191,8 @@ function renderizarCategorias() {
     card.innerHTML = `
       <span class="indice-numero">${info.numero}</span>
       <span class="disciplina-card-conteudo">
-        <strong>${nomeLimpo(categoria)}</strong>
-        <span class="indice-resumo">${info.resumo}${quantidade ? ` • ${quantidade} ${quantidade === 1 ? "estudo" : "estudos"}` : " • em escavação"}</span>
+        <strong>${info.titulo}</strong>
+        <span class="indice-resumo">${info.resumo} • ${quantidade} ${quantidade === 1 ? "entrada" : "entradas"}</span>
       </span>`;
     card.addEventListener("click", event => {
       if (event.metaKey || event.ctrlKey || event.shiftKey || event.button === 1) return;
@@ -170,7 +200,7 @@ function renderizarCategorias() {
       abrirCampo(categoria);
     });
 
-    if (categoria === "00. Sobre") orientacoes.appendChild(card);
+    if (info.grupo === "orientacao") orientacoes.appendChild(card);
     else pastas.appendChild(card);
   });
 }
@@ -193,24 +223,28 @@ function criarBreadcrumb(container, categoria, titulo) {
     const campo = document.createElement("button");
     campo.type = "button";
     campo.className = "breadcrumb-link";
-    campo.textContent = nomeLimpo(categoria);
+    campo.textContent = nomeCategoria(categoria);
     campo.addEventListener("click", () => abrirCampo(categoria));
     container.appendChild(campo);
+
     const sep2 = document.createElement("span");
     sep2.className = "breadcrumb-separator";
     sep2.textContent = "/";
     container.appendChild(sep2);
+
     const atual = document.createElement("span");
     atual.textContent = nomeLimpo(titulo);
     container.appendChild(atual);
   } else {
     const atual = document.createElement("span");
-    atual.textContent = nomeLimpo(categoria);
+    atual.textContent = nomeCategoria(categoria);
     container.appendChild(atual);
   }
 }
 
 function abrirCampo(categoria, atualizarRota = true) {
+  if (!categoriasPublicas[categoria]) return mostrarHome(false);
+
   esconderHome();
   leitorArtigo.classList.add("escondido");
   leitorCampo.classList.remove("escondido");
@@ -221,35 +255,28 @@ function abrirCampo(categoria, atualizarRota = true) {
   const lista = porCategoria[categoria] || [];
   criarBreadcrumb(el("disciplina-breadcrumbs"), categoria);
   el("disciplina-cabecalho").innerHTML = `
-    <p class="disciplina-rotulo">campo • ${lista.length ? `${lista.length} ${lista.length === 1 ? "estudo" : "estudos"}` : "em escavação"}</p>
-    <h2>${nomeLimpo(categoria)}</h2>`;
+    <p class="disciplina-rotulo">campo • ${lista.length} ${lista.length === 1 ? "entrada" : "entradas"}</p>
+    <h2>${nomeCategoria(categoria)}</h2>`;
 
   const acoes = el("disciplina-acoes");
   acoes.innerHTML = "";
 
-  if (!lista.length) {
-    const vazio = document.createElement("div");
-    vazio.className = "estado-vazio";
-    vazio.innerHTML = "este campo já faz parte do mapa, mas ainda não tem estudos publicados no repositório.";
-    acoes.appendChild(vazio);
-  } else {
-    lista.forEach((artigo, indice) => {
-      const link = document.createElement("a");
-      link.className = "disciplina-acao";
-      link.href = rotaArtigo(artigo);
-      link.innerHTML = `
-        <span class="disciplina-acao-numero">${String(indice + 1).padStart(2, "0")}</span>
-        <span class="disciplina-acao-conteudo"><strong>${artigo.titulo}</strong></span>`;
-      link.addEventListener("click", event => {
-        if (event.metaKey || event.ctrlKey || event.shiftKey || event.button === 1) return;
-        event.preventDefault();
-        abrirArtigo(artigo);
-      });
-      acoes.appendChild(link);
+  lista.forEach((artigo, indice) => {
+    const link = document.createElement("a");
+    link.className = "disciplina-acao";
+    link.href = rotaArtigo(artigo);
+    link.innerHTML = `
+      <span class="disciplina-acao-numero">${String(indice + 1).padStart(2, "0")}</span>
+      <span class="disciplina-acao-conteudo"><strong>${artigo.titulo}</strong></span>`;
+    link.addEventListener("click", event => {
+      if (event.metaKey || event.ctrlKey || event.shiftKey || event.button === 1) return;
+      event.preventDefault();
+      abrirArtigo(artigo);
     });
-  }
+    acoes.appendChild(link);
+  });
 
-  document.title = `${nomeLimpo(categoria)} • arqueologia do design`;
+  document.title = `${nomeCategoria(categoria)} • arqueologia do design`;
   window.scrollTo({ top: 0, behavior: "instant" });
 }
 
@@ -265,11 +292,24 @@ function limparFrontmatter(markdown) {
   return String(markdown || "").replace(/^---\s*\n[\s\S]*?\n---\s*\n/, "");
 }
 
+function encontrarArtigoPorWiki(alvo) {
+  const tituloBase = String(alvo || "").split("#")[0].replace(/\.md$/i, "").trim();
+  const normal = normalizar(tituloBase);
+  return artigos.find(item => normalizar(item.titulo) === normal) || null;
+}
+
 function prepararMarkdown(markdown) {
   return limparFrontmatter(markdown)
-    .replace(/!\[\[([^\]]+)\]\]/g, "`anexo: $1`")
-    .replace(/\[\[([^\]|]+)\|([^\]]+)\]\]/g, "$2")
-    .replace(/\[\[([^\]]+)\]\]/g, "$1");
+    .replace(/!\[\[([^\]]+)\]\]/g, (_match, alvo) => `\`anexo: ${alvo}\``)
+    .replace(/\[\[([^\]|]+)\|([^\]]+)\]\]/g, (_match, alvo, rotulo) => {
+      const artigo = encontrarArtigoPorWiki(alvo);
+      return artigo ? `[${rotulo}](${rotaArtigo(artigo)})` : rotulo;
+    })
+    .replace(/\[\[([^\]]+)\]\]/g, (_match, alvo) => {
+      const artigo = encontrarArtigoPorWiki(alvo);
+      const rotulo = String(alvo).split("#")[0];
+      return artigo ? `[${rotulo}](${rotaArtigo(artigo)})` : rotulo;
+    });
 }
 
 function montarToc() {
@@ -316,6 +356,7 @@ function montarNavegacaoArtigo(artigo) {
       nav.appendChild(vazio);
       return;
     }
+
     const link = document.createElement("a");
     link.className = "artigo-nav-card";
     link.href = rotaArtigo(item);
@@ -338,7 +379,7 @@ async function abrirArtigo(artigo, atualizarRota = true) {
   if (atualizarRota && window.location.hash !== rotaArtigo(artigo)) history.pushState({ artigo: artigo.sourcePath }, "", rotaArtigo(artigo));
 
   criarBreadcrumb(el("artigo-breadcrumbs"), artigo.categoria, artigo.titulo);
-  el("artigo-kicker").textContent = nomeLimpo(artigo.categoria);
+  el("artigo-kicker").textContent = nomeCategoria(artigo.categoria);
   tituloArtigo.textContent = artigo.titulo;
   corpoArtigo.innerHTML = '<p class="mensagem-busca">abrindo a escavação...</p>';
   montarNavegacaoArtigo(artigo);
@@ -357,9 +398,22 @@ async function abrirArtigo(artigo, atualizarRota = true) {
 
 async function carregarConteudoParaBusca() {
   if (carregamentoConteudo) return carregamentoConteudo;
-  carregamentoConteudo = Promise.all(artigos.map(async artigo => {
-    try { await garantirConteudo(artigo); } catch (_) { artigo.conteudo = ""; }
-  }));
+
+  carregamentoConteudo = (async () => {
+    const fila = artigos.filter(artigo => artigo.conteudo === null).slice();
+    const trabalhadores = Array.from({ length: Math.min(8, fila.length || 1) }, async () => {
+      while (fila.length) {
+        const artigo = fila.shift();
+        try {
+          await garantirConteudo(artigo);
+        } catch (_) {
+          artigo.conteudo = "";
+        }
+      }
+    });
+    await Promise.all(trabalhadores);
+  })();
+
   return carregamentoConteudo;
 }
 
@@ -381,19 +435,20 @@ async function pesquisar(termo) {
   el("site-footer").classList.remove("escondido");
   resultados.classList.remove("escondido");
   resultadosTitulo.textContent = `“${consulta}”`;
-  cardsResultados.innerHTML = '<p class="mensagem-busca">escavando o acervo...</p>';
+  cardsResultados.innerHTML = '<p class="mensagem-busca">escavando títulos e conteúdo...</p>';
+  atualizarNav();
 
   if (normalizar(consulta).length >= 3) await carregarConteudoParaBusca();
   const termos = normalizar(consulta).split(/\s+/).filter(Boolean);
 
   const encontrados = artigos.filter(artigo => {
-    const palheiro = normalizar(`${artigo.categoria} ${artigo.titulo} ${artigo.conteudo || ""}`);
+    const palheiro = normalizar(`${nomeCategoria(artigo.categoria)} ${artigo.titulo} ${artigo.conteudo || ""}`);
     return termos.every(item => palheiro.includes(item));
   });
 
   cardsResultados.innerHTML = "";
   if (!encontrados.length) {
-    cardsResultados.innerHTML = '<p class="mensagem-busca">nenhum estudo encontrado. talvez o artefato ainda esteja esperando sua escavação.</p>';
+    cardsResultados.innerHTML = '<p class="mensagem-busca">nenhuma entrada encontrada no acervo.</p>';
     return;
   }
 
@@ -401,7 +456,7 @@ async function pesquisar(termo) {
     const link = document.createElement("a");
     link.className = "resultado-card";
     link.href = rotaArtigo(artigo);
-    link.innerHTML = `<span class="resultado-categoria">${nomeLimpo(artigo.categoria)}</span><span class="resultado-titulo">${artigo.titulo}</span>`;
+    link.innerHTML = `<span class="resultado-categoria">${nomeCategoria(artigo.categoria)}</span><span class="resultado-titulo">${artigo.titulo}</span>`;
     link.addEventListener("click", event => {
       event.preventDefault();
       abrirArtigo(artigo);
@@ -433,6 +488,10 @@ function tratarRota() {
   }
 }
 
+function atualizarNav() {
+  el("sticky-nav").classList.toggle("visible", window.scrollY > 135 || document.body.classList.contains("viewing") || !resultados.classList.contains("escondido"));
+}
+
 let timerBusca;
 function aoDigitar(event) {
   clearTimeout(timerBusca);
@@ -461,10 +520,17 @@ el("nav-link-indice").addEventListener("click", event => {
   }
 });
 
+corpoArtigo.addEventListener("click", event => {
+  const link = event.target.closest('a[href^="#/estudo/"]');
+  if (!link) return;
+  event.preventDefault();
+  const href = link.getAttribute("href");
+  history.pushState({}, "", href);
+  tratarRota();
+});
+
 window.addEventListener("popstate", tratarRota);
 window.addEventListener("hashchange", tratarRota);
-window.addEventListener("scroll", () => {
-  el("sticky-nav").classList.toggle("visible", window.scrollY > 135 || document.body.classList.contains("viewing"));
-}, { passive: true });
+window.addEventListener("scroll", atualizarNav, { passive: true });
 
 carregarCatalogo();
