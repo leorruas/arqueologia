@@ -1,59 +1,17 @@
 {
-  "generatedAt": "2026-09-10T23:22:50.479Z",
+  "generatedAt": "2026-09-10T23:23:18.213Z",
   "scope": "Integração do grafo: índices, home, reciprocidade estrutural, tipos de design e nós órfãos. Conceitos e variáveis não exigem backlink exaustivo.",
-  "issueCount": 43,
+  "issueCount": 32,
   "countsByKind": {
-    "missing-from-index": 9,
+    "missing-from-index": 2,
     "missing-reciprocal-link": 27,
-    "orphan-node": 5,
+    "orphan-node": 1,
     "design-type-drift": 2
   },
   "issues": [
     {
       "kind": "missing-from-index",
-      "sourcePath": "03 artefatos/Camera Fotografica.md",
-      "targetPath": "00 índices/Indice de Artefatos.md",
-      "detail": "Arquivo não aparece em 00 índices/Indice de Artefatos.md."
-    },
-    {
-      "kind": "missing-from-index",
-      "sourcePath": "03 artefatos/Cigarro.md",
-      "targetPath": "00 índices/Indice de Artefatos.md",
-      "detail": "Arquivo não aparece em 00 índices/Indice de Artefatos.md."
-    },
-    {
-      "kind": "missing-from-index",
-      "sourcePath": "03 artefatos/Cursor.md",
-      "targetPath": "00 índices/Indice de Artefatos.md",
-      "detail": "Arquivo não aparece em 00 índices/Indice de Artefatos.md."
-    },
-    {
-      "kind": "missing-from-index",
       "sourcePath": "03 artefatos/Espaço entre Palavras.md",
-      "targetPath": "00 índices/Indice de Artefatos.md",
-      "detail": "Arquivo não aparece em 00 índices/Indice de Artefatos.md."
-    },
-    {
-      "kind": "missing-from-index",
-      "sourcePath": "03 artefatos/Luminaria.md",
-      "targetPath": "00 índices/Indice de Artefatos.md",
-      "detail": "Arquivo não aparece em 00 índices/Indice de Artefatos.md."
-    },
-    {
-      "kind": "missing-from-index",
-      "sourcePath": "03 artefatos/Portfólio.md",
-      "targetPath": "00 índices/Indice de Artefatos.md",
-      "detail": "Arquivo não aparece em 00 índices/Indice de Artefatos.md."
-    },
-    {
-      "kind": "missing-from-index",
-      "sourcePath": "03 artefatos/Projetor.md",
-      "targetPath": "00 índices/Indice de Artefatos.md",
-      "detail": "Arquivo não aparece em 00 índices/Indice de Artefatos.md."
-    },
-    {
-      "kind": "missing-from-index",
-      "sourcePath": "03 artefatos/QR Code.md",
       "targetPath": "00 índices/Indice de Artefatos.md",
       "detail": "Arquivo não aparece em 00 índices/Indice de Artefatos.md."
     },
@@ -227,31 +185,7 @@
     },
     {
       "kind": "orphan-node",
-      "sourcePath": "03 artefatos/Cigarro.md",
-      "targetPath": null,
-      "detail": "Nota sem links de entrada a partir do acervo auditado."
-    },
-    {
-      "kind": "orphan-node",
-      "sourcePath": "03 artefatos/Cursor.md",
-      "targetPath": null,
-      "detail": "Nota sem links de entrada a partir do acervo auditado."
-    },
-    {
-      "kind": "orphan-node",
       "sourcePath": "03 artefatos/Espaço entre Palavras.md",
-      "targetPath": null,
-      "detail": "Nota sem links de entrada a partir do acervo auditado."
-    },
-    {
-      "kind": "orphan-node",
-      "sourcePath": "03 artefatos/Portfólio.md",
-      "targetPath": null,
-      "detail": "Nota sem links de entrada a partir do acervo auditado."
-    },
-    {
-      "kind": "orphan-node",
-      "sourcePath": "03 artefatos/QR Code.md",
       "targetPath": null,
       "detail": "Nota sem links de entrada a partir do acervo auditado."
     },
