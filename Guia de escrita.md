@@ -146,6 +146,14 @@ Quando uma pessoa, empresa, conceito ou artefato ainda não tiver nota, manter a
 
 Uma pista não é uma promessa de estudo. Ela é apenas uma possibilidade preservada para avaliação posterior.
 
+## Propagação de governança
+
+Mudanças editoriais também precisam ser tratadas como mudanças de sistema. Se o formato de uma nota, o schema de uma ficha, a função de uma pasta ou uma regra de escrita mudar, não basta corrigir o texto que enuncia a nova regra. Verifique se os templates ainda produzem o formato correto, se a auditoria ainda testa a invariável certa e se `README.md`, `index.md` e `00 índices/Sobre o projeto.md` continuam descrevendo o mesmo modelo.
+
+A documentação interna não deve divergir da experiência pública. Da mesma forma, um template não deve continuar fabricando o formato que o guia passou a proibir. Sempre que uma regra mudar, procure suas representações materiais no vault e propague a alteração apenas onde houver dependência real.
+
+Nem toda qualidade editorial deve virar teste automático. A auditoria é adequada para invariantes estruturais, como metadados, schemas, headings legados e links. Qualidade de argumento, força da tese e pertinência de uma relação continuam exigindo leitura humana ou análise semântica.
+
 ## Preservação durante refatorações
 
 Antes de reescrever uma nota existente, fazer um inventário do conteúdo original: fatos, exemplos, distinções, hipóteses, relações, autores, empresas, conceitos, variáveis, genealogias, perguntas em aberto e fontes.
