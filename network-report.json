@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-10T23:23:18.213Z",
+  "generatedAt": "2026-09-10T23:23:36.654Z",
   "scope": "Integração do grafo: índices, home, reciprocidade estrutural, tipos de design e nós órfãos. Conceitos e variáveis não exigem backlink exaustivo.",
-  "issueCount": 32,
+  "issueCount": 31,
   "countsByKind": {
-    "missing-from-index": 2,
+    "missing-from-index": 1,
     "missing-reciprocal-link": 27,
     "orphan-node": 1,
     "design-type-drift": 2
@@ -14,12 +14,6 @@
       "sourcePath": "03 artefatos/Espaço entre Palavras.md",
       "targetPath": "00 índices/Indice de Artefatos.md",
       "detail": "Arquivo não aparece em 00 índices/Indice de Artefatos.md."
-    },
-    {
-      "kind": "missing-from-index",
-      "sourcePath": "empresas/3M.md",
-      "targetPath": "00 índices/Indice de Empresas.md",
-      "detail": "Arquivo não aparece em 00 índices/Indice de Empresas.md."
     },
     {
       "kind": "missing-reciprocal-link",
