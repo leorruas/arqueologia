@@ -6,37 +6,57 @@ status: "ativo"
 
 # Arqueologia do Design
 
-Bem-vindo ao vault de **Arqueologia do Design**, um repositório dedicado ao resgate, documentação e análise histórica das diversas vertentes do design, seus principais autores, estúdios, empresas e artefatos icônicos.
+Este vault investiga como decisões de design reorganizam comportamento humano. O ponto de partida é um artefato concreto; autores, empresas e tecnologias entram como contexto para reconstruir a trajetória da ideia.
 
----
+A hipótese central do projeto é simples: toda interface, produto ou sistema contém uma hipótese sobre como as pessoas percebem, decidem, lembram, cooperam, esperam e agem.
 
-## Áreas de Exploração (Tipos de Design)
+## Três lentes de leitura
 
-Esta seção cataloga os diferentes campos do design, abordando suas definições, evolução histórica e manifestações práticas.
+### Tipos de design
 
-- [[00 tipos de design/Design de Servicos|Design de Serviços]] — A estruturação de fluxos, jornadas e interações humanas e sistêmicas.
-- [[00 tipos de design/Design de Produto|Design de Produto]] — A concepção de objetos físicos, mobiliários e bens de consumo industriais.
-- [[00 tipos de design/Design Grafico|Design Gráfico]] — A evolução da comunicação visual, do papel impresso às identidades de marca.
-- [[00 tipos de design/Tipografia|Tipografia]] — O estudo e a criação das fontes, famílias tipográficas e diagramação.
-- [[00 tipos de design/Design de Interface|Design de Interface]] — A história e a arquitetura das interfaces digitais, sistemas operacionais e interações humano-computador.
-- [[00 tipos de design/Design de IA|Design de IA]] — A criação de interfaces, interações e fluxos semânticos para mediação com sistemas probabilísticos e agentes.
+Use esta lente para mapear o território disciplinar:
 
----
+- [[00 tipos de design/Design de Servicos|Design de Serviços]]
+- [[00 tipos de design/Design de Produto|Design de Produto]]
+- [[00 tipos de design/Design Grafico|Design Gráfico]]
+- [[00 tipos de design/Tipografia|Tipografia]]
+- [[00 tipos de design/Design de Interface|Design de Interface]]
+- [[00 tipos de design/Design de IA|Design de IA]]
 
-## Índices Cruzados
+### Ideias e genealogias
 
-Para navegar e investigar as conexões deste repositório, utilize os índices estruturados:
+Use esta lente para atravessar disciplinas e seguir uma mesma hipótese de design em artefatos diferentes:
 
-- **Por Autor/Designer**: [[00 índices/Indice de Autores|Índice de Autores]]
-- **Por Empresa/Estúdio**: [[00 índices/Indice de Empresas|Índice de Empresas]]
-- **Por Artefato/Marco**: [[00 índices/Indice de Artefatos|Índice de Artefatos]]
-- **Por Conceito/Princípio**: [[00 índices/Indice de Conceitos|Índice de Conceitos]]
-- **Por Variável de Sistema**: [[00 índices/Indice de Variaveis|Índice de Variáveis]]
-- **Livros Recomendados**: [[00 índices/Livros Indicados|Livros Indicados]]
+- [[04 genealogias/Permanencia e Memoria Externa|Permanência e Memória Externa]]
+- [[04 genealogias/Limiares e Delimitacao|Limiares e Delimitação]]
+- [[04 genealogias/Acesso e Disponibilidade|Acesso e Disponibilidade]]
+- [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e Sincronização]]
+- [[04 genealogias/Atencao e Recompensa|Atenção e Recompensa]]
+- [[04 genealogias/Reversibilidade e Custo do Erro|Reversibilidade e Custo do Erro]]
+- [[04 genealogias/Compressao do Esforco|Compressão do Esforço]]
 
----
+### Percursos
 
-## Governança do Vault
+Use esta lente quando quiser ler o acervo como uma sequência editorial:
 
-- [[me|me.md]] — Perfil pessoal e diretrizes operacionais de escrita e IA.
-- [[log|log.md]] — Registro histórico de alterações e novas entradas no vault.
+- [[05 percursos/Como o Design Aprendeu a Guardar|Como o Design Aprendeu a Guardar]]
+- [[05 percursos/Como Projetamos Fronteiras|Como Projetamos Fronteiras]]
+- [[05 percursos/Da Parede ao Feed|Da Parede ao Feed]]
+- [[05 percursos/Da Espera a Sincronizacao|Da Espera à Sincronização]]
+
+## Índices cruzados
+
+- [[00 índices/Indice de Artefatos|Índice de Artefatos]]
+- [[00 índices/Indice de Conceitos|Índice de Conceitos]]
+- [[00 índices/Indice de Variaveis|Índice de Variáveis]]
+- [[00 índices/Indice de Autores|Índice de Autores]]
+- [[00 índices/Indice de Empresas|Índice de Empresas]]
+- [[00 índices/Livros Indicados|Livros Indicados]]
+
+Autores e empresas funcionam como entidades de contexto: ajudam a localizar quem inventou, refinou, popularizou ou padronizou uma ideia, sem ocupar o centro da investigação.
+
+## Governança
+
+- [[me|me.md]]: regras operacionais e de escrita.
+- [[Instrucoes de Arqueologia|Instruções de Arqueologia]]: método investigativo.
+- [[log|log.md]]: histórico de alterações do vault.
