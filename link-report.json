@@ -1,0 +1,342 @@
+{
+  "generatedAt": "2026-09-10T15:21:56.730Z",
+  "brokenLinkCount": 145,
+  "fileCount": 38,
+  "files": [
+    {
+      "sourcePath": "00 índices/Livros Indicados.md",
+      "unresolved": [
+        "autores/Ben Shneiderman\\",
+        "03 artefatos/Atalhos de Teclado\\",
+        "autores/Clayton Christensen\\",
+        "03 artefatos/Jobs to Be Done\\",
+        "autores/Bob Moesta\\",
+        "autores/Horst Rittel\\",
+        "autores/Melvin Webber\\",
+        "03 artefatos/Problema de Design\\",
+        "03 artefatos/Wicked Problem\\",
+        "autores/Steve Krug\\",
+        "03 artefatos/Hero Section\\",
+        "autores/Josef Muller Brockmann\\",
+        "03 artefatos/Grid\\",
+        "autores/Dave Gray\\",
+        "autores/Sunni Brown\\",
+        "autores/James Macanufo\\",
+        "03 artefatos/Workshop\\",
+        "autores/John Kotter\\",
+        "03 artefatos/Projeto Piloto\\",
+        "autores/John Odling-Smee\\",
+        "autores/Kevin Laland\\",
+        "autores/Marcus Feldman\\",
+        "autores/Francis Bacon\\",
+        "03 artefatos/Hipótese Científica\\",
+        "autores/Richard H. Thaler\\",
+        "autores/Cass R. Sunstein\\",
+        "03 artefatos/Calendário\\",
+        "autores/Merlin Donald\\",
+        "03 artefatos/Botao Salvar\\",
+        "autores/Norbert Elias\\",
+        "01 conceitos/Sincronizacao\\",
+        "autores/Loren Brichter\\",
+        "03 artefatos/Pull to Refresh\\",
+        "autores/Hans Barnard\\",
+        "autores/Willeke Wendrich\\",
+        "03 artefatos/Tapete\\",
+        "autores/Atul Gawande\\",
+        "03 artefatos/Checklist\\",
+        "autores/Donald Norman\\",
+        "03 artefatos/Tela de Login\\",
+        "autores/David Kirkpatrick\\",
+        "03 artefatos/Botao Like\\",
+        "autores/Barry Schwartz\\",
+        "03 artefatos/Carrinho de Compras\\",
+        "03 artefatos/Controle Remoto\\",
+        "autores/Herbert Simon\\",
+        "autores/Michel Foucault\\",
+        "me\\",
+        "autores/Alexander Osterwalder\\",
+        "03 artefatos/Value Proposition Ad Lib\\",
+        "autores/Jules Cheret\\",
+        "03 artefatos/Pôster\\",
+        "autores/Henri de Toulouse Lautrec\\",
+        "autores/Alois Senefelder\\",
+        "autores/Alan Klement\\"
+      ]
+    },
+    {
+      "sourcePath": "00 tipos de design/Design de IA.md",
+      "unresolved": [
+        "autores/Joseph Weizenbaum",
+        "empresas/OpenAI"
+      ]
+    },
+    {
+      "sourcePath": "00 tipos de design/Design Grafico.md",
+      "unresolved": [
+        "autores/Paul Rand"
+      ]
+    },
+    {
+      "sourcePath": "01 conceitos/Design Systems.md",
+      "unresolved": [
+        "03 artefatos/Icones do Macintosh"
+      ]
+    },
+    {
+      "sourcePath": "01 conceitos/Esqueuomorfismo.md",
+      "unresolved": [
+        "03 artefatos/Icones do Macintosh"
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Brief.md",
+      "unresolved": [
+        "03 artefatos/escopo",
+        "03 artefatos/termo de abertura"
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Espaço entre Palavras.md",
+      "unresolved": [
+        "autores/Monges Copistas Irlandeses",
+        "01 conceitos/Carga Cognitiva",
+        "01 conceitos/Chunking",
+        "01 conceitos/Gestalt da Proximidade",
+        "01 conceitos/Design da Informação"
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Hipótese Científica.md",
+      "unresolved": [
+        "autores/Galileo Galilei",
+        "autores/Karl Popper"
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Jobs to Be Done.md",
+      "unresolved": [
+        "autores/Anthony Ulwick",
+        "03 artefatos/desafio de inovação",
+        "03 artefatos/questão norteadora",
+        "01 conceitos/Inovação",
+        "01 conceitos/Estratégia",
+        "01 conceitos/Pensamento Funcional",
+        "01 conceitos/Design Centrado no Ser Humano"
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Kanban.md",
+      "unresolved": [
+        "autores/Taiichi Ohno",
+        "03 artefatos/Scrum Board",
+        "03 artefatos/backlog",
+        "03 artefatos/painel de produção"
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Mascote.md",
+      "unresolved": [
+        "empresas/Michelin"
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Matriz RACI.md",
+      "unresolved": [
+        "03 artefatos/Organograma",
+        "03 artefatos/alçadas",
+        "03 artefatos/matriz de decisão"
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/North Star.md",
+      "unresolved": [
+        "03 artefatos/Estratégia"
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Pergunta de Pesquisa.md",
+      "unresolved": [
+        "03 artefatos/questão norteadora",
+        "03 artefatos/problema científico"
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Pergunta.md",
+      "unresolved": [
+        "autores/Sócrates",
+        "03 artefatos/Entrevista",
+        "03 artefatos/mentoria",
+        "03 artefatos/coaching",
+        "03 artefatos/terapia",
+        "03 artefatos/pesquisa qualitativa",
+        "03 artefatos/diálogo socrático"
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Portfólio.md",
+      "unresolved": [
+        "03 artefatos/GitHub",
+        "03 artefatos/currículo",
+        "03 artefatos/diário de projeto",
+        "03 artefatos/histórico de versões"
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Princípio.md",
+      "unresolved": [
+        "03 artefatos/Valores",
+        "03 artefatos/credo organizacional",
+        "03 artefatos/constituição"
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Problema de Design.md",
+      "unresolved": [
+        "03 artefatos/pesquisa",
+        "03 artefatos/design thinking"
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Prompt Conversacional.md",
+      "unresolved": [
+        "empresas/OpenAI"
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Retrospectiva.md",
+      "unresolved": [
+        "03 artefatos/After Action Review",
+        "03 artefatos/debriefing",
+        "03 artefatos/supervisão",
+        "03 artefatos/diário"
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Tela de Login.md",
+      "unresolved": [
+        "autores/Fernando Corbato"
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Visão.md",
+      "unresolved": [
+        "autores/Peter Drucker",
+        "autores/Warren Bennis",
+        "03 artefatos/missão",
+        "03 artefatos/estratégia"
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Workshop.md",
+      "unresolved": [
+        "03 artefatos/Oficina",
+        "03 artefatos/co-design",
+        "03 artefatos/design sprint",
+        "03 artefatos/assembleia",
+        "03 artefatos/world café"
+      ]
+    },
+    {
+      "sourcePath": "autores/Dieter Rams.md",
+      "unresolved": [
+        "03 artefatos/Braun SK 4 Phonosuper"
+      ]
+    },
+    {
+      "sourcePath": "autores/Douglas Engelbart.md",
+      "unresolved": [
+        "03 artefatos/Mouse Computacional"
+      ]
+    },
+    {
+      "sourcePath": "autores/G Lynn Shostack.md",
+      "unresolved": [
+        "03 artefatos/Service Blueprint"
+      ]
+    },
+    {
+      "sourcePath": "autores/Loren Brichter.md",
+      "unresolved": [
+        "03 artefatos/Tweetie"
+      ]
+    },
+    {
+      "sourcePath": "autores/Peter Behrens.md",
+      "unresolved": [
+        "03 artefatos/Chaleiras Eletricas de Peter Behrens",
+        "03 artefatos/Fabrica de Turbinas da AEG",
+        "03 artefatos/Ventilador de Mesa da AEG"
+      ]
+    },
+    {
+      "sourcePath": "autores/Susan Kare.md",
+      "unresolved": [
+        "03 artefatos/Icones do Macintosh"
+      ]
+    },
+    {
+      "sourcePath": "empresas/AEG.md",
+      "unresolved": [
+        "03 artefatos/Chaleiras Eletricas de Peter Behrens",
+        "03 artefatos/Fabrica de Turbinas da AEG",
+        "03 artefatos/Ventilador de Mesa da AEG"
+      ]
+    },
+    {
+      "sourcePath": "empresas/Braun.md",
+      "unresolved": [
+        "03 artefatos/Braun SK 4 Phonosuper",
+        "03 artefatos/Braun ET66"
+      ]
+    },
+    {
+      "sourcePath": "empresas/Chermayeff and Geismar.md",
+      "unresolved": [
+        "03 artefatos/Logo do Chase Manhattan Bank",
+        "03 artefatos/Logo da Mobil",
+        "03 artefatos/Logo do PBS",
+        "03 artefatos/Redesenho do Pavao da NBC"
+      ]
+    },
+    {
+      "sourcePath": "empresas/Engine.md",
+      "unresolved": [
+        "03 artefatos/Transformacao do Servico Virgin Atlantic",
+        "03 artefatos/Inovacao no NHS"
+      ]
+    },
+    {
+      "sourcePath": "empresas/Haas Type Foundry.md",
+      "unresolved": [
+        "03 artefatos/Clarendon"
+      ]
+    },
+    {
+      "sourcePath": "empresas/Linotype.md",
+      "unresolved": [
+        "03 artefatos/Maquina Linotype"
+      ]
+    },
+    {
+      "sourcePath": "empresas/Livework.md",
+      "unresolved": [
+        "03 artefatos/Redesenho do Servico Streetcar",
+        "03 artefatos/Blueprints de Servicos Digitais TfL"
+      ]
+    },
+    {
+      "sourcePath": "empresas/Pentagram.md",
+      "unresolved": [
+        "03 artefatos/Identidade da Mastercard",
+        "03 artefatos/Tocha Olimpica de Londres 2012",
+        "03 artefatos/Identidade do The Public Theater"
+      ]
+    },
+    {
+      "sourcePath": "empresas/Xerox PARC.md",
+      "unresolved": [
+        "03 artefatos/Xerox Alto GUI"
+      ]
+    }
+  ]
+}
