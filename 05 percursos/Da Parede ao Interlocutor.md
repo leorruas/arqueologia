@@ -11,108 +11,86 @@ tags:
 
 Este percurso acompanha uma mudança pequena na aparência e enorme no comportamento: **como superfícies projetadas passaram de lugares onde recebemos mensagens a lugares dos quais esperamos respostas?**
 
-Não é uma genealogia técnica. O chatbot não descende do pôster e a interface conversacional não é consequência do projetor. O percurso compara hipóteses de design que, em épocas e meios diferentes, transformaram superfícies em mediadoras entre pessoas e sistemas ausentes.
+Não é uma genealogia técnica. O chatbot não descende do pôster e a interface conversacional não é consequência do projetor. A ordem é editorial: ela aproxima hipóteses de design que, em épocas e meios diferentes, transformaram superfícies em mediadoras entre pessoas e sistemas ausentes.
 
-## 1. [[03 artefatos/Pôster|Pôster]] — a superfície fala
+## Primeiro a superfície aprendeu a falar na ausência
 
-O pôster separa mensagem e emissor. Uma pessoa pode encontrar uma convocação, propaganda, imagem ou anúncio sem que quem produziu a mensagem esteja presente.
+O [[03 artefatos/Pôster|pôster]] separa mensagem e emissor. Uma pessoa pode encontrar uma convocação, propaganda, imagem ou anúncio sem que quem produziu a mensagem esteja presente.
 
-A operação parece banal hoje porque foi naturalizada: uma parede pode “falar”. Ela pode informar sobre algo que não está ali e sobre algo que ainda nem aconteceu. O show será amanhã; a exposição está em outro edifício; o candidato não está diante do observador. A superfície torna o ausente imaginável.
+A operação parece banal hoje porque foi naturalizada: uma parede pode “falar”. Ela informa sobre algo que não está ali e até sobre algo que ainda não aconteceu. O show será amanhã; a exposição está em outro edifício; o candidato não está diante do observador. A superfície torna o ausente imaginável.
 
-O pôster também enquadra. Ele não contém o acontecimento inteiro. Seleciona imagem, palavra, cor, hierarquia e escala suficientes para orientar uma interpretação. Sua utilidade depende dessa compressão.
+Isso exige enquadramento. O pôster não contém o acontecimento inteiro. Seleciona imagem, palavra, cor, hierarquia e escala suficientes para orientar uma interpretação. Sua utilidade depende de compressão: um universo maior precisa caber em sinais que funcionem sem explicação presencial.
 
-## 2. [[03 artefatos/Projetor|Projetor]] — a superfície muda
+A [[03 artefatos/Hero Section|Hero section]] reaproveita funcionalmente parte desse trabalho em outro ambiente. Também enquadra e hierarquiza o que merece aparecer primeiro, mas já encontra alguém que escolheu chegar à página. O problema começa a migrar de “como interromper?” para “como orientar uma atenção já concedida?”.
 
-A projeção radicaliza outra propriedade: a mensagem pode mudar sem que o suporte material precise mudar junto.
+O [[03 artefatos/Projetor|projetor]] transforma outra propriedade da superfície: a mensagem pode mudar sem que o suporte material precise mudar junto. Uma parede deixa de carregar apenas inscrições aderidas e passa a receber aparições condicionadas. A imagem existe enquanto determinadas condições técnicas permanecem presentes.
 
-Uma parede deixa de carregar apenas inscrições aderidas a ela e passa a receber aparições condicionadas. A imagem existe enquanto determinadas condições técnicas permanecem presentes.
+A diferença para a memória é significativa: **o pôster envelhece; a projeção cessa**. Um pode deixar ruína, papel e cola; a outra pode desaparecer sem cicatriz material. A superfície começa a se separar cada vez mais da mensagem que apresenta.
 
-Isso introduz uma diferença importante para a memória: **o pôster envelhece; a projeção cessa**. Um pode deixar ruína, papel e cola; a outra pode desaparecer sem cicatriz material.
+## Depois a superfície passou a reagir
 
-A superfície torna-se mais independente da mensagem que apresenta.
+Com a computação interativa, uma mudança mais radical acontece: a ação do usuário passa a alterar aquilo que a superfície mostra.
 
-## 3. Interface computacional — a superfície reage
+Clicar, arrastar, digitar, selecionar ou tocar não são apenas maneiras de pedir outra mensagem. São ações sobre um sistema invisível representado pela tela. A superfície deixa de ser somente suporte de leitura e se torna lugar de operação.
 
-Com a computação interativa, a superfície deixa de apenas apresentar estados definidos anteriormente. A ação do usuário passa a alterar o que aparece.
+O [[03 artefatos/Cursor|Cursor]] é um artefato pequeno que torna essa transformação quase visível em estado puro. Ele mostra onde a ação seguinte pode acontecer e faz o foco interno da máquina parecer ocupar um lugar compartilhado com o usuário. A interface ensina que aquilo que vemos pode responder ao nosso gesto.
 
-Clicar, arrastar, digitar, selecionar ou tocar produz respostas. A tela não é mais apenas suporte de leitura; torna-se lugar de ação sobre um sistema invisível.
+Essa mudança produz um novo comportamento cultural: não basta interpretar a superfície. Passamos a **testá-la**. Elementos visuais começam a ser julgados também pela expectativa de resposta que criam. Algo com aparência de botão que não reage parece quebrado porque aprendemos que determinadas formas prometem comportamento.
 
-Essa transformação ensina outro comportamento: não basta olhar para a superfície. Podemos **operá-la**.
+A superfície que falava na ausência de alguém passa a representar um sistema capaz de reagir em presença do usuário.
 
-## 4. Interface conversacional — a superfície responde
+## Quando reagir começa a parecer escutar
 
-A interface conversacional desloca novamente a expectativa. Em vez de aprender apenas um conjunto de controles, o usuário pode formular intenções em linguagem.
+A [[03 artefatos/Prompt Conversacional|interface conversacional]] desloca novamente a expectativa. Em vez de aprender apenas um conjunto de controles, o usuário pode formular intenções em linguagem. Com modelos generativos, a resposta seguinte pode não existir como tela ou mensagem previamente escrita.
 
-Com modelos generativos, a resposta pode não estar previamente escrita como uma tela ou mensagem específica. Isso faz a superfície parecer menos como painel e mais como interlocutor.
+Isso faz a superfície parecer menos painel e mais interlocutor.
 
-Aqui aparece uma conexão com [[03 artefatos/Mascote|Mascote]]. O design já sabia há muito tempo dar rosto, voz e personalidade a entidades abstratas. A IA acrescenta uma diferença: a entidade não apenas performa uma personalidade previamente desenhada; pode produzir novas respostas durante a interação.
+Aqui aparece uma conexão importante com o [[03 artefatos/Mascote|Mascote]]. O design já sabia dar rosto, voz e personalidade a entidades abstratas. A IA acrescenta uma diferença: a entidade não apenas performa uma personalidade previamente roteirizada; pode produzir respostas novas durante a interação. A superfície que parecia falar passa a parecer também capaz de escutar e improvisar.
 
-A superfície que falava passa a parecer capaz de escutar.
+É nesse ponto que a comparação provocativa entre pôster e prompt ganha força: **o pôster é um prompt para o humano; o prompt é um pôster para a máquina.**
 
-## O pôster como prompt para o humano
+A equivalência não é histórica nem literal. O pôster organiza sinais para orientar percepção, interpretação e possivelmente comportamento de uma pessoa. O prompt organiza sinais para orientar a produção de uma resposta por um sistema computacional. Nos dois casos, existe uma operação de enquadramento: o que entra na composição altera o que pode acontecer depois; o que fica de fora também importa.
 
-Há uma comparação deliberadamente provocativa entre pôster e prompt.
+Isso aproxima a história do [[00 tipos de design/Design Grafico|design gráfico]] da interação com IA por um caminho menos óbvio. Composição nunca foi apenas decoração. Diagramar é construir condições de interpretação.
 
-**O pôster é um prompt para o humano; o prompt é um pôster para a máquina.**
+## Quanto mais simples parece a superfície, mais coisa desaparece atrás dela
 
-A equivalência não é literal. O pôster organiza sinais para orientar percepção, interpretação e possivelmente comportamento de uma pessoa. O prompt organiza sinais para orientar a produção de uma resposta por um sistema computacional.
+Pôster, interface gráfica e resposta conversacional compartilham uma operação: tornam sistemas maiores utilizáveis justamente ao esconder grande parte deles.
 
-Nos dois casos, existe uma operação de enquadramento: um universo muito maior precisa ser comprimido numa composição limitada. O que entra altera o que pode acontecer depois; o que fica de fora também importa.
+O pôster não mostra toda a exposição. A interface não mostra todo o software. Uma resposta de IA não mostra o modelo, as fontes, a infraestrutura nem necessariamente as incertezas que participaram de sua produção.
 
-Isso aproxima a história do design gráfico da interação com IA por um caminho menos óbvio. Composição nunca foi apenas decoração. Diagramar é construir condições de interpretação.
+Essa compressão é necessária para agir. Mas cria um risco recorrente: confundir a superfície com aquilo que ela representa. A pergunta arqueológica deixa então de ser apenas “o que esta interface mostra?” e passa a ser **“o que precisou desaparecer para que esta interação parecesse simples?”**
 
-## A opacidade cresce junto com a facilidade
+A autoridade também participa disso. Design gráfico aprendeu há muito tempo a produzir urgência, legitimidade, desejo ou solenidade por meio de hierarquia, escala, tipografia, composição e repetição. Respostas digitais também chegam diagramadas. Fluência verbal, parágrafos organizados, títulos e tipografia limpa podem fazer uma resposta parecer coerente antes que sua veracidade seja examinada.
 
-Essas superfícies têm outra característica em comum: tornam sistemas complexos acessíveis justamente ao esconder grande parte deles.
+A interface não determina se uma afirmação é verdadeira. Mas participa da maneira como sua autoridade é percebida. Por isso, [[00 tipos de design/Design de IA|Design de IA]] não é apenas projetar como alguém pergunta; é também projetar **como uma resposta parece saber**.
 
-O pôster não mostra toda a exposição. A interface não mostra todo o software. Uma resposta de IA não mostra o modelo, os dados, a infraestrutura nem necessariamente as incertezas que participaram de sua produção.
+O problema cresce quando a superfície começa a agir sobre outras infraestruturas. Quanto mais trabalho o sistema realiza por trás de uma instrução simples, maior pode ser a distância entre o gesto percebido e a cadeia real de decisões que ele dispara.
 
-Essa compressão é necessária para uso. Mas cria um risco: confundir a superfície com aquilo que ela representa.
+## A nova expectativa talvez seja poder interrogar qualquer coisa
 
-A pergunta arqueológica passa então de “o que esta interface mostra?” para **“o que precisou desaparecer para que esta interação parecesse simples?”**
+A mudança mais recente não está apenas no chatbot. Sistemas conversacionais começam a ensinar que qualquer superfície informacional pode ser interrogada.
 
-## A autoridade também é diagramada
+Um documento deixa de ser apenas algo que lemos e passa a ser algo a que fazemos perguntas. O mesmo pode acontecer com planilhas, imagens, arquivos, mapas e [[03 artefatos/Banco de dados|bancos de dados]]. A [[03 artefatos/LLM Wiki|LLM Wiki]] leva essa expectativa para uma memória persistente: perguntas não produzem apenas respostas efêmeras; podem contribuir para uma camada de síntese que volta a participar de consultas futuras.
 
-O design gráfico oferece ainda uma chave para compreender interfaces de IA. Pôsteres aprenderam há muito tempo a produzir urgência, legitimidade, desejo ou solenidade por meio de hierarquia, escala, tipografia, composição e repetição.
+Isso altera a relação entre conhecimento e navegação. Catálogos, menus, índices, buscas e arquiteturas de informação pressupõem que o usuário percorra alguma estrutura. A conversa promete que o sistema percorra essa estrutura por ele.
 
-Respostas digitais também chegam diagramadas. Fluência verbal, parágrafos organizados, títulos, listas e tipografia limpa podem fazer uma resposta parecer coerente e segura antes que sua veracidade tenha sido examinada.
+O custo reduzido pode ser navegação. O custo deslocado pode ser **compreensão da própria estrutura do conhecimento disponível**. Se eu recebo uma síntese sem percorrer categorias, documentos ou relações, posso chegar mais rápido ao resultado e saber menos sobre o território que tornou aquele resultado possível.
 
-A interface não determina se uma afirmação é verdadeira. Mas participa da maneira como sua autoridade é percebida.
+Essa tensão conecta este percurso a [[01 conceitos/Compressao do Esforco|compressão do esforço]] e [[01 conceitos/Redução de Inferências|redução de inferências]]. O design torna mais barato chegar a uma interpretação, mas precisa decidir quanto da estrutura intermediária ainda deve permanecer visível para que o usuário consiga julgá-la.
 
-Por isso, design de IA não é apenas projetar como alguém pergunta. É também projetar **como uma resposta parece saber**.
+## O que aparece quando lemos em sequência
 
-## A expectativa nova: superfícies interrogáveis
+A transformação pode ser resumida assim:
 
-Talvez a mudança mais importante ainda esteja acontecendo.
+**superfície que fala → superfície cuja mensagem muda → superfície que reage → superfície que parece escutar → superfície que pode percorrer informação por nós.**
 
-O pôster ensinou a interpretar superfícies como fontes de informação. Interfaces ensinaram a agir sobre superfícies. Sistemas conversacionais começam a ensinar que praticamente qualquer superfície informacional pode ser interrogada.
+Em cada movimento, uma parte maior da relação com o sistema é transferida para a superfície. E em cada movimento aumenta a possibilidade de esquecer que a superfície continua sendo mediação.
 
-Um documento deixa de ser apenas algo que lemos e passa a ser algo a que fazemos perguntas. O mesmo pode ocorrer com planilhas, imagens, arquivos, bancos de dados, mapas e sistemas institucionais.
+Humanos já interpretavam sinais, faziam perguntas, atribuíam agência e conversavam. O design não precisou inventar essas capacidades. Tornou progressivamente mais barato dirigi-las a sistemas técnicos.
 
-Isso pode criar uma nova expectativa cultural: **se existe informação ali, por que eu deveria procurar manualmente em vez de perguntar?**
+É isso que liga este percurso a [[05 percursos/Da Parede ao Feed|Da parede ao feed]]. Um acompanha o que acontece quando a superfície aprende a observar nossa atenção; o outro, o que acontece quando aprendemos a esperar que a superfície nos responda.
 
-A mudança parece operacional, mas altera a relação entre conhecimento e navegação. Catálogos, menus, índices, buscas e arquiteturas de informação pressupõem que o usuário percorra uma estrutura. A conversa promete que o sistema percorra essa estrutura por ele.
+A questão que permanece é: **o que acontece quando deixamos de perceber uma superfície como representação de um sistema e começamos a tratá-la como o próprio sujeito que sabe, escuta e age?**
 
-O custo reduzido é navegação. O custo potencialmente deslocado é compreensão da própria estrutura do conhecimento disponível.
-
-## O fio que une o percurso
-
-A sequência pode ser resumida assim:
-
-**parede que fala → superfície que muda → superfície que reage → superfície que responde.**
-
-Em cada etapa, uma parte maior da relação com o sistema é transferida para a superfície. E em cada etapa aumenta a possibilidade de esquecer que a superfície é apenas uma mediação.
-
-O princípio recorrente é semelhante ao encontrado em outros estudos deste projeto: bons sistemas raramente inventam do zero um comportamento humano. Eles capturam uma capacidade já existente e reduzem seu custo. Humanos já interpretavam sinais, faziam perguntas, atribuíam agência e conversavam. O design torna progressivamente mais barato dirigir esses comportamentos a sistemas técnicos.
-
-A questão que permanece é: **o que acontece quando deixamos de perceber uma superfície como representação de um sistema e começamos a tratá-la como o próprio sujeito com quem estamos falando?**
-
-## Conexões
-
-- [[03 artefatos/Pôster|Pôster]] — superfície que torna o ausente presente.
-- [[03 artefatos/Projetor|Projetor]] — superfície cuja mensagem pode mudar sem mudança material equivalente.
-- [[03 artefatos/Mascote|Mascote]] — entidade abstrata transformada em presença social.
-- [[03 artefatos/Hero Section|Hero Section]] — enquadramento inicial de uma experiência futura.
-- [[01 conceitos/Peles Temporarias da Arquitetura|Peles temporárias da arquitetura]] — ritmos diferentes entre suporte e significado.
-- [[04 genealogias/Compressao do Esforco|Compressão do esforço]] — redução do custo de operar sistemas complexos.
-- [[05 percursos/Da Parede ao Feed|Da parede ao feed]] — percurso paralelo sobre captura e prolongamento da atenção.
+Continue em [[04 genealogias/Compressao do Esforco|Compressão do esforço]], [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] e [[01 conceitos/Peles Temporarias da Arquitetura|Peles temporárias da arquitetura]].
