@@ -81,7 +81,7 @@ Talvez a pergunta seja um dos artefatos mais antigos que permanecem centrais jus
 | **Relação de poder** | Pode distribuir autonomia de pensamento, mas quem formula a pergunta também delimita parcialmente o espaço de resposta |
 | **Custo invisível** | Desconforto da incerteza, vieses de formulação e possibilidade de manipulação por perguntas capciosas |
 | **Conceitos relacionados** | [[01 conceitos/Investigacao|Investigação]], [[01 conceitos/Autodeterminacao|Autodeterminação]], [[01 conceitos/Intencao|Intenção]] |
-| **Genealogias** | [[04 genealogias/Formulacao e Direcao|Formulação e direção]] |
+| **Genealogias** | Formulação e direção |
 | **Parentes** | [[03 artefatos/Pergunta de Pesquisa|Pergunta de pesquisa]], [[03 artefatos/Problema de Design|Problema de design]], entrevista, mentoria, terapia, diálogo socrático |
 | **Questão em aberto** | Em ambientes com respostas quase instantâneas, a capacidade de formular perguntas passa a valer mais do que a capacidade de recuperar respostas? |
 

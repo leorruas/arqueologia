@@ -11,6 +11,6 @@ Este arquivo reúne referências que apareceram no vault, mas ainda não possuem
 
 A presença aqui não obriga a criação de uma nota. Cada pista deve ser avaliada pelo valor que acrescenta à rede de ideias.
 
-## Autores
+## Outras pistas
 
-- **Taiichi Ohno**: citado em `03 artefatos/Kanban.md`
+- **Formulacao e Direcao**: citado em `03 artefatos/Pergunta.md`
