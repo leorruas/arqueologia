@@ -63,7 +63,7 @@ Uma expressão recorrente pode sugerir uma nova hipótese. Uma exceção pode re
 
 Nesse sentido, ela pertence à [[01 conceitos/Investigação|Investigação]] e à [[01 conceitos/Formulacao|Formulação]]. Seu resultado não é apenas evidência sobre o que já perguntávamos; pode alterar a própria forma de fazer a pergunta.
 
-Por isso, entrevista e [[03 artefatos/Pesquisa Quantitativa|pesquisa quantitativa]] não são versões “profunda” e “superficial” da mesma coisa. Elas resolvem problemas diferentes.
+Por isso, entrevista e pesquisa quantitativa não são versões “profunda” e “superficial” da mesma coisa. Elas resolvem problemas diferentes.
 
 Entrevistas são particularmente fortes para descobrir categorias, mecanismos, linguagem e variação inesperada. Pesquisa quantitativa é mais adequada quando precisamos estimar distribuição, comparar grupos ou medir relações sob um instrumento mais padronizado.
 
@@ -104,7 +104,7 @@ O artefato funciona melhor quando sua abertura não é confundida com neutralida
 | **Conceitos relacionados** | [[01 conceitos/Investigação|Investigação]], [[01 conceitos/Formulacao|Formulação]], [[01 conceitos/Justificabilidade|Justificabilidade]], [[01 conceitos/Memoria Distribuida|Memória distribuída]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Atrito Decisorio|Atrito decisório]] |
 | **Genealogia** | Artefatos de investigação e externalização da experiência |
-| **Parentes** | [[03 artefatos/Pergunta de Pesquisa|Pergunta de pesquisa]], [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Customer Journey Map|Customer Journey Map]], [[03 artefatos/Pesquisa Quantitativa|Pesquisa quantitativa]], diário e observação etnográfica |
+| **Parentes** | [[03 artefatos/Pergunta de Pesquisa|Pergunta de pesquisa]], [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Customer Journey Map|Customer Journey Map]], Pesquisa quantitativa, diário e observação etnográfica |
 | **Princípio de design revelado** | Pesquisa qualitativa é poderosa quando permite que a evidência altere as categorias da investigação, não apenas preencha categorias previamente definidas |
 | **Questão em aberto** | Como preservar abertura e descoberta quando ferramentas de IA tornam cada vez mais fácil padronizar, transcrever e sintetizar entrevistas automaticamente? |
 

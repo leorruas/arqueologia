@@ -13,6 +13,4 @@ A presença aqui não obriga a criação de uma nota. Cada pista deve ser avalia
 
 ## Artefatos
 
-- **Entrevista Qualitativa**: citado em `03 artefatos/Customer Journey Map.md`
-- **Pesquisa Quantitativa**: citado em `03 artefatos/Customer Journey Map.md`
-- **Storyboards**: citado em `03 artefatos/Customer Journey Map.md`
+- **Pesquisa Quantitativa**: citado em `03 artefatos/Entrevista Qualitativa.md`
