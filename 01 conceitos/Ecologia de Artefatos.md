@@ -1,6 +1,9 @@
 ---
 title: "Ecologia de artefatos"
 type: "conceito"
+status: "publicado"
+origem: "hipótese-do-projeto"
+grau: "experimental"
 tags:
   - design/conceito
   - arqueologia
@@ -8,44 +11,70 @@ tags:
 
 # Ecologia de artefatos
 
-O conceito de **Ecologia de Artefatos** (ou Ciclo Evolutivo de Transformação) estabelece que intervenções em serviços, organizações e sistemas complexos raramente produzem transformações duradouras por meio de ferramentas ou workshops isolados. Em vez disso, os artefatos operam como uma cadeia ecológica encadeada, em que cada objeto ou documento reorganiza um recurso invisível específico (como conhecimento, significado, futuro, risco, confiança, esforço coletivo, continuidade e aprendizagem) e cria as condições necessárias para o surgimento e a sustentação do artefato seguinte.
+Um workshop isolado raramente transforma uma organização. Um dashboard sozinho também não. O que parece produzir continuidade é a capacidade de diferentes artefatos **passarem estado uns aos outros**: uma investigação formula um problema; uma formulação permite testar; um teste produz evidência; uma decisão vira processo; o processo gera dados que reabrem a investigação.
 
-## As famílias de artefatos e os recursos invisíveis
+Chamamos essa hipótese de **ecologia de artefatos**. Ela propõe observar documentos, interfaces, rituais e ferramentas não como soluções independentes, mas como componentes que reorganizam recursos invisíveis — conhecimento, significado, risco, legitimidade, coordenação, continuidade e aprendizagem — e podem criar condições para outros artefatos entrarem em ação.
 
-A ecologia de transformação organiza os artefatos em oito famílias funcionais sequenciais:
+Não é uma teoria estabelecida nem uma sequência universal de mudança organizacional. É um mapa de investigação do projeto.
 
-1. **Artefatos de Investigação**: Transformam desconhecimento em compreensão (ex: [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Pergunta de Pesquisa|Pergunta de Pesquisa]]). Reorganizam o recurso invisível do *conhecimento*.
-2. **Artefatos de Formulação**: Transformam problemas difusos em problemas discutíveis (ex: [[03 artefatos/Value Proposition Ad Lib|Value Proposition Ad Lib]], [[03 artefatos/Brief|Brief]], [[03 artefatos/Wicked Problem|Wicked Problem]], [[03 artefatos/North Star|North Star]]). Reorganizam o recurso invisível do *significado*.
-3. **Artefatos de Imaginação**: Transformam futuros abstratos em cenários e narrativas compreensíveis (ex: [[03 artefatos/Visão|Visão]], Personas, Storyboards). Reorganizam o recurso invisível do *futuro*.
-4. **Artefatos de Experimentação**: Transformam ideias em experiências testáveis de baixo custo (ex: [[03 artefatos/Projeto Piloto|Projeto Piloto]], Protótipos, Simulações). Reorganizam o recurso invisível do *risco*.
-5. **Artefatos de Legitimação**: Transformam preferências e intuições em decisões justificáveis e transparentes (ex: [[03 artefatos/Justificativa de Valor Público|Justificativa de Valor Público]], Business Case, Notas Técnicas). Reorganizam o recurso invisível da *confiança / legitimidade*.
-6. **Artefatos de Coordenação**: Transformam indivíduos em ação coletiva sincronizada (ex: [[03 artefatos/Kanban|Kanban]], [[03 artefatos/Matriz RACI|Matriz RACI]], Cronogramas). Reorganizam o recurso invisível do *esforço coletivo*.
-7. **Artefatos de Institucionalização**: Transformam experimentos em rotinas permanentes e independentes de indivíduos (ex: [[03 artefatos/Checklist|Checklist]], [[03 artefatos/Carimbo|Carimbo]], [[03 artefatos/Número de Protocolo|Número de Protocolo]], POPs, Manuais). Reorganizam o recurso invisível da *continuidade*.
-8. **Artefatos de Avaliação**: Transformam resultados operacionais em aprendizagem sistêmica (ex: [[03 artefatos/Retrospectiva|Retrospectiva]], Dashboards, Indicadores). Reorganizam o recurso invisível da *aprendizagem*.
+## O valor de um artefato pode aparecer no artefato seguinte
 
-## Aplicação nos artefatos
+Um [[03 artefatos/Jobs to Be Done|Jobs to Be Done]] pode produzir uma formulação suficientemente aberta para orientar um [[03 artefatos/Value Proposition Ad Lib|Value Proposition Ad Lib]]. Este pode tornar premissas explícitas o bastante para um [[03 artefatos/Projeto Piloto|Projeto piloto]] ser desenhado. O piloto pode produzir evidências que alimentam uma decisão de continuidade, revisão ou abandono.
 
-Este conceito permite compreender como artefatos aparentemente heterogêneos alimentam-se mutuamente em ciclos contínuos:
-- Um [[03 artefatos/Jobs to Be Done|Jobs to Be Done]] (Investigação) gera um [[03 artefatos/Value Proposition Ad Lib|Value Proposition Ad Lib]] (Formulação).
-- A proposta de valor gera um [[03 artefatos/Projeto Piloto|Projeto Piloto]] (Experimentação).
-- O piloto gera uma [[03 artefatos/Justificativa de Valor Público|Justificativa de Valor Público]] (Legitimação).
-- A justificativa viabiliza um [[03 artefatos/Kanban|Kanban]] de implementação (Coordenação).
-- A implementação consolida-se em um [[03 artefatos/Checklist|Checklist]] operacional (Institucionalização).
-- Os dados operacionais alimentam uma [[03 artefatos/Retrospectiva|Retrospectiva]] (Avaliação), que por sua vez gera novas perguntas de investigação.
+O ponto não é afirmar que projetos devem seguir exatamente essa cadeia. É mostrar que a utilidade de uma ferramenta pode estar menos no documento final e mais no **estado que ela entrega ao próximo processo**.
 
-## Variáveis relacionadas
+Isso altera a pergunta de avaliação. Em vez de “o workshop foi bom?”, podemos perguntar: “o que ficou disponível depois dele que não estava disponível antes?”.
 
-Este conceito impacta diretamente e interliga as seguintes variáveis:
-- [[02 variaveis/Custo Transacional|Custo Transacional]]
-- [[02 variaveis/Legitimidade Decisoria|Legitimidade Decisória]]
-- [[02 variaveis/Friccao|Fricção]]
-- [[02 variaveis/Atrito Decisorio|Atrito Decisório]]
+## Oito famílias como mapa provisório
 
----
+A versão anterior organizava a ecologia em oito famílias. Vale preservá-las como taxonomia experimental, não como estágios obrigatórios:
 
-### Ficha resumo do conceito
+1. **Investigação** transforma desconhecimento em material interrogável, como [[03 artefatos/Pergunta de Pesquisa|Pergunta de pesquisa]] e JTBD.
+2. **Formulação** transforma situações difusas em problemas e hipóteses discutíveis, como Brief e Value Proposition Ad Lib.
+3. **Imaginação** torna futuros possíveis compartilháveis, como [[03 artefatos/Visão|Visão]], personas e storyboards.
+4. **Experimentação** cria estados provisórios de baixo compromisso, como [[03 artefatos/Projeto Piloto|Projeto piloto]] e protótipos.
+5. **Legitimação** torna razões e critérios examináveis, como [[03 artefatos/Justificativa de Valor Público|Justificativa de valor público]], business cases e notas técnicas.
+6. **Coordenação** distribui trabalho e dependências, como [[03 artefatos/Kanban|Kanban]] e [[03 artefatos/Matriz RACI|Matriz RACI]].
+7. **Institucionalização** ajuda práticas a sobreviver às pessoas que as iniciaram, como [[03 artefatos/Checklist|Checklist]], [[03 artefatos/Carimbo|Carimbo]] e [[03 artefatos/Numero de Protocolo|Número de protocolo]].
+8. **Avaliação** transforma resultado e experiência em material para revisão, como [[03 artefatos/Retrospectiva|Retrospectiva]], indicadores e dashboards.
 
-- **Nome do conceito**: Ecologia de Artefatos
-- **Área principal**: Design de Serviços / Teoria da Mudança Organizacional / Arqueologia do Design
-- **Definição**: Modelo teórico que compreende ferramentas e documentos de design como elementos de um ecossistema vivo, em que cada artefato reorganiza um recurso invisível e cria as condições ambientais para a fase seguinte da transformação.
-- **Artefatos chave explicados**: [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Value Proposition Ad Lib|Value Proposition Ad Lib]], [[03 artefatos/Projeto Piloto|Projeto Piloto]], [[03 artefatos/Justificativa de Valor Público|Justificativa de Valor Público]], [[03 artefatos/Kanban|Kanban]], [[03 artefatos/Checklist|Checklist]], [[03 artefatos/Retrospectiva|Retrospectiva]]
+Um mesmo artefato pode ocupar mais de uma família, e a ordem pode inverter, repetir ou saltar etapas.
+
+## Ecologia não significa harmonia
+
+A metáfora ecológica é útil justamente porque elementos podem apoiar, competir ou bloquear uns aos outros.
+
+Um excelente piloto pode morrer porque não existe artefato de legitimação capaz de transformar aprendizado em decisão. Um checklist pode institucionalizar uma prática antes que ela tenha sido adequadamente testada. Um dashboard pode produzir métricas sem qualquer ritual capaz de convertê-las em aprendizagem.
+
+A ausência de conexão importa tanto quanto a presença de ferramentas.
+
+Isso aproxima o conceito de [[02 variaveis/Custo Transacional|Custo transacional]] e [[02 variaveis/Legitimidade Decisoria|Legitimidade decisória]]. Toda passagem de estado entre artefatos exige tradução, responsabilidade e algum mecanismo de continuidade.
+
+## O perigo da cadeia bonita
+
+Há um risco metodológico claro: olhar retrospectivamente para um projeto bem-sucedido e organizar seus artefatos numa sequência coerente demais. Organizações reais têm improviso, conflito, regressão e decisões sem documentação.
+
+Por isso, a ecologia deve ser usada para procurar **falhas de acoplamento**, e não para encaixar tudo numa narrativa limpa.
+
+A hipótese fica mais forte quando consegue explicar por que uma intervenção não se sustentou. Talvez faltasse investigação. Talvez a decisão nunca tenha adquirido legitimidade. Talvez ninguém tenha transformado experimento em rotina. Talvez a rotina tenha sobrevivido sem avaliação.
+
+O conceito serve, então, para investigar transformação como rede de dependências, não como coleção de ferramentas famosas.
+
+## Ficha do conceito
+
+| Campo | Registro |
+|---|---|
+| **Conceito** | Ecologia de artefatos |
+| **Origem** | Hipótese do projeto |
+| **Grau de consolidação** | Experimental |
+| **Formulação associada a** | Arqueologia do Design |
+| **Área principal** | Design de serviços / mudança organizacional / teoria do design |
+| **Distinção central** | O valor de um artefato pode estar no estado que ele torna disponível para outros artefatos |
+| **O que ajuda a explicar** | Continuidade, falhas de acoplamento e dependências entre investigação, decisão, coordenação, institucionalização e aprendizagem |
+| **O que não explica sozinho** | Uma sequência universal de transformação ou causalidade automática entre ferramentas |
+| **Artefatos-chave** | [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Value Proposition Ad Lib|Value Proposition Ad Lib]], [[03 artefatos/Projeto Piloto|Projeto piloto]], [[03 artefatos/Kanban|Kanban]], [[03 artefatos/Checklist|Checklist]], [[03 artefatos/Retrospectiva|Retrospectiva]] |
+| **Variáveis relacionadas** | [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Legitimidade Decisoria|Legitimidade decisória]], [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Atrito Decisorio|Atrito decisório]] |
+
+## Referências
+
+Esta é uma hipótese da Arqueologia do Design. Futuras revisões devem confrontá-la com teoria da mudança, estudos organizacionais, actor-network theory, ecologias de artefatos e literatura de design de serviços, procurando também casos que contrariem a ideia de encadeamento.
