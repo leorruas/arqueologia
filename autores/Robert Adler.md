@@ -8,25 +8,27 @@ tags:
 
 # Robert Adler
 
-Robert Adler foi um proeminente físico e inventor austríaco-americano, detentor de mais de 180 patentes eletrônicas, célebre por ter inventado o primeiro controle remoto sem fio viável para televisores, o Zenith Space Command.
+Robert Adler foi um físico e inventor austríaco-americano ligado à Zenith Electronics. Para este vault, seu papel mais importante está no refinamento do controle remoto sem fio de televisão, especialmente no desenvolvimento do Zenith Space Command de 1956.
 
-## Perfil biográfico
-- **Nascimento/Morte**: 4 de dezembro de 1913 (Viena, Áustria) – 15 de fevereiro de 2007 (Boise, Idaho, EUA).
-- **Formação & Influências**: Doutorou-se em Física pela Universidade de Viena em 1937. Emigrou para os Estados Unidos após a anexação da Áustria pela Alemanha Nazi, ingressando na Zenith Electronics.
-- **Movimentos Associados**: Eletrônica de Consumo Moderna, Telecomunicações.
+## Papel no projeto
 
-## Contribuições e filosofia de design
-- **Filosofia**: Foco no desenvolvimento de soluções físicas confiáveis para controle de dispositivos sem depender de intermediários complexos ou sensíveis a ruídos de ambiente.
-- **Principais Invenções/Técnicas**:
-  - Desenvolveu o **Zenith Space Command** (1956), que utilizava ondas mecânicas ultrassônicas de alta frequência acionadas pela batida de martelos internos em barras de alumínio ao pressionar os botões do controle. Isso dispensava o uso de baterias no dispositivo e resolvia problemas de interferência de luz comuns em sistemas concorrentes baseados em fotocélulas.
+A história do [[03 artefatos/Controle Remoto|Controle remoto]] é distribuída e não deve ser reduzida a um único inventor. A Zenith já havia lançado o Lazy Bones, com fio, em 1950. Eugene Polley desenvolveu o Flash-Matic, sem fio e baseado em luz, em 1955. Adler liderou o desenvolvimento do Space Command, que adotou sinais ultrassônicos e ofereceu uma solução mais robusta para os problemas das fotocélulas.
 
-## Projetos e obras marcantes
-- **Zenith Space Command (1956)**: Dispositivo físico que introduziu o controle sem fio prático em aparelhos domésticos.
-- Tecnologias de sintonização e melhorias em tubos de imagem de televisão a vácuo durante a Segunda Guerra Mundial e o pós-guerra.
+A contribuição de Adler pertence, portanto, ao refinamento técnico e à consolidação de uma solução sem fio prática, não à invenção isolada de toda a categoria de controle remoto.
 
-## Empresas e parcerias
-- **Zenith Electronics**: Atuou como vice-presidente e diretor de pesquisa por décadas, tornando-se o pioneiro técnico da companhia.
+## Space Command
 
-## Conexões e referências
+O Space Command utilizava frequências ultrassônicas produzidas mecanicamente por pequenas hastes metálicas acionadas ao pressionar os botões. A solução dispensava bateria no transmissor e reduzia problemas de interferência luminosa presentes no Flash-Matic.
+
+A adoção posterior de controles remotos por outros fabricantes transformou o controle à distância em expectativa comum da televisão. O processo separa bem as quatro camadas usadas pelo projeto: invenção, refinamento, popularização e padronização.
+
+## Relações
+
 - [[empresas/Zenith|Zenith Electronics]]
-- [[03 artefatos/Controle Remoto|Controle Remoto]]
+- [[03 artefatos/Controle Remoto|Controle remoto]]
+- [[04 genealogias/Compressao do Esforco|Compressão do esforço]]
+- [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]]
+
+## Cuidado histórico
+
+Formulações como “Adler inventou o controle remoto” comprimem demais uma sequência que inclui soluções anteriores da própria Zenith e o trabalho de Eugene Polley. No vault, Adler deve ser descrito como figura central no refinamento do controle remoto sem fio ultrassônico e na história de sua consolidação, preservando a autoria distribuída do artefato.
