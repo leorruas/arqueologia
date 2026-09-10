@@ -8,6 +8,8 @@ const categoriasPublicas = new Set([
   "01 conceitos",
   "02 variaveis",
   "03 artefatos",
+  "04 genealogias",
+  "05 percursos",
   "autores",
   "empresas"
 ]);
@@ -154,6 +156,10 @@ const artigos = listarMarkdowns(raiz)
       category: categoria,
       sourcePath,
       type: extrairCampoTexto(frontmatter, "type"),
+      status: extrairCampoTexto(frontmatter, "status"),
+      origem: extrairCampoTexto(frontmatter, "origem"),
+      grau: extrairCampoTexto(frontmatter, "grau"),
+      eixo: extrairCampoTexto(frontmatter, "eixo"),
       tags: extrairLista(frontmatter, "tags"),
       aliases: extrairLista(frontmatter, "aliases"),
       headings: headingData.map(item => item.text),
@@ -200,6 +206,14 @@ for (const artigo of artigos) {
       .map(item => item.sourcePath)
       .filter(sourcePath => sourcePath !== artigo.sourcePath)
   )];
+
+  artigo.unresolved = [...new Set(
+    artigo.wikiLinksRaw
+      .filter(referencia => !resolverRelacionado(artigo, referencia))
+      .map(limparReferenciaWiki)
+      .filter(Boolean)
+  )];
+
   artigo.backlinks = [];
   delete artigo.wikiLinksRaw;
 }
@@ -212,12 +226,15 @@ for (const artigo of artigos) {
   }
 }
 
+const brokenLinkCount = artigos.reduce((total, artigo) => total + artigo.unresolved.length, 0);
+
 const indice = {
-  version: 1,
+  version: 2,
   generatedAt: new Date().toISOString(),
   articleCount: artigos.length,
+  brokenLinkCount,
   articles: artigos
 };
 
 fs.writeFileSync(path.join(raiz, "search-index.json"), JSON.stringify(indice));
-console.log(`Índice de arqueologia gerado com ${artigos.length} entradas.`);
+console.log(`Índice de arqueologia gerado com ${artigos.length} entradas e ${brokenLinkCount} wikilinks não resolvidos.`);
