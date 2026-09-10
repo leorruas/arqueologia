@@ -16,6 +16,18 @@ const categorias = new Set([
 
 const conectivos = new Set(["a","as","o","os","de","da","das","do","dos","e","em","na","nas","no","nos","para","por","com","sem","ou"]);
 const siglas = /^[A-Z0-9][A-Z0-9.-]{1,}$/;
+const headingsLegadosTipoDesign = new Set([
+  "origens e surgimento",
+  "evolução e desenvolvimento",
+  "figuras e autores de destaque",
+  "empresas e estúdios de destaque",
+  "autores e instituições relacionados",
+  "artefatos históricos relacionados",
+  "artefatos relacionados",
+  "problema recorrente",
+  "formação histórica do campo",
+  "conexões e referências"
+]);
 const headingsLegadosArtefato = new Set([
   "ficha técnica",
   "ficha resumo",
@@ -42,6 +54,9 @@ const headingsLegadosVariavel = new Set([
   "reduz a variável",
   "redistribui a variável",
   "ficha resumo da variável"
+]);
+const headingsLegadosPercurso = new Set([
+  "o fio que une o percurso"
 ]);
 const camposFichaArtefato = [
   "Artefato",
@@ -139,9 +154,11 @@ function normalizarCampo(texto) {
 }
 
 const candidatos = [];
+const estruturasLegadasTipoDesign = [];
 const estruturasLegadasArtefato = [];
 const estruturasLegadasConceito = [];
 const estruturasLegadasVariavel = [];
+const estruturasLegadasPercurso = [];
 const metadadosConceitoAusentes = [];
 const metadadosVariavelAusentes = [];
 
@@ -211,9 +228,12 @@ for (const arquivo of listarMarkdowns(raiz)) {
     if (!match) return;
     const nivel = match[1].length;
     const texto = match[2].replace(/\s+#+\s*$/, "").trim();
-    if (nivel === 1 || headingEhApenasLink(texto)) return;
+    if (nivel === 1) return;
 
     const normalizado = texto.toLowerCase();
+    if (categoria === "00 tipos de design" && headingsLegadosTipoDesign.has(normalizado)) {
+      estruturasLegadasTipoDesign.push({ sourcePath: relativo, line: indice + 1, text: texto });
+    }
     if (categoria === "03 artefatos" && headingsLegadosArtefato.has(normalizado)) {
       estruturasLegadasArtefato.push({ sourcePath: relativo, line: indice + 1, text: texto });
     }
@@ -223,7 +243,16 @@ for (const arquivo of listarMarkdowns(raiz)) {
     if (categoria === "02 variaveis" && headingsLegadosVariavel.has(normalizado)) {
       estruturasLegadasVariavel.push({ sourcePath: relativo, line: indice + 1, text: texto });
     }
+    if (categoria === "05 percursos") {
+      if (/^\d+\.\s+/.test(texto)) {
+        estruturasLegadasPercurso.push({ sourcePath: relativo, line: indice + 1, text: texto });
+      }
+      if (headingsLegadosPercurso.has(normalizado)) {
+        estruturasLegadasPercurso.push({ sourcePath: relativo, line: indice + 1, text: texto });
+      }
+    }
 
+    if (headingEhApenasLink(texto)) return;
     if (palavrasCapitalizadas(texto).length >= 1) {
       candidatos.push({ sourcePath: relativo, kind: `h${nivel}`, line: indice + 1, text: texto });
     }
@@ -240,17 +269,24 @@ function agruparPorArquivo(itens) {
 }
 
 const porArquivo = agruparPorArquivo(candidatos);
+const legadosTipoDesignPorArquivo = agruparPorArquivo(estruturasLegadasTipoDesign);
 const legadosArtefatoPorArquivo = agruparPorArquivo(estruturasLegadasArtefato);
 const legadosConceitoPorArquivo = agruparPorArquivo(estruturasLegadasConceito);
 const legadosVariavelPorArquivo = agruparPorArquivo(estruturasLegadasVariavel);
+const legadosPercursoPorArquivo = agruparPorArquivo(estruturasLegadasPercurso);
 
 const relatorio = {
   generatedAt: new Date().toISOString(),
   rule: "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
+  typeDesignRule: "Tipos de design devem funcionar como ensaios disciplinares e não usar estrutura enciclopédica de origem, pioneiros, empresas ou inventário exaustivo.",
+  pathRule: "Percursos devem funcionar como argumentos de leitura e não usar sequência numerada de resumos de artefatos.",
   artifactSheetRule: "Cada artefato deve conter uma única Ficha arqueológica em tabela Campo/Registro com os 26 campos definidos no template atual.",
   candidateCount: candidatos.length,
   fileCount: porArquivo.size,
   files: [...porArquivo.entries()].map(([sourcePath, items]) => ({ sourcePath, items })),
+  legacyTypeDesignStructureCount: estruturasLegadasTipoDesign.length,
+  legacyTypeDesignFileCount: legadosTipoDesignPorArquivo.size,
+  legacyTypeDesignFiles: [...legadosTipoDesignPorArquivo.entries()].map(([sourcePath, items]) => ({ sourcePath, items })),
   legacyArtifactStructureCount: estruturasLegadasArtefato.length,
   legacyArtifactFileCount: legadosArtefatoPorArquivo.size,
   legacyArtifactFiles: [...legadosArtefatoPorArquivo.entries()].map(([sourcePath, items]) => ({ sourcePath, items })),
@@ -263,15 +299,20 @@ const relatorio = {
   legacyVariableFileCount: legadosVariavelPorArquivo.size,
   legacyVariableFiles: [...legadosVariavelPorArquivo.entries()].map(([sourcePath, items]) => ({ sourcePath, items })),
   variableMetadataMissingCount: metadadosVariavelAusentes.length,
-  variableMetadataMissingFiles: metadadosVariavelAusentes
+  variableMetadataMissingFiles: metadadosVariavelAusentes,
+  legacyPathStructureCount: estruturasLegadasPercurso.length,
+  legacyPathFileCount: legadosPercursoPorArquivo.size,
+  legacyPathFiles: [...legadosPercursoPorArquivo.entries()].map(([sourcePath, items]) => ({ sourcePath, items }))
 };
 
 fs.writeFileSync(path.join(raiz, "editorial-report.json"), JSON.stringify(relatorio, null, 2));
 console.log(
   `Auditoria editorial: ${candidatos.length} candidatos em ${porArquivo.size} arquivos; ` +
+  `${estruturasLegadasTipoDesign.length} estruturas legadas em ${legadosTipoDesignPorArquivo.size} tipos de design; ` +
   `${estruturasLegadasArtefato.length} problemas de ficha/estrutura em ${legadosArtefatoPorArquivo.size} artefatos; ` +
   `${estruturasLegadasConceito.length} headings legados em ${legadosConceitoPorArquivo.size} conceitos; ` +
   `${metadadosConceitoAusentes.length} conceitos com metadados obrigatórios ausentes; ` +
   `${estruturasLegadasVariavel.length} headings legados em ${legadosVariavelPorArquivo.size} variáveis; ` +
-  `${metadadosVariavelAusentes.length} variáveis com metadados obrigatórios ausentes.`
+  `${metadadosVariavelAusentes.length} variáveis com metadados obrigatórios ausentes; ` +
+  `${estruturasLegadasPercurso.length} estruturas legadas em ${legadosPercursoPorArquivo.size} percursos.`
 );
