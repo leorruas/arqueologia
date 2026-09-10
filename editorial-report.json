@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T20:38:38.011Z",
+  "generatedAt": "2026-09-10T20:39:11.173Z",
   "rule": "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
   "candidateCount": 22,
   "fileCount": 18,
@@ -223,5 +223,10 @@
   "legacyConceptFileCount": 0,
   "legacyConceptFiles": [],
   "conceptMetadataMissingCount": 0,
-  "conceptMetadataMissingFiles": []
+  "conceptMetadataMissingFiles": [],
+  "legacyVariableStructureCount": 0,
+  "legacyVariableFileCount": 0,
+  "legacyVariableFiles": [],
+  "variableMetadataMissingCount": 0,
+  "variableMetadataMissingFiles": []
 }
