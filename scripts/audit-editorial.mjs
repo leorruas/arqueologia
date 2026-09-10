@@ -24,6 +24,17 @@ const headingsLegadosArtefato = new Set([
   "evolução e desenvolvimento",
   "referências e onde encontrar"
 ]);
+const headingsLegadosConceito = new Set([
+  "aplicação nos artefatos",
+  "variáveis relacionadas",
+  "procedência",
+  "o que este conceito explica",
+  "limites e confusões possíveis",
+  "genealogias relacionadas",
+  "fontes",
+  "ficha resumo do conceito"
+]);
+const metadadosConceitoObrigatorios = ["status", "origem", "grau"];
 
 function listarMarkdowns(diretorio, acumulador = []) {
   for (const entrada of fs.readdirSync(diretorio, { withFileTypes: true })) {
@@ -57,13 +68,19 @@ function extrairTitulo(frontmatter) {
   return match ? match[1].replace(/["']$/, "").trim() : "";
 }
 
+function temCampoFrontmatter(frontmatter, campo) {
+  return new RegExp(`^${campo}:\\s*.+$`, "mi").test(frontmatter);
+}
+
 function headingEhApenasLink(texto) {
   const limpo = texto.replace(/^\d+\.\s*/, "").trim();
   return /^\[\[[^\]]+\]\]$/.test(limpo);
 }
 
 const candidatos = [];
-const estruturasLegadas = [];
+const estruturasLegadasArtefato = [];
+const estruturasLegadasConceito = [];
+const metadadosConceitoAusentes = [];
 
 for (const arquivo of listarMarkdowns(raiz)) {
   const relativo = path.relative(raiz, arquivo).split(path.sep).join("/");
@@ -77,6 +94,13 @@ for (const arquivo of listarMarkdowns(raiz)) {
     candidatos.push({ sourcePath: relativo, kind: "frontmatter-title", text: titulo });
   }
 
+  if (categoria === "01 conceitos") {
+    const ausentes = metadadosConceitoObrigatorios.filter(campo => !temCampoFrontmatter(frontmatter, campo));
+    if (ausentes.length) {
+      metadadosConceitoAusentes.push({ sourcePath: relativo, fields: ausentes });
+    }
+  }
+
   markdown.split(/\r?\n/).forEach((linha, indice) => {
     const match = linha.match(/^(#{1,6})\s+(.+)$/);
     if (!match) return;
@@ -84,8 +108,12 @@ for (const arquivo of listarMarkdowns(raiz)) {
     const texto = match[2].replace(/\s+#+\s*$/, "").trim();
     if (nivel === 1 || headingEhApenasLink(texto)) return;
 
-    if (categoria === "03 artefatos" && headingsLegadosArtefato.has(texto.toLowerCase())) {
-      estruturasLegadas.push({ sourcePath: relativo, line: indice + 1, text: texto });
+    const normalizado = texto.toLowerCase();
+    if (categoria === "03 artefatos" && headingsLegadosArtefato.has(normalizado)) {
+      estruturasLegadasArtefato.push({ sourcePath: relativo, line: indice + 1, text: texto });
+    }
+    if (categoria === "01 conceitos" && headingsLegadosConceito.has(normalizado)) {
+      estruturasLegadasConceito.push({ sourcePath: relativo, line: indice + 1, text: texto });
     }
 
     if (palavrasCapitalizadas(texto).length >= 1) {
@@ -94,17 +122,18 @@ for (const arquivo of listarMarkdowns(raiz)) {
   });
 }
 
-const porArquivo = new Map();
-for (const item of candidatos) {
-  if (!porArquivo.has(item.sourcePath)) porArquivo.set(item.sourcePath, []);
-  porArquivo.get(item.sourcePath).push(item);
+function agruparPorArquivo(itens) {
+  const mapa = new Map();
+  for (const item of itens) {
+    if (!mapa.has(item.sourcePath)) mapa.set(item.sourcePath, []);
+    mapa.get(item.sourcePath).push(item);
+  }
+  return mapa;
 }
 
-const legadosPorArquivo = new Map();
-for (const item of estruturasLegadas) {
-  if (!legadosPorArquivo.has(item.sourcePath)) legadosPorArquivo.set(item.sourcePath, []);
-  legadosPorArquivo.get(item.sourcePath).push(item);
-}
+const porArquivo = agruparPorArquivo(candidatos);
+const legadosArtefatoPorArquivo = agruparPorArquivo(estruturasLegadasArtefato);
+const legadosConceitoPorArquivo = agruparPorArquivo(estruturasLegadasConceito);
 
 const relatorio = {
   generatedAt: new Date().toISOString(),
@@ -112,10 +141,20 @@ const relatorio = {
   candidateCount: candidatos.length,
   fileCount: porArquivo.size,
   files: [...porArquivo.entries()].map(([sourcePath, items]) => ({ sourcePath, items })),
-  legacyArtifactStructureCount: estruturasLegadas.length,
-  legacyArtifactFileCount: legadosPorArquivo.size,
-  legacyArtifactFiles: [...legadosPorArquivo.entries()].map(([sourcePath, items]) => ({ sourcePath, items }))
+  legacyArtifactStructureCount: estruturasLegadasArtefato.length,
+  legacyArtifactFileCount: legadosArtefatoPorArquivo.size,
+  legacyArtifactFiles: [...legadosArtefatoPorArquivo.entries()].map(([sourcePath, items]) => ({ sourcePath, items })),
+  legacyConceptStructureCount: estruturasLegadasConceito.length,
+  legacyConceptFileCount: legadosConceitoPorArquivo.size,
+  legacyConceptFiles: [...legadosConceitoPorArquivo.entries()].map(([sourcePath, items]) => ({ sourcePath, items })),
+  conceptMetadataMissingCount: metadadosConceitoAusentes.length,
+  conceptMetadataMissingFiles: metadadosConceitoAusentes
 };
 
 fs.writeFileSync(path.join(raiz, "editorial-report.json"), JSON.stringify(relatorio, null, 2));
-console.log(`Auditoria editorial: ${candidatos.length} candidatos em ${porArquivo.size} arquivos; ${estruturasLegadas.length} headings legados em ${legadosPorArquivo.size} artefatos.`);
+console.log(
+  `Auditoria editorial: ${candidatos.length} candidatos em ${porArquivo.size} arquivos; ` +
+  `${estruturasLegadasArtefato.length} headings legados em ${legadosArtefatoPorArquivo.size} artefatos; ` +
+  `${estruturasLegadasConceito.length} headings legados em ${legadosConceitoPorArquivo.size} conceitos; ` +
+  `${metadadosConceitoAusentes.length} conceitos com metadados obrigatórios ausentes.`
+);
