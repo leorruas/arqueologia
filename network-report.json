@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-09-10T23:36:03.583Z",
+  "generatedAt": "2026-09-10T23:36:43.395Z",
   "scope": "Integração do grafo: títulos duplicados dentro da mesma camada, índices, home, reciprocidade estrutural, tipos de design e nós órfãos. Conceitos e variáveis não exigem backlink exaustivo.",
-  "issueCount": 0,
-  "countsByKind": {},
-  "issues": []
+  "issueCount": 1,
+  "countsByKind": {
+    "missing-reciprocal-link": 1
+  },
+  "issues": [
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Cursor.md",
+      "targetPath": "05 percursos/Da Parede ao Interlocutor.md",
+      "detail": "A ficha liga para 05 percursos/Da Parede ao Interlocutor.md, mas a nota relacionada não devolve o vínculo."
+    }
+  ]
 }
