@@ -9,27 +9,35 @@ tags:
 
 # {{title}}
 
-[Abra explicando que tipo de problema esta área costuma projetar e que hipótese sobre comportamento humano aparece com frequência nela. Evite uma definição escolar da disciplina como ponto de partida.]
+[Abra com um problema que esta área aprendeu a tornar projetável. Não comece por uma definição escolar da disciplina. Mostre uma situação concreta em que alguma relação — linguagem, objeto, interface, serviço, sistema probabilístico etc. — precisava ganhar forma para poder ser manipulada deliberadamente.]
 
-## Problema recorrente
+[Desenvolva como ensaio disciplinar em três a cinco seções editoriais. Os títulos devem avançar a ideia; não use `Origens e surgimento`, `Evolução e desenvolvimento`, `Pioneiros`, `Autores de destaque`, `Empresas e estúdios` ou equivalentes como estrutura automática.]
 
-[Mostre que custos, capacidades, relações ou formas de coordenação esta área tende a reorganizar. Use exemplos concretos e deixe claras as fronteiras com áreas próximas quando elas importarem.]
+## [Título sobre o problema que ganhou forma]
 
-## Formação histórica do campo
+[Mostre práticas anteriores ao nome profissional do campo e qual dificuldade recorrente elas já tentavam resolver. Diferencie claramente prática antiga de disciplina institucionalizada.]
 
-[Apresente apenas os marcos históricos necessários para entender como a prática ganhou forma. Diferencie surgimento de práticas, consolidação profissional, popularização e institucionalização acadêmica. Não transforme a nota numa cronologia extensa.]
+[Quando houver afirmações históricas materiais, use notas de referência próximas à frase. Não atribua a um único autor a invenção de um campo distribuído.]
 
-## Autores e instituições relacionados
+## [Título sobre a transformação disciplinar]
 
-[Inclua autores e organizações apenas quando ajudam a explicar a história das ideias ou a circulação de práticas. Diga que papel tiveram: formular, refinar, popularizar, ensinar, financiar, distribuir ou padronizar.]
+[Explique quando e por que certas práticas passaram a ganhar vocabulário, profissão, escola, método, associação ou mercado próprio. Integre autores, empresas e instituições dentro da narrativa apenas quando explicarem uma mudança. Diga o papel: formular, refinar, popularizar, ensinar, financiar, distribuir ou padronizar.]
 
-## Artefatos relacionados
+## [Título sobre a hipótese de design recorrente]
 
-[Liste os artefatos do vault que efetivamente se declaram ligados a esta área e explique em uma frase que decisão de design cada um torna visível. Esta seção deve permanecer sincronizada com o índice central e com as fichas dos artefatos.]
+[Investigue o que a área tende a pressupor sobre comportamento, percepção, corpo, linguagem, coordenação ou decisão. Use artefatos do vault como evidência concreta. Compare artefatos de épocas diferentes quando isso revelar um mecanismo recorrente.]
 
-## Conexões
+## [Título sobre fronteiras e tensões]
 
-[Relacione conceitos, variáveis, genealogias, percursos e áreas vizinhas que ajudem a atravessar o campo. Evite acumular links sem função argumentativa.]
+[Mostre onde o campo se mistura com outros tipos de design e por que sua fronteira é historicamente construída, não natural. Inclua consequências, limites, relações de poder ou tensões contemporâneas quando forem relevantes.]
+
+## Leituras no vault
+
+[Encerre com poucas rotas de leitura curadas — artefatos, conceitos, genealogias e percursos que realmente ajudam a enxergar o campo. Não tente duplicar o Índice de artefatos nem listar todos os profissionais e organizações associados.]
+
+## Referências
+
+[^1]: [Fonte histórica, primária ou teórica adequada à afirmação que sustenta.]
 
 > [!IMPORTANT]
-> Antes de concluir, execute o [[Instrucoes de Arqueologia#Protocolo de propagação|Protocolo de propagação]]. Uma nota de tipo de design funciona como visão disciplinar do grafo e deve permanecer sincronizada com os artefatos que se vinculam materialmente a ela.
+> Antes de concluir, execute o [[Instrucoes de Arqueologia#Protocolo de propagação|Protocolo de propagação]]. Uma nota de tipo de design é uma interpretação disciplinar do grafo, não um catálogo paralelo do acervo.
