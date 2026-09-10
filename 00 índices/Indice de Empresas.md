@@ -11,24 +11,25 @@ Catálogo de estúdios, marcas, corporações, coletivos e fundições tipográf
 ## Corporações, estúdios e fundições
 
 ### Tecnologia e eletrônicos
-- [[empresas/AEG|AEG]] — Pioneira no design corporativo unificado.
-- [[empresas/Apple|Apple]] — Computação pessoal, eletrônicos de consumo e interface gráfica.
-- [[empresas/Braun|Braun]] — Eletrodomésticos minimalistas e aparelhos de som.
-- [[empresas/Facebook|Facebook (Meta)]] — Redes sociais e dinâmicas de sinalização social.
-- [[empresas/Google|Google (Alphabet)]] — Motores de busca, produtividade e recuperação de informação.
-- [[empresas/Xerox PARC|Xerox PARC]] — Centro de pesquisa e berço das GUIs e do mouse.
+- [[empresas/AEG|AEG]]: pioneira no design corporativo unificado.
+- [[empresas/Apple|Apple]]: computação pessoal, eletrônicos de consumo e interface gráfica.
+- [[empresas/Braun|Braun]]: eletrodomésticos minimalistas e aparelhos de som.
+- [[empresas/Facebook|Facebook (Meta)]]: redes sociais e dinâmicas de sinalização social.
+- [[empresas/Google|Google (Alphabet)]]: motores de busca, produtividade e recuperação de informação.
+- [[empresas/Xerox PARC|Xerox PARC]]: centro de pesquisa associado à história das GUIs e do mouse.
+- [[empresas/Zenith|Zenith Electronics]]: desenvolvimento e popularização inicial de controles remotos de televisão.
 
 ### Consultorias de serviços e design estratégico
-- [[empresas/Livework|Livework]] — Consultoria pioneira em design de serviços.
-- [[empresas/Engine|Engine]] — Consultoria pioneira focada em serviços e inovação pública.
+- [[empresas/Livework|Livework]]: consultoria pioneira em design de serviços.
+- [[empresas/Engine|Engine]]: consultoria pioneira focada em serviços e inovação pública.
 
 ### Design gráfico e estúdios
-- [[empresas/Pentagram|Pentagram]] — Coletivo internacional de design independente.
-- [[empresas/Chermayeff and Geismar|Chermayeff & Geismar]] — Identidades visuais modernas e icônicas.
+- [[empresas/Pentagram|Pentagram]]: coletivo internacional de design independente.
+- [[empresas/Chermayeff and Geismar|Chermayeff & Geismar]]: identidades visuais modernas.
 
-### Fundições tipográficas (type foundries)
-- [[empresas/Haas Type Foundry|Haas Type Foundry]] — Fundição de tipos suíça, criadora da Helvetica.
-- [[empresas/Linotype|Linotype]] — Composição mecânica e distribuição tipográfica.
+### Fundições tipográficas
+- [[empresas/Haas Type Foundry|Haas Type Foundry]]: fundição suíça ligada à criação da Helvetica.
+- [[empresas/Linotype|Linotype]]: composição mecânica e distribuição tipográfica.
 
 ---
-[[index|Voltar para o Início]]
+[[index|Voltar para o início]]
