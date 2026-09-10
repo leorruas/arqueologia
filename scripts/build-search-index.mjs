@@ -18,7 +18,9 @@ const referenciasDeGovernanca = new Set([
   "index",
   "me",
   "log",
-  "instrucoes de arqueologia"
+  "instrucoes de arqueologia",
+  "guia de escrita",
+  "futuras refatoracoes"
 ]);
 
 function listarMarkdowns(diretorio, acumulador = []) {
@@ -115,6 +117,15 @@ function limparMarkdown(markdown) {
 
 function limparHeading(texto) {
   return texto.replace(/\s+#+\s*$/, "").replace(/[*_`~=]/g, "").trim();
+}
+
+function extrairHeadings(markdown) {
+  return markdown
+    .split(/\r?\n/)
+    .map(linha => linha.match(/^(#{1,6})\s+(.+)$/))
+    .filter(Boolean)
+    .map(match => ({ level: match[1].length, text: limparHeading(match[2]) }))
+    .filter(item => item.text);
 }
 
 function limparReferenciaWiki(valor) {
