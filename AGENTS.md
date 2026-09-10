@@ -17,3 +17,5 @@ status: "ativo"
 
 > [!WARNING]
 > Criar ou revisar materialmente um artigo sem executar o [[Instrucoes de Arqueologia#Protocolo de propagação|Protocolo de propagação]] é uma operação incompleta. Antes de encerrar, o agente deve verificar e atualizar, quando couber, tipos de design, conceitos, variáveis, artefatos relacionados, genealogias, percursos, autores, empresas, livros, índices, vínculos recíprocos e `log.md`.
+>
+> Alterar modelo editorial, schema, função de uma camada ou regra estrutural também exige propagação. Nesses casos, execute o [[Instrucoes de Arqueologia#Protocolo de propagação de governança|Protocolo de propagação de governança]] e alinhe manuais, templates, auditorias e documentação pública afetados antes de considerar a mudança concluída.
