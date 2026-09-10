@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-10T23:04:22.830Z",
+  "generatedAt": "2026-09-10T23:05:06.785Z",
   "rule": "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
   "artifactSheetRule": "Cada artefato deve conter uma única Ficha arqueológica em tabela Campo/Registro com os 22 campos definidos no template atual.",
-  "candidateCount": 31,
-  "fileCount": 24,
+  "candidateCount": 33,
+  "fileCount": 25,
   "files": [
     {
       "sourcePath": "00 índices/Indice de Autores.md",
@@ -293,6 +293,23 @@
           "sourcePath": "03 artefatos/Wicked Problem.md",
           "kind": "frontmatter-title",
           "text": "Wicked Problem"
+        }
+      ]
+    },
+    {
+      "sourcePath": "05 percursos/Da Parede ao Interlocutor.md",
+      "items": [
+        {
+          "sourcePath": "05 percursos/Da Parede ao Interlocutor.md",
+          "kind": "h2",
+          "line": 34,
+          "text": "3. Interface computacional — a superfície reage"
+        },
+        {
+          "sourcePath": "05 percursos/Da Parede ao Interlocutor.md",
+          "kind": "h2",
+          "line": 42,
+          "text": "4. Interface conversacional — a superfície responde"
         }
       ]
     }
