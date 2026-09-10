@@ -35,6 +35,7 @@ O **Design de Produto** (frequentemente associado ao Desenho Industrial) lida co
 - [[03 artefatos/Cofre|Cofre]] — Recipiente que transforma ameaça, resistência e autorização em requisitos de projeto.
 - [[03 artefatos/Garrafa de Agua|Garrafa de Água]] — Recipiente de hidratação portátil e transição de acesso geográfico para recurso contínuo.
 - [[03 artefatos/Tapete|Tapete]] — Tecnologia portátil clássica de territorialização e diagramação de espaço.
+- [[03 artefatos/Espelho|Espelho]] — Superfície de auto-observação que transforma o próprio corpo em fonte imediata de feedback visual.
 - [[03 artefatos/Post-it|Post-it]] — Bloco de notas reposicionáveis e elemento de modelagem de memória física no ambiente.
 - [[03 artefatos/Controle Remoto|Controle Remoto]] — Dispositivo de sintonia à distância, pioneiro no condicionamento de atenção.
 - [[03 artefatos/Quadro Branco|Quadro Branco]] — Superfície lisa de rascunhos provisórios para colaboração de equipes.
