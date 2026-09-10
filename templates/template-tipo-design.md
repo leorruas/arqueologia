@@ -1,6 +1,7 @@
 ---
 title: "{{title}}"
 type: "tipo-design"
+status: "rascunho"
 tags:
   - design/tipo
   - arqueologia
@@ -8,27 +9,27 @@ tags:
 
 # {{title}}
 
-[Uma introdução curta descrevendo o que define esta vertente de design, suas fronteiras de atuação e seu impacto geral.]
+[Abra explicando que tipo de problema esta área costuma projetar e que hipótese sobre comportamento humano aparece com frequência nela. Evite uma definição escolar da disciplina como ponto de partida.]
 
-## Origens e Surgimento
-- **Contexto Histórico**: [Como e em qual época/contexto socioeconômico esta vertente começou a se destacar?]
-- **Pioneiros**: [Quem foram os primeiros a praticar ou teorizar esta área?]
-- **Marcos Iniciais**: [Primeiras publicações, manifestos ou projetos emblemáticos.]
+## Problema recorrente
 
-## Evolução e Desenvolvimento
-- **Marcos Históricos**:
-  - **[Ano/Década]**: [Breve descrição do marco ou transformação na prática.]
-  - **[Ano/Década]**: [Breve descrição do marco ou transformação na prática.]
-- **Impacto Tecnológico/Social**: [Como novas tecnologias ou demandas de mercado moldaram essa evolução?]
+[Mostre que custos, capacidades, relações ou formas de coordenação esta área tende a reorganizar. Use exemplos concretos e deixe claras as fronteiras com áreas próximas quando elas importarem.]
 
-## Figuras e Autores de Destaque
-- [[autores/|Nome do Autor 1]] — [Breve contribuição principal]
-- [[autores/|Nome do Autor 2]] — [Breve contribuição principal]
+## Formação histórica do campo
 
-## Empresas e Estúdios Clave
-- [[empresas/|Empresa/Estúdio 1]] — [Projetos marcantes nesta área]
-- [[empresas/|Empresa/Estúdio 2]] — [Projetos marcantes nesta área]
+[Apresente apenas os marcos históricos necessários para entender como a prática ganhou forma. Diferencie surgimento de práticas, consolidação profissional, popularização e institucionalização acadêmica. Não transforme a nota numa cronologia extensa.]
 
-## Conexões e Referências
-- **Áreas Correlatas**: [Ex: [[Design de Produto]], [[Design Gráfico]]]
-- **Leituras Recomendadas**: [Livros, artigos ou teses essenciais]
+## Autores e instituições relacionados
+
+[Inclua autores e organizações apenas quando ajudam a explicar a história das ideias ou a circulação de práticas. Diga que papel tiveram: formular, refinar, popularizar, ensinar, financiar, distribuir ou padronizar.]
+
+## Artefatos relacionados
+
+[Liste os artefatos do vault que efetivamente se declaram ligados a esta área e explique em uma frase que decisão de design cada um torna visível. Esta seção deve permanecer sincronizada com o índice central e com as fichas dos artefatos.]
+
+## Conexões
+
+[Relacione conceitos, variáveis, genealogias, percursos e áreas vizinhas que ajudem a atravessar o campo. Evite acumular links sem função argumentativa.]
+
+> [!IMPORTANT]
+> Antes de concluir, execute o [[Instrucoes de Arqueologia#Protocolo de propagação|Protocolo de propagação]]. Uma nota de tipo de design funciona como visão disciplinar do grafo e deve permanecer sincronizada com os artefatos que se vinculam materialmente a ela.
