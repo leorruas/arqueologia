@@ -16,6 +16,12 @@ Artefato é a unidade concreta da escavação. Pode ser um botão, uma tela, um 
 
 Um estudo de artefato procura responder questões como: que problema existia antes, como as pessoas lidavam com ele, quem inventou ou refinou a solução, quem a popularizou, que comportamento ela aproveitou, que comportamento ajudou a criar e que consequências apareceram depois.
 
+## O que é um tipo de design
+
+Tipos de design são ensaios disciplinares. Eles não existem para definir profissões, listar pioneiros ou produzir pequenas histórias enciclopédicas de cada especialidade. A pergunta é outra: **que classe de problema este campo aprendeu a reconhecer como projetável?**
+
+Design gráfico, design de produto, design de serviços, design de interface, tipografia e design de IA funcionam como lentes sobre o mesmo acervo. Um mesmo artefato pode atravessar mais de uma área quando suas decisões operam simultaneamente sobre matéria, comunicação, interação, coordenação ou interpretação. Autores e instituições aparecem nessas notas apenas quando ajudam a explicar uma transformação do olhar disciplinar.
+
 ## O que é um conceito
 
 Conceitos são ideias usadas para explicar mecanismos recorrentes entre artefatos. Alguns vêm de literatura estabelecida, como affordance, manipulação direta ou autodeterminação. Outros são adaptações para este projeto. Há também hipóteses conceituais nascidas durante a própria investigação.
@@ -30,9 +36,9 @@ A diferença para um conceito é operacional: um conceito ajuda a explicar; uma 
 
 ## O que são genealogias e percursos
 
-Genealogias aproximam artefatos de áreas e épocas diferentes a partir de uma ideia recorrente. Esse parentesco pode ser histórico, funcional, semiótico, comportamental ou apenas uma hipótese comparativa. O projeto evita tratar toda semelhança como descendência direta.
+Genealogias aproximam artefatos de áreas e épocas diferentes a partir de uma ideia recorrente. Esse parentesco pode ser histórico, funcional, semiótico, comportamental ou apenas uma hipótese comparativa. O projeto evita tratar toda semelhança como descendência direta. A pergunta típica de uma genealogia é: **por que esses artefatos podem ser parentes?**
 
-Percursos são sequências editoriais. Em vez de classificar, eles montam uma leitura. Um percurso pode acompanhar, por exemplo, como o design aprendeu a guardar informação ou como superfícies públicas de comunicação foram transformadas em interfaces digitais de atenção.
+Percursos montam argumentos de leitura. Eles escolhem uma pergunta e colocam estudos em determinada sequência para observar como o problema muda quando atravessa artefatos diferentes. Portanto, não são índices temáticos nem listas numeradas de resumos. A pergunta típica de um percurso é: **o que se torna visível quando lemos estes estudos nesta ordem?**
 
 ## Como as escavações são feitas
 
