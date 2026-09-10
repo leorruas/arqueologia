@@ -11,13 +11,15 @@ tags:
 
 Muitas soluções de design parecem inovadoras porque tornam uma ação nova possível. Mas uma parte talvez mais comum da inovação acontece de outro modo: a pessoa já sabia o que queria fazer, e o artefato simplesmente retirou passos do caminho.
 
-Essa genealogia investiga essa operação. Um atalho de teclado, um carrinho de compras, um gesto de atualização, um checklist, um quadro Kanban e um Service Blueprint não têm a mesma história. O parentesco está em comprimir uma sequência de movimentos, decisões, lembranças, inferências ou coordenação em uma estrutura que exige menos operações conscientes.
+Essa genealogia investiga essa operação. Um atalho de teclado, um carrinho de compras, um controle remoto, um gesto de atualização, um checklist, um quadro Kanban e um Service Blueprint não têm a mesma história. O parentesco está em comprimir uma sequência de movimentos, decisões, lembranças, inferências ou coordenação em uma estrutura que exige menos operações conscientes.
 
 ## Quando vários passos viram uma estrutura menor
 
 [[03 artefatos/Atalhos de Teclado|Atalhos de teclado]] condensam uma sequência de navegação em poucas teclas. Em vez de procurar um comando, abrir um menu e selecioná-lo, a pessoa pode acionar diretamente uma função que já conhece. A economia é operacional, mas também perceptiva: desaparece parte da busca pela interface.
 
 O [[03 artefatos/Carrinho de Compras|carrinho de compras]] produz uma compressão física semelhante. Ele permite acumular objetos sem carregá-los individualmente nos braços e transforma várias pequenas decisões de transporte em uma única infraestrutura móvel. O comportamento de escolher produtos já existia; o artefato aumenta a quantidade e o tempo durante os quais essa escolha pode continuar.
+
+O [[03 artefatos/Controle Remoto|controle remoto]] comprime deslocamento corporal. A pessoa já desejava mudar canal, volume ou estado do aparelho; o comando deixa de exigir aproximação física até a televisão. Essa redução de esforço parece pequena, mas altera a frequência com que explorar outra opção se torna viável.
 
 O [[03 artefatos/Pull to Refresh|Pull to Refresh]] reduz uma operação de interface a um gesto que acontece no mesmo espaço onde a pessoa já está navegando. O [[03 artefatos/Checklist|checklist]] comprime a necessidade de lembrar uma sequência inteira em uma lista externa. O [[03 artefatos/Kanban|Kanban]] faz algo parecido em escala coletiva: estados de trabalho e próximos movimentos deixam de depender apenas de memória individual, conversa e acompanhamento informal.
 
@@ -27,7 +29,7 @@ Em todos esses casos, o design não precisa inventar o desejo nem automatizar o 
 
 ## Pequenas economias podem criar grandes capacidades
 
-Uma redução de esforço pode parecer insignificante quando observada uma única vez. O efeito muda quando a ação se repete dezenas ou milhares de vezes. Um atalho que economiza alguns segundos pode transformar a maneira como alguém trabalha durante anos. Um gesto simples pode tornar uma consulta mais frequente. Um quadro visível pode mudar quanto uma equipe depende de reuniões para descobrir o estado do trabalho.
+Uma redução de esforço pode parecer insignificante quando observada uma única vez. O efeito muda quando a ação se repete dezenas ou milhares de vezes. Um atalho que economiza alguns segundos pode transformar a maneira como alguém trabalha durante anos. Um gesto simples pode tornar uma consulta mais frequente. Um quadro visível pode mudar quanto uma equipe depende de reuniões para descobrir o estado do trabalho. Um controle remoto pode transformar uma mudança ocasional de canal em exploração repetida porque o custo marginal de tentar outra opção caiu.
 
 No Service Blueprint, o ganho pode ser menos frequente e ainda assim estrutural: uma equipe deixa de precisar reconstruir oralmente o sistema toda vez que tenta localizar uma falha ou discutir uma mudança. A representação vira memória compartilhada da arquitetura do serviço.
 
@@ -41,7 +43,7 @@ A pergunta de design deixa de ser “quantos passos conseguimos eliminar?” e p
 
 Uma hipótese desta genealogia é que “conveniência” é uma categoria pouco precisa para análise. Dois artefatos podem ser convenientes por razões muito diferentes: um reduz movimento, outro memória, outro espera, outro negociação entre pessoas, outro o custo de construir uma representação comum.
 
-Classificar o esforço em camadas pode revelar parentescos melhores e também limites. Atalhos e carrinhos reduzem custos diferentes. Checklist e Kanban externalizam informação em escalas diferentes. Pull to Refresh comprime gesto. Service Blueprint comprime complexidade relacional suficiente para que um grupo consiga discuti-la. A semelhança está na operação de retirar trabalho do caminho e redistribuí-lo para o artefato ou para a infraestrutura.
+Classificar o esforço em camadas pode revelar parentescos melhores e também limites. Atalhos e controles remotos comprimem gestos e deslocamentos distintos. Carrinhos reduzem carga corporal. Checklist e Kanban externalizam informação em escalas diferentes. Pull to Refresh comprime gesto. Service Blueprint comprime complexidade relacional suficiente para que um grupo consiga discuti-la. A semelhança está na operação de retirar trabalho do caminho e redistribuí-lo para o artefato ou para a infraestrutura.
 
 Talvez uma das perguntas mais produtivas para a arqueologia do design seja, então, muito simples: quando uma solução parece “fácil”, qual esforço desapareceu, para onde ele foi e que comportamento ficou mais barato depois disso?
 
@@ -53,7 +55,7 @@ Talvez uma das perguntas mais produtivas para a arqueologia do design seja, ent�
 | **Pergunta central** | Como o design transforma sequências de ações, decisões, lembranças, inferências ou coordenação em operações menores? |
 | **Hipótese de parentesco** | Soluções recorrentes retiram etapas conscientes ou custos de reconstrução de comportamentos que já existiam |
 | **Natureza das relações** | Funcional, operacional, cognitiva, comportamental e comparativa |
-| **Artefatos principais** | [[03 artefatos/Atalhos de Teclado|Atalhos de teclado]], [[03 artefatos/Carrinho de Compras|Carrinho de compras]], [[03 artefatos/Pull to Refresh|Pull to Refresh]], [[03 artefatos/Checklist|Checklist]], [[03 artefatos/Kanban|Kanban]], [[03 artefatos/Service Blueprint|Service Blueprint]] |
+| **Artefatos principais** | [[03 artefatos/Atalhos de Teclado|Atalhos de teclado]], [[03 artefatos/Carrinho de Compras|Carrinho de compras]], [[03 artefatos/Controle Remoto|Controle remoto]], [[03 artefatos/Pull to Refresh|Pull to Refresh]], [[03 artefatos/Checklist|Checklist]], [[03 artefatos/Kanban|Kanban]], [[03 artefatos/Service Blueprint|Service Blueprint]] |
 | **Comportamento recorrente** | Executar ou compreender tarefas conhecidas com menos movimento, busca, memória, decisão, inferência ou coordenação |
 | **O que o design redistribui** | Esforço motor, cognitivo, temporal, decisional, social e institucional |
 | **Relação de poder** | Ao decidir quais etapas ou relações podem ser comprimidas numa estrutura, o sistema também decide quais momentos de escolha, trabalho ou ambiguidade permanecem visíveis |
