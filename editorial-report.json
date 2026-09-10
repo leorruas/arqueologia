@@ -1,6 +1,8 @@
 {
-  "generatedAt": "2026-09-10T23:27:34.450Z",
+  "generatedAt": "2026-09-10T23:28:19.032Z",
   "rule": "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
+  "typeDesignRule": "Tipos de design devem funcionar como ensaios disciplinares e não usar estrutura enciclopédica de origem, pioneiros, empresas ou inventário exaustivo.",
+  "pathRule": "Percursos devem funcionar como argumentos de leitura e não usar sequência numerada de resumos de artefatos.",
   "artifactSheetRule": "Cada artefato deve conter uma única Ficha arqueológica em tabela Campo/Registro com os 26 campos definidos no template atual.",
   "candidateCount": 35,
   "fileCount": 27,
@@ -335,24 +337,143 @@
       ]
     }
   ],
-  "legacyArtifactStructureCount": 4,
-  "legacyArtifactFileCount": 2,
-  "legacyArtifactFiles": [
+  "legacyTypeDesignStructureCount": 20,
+  "legacyTypeDesignFileCount": 6,
+  "legacyTypeDesignFiles": [
     {
-      "sourcePath": "03 artefatos/Espaço entre palavras.md",
+      "sourcePath": "00 tipos de design/Design Grafico.md",
       "items": [
         {
-          "sourcePath": "03 artefatos/Espaço entre palavras.md",
-          "line": null,
-          "text": "Ficha arqueológica ausente"
+          "sourcePath": "00 tipos de design/Design Grafico.md",
+          "line": 13,
+          "text": "Problema recorrente"
         },
         {
-          "sourcePath": "03 artefatos/Espaço entre palavras.md",
-          "line": 59,
-          "text": "Ficha resumo"
+          "sourcePath": "00 tipos de design/Design Grafico.md",
+          "line": 19,
+          "text": "Autores e instituições relacionados"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design Grafico.md",
+          "line": 23,
+          "text": "Artefatos relacionados"
         }
       ]
     },
+    {
+      "sourcePath": "00 tipos de design/Design de IA.md",
+      "items": [
+        {
+          "sourcePath": "00 tipos de design/Design de IA.md",
+          "line": 13,
+          "text": "Origens e surgimento"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design de IA.md",
+          "line": 47,
+          "text": "Evolução e desenvolvimento"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design de IA.md",
+          "line": 53,
+          "text": "Figuras e autores de destaque"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design de IA.md",
+          "line": 57,
+          "text": "Empresas e estúdios de destaque"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design de IA.md",
+          "line": 61,
+          "text": "Artefatos históricos relacionados"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design de IA.md",
+          "line": 66,
+          "text": "Conexões e referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "00 tipos de design/Design de Interface.md",
+      "items": [
+        {
+          "sourcePath": "00 tipos de design/Design de Interface.md",
+          "line": 13,
+          "text": "Problema recorrente"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design de Interface.md",
+          "line": 19,
+          "text": "Autores e instituições relacionados"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design de Interface.md",
+          "line": 23,
+          "text": "Artefatos relacionados"
+        }
+      ]
+    },
+    {
+      "sourcePath": "00 tipos de design/Design de Produto.md",
+      "items": [
+        {
+          "sourcePath": "00 tipos de design/Design de Produto.md",
+          "line": 13,
+          "text": "Problema recorrente"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design de Produto.md",
+          "line": 19,
+          "text": "Autores e instituições relacionados"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design de Produto.md",
+          "line": 23,
+          "text": "Artefatos relacionados"
+        }
+      ]
+    },
+    {
+      "sourcePath": "00 tipos de design/Design de Servicos.md",
+      "items": [
+        {
+          "sourcePath": "00 tipos de design/Design de Servicos.md",
+          "line": 13,
+          "text": "Problema recorrente"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design de Servicos.md",
+          "line": 19,
+          "text": "Artefatos relacionados"
+        }
+      ]
+    },
+    {
+      "sourcePath": "00 tipos de design/Tipografia.md",
+      "items": [
+        {
+          "sourcePath": "00 tipos de design/Tipografia.md",
+          "line": 14,
+          "text": "Problema recorrente"
+        },
+        {
+          "sourcePath": "00 tipos de design/Tipografia.md",
+          "line": 20,
+          "text": "Autores e instituições relacionados"
+        },
+        {
+          "sourcePath": "00 tipos de design/Tipografia.md",
+          "line": 24,
+          "text": "Artefatos relacionados"
+        }
+      ]
+    }
+  ],
+  "legacyArtifactStructureCount": 2,
+  "legacyArtifactFileCount": 1,
+  "legacyArtifactFiles": [
     {
       "sourcePath": "03 artefatos/QR Code.md",
       "items": [
@@ -378,5 +499,144 @@
   "legacyVariableFileCount": 0,
   "legacyVariableFiles": [],
   "variableMetadataMissingCount": 0,
-  "variableMetadataMissingFiles": []
+  "variableMetadataMissingFiles": [],
+  "legacyPathStructureCount": 23,
+  "legacyPathFileCount": 4,
+  "legacyPathFiles": [
+    {
+      "sourcePath": "05 percursos/Como Projetamos Fronteiras.md",
+      "items": [
+        {
+          "sourcePath": "05 percursos/Como Projetamos Fronteiras.md",
+          "line": 14,
+          "text": "1. [[03 artefatos/Tapete|Tapete]]"
+        },
+        {
+          "sourcePath": "05 percursos/Como Projetamos Fronteiras.md",
+          "line": 18,
+          "text": "2. [[03 artefatos/Crachá|Crachá]]"
+        },
+        {
+          "sourcePath": "05 percursos/Como Projetamos Fronteiras.md",
+          "line": 22,
+          "text": "3. [[03 artefatos/Login|Login]]"
+        },
+        {
+          "sourcePath": "05 percursos/Como Projetamos Fronteiras.md",
+          "line": 26,
+          "text": "4. [[03 artefatos/Tela de Login|Tela de Login]]"
+        },
+        {
+          "sourcePath": "05 percursos/Como Projetamos Fronteiras.md",
+          "line": 30,
+          "text": "5. [[03 artefatos/Slide to Unlock|Slide to Unlock]]"
+        },
+        {
+          "sourcePath": "05 percursos/Como Projetamos Fronteiras.md",
+          "line": 34,
+          "text": "O fio que une o percurso"
+        }
+      ]
+    },
+    {
+      "sourcePath": "05 percursos/Da Espera a Sincronizacao.md",
+      "items": [
+        {
+          "sourcePath": "05 percursos/Da Espera a Sincronizacao.md",
+          "line": 14,
+          "text": "1. [[03 artefatos/Calendário|Calendário]]"
+        },
+        {
+          "sourcePath": "05 percursos/Da Espera a Sincronizacao.md",
+          "line": 18,
+          "text": "2. [[03 artefatos/Fila|Fila]]"
+        },
+        {
+          "sourcePath": "05 percursos/Da Espera a Sincronizacao.md",
+          "line": 22,
+          "text": "3. [[03 artefatos/Agendamento|Agendamento]]"
+        },
+        {
+          "sourcePath": "05 percursos/Da Espera a Sincronizacao.md",
+          "line": 26,
+          "text": "4. [[03 artefatos/Cartao de Embarque|Cartão de Embarque]]"
+        },
+        {
+          "sourcePath": "05 percursos/Da Espera a Sincronizacao.md",
+          "line": 30,
+          "text": "5. [[03 artefatos/Kanban|Kanban]]"
+        },
+        {
+          "sourcePath": "05 percursos/Da Espera a Sincronizacao.md",
+          "line": 34,
+          "text": "O fio que une o percurso"
+        }
+      ]
+    },
+    {
+      "sourcePath": "05 percursos/Da Parede ao Feed.md",
+      "items": [
+        {
+          "sourcePath": "05 percursos/Da Parede ao Feed.md",
+          "line": 14,
+          "text": "1. [[03 artefatos/Pôster|Pôster]]"
+        },
+        {
+          "sourcePath": "05 percursos/Da Parede ao Feed.md",
+          "line": 18,
+          "text": "2. [[03 artefatos/Hero Section|Hero Section]]"
+        },
+        {
+          "sourcePath": "05 percursos/Da Parede ao Feed.md",
+          "line": 22,
+          "text": "3. [[03 artefatos/Botao Like|Botão Like]]"
+        },
+        {
+          "sourcePath": "05 percursos/Da Parede ao Feed.md",
+          "line": 26,
+          "text": "4. [[03 artefatos/Pull to Refresh|Pull to Refresh]]"
+        },
+        {
+          "sourcePath": "05 percursos/Da Parede ao Feed.md",
+          "line": 30,
+          "text": "5. [[03 artefatos/Infinite Scroll|Infinite Scroll]]"
+        },
+        {
+          "sourcePath": "05 percursos/Da Parede ao Feed.md",
+          "line": 34,
+          "text": "O fio que une o percurso"
+        }
+      ]
+    },
+    {
+      "sourcePath": "05 percursos/Da Parede ao Interlocutor.md",
+      "items": [
+        {
+          "sourcePath": "05 percursos/Da Parede ao Interlocutor.md",
+          "line": 16,
+          "text": "1. [[03 artefatos/Pôster|Pôster]] — a superfície fala"
+        },
+        {
+          "sourcePath": "05 percursos/Da Parede ao Interlocutor.md",
+          "line": 24,
+          "text": "2. [[03 artefatos/Projetor|Projetor]] — a superfície muda"
+        },
+        {
+          "sourcePath": "05 percursos/Da Parede ao Interlocutor.md",
+          "line": 34,
+          "text": "3. Interface computacional — a superfície reage"
+        },
+        {
+          "sourcePath": "05 percursos/Da Parede ao Interlocutor.md",
+          "line": 42,
+          "text": "4. Interface conversacional — a superfície responde"
+        },
+        {
+          "sourcePath": "05 percursos/Da Parede ao Interlocutor.md",
+          "line": 98,
+          "text": "O fio que une o percurso"
+        }
+      ]
+    }
+  ]
 }

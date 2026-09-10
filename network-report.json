@@ -1,37 +1,7 @@
 {
-  "generatedAt": "2026-09-10T23:27:34.554Z",
+  "generatedAt": "2026-09-10T23:28:19.132Z",
   "scope": "Integração do grafo: índices, home, reciprocidade estrutural, tipos de design e nós órfãos. Conceitos e variáveis não exigem backlink exaustivo.",
-  "issueCount": 4,
-  "countsByKind": {
-    "missing-from-index": 1,
-    "missing-reciprocal-link": 1,
-    "orphan-node": 1,
-    "design-type-drift": 1
-  },
-  "issues": [
-    {
-      "kind": "missing-from-index",
-      "sourcePath": "03 artefatos/Espaço entre Palavras.md",
-      "targetPath": "00 índices/Indice de Artefatos.md",
-      "detail": "Arquivo não aparece em 00 índices/Indice de Artefatos.md."
-    },
-    {
-      "kind": "missing-reciprocal-link",
-      "sourcePath": "03 artefatos/Espaço entre Palavras.md",
-      "targetPath": "00 tipos de design/Tipografia.md",
-      "detail": "A ficha liga para 00 tipos de design/Tipografia.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "orphan-node",
-      "sourcePath": "03 artefatos/Espaço entre Palavras.md",
-      "targetPath": null,
-      "detail": "Nota sem links de entrada a partir do acervo auditado."
-    },
-    {
-      "kind": "design-type-drift",
-      "sourcePath": "03 artefatos/Espaço entre Palavras.md",
-      "targetPath": "00 tipos de design/Tipografia.md",
-      "detail": "Artefato declara 00 tipos de design/Tipografia.md, mas o tipo de design não o referencia."
-    }
-  ]
+  "issueCount": 0,
+  "countsByKind": {},
+  "issues": []
 }
