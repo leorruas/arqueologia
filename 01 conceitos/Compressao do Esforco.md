@@ -31,9 +31,13 @@ Economizar passos não serve apenas para acelerar. Às vezes, torna possível um
 
 Um carrinho permite continuar comprando depois que os braços estariam ocupados. Um checklist externaliza parte da memória necessária para uma operação complexa. Um protocolo evita reconstruir uma demanda inteira a cada transferência entre pessoas.
 
-A [[03 artefatos/LLM Wiki|LLM Wiki]] testa essa hipótese em outra escala. Sua proposta não é apenas abreviar um comando, mas fazer com que o trabalho de leitura, síntese e relação produzido numa investigação continue disponível na próxima. O esforço comprimido deixa de ser uma sequência motora e passa a ser parte do **retrabalho cognitivo** de reconstruir relações já formuladas.
+O [[03 artefatos/Service Blueprint|Service Blueprint]] mostra uma forma diferente de compressão. Ele não precisa retirar nenhuma etapa da prestação do serviço. Seu efeito pode acontecer antes: relações espalhadas entre atendimento, usuário, sistemas, bastidores e suporte passam a existir numa representação comum. O que diminui é o retrabalho cognitivo e coordenativo necessário para reconstruir “como esse serviço funciona” em cada reunião, diagnóstico ou mudança.
 
-Mas o esforço não desaparece. Ele migra para curadoria das fontes, formulação das regras do agente, revisão das sínteses e correção de memória persistente. Se uma síntese equivocada for reutilizada muitas vezes, a economia inicial pode produzir um custo de correção muito maior depois. O caso reforça a hipótese do conceito justamente porque mostra sua tensão: comprimir repetição pode ampliar capacidade e, ao mesmo tempo, concentrar dependência no mecanismo que realiza a compressão.
+Isso ajuda a separar **compressão de automação**. Um artefato pode reduzir esforço mesmo quando o trabalho operacional continua existindo, simplesmente tornando dependências externas, compartilháveis e comparáveis.
+
+A [[03 artefatos/LLM Wiki|LLM Wiki]] testa a hipótese em outra escala. Sua proposta não é apenas abreviar um comando, mas fazer com que o trabalho de leitura, síntese e relação produzido numa investigação continue disponível na próxima. O esforço comprimido deixa de ser uma sequência motora e passa a ser parte do **retrabalho cognitivo** de reconstruir relações já formuladas.
+
+Mas o esforço não desaparece. No Service Blueprint, ele migra para pesquisa, manutenção do mapa e decisão sobre o que merece ser representado. Na LLM Wiki, migra para curadoria das fontes, formulação das regras do agente, revisão das sínteses e correção de memória persistente. Se a representação estiver errada, a economia inicial pode produzir um custo de correção maior depois.
 
 Nesses casos, a redução do custo de uma operação pode ampliar a escala do sistema. O design não cria necessariamente um desejo novo; permite que um comportamento atravesse mais distância, mais itens, mais pessoas, mais tempo ou mais consultas.
 
@@ -53,9 +57,11 @@ Também existe uma dimensão distributiva. Um sistema pode comprimir esforço pa
 
 Self-checkout reduz parte do trabalho do varejo ao deslocar etapas para o consumidor. Um formulário estruturado pode facilitar processamento interno ao exigir que o cidadão traduza sua situação para categorias rígidas. Automação pode economizar trabalho depois de exigir configuração, supervisão e correção excepcionais.
 
+O Service Blueprint acrescenta outra tensão: quanto mais o serviço cabe numa representação compacta, mais fácil pode ser subestimar trabalho tácito, exceções e julgamento que não cabem bem em caixas e linhas. A compressão cognitiva do mapa não significa que o território tenha ficado mais simples.
+
 Por isso a unidade de análise nunca deve ser apenas “quantos cliques sobraram”. Compressão do esforço pergunta pelo sistema inteiro.
 
-A hipótese central do conceito é que muitas inovações de design vencem não porque ensinam um comportamento inteiramente novo, mas porque **reduzem o custo de repetir algo que as pessoas já tentavam fazer**. O ganho pode ser físico, cognitivo, temporal, decisório ou coordenativo — e cada tipo produz consequências diferentes.
+A hipótese central do conceito é que muitas inovações de design vencem não porque ensinam um comportamento inteiramente novo, mas porque **reduzem o custo de repetir, reconstruir ou coordenar algo que as pessoas já tentavam fazer**. O ganho pode ser físico, cognitivo, temporal, decisório ou coordenativo — e cada tipo produz consequências diferentes.
 
 ## Ficha do conceito
 
@@ -67,12 +73,12 @@ A hipótese central do conceito é que muitas inovações de design vencem não 
 | **Formulação associada a** | Arqueologia do Design |
 | **Área principal** | IHC / ergonomia / design de serviços |
 | **Distinção central** | Reduzir esforço não significa eliminá-lo; frequentemente ele é condensado, deslocado ou redistribuído |
-| **O que ajuda a explicar** | Por que artefatos que encurtam ações ou evitam reconstruções recorrentes podem alterar escala, frequência e hábito |
+| **O que ajuda a explicar** | Por que artefatos que encurtam ações, externalizam relações ou evitam reconstruções recorrentes podem alterar escala, frequência e hábito |
 | **O que não explica sozinho** | Se a redução de esforço é desejável, ética ou eficiente para o sistema inteiro |
-| **Artefatos-chave** | [[03 artefatos/Atalhos de Teclado|Atalhos de teclado]], [[03 artefatos/Pull to Refresh|Pull to Refresh]], [[03 artefatos/Carrinho de Compras|Carrinho de compras]], [[03 artefatos/LLM Wiki|LLM Wiki]] |
+| **Artefatos-chave** | [[03 artefatos/Atalhos de Teclado|Atalhos de teclado]], [[03 artefatos/Pull to Refresh|Pull to Refresh]], [[03 artefatos/Carrinho de Compras|Carrinho de compras]], [[03 artefatos/Service Blueprint|Service Blueprint]], [[03 artefatos/LLM Wiki|LLM Wiki]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Atrito Decisorio|Atrito decisório]], [[02 variaveis/Friccao|Fricção]] |
 | **Genealogias relacionadas** | [[04 genealogias/Compressao do Esforco|Compressão do esforço]] |
 
 ## Referências
 
-Esta é uma formulação interpretativa do projeto. Ela deve dialogar futuramente com literatura de ergonomia, custos de interação, automação, fricção e economia comportamental sem atribuir a essas tradições a autoria do termo usado aqui.
+Esta é uma formulação interpretativa do projeto. Ela deve dialogar futuramente com literatura de ergonomia, custos de interação, automação, representações externas, fricção e economia comportamental sem atribuir a essas tradições a autoria do termo usado aqui.
