@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-10T18:17:16.295Z",
+  "generatedAt": "2026-09-10T18:18:46.461Z",
   "rule": "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
-  "candidateCount": 17,
-  "fileCount": 15,
+  "candidateCount": 19,
+  "fileCount": 16,
   "files": [
     {
       "sourcePath": "00 índices/Indice de Autores.md",
@@ -86,6 +86,23 @@
           "sourcePath": "03 artefatos/Jobs to Be Done.md",
           "kind": "frontmatter-title",
           "text": "Jobs to Be Done"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Kanban.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Kanban.md",
+          "kind": "h2",
+          "line": 24,
+          "text": "Supermercado, cartão e uma história que varia até dentro da Toyota"
+        },
+        {
+          "sourcePath": "03 artefatos/Kanban.md",
+          "kind": "h2",
+          "line": 44,
+          "text": "Visualizar não é a origem inteira do Kanban"
         }
       ]
     },

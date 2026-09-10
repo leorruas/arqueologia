@@ -96,7 +96,7 @@ Essa é uma lição de design de serviços importante. Um artefato de coordenaç
 1. Toyota Motor Corporation. *75 Years of Toyota*, seção “Supermarket Method”. História da introdução do método em 1954 e evolução para o Kanban System.
 2. Toyota Motor Corporation. *75 Years of Toyota*, seção “Development and Deployment of the Toyota Production System”. Expansão do kanban para todas as plantas em 1963 e para fornecedores em 1965.
 3. Toyota do Brasil. “Sistema Toyota de Produção”. Narrativa institucional que associa a inspiração de Ohno a supermercados observados nos Estados Unidos em 1953; mantida como versão divergente da história global da própria Toyota.
-4. [[autores/Taiichi Ohno|Taiichi Ohno]], *Toyota Production System: Beyond Large-Scale Production*.
+4. Taiichi Ohno, *Toyota Production System: Beyond Large-Scale Production*.
 5. David J. Anderson. *Kanban: Successful Evolutionary Change for Your Technology Business*. Referência para a adaptação a trabalho do conhecimento.
 
 ## Ficha arqueológica
@@ -104,7 +104,7 @@ Essa é uma lição de design de serviços importante. Um artefato de coordenaç
 - **Nome do artefato**: Kanban
 - **Categoria**: Coordenação / sinalização / gestão visual
 - **Período aproximado**: Desenvolvimento no Sistema Toyota de Produção durante os anos 1950; expansão industrial nos anos 1960; adaptações posteriores para trabalho do conhecimento
-- **Pessoas ou equipes envolvidas**: [[autores/Taiichi Ohno|Taiichi Ohno]] e equipes da Toyota; posteriormente David J. Anderson e comunidades de software e gestão
+- **Pessoas ou equipes envolvidas**: Taiichi Ohno e equipes da Toyota; posteriormente David J. Anderson e comunidades de software e gestão
 - **Produto ou contexto onde apareceu**: Sistema Toyota de Produção; posteriormente quadros físicos e digitais de gestão de trabalho
 - **Problema original**: Coordenar produção e reposição sem produzir ou transportar continuamente itens que o processo seguinte ainda não precisava
 - **Mundo antes da inovação**: Produção podia empurrar peças adiante e acumular estoque independentemente do consumo real do processo seguinte
