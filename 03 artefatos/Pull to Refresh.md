@@ -9,106 +9,75 @@ tags:
 
 # Pull to Refresh
 
-O **Pull to Refresh** tornou uma operação banal de software, atualizar uma lista, parte do próprio gesto de navegar. Sua importância está menos em “inventar o refresh” do que em perceber que um movimento já disponível na interface podia carregar uma segunda intenção.
+Atualizar uma lista já era uma operação banal de software quando o Pull to Refresh apareceu. A mudança não estava em inventar o refresh, mas em perceber que a própria navegação podia carregar uma segunda intenção. Em vez de reservar um botão para pedir conteúdo novo, a interface aproveitava um movimento que já acontecia no limite da lista.
 
-## O problema antes do artefato
+Essa pequena decisão transformou uma região quase sem função, o espaço além do topo, em comando. E produziu uma das situações mais interessantes do design de interação: um gesto que, depois de aprendido, parece tão coerente com a interface que é fácil esquecer que alguém precisou inventá-lo.
 
-Nos primeiros aplicativos para iPhone, atualizar conteúdo costumava exigir um controle dedicado. Em uma tela pequena, reservar espaço permanente para um botão de atualização competia com navegação e outras ações.
+## Um botão ocupava espaço demais
 
-## História documentada
+Nos primeiros aplicativos para iPhone, atualizar conteúdo normalmente exigia algum controle dedicado. Em uma tela pequena, cada botão disputava espaço com navegação e outras ações. Loren Brichter, criador do cliente de Twitter Tweetie, encontrou uma solução particularmente econômica no Tweetie 2: quando o usuário chegava ao topo da lista e continuava puxando, a própria rolagem passava a funcionar como pedido de atualização.
 
-O gesto apareceu no **Tweetie 2**, cliente de Twitter para iPhone criado por [[autores/Loren Brichter|Loren Brichter]] e lançado em outubro de 2009. Uma prévia publicada pela TechCrunch em 28 de setembro de 2009 já descrevia o mecanismo: em vez de um botão separado, o usuário podia puxar a lista além do topo para solicitar novas mensagens. A Wired registrou a chegada do Tweetie 2 à App Store em 9 de outubro de 2009.
+Uma prévia do Tweetie 2 publicada pela TechCrunch em 28 de setembro de 2009 já descrevia a mudança: em vez de um botão separado de recarregar, bastava rolar além do topo e manter o gesto por um instante para procurar novos tweets.[^1] A versão chegou à App Store em outubro daquele ano; a Wired registrou o lançamento em 9 de outubro de 2009.[^2]
 
-Uma troca de e-mails entre John Gruber e Brichter, datada de 1º de outubro de 2009 e posteriormente reproduzida em material de aula da Carnegie Mellon, mostra que usuários começaram rapidamente a tentar o mesmo gesto em outros aplicativos. Isso é um indício interessante de que a interação parecia transferível entre contextos.
+A atribuição mais aceita da técnica é a [[autores/Loren Brichter|Loren Brichter]]. Um projeto posterior da Carnegie Mellon sobre técnicas de interação registra entrevistas com Brichter e outros inventores de padrões de interface, tratando Pull to Refresh como sua contribuição.[^3] A documentação histórica também mostra que a solução não surgiu como metáfora de caça-níquel ou mecanismo de recompensa. Seu problema inicial era muito mais prosaico: economizar espaço e fazer o refresh caber na própria manipulação da lista.
 
-Em abril de 2010, o Twitter adquiriu a Atebits, empresa de Brichter, e o Tweetie tornou-se base para o cliente oficial do Twitter no iPhone. Não há razão para tratar a Apple como empresa que adquiriu ou integrou a Atebits.
+O detalhe do limiar é central. O gesto precisava ser longo o bastante para não disparar por acidente, mas curto o bastante para não parecer esforço. A linguagem visual de “puxe” e “solte para atualizar”, adotada e refinada por implementações posteriores, tornou explícito que havia uma fronteira entre continuar rolando e emitir um comando.
 
-### Invenção
+## O espaço além da interface virou interface
 
-A atribuição mais aceita é a [[autores/Loren Brichter|Loren Brichter]], no Tweetie 2, em 2009.
+O Pull to Refresh funciona porque conserva uma lógica espacial. Conteúdo novo costuma estar conceitualmente acima do conteúdo mais recente que já está na lista. Quando a pessoa tenta avançar além desse topo, a interface pode interpretar o excesso de movimento como intenção de buscar novidade.
 
-### Refinamento
+Isso o aproxima de [[01 conceitos/Manipulacao Direta|manipulação direta]]: o usuário continua agindo sobre o próprio objeto visível, sem precisar mudar de modo ou procurar um controle em outra região. Também se relaciona a [[01 conceitos/Affordance|affordance]], embora sua descoberta inicial dependa de aprendizagem e feedback. O comando é menos explícito que um botão. Ele economiza espaço justamente porque parte de sua possibilidade fica escondida até o gesto começar.
 
-O padrão foi reproduzido e estilizado por muitos aplicativos depois de sua estreia. A linguagem visual de “puxe” e “solte para atualizar” tornou o limiar do gesto mais explícito.
+Há, portanto, uma troca. O designer recupera área visual e reduz [[02 variaveis/Friccao|fricção]] operacional. Em contrapartida, o usuário passa a depender mais de convenção e descoberta. A interface fica mais limpa porque uma parte de sua linguagem migra do objeto estático para o movimento.
 
-### Popularização
+Essa mudança se espalhou rapidamente. Em 2010, quando o Facebook incorporou uma implementação do padrão ao seu aplicativo para iPhone, a TechCrunch já descrevia a técnica como algo amplamente reconhecido e atribuía sua origem ao trabalho de Brichter no Tweetie 2.[^4] No mesmo ano, o Twitter adquiriu a Atebits, empresa de Brichter, e transformou o Tweetie na base de seu cliente oficial para iPhone.[^5] A popularização posterior por aplicativos e componentes de plataforma transformou uma solução particular em expectativa de interface. A padronização, portanto, veio depois da invenção e dependeu de adoção coletiva.
 
-A adoção em clientes sociais e outros aplicativos móveis transformou uma solução particular do Tweetie em gesto reconhecível fora dele.
+## O gesto ganhou uma segunda história
 
-### Padronização
+Depois que o padrão se espalhou, sua função deixou de ser apenas economizar espaço. Em feeds que podem sempre conter algo novo, puxar para atualizar também pode entrar em rotinas repetidas de verificação. O mesmo gesto que resolve uma limitação espacial pode aumentar a facilidade com que alguém procura novidade outra vez.
 
-O padrão tornou-se uma expectativa comum em listas móveis e passou a ser suportado por componentes e recomendações de plataformas. A padronização é posterior à invenção e não deve ser atribuída apenas ao Tweetie.
+É aqui que aparece a relação com [[01 conceitos/Recompensa Variavel|recompensa variável]] e com a genealogia [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]]. Essa relação deve permanecer explicitamente interpretativa. Não há base para dizer que Brichter desenhou o gesto como descendente de máquinas de recompensa. A comparação é comportamental: uma ação simples pode produzir resultados novos e incertos, e essa incerteza pode tornar a repetição interessante.
 
-## Leitura arqueológica
+Por isso, o Pull to Refresh também pertence à genealogia [[04 genealogias/Compressao do Esforco|Compressão do esforço]]. Ele comprime uma ação recorrente no gesto que já estava acontecendo. Seus parentes [[03 artefatos/Slide to Unlock|Slide to Unlock]] e [[03 artefatos/Pinch to Zoom|Pinch to Zoom]] fazem algo semelhante ao transformar movimentos contínuos em comandos. [[03 artefatos/Infinite Scroll|Infinite scroll]] reduz outra interrupção explícita no fluxo de conteúdo, enquanto o [[03 artefatos/Botao Like|botão Like]] comprime uma resposta social recorrente em uma ação de baixo custo.
 
-### Problema
+A questão que sobra é menos sobre a origem do gesto e mais sobre sua mudança de papel. Quando uma solução criada para poupar espaço passa a participar de ciclos de atualização repetitiva, o artefato continua sendo o mesmo, mas a hipótese comportamental ao redor dele mudou.
 
-Como atualizar uma lista sem dedicar espaço visual permanente a um comando usado apenas ocasionalmente?
+## Ficha arqueológica
 
-### Hipótese sobre o comportamento humano
+| Campo | Registro |
+|---|---|
+| **Artefato** | Pull to Refresh |
+| **Período** | 2009 |
+| **Autoria** | [[autores/Loren Brichter|Loren Brichter]] |
+| **Produto ou contexto** | Tweetie 2 para iPhone, desenvolvido pela Atebits |
+| **Problema original** | Atualizar uma lista sem ocupar espaço permanente com um botão dedicado |
+| **Mundo antes** | Aplicativos móveis usavam controles explícitos de atualização que competiam por espaço de interface |
+| **Invenção** | Brichter incorporou a atualização ao gesto de puxar a lista além do topo no Tweetie 2 |
+| **Refinamento** | Feedback visual, limiar do gesto e linguagem de “puxe / solte para atualizar” foram reproduzidos e estilizados em implementações posteriores |
+| **Popularização** | Expansão por aplicativos móveis e pelo cliente oficial do Twitter |
+| **Padronização** | Adoção recorrente transformou o gesto em convenção reconhecível em listas móveis |
+| **Hipótese de design** | Um comando secundário pode ser absorvido por uma manipulação espacial já em curso quando a relação entre ambos permanece compreensível |
+| **Comportamento aproveitado** | Continuar puxando uma lista ao chegar ao seu limite |
+| **Comportamento produzido** | Puxar listas para solicitar atualização |
+| **Relação de poder** | Reduz controles visíveis e aumenta dependência de convenções gestuais aprendidas |
+| **Consequências inesperadas** | Participação possível em rotinas repetidas de verificação por novidade; interpretação comportamental, não intenção documentada do criador |
+| **Destino ou transformação posterior** | Tornou-se padrão amplamente incorporado a interfaces móveis |
+| **Conceitos relacionados** | [[01 conceitos/Manipulacao Direta|Manipulação direta]], [[01 conceitos/Affordance|Affordance]], [[01 conceitos/Recompensa Variavel|Recompensa variável]] |
+| **Variáveis relacionadas** | [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Atencao|Atenção]] |
+| **Genealogia** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]], [[04 genealogias/Compressao do Esforco|Compressão do esforço]] |
+| **Parentes** | [[03 artefatos/Infinite Scroll|Infinite scroll]], [[03 artefatos/Botao Like|Botão Like]], [[03 artefatos/Slide to Unlock|Slide to Unlock]], [[03 artefatos/Pinch to Zoom|Pinch to Zoom]] |
+| **Princípio de design revelado** | Um gesto frequente pode absorver uma ação secundária quando ambos compartilham a mesma lógica espacial |
+| **Questão em aberto** | Quando a atualização gestual deixou de ser apenas economia de espaço e passou a participar de comportamentos repetitivos de busca por novidade? |
 
-Uma interpretação possível é que usuários compreendem melhor um gesto quando ele preserva uma lógica espacial: se conteúdo novo estaria “acima” do item mais recente, puxar a lista para revelar essa região torna a atualização coerente com o espaço da própria lista.
+## Referências
 
-### Poder
+[^1]: MG Siegler. “Preview: Tweetie 2 Takes The Best iPhone Twitter App And Ups The Sex Appeal”. *TechCrunch*, 28 set. 2009. https://techcrunch.com/2009/09/28/preview-tweetie-2-takes-the-best-iphone-twitter-app-and-ups-the-sex-appeal/
 
-O gesto devolve espaço de interface ao designer e reduz um controle visível. Ao mesmo tempo, comandos invisíveis dependem mais de aprendizagem, convenção e descoberta do que botões explícitos.
+[^2]: Brian X. Chen. “Tweetie 2 for iPhone Flutters Into the App Store”. *Wired*, 9 out. 2009. https://www.wired.com/2009/10/tweetie-2/
 
-### Legado
+[^3]: Carnegie Mellon University. *Pick, Click, Flick! The Story of Interaction Techniques*. Projeto de Brad A. Myers e colaboradores, com entrevistas e materiais sobre inventores de técnicas de interação. https://www.cs.cmu.edu/afs/cs/usr/bam/www/ixtbook/index.html
 
-O Pull to Refresh ajudou a consolidar uma família de interações em que movimentos de navegação também funcionam como comandos. Seu sucesso mostra como uma ação pode parecer “natural” depois de aprendida mesmo tendo sido uma convenção projetada recentemente.
+[^4]: MG Siegler. “Facebook Apologizes Over ‘Pull To Refresh’ Code Lift. Attribution Added.” *TechCrunch*, 19 ago. 2010. https://techcrunch.com/2010/08/19/facebook-pull-to-refresh/
 
-## Por que funcionou
-
-A solução combina economia de espaço, continuidade gestual e coerência espacial. O usuário já está manipulando a lista; a atualização acontece no limite dessa mesma manipulação, sem troca de modo ou deslocamento para outro controle.
-
-## Consequências inesperadas
-
-Em feeds atualizados continuamente, o gesto também pode participar de rotinas repetidas de verificação por novidade. Essa consequência precisa ser tratada como **interpretação comportamental**, e não como intenção documentada do criador.
-
-## Parentes e descendentes
-
-- **Funcional**: [[03 artefatos/Infinite Scroll|Infinite Scroll]]: reduz uma interrupção explícita no fluxo de conteúdo.
-- **Comportamental**: [[03 artefatos/Botao Like|Botão Like]]: comprime uma ação recorrente em um gesto de baixo custo.
-- **Gestual**: [[03 artefatos/Slide to Unlock|Slide to Unlock]] e [[03 artefatos/Pinch to Zoom|Pinch to Zoom]]: transformam movimentos contínuos em comandos de interface.
-- **Genealogia comparativa**: [[04 genealogias/Atencao e Recompensa|Atenção e Recompensa]]: investiga a relação entre atualização, novidade e repetição sem afirmar descendência histórica de máquinas de recompensa.
-
-## Hipóteses em aberto
-
-A comparação entre Pull to Refresh e mecanismos de recompensa variável pode ser produtiva para analisar comportamento, mas não deve ser descrita como linhagem histórica sem evidência de influência direta. Uma pergunta melhor é quando um gesto criado para economizar espaço começou a participar de ciclos de atualização compulsiva.
-
-## Fontes
-
-### Fontes históricas
-
-- TechCrunch, “Preview: Tweetie 2 Takes The Best iPhone Twitter App And Ups The Sex Appeal”, 28 set. 2009.
-- Wired, “Tweetie 2 for iPhone Flutters Into the App Store”, 9 out. 2009.
-- Registros de troca entre John Gruber e Loren Brichter, 1 e 2 out. 2009, reproduzidos em material de IHC da Carnegie Mellon University.
-
-### Ficha resumo
-
-- **Nome do artefato**: Pull to Refresh
-- **Categoria**: Interface digital / gesto móvel
-- **Período aproximado**: 2009
-- **Pessoas ou equipes envolvidas**: [[autores/Loren Brichter|Loren Brichter]] / Atebits
-- **Produto ou contexto onde apareceu**: Tweetie 2 para iPhone
-- **Problema original**: Atualizar uma lista sem ocupar espaço permanente com um botão dedicado
-- **Invenção**: Loren Brichter, Tweetie 2
-- **Refinamento**: Adoções posteriores tornaram feedback e limiares do gesto mais convencionais
-- **Popularização**: Expansão do padrão por aplicativos móveis e pelo cliente oficial do Twitter
-- **Padronização**: Incorporação posterior a componentes e convenções de plataformas móveis
-- **Hipótese sobre o comportamento humano**: Um comando pode ser aprendido com facilidade quando prolonga uma manipulação espacial já em curso
-- **Relação de poder**: Reduz controles visíveis e aumenta dependência de convenções gestuais aprendidas
-- **Comportamento aproveitado**: Continuar puxando uma lista ao chegar ao seu limite
-- **Comportamento criado**: Puxar listas para solicitar atualização
-- **Por que funcionou**: Economia de espaço, continuidade do gesto e coerência espacial
-- **Consequências inesperadas**: Participação possível em rotinas repetidas de verificação por novidade
-- **Legado**: Padrão global de atualização gestual em interfaces móveis
-- **Conceitos relacionados**: [[01 conceitos/Manipulacao Direta|Manipulação Direta]], [[01 conceitos/Affordance|Affordance]], [[01 conceitos/Recompensa Variavel|Recompensa Variável]]
-- **Variáveis relacionadas**: [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Atencao|Atenção]]
-- **Genealogias**: [[04 genealogias/Atencao e Recompensa|Atenção e Recompensa]], [[04 genealogias/Compressao do Esforco|Compressão do Esforço]]
-- **Família de ideias**: Gestos que incorporam comandos ao fluxo de navegação
-- **Parentes**: [[03 artefatos/Infinite Scroll|Infinite Scroll]], [[03 artefatos/Slide to Unlock|Slide to Unlock]], [[03 artefatos/Pinch to Zoom|Pinch to Zoom]]
-- **Hipótese central**: O gesto venceu porque transformou uma região excedente da rolagem em comando coerente com a própria lista
-- **Princípio de design revelado**: Um gesto frequente pode absorver uma ação secundária quando a relação espacial entre ambos continua compreensível
-- **Destino do artefato**: Padronizado e amplamente incorporado a interfaces móveis
-- **Perguntas em aberto**: Quando a atualização gestual deixou de ser apenas economia de espaço e passou a participar de comportamentos repetitivos de busca por novidade?
+[^5]: MG Siegler. “Final Tweetie 2 Update Teases Twitter For iPhone Coming Soon”. *TechCrunch*, 28 abr. 2010. https://techcrunch.com/2010/04/28/tweetie-2-surprise/
