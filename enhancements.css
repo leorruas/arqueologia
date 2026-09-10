@@ -1,146 +1,139 @@
-/* Camada editorial da Pages: índice relacional e refinamento do leitor. */
+/* Camada editorial da Pages: lentes de leitura, relações e refinamento do leitor. */
 
-.indice-acervo {
-  padding: 40px 0 8px;
+.mapas-leitura {
+  padding: 54px 0 18px;
 }
 
-.indice-acervo .section-title {
-  margin-bottom: 18px;
+.mapas-leitura-cabecalho {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(260px, .65fr);
+  gap: 48px;
+  align-items: end;
+  margin-bottom: 22px;
 }
 
-.indice-bloco {
-  margin-bottom: 42px;
-  border-top: 1px solid color-mix(in srgb, var(--text) 42%, transparent);
+.mapas-leitura-cabecalho .section-title {
+  margin-bottom: 0;
 }
 
-.indice-bloco-cabecalho {
-  display: flex;
-  align-items: baseline;
-  justify-content: space-between;
-  gap: 18px;
-  padding: 12px 0 10px;
-  border-bottom: 1px solid color-mix(in srgb, var(--text) 25%, transparent);
-}
-
-.indice-bloco-cabecalho h3 {
-  margin: 0;
-  color: var(--text);
-  font-size: .88rem;
-  font-weight: 650;
-  letter-spacing: .01em;
-  text-transform: lowercase;
-}
-
-.indice-contagem {
+.mapas-leitura-cabecalho .eyebrow {
+  margin: 0 0 7px;
   color: var(--muted);
-  font-size: .74rem;
+  font-size: .72rem;
+  letter-spacing: .045em;
   text-transform: lowercase;
 }
 
-.indice-tipos {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+.mapas-leitura-intro {
+  max-width: 520px;
+  margin: 0 0 4px;
+  color: var(--muted);
+  font-size: .93rem;
+  line-height: 1.5;
 }
 
-.indice-tipo-card {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) auto;
-  gap: 18px;
-  align-items: baseline;
-  min-height: 68px;
-  padding: 16px 0;
-  border-bottom: 1px solid color-mix(in srgb, var(--text) 25%, transparent);
+.lentes-tabs {
+  display: flex;
+  gap: 0;
+  overflow-x: auto;
+  border-top: 1px solid color-mix(in srgb, var(--text) 35%, transparent);
+  border-bottom: 1px solid color-mix(in srgb, var(--text) 35%, transparent);
+  scrollbar-width: none;
+}
+
+.lentes-tabs::-webkit-scrollbar { display: none; }
+
+.lentes-tabs button {
+  appearance: none;
+  min-width: max-content;
+  padding: 13px 22px 12px 0;
+  margin-right: 28px;
+  border: 0;
+  border-bottom: 2px solid transparent;
+  background: transparent;
+  color: var(--muted);
+  font: inherit;
+  font-size: .86rem;
+  font-weight: 600;
+  text-transform: lowercase;
+  cursor: pointer;
+}
+
+.lentes-tabs button:hover,
+.lentes-tabs button:focus-visible {
   color: var(--text);
-  text-decoration: none;
-  transition: color .16s ease, padding-left .16s ease;
-}
-
-.indice-tipo-card:nth-child(odd) { padding-right: 34px; }
-.indice-tipo-card:nth-child(even) { padding-left: 34px; }
-.indice-tipo-card:hover,
-.indice-tipo-card:focus-visible {
-  padding-left: 8px;
-  color: var(--accent);
   outline: none;
 }
-.indice-tipo-card:nth-child(odd):hover,
-.indice-tipo-card:nth-child(odd):focus-visible { padding-left: 8px; }
 
-.indice-tipo-card strong {
-  color: currentColor;
-  font-size: 1.15rem;
-  font-weight: 540;
-  letter-spacing: -.025em;
-  text-transform: lowercase;
+.lentes-tabs button.ativo {
+  border-bottom-color: var(--accent);
+  color: var(--text);
 }
 
-.indice-tipo-card span {
-  color: var(--muted);
-  font-size: .76rem;
-  white-space: nowrap;
-}
-
-.indice-grupo {
-  display: grid;
-  grid-template-columns: minmax(165px, .48fr) minmax(0, 1.52fr);
-  gap: 28px;
-  padding: 18px 0 20px;
-  border-bottom: 1px solid color-mix(in srgb, var(--text) 25%, transparent);
-}
-
-.indice-grupo-titulo {
-  margin: 0;
-  font-size: .92rem;
-  font-weight: 650;
-  line-height: 1.2;
-}
-
-.indice-grupo-titulo a {
-  color: var(--accent);
-  text-decoration: none;
-  text-transform: lowercase;
-}
-.indice-grupo-titulo a:hover { color: var(--text); }
-
-.indice-artefatos-lista {
+.lentes-painel {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 0 24px;
+  gap: 0 34px;
+  min-height: 220px;
 }
 
-.indice-artefato-link {
-  display: block;
-  padding: 5px 0 6px;
-  border-bottom: 1px solid color-mix(in srgb, var(--text) 15%, transparent);
+.lente-card {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  min-height: 154px;
+  padding: 22px 0 24px;
+  border-bottom: 1px solid color-mix(in srgb, var(--text) 22%, transparent);
   color: var(--text);
-  font-size: .88rem;
-  line-height: 1.25;
   text-decoration: none;
-  text-transform: lowercase;
-  transition: color .15s ease, border-color .15s ease;
-}
-.indice-artefato-link:hover {
-  color: var(--accent);
-  border-bottom-color: var(--accent);
 }
 
-/* Relações geradas a partir dos wikilinks do vault. */
+.lente-card:hover strong,
+.lente-card:focus-visible strong {
+  color: var(--accent);
+}
+
+.lente-card:focus-visible {
+  outline: 1px solid var(--accent);
+  outline-offset: 5px;
+}
+
+.lente-card-kicker {
+  color: var(--muted);
+  font-size: .69rem;
+  letter-spacing: .035em;
+  text-transform: lowercase;
+}
+
+.lente-card strong {
+  max-width: 28ch;
+  font-size: clamp(1.2rem, 2vw, 1.48rem);
+  font-weight: 560;
+  line-height: 1.05;
+  letter-spacing: -.027em;
+  transition: color .15s ease;
+}
+
+.lente-card-resumo {
+  max-width: 62ch;
+  color: var(--muted);
+  font-size: .84rem;
+  line-height: 1.46;
+}
+
+/* Relações produzidas pelos wikilinks do vault. */
 .relacoes-design {
   max-width: 760px;
-  margin: 44px 0 8px;
-  padding-top: 14px;
+  margin: 54px 0 12px;
+  padding-top: 15px;
   border-top: 2px solid var(--accent);
 }
 
 .relacoes-design-cabecalho {
-  display: flex;
-  align-items: baseline;
-  justify-content: space-between;
-  gap: 20px;
-  margin-bottom: 10px;
+  margin-bottom: 18px;
 }
 
-.relacoes-design h3 {
+.relacoes-design-cabecalho h3 {
   margin: 0;
   color: var(--accent);
   font-size: .78rem;
@@ -149,27 +142,106 @@
   text-transform: lowercase;
 }
 
-.relacoes-design-cabecalho span {
+.relacoes-grupo {
+  display: grid;
+  grid-template-columns: minmax(150px, .42fr) minmax(0, 1.58fr);
+  gap: 24px;
+  padding: 13px 0 15px;
+  border-bottom: 1px solid color-mix(in srgb, var(--text) 18%, transparent);
+}
+
+.relacoes-grupo h4 {
+  margin: 2px 0 0;
   color: var(--muted);
   font-size: .72rem;
+  font-weight: 650;
+  line-height: 1.25;
+  text-transform: lowercase;
 }
 
 .relacoes-design-lista {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 0 22px;
+  gap: 0 20px;
 }
 
 .relacoes-design a {
-  padding: 8px 0;
-  border-bottom: 1px solid color-mix(in srgb, var(--text) 18%, transparent);
+  position: relative;
+  display: block;
+  padding: 4px 0 7px;
   color: var(--text);
   font-size: .88rem;
-  line-height: 1.25;
+  line-height: 1.28;
   text-decoration: none;
+}
+
+.relacoes-design a::after {
+  content: attr(data-tipo);
+  display: block;
+  margin-top: 2px;
+  color: var(--muted);
+  font-size: .64rem;
+  line-height: 1.1;
   text-transform: lowercase;
 }
+
 .relacoes-design a:hover { color: var(--accent); }
+
+/* Metadados editoriais ficam discretos e fora do fluxo narrativo. */
+.metadados-editoriais {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px 16px;
+  max-width: 720px;
+  margin: -10px 0 28px;
+  padding: 10px 0 11px;
+  border-top: 1px solid color-mix(in srgb, var(--text) 18%, transparent);
+  border-bottom: 1px solid color-mix(in srgb, var(--text) 18%, transparent);
+}
+
+.metadados-editoriais span {
+  display: inline-flex;
+  gap: 6px;
+  align-items: baseline;
+  color: var(--text);
+  font-size: .7rem;
+  line-height: 1.3;
+}
+
+.metadados-editoriais small {
+  color: var(--muted);
+  font-size: inherit;
+  text-transform: lowercase;
+}
+
+/* Fichas continuam completas no Markdown, mas viram consulta progressiva no site. */
+.bloco-consulta {
+  max-width: 760px;
+  margin: 30px 0 12px;
+  padding: 0;
+  border-top: 1px solid color-mix(in srgb, var(--text) 28%, transparent);
+  border-bottom: 1px solid color-mix(in srgb, var(--text) 28%, transparent);
+}
+
+.bloco-consulta summary {
+  padding: 13px 0 12px;
+  color: var(--muted);
+  font-size: .78rem;
+  font-weight: 650;
+  letter-spacing: .025em;
+  text-transform: lowercase;
+  cursor: pointer;
+  list-style: none;
+}
+
+.bloco-consulta summary::-webkit-details-marker { display: none; }
+.bloco-consulta summary::after { content: " +"; color: var(--accent); }
+.bloco-consulta[open] summary::after { content: " −"; }
+.bloco-consulta[open] { padding-bottom: 16px; }
+
+.bloco-consulta > :not(summary) {
+  font-size: .88rem;
+}
 
 /* Hierarquia editorial do conteúdo. */
 #artigo-titulo {
@@ -179,16 +251,26 @@
   margin-bottom: 26px;
 }
 
+.artigo-corpo {
+  font-size: 1rem;
+}
+
+.artigo-corpo > p:first-of-type {
+  max-width: 680px;
+  font-size: 1.08rem;
+  line-height: 1.62;
+}
+
 .artigo-corpo h2 {
-  margin-top: 42px !important;
-  margin-bottom: 14px !important;
+  margin-top: 48px !important;
+  margin-bottom: 15px !important;
   padding-bottom: 9px !important;
   font-size: 1.55rem !important;
   line-height: 1.08 !important;
 }
 
 .artigo-corpo h3 {
-  margin-top: 30px !important;
+  margin-top: 31px !important;
   margin-bottom: 10px !important;
   color: var(--text) !important;
   font-size: 1.18rem !important;
@@ -202,9 +284,19 @@
   font-weight: 650 !important;
 }
 
-/* Listas: um único sistema de marcadores, inclusive em níveis aninhados. */
+.artigo-corpo p {
+  max-width: 720px;
+  line-height: 1.62;
+}
+
+.artigo-corpo blockquote {
+  max-width: 680px;
+}
+
+/* Listas: um sistema discreto de marcadores, inclusive em níveis aninhados. */
 .artigo-corpo ul {
   list-style: none;
+  max-width: 720px;
   padding-left: 0;
   margin: 0 0 18px;
 }
@@ -236,12 +328,13 @@
   line-height: 1.55;
 }
 
-/* Quando um item funciona como título de um subgrupo, ele deixa de parecer bullet. */
 .artigo-corpo li.lista-grupo {
   margin-top: 22px;
   padding-left: 0;
 }
+
 .artigo-corpo li.lista-grupo::before { display: none; }
+
 .artigo-corpo li.lista-grupo > strong:first-child,
 .artigo-corpo li.lista-grupo > p:first-child > strong:first-child {
   display: inline;
@@ -250,6 +343,7 @@
   font-weight: 680;
   line-height: 1.25;
 }
+
 .artigo-corpo li.lista-grupo > ul,
 .artigo-corpo li.lista-grupo > ol {
   margin-top: 9px;
@@ -258,15 +352,15 @@
   border-top: 1px solid color-mix(in srgb, var(--text) 20%, transparent);
 }
 
-body.viewing .indice-acervo,
-.indice-acervo.escondido { display: none !important; }
+body.viewing .mapas-leitura,
+.mapas-leitura.escondido { display: none !important; }
 
 @media (max-width: 760px) {
-  .indice-tipos { grid-template-columns: 1fr; }
-  .indice-tipo-card,
-  .indice-tipo-card:nth-child(odd),
-  .indice-tipo-card:nth-child(even) { padding-left: 0; padding-right: 0; }
-  .indice-grupo { grid-template-columns: 1fr; gap: 10px; }
-  .indice-artefatos-lista,
+  .mapas-leitura { padding-top: 36px; }
+  .mapas-leitura-cabecalho { grid-template-columns: 1fr; gap: 10px; }
+  .lentes-painel { grid-template-columns: 1fr; }
+  .lente-card { min-height: 0; }
+  .relacoes-grupo { grid-template-columns: 1fr; gap: 7px; }
   .relacoes-design-lista { grid-template-columns: 1fr; }
+  .metadados-editoriais { margin-top: -4px; }
 }
