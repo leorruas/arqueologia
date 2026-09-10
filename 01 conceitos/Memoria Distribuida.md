@@ -53,7 +53,11 @@ Hutchins estudou navegação naval para mostrar algo mais radical do que simples
 
 Isso é particularmente útil para design de serviços. Uma organização “sabe” coisas por meio de formulários, bancos de dados, pessoas, procedimentos e interfaces. Quando esses elementos não se conectam, a instituição pode parecer esquecer repetidamente o que cada parte individual já sabia.
 
-A pergunta de design deixa então de ser apenas “como ajudar o usuário a lembrar?” e passa a ser: **onde a informação precisa permanecer para que o sistema inteiro consiga continuar agindo?**
+A [[03 artefatos/LLM Wiki|LLM Wiki]] oferece um caso contemporâneo particularmente interessante para esta lente. Nela, o suporte externo não apenas conserva informação para consulta posterior: um agente recebe a tarefa de resumir, relacionar e reorganizar representações persistentes entre consultas. Isso não demonstra que o sistema “lembra” ou “pensa” do mesmo modo que uma pessoa. O que muda é a divisão funcional do trabalho: parte da manutenção da memória externa passa a ser executada pela própria infraestrutura.
+
+Esse deslocamento torna ainda mais importante observar a unidade de análise. Se uma resposta futura depende simultaneamente de fontes brutas, páginas sintetizadas, regras do agente, histórico de edições e julgamento humano, atribuir o resultado apenas ao modelo ou apenas ao usuário esconde o sistema que tornou aquela resposta possível.
+
+A pergunta de design deixa então de ser apenas “como ajudar o usuário a lembrar?” e passa a ser: **onde a informação precisa permanecer — e quem pode transformá-la — para que o sistema inteiro consiga continuar agindo?**
 
 ## Ficha do conceito
 
@@ -66,8 +70,8 @@ A pergunta de design deixa então de ser apenas “como ajudar o usuário a lemb
 | **Área principal** | Ciência cognitiva / antropologia cognitiva / IHC |
 | **Distinção central** | Informação necessária para agir pode estar distribuída entre pessoas, objetos, representações e ambiente, não apenas armazenada internamente por um indivíduo |
 | **O que ajuda a explicar** | Como artefatos preservam estados, intenções e referências que sustentam ação coletiva e individual |
-| **O que não explica sozinho** | Qualidade da memória individual, embodied cognition ou se externalização sempre melhora desempenho |
-| **Artefatos-chave** | [[03 artefatos/Post-it|Post-it]], [[03 artefatos/Fila|Fila]], [[03 artefatos/Calendário|Calendário]], [[03 artefatos/Numero de Protocolo|Número de protocolo]] |
+| **O que não explica sozinho** | Qualidade da memória individual, embodied cognition, se externalização sempre melhora desempenho ou se sistemas artificiais possuem memória/cognição no mesmo sentido humano |
+| **Artefatos-chave** | [[03 artefatos/Post-it|Post-it]], [[03 artefatos/Fila|Fila]], [[03 artefatos/Calendário|Calendário]], [[03 artefatos/Numero de Protocolo|Número de protocolo]], [[03 artefatos/LLM Wiki|LLM Wiki]] |
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]] |
 | **Genealogias relacionadas** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]], [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]] |
 
