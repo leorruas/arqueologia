@@ -13,11 +13,6 @@ A presença aqui não obriga a criação de uma nota. Cada pista deve ser avalia
 
 ## Permanência e memória externa
 
-- **Guarda-roupa**: aparece em `05 percursos/Como o Design Aprendeu a Guardar.md`; estudar a passagem de contenção para classificação espacial e acesso recorrente.
-- **Diário**: aparece em `05 percursos/Como o Design Aprendeu a Guardar.md`; possível caso central para uma genealogia de registro, memória externa e auto-observação.
-- **App de tracking de gastos**: aparece em `05 percursos/Como o Design Aprendeu a Guardar.md`; investigar como registro financeiro deixa de apenas preservar o passado e volta como feedback sobre comportamento.
-- **Banco de dados**: aparece em `05 percursos/Como o Design Aprendeu a Guardar.md`; estudar a passagem de guardar por localização para guardar por endereçamento, esquema e consulta.
-- **Arquivo em nuvem**: aparece em `05 percursos/Como o Design Aprendeu a Guardar.md` e `04 genealogias/Portabilidade e Desancoragem.md`; estudar a desancoragem entre posse percebida, armazenamento físico e acesso.
 - **Lixeira**: investigar o paradoxo de preservar temporariamente aquilo que o usuário decidiu apagar. Pode ligar permanência, reversibilidade e confiança na própria decisão.
 - **Histórico de versões**: investigar a transformação de um estado anterior em infraestrutura recuperável. Diferenciar memória do documento, memória do sistema e autoria de mudanças.
 - **Rascunho**: estudar como uma representação pode existir sem adquirir ainda o estatuto de versão final. É parente tanto de permanência quanto de reversibilidade.
@@ -25,8 +20,6 @@ A presença aqui não obriga a criação de uma nota. Cada pista deve ser avalia
 
 ## Portabilidade e desancoragem
 
-- **Mochila**: aparece em `04 genealogias/Portabilidade e Desancoragem.md`; estudar armazenamento corporal ampliado, distribuição de peso e mobilidade de pequenos ambientes de objetos.
-- **Carteira**: aparece em `04 genealogias/Portabilidade e Desancoragem.md`; estudar a passagem de carregar coisas para carregar dinheiro, identidade e autorização.
 - **Chave**: investigar como um objeto pequeno pode transportar capacidade de acesso sem transportar o recurso acessado. Também funciona como artefato de limiar.
 - **Passaporte**: investigar a portabilidade institucional da identidade e da permissão de atravessar fronteiras.
 - **Cartão bancário**: estudar a passagem de transportar valor para transportar credenciais capazes de mobilizar valor mantido em outra infraestrutura.
@@ -76,3 +69,13 @@ A presença aqui não obriga a criação de uma nota. Cada pista deve ser avalia
 Quando uma pista ganha nota própria, ela deixa de funcionar como promessa futura e passa a integrar o acervo. O histórico pode ser preservado aqui apenas quando ajudar a entender a evolução do projeto.
 
 - **Espelho**: promovido diretamente a `03 artefatos/Espelho.md` para investigar auto-observação, feedback visual contínuo e a passagem da reflexão privada à imagem capturada.
+- **Bolso**: promovido a `03 artefatos/Bolso.md` como armazenamento acoplado ao corpo.
+- **Baú**: promovido a `03 artefatos/Baú.md` como tecnologia de contenção e localização.
+- **Cofre**: promovido a `03 artefatos/Cofre.md` como armazenamento projetado contra ameaça e acesso não autorizado.
+- **Guarda-roupa**: promovido a `03 artefatos/Guarda-roupa.md` para investigar classificação espacial e recuperação.
+- **Mochila**: promovida a `03 artefatos/Mochila.md` para investigar distribuição de carga e portabilidade corporal.
+- **Carteira**: promovida a `03 artefatos/Carteira.md` para investigar a passagem de valor físico a credenciais portáteis.
+- **Diário**: promovido a `03 artefatos/Diário.md` para investigar registro, memória e reflexão.
+- **App de tracking de gastos**: promovido a `03 artefatos/App de tracking de gastos.md` para investigar registro automático que retorna como feedback comportamental.
+- **Banco de dados**: promovido a `03 artefatos/Banco de dados.md` para investigar armazenamento por relações e consulta.
+- **Arquivo em nuvem**: promovido a `03 artefatos/Arquivo em nuvem.md` para investigar desancoragem entre armazenamento físico e acesso.
