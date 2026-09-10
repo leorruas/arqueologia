@@ -2,8 +2,8 @@
 title: "Autonomia da atenção"
 type: "conceito"
 status: "publicado"
-origem: "hipótese-do-projeto"
-grau: "experimental"
+origem: "adaptação"
+grau: "debatido"
 tags:
   - design/conceito
   - arqueologia
@@ -13,9 +13,9 @@ tags:
 
 Duas interfaces podem exigir a mesma quantidade total de atenção e ainda assim produzir experiências muito diferentes. Em uma, a pessoa decide quando procurar a informação. Na outra, o sistema decide quando interrompê-la.
 
-**Autonomia da atenção** é uma hipótese conceitual deste projeto para estudar essa diferença. Ela descreve o grau de poder que uma pessoa conserva sobre **quando, por quê e por quanto tempo seu foco será deslocado**.
+**Autonomia da atenção** é uma adaptação conceitual deste projeto para estudar essa diferença. Ela combina discussões já existentes sobre atenção, autonomia, interrupção e economia da atenção numa lente específica de design: o grau de poder que uma pessoa conserva sobre **quando, por quê e por quanto tempo seu foco será deslocado**.
 
-O conceito não pretende substituir a literatura sobre atenção, interrupção, persuasão ou economia da atenção. Ele funciona como uma lente de projeto: pergunta quem inicia a disputa pelo foco e quais mecanismos permitem ao usuário adiar, ignorar, recuperar ou encerrar essa disputa.
+O conceito não pretende substituir essas literaturas nem afirmar que exista nelas uma teoria consolidada com este nome e esta formulação. Ele pergunta quem inicia a disputa pelo foco e quais mecanismos permitem ao usuário adiar, ignorar, recuperar ou encerrar essa disputa.
 
 ## Pull e push não são simplesmente bom e ruim
 
@@ -43,7 +43,7 @@ Uma interface que respeita atenção não precisa necessariamente ser silenciosa
 
 Por isso, autonomia da atenção se aproxima de poder mais do que de estética minimalista. Uma interface visualmente calma pode continuar decidindo tudo pelo usuário. Uma interface movimentada pode oferecer controle significativo.
 
-A hipótese do projeto é que uma boa medida qualitativa de autonomia atencional não é “há poucas notificações?”, mas: **a pessoa consegue determinar as condições sob as quais sua atenção será convocada?**
+A hipótese interpretativa do projeto é que uma boa medida qualitativa de autonomia atencional não é “há poucas notificações?”, mas: **a pessoa consegue determinar as condições sob as quais sua atenção será convocada?**
 
 Isso torna o conceito especialmente útil para analisar sistemas cujo modelo econômico depende de permanência e retorno frequente. O objetivo não é presumir manipulação em toda interface engajante, mas tornar visível quando interesses do sistema e do usuário entram em tensão pelo mesmo recurso cognitivo.
 
@@ -52,9 +52,9 @@ Isso torna o conceito especialmente útil para analisar sistemas cujo modelo eco
 | Campo | Registro |
 |---|---|
 | **Conceito** | Autonomia da atenção |
-| **Origem** | Hipótese do projeto |
-| **Grau de consolidação** | Experimental |
-| **Formulação associada a** | Arqueologia do Design; inspirada por estudos de atenção, interrupção, economia da atenção e autonomia |
+| **Origem** | Adaptação |
+| **Grau de consolidação** | Debatido; a formulação específica é do projeto, apoiada em tradições externas |
+| **Formulação associada a** | Arqueologia do Design; estudos de atenção, interrupção, economia da atenção e autonomia |
 | **Área principal** | Design de interação / psicologia da atenção / ética do design |
 | **Distinção central** | Quantidade de atenção exigida não é a mesma coisa que poder sobre quando o foco será deslocado |
 | **O que ajuda a explicar** | Quem inicia, modula e encerra interrupções ou ciclos de busca por informação |
@@ -65,4 +65,4 @@ Isso torna o conceito especialmente útil para analisar sistemas cujo modelo eco
 
 ## Referências
 
-Esta é uma formulação interpretativa do projeto. Sua futura consolidação deve mapear de modo mais sistemático literatura sobre atenção voluntária, interrupções, persuasão, autonomia e economia da atenção, sem atribuir a qualquer uma dessas tradições a autoria direta deste conceito.
+A formulação usada aqui é uma adaptação do projeto. Sua consolidação deve mapear de modo mais sistemático literatura sobre atenção voluntária, interrupções, persuasão, autonomia e economia da atenção, sem atribuir a qualquer uma dessas tradições a autoria direta desta combinação conceitual.
