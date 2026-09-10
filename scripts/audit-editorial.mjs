@@ -16,6 +16,14 @@ const categorias = new Set([
 
 const conectivos = new Set(["a","as","o","os","de","da","das","do","dos","e","em","na","nas","no","nos","para","por","com","sem","ou"]);
 const siglas = /^[A-Z0-9][A-Z0-9.-]{1,}$/;
+const headingsLegadosArtefato = new Set([
+  "ficha técnica",
+  "ficha resumo",
+  "história e contexto de criação",
+  "inovação e impacto",
+  "evolução e desenvolvimento",
+  "referências e onde encontrar"
+]);
 
 function listarMarkdowns(diretorio, acumulador = []) {
   for (const entrada of fs.readdirSync(diretorio, { withFileTypes: true })) {
@@ -55,6 +63,7 @@ function headingEhApenasLink(texto) {
 }
 
 const candidatos = [];
+const estruturasLegadas = [];
 
 for (const arquivo of listarMarkdowns(raiz)) {
   const relativo = path.relative(raiz, arquivo).split(path.sep).join("/");
@@ -74,6 +83,11 @@ for (const arquivo of listarMarkdowns(raiz)) {
     const nivel = match[1].length;
     const texto = match[2].replace(/\s+#+\s*$/, "").trim();
     if (nivel === 1 || headingEhApenasLink(texto)) return;
+
+    if (categoria === "03 artefatos" && headingsLegadosArtefato.has(texto.toLowerCase())) {
+      estruturasLegadas.push({ sourcePath: relativo, line: indice + 1, text: texto });
+    }
+
     if (palavrasCapitalizadas(texto).length >= 1) {
       candidatos.push({ sourcePath: relativo, kind: `h${nivel}`, line: indice + 1, text: texto });
     }
@@ -86,13 +100,22 @@ for (const item of candidatos) {
   porArquivo.get(item.sourcePath).push(item);
 }
 
+const legadosPorArquivo = new Map();
+for (const item of estruturasLegadas) {
+  if (!legadosPorArquivo.has(item.sourcePath)) legadosPorArquivo.set(item.sourcePath, []);
+  legadosPorArquivo.get(item.sourcePath).push(item);
+}
+
 const relatorio = {
   generatedAt: new Date().toISOString(),
   rule: "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
   candidateCount: candidatos.length,
   fileCount: porArquivo.size,
-  files: [...porArquivo.entries()].map(([sourcePath, items]) => ({ sourcePath, items }))
+  files: [...porArquivo.entries()].map(([sourcePath, items]) => ({ sourcePath, items })),
+  legacyArtifactStructureCount: estruturasLegadas.length,
+  legacyArtifactFileCount: legadosPorArquivo.size,
+  legacyArtifactFiles: [...legadosPorArquivo.entries()].map(([sourcePath, items]) => ({ sourcePath, items }))
 };
 
 fs.writeFileSync(path.join(raiz, "editorial-report.json"), JSON.stringify(relatorio, null, 2));
-console.log(`Auditoria editorial: ${candidatos.length} candidatos em ${porArquivo.size} arquivos.`);
+console.log(`Auditoria editorial: ${candidatos.length} candidatos em ${porArquivo.size} arquivos; ${estruturasLegadas.length} headings legados em ${legadosPorArquivo.size} artefatos.`);
