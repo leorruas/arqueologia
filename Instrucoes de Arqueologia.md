@@ -101,6 +101,59 @@ Isso evita transformar analogias interessantes em afirmações históricas falsa
 
 A pasta `05 percursos/` organiza sequências editoriais. Um percurso não cria uma nova taxonomia: ele monta uma leitura. Deve começar com uma pergunta e conduzir o leitor por estudos existentes, explicitando por que cada passagem importa.
 
+## Protocolo de propagação
+
+Criar ou revisar um estudo não termina na nota principal. A operação só está concluída depois de verificar quais outras camadas do vault precisam mudar por causa do novo conhecimento. O agente deve tratar cada artigo como um nó que pode alterar a rede existente.
+
+### Varredura obrigatória de relações
+
+Depois de escrever ou revisar um artefato, procure ativamente relações com:
+
+- `00 tipos de design/`: uma ou mais áreas em que a decisão de projeto realmente opera;
+- `01 conceitos/`: mecanismos, ideias ou interpretações reutilizáveis;
+- `02 variaveis/`: eixos comparáveis que o artefato aumenta, reduz ou redistribui;
+- `03 artefatos/`: antecedentes, descendentes, concorrentes e parentes históricos, funcionais, semióticos ou comportamentais;
+- `04 genealogias/`: famílias de ideias às quais o artefato acrescenta evidência;
+- `05 percursos/`: sequências de leitura cuja argumentação fica mais clara com o novo estudo;
+- `autores/`: pessoas ou equipes com papel material em invenção, refinamento, popularização, padronização ou formulação teórica;
+- `empresas/`: organizações cujo papel histórico ajuda a explicar a circulação ou transformação da ideia;
+- `00 índices/Livros Indicados.md`: obras realmente úteis para sustentar a história, a interpretação ou a investigação futura.
+
+A varredura deve considerar tanto relações já nomeadas no artigo quanto relações descobertas ao comparar o novo estudo com o acervo existente.
+
+### Propagação bidirecional
+
+Sempre que uma relação relevante for confirmada, não basta criar um wikilink no artigo novo. Verifique também se a nota relacionada possui seção, inventário ou argumento que deva receber o vínculo de volta. Um novo artefato pode exigir atualização de uma genealogia, de um percurso, de uma variável, de um conceito, de um tipo de design ou de outro artefato mais antigo.
+
+O objetivo é evitar relações unilaterais e artigos órfãos. A ausência de vínculo continua válida quando não houver base suficiente: não force classificações apenas para preencher a rede.
+
+### Quando criar notas secundárias
+
+Crie uma nova nota secundária quando ela tiver utilidade própria além do artigo que a originou.
+
+- **Conceito**: criar quando a ideia explicar mais de um caso, vier da literatura ou puder funcionar como hipótese reutilizável do projeto. Uma observação local deve permanecer no artefato.
+- **Variável**: criar quando houver um eixo comparável observável em diferentes artefatos. Se não houver polos ou possibilidade de comparação, trate como conceito ou hipótese.
+- **Autor**: criar quando a pessoa tiver contribuição material para a ideia investigada ou aparecer de forma recorrente no acervo. Menções incidentais não justificam perfil.
+- **Empresa**: criar quando a organização tiver papel explicativo na história da ideia, e não apenas porque fabricou, vendeu ou hospedou o artefato.
+- **Livro**: registrar em `00 índices/Livros Indicados.md` quando a obra for uma leitura útil para o projeto e relacioná-la ao autor correspondente. O vault não exige uma nota própria para cada livro.
+- **Genealogia**: criar quando houver uma família de relações que atravesse casos e, de preferência, disciplinas ou épocas. Um único parentesco entre dois artefatos normalmente deve ficar nas notas existentes até surgir um padrão maior.
+- **Percurso**: criar quando houver uma pergunta editorial que peça uma sequência de estudos. Um percurso não deve existir apenas para agrupar artigos do mesmo assunto.
+- **Tipo de design**: criar uma nova área apenas quando houver um domínio reconhecível de prática ou uma lente disciplinar estável que não esteja representada no mapa atual.
+
+### Critério para genealogias e percursos existentes
+
+Antes de criar uma nova genealogia ou percurso, verifique os arquivos existentes. Se o novo artigo fortalece, tensiona ou contradiz a tese de uma estrutura já presente, atualize essa estrutura. Uma genealogia deve explicar o tipo de parentesco; um percurso deve explicar por que a nova etapa altera a leitura.
+
+### Entidades, fontes e papéis históricos
+
+Autores, empresas e livros são contexto para ideias. Ao propagá-los, registre qual papel cumprem. Sempre que possível, diferencie quem inventou, refinou, popularizou ou padronizou. Uma empresa associada ao produto não deve receber crédito automático pela invenção, e uma obra teórica não deve ser tratada como prova histórica de um evento que não documenta.
+
+### Fechamento da operação
+
+Depois da propagação, atualize os índices afetados e `log.md`. O log deve registrar não apenas a criação da nota principal, mas também as mudanças relevantes que ela provocou na rede. Antes de encerrar, verifique wikilinks sem destino e confirme que as relações novas aparecem nas duas pontas quando a arquitetura das notas pedir reciprocidade.
+
+Uma criação pode ser considerada completa quando o artigo está integrado ao acervo, e não apenas quando o arquivo existe.
+
 ## Modos de funcionamento
 
 ### Modo história
