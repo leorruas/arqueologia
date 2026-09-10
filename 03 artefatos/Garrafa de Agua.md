@@ -1,6 +1,7 @@
 ---
 title: "Garrafa de água"
 type: "artefato"
+status: "publicado"
 tags:
   - design/artefato
   - arqueologia
@@ -8,41 +9,84 @@ tags:
 
 # Garrafa de água
 
-A **Garrafa de Água** é um recipiente portátil projetado para armazenar, transportar e facilitar o consumo direto de líquidos. Como artefato, ela marca a transição da hidratação como uma atividade vinculada a pontos geográficos fixos para um comportamento móvel e individualizado que acompanha o corpo em movimento.
+Carregar água parece uma ação tão banal que é fácil esquecer o que ela faz com o espaço. Uma **garrafa de água** reduz a dependência entre uma necessidade fisiológica recorrente e o lugar exato onde existe uma fonte. Seu efeito histórico não está em inventar a portabilidade, que é muito antiga, mas em tornar essa portabilidade cada vez mais barata, individual, previsível e permanente.
 
-## Ficha técnica
-- **Criador(es)**: Evolução histórica coletiva (recipientes antigos); William Stanley Jr. (invenção da garrafa isolada a vácuo em 1913); Nathaniel Wyeth (patente da garrafa de plástico PET em 1973)
-- **Empresa/Fabricante**: [[empresas/Apple|Xerox]] / [[empresas/3M|3M]] / **Stanley** (e outras fabricantes industriais e tradicionais)
-- **Ano de Lançamento**: Pré-histórico (recipientes de couro/argila); 1913 (térmica de aço); 1973 (PET)
-- **Materiais/Mídia**: Couro, argila, vidro, plástico PET, alumínio, aço inoxidável
-- **Tipo de Design**: [[00 tipos de design/Design de Produto|Design de Produto]]
+## Água já era portátil muito antes da garrafa moderna
 
-## História e contexto de criação
-- **Demanda / Problema**: Durante a maior parte da história humana, as pessoas não carregavam água consigo; elas iam até onde a água estava (poços, rios, fontes e aquedutos). O problema que a garrafa resolve não é o transporte em si, mas o acesso contínuo. A garrafa de água surgiu para tornar a hidratação portátil, de modo que o usuário não precisasse interromper suas atividades cotidianas ou deslocamentos para buscar água.
-- **O Mundo Antes da Inovação**: O acesso à água era estritamente episódico e geográfico. O ato de beber era predominantemente coletivo e compartilhado: as pessoas bebiam juntas da mesma fonte, jarra ou copo comunitário nos vilarejos e residências.
+A versão anterior desta nota dizia que, durante a maior parte da história humana, as pessoas não carregavam água consigo. Essa afirmação é forte demais. Recipientes portáteis para líquidos são antigos e aparecem em muitas culturas. Frascos cerâmicos, odres, cabaças e cantis permitiam transportar água, vinho e outros líquidos muito antes da industrialização. O Metropolitan Museum, por exemplo, conserva frascos antigos com dimensões e formas compatíveis com uso pessoal semelhante ao de um cantil.
 
-## Inovação e impacto
-- **Ampliação de Capacidade**: Amplia a mobilidade geográfica, a autonomia física de sobrevivência do corpo e a capacidade de realizar longos trabalhos contínuos sem interrupção.
-- **Enfraquecimento de Capacidade**: Enfraquece a dependência de infraestruturas hídricas comunitárias locais e a prática social do compartilhamento do recurso hídrico.
-- **Comportamento Coletivo**: Criou a cultura da hidratação individual preventiva (beber água constantemente, mesmo antes de sentir sede) e transformou o recipiente de água em um acessório de identidade pessoal e profissional (como a garrafa Stanley ou a garrafa de grife), sinalizando estilo de vida e pertencimento social.
-- **Linhagem e Descendência**: Descendente direta dos odres de couro antigos, cabaças e cantis militares. Gerou as garrafas PET comerciais e as modernas garrafas de aço com isolamento térmico a vácuo.
-- **Custo Invisível**: A geração massiva de resíduos plásticos descartáveis no meio ambiente (no caso da garrafa PET) e a privatização de um recurso natural comum em favor de sua comercialização individualizada.
+O problema histórico, portanto, não é uma passagem simples de “água fixa” para “água móvel”. A questão mais interessante é o grau de continuidade de acesso. Um recipiente portátil permite deslocar uma pequena reserva junto com o corpo. Poços, fontes, rios e redes urbanas continuam sendo infraestruturas essenciais, mas deixam de determinar cada momento de consumo.
 
-## Referências e onde encontrar
-- **Acervos**: Coleções de design industrial e antropologia no British Museum e no Smithsonian.
-- **Leituras**: Estudos sobre a história da infraestrutura hídrica urbana e a mercantilização da água mineral.
+## Da reserva transportada ao objeto industrial
 
----
+Não existe um inventor único da garrafa de água. O artefato resulta de uma longa evolução de recipientes em couro, cerâmica, vidro, metal e materiais poliméricos. Duas inovações modernas, porém, mudaram propriedades importantes dessa família.
 
-### Ficha resumo
+Em 1913, William Stanley Jr. desenvolveu uma garrafa de parede dupla de aço com isolamento a vácuo. A inovação não criou a portabilidade do líquido, mas aumentou a capacidade de transportar também uma condição térmica por mais tempo. A garrafa passa a carregar não apenas água ou café, mas frio ou calor preservados.
 
-- **Nome do artefato**: Garrafa de Água
-- **Ano aproximado**: Antiguidade (modernização industrial em 1913 e 1973)
-- **Pessoas ou equipes envolvidas**: William Stanley Jr. (garrafa térmica), Nathaniel Wyeth (PET)
-- **Produto onde apareceu**: Garrafas térmicas Stanley, garrafas plásticas de água mineral
-- **Problema que resolvia**: O acesso localizado, geográfico e intermitente à água, permitindo a hidratação contínua e individualizada em trânsito
-- **Comportamento aproveitado**: A necessidade fisiológica diária de água do organismo humano
-- **Comportamento criado**: O consumo de água individual preventivo, o uso de recipientes pessoais de água como acessórios de moda/estilo e a dependência de água engarrafada de marca
-- **Impacto histórico**: Converteu a hidratação de um ato público e compartilhado atrelado a lugares específicos em um recurso portátil individual, mercantilizado e constante
-- **Conceitos relacionados**: [[01 conceitos/Continuidade de Acesso|Continuidade de Acesso]], [[01 conceitos/Tecnologia de Acesso|Tecnologia de Acesso]], [[02 variaveis/Variabilidade|Variabilidade]], [[02 variaveis/Expectativa de Disponibilidade|Expectativa de Disponibilidade]]
-- **Artefatos relacionados para estudos futuros**: Copo Stanley, Cantil Militar, Garrafa PET
+Outra transformação ocorreu com recipientes de PET. A patente norte-americana publicada em 1973 para uma garrafa de poli(tereftalato de etileno) biaxialmente orientado lista Nathaniel Wyeth e Ronald Roseveare como inventores. A combinação entre leveza, resistência e produção industrial ajudou a tornar recipientes plásticos adequados ao transporte massivo de bebidas, inclusive sob pressão.
+
+Esses dois episódios pertencem à história da garrafa moderna, mas não devem ser confundidos com a invenção da própria ideia de carregar água. Eles são refinamentos materiais que alteram custo, conservação, peso e escala de distribuição.
+
+## O que muda quando a água acompanha o corpo
+
+A garrafa participa diretamente da genealogia [[04 genealogias/Acesso e Disponibilidade|Acesso e disponibilidade]]. Ela aumenta a [[02 variaveis/Expectativa de Disponibilidade|Expectativa de Disponibilidade]] porque permite que a pessoa não apenas saiba que encontrará água em algum lugar, mas carregue uma porção dela consigo.
+
+Isso reorganiza pequenas decisões. Beber deixa de depender apenas de chegar a uma fonte, pedir um copo ou interromper uma atividade. O recipiente aproxima recurso e corpo, reduzindo a fricção entre necessidade e consumo.
+
+A versão anterior chamava esse comportamento de “hidratação preventiva”, beber antes de sentir sede. A garrafa certamente pode facilitar esse hábito, mas não é possível tratá-lo como consequência histórica exclusiva ou automática do recipiente. É mais seguro dizer que aumentar a disponibilidade reduz o custo de beber e torna possíveis rotinas de consumo mais frequentes.
+
+## De recipiente a objeto de identidade
+
+Em muitos contextos contemporâneos, a garrafa pessoal também deixou de ser apenas infraestrutura de transporte. Cor, marca, tamanho, formato e material podem funcionar como sinais de estilo de vida, ocupação e pertencimento. A Stanley é um caso particularmente visível dessa passagem do objeto utilitário para acessório de identidade.
+
+Essa mudança é importante porque mostra duas histórias diferentes convivendo no mesmo artefato. A primeira é funcional: transportar água e controlar suas condições. A segunda é semiótica: usar o próprio recipiente para comunicar algo sobre quem o carrega.
+
+Isso aproxima a garrafa, por hipótese comparativa, do smartphone. A relação não é formal nem histórica. Ambos são objetos pessoais que reduzem a distância entre uma necessidade recorrente e o recurso capaz de atendê-la. A garrafa mantém água próxima; o smartphone mantém comunicação, informação e pessoas potencialmente próximas. Em ambos os casos, a disponibilidade pode deixar de ser ocasião e se tornar expectativa.
+
+## O custo de tornar o acesso permanente
+
+O aumento de portabilidade também pode deslocar custos para outros lugares. Garrafas descartáveis transformam água em unidade comercial transportável, mas dependem de cadeias industriais de produção, enchimento, distribuição e descarte. A leveza e conveniência do PET participam de um sistema que também produz grande volume de resíduos.
+
+Há ainda uma dimensão política: quando água potável é oferecida principalmente por recipientes individuais vendidos no mercado, uma necessidade comum pode ser tratada como produto privado. Isso não significa que a garrafa “privatize a água” por si só. O artefato pode participar tanto de sistemas públicos de reabastecimento quanto de modelos comerciais de água engarrafada.
+
+A mesma ambiguidade aparece nas garrafas reutilizáveis. Elas podem reduzir descarte e fortalecer autonomia de acesso, mas também se transformar em bens de moda, colecionáveis ou marcadores de status. Um artefato criado para carregar um recurso básico pode terminar carregando também valor simbólico.
+
+## Referências
+
+1. The Metropolitan Museum of Art. Coleções de “pilgrim flasks” e outros recipientes portáteis antigos para líquidos.
+2. Stanley 1913. História de William Stanley Jr. e da garrafa de aço com isolamento a vácuo, 1913.
+3. US Patent 3,733,309. Nathaniel Wyeth e Ronald Roseveare. “Biaxially oriented poly(ethylene terephthalate) bottle”, publicada em 15 maio 1973.
+4. Smithsonian Lemelson Center. Materiais sobre Nathaniel Wyeth e recipientes de PET.
+
+## Ficha arqueológica
+
+- **Nome do artefato**: Garrafa de água
+- **Categoria**: Produto / recipiente portátil
+- **Período aproximado**: Antecedentes antigos; refinamentos industriais decisivos nos séculos XIX e XX
+- **Pessoas ou equipes envolvidas**: Evolução coletiva de recipientes portáteis; William Stanley Jr.; Nathaniel Wyeth; Ronald Roseveare
+- **Produto ou contexto onde apareceu**: Odres, cabaças, frascos, cantis, garrafas térmicas, garrafas PET e garrafas reutilizáveis contemporâneas
+- **Problema original**: Transportar uma reserva de líquido para reduzir dependência de uma fonte fixa durante deslocamentos e atividades
+- **Mundo antes da inovação**: Não há um único “antes”; diferentes sociedades combinaram fontes fixas e recipientes portáteis de diversas formas
+- **Invenção**: Sem inventor identificável para a garrafa como categoria
+- **Refinamento**: Novos materiais e sistemas de vedação, isolamento térmico e produção industrial alteraram peso, conservação e custo
+- **Popularização**: Industrialização de recipientes de vidro, metal e plástico e expansão do mercado de bebidas engarrafadas
+- **Padronização**: Garrafas portáteis tornaram-se parte comum de deslocamentos, trabalho, esporte e consumo cotidiano
+- **Hipótese sobre o comportamento humano**: Quando um recurso necessário pode acompanhar o corpo, pessoas reorganizam rotinas para depender menos do lugar onde esse recurso originalmente está
+- **Relação de poder**: Aumenta autonomia individual de transporte, mas também pode transferir acesso a um recurso comum para cadeias comerciais de embalagem e venda
+- **Comportamento aproveitado**: Necessidade recorrente de beber e prática antiga de transportar provisões
+- **Comportamento criado**: Rotinas de carregar permanentemente um recipiente pessoal e, em certos contextos, usá-lo como marcador de identidade
+- **Capacidade ampliada**: Mobilidade, continuidade de acesso e, em garrafas térmicas, conservação de temperatura
+- **Capacidade reduzida ou deslocada**: Menor dependência imediata de pontos coletivos de água, embora a infraestrutura de abastecimento continue indispensável
+- **Custo invisível**: Resíduos e logística no modelo descartável; mercantilização e consumo simbólico em alguns mercados reutilizáveis
+- **Por que funcionou**: Aproxima uma necessidade recorrente de seu recurso e permite transportar uma reserva previsível junto ao corpo
+- **Consequências inesperadas**: Expansão de água engarrafada descartável e transformação de garrafas reutilizáveis em acessórios de moda e status
+- **Legado**: Tornou a disponibilidade de líquidos uma propriedade portátil do cotidiano
+- **Conceitos relacionados**: [[01 conceitos/Continuidade de Acesso|Continuidade de Acesso]], [[01 conceitos/Tecnologia de Acesso|Tecnologia de Acesso]]
+- **Variáveis relacionadas**: [[02 variaveis/Expectativa de Disponibilidade|Expectativa de Disponibilidade]], [[02 variaveis/Variabilidade|Variabilidade]], [[02 variaveis/Friccao|Fricção]]
+- **Genealogias**: [[04 genealogias/Acesso e Disponibilidade|Acesso e disponibilidade]]
+- **Família de ideias**: Tecnologias portáteis de acesso
+- **Parentes**: Cantil militar, frasco de peregrino, garrafa PET, garrafa térmica, smartphone como hipótese comparativa de continuidade de acesso
+- **Hipótese central**: A história da garrafa é menos a invenção da água portátil do que a redução progressiva do custo de manter uma pequena reserva disponível junto ao corpo
+- **Princípio de design revelado**: Aproximar continuamente um recurso de quem precisa dele pode transformar uma necessidade episódica em expectativa permanente de disponibilidade
+- **Destino do artefato**: Coexiste em versões descartáveis, reutilizáveis, térmicas, utilitárias e simbólicas
+- **Perguntas em aberto**: Quando um artefato de autonomia passa a produzir uma nova dependência de disponibilidade constante?
