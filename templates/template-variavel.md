@@ -1,6 +1,8 @@
 ---
 title: "{{title}}"
 type: "variavel"
+status: "rascunho"
+eixo: "baixo ↔ alto"
 tags:
   - design/variavel
   - arqueologia
@@ -8,25 +10,49 @@ tags:
 
 # {{title}}
 
-[Definição da variável de sistema ou comportamento que pode ser mensurada qualitativa ou quantitativamente (aumentada/maximizada ou diminuída/minimizada) pelas decisões de design de um artefato.]
+[Defina a variável como algo que pode aumentar, diminuir ou ser redistribuído por decisões de design. Se não houver um eixo comparável razoável, considere mover a ideia para `01 conceitos/`.]
 
-## Impacto nos Artefatos
+## Eixo
 
-Esta variável é ativamente modificada nos seguintes artefatos:
+**[Polo A] ↔ [Polo B]**
 
-### Aumentada / Maximizada
-- [[03 artefatos/|Nome do Artefato 1]] — [Como o design aumentou esta variável?]
-- [[03 artefatos/|Nome do Artefato 2]] — [Como o design aumentou esta variável?]
+Explique o que significa deslocar uma experiência em cada direção e evite tratar um dos polos como universalmente melhor.
 
-### Diminuída / Minimizada
-- [[03 artefatos/|Nome do Artefato 1]] — [Como o design diminuiu esta variável?]
-- [[03 artefatos/|Nome do Artefato 2]] — [Como o design diminuiu esta variável?]
+## Como observar
 
----
+[Que sinais qualitativos ou quantitativos indicam mudança nesta variável? Que comportamento, tempo, erro, esforço, escolha ou resultado poderia ser observado?]
+
+## Impacto nos artefatos
+
+### Aumenta a variável
+
+- [[03 artefatos/|Artefato 1]]: [mecanismo]
+
+### Reduz a variável
+
+- [[03 artefatos/|Artefato 2]]: [mecanismo]
+
+### Redistribui a variável
+
+- [[03 artefatos/|Artefato 3]]: [quem recebe mais ou menos desta variável]
+
+## Relações e tensões
+
+[Que outras variáveis mudam junto? Há trade-offs? Exemplo: aumentar reversibilidade pode reduzir custo do erro, mas também adiar fechamento ou decisão.]
+
+## Conceitos relacionados
+
+- [[01 conceitos/|Conceito]]
+
+## Genealogias relacionadas
+
+- [[04 genealogias/|Genealogia]]
 
 ### Ficha Resumo da Variável
 
 - **Nome da variável**: {{title}}
-- **Definição**: [O que é medido por esta variável]
-- **Objetivos de design relacionados**: [Ex: Reduzir esforço, aumentar segurança, etc.]
-- **Artefatos chave relacionados**: [[03 artefatos/|Artefato 1]], [[03 artefatos/|Artefato 2]]
+- **Eixo**: [Polo A ↔ Polo B]
+- **Definição operacional**: [o que muda]
+- **Como observar**: [indícios ou medidas]
+- **Trade-offs principais**: [tensões]
+- **Artefatos chave**: [[03 artefatos/|Artefato 1]], [[03 artefatos/|Artefato 2]]
