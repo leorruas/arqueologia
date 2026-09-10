@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T23:29:08.809Z",
+  "generatedAt": "2026-09-10T23:30:29.854Z",
   "rule": "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
   "typeDesignRule": "Tipos de design devem funcionar como ensaios disciplinares e não usar estrutura enciclopédica de origem, pioneiros, empresas ou inventário exaustivo.",
   "pathRule": "Percursos devem funcionar como argumentos de leitura e não usar sequência numerada de resumos de artefatos.",
@@ -337,8 +337,8 @@
       ]
     }
   ],
-  "legacyTypeDesignStructureCount": 17,
-  "legacyTypeDesignFileCount": 5,
+  "legacyTypeDesignStructureCount": 11,
+  "legacyTypeDesignFileCount": 3,
   "legacyTypeDesignFiles": [
     {
       "sourcePath": "00 tipos de design/Design de IA.md",
@@ -396,26 +396,6 @@
       ]
     },
     {
-      "sourcePath": "00 tipos de design/Design de Produto.md",
-      "items": [
-        {
-          "sourcePath": "00 tipos de design/Design de Produto.md",
-          "line": 13,
-          "text": "Problema recorrente"
-        },
-        {
-          "sourcePath": "00 tipos de design/Design de Produto.md",
-          "line": 19,
-          "text": "Autores e instituições relacionados"
-        },
-        {
-          "sourcePath": "00 tipos de design/Design de Produto.md",
-          "line": 23,
-          "text": "Artefatos relacionados"
-        }
-      ]
-    },
-    {
       "sourcePath": "00 tipos de design/Design de Servicos.md",
       "items": [
         {
@@ -426,26 +406,6 @@
         {
           "sourcePath": "00 tipos de design/Design de Servicos.md",
           "line": 19,
-          "text": "Artefatos relacionados"
-        }
-      ]
-    },
-    {
-      "sourcePath": "00 tipos de design/Tipografia.md",
-      "items": [
-        {
-          "sourcePath": "00 tipos de design/Tipografia.md",
-          "line": 14,
-          "text": "Problema recorrente"
-        },
-        {
-          "sourcePath": "00 tipos de design/Tipografia.md",
-          "line": 20,
-          "text": "Autores e instituições relacionados"
-        },
-        {
-          "sourcePath": "00 tipos de design/Tipografia.md",
-          "line": 24,
           "text": "Artefatos relacionados"
         }
       ]
