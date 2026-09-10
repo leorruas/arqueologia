@@ -1,6 +1,9 @@
 ---
 title: "Limiares"
 type: "conceito"
+status: "publicado"
+origem: "adaptação"
+grau: "debatido"
 tags:
   - design/conceito
   - arqueologia
@@ -8,42 +11,68 @@ tags:
 
 # Limiares
 
-Os **Limiares** (Thresholds ou Tecnologias de Transição) representam o princípio de design de que muitos artefatos não existem para realizar uma tarefa final direta, mas para tornar compreensível, perceptível e aceitável a passagem entre dois estados ou contextos psicológicos, físicos ou lógicos distintos.
+Uma porta não é apenas uma parede com um buraco. Ela transforma passagem em acontecimento: existe um lado de fora, um lado de dentro e alguma condição para atravessar de um estado ao outro.
 
-## Aplicação nos artefatos
+Neste projeto, **limiares** é uma adaptação usada para investigar artefatos que tornam transições perceptíveis e operáveis. A ideia dialoga com tradições muito mais antigas e amplas. Arnold van Gennep usou o termo *liminal* — de *limen*, “limiar” — ao descrever a fase intermediária dos ritos de passagem; Victor Turner depois aprofundou a liminaridade como condição social de transição.[^1]
 
-Este conceito/princípio se manifesta e ajuda a compreender a lógica operacional dos seguintes artefatos:
+Uma tela de login não é, por isso, um rito de passagem antropológico. O parentesco é analítico: ambos ajudam a enxergar que mudar de estado frequentemente exige uma **zona de transição com regras próprias**.
 
-- [[03 artefatos/Tapete|Tapete]] — Funciona como um limiar simbólico e espacial dentro de um espaço físico, mudando as regras de comportamento (como tirar sapatos ou agrupar-se) assim que se cruza a sua borda invisível.
-- [[03 artefatos/Tela de Login|Tela de Login]] — É o limiar de identidade no ambiente digital, sinalizando a transição de um sistema genérico para um ambiente computacional altamente privado e personalizado.
-- [[03 artefatos/Hero Section|Hero Section]] — Funciona como o limiar de atenção e contexto ao topo de páginas web, servindo como o ritual de entrada que sincroniza as expectativas do visitante com o propósito do site.
-- [[03 artefatos/Fila|Fila]] — Funciona como o limiar temporal para o recebimento de um serviço, organizando a transição de um estado de espera passiva para o de atendimento ativo.
-- **Onboarding de Aplicativos** — Estrutura a transição cognitiva do usuário novato para o estado de usuário proficiente de um produto digital.
-- **Halls de Entrada / Vestíbulos** — Transição física e de recepção entre o espaço exterior público e o interior protegido de uma edificação.
+## A borda pode mudar comportamento sem bloquear fisicamente
 
-## A matriz de estabilização comportamental
+[[03 artefatos/Tapete|Tapete]] mostra essa operação de maneira material. Sua borda pode separar uma zona de outra sem impedir que alguém atravesse. O limite funciona porque pessoas interpretam mudança de superfície, contexto e convenção.
 
-Os limiares trabalham em conjunto com outros três pilares do design comportamental para transformar ações humanas difusas em comportamentos coletivos previsíveis e coordenados:
+[[03 artefatos/Tela de Login|Tela de login]] faz algo semelhante em outro domínio. Ela torna visível a passagem entre um sistema genérico e um espaço associado a determinada identidade. O limite é lógico, mas recebe uma interface que dramatiza a transição.
 
-- **Rotinas**: Comportamentos e hábitos repetidos mecanicamente (Ex: Salvar arquivos periodicamente).
-- **Rituais**: Comportamentos repetidos carregados de significado, valores e simbolismo cultural (Ex: Curtir posts como forma de aprovação social com o [[03 artefatos/Botao Like|Botão Like]]).
-- **Limiares**: Momentos e interfaces projetadas para transição entre contextos (Ex: [[03 artefatos/Tela de Login|Tela de Login]] ou capacho de entrada).
-- **Protocolos**: Conjunto de regras estritas que coordenam a interação ordenada entre pessoas ou sistemas (Ex: A [[03 artefatos/Fila|Fila]] física ou as requisições HTTP).
+[[03 artefatos/Hero Section|Hero Section]] oferece um caso mais fraco e justamente por isso útil. Ela não controla entrada. Funciona como zona inicial de orientação que tenta estabilizar contexto e expectativa. Chamá-la de limiar é uma hipótese comparativa, não uma equivalência funcional com portas ou autenticação.
 
-O design destes elementos atua como a infraestrutura invisível do comportamento, garantindo sincronia social e sistêmica sem a necessidade de comandos explícitos contínuos.
+O conceito ganha rigor quando reconhece esses graus.
 
-## Variáveis relacionadas
+## Limiar não é fronteira
 
-Este conceito opera associado ou impacta as seguintes variáveis de design:
-- [[02 variaveis/Friccao|Fricção]]
-- [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]]
-- [[02 variaveis/Justica|Justiça]]
+Uma fronteira separa. Um limiar organiza a passagem.
 
----
+Essa distinção aproxima, mas não confunde, esta lente com [[01 conceitos/Tecnologias de Delimitacao|Tecnologias de delimitação]]. Uma parede pode delimitar sem oferecer transição. Uma senha pode controlar transição mesmo quando a fronteira não é visível fisicamente.
 
-### Ficha resumo do conceito
+O interesse arqueológico está naquilo que acontece **entre estados**: esperar, autenticar, retirar sapatos, receber instruções, confirmar intenção, apresentar credencial.
 
-- **Nome do conceito**: Limiares
-- **Área principal**: Interação Humano-Computador (IHC) / Design Espacial / Psicologia Ambiental
-- **Definição**: Princípio de design que estuda artefatos dedicados a estruturar e comunicar a transição e mudança de contexto entre dois estados físicos, psicológicos ou computacionais.
-- **Artefatos chave explicados**: [[03 artefatos/Tapete|Tapete]], [[03 artefatos/Tela de Login|Tela de Login]], [[03 artefatos/Hero Section|Hero Section]], [[03 artefatos/Fila|Fila]]
+Por isso [[03 artefatos/Fila|Fila]] pode ser lida como limiar temporal de acesso ao serviço. Ela organiza um estado intermediário — ainda não atendido, mas já inserido numa ordem reconhecida.
+
+## Rotina, ritual, protocolo e limiar não são a mesma coisa
+
+A versão anterior reunia quatro pilares: rotinas, rituais, limiares e protocolos. A distinção é útil como matriz de trabalho, desde que não seja apresentada como teoria estabelecida.
+
+Uma **rotina** estabiliza repetição. Um **ritual** acrescenta significado social ou simbólico à repetição. Um **protocolo** estabiliza regras de coordenação. Um **limiar** organiza mudança de contexto ou estado.
+
+O mesmo artefato pode participar de mais de uma categoria. Fazer login pode virar rotina; apresentar um crachá pode adquirir caráter ritual; a autenticação segue protocolos; a tela organiza um limiar.
+
+A matriz serve para separar operações, não para encaixar objetos em caixas exclusivas.
+
+## Toda transição distribui alguma fricção
+
+Um limiar quase sempre introduz [[02 variaveis/Friccao|Fricção]]. A questão é se essa fricção torna a mudança compreensível, segura ou legítima.
+
+[[03 artefatos/Slide to Unlock|Slide to Unlock]] exigia um gesto deliberado para separar repouso de uso. Uma catraca individualiza passagem. Um onboarding pode introduzir etapas antes que o sistema seja plenamente utilizável.
+
+A transição pode ajudar a pessoa a entender que as regras mudaram. Também pode ser barreira desnecessária ou mecanismo de exclusão.
+
+Por isso, limiar não é elogio à cerimônia. É uma lente para perguntar: **o que muda depois desta passagem, como essa mudança é comunicada e quem consegue atravessá-la?**
+
+## Ficha do conceito
+
+| Campo | Registro |
+|---|---|
+| **Conceito** | Limiares |
+| **Origem** | Adaptação |
+| **Grau de consolidação** | Debatido; liminalidade é tradição consolidada, aplicação transversal a artefatos de design é adaptação do projeto |
+| **Formulação associada a** | Arnold van Gennep, Victor Turner e Arqueologia do Design |
+| **Área principal** | Antropologia / design espacial / design de interação / serviços |
+| **Distinção central** | Delimitar dois estados não é o mesmo que organizar a passagem entre eles |
+| **O que ajuda a explicar** | Interfaces, objetos e rituais que tornam mudanças de contexto perceptíveis e operáveis |
+| **O que não explica sozinho** | Que toda transição seja ritual ou que artefatos digitais reproduzam literalmente estruturas antropológicas |
+| **Artefatos-chave** | [[03 artefatos/Tapete|Tapete]], [[03 artefatos/Tela de Login|Tela de login]], [[03 artefatos/Hero Section|Hero Section]], [[03 artefatos/Fila|Fila]], [[03 artefatos/Slide to Unlock|Slide to Unlock]] |
+| **Variáveis relacionadas** | [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]], [[02 variaveis/Justica|Justiça]] |
+| **Genealogias relacionadas** | [[04 genealogias/Limiares e Delimitacao|Limiares e delimitação]] |
+
+## Referências
+
+[^1]: Van Gennep, Arnold. *Les rites de passage*. 1909. O autor descreve fases de separação, limiar e incorporação; Victor Turner posteriormente amplia a discussão da liminaridade em estudos de ritual.
