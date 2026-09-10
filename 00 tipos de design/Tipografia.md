@@ -1,6 +1,7 @@
 ---
 title: "Tipografia"
 type: "tipo-design"
+status: "publicado"
 tags:
   - design/tipo
   - arqueologia
@@ -8,29 +9,25 @@ tags:
 
 # Tipografia
 
-A **Tipografia** é a arte e o processo de criação, arranjo e design de tipos (letras e caracteres) para tornar a linguagem escrita legível, coerente e visualmente expressiva.
+Tipografia organiza a forma visual da linguagem escrita. No vault, ela interessa menos como catálogo de estilos de letra e mais como conjunto de decisões que reduzem inferências, criam ritmo, tornam diferenças perceptíveis e estabilizam expectativas de leitura.
 
-## Origens e surgimento
-- **Contexto Histórico**: Deriva da caligrafia manual e da gravação em pedra, mas consolida-se como tecnologia e disciplina de design com a invenção da impressão com tipos móveis de metal na Europa por Johannes Gutenberg em meados de 1440.
-- **Pioneiros**: Johannes Gutenberg (criação dos tipos móveis Blackletter), Nicolas Jenson (pioneiro nos tipos romanos mais legíveis no século XV) e Claude Garamond (século XVI).
+## Problema recorrente
 
-## Evolução e desenvolvimento
-- **Marcos Históricos**:
-  - **1455**: Conclusão da Bíblia de Gutenberg.
-  - **1757**: John Baskerville cria a fonte de transição Baskerville.
-  - **1957**: Lançamento das fontes Helvetica (Max Miedinger) e Univers (Adrian Frutiger), marcos do modernismo e do design suíço.
-  - **1985s**: O surgimento da tipografia digital e fontes PostScript/TrueType.
+Ler exige segmentar, reconhecer, agrupar e hierarquizar sinais. Decisões tipográficas podem deslocar parte desse trabalho do leitor para a própria forma do texto. Espaçamento, peso, contraste, escala, largura e repetição participam daquilo que parece palavra, bloco, título, sequência ou sistema.
 
-## Figuras e autores de destaque
-- [[autores/Adrian Frutiger|Adrian Frutiger]] — Criador de famílias tipográficas lendárias como Univers, Frutiger e Avenir.
-- [[autores/Max Miedinger|Max Miedinger]] — Desenhou a Helvetica (originalmente Neue Haas Grotesk).
+A tipografia como prática antecede a impressão, mas sua história moderna se transforma com tipos móveis, industrialização, composição mecânica, fotocomposição e sistemas digitais. O projeto evita tratar essa trajetória como progresso linear: cada tecnologia muda o que pode ser repetido, distribuído, corrigido e reconhecido.
 
-## Empresas e estúdios de destaque
-- [[empresas/Haas Type Foundry|Haas Type Foundry]] — Fundição suíça responsável pelo desenvolvimento da Helvetica.
-- [[empresas/Linotype|Linotype]] — Empresa histórica na fabricação de máquinas de composição e distribuição de fontes.
+## Autores e instituições relacionados
 
-## Artefatos históricos relacionados
-- [[03 artefatos/Espaço entre Palavras|Espaço entre Palavras]] — A tecnologia do vazio que estruturou a leitura silenciosa e a arquitetura visual da informação.
+[[autores/Max Miedinger|Max Miedinger]] e [[autores/Adrian Frutiger|Adrian Frutiger]] aparecem em estudos do modernismo tipográfico. [[empresas/Haas Type Foundry|Haas Type Foundry]] e [[empresas/Linotype|Linotype]] ajudam a compreender produção, refinamento e circulação de tipos em escala industrial.
 
-## Conexões e referências
-- **Áreas Correlatas**: [[Design Grafico|Design Gráfico]]
+## Artefatos relacionados
+
+- [[03 artefatos/Espaço entre Palavras|Espaço entre palavras]]: uso do vazio para tornar fronteiras lexicais perceptíveis e reduzir parte do trabalho de segmentação.
+- [[03 artefatos/Helvetica|Helvetica]]: projeto tipográfico associado à busca moderna por neutralidade, consistência e ampla aplicabilidade visual.
+
+## Conexões
+
+A área cruza [[00 tipos de design/Design Grafico|Design gráfico]] e [[00 tipos de design/Design de Interface|Design de interface]]. Entre os conceitos mais úteis estão [[01 conceitos/Redução de Inferências|redução de inferências]] e [[02 variaveis/Previsibilidade Visual|previsibilidade visual]].
+
+Esta nota deve permanecer sincronizada com os artefatos que se declaram ligados à tipografia. O vínculo disciplinar só está propagado quando aparece nas duas pontas relevantes do grafo.
