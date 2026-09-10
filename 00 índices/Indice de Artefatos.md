@@ -35,6 +35,7 @@ Este índice organiza estudos publicados por campo de design. A classificação 
 
 ## Design de serviços e organização
 
+- [[03 artefatos/Service Blueprint|Service Blueprint]]: representação que alinha experiência, frontstage, backstage e processos de suporte numa mesma superfície.
 - [[03 artefatos/Calendário|Calendário]]: referência temporal compartilhada.
 - [[03 artefatos/Fila|Fila]]: distribuição sequencial de acesso escasso.
 - [[03 artefatos/Agendamento|Agendamento]]: distribuição temporal de acesso futuro.
