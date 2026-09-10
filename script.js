@@ -5,7 +5,7 @@ const categoriasPublicas = {
   "00 tipos de design": {
     numero: "00",
     titulo: "tipos de design",
-    resumo: "campos do design usados para classificar e conectar os estudos",
+    resumo: "mapa disciplinar para localizar os estudos",
     grupo: "orientacao"
   },
   "00 índices": {
@@ -17,31 +17,43 @@ const categoriasPublicas = {
   "01 conceitos": {
     numero: "01",
     titulo: "conceitos",
-    resumo: "ideias recorrentes que ajudam a explicar por que certas decisões de design funcionam",
+    resumo: "ideias que ajudam a explicar por que certas decisões de design funcionam",
     grupo: "principal"
   },
   "02 variaveis": {
     numero: "02",
     titulo: "variáveis",
-    resumo: "forças que o design aumenta, reduz ou redistribui no comportamento",
+    resumo: "eixos que o design aumenta, reduz ou redistribui no comportamento",
     grupo: "principal"
   },
   "03 artefatos": {
     numero: "03",
     titulo: "artefatos",
-    resumo: "objetos, interfaces, serviços, métodos, sinais e gestos investigados pelo projeto",
+    resumo: "objetos, interfaces, serviços, métodos, sinais e gestos investigados",
     grupo: "principal"
+  },
+  "04 genealogias": {
+    numero: "04",
+    titulo: "ideias",
+    resumo: "famílias de ideias que atravessam disciplinas, mídias e épocas",
+    grupo: "lente"
+  },
+  "05 percursos": {
+    numero: "05",
+    titulo: "percursos",
+    resumo: "sequências editoriais para ler vários estudos como uma história contínua",
+    grupo: "lente"
   },
   "autores": {
     numero: "A",
     titulo: "autores",
-    resumo: "pessoas ligadas à invenção, ao refinamento, à popularização ou à crítica das ideias",
+    resumo: "pessoas ligadas à invenção, refinamento, popularização, padronização ou crítica",
     grupo: "principal"
   },
   "empresas": {
     numero: "E",
     titulo: "empresas",
-    resumo: "organizações usadas como contexto para localizar ideias, artefatos e padrões de design",
+    resumo: "organizações usadas como contexto para localizar ideias e artefatos",
     grupo: "principal"
   }
 };
@@ -152,7 +164,13 @@ function montarArtigosDoIndice(indice) {
       textoBusca: item.plainText || "",
       headings: item.headings || [],
       related: item.related || [],
-      backlinks: item.backlinks || []
+      backlinks: item.backlinks || [],
+      unresolved: item.unresolved || [],
+      type: item.type || "",
+      status: item.status || "",
+      origem: item.origem || "",
+      grau: item.grau || "",
+      eixo: item.eixo || ""
     }));
 }
 
@@ -200,7 +218,13 @@ async function carregarCatalogo() {
         textoBusca: "",
         headings: [],
         related: [],
-        backlinks: []
+        backlinks: [],
+        unresolved: [],
+        type: "",
+        status: "",
+        origem: "",
+        grau: "",
+        eixo: ""
       };
     });
   }
@@ -222,6 +246,8 @@ function renderizarCategorias() {
   pastas.innerHTML = "";
 
   Object.entries(categoriasPublicas).forEach(([categoria, info]) => {
+    if (info.grupo === "lente") return;
+
     const quantidade = (porCategoria[categoria] || []).length;
     const card = document.createElement("a");
     card.className = "disciplina-card";
@@ -239,7 +265,7 @@ function renderizarCategorias() {
     });
 
     if (info.grupo === "orientacao") orientacoes.appendChild(card);
-    else pastas.appendChild(card);
+    if (info.grupo === "principal") pastas.appendChild(card);
   });
 }
 
