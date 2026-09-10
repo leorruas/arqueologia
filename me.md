@@ -47,6 +47,10 @@ leitura: "mandatória: ler antes de qualquer operação no vault"
 20. **Tom investigativo**: evitar afirmações absolutas quando a evidência permitir mais de uma leitura. Formular hipóteses de modo explícito e manter abertas as tensões relevantes.
 21. **Precisão antes de efeito retórico**: não sacrificar nuance histórica por frases de impacto. Uma boa formulação deve continuar verdadeira depois que o efeito literário passa.
 22. **Fontes por função**: distinguir fontes históricas, fontes sobre o artefato e fontes teóricas usadas para interpretação. Uma referência conceitual não deve ser usada como prova de autoria ou data sem apoiar esse ponto.
+23. **Propagação obrigatória**: criar ou revisar um artigo exige executar a varredura descrita em [[Instrucoes de Arqueologia#Protocolo de propagação|Protocolo de propagação]]. Verifique tipos de design, conceitos, variáveis, artefatos relacionados, genealogias, percursos, autores, empresas, livros, índices e log antes de considerar a operação concluída.
+24. **Reciprocidade da rede**: quando um novo vínculo altera uma nota já existente, atualize também essa nota. Wikilinks no artigo novo não substituem a manutenção de genealogias, percursos, conceitos, variáveis, especialidades ou artefatos antigos afetados.
+25. **Criação seletiva de nós**: não criar autor, empresa, conceito, variável, genealogia, percurso ou tipo de design apenas porque foi mencionado. Novos nós precisam ter função própria no acervo. Livros permanecem registrados em [[00 índices/Livros Indicados|Livros indicados]] e associados aos autores, salvo mudança futura da arquitetura.
+26. **Sem artigo isolado por omissão operacional**: todo artefato novo deve sair da operação com as relações sustentadas pela evidência registradas. Se uma camada não se aplicar, não force o vínculo; se a relação existir, não deixe sua integração para uma revisão futura indefinida.
 
 ## Regras editoriais
 
@@ -88,6 +92,22 @@ Os nomes de arquivo são identificadores e podem permanecer estáveis mesmo quan
 - `autores/`: pessoas usadas como contexto histórico e intelectual.
 - `empresas/`: organizações usadas como contexto histórico.
 - `templates/`: padrões de criação de notas.
+
+### Critério de conclusão de uma criação ou revisão
+
+Uma operação que cria ou altera materialmente um estudo só termina depois de:
+
+- integrar o artigo às notas de tipo de design aplicáveis;
+- verificar conceitos e variáveis existentes antes de criar novos;
+- procurar artefatos antigos que ganhem um novo parentesco, contraste ou descendente;
+- verificar genealogias e percursos existentes e atualizá-los quando o novo estudo mudar sua leitura;
+- criar ou atualizar autores e empresas apenas quando tiverem papel histórico ou intelectual relevante;
+- registrar livros úteis em [[00 índices/Livros Indicados|Livros indicados]] e associá-los aos autores correspondentes;
+- atualizar os índices afetados;
+- registrar a mudança significativa em `log.md`;
+- verificar wikilinks sem destino e vínculos que deveriam ser recíprocos.
+
+Esse fechamento é parte da criação do artigo, não uma etapa opcional de manutenção posterior.
 
 ### Estados editoriais
 
