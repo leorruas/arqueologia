@@ -9,39 +9,53 @@ tags:
 
 # Permanência e memória externa
 
-Guardar é uma decisão de design. Antes de ser uma função de software, guardar significa retirar algo do fluxo imediato da experiência e dar a ele alguma chance de sobreviver ao corpo, à atenção, ao tempo ou à falha.
+Guardar é uma decisão de design. Algo que está diante de nós agora pode desaparecer quando a atenção muda, o corpo sai dali, uma pessoa troca de setor ou um sistema falha. Para que sobreviva, alguma estrutura precisa assumir a responsabilidade por sua permanência.
 
-Esta genealogia investiga uma hipótese: muitos artefatos de áreas diferentes podem ser compreendidos como respostas à mesma limitação humana, a dificuldade de manter informação disponível sem depender da memória interna.
+Essa genealogia aproxima artefatos que retiram parte dessa responsabilidade da memória interna e a colocam em suportes, interfaces ou instituições. Um Post-it, um botão salvar, um arquivo, um número de protocolo e uma assinatura não fazem a mesma coisa, mas todos ajudam alguma informação, estado ou compromisso a atravessar o tempo.
 
-## A ideia recorrente
+## Fazer algo sobreviver ao presente
 
-O que muda de um artefato para outro é menos o desejo de lembrar do que **quem assume a responsabilidade pela permanência**. Em alguns sistemas, o usuário precisa registrar. Em outros, a infraestrutura registra automaticamente. Em outros ainda, uma instituição registra em nome de todos.
+O [[03 artefatos/Post-it|Post-it]] oferece uma forma leve de memória externa. A anotação permanece no ambiente e pode ser reposicionada, descartada ou reorganizada. Sua permanência é relativamente baixa, mas justamente por isso ele combina registro com flexibilidade.
 
-## Constelação de artefatos
+O [[03 artefatos/Botao Salvar|botão salvar]] transforma a passagem entre estado temporário e persistente em uma ação explícita. Durante décadas, o usuário foi convidado a decidir quando uma versão do trabalho merecia sobreviver. A responsabilidade era compartilhada com a infraestrutura, mas o ritual ainda dependia da lembrança humana.
 
-- [[03 artefatos/Post-it|Post-it]]: parentesco **funcional e comportamental**. Externaliza uma lembrança, mas escolhe baixa permanência e alta reposicionabilidade.
-- [[03 artefatos/Botao Salvar|Botão Salvar]]: parentesco **funcional**. Torna explícita a passagem de um estado temporário para um estado persistente.
-- [[03 artefatos/Archive|Archive]]: parentesco **funcional e semiótico**. Mantém algo recuperável sem exigir que continue ocupando o primeiro plano.
-- [[03 artefatos/Número de Protocolo|Número de Protocolo]]: parentesco **institucional**. Faz uma demanda sobreviver à troca de pessoas e à passagem do tempo dentro de uma organização.
-- [[03 artefatos/Assinatura|Assinatura]]: parentesco **institucional e semiótico**. Acrescenta autoria e responsabilidade a um registro para que ele possa produzir efeitos depois do momento da ação.
+[[03 artefatos/Archive|Archive]] produz outro tipo de permanência. Uma informação pode deixar o primeiro plano sem ser destruída. O design separa visibilidade imediata de existência: aquilo que não precisa ocupar a atenção agora continua recuperável depois.
 
-## Mudança de responsabilidade
+O [[03 artefatos/Número de Protocolo|número de protocolo]] desloca a mesma questão para instituições. Uma demanda deixa de depender apenas da lembrança de quem a recebeu e ganha uma identidade capaz de atravessar pessoas, setores e tempo. A [[03 artefatos/Assinatura|assinatura]] adiciona outra camada: preserva uma relação entre um registro e uma autoria ou responsabilidade que poderá produzir efeitos mais tarde.
 
-Uma leitura possível é que a história da permanência caminha, em muitos contextos, da responsabilidade individual para a responsabilidade da infraestrutura. O botão Salvar exige um ritual consciente. Sistemas de autosave tendem a absorver esse ritual. O número de protocolo faz movimento semelhante em serviços: transforma a lembrança de uma solicitação em obrigação registrada do sistema.
+Esses objetos não formam uma cadeia histórica direta. São parentes porque resolvem versões diferentes de um problema recorrente: como fazer informação, estado ou compromisso continuar existindo quando o contexto muda?
 
-Isso é uma **interpretação arqueológica**, não uma genealogia histórica direta entre esses objetos.
+## Quem precisa lembrar?
 
-## Variáveis relacionadas
+A variável [[02 variaveis/Permanencia|permanência]] permite olhar para essa história como uma redistribuição de responsabilidade. Em alguns sistemas, a pessoa precisa lembrar de preservar. Em outros, o suporte faz isso quase passivamente. Em outros ainda, a instituição cria procedimentos para que a continuidade deixe de depender de indivíduos específicos.
 
-- [[02 variaveis/Permanencia|Permanência]]
-- [[02 variaveis/Custo do Erro|Custo do Erro]]
-- [[02 variaveis/Reversibilidade|Reversibilidade]]
+Essa passagem se conecta a [[01 conceitos/Memoria Distribuida|memória distribuída]] e [[01 conceitos/Continuidade de Acesso|continuidade de acesso]]. A memória deixa de estar concentrada na mente e se espalha por objetos, registros, interfaces e processos. O que parece apenas armazenamento pode, portanto, ser entendido como uma forma de arquitetura cognitiva.
 
-## Conceitos relacionados
+O botão salvar mostra bem a mudança histórica possível dentro dessa lógica. No modelo explícito, a pessoa deve lembrar de guardar. No autosave, a infraestrutura passa a assumir essa tarefa continuamente. O protocolo produz deslocamento semelhante em outra escala: lembrar que uma solicitação existe deixa de ser apenas obrigação de uma pessoa e se torna responsabilidade de um sistema institucional.
 
-- [[01 conceitos/Memoria Distribuida|Memória Distribuída]]
-- [[01 conceitos/Continuidade de Acesso|Continuidade de Acesso]]
+Isso reduz o [[02 variaveis/Custo do Erro|custo do erro]] provocado pelo esquecimento, mas pode alterar também a [[02 variaveis/Reversibilidade|reversibilidade]] e a percepção de autoria. Quanto mais o sistema preserva automaticamente, menos o usuário precisa produzir momentos conscientes de registro, fechamento ou versão.
 
-## Hipótese em aberto
+## A história do design também pode ser uma história do que saiu da mente
 
-Talvez uma parte importante da história do design possa ser descrita como a retirada gradual de tarefas cognitivas da mente humana e sua incorporação ao ambiente. A questão que permanece é o que acontece com a sensação de autoria e controle quando guardar deixa de ser uma ação perceptível e passa a ser condição automática do sistema.
+Uma hipótese desta genealogia é que parte da história do design pode ser lida como a retirada progressiva de tarefas cognitivas da memória interna e sua transferência para o ambiente. Anotar, salvar, arquivar, protocolar e assinar são formas diferentes de construir uma memória fora do corpo.
+
+Essa transferência não significa apenas alívio. Quem controla a infraestrutura de permanência também pode controlar o que será preservado, por quanto tempo, com qual autoria e em quais condições poderá ser recuperado. A memória externa amplia capacidade, mas cria novas dependências.
+
+O caso do autosave torna essa tensão particularmente interessante. Quando guardar deixa de ser uma ação e vira uma condição do sistema, ganhamos proteção contra esquecimento. Talvez percamos, ao mesmo tempo, parte da experiência consciente de “esta é uma versão”. A pergunta futura não é apenas como preservar mais, mas o que acontece com controle e autoria quando a responsabilidade por lembrar migra quase inteira para a infraestrutura.
+
+## Ficha da genealogia
+
+| Campo | Registro |
+|---|---|
+| **Genealogia** | Permanência e memória externa |
+| **Pergunta central** | Como o design faz informações, estados e compromissos sobreviverem à mudança de atenção, pessoa, contexto ou tempo? |
+| **Hipótese de parentesco** | Artefatos de permanência transferem parte da responsabilidade de lembrar para suportes, interfaces ou instituições |
+| **Natureza das relações** | Funcional, comportamental, institucional e comparativa; não implica descendência histórica |
+| **Artefatos principais** | [[03 artefatos/Post-it|Post-it]], [[03 artefatos/Botao Salvar|Botão salvar]], [[03 artefatos/Archive|Archive]], [[03 artefatos/Número de Protocolo|Número de protocolo]], [[03 artefatos/Assinatura|Assinatura]] |
+| **Comportamento recorrente** | Externalizar memória, preservar estados e permitir recuperação posterior |
+| **O que o design redistribui** | Memória, responsabilidade pela preservação, atenção e continuidade |
+| **Relação de poder** | Quem controla a infraestrutura de memória pode definir o que persiste, por quanto tempo, com qual autoria e em quais condições pode ser recuperado |
+| **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Continuidade de Acesso|Continuidade de acesso]] |
+| **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Custo do Erro|Custo do erro]], [[02 variaveis/Reversibilidade|Reversibilidade]] |
+| **Cuidado histórico** | Post-it, Save, arquivo, protocolo e assinatura são aproximados pelo problema da permanência, não como etapas de uma linha evolutiva única |
+| **Hipótese em aberto** | A história do design pode ser lida em parte como transferência de tarefas cognitivas para o ambiente; resta investigar o que acontece com autoria e controle quando preservar se torna automático |
