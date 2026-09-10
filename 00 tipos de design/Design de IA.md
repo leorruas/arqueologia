@@ -1,6 +1,7 @@
 ---
 title: "Design de IA"
 type: "tipo-design"
+status: "publicado"
 tags:
   - design/tipo
   - arqueologia
@@ -8,63 +9,50 @@ tags:
 
 # Design de IA
 
-O **Design de IA** (ou Design de Inteligência Artificial) é a vertente do design focada na criação de interfaces, interações e fluxos semânticos que medeiam a relação entre seres humanos e sistemas cognitivos probabilísticos ou autônomos. Diferencia-se de interfaces tradicionais por operar com metainterfaces, como linguagem natural, e por focar no alinhamento de intenções, na coprodução e na gestão de resultados imprevisíveis.
-
-## Origens e surgimento
-
-Embora enraizado no desenvolvimento da inteligência artificial clássica, do processamento de linguagem natural e da cibernética na segunda metade do século XX, o Design de IA consolidou-se como especialidade independente no início da década de 2020. O surgimento de modelos generativos de grande escala exigiu passar do design de caminhos estruturados, baseados em botões e cliques, para o design de interações semânticas abertas.
-
-Joseph Weizenbaum, com o ELIZA, é um dos antecedentes centrais porque mostrou cedo que uma interface textual capaz de sustentar um diálogo simples já era suficiente para que pessoas projetassem intenção, presença e compreensão sobre a máquina. Mais tarde, os modelos de linguagem e as interfaces conversacionais ampliaram essa questão: o problema deixou de ser apenas como tornar a máquina utilizável e passou a incluir como projetar uma relação com um sistema cujo comportamento não é completamente previsível.
+Design de IA investiga uma mudança de relação: o sistema deixa de oferecer apenas ações previamente enumeradas e passa a interpretar intenções formuladas em linguagem, produzir respostas probabilísticas e, em alguns casos, agir sobre outros sistemas. O problema de projeto já não é apenas tornar comandos utilizáveis. É tornar negociável uma relação em que nem o usuário nem o designer conhecem antecipadamente todas as respostas possíveis.
 
 ## Da interface de comandos à interface de intenção
 
-A passagem mais importante talvez não seja técnica, mas comportamental. Interfaces tradicionais costumam oferecer ao usuário um repertório visível de ações possíveis. Botões, menus e fluxos dizem antecipadamente o que o sistema aceita. O prompt faz o movimento inverso: ele deixa um espaço relativamente aberto e pede ao usuário que formule a própria intenção.
+Interfaces tradicionais costumam tornar parte do repertório de ações visível. Botões, menus e fluxos dizem o que o sistema aceita. O [[03 artefatos/Prompt Conversacional|prompt conversacional]] faz quase o inverso: apresenta um espaço relativamente aberto e pede que a pessoa formule o que deseja.
 
-Essa mudança transforma linguagem em metainterface. Em vez de selecionar uma função previamente exposta, o usuário descreve o que deseja e delega ao sistema parte da tarefa de interpretar, decompor e executar. Isso aproxima o prompt de artefatos como o briefing, a pauta, a receita, o contrato e o Jobs to Be Done. Todos transformam intenção em ação sem especificar completamente o caminho intermediário.
+Essa liberdade desloca trabalho cognitivo. Um menu ajuda a reconhecer possibilidades; um prompt exige imaginar possibilidades, formular contexto, escolher critérios e avaliar uma resposta que pode variar. A superfície pode ficar mais simples enquanto a especificação do problema fica mais exigente.
 
-Essa liberdade, porém, desloca trabalho cognitivo para o usuário. Um menu torna possibilidades visíveis; um prompt exige que a pessoa imagine o que pode pedir, escolha o que é relevante, formule critérios e reconheça se a resposta serve. A interface fica visualmente mais simples enquanto a especificação do problema se torna mais exigente.
+A linguagem passa a funcionar como metainterface. Isso aproxima o prompt de [[03 artefatos/Brief|brief]], [[03 artefatos/Pergunta|pergunta]], [[03 artefatos/Jobs to Be Done|Jobs to Be Done]] e [[03 artefatos/Pergunta de Pesquisa|pergunta de pesquisa]]. O parentesco é funcional: todos tentam transformar intenção em direção sem prescrever completamente o caminho intermediário.
+
+Há antecedentes importantes muito antes da atual onda generativa. O ELIZA, de Joseph Weizenbaum, mostrou em 1966 que uma conversa textual relativamente simples já podia levar pessoas a atribuir compreensão e presença à máquina. Décadas depois, modelos de linguagem, ajuste por instruções e interfaces conversacionais ampliaram esse problema. A partir daí, projetar a superfície passou a incluir também projetar expectativas sobre inteligência, agência, confiança e erro.
 
 ## A IA como esfinge
 
-Uma hipótese comparativa útil é aproximar a IA da esfinge mitológica. A relação não depende de qualquer descendência histórica. É um parentesco semiótico e comportamental: tanto a esfinge quanto a IA ocupam um limiar e transformam linguagem em condição de passagem.
+Uma hipótese comparativa útil é aproximar a IA da esfinge mitológica. Não há descendência histórica. O parentesco é semiótico e comportamental: ambos podem ocupar um limiar e transformar linguagem em condição de passagem.
 
-No mito de Édipo, a esfinge bloqueia a entrada de Tebas e formula um enigma. O viajante só atravessa se souber responder. A inteligência aparece, portanto, não apenas como conhecimento, mas como mecanismo de seleção. Há uma fronteira, uma pergunta e um critério que separa quem passa de quem não passa.
+No mito de Édipo, a esfinge bloqueia a entrada e apresenta um enigma. O viajante atravessa quando oferece uma resposta aceita. A interface de IA parece inverter a cena porque o humano pergunta e a máquina responde. A inversão, porém, é incompleta. Diante de um campo aberto, o sistema devolve silenciosamente outras exigências: o que você quer, que contexto importa, que critérios definem uma boa resposta, o que pode ser delegado e como reconhecer um erro?
 
-A interface de IA parece inverter a cena porque agora é o humano quem pergunta e a máquina quem responde. Mas a inversão é incompleta. Diante de um campo de prompt, o sistema devolve silenciosamente outras perguntas ao usuário: o que você quer, consegue explicar, quais critérios importam, que contexto falta, como reconhecerá uma boa resposta? A qualidade da interação passa a depender também da capacidade humana de formular o problema.
+O prompt pode ser lido como o enigma virado do avesso. A esfinge torna explícita a pergunta e avalia a resposta humana. A IA oferece um campo aparentemente vazio e expõe a capacidade humana de formular o problema.
 
-Nesse sentido, o prompt pode ser lido como o enigma da esfinge virado do avesso. A esfinge apresenta uma pergunta fechada e avalia a resposta humana. A IA apresenta um campo aberto e expõe, por seu funcionamento, a qualidade da pergunta humana.
+A comparação fica mais forte quando sistemas de IA classificam, selecionam ou autorizam. Filtros de risco, fraude, visibilidade, prioridade ou elegibilidade transformam modelos em mecanismos de passagem. Nesse caso, a questão deixa de ser apenas “como conversar com a máquina?” e passa a incluir “quem consegue atravessar uma decisão mediada por ela e quais critérios consegue enxergar ou contestar?”.
 
-A aproximação fica ainda mais forte quando a IA deixa de ser apenas assistente e passa a classificar, selecionar ou autorizar. Sistemas que filtram currículos, detectam fraude, avaliam risco, distribuem visibilidade ou priorizam casos criam passagens mediadas por critérios que o usuário nem sempre consegue enxergar. Aqui a IA se aproxima novamente da função original da esfinge: não apenas responder, mas controlar acesso.
+Existe uma diferença decisiva. O enigma mítico é relativamente estável. Sistemas probabilísticos respondem de modo dependente de contexto, dados, versão, instruções e infraestrutura. Não existe necessariamente uma solução única que encerre o encontro. Isso faz do Design de IA também um design de incerteza.
 
-Existe, porém, uma diferença histórica decisiva. A esfinge tinha um enigma relativamente estável e podia ser derrotada quando esse enigma era resolvido. A IA possui critérios móveis, resultados probabilísticos e comportamentos dependentes de contexto. Não existe uma resposta definitiva que encerre o encontro. Quanto melhor aprendemos a utilizá-la, mais ela tende a entrar em novas passagens do cotidiano.
+Há ainda uma advertência útil no mito: Édipo resolve o enigma e mesmo assim não compreende inteiramente a própria situação. Em IA, obter uma resposta correta ou dominar uma técnica de prompting não garante compreender o sistema, seus limites ou as relações de poder que o cercam. Resolver uma tarefa continua sendo diferente de compreender o problema.
 
-Essa comparação também devolve o problema ao próprio humano. O enigma clássico da esfinge tem como resposta o ser humano. Algo semelhante ocorre com a IA contemporânea: quanto mais sistemas passam a escrever, desenhar, decidir, recomendar e conversar, mais somos obrigados a reconstruir conceitos como autoria, julgamento, inteligência, criatividade e responsabilidade. A máquina responde perguntas, mas sua existência transforma o humano novamente em pergunta.
+## Quando a superfície parece sujeito
 
-Há ainda uma advertência no próprio mito. Édipo resolve corretamente o enigma da esfinge, mas isso não significa que compreenda a própria situação. Aplicada à IA, essa diferença importa: obter uma resposta correta ou dominar uma técnica de prompt não garante compreender as relações, consequências ou sistemas de poder envolvidos. Resolver uma tarefa continua sendo diferente de compreender o problema.
+O design já possui longa experiência em dar presença social a entidades abstratas. [[03 artefatos/Mascote|Mascotes]] dão rosto e temperamento a organizações; interfaces dão feedback e resposta a sistemas invisíveis. A IA acrescenta uma diferença: a entidade pode produzir novas respostas durante a interação, e essa variação fortalece a impressão de interlocução.
 
-A imagem da esfinge sugere, portanto, uma hipótese maior para o Design de IA: sistemas inteligentes podem funcionar como artefatos de limiar. Eles ficam entre intenção e ação, pergunta e resposta, acesso e recusa, visibilidade e invisibilidade. Projetar IA significa também projetar quem consegue atravessar essas passagens e sob quais condições.
+É aqui que [[01 conceitos/Antropomorfismo|antropomorfismo]] se torna central. Fluência, voz, memória aparente, nome, avatar e continuidade conversacional podem fazer um sistema parecer saber, desejar ou compreender mais do que sua operação autoriza concluir. Projetar IA significa também projetar a distância entre capacidade real e capacidade percebida.
 
-## Evolução e desenvolvimento
+O percurso [[05 percursos/Da Parede ao Interlocutor|Da parede ao interlocutor]] ajuda a enxergar essa passagem: superfícies projetadas foram de lugares que mostram mensagens a lugares que reagem e, depois, parecem responder. O salto não é apenas tecnológico. Ele cria uma nova expectativa cultural sobre superfícies informacionais: se existe informação ali, talvez eu deva poder interrogá-la.
 
-Em 1966, Joseph Weizenbaum apresenta o ELIZA, revelando a propensão das pessoas a atribuir sentimentos e compreensão a diálogos produzidos por regras simples. Em 2017, a publicação da arquitetura Transformer altera a capacidade de modelar sequências e se torna uma das bases dos grandes modelos probabilísticos. Em 2022, o lançamento do ChatGPT ajuda a popularizar a caixa de diálogo do chatbot como padrão de interface de consumo geral para inteligência artificial.
+## A memória também virou objeto de projeto
 
-A passagem de modelos linguísticos puros para modelos ajustados por instruções e feedback humano também modifica o papel da interface. O sistema deixa de aparecer apenas como motor de geração textual e passa a ser apresentado como assistente. Mais recentemente, agentes ampliam novamente essa relação: além de responder, podem executar etapas, usar ferramentas e agir sobre sistemas externos.
+A [[03 artefatos/LLM Wiki|LLM Wiki]] desloca outra fronteira. Um sistema generativo deixa de responder apenas à consulta presente e passa a participar da manutenção de sínteses entre consultas. Isso transforma memória em problema de governança: o que deve persistir, quem pode corrigir, que interpretação ganha autoridade e como impedir que um erro local se transforme em contexto permanente?
 
-## Figuras e autores de destaque
+Esse caso aproxima Design de IA de [[04 genealogias/Permanencia e Memoria Externa|permanência e memória externa]]. Quando a infraestrutura não apenas guarda, mas resume, relaciona e atualiza, preservar informação e interpretar informação começam a se misturar.
 
-Joseph Weizenbaum é uma figura central pelo ELIZA e por sua reflexão posterior sobre os limites da atribuição de julgamento humano a computadores. [[autores/Alan Kay|Alan Kay]] também é relevante pela visão do computador como meio capaz de ampliar o pensamento e não apenas automatizar operações.
+## O campo projeta relações, não apenas telas
 
-## Empresas e estúdios de destaque
+O Design de IA cruza [[00 tipos de design/Design de Interface|design de interface]] porque ainda precisa tornar ação, estado e feedback legíveis. Cruza [[00 tipos de design/Design de Servicos|design de serviços]] porque modelos passam a participar de fluxos distribuídos entre pessoas, regras, decisões e infraestrutura. Cruza [[00 tipos de design/Design Grafico|design gráfico]] porque forma, hierarquia e fluência continuam participando da autoridade percebida das respostas.
 
-OpenAI desenvolveu o InstructGPT e o ChatGPT, contribuindo para popularizar o chatbot de linguagem natural como interface geral de IA. [[empresas/Google|Google]] teve papel importante na criação da arquitetura Transformer e no desenvolvimento de sistemas de busca e linguagem que antecedem parte dessa interação semântica.
+Entre os problemas recorrentes estão formulação, delegação, avaliação, incerteza, antropomorfismo, memória, autonomia e contestabilidade. A pergunta disciplinar talvez seja menos “como desenhar produtos com IA?” e mais “que novas relações precisam ser projetadas quando parte da interpretação e da ação é delegada a sistemas cujo comportamento não pode ser completamente especificado antes do uso?”.
 
-## Artefatos históricos relacionados
-
-- [[03 artefatos/Prompt Conversacional|Prompt Conversacional]]: a metainterface de texto livre que substitui controles tradicionais pela formulação da intenção.
-- [[03 artefatos/LLM Wiki|LLM Wiki]]: base de conhecimento persistente em que um agente LLM mantém sínteses, relações e regras de atualização entre consultas.
-
-## Conexões e referências
-
-O Design de IA se conecta diretamente a [[00 tipos de design/Design de Interface|Design de Interface]] e [[00 tipos de design/Design de Servicos|Design de Serviços]]. Também toca antropomorfismo, semiótica, design de interação, delegação, alinhamento, avaliação, poder e gestão de incerteza.
-
-Leituras recomendadas incluem *Attention Is All You Need* (Vaswani et al., 2017), estudos sobre o ELIZA e pesquisas em interação humano-IA sobre carga cognitiva, antropomorfismo e confiança em sistemas conversacionais.
+Esta nota deve permanecer ligada aos artefatos que tornam essas relações observáveis. O campo não é definido pela presença de uma tecnologia chamada IA, mas pelas decisões de design necessárias quando intenção, interpretação, probabilidade e agência passam a coexistir na mesma experiência.
