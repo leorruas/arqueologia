@@ -170,6 +170,16 @@ Depois da propagação, atualize os índices afetados e `log.md`. O log deve reg
 
 Uma criação pode ser considerada completa quando o artigo está integrado ao acervo, e não apenas quando o arquivo existe.
 
+## Protocolo de propagação de governança
+
+Mudanças nas próprias regras do vault também precisam se propagar. Alterar um modelo editorial, schema, função de uma pasta ou critério de publicação apenas em um manual cria uma divergência entre o que o sistema diz, o que os templates produzem, o que a auditoria aceita e o que a documentação pública ensina.
+
+Quando uma regra estrutural ou editorial mudar, verifique quais destas superfícies dependem dela: `me.md`, este manual, `Guia de escrita.md`, templates correspondentes, scripts de auditoria, `README.md`, `index.md` e `00 índices/Sobre o projeto.md`. Atualize apenas as que forem materialmente afetadas, mas não considere a mudança encerrada enquanto versões incompatíveis continuarem descrevendo o mesmo comportamento.
+
+Automação deve verificar aquilo que pode ser expresso de maneira objetiva — presença de metadados, schemas, headings legados, links e invariantes estruturais. Julgamentos como “este percurso realmente produz uma transformação de leitura?” ou “este tipo de design tem uma tese disciplinar?” permanecem revisão intelectual, não devem ser reduzidos a uma regex apenas para produzir um relatório verde.
+
+A regra é simétrica ao protocolo de propagação dos estudos: **novo conhecimento altera a rede; nova governança altera as regras que produzem e verificam a rede**.
+
 ## Modos de funcionamento
 
 ### Modo história
