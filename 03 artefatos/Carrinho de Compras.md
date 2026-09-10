@@ -1,6 +1,7 @@
 ---
 title: "Carrinho de compras"
 type: "artefato"
+status: "publicado"
 tags:
   - design/artefato
   - arqueologia
@@ -8,39 +9,79 @@ tags:
 
 # Carrinho de compras
 
-O **Carrinho de Compras** (físico e digital) é uma tecnologia de facilitação de compra e coordenação de fluxo que serve como um suporte móvel ou lógico temporário para armazenar produtos e intenções antes da tomada de decisão de pagamento definitiva.
+O carrinho de compras parece apenas um recipiente com rodas. Mas sua função histórica é mais profunda: ele aumenta a quantidade de mundo que uma pessoa consegue carregar enquanto continua escolhendo.
 
-## Ficha técnica
-- **Criador(es)**: Sylvan Goldman (carrinho de compras físico de supermercado com rodas, 1937); e pioneiros do e-commerce na década de 1990 (carrinho de compras digital virtual).
-- **Empresa/Fabricante**: Humpty Dumpty Supermarkets (Goldman)
-- **Ano de Lançamento**: 1937 (Físico); década de 1990 (Digital)
-- **Tipo de Design**: [[00 tipos de design/Design de Produto|Design de Produto]] / [[00 tipos de design/Design de Interface|Design de Interface]]
+Essa combinação entre **capacidade física** e **decisão provisória** ajuda a explicar por que o carrinho físico e o carrinho digital são parentes tão fortes, mesmo separados por décadas e mídias diferentes.
 
-## História e contexto de criação
-- **Demanda / Problema**: Tradicionalmente, as compras eram mediadas por balconistas: o cliente entregava uma lista e o funcionário retirava e trazia cada item de trás do balcão. Com o surgimento dos supermercados de autoatendimento, o cliente passou a circular pelas prateleiras. O esforço físico de carregar cestas pesadas limitava severamente a quantidade de produtos que uma pessoa conseguia comprar em uma única visita.
-- **Processo de Desenvolvimento**: Sylvan Goldman percebeu a barreira ergonômica e inventou um suporte de metal dobrável sobre rodas capaz de acomodar duas cestas de compras grandes. No e-commerce, o carrinho digital foi criado para permitir que os usuários navegassem por páginas de produtos sem serem forçados a comprar cada item individualmente em etapas de checkout isoladas.
+## Quando o autoatendimento encontrou um limite corporal
 
-## Inovação e impacto
-- **Ampliação de Capacidade**: Amplia a capacidade de carga física (no supermercado) e a memória de intenções de compra do usuário (no digital), liberando o cérebro do trabalho de reter a lista de escolhas enquanto novas decisões de consumo acontecem.
-- **Enfraquecimento de Capacidade**: Enfraquece a tomada de decisão imediata e o controle rígido de gastos, estimulando compras impulsivas pela remoção do atrito físico e cognitivo.
-- **Comportamento Coletivo**: Transformou o ato de comprar em um processo dinâmico de conversação e avaliação contínua. No e-commerce, criou o comportamento de abandono de carrinho como um espaço provisório de reflexão e desejo latente.
-- **Linhagem e Descendência**: Descendente direto de cestas manuais de transporte e sacolas. Primo conceitual do Post-it (memória distribuída). Antepassado direto da Wishlist (lista de desejos), listas de favoritos e rascunhos de transação em aplicativos.
-- **Custo Invisível**: Estímulo sistemático ao consumo em massa desnecessário, alteração no tamanho das embalagens e na largura dos corredores urbanos comerciais, gerando maior volume de resíduos.
+Nos modelos tradicionais de comércio de balcão, o cliente pedia produtos e um funcionário os buscava. O crescimento do autoatendimento mudou essa relação: a pessoa passou a circular, olhar, comparar e retirar itens diretamente das prateleiras.
 
-## Referências e onde encontrar
-- **Leituras**: *The Paradox of Choice* (Barry Schwartz).
+Mas esse novo grau de autonomia encontrou um limite banal: braços e cestas têm capacidade finita.
 
----
+Sylvan Goldman, proprietário de supermercados em Oklahoma, desenvolveu em 1937 um “folding basket carriage”: uma estrutura dobrável com rodas e suportes para cestas.[^1] O objetivo era permitir que clientes transportassem mais mercadorias sem carregar todo o peso nos braços.
 
-### Ficha resumo
+O artefato, porém, não foi imediatamente aceito. Relatos históricos registram resistência de homens que associavam seu uso a fraqueza e de mulheres que o aproximavam visualmente de carrinhos de bebê. Goldman recorreu a demonstrações e pessoas contratadas para usar o carrinho dentro da loja, tornando o novo comportamento socialmente observável.[^2]
 
-- **Nome do artefato**: Carrinho de Compras
-- **Ano aproximado**: 1937 (Físico) / Década de 1990 (Digital)
-- **Pessoas ou equipes envolvidas**: Sylvan Goldman
-- **Produto onde apareceu**: Supermercados Humpty Dumpty
-- **Problema que resolvia**: A limitação física de carga do consumidor no autoatendimento e o atrito de checkout imediato no digital
-- **Comportamento aproveitado**: O ato intuitivo de depositar provisoriamente itens em uma cesta para avaliação posterior
-- **Comportamento criado**: A compra estendida não linear (adicionar, remover, adiar) e o acúmulo de desejos em listas provisórias
-- **Impacto histórico**: Viabilizou o modelo de autoatendimento dos supermercados modernos e a economia de escala do comércio eletrônico global
-- **Conceitos relacionados**: [[01 conceitos/Memoria Distribuida|Memória Distribuída]], [[02 variaveis/Reversibilidade|Reversibilidade]], [[02 variaveis/Atrito Decisorio|Atrito Decisório]]
-- **Artefatos relacionados para estudos futuros**: Cesta de compras, Wishlist (Lista de desejos), sacola digital
+Esse detalhe é central. Às vezes, inventar um objeto não basta. É preciso **projetar também a situação em que usá-lo deixa de parecer estranho**.
+
+## A capacidade de carregar altera a capacidade de comprar
+
+O carrinho amplia a força funcional do consumidor. Ele permite continuar andando e escolhendo mesmo depois de a quantidade de produtos ultrapassar aquilo que seria confortável carregar manualmente.
+
+Isso reduz fricção física, mas também altera o ambiente comercial. Se transportar mais fica fácil, cestas podem crescer, corredores podem ser dimensionados para circulação com carrinhos e o próprio supermercado pode organizar a compra como percurso prolongado.
+
+A antiga nota interpretava isso como estímulo sistemático ao consumo. A direção é plausível, mas a causalidade precisa ser tratada com cuidado. O carrinho não “causa” sozinho compras excessivas. Ele remove uma limitação corporal que antes funcionava como freio material.
+
+Em termos de design, isso já é suficiente: **retirar um limite físico muda o conjunto de comportamentos possíveis**.
+
+## O carrinho como memória provisória
+
+Há ainda uma segunda função menos óbvia. Um item colocado no carrinho não foi comprado. Ele foi separado para uma decisão posterior.
+
+Isso torna o carrinho um espaço intermediário entre interesse e compromisso. A pessoa pode adicionar, retirar, comparar e reorganizar antes de chegar ao caixa.
+
+É por isso que o carrinho se aproxima de [[02 variaveis/Reversibilidade|Reversibilidade]] e [[01 conceitos/Memoria Distribuida|Memória distribuída]]. Ele guarda escolhas provisórias fora da cabeça e permite que a decisão seja revisada.
+
+O parentesco com [[03 artefatos/Post-it|Post-it]] é funcional, não histórico: ambos externalizam algo que ainda está em processo.
+
+## Quando o carrinho perdeu as rodas
+
+No comércio eletrônico, o carrinho é traduzido para uma estrutura lógica. O usuário navega por páginas diferentes, adiciona produtos e mantém uma coleção temporária antes do checkout.
+
+Essa versão digital preserva a ideia fundamental do objeto físico: **acumular sem concluir**.
+
+Mas surge um comportamento novo e importante: abandonar o carrinho. O espaço provisório deixa de ser apenas caminho para compra e passa a funcionar também como lista temporária de interesse, comparação ou adiamento.
+
+Wishlists, favoritos e rascunhos de transação podem ser vistos como parentes dessa lógica. Eles separam intenção de compromisso e reduzem o custo de voltar a uma decisão depois.
+
+O carrinho revela, então, uma ideia maior: decisões complexas ficam mais fáceis quando o sistema oferece um lugar onde escolhas podem existir antes de se tornarem definitivas.
+
+## Ficha arqueológica
+
+| Campo | Registro |
+|---|---|
+| **Artefato** | Carrinho de compras |
+| **Período** | 1937 no varejo físico; tradução digital disseminada no e-commerce dos anos 1990 |
+| **Autoria** | Sylvan Goldman no carrinho físico; desenvolvimento digital distribuído |
+| **Problema original** | Limite corporal de carregar produtos durante compras em autoatendimento |
+| **Invenção** | Folding basket carriage desenvolvido por Goldman em Oklahoma |
+| **Refinamento** | Evolução para carrinhos encaixáveis, cestos maiores e formatos industriais |
+| **Popularização** | Supermercados de autoatendimento |
+| **Padronização** | Carrinho como infraestrutura quase universal do supermercado e metáfora recorrente do e-commerce |
+| **Comportamento aproveitado** | Depositar provisoriamente itens enquanto se continua escolhendo |
+| **Comportamento produzido** | Compras mais longas, acúmulo temporário e revisão antes do pagamento |
+| **Hipótese de design** | A capacidade de escolha aumenta quando carga física e memória de itens são externalizadas |
+| **Relação de poder** | Amplia autonomia do consumidor, mas também amplia a capacidade do varejo de manter a pessoa escolhendo por mais tempo |
+| **Custo invisível** | Pode remover limites físicos que antes restringiam volume de compra; no digital, pode favorecer acumulação de intenções e abandono |
+| **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória distribuída]] |
+| **Variáveis relacionadas** | [[02 variaveis/Reversibilidade|Reversibilidade]], [[02 variaveis/Atrito Decisorio|Atrito decisório]], [[02 variaveis/Friccao|Fricção]] |
+| **Genealogia** | [[04 genealogias/Compressao do Esforco|Compressão do esforço]] |
+| **Parentes** | cesta, sacola, [[03 artefatos/Post-it|Post-it]], wishlist, favoritos |
+| **Questão em aberto** | O que muda na decisão quando o espaço provisório de escolha não tem peso, volume nem limite físico perceptível? |
+
+## Referências
+
+[^1]: Smithsonian Institution, National Museum of American History. *Goldman's Folding Basket Carriage*. O acervo registra o desenvolvimento do carrinho por Sylvan Goldman por volta de 1937 e sua estrutura com rodas e duas cestas.
+
+[^2]: History.com. “How the Shopping Cart Went From Failure to Fixture”. O relato histórico descreve a resistência inicial e as estratégias de demonstração usadas para normalizar o novo comportamento.
