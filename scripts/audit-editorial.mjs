@@ -21,11 +21,7 @@ const headingsLegadosTipoDesign = new Set([
   "evolução e desenvolvimento",
   "figuras e autores de destaque",
   "empresas e estúdios de destaque",
-  "autores e instituições relacionados",
   "artefatos históricos relacionados",
-  "artefatos relacionados",
-  "problema recorrente",
-  "formação histórica do campo",
   "conexões e referências"
 ]);
 const headingsLegadosArtefato = new Set([
@@ -55,36 +51,14 @@ const headingsLegadosVariavel = new Set([
   "redistribui a variável",
   "ficha resumo da variável"
 ]);
-const headingsLegadosPercurso = new Set([
-  "o fio que une o percurso"
-]);
+const headingsLegadosPercurso = new Set(["o fio que une o percurso"]);
 const camposFichaArtefato = [
-  "Artefato",
-  "Período",
-  "Autoria",
-  "Produto ou contexto",
-  "Tipo(s) de design",
-  "Empresas ou instituições relacionadas",
-  "Problema original",
-  "Mundo antes",
-  "Invenção",
-  "Refinamento",
-  "Popularização",
-  "Padronização",
-  "Hipótese de design",
-  "Comportamento aproveitado",
-  "Comportamento produzido",
-  "Relação de poder",
-  "Consequências inesperadas",
-  "Destino ou transformação posterior",
-  "Conceitos relacionados",
-  "Variáveis relacionadas",
-  "Genealogia",
-  "Percurso(s)",
-  "Parentes",
-  "Leituras-chave",
-  "Princípio de design revelado",
-  "Questão em aberto"
+  "Artefato","Período","Autoria","Produto ou contexto","Tipo(s) de design",
+  "Empresas ou instituições relacionadas","Problema original","Mundo antes","Invenção",
+  "Refinamento","Popularização","Padronização","Hipótese de design","Comportamento aproveitado",
+  "Comportamento produzido","Relação de poder","Consequências inesperadas","Destino ou transformação posterior",
+  "Conceitos relacionados","Variáveis relacionadas","Genealogia","Percurso(s)","Parentes","Leituras-chave",
+  "Princípio de design revelado","Questão em aberto"
 ];
 const metadadosConceitoObrigatorios = ["status", "origem", "grau"];
 const metadadosVariavelObrigatorios = ["status", "eixo"];
@@ -104,16 +78,11 @@ function listarMarkdowns(diretorio, acumulador = []) {
 }
 
 function palavrasCapitalizadas(texto) {
-  return texto
-    .replace(/[`*_:[\]()]/g, " ")
-    .split(/\s+/)
-    .filter(Boolean)
-    .slice(1)
-    .filter(palavra => {
-      const limpa = palavra.replace(/^["'“‘]|["'”’.,;!?]$/g, "");
-      if (!limpa || conectivos.has(limpa.toLowerCase()) || siglas.test(limpa)) return false;
-      return /^[A-ZÁÉÍÓÚÂÊÔÃÕÇ]/.test(limpa);
-    });
+  return texto.replace(/[`*_:[\]()]/g, " ").split(/\s+/).filter(Boolean).slice(1).filter(palavra => {
+    const limpa = palavra.replace(/^["'“‘]|["'”’.,;!?]$/g, "");
+    if (!limpa || conectivos.has(limpa.toLowerCase()) || siglas.test(limpa)) return false;
+    return /^[A-ZÁÉÍÓÚÂÊÔÃÕÇ]/.test(limpa);
+  });
 }
 
 function extrairTitulo(frontmatter) {
@@ -135,7 +104,6 @@ function corpoDaSecao(markdown, titulo) {
   const alvo = `## ${titulo}`.toLowerCase();
   const inicio = linhas.findIndex(linha => linha.trim().toLowerCase() === alvo);
   if (inicio < 0) return "";
-
   const corpo = [];
   for (let i = inicio + 1; i < linhas.length; i += 1) {
     if (/^##\s+/.test(linhas[i])) break;
@@ -145,12 +113,7 @@ function corpoDaSecao(markdown, titulo) {
 }
 
 function normalizarCampo(texto) {
-  return texto
-    .replace(/\*\*/g, "")
-    .trim()
-    .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "")
-    .toLowerCase();
+  return texto.replace(/\*\*/g, "").trim().normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
 }
 
 const candidatos = [];
@@ -168,17 +131,14 @@ for (const arquivo of listarMarkdowns(raiz)) {
   const markdown = fs.readFileSync(arquivo, "utf8");
   const frontmatter = markdown.match(/^---\r?\n([\s\S]*?)\r?\n---/)?.[1] || "";
   const titulo = extrairTitulo(frontmatter);
-
   const categoriaDeNomeProprio = categoria === "autores" || categoria === "empresas";
-  if (!categoriaDeNomeProprio && titulo && palavrasCapitalizadas(titulo).length >= 1) {
-    candidatos.push({ sourcePath: relativo, kind: "frontmatter-title", text: titulo });
-  }
+
+  if (!categoriaDeNomeProprio && titulo && palavrasCapitalizadas(titulo).length >= 1) candidatos.push({ sourcePath: relativo, kind: "frontmatter-title", text: titulo });
 
   if (categoria === "01 conceitos") {
     const ausentes = metadadosConceitoObrigatorios.filter(campo => !temCampoFrontmatter(frontmatter, campo));
     if (ausentes.length) metadadosConceitoAusentes.push({ sourcePath: relativo, fields: ausentes });
   }
-
   if (categoria === "02 variaveis") {
     const ausentes = metadadosVariavelObrigatorios.filter(campo => !temCampoFrontmatter(frontmatter, campo));
     if (ausentes.length) metadadosVariavelAusentes.push({ sourcePath: relativo, fields: ausentes });
@@ -186,22 +146,11 @@ for (const arquivo of listarMarkdowns(raiz)) {
 
   if (categoria === "03 artefatos") {
     const fichas = markdown.match(/^##\s+Ficha arqueológica\s*$/gmi) || [];
-    if (fichas.length === 0) {
-      estruturasLegadasArtefato.push({ sourcePath: relativo, line: null, text: "Ficha arqueológica ausente" });
-    }
-    if (fichas.length > 1) {
-      estruturasLegadasArtefato.push({ sourcePath: relativo, line: null, text: "Mais de uma Ficha arqueológica" });
-    }
-
+    if (fichas.length === 0) estruturasLegadasArtefato.push({ sourcePath: relativo, line: null, text: "Ficha arqueológica ausente" });
+    if (fichas.length > 1) estruturasLegadasArtefato.push({ sourcePath: relativo, line: null, text: "Mais de uma Ficha arqueológica" });
     const ficha = corpoDaSecao(markdown, "Ficha arqueológica");
-    if (/^\s*-\s+\*\*/m.test(ficha)) {
-      estruturasLegadasArtefato.push({ sourcePath: relativo, line: null, text: "Ficha arqueológica ainda usa lista legada em vez de tabela" });
-    }
-
-    if (fichas.length === 1 && !/^\s*\|\s*Campo\s*\|\s*Registro\s*\|/mi.test(ficha)) {
-      estruturasLegadasArtefato.push({ sourcePath: relativo, line: null, text: "Ficha arqueológica não usa a tabela padrão Campo/Registro" });
-    }
-
+    if (/^\s*-\s+\*\*/m.test(ficha)) estruturasLegadasArtefato.push({ sourcePath: relativo, line: null, text: "Ficha arqueológica ainda usa lista legada em vez de tabela" });
+    if (fichas.length === 1 && !/^\s*\|\s*Campo\s*\|\s*Registro\s*\|/mi.test(ficha)) estruturasLegadasArtefato.push({ sourcePath: relativo, line: null, text: "Ficha arqueológica não usa a tabela padrão Campo/Registro" });
     if (fichas.length === 1) {
       const camposPresentes = new Set();
       for (const linha of ficha.split(/\r?\n/)) {
@@ -211,15 +160,8 @@ for (const arquivo of listarMarkdowns(raiz)) {
         if (campo === "campo" || /^-+$/.test(campo)) continue;
         camposPresentes.add(campo);
       }
-
       const ausentes = camposFichaArtefato.filter(campo => !camposPresentes.has(normalizarCampo(campo)));
-      if (ausentes.length) {
-        estruturasLegadasArtefato.push({
-          sourcePath: relativo,
-          line: null,
-          text: `Ficha arqueológica sem campos padrão: ${ausentes.join(", ")}`
-        });
-      }
+      if (ausentes.length) estruturasLegadasArtefato.push({ sourcePath: relativo, line: null, text: `Ficha arqueológica sem campos padrão: ${ausentes.join(", ")}` });
     }
   }
 
@@ -229,33 +171,17 @@ for (const arquivo of listarMarkdowns(raiz)) {
     const nivel = match[1].length;
     const texto = match[2].replace(/\s+#+\s*$/, "").trim();
     if (nivel === 1) return;
-
     const normalizado = texto.toLowerCase();
-    if (categoria === "00 tipos de design" && headingsLegadosTipoDesign.has(normalizado)) {
-      estruturasLegadasTipoDesign.push({ sourcePath: relativo, line: indice + 1, text: texto });
-    }
-    if (categoria === "03 artefatos" && headingsLegadosArtefato.has(normalizado)) {
-      estruturasLegadasArtefato.push({ sourcePath: relativo, line: indice + 1, text: texto });
-    }
-    if (categoria === "01 conceitos" && headingsLegadosConceito.has(normalizado)) {
-      estruturasLegadasConceito.push({ sourcePath: relativo, line: indice + 1, text: texto });
-    }
-    if (categoria === "02 variaveis" && headingsLegadosVariavel.has(normalizado)) {
-      estruturasLegadasVariavel.push({ sourcePath: relativo, line: indice + 1, text: texto });
-    }
+    if (categoria === "00 tipos de design" && headingsLegadosTipoDesign.has(normalizado)) estruturasLegadasTipoDesign.push({ sourcePath: relativo, line: indice + 1, text: texto });
+    if (categoria === "03 artefatos" && headingsLegadosArtefato.has(normalizado)) estruturasLegadasArtefato.push({ sourcePath: relativo, line: indice + 1, text: texto });
+    if (categoria === "01 conceitos" && headingsLegadosConceito.has(normalizado)) estruturasLegadasConceito.push({ sourcePath: relativo, line: indice + 1, text: texto });
+    if (categoria === "02 variaveis" && headingsLegadosVariavel.has(normalizado)) estruturasLegadasVariavel.push({ sourcePath: relativo, line: indice + 1, text: texto });
     if (categoria === "05 percursos") {
-      if (/^\d+\.\s+/.test(texto)) {
-        estruturasLegadasPercurso.push({ sourcePath: relativo, line: indice + 1, text: texto });
-      }
-      if (headingsLegadosPercurso.has(normalizado)) {
-        estruturasLegadasPercurso.push({ sourcePath: relativo, line: indice + 1, text: texto });
-      }
+      if (/^\d+\.\s+/.test(texto)) estruturasLegadasPercurso.push({ sourcePath: relativo, line: indice + 1, text: texto });
+      if (headingsLegadosPercurso.has(normalizado)) estruturasLegadasPercurso.push({ sourcePath: relativo, line: indice + 1, text: texto });
     }
-
     if (headingEhApenasLink(texto)) return;
-    if (palavrasCapitalizadas(texto).length >= 1) {
-      candidatos.push({ sourcePath: relativo, kind: `h${nivel}`, line: indice + 1, text: texto });
-    }
+    if (palavrasCapitalizadas(texto).length >= 1) candidatos.push({ sourcePath: relativo, kind: `h${nivel}`, line: indice + 1, text: texto });
   });
 }
 
@@ -278,7 +204,7 @@ const legadosPercursoPorArquivo = agruparPorArquivo(estruturasLegadasPercurso);
 const relatorio = {
   generatedAt: new Date().toISOString(),
   rule: "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
-  typeDesignRule: "Tipos de design devem funcionar como ensaios disciplinares e não usar estrutura enciclopédica de origem, pioneiros, empresas ou inventário exaustivo.",
+  typeDesignRule: "Tipos de design devem funcionar como ensaios disciplinares. Headings do template atual são permitidos; permanecem suspeitos apenas headings enciclopédicos legados.",
   pathRule: "Percursos devem funcionar como argumentos de leitura e não usar sequência numerada de resumos de artefatos.",
   artifactSheetRule: "Cada artefato deve conter uma única Ficha arqueológica em tabela Campo/Registro com os 26 campos definidos no template atual.",
   candidateCount: candidatos.length,
@@ -306,13 +232,4 @@ const relatorio = {
 };
 
 fs.writeFileSync(path.join(raiz, "editorial-report.json"), JSON.stringify(relatorio, null, 2));
-console.log(
-  `Auditoria editorial: ${candidatos.length} candidatos em ${porArquivo.size} arquivos; ` +
-  `${estruturasLegadasTipoDesign.length} estruturas legadas em ${legadosTipoDesignPorArquivo.size} tipos de design; ` +
-  `${estruturasLegadasArtefato.length} problemas de ficha/estrutura em ${legadosArtefatoPorArquivo.size} artefatos; ` +
-  `${estruturasLegadasConceito.length} headings legados em ${legadosConceitoPorArquivo.size} conceitos; ` +
-  `${metadadosConceitoAusentes.length} conceitos com metadados obrigatórios ausentes; ` +
-  `${estruturasLegadasVariavel.length} headings legados em ${legadosVariavelPorArquivo.size} variáveis; ` +
-  `${metadadosVariavelAusentes.length} variáveis com metadados obrigatórios ausentes; ` +
-  `${estruturasLegadasPercurso.length} estruturas legadas em ${legadosPercursoPorArquivo.size} percursos.`
-);
+console.log(`Auditoria editorial: ${candidatos.length} candidatos; ${estruturasLegadasTipoDesign.length} headings legados em tipos de design; ${estruturasLegadasArtefato.length} problemas de artefato; ${estruturasLegadasConceito.length} problemas de conceito; ${estruturasLegadasVariavel.length} problemas de variável; ${estruturasLegadasPercurso.length} problemas de percurso.`);
