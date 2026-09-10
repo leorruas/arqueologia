@@ -1,6 +1,7 @@
 ---
 title: "Value Proposition Ad Lib"
 type: "artefato"
+status: "publicado"
 tags:
   - design/artefato
   - arqueologia
@@ -8,52 +9,108 @@ tags:
 
 # Value Proposition Ad Lib
 
-Um artefato de design estratégico e facilitação em formato de frase lacunada para preenchimento coletivo. Ele é projetado para forçar equipes a estruturarem, de forma explícita e resumida, a relação lógica entre o perfil do usuário, a dor enfrentada, a solução proposta, a hipótese de transformação e as evidências que sustentam essa aposta.
+Há reuniões em que todo mundo concorda com a solução e ninguém concorda sobre o problema. “Vamos criar um portal”, “vamos automatizar”, “vamos usar IA”. A convergência parece rápida porque a frase esconde várias premissas ainda não discutidas: para quem, para resolver o quê, produzindo qual mudança e com base em que evidência.
 
-## Ficha técnica
-- **Criador(es)**: [[autores/Alexander Osterwalder|Alexander Osterwalder]] (conceito original), adaptado por designers na área de serviços públicos
-- **Empresa/Fabricante**: [Não aplicável]
-- **Ano de Lançamento**: Década de 2020
-- **Materiais/Mídia**: Papel, lousas digitais, post-its, texto digital
-- **Tipo de Design**: [[00 tipos de design/Design de Servicos|Design de Serviços]]
+O **Value Proposition Ad Lib** é uma tecnologia simples para expor essa estrutura. Ele usa uma frase com lacunas para obrigar a equipe a tornar explícita a relação entre público, trabalho ou necessidade, proposta de valor e transformação pretendida.
 
-## História e contexto de criação
-- **Demanda / Problema**: Nas discussões de projeto, as equipes possuem uma forte tendência cognitiva de focar prematuramente nas soluções ("vamos criar um aplicativo", "vamos colocar inteligência artificial") sem antes definir se essa intervenção de fato resolve um problema real ou cria valor para o usuário final.
-- **Processo de Desenvolvimento**: A ferramenta surgiu como um desdobramento simplificado do *Value Proposition Canvas* de Alexander Osterwalder, convertendo diagramas complexos em uma estrutura verbal simples (Ad Lib ou fill-in-the-blanks) para workshops. Em contextos públicos e sociais, ela foi adaptada para colocar a hipótese e a evidência empírica no centro da justificativa de projetos.
+Sua força está justamente na banalidade do formato. Uma sentença curta pode revelar divergências que dezenas de slides deixavam escondidas.
 
-## Inovação e impacto
-- **Ampliação de Capacidade**: Amplia a capacidade de reflexão lógica e alinhamento conceitual das equipes, permitindo visualizar e testar os elos de uma argumentação de projeto em poucos segundos.
-- **Enfraquecimento de Capacidade**: Enfraquece o debate fluido e a intuição puramente informal de design, canalizando as ideias de forma rígida em uma estrutura de hipótese pré-determinada.
-- **Comportamento Coletivo**: Introduziu o hábito de discutir "hipóteses de valor" e "rastreabilidade de demandas" antes da prototipação de sistemas.
-- **Linhagem e Descendência**: Descende dos canvases de negócios e de propostas de valor comerciais, e deu origem a matrizes formais de governança pública, como a Justificativa de Valor Público.
-- **Custo Invisível**: Pode induzir a um preenchimento retórico ou burocrático (o preenchimento pelo preenchimento), onde equipes aprendem a usar a linguagem do framework para legitimar ideias predefinidas sem reflexão real.
+## Um canvas comprimido em frase
 
-## Referências e onde encontrar
-- **Leituras**: *Value Proposition Design* (Alexander Osterwalder et al., 2014)
+O Ad Lib não surge na década de 2020. Ele aparece explicitamente em *Value Proposition Design*, publicado em 2014 por Alexander Osterwalder, Yves Pigneur, Greg Bernarda e Alan Smith.[^1]
 
----
+No livro, o recurso é apresentado como uma técnica de prototipação rápida de propostas de valor. A estrutura original pede que a equipe complete uma sentença do tipo: nossos produtos ou serviços ajudam determinado segmento de clientes que quer realizar certo job, reduzindo dores e aumentando ganhos, possivelmente em contraste com uma alternativa concorrente.[^1]
 
-### Ficha resumo
+A relação com o [[01 conceitos/Formulação|Value Proposition Canvas]] é importante, mas o Ad Lib executa outra operação. O canvas distribui informações no espaço. A frase obriga essas informações a formar uma proposição contínua.
 
-- **Nome do artefato**: Value Proposition Ad Lib
-- **Categoria**: Design de Serviços / Workshop / Formulação de Hipóteses
-- **Período aproximado**: Década de 2020
-- **Pessoas ou equipes envolvidas**: [[autores/Alexander Osterwalder|Alexander Osterwalder]]
-- **Produto onde apareceu**: Workshops de cocriação e facilitação estratégica
-- **Problema original**: A propensão das equipes de começar a discutir o design de produtos e serviços pelas soluções antes de esclarecer os problemas dos usuários e as premissas de valor.
-- **Hipótese sobre a natureza humana**: As pessoas colaboram e decidem com muito mais rigor quando são forçadas a explicitar premissas lógicas que de outra forma ficariam ocultas no plano das ideias particulares.
-- **Relação de poder**: Descentraliza o poder decisório ao exigir que as propostas se justifiquem pela lógica do benefício e pelas evidências disponíveis, em vez de se imporem por preferências hierárquicas.
-- **Mundo antes da inovação**: Equipes gastavam tempo e recursos desenvolvendo soluções inteiras baseadas em suposições frágeis, para só depois descobrirem que o problema original não existia ou era irrelevante.
-- **A ideia que mudou tudo**: Reduzir a proposta de valor a uma única sentença estruturada e interdependente que funciona como teste de consistência lógica.
-- **Comportamento aproveitado**: O impulso de justificar e explicar propostas em dinâmicas de colaboração.
-- **Comportamento criado**: O ato de avaliar propostas com base na clareza do problema de origem, nas hipóteses testáveis e no benefício direto ao usuário.
-- **Por que funcionou**: Sua simplicidade verbal remove o jargão técnico e de negócios, permitindo que participantes de diferentes origens técnicas (como TI, Comunicação e Gestão) colaborem sob uma gramática compartilhada.
-- **Consequências inesperadas**: O risco de o Ad Lib se tornar um exercício performativo e formal para preenchimento de requisitos burocráticos sem real investigação empírica.
-- **Legado**: Consolidação de frameworks lógicos rápidos que preparam projetos de design para validação experimental e accountability decisória.
-- **Conceitos relacionados**: [[01 conceitos/Formulação|Formulação]], [[01 conceitos/Intenção|Intenção]], [[01 conceitos/Justificabilidade|Justificabilidade]], [[01 conceitos/Servico de Reflexao|Serviço de Reflexão]]
-- **Família de ideias**: Artefatos de Intenção, Artefatos de Justificabilidade
-- **Parentes**: [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Brief|Brief]], [[03 artefatos/Problema de Design|Problema de Design]], [[03 artefatos/Justificativa de Valor Público|Justificativa de Valor Público]], [[03 artefatos/Hipótese Científica|Hipótese Científica]]
-- **Hipótese central**: O Value Proposition Ad Lib expõe desacordos produtivos de forma acelerada, impedindo que o falso consenso de uma solução esconda divergências profundas sobre o problema ou o público-alvo.
-- **Princípio de design revelado**: A clareza das premissas lógicas de um projeto de design deve ser testada e legitimada antes de qualquer esforço de implementação técnica.
-- **Destino do artefato**: Amplamente difundido na cultura ágil e de design thinking, sendo gradativamente absorvido como microinfraestrutura de governança corporativa e governamental.
-- **Perguntas em aberto**: Como projetar mecanismos que garantam que as hipóteses de valor traçadas no Ad Lib sejam sistematicamente confrontadas com dados reais pós-lançamento?
+Isso aumenta a pressão por coerência.
+
+Uma equipe pode preencher quadrantes inteiros com post-its sem perceber que não existe ligação convincente entre eles. Quando precisa escrever uma única sentença, a ausência de relação fica mais visível.
+
+## A gramática cria atrito onde normalmente existe consenso fácil
+
+Imagine uma equipe que quer criar um chatbot para atendimento institucional.
+
+Sem estrutura, a proposta pode ser simplesmente: “vamos colocar um chatbot com IA no site”.
+
+O Ad Lib obriga a completar relações: quem exatamente será ajudado? O que essas pessoas tentam fazer? Qual dificuldade será reduzida? Que capacidade será ampliada? Qual alternativa atual está sendo substituída?
+
+A discussão deixa de ocorrer apenas no nível da solução.
+
+É nesse sentido que o artefato funciona como um pequeno [[01 conceitos/Servico de Reflexao|serviço de reflexão]]. A frase introduz fricção deliberada antes da implementação. Em vez de acelerar a decisão, desacelera o suficiente para expor premissas.
+
+Essa propriedade aproxima o Ad Lib do [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], do [[03 artefatos/Problema de Design|problema de design]] e da [[03 artefatos/Hipótese Científica|hipótese científica]]. Todos tentam impedir que uma crença importante permaneça implícita.
+
+Mas o Ad Lib possui uma particularidade: ele transforma argumentação em **sintaxe**.
+
+A estrutura da frase determina quais tipos de relação precisam aparecer. O usuário não recebe uma página em branco; recebe uma gramática mínima para justificar uma proposta.
+
+## Da proposta de valor à justificabilidade
+
+Em sua forma original, o Ad Lib pertence à linguagem de proposta de valor e modelo de negócio. Ele não foi criado como mecanismo de controle público, rastreabilidade administrativa ou avaliação de gasto governamental.
+
+É neste ponto que este projeto faz uma adaptação própria.
+
+Quando a estrutura recebe campos de hipótese, evidência e benefício público, ela pode deixar de perguntar apenas “como isto cria valor?” e passar a perguntar também “por que esta intervenção deve existir e o que justificaria continuá-la?”.
+
+Essa adaptação é particularmente interessante em organizações nas quais uma decisão técnica pode ser apresentada como inevitável apenas porque alguém com autoridade já escolheu a solução.
+
+A frase estruturada redistribui parte desse poder. Uma proposta precisa mostrar relações entre problema, público e benefício em uma forma que outras pessoas conseguem examinar.
+
+É daí que nasce, dentro deste vault, o parentesco com a [[03 artefatos/Justificativa de Valor Público|Justificativa de Valor Público]]. Esse descendente é uma elaboração do projeto, não um estágio histórico documentado da ferramenta de Osterwalder.
+
+A distinção importa porque permite ao repositório registrar contribuição própria sem reescrever retrospectivamente a origem do artefato.
+
+## O framework também pode aprender a mentir
+
+Toda estrutura preenchível corre o risco de se tornar formulário.
+
+Depois de algum tempo, equipes aprendem quais palavras “cabem” nas lacunas. Um projeto decidido antecipadamente pode ganhar uma narrativa plausível de usuário, dor e benefício apenas para satisfazer a exigência metodológica.
+
+Nesse momento, o Ad Lib deixa de expor premissas e começa a escondê-las sob uma gramática de legitimidade.
+
+Esse é seu custo invisível. Quanto mais um framework se torna reconhecido como sinal de boa prática, maior o incentivo para performá-lo sem executar a investigação que deveria sustentá-lo.
+
+Por isso a referência a evidências é importante. A frase não deveria terminar a discussão. Deveria produzir perguntas verificáveis: de onde sabemos que esse problema existe? Para quem? Em que frequência? O que mudaria se a intervenção funcionasse? Que dado nos faria abandonar a proposta?
+
+A estrutura então se aproxima novamente da hipótese científica. Não porque projetos de design devam imitar laboratórios, mas porque ambos se beneficiam quando premissas conseguem ser confrontadas com algo externo à vontade da equipe.
+
+## Uma frase pode funcionar como microinfraestrutura de governança
+
+O Ad Lib é pequeno demais para governar um projeto sozinho. Ele não substitui pesquisa, orçamento, análise técnica, políticas ou mecanismos de decisão.
+
+Mas pode funcionar como um ponto de passagem obrigatório entre desejo e implementação.
+
+Isso muda sua natureza. A mesma frase que em um workshop serve para prototipar alternativas pode, quando incorporada a um processo institucional, funcionar como memória da justificativa inicial. Meses depois, torna-se possível comparar aquilo que foi prometido com aquilo que aconteceu.
+
+A hipótese deste projeto é que aí existe uma transformação interessante de escala: **um artefato de facilitação pode virar um artefato de accountability quando sua formulação permanece ligada à evidência e ao acompanhamento posterior**.
+
+O desafio é impedir que a institucionalização destrua justamente a reflexão que tornou o artefato útil.
+
+Se virar só mais uma caixa a preencher, sobra a forma e desaparece a pergunta.
+
+## Ficha arqueológica
+
+| Campo | Registro |
+|---|---|
+| **Artefato** | Value Proposition Ad Lib |
+| **Período** | Publicado em 2014 em *Value Proposition Design*; adaptações posteriores variam por contexto |
+| **Autoria** | Alexander Osterwalder, Yves Pigneur, Greg Bernarda e Alan Smith no contexto de *Value Proposition Design* e Strategyzer |
+| **Problema original** | Prototipar rapidamente direções de proposta de valor e tornar explícita a relação entre oferta, público, jobs, dores e ganhos |
+| **Invenção** | Ad Lib documentado em *Value Proposition Design* em 2014 |
+| **Refinamento** | Uso da estrutura em workshops, estratégia e adaptações para outros contextos de decisão |
+| **Popularização** | Ecossistema Strategyzer, design thinking, produto e facilitação estratégica |
+| **Padronização** | Frases lacunadas para propostas de valor e hipóteses de produto |
+| **Comportamento aproveitado** | Impulso de explicar e justificar propostas por meio de relações causais compreensíveis |
+| **Comportamento produzido** | Explicitar público, necessidade, transformação e premissas antes de detalhar a implementação |
+| **Hipótese de design** | Uma gramática curta e compartilhada consegue revelar inconsistências que permanecem ocultas em discussões abertas |
+| **Relação de poder** | Pode exigir justificativa explícita de propostas hierárquicas e ampliar contestabilidade; também pode fornecer vocabulário para legitimar decisões já tomadas |
+| **Custo invisível** | Preenchimento performativo, simplificação de problemas complexos e falsa sensação de rigor sem evidência |
+| **Conceitos relacionados** | [[01 conceitos/Formulacao|Formulação]], [[01 conceitos/Intencao|Intenção]], [[01 conceitos/Justificabilidade|Justificabilidade]], [[01 conceitos/Servico de Reflexao|Serviço de reflexão]] |
+| **Família de ideias** | Artefatos de intenção, formulação e justificabilidade |
+| **Parentes** | [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Brief|Brief]], [[03 artefatos/Problema de Design|Problema de design]], [[03 artefatos/Justificativa de Valor Público|Justificativa de Valor Público]], [[03 artefatos/Hipótese Científica|Hipótese científica]] |
+| **Questão em aberto** | Como institucionalizar a exigência de justificar uma proposta sem transformar o Ad Lib em burocracia performativa? |
+
+## Referências
+
+[^1]: Osterwalder, Alexander; Pigneur, Yves; Bernarda, Greg; Smith, Alan. *Value Proposition Design: How to Create Products and Services Customers Want*. Wiley, 2014. A seção de prototipação apresenta o Ad Lib como técnica para criar rapidamente alternativas de propostas de valor por meio de frases lacunadas.
