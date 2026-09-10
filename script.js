@@ -141,33 +141,71 @@ function esconderHome() {
   atualizarNav();
 }
 
+function montarArtigosDoIndice(indice) {
+  return (indice?.articles || [])
+    .filter(item => categoriasPublicas[item.category])
+    .map(item => ({
+      categoria: item.category,
+      titulo: nomeLimpo(item.title || item.fileTitle),
+      sourcePath: item.sourcePath,
+      conteudo: null,
+      textoBusca: item.plainText || "",
+      headings: item.headings || [],
+      related: item.related || [],
+      backlinks: item.backlinks || []
+    }));
+}
+
 async function carregarCatalogo() {
   iniciarTema();
-  let arquivos = [];
+  let carregadoDoIndice = false;
 
   try {
-    const resposta = await fetch(`https://api.github.com/repos/${REPO}/git/trees/${BRANCH}?recursive=1`, { cache: "no-cache" });
-    if (!resposta.ok) throw new Error(`GitHub respondeu ${resposta.status}`);
-    const dados = await resposta.json();
-    arquivos = (dados.tree || [])
-      .filter(item => item.type === "blob" && /\.md$/i.test(item.path))
-      .filter(item => item.path.includes("/"))
-      .filter(item => categoriasPublicas[item.path.split("/")[0]]);
+    const respostaIndice = await fetch("search-index.json", { cache: "no-cache" });
+    if (respostaIndice.ok) {
+      const indice = await respostaIndice.json();
+      const doIndice = montarArtigosDoIndice(indice);
+      if (doIndice.length) {
+        artigos = doIndice;
+        carregadoDoIndice = true;
+      }
+    }
   } catch (erro) {
-    console.warn("Não foi possível carregar a árvore do acervo.", erro);
+    console.warn("Índice pré-gerado indisponível; usando catálogo do GitHub.", erro);
   }
 
-  artigos = arquivos.map(item => {
-    const partes = item.path.split("/");
-    const categoria = partes[0];
-    const arquivo = partes[partes.length - 1];
-    return {
-      categoria,
-      titulo: nomeLimpo(arquivo),
-      sourcePath: item.path,
-      conteudo: null
-    };
-  }).sort((a, b) => a.sourcePath.localeCompare(b.sourcePath, "pt-BR", { numeric: true, sensitivity: "base" }));
+  if (!carregadoDoIndice) {
+    let arquivos = [];
+    try {
+      const resposta = await fetch(`https://api.github.com/repos/${REPO}/git/trees/${BRANCH}?recursive=1`, { cache: "no-cache" });
+      if (!resposta.ok) throw new Error(`GitHub respondeu ${resposta.status}`);
+      const dados = await resposta.json();
+      arquivos = (dados.tree || [])
+        .filter(item => item.type === "blob" && /\.md$/i.test(item.path))
+        .filter(item => item.path.includes("/"))
+        .filter(item => categoriasPublicas[item.path.split("/")[0]]);
+    } catch (erro) {
+      console.warn("Não foi possível carregar a árvore do acervo.", erro);
+    }
+
+    artigos = arquivos.map(item => {
+      const partes = item.path.split("/");
+      const categoria = partes[0];
+      const arquivo = partes[partes.length - 1];
+      return {
+        categoria,
+        titulo: nomeLimpo(arquivo),
+        sourcePath: item.path,
+        conteudo: null,
+        textoBusca: "",
+        headings: [],
+        related: [],
+        backlinks: []
+      };
+    });
+  }
+
+  artigos.sort((a, b) => a.sourcePath.localeCompare(b.sourcePath, "pt-BR", { numeric: true, sensitivity: "base" }));
 
   porCategoria = {};
   artigos.forEach(artigo => {
@@ -294,7 +332,7 @@ function limparFrontmatter(markdown) {
 
 function encontrarArtigoPorWiki(alvo) {
   const tituloBase = String(alvo || "").split("#")[0].replace(/\.md$/i, "").trim();
-  const normal = normalizar(tituloBase);
+  const normal = normalizar(tituloBase.split("/").pop());
   return artigos.find(item => normalizar(item.titulo) === normal) || null;
 }
 
@@ -307,7 +345,7 @@ function prepararMarkdown(markdown) {
     })
     .replace(/\[\[([^\]]+)\]\]/g, (_match, alvo) => {
       const artigo = encontrarArtigoPorWiki(alvo);
-      const rotulo = String(alvo).split("#")[0];
+      const rotulo = String(alvo).split("#")[0].split("/").pop();
       return artigo ? `[${rotulo}](${rotaArtigo(artigo)})` : rotulo;
     });
 }
@@ -400,7 +438,7 @@ async function carregarConteudoParaBusca() {
   if (carregamentoConteudo) return carregamentoConteudo;
 
   carregamentoConteudo = (async () => {
-    const fila = artigos.filter(artigo => artigo.conteudo === null).slice();
+    const fila = artigos.filter(artigo => !artigo.textoBusca && artigo.conteudo === null).slice();
     const trabalhadores = Array.from({ length: Math.min(8, fila.length || 1) }, async () => {
       while (fila.length) {
         const artigo = fila.shift();
@@ -438,11 +476,11 @@ async function pesquisar(termo) {
   cardsResultados.innerHTML = '<p class="mensagem-busca">escavando títulos e conteúdo...</p>';
   atualizarNav();
 
-  if (normalizar(consulta).length >= 3) await carregarConteudoParaBusca();
+  if (normalizar(consulta).length >= 3 && artigos.some(artigo => !artigo.textoBusca)) await carregarConteudoParaBusca();
   const termos = normalizar(consulta).split(/\s+/).filter(Boolean);
 
   const encontrados = artigos.filter(artigo => {
-    const palheiro = normalizar(`${nomeCategoria(artigo.categoria)} ${artigo.titulo} ${artigo.conteudo || ""}`);
+    const palheiro = normalizar(`${nomeCategoria(artigo.categoria)} ${artigo.titulo} ${artigo.textoBusca || artigo.conteudo || ""}`);
     return termos.every(item => palheiro.includes(item));
   });
 
