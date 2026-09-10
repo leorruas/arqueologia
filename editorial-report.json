@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T23:23:36.552Z",
+  "generatedAt": "2026-09-10T23:23:51.999Z",
   "rule": "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
   "artifactSheetRule": "Cada artefato deve conter uma única Ficha arqueológica em tabela Campo/Registro com os 26 campos definidos no template atual.",
   "candidateCount": 35,
