@@ -11,62 +11,63 @@ Catálogo de designers, pesquisadores, teóricos e pioneiros da história do des
 ## Designers e teóricos
 
 ### Século XIX e início do século XX (pioneiros e Bauhaus)
-- [[autores/Alois Senefelder|Alois Senefelder]] — Invenção da Litografia e Imprensa Planográfica.
-- [[autores/Jules Cheret|Jules Chéret]] — Pôster Litográfico Colorido e Comunicação de Massa.
-- [[autores/Henri de Toulouse Lautrec|Henri de Toulouse-Lautrec]] — Pôster Artístico, Síntese Visual e Publicidade Moderna.
-- [[autores/Peter Behrens|Peter Behrens]] — Desenho Industrial e Identidade Corporativa.
+- [[autores/Alois Senefelder|Alois Senefelder]]: invenção da litografia e imprensa planográfica.
+- [[autores/Jules Cheret|Jules Chéret]]: pôster litográfico colorido e comunicação de massa.
+- [[autores/Henri de Toulouse Lautrec|Henri de Toulouse-Lautrec]]: pôster artístico, síntese visual e publicidade moderna.
+- [[autores/Peter Behrens|Peter Behrens]]: desenho industrial e identidade corporativa.
 
 ### Meados do século XX (modernismo e design suíço)
-- [[autores/Dieter Rams|Dieter Rams]] — Design de Produto e Minimalismo (Braun).
-- [[autores/Josef Muller Brockmann|Josef Müller-Brockmann]] — Design Gráfico e Grids (Design Suíço).
-- [[autores/Adrian Frutiger|Adrian Frutiger]] — Tipografia e Sinalização.
-- [[autores/Max Miedinger|Max Miedinger]] — Tipografia (Helvetica).
+- [[autores/Dieter Rams|Dieter Rams]]: design de produto e minimalismo na Braun.
+- [[autores/Josef Muller Brockmann|Josef Müller-Brockmann]]: design gráfico e grids no design suíço.
+- [[autores/Adrian Frutiger|Adrian Frutiger]]: tipografia e sinalização.
+- [[autores/Max Miedinger|Max Miedinger]]: tipografia e Helvetica.
 
 ### Teoria do design e wicked problems
-- [[autores/Horst Rittel|Horst Rittel]] — Metodologia de Design e Wicked Problems.
-- [[autores/Melvin Webber|Melvin Webber]] — Planejamento Urbano e Wicked Problems.
-- [[autores/Herbert Simon|Herbert Simon]] — Ciências do Artificial e Racionalidade Limitada.
+- [[autores/Horst Rittel|Horst Rittel]]: metodologia de design e wicked problems.
+- [[autores/Melvin Webber|Melvin Webber]]: planejamento urbano e wicked problems.
+- [[autores/Herbert Simon|Herbert Simon]]: ciências do artificial e racionalidade limitada.
 
-### Era digital e computação pessoal
-- [[autores/Alan Kay|Alan Kay]] — Pioneiro de interfaces gráficas e da filosofia do Undo (Xerox PARC).
-- [[autores/Douglas Engelbart|Douglas Engelbart]] — Interface Humano-Computador e Mouse.
-- [[autores/Susan Kare|Susan Kare]] — Design de Ícones e Tipografia Digital (Apple Macintosh).
-- [[autores/Loren Brichter|Loren Brichter]] — Design de Interfaces Móveis (Pull to Refresh e Tweetie).
-- [[autores/Ben Shneiderman|Ben Shneiderman]] — Teórico de IHC e da Manipulação Direta.
-- [[autores/Donald Norman|Donald Norman]] — Experiência do Usuário (UX), Affordances e Signifiers.
-- [[autores/Steve Krug|Steve Krug]] — Usabilidade Web e Experiência do Usuário.
-- [[autores/David Kirkpatrick|David Kirkpatrick]] — Conectividade e Computação Social.
+### Era digital, eletrônicos e computação pessoal
+- [[autores/Robert Adler|Robert Adler]]: refinamento do controle remoto sem fio na Zenith com o Space Command ultrassônico.
+- [[autores/Alan Kay|Alan Kay]]: pioneiro de interfaces gráficas e da filosofia do Undo no Xerox PARC.
+- [[autores/Douglas Engelbart|Douglas Engelbart]]: interface humano-computador e mouse.
+- [[autores/Susan Kare|Susan Kare]]: design de ícones e tipografia digital no Apple Macintosh.
+- [[autores/Loren Brichter|Loren Brichter]]: design de interfaces móveis, incluindo Pull to Refresh e Tweetie.
+- [[autores/Ben Shneiderman|Ben Shneiderman]]: IHC e manipulação direta.
+- [[autores/Donald Norman|Donald Norman]]: experiência do usuário, affordances e signifiers.
+- [[autores/Steve Krug|Steve Krug]]: usabilidade web e experiência do usuário.
+- [[autores/David Kirkpatrick|David Kirkpatrick]]: conectividade e computação social.
 
 ### Design de serviços, facilitação e design estratégico
-- [[autores/G Lynn Shostack|G. Lynn Shostack]] — Service Blueprinting.
-- [[autores/Birgit Mager|Birgit Mager]] — Sistematização e Ensino de Design de Serviços.
-- [[autores/Clayton Christensen|Clayton Christensen]] — Jobs to Be Done e Inovação Disruptiva.
-- [[autores/Bob Moesta|Bob Moesta]] — Jobs to Be Done e Forças de Progresso.
-- [[autores/Alan Klement|Alan Klement]] — Jobs to Be Done e Customer Jobs.
-- [[autores/Dave Gray|Dave Gray]] — Pensamento Visual e Gamestorming.
-- [[autores/Sunni Brown|Sunni Brown]] — Pensamento Visual e Doodling.
-- [[autores/James Macanufo|James Macanufo]] — Pensamento Visual e Gamestorming.
-- [[autores/John Kotter|John Kotter]] — Liderança e Gestão de Mudança.
-- [[autores/Atul Gawande|Atul Gawande]] — Checklists e Segurança em Sistemas Complexos.
-- [[autores/Alexander Osterwalder|Alexander Osterwalder]] — Canvas de Proposta de Valor e Modelos de Negócios.
+- [[autores/G Lynn Shostack|G. Lynn Shostack]]: service blueprinting.
+- [[autores/Birgit Mager|Birgit Mager]]: sistematização e ensino de design de serviços.
+- [[autores/Clayton Christensen|Clayton Christensen]]: Jobs to Be Done e inovação disruptiva.
+- [[autores/Bob Moesta|Bob Moesta]]: Jobs to Be Done e forças de progresso.
+- [[autores/Alan Klement|Alan Klement]]: Jobs to Be Done e customer jobs.
+- [[autores/Dave Gray|Dave Gray]]: pensamento visual e Gamestorming.
+- [[autores/Sunni Brown|Sunni Brown]]: pensamento visual e doodling.
+- [[autores/James Macanufo|James Macanufo]]: pensamento visual e Gamestorming.
+- [[autores/John Kotter|John Kotter]]: liderança e gestão de mudança.
+- [[autores/Atul Gawande|Atul Gawande]]: checklists e segurança em sistemas complexos.
+- [[autores/Alexander Osterwalder|Alexander Osterwalder]]: canvas de proposta de valor e modelos de negócios.
 
 ### Filosofia, sociologia e relações de poder
-- [[autores/Francis Bacon|Francis Bacon]] — Método Científico Indutivo.
-- [[autores/Michel Foucault|Michel Foucault]] — Arqueologia do Saber, Dispositivos e Relações de Poder.
-- [[autores/Norbert Elias|Norbert Elias]] — Processo Civilizador, Tempo e Interdependência.
+- [[autores/Francis Bacon|Francis Bacon]]: método científico indutivo.
+- [[autores/Michel Foucault|Michel Foucault]]: arqueologia do saber, dispositivos e relações de poder.
+- [[autores/Norbert Elias|Norbert Elias]]: processo civilizador, tempo e interdependência.
 
 ### Economia comportamental e arquitetura de escolha
-- [[autores/Richard H. Thaler|Richard H. Thaler]] — Nudges e Economia Comportamental.
-- [[autores/Cass R. Sunstein|Cass R. Sunstein]] — Nudges e Paternalismo Libertário.
+- [[autores/Barry Schwartz|Barry Schwartz]]: popularização do paradoxo da escolha e debate sobre custos da abundância de alternativas.
+- [[autores/Richard H. Thaler|Richard H. Thaler]]: nudges e economia comportamental.
+- [[autores/Cass R. Sunstein|Cass R. Sunstein]]: nudges e paternalismo libertário.
 
 ### Evolução, cognição e cultura material
-- [[autores/Merlin Donald|Merlin Donald]] — Evolução Cognitiva, Sistemas de Memória Externa e Exografia.
-- [[autores/John Odling-Smee|John Odling-Smee]] — Construção de Nicho e Herança Ecológica.
-- [[autores/Kevin Laland|Kevin Laland]] — Construção de Nicho e Transmissão Cultural Cumulativa.
-- [[autores/Marcus Feldman|Marcus Feldman]] — Coevolução Gene-Cultura e Construção de Nicho.
-- [[autores/Hans Barnard|Hans Barnard]] — Arqueometria e Cultura Material de Cerâmicas.
-- [[autores/Willeke Wendrich|Willeke Wendrich]] — Arqueologia Digital e Aprendizado de Ofício.
+- [[autores/Merlin Donald|Merlin Donald]]: evolução cognitiva, sistemas de memória externa e exografia.
+- [[autores/John Odling-Smee|John Odling-Smee]]: construção de nicho e herança ecológica.
+- [[autores/Kevin Laland|Kevin Laland]]: construção de nicho e transmissão cultural cumulativa.
+- [[autores/Marcus Feldman|Marcus Feldman]]: coevolução gene-cultura e construção de nicho.
+- [[autores/Hans Barnard|Hans Barnard]]: arqueometria e cultura material de cerâmicas.
+- [[autores/Willeke Wendrich|Willeke Wendrich]]: arqueologia digital e aprendizado de ofício.
 
 ---
-[[index|Voltar para o Início]]
-
+[[index|Voltar para o início]]
