@@ -31,6 +31,7 @@ on:
       - "scripts/migrate-artifact-sheets.mjs"
       - "scripts/audit-editorial.mjs"
       - "scripts/audit-network.mjs"
+      - "scripts/record-audit-log.mjs"
       - "scripts/consolidate-unresolved-links.mjs"
       - ".github/workflows/build-search-index.yml"
   workflow_dispatch:
@@ -66,6 +67,7 @@ jobs:
           node --check scripts/migrate-artifact-sheets.mjs
           node --check scripts/audit-editorial.mjs
           node --check scripts/audit-network.mjs
+          node --check scripts/record-audit-log.mjs
           node --check scripts/consolidate-unresolved-links.mjs
 
       - name: Normalizar headings estruturais em sentence case
@@ -86,6 +88,9 @@ jobs:
       - name: Auditar integração e reciprocidade da rede
         run: node scripts/audit-network.mjs
 
+      - name: Registrar auditoria consolidada no log
+        run: node scripts/record-audit-log.mjs
+
       - name: Gerar índice e relatório final de links
         run: node scripts/build-search-index.mjs
 
@@ -101,6 +106,7 @@ jobs:
             "04 genealogias" \
             "05 percursos" \
             autores empresas \
+            log.md \
             search-index.json link-report.json editorial-report.json network-report.json
           if [ -f "Pistas de pesquisa.md" ]; then
             git add "Pistas de pesquisa.md"
