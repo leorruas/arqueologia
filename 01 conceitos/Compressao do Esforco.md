@@ -31,7 +31,11 @@ Economizar passos não serve apenas para acelerar. Às vezes, torna possível um
 
 Um carrinho permite continuar comprando depois que os braços estariam ocupados. Um checklist externaliza parte da memória necessária para uma operação complexa. Um protocolo evita reconstruir uma demanda inteira a cada transferência entre pessoas.
 
-Nesses casos, a redução do custo de uma operação pode ampliar a escala do sistema. O design não cria necessariamente um desejo novo; permite que um comportamento atravesse mais distância, mais itens, mais pessoas ou mais tempo.
+A [[03 artefatos/LLM Wiki|LLM Wiki]] testa essa hipótese em outra escala. Sua proposta não é apenas abreviar um comando, mas fazer com que o trabalho de leitura, síntese e relação produzido numa investigação continue disponível na próxima. O esforço comprimido deixa de ser uma sequência motora e passa a ser parte do **retrabalho cognitivo** de reconstruir relações já formuladas.
+
+Mas o esforço não desaparece. Ele migra para curadoria das fontes, formulação das regras do agente, revisão das sínteses e correção de memória persistente. Se uma síntese equivocada for reutilizada muitas vezes, a economia inicial pode produzir um custo de correção muito maior depois. O caso reforça a hipótese do conceito justamente porque mostra sua tensão: comprimir repetição pode ampliar capacidade e, ao mesmo tempo, concentrar dependência no mecanismo que realiza a compressão.
+
+Nesses casos, a redução do custo de uma operação pode ampliar a escala do sistema. O design não cria necessariamente um desejo novo; permite que um comportamento atravesse mais distância, mais itens, mais pessoas, mais tempo ou mais consultas.
 
 A genealogia [[04 genealogias/Compressao do Esforco|Compressão do esforço]] acompanha justamente essa recorrência entre mídias diferentes.
 
@@ -63,9 +67,9 @@ A hipótese central do conceito é que muitas inovações de design vencem não 
 | **Formulação associada a** | Arqueologia do Design |
 | **Área principal** | IHC / ergonomia / design de serviços |
 | **Distinção central** | Reduzir esforço não significa eliminá-lo; frequentemente ele é condensado, deslocado ou redistribuído |
-| **O que ajuda a explicar** | Por que artefatos que encurtam ações recorrentes podem alterar escala, frequência e hábito |
+| **O que ajuda a explicar** | Por que artefatos que encurtam ações ou evitam reconstruções recorrentes podem alterar escala, frequência e hábito |
 | **O que não explica sozinho** | Se a redução de esforço é desejável, ética ou eficiente para o sistema inteiro |
-| **Artefatos-chave** | [[03 artefatos/Atalhos de Teclado|Atalhos de teclado]], [[03 artefatos/Pull to Refresh|Pull to Refresh]], [[03 artefatos/Carrinho de Compras|Carrinho de compras]] |
+| **Artefatos-chave** | [[03 artefatos/Atalhos de Teclado|Atalhos de teclado]], [[03 artefatos/Pull to Refresh|Pull to Refresh]], [[03 artefatos/Carrinho de Compras|Carrinho de compras]], [[03 artefatos/LLM Wiki|LLM Wiki]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Atrito Decisorio|Atrito decisório]], [[02 variaveis/Friccao|Fricção]] |
 | **Genealogias relacionadas** | [[04 genealogias/Compressao do Esforco|Compressão do esforço]] |
 
