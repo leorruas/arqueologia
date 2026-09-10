@@ -14,6 +14,13 @@ const categoriasPublicas = new Set([
   "empresas"
 ]);
 
+const referenciasDeGovernanca = new Set([
+  "index",
+  "me",
+  "log",
+  "instrucoes de arqueologia"
+]);
+
 function listarMarkdowns(diretorio, acumulador = []) {
   for (const entrada of fs.readdirSync(diretorio, { withFileTypes: true })) {
     const caminhoAbsoluto = path.join(diretorio, entrada.name);
@@ -141,6 +148,12 @@ function limparReferenciaWiki(valor) {
     .trim();
 }
 
+function referenciaIgnoravel(valor) {
+  const limpa = limparReferenciaWiki(valor);
+  const chave = normalizar(limpa.split("/").pop());
+  return referenciasDeGovernanca.has(chave) || normalizar(limpa).startsWith("templates/");
+}
+
 const artigos = listarMarkdowns(raiz)
   .map(caminhoAbsoluto => {
     const sourcePath = path.relative(raiz, caminhoAbsoluto).split(path.sep).join("/");
@@ -210,6 +223,7 @@ for (const artigo of artigos) {
   artigo.unresolved = [...new Set(
     artigo.wikiLinksRaw
       .filter(referencia => !resolverRelacionado(artigo, referencia))
+      .filter(referencia => !referenciaIgnoravel(referencia))
       .map(limparReferenciaWiki)
       .filter(Boolean)
   )];
@@ -226,7 +240,10 @@ for (const artigo of artigos) {
   }
 }
 
-const brokenLinkCount = artigos.reduce((total, artigo) => total + artigo.unresolved.length, 0);
+const arquivosComFalha = artigos
+  .filter(artigo => artigo.unresolved.length)
+  .map(artigo => ({ sourcePath: artigo.sourcePath, unresolved: artigo.unresolved }));
+const brokenLinkCount = arquivosComFalha.reduce((total, artigo) => total + artigo.unresolved.length, 0);
 
 const indice = {
   version: 2,
@@ -236,5 +253,13 @@ const indice = {
   articles: artigos
 };
 
+const relatorioLinks = {
+  generatedAt: indice.generatedAt,
+  brokenLinkCount,
+  fileCount: arquivosComFalha.length,
+  files: arquivosComFalha
+};
+
 fs.writeFileSync(path.join(raiz, "search-index.json"), JSON.stringify(indice));
+fs.writeFileSync(path.join(raiz, "link-report.json"), JSON.stringify(relatorioLinks, null, 2));
 console.log(`Índice de arqueologia gerado com ${artigos.length} entradas e ${brokenLinkCount} wikilinks não resolvidos.`);
