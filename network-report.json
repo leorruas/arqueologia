@@ -1,12 +1,25 @@
 {
-  "generatedAt": "2026-09-10T23:31:44.914Z",
-  "scope": "Integração do grafo: índices, home, reciprocidade estrutural, tipos de design e nós órfãos. Conceitos e variáveis não exigem backlink exaustivo.",
-  "issueCount": 6,
+  "generatedAt": "2026-09-10T23:33:01.569Z",
+  "scope": "Integração do grafo: títulos duplicados, índices, home, reciprocidade estrutural, tipos de design e nós órfãos. Conceitos e variáveis não exigem backlink exaustivo.",
+  "issueCount": 8,
   "countsByKind": {
+    "duplicate-title": 2,
     "missing-reciprocal-link": 3,
     "design-type-drift": 3
   },
   "issues": [
+    {
+      "kind": "duplicate-title",
+      "sourcePath": "01 conceitos/Compressao do Esforco.md",
+      "targetPath": null,
+      "detail": "Título normalizado duplicado entre: 01 conceitos/Compressao do Esforco.md, 04 genealogias/Compressao do Esforco.md."
+    },
+    {
+      "kind": "duplicate-title",
+      "sourcePath": "04 genealogias/Compressao do Esforco.md",
+      "targetPath": null,
+      "detail": "Título normalizado duplicado entre: 01 conceitos/Compressao do Esforco.md, 04 genealogias/Compressao do Esforco.md."
+    },
     {
       "kind": "missing-reciprocal-link",
       "sourcePath": "03 artefatos/Atalhos de Teclado.md",
