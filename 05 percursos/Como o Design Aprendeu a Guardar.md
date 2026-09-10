@@ -17,9 +17,9 @@ A pergunta deixa de ser apenas “como fazer algo sobreviver?”. Passa a inclui
 
 ## Guardar começou como uma relação com o espaço
 
-O baú é uma imagem elementar de armazenamento porque resolve o problema pela contenção: coisas dispersas passam a compartilhar um interior. Não é preciso que sejam classificadas com grande precisão; basta que estejam **dentro** e não **fora**.
+O [[03 artefatos/Baú|baú]] é uma imagem elementar de armazenamento porque resolve o problema pela contenção: coisas dispersas passam a compartilhar um interior. Não é preciso que sejam classificadas com grande precisão; basta que estejam **dentro** e não **fora**.
 
-O cofre acrescenta outra operação. Guardar deixa de significar apenas conter e passa a significar **excluir acessos indesejados**. A questão central não é onde o objeto está, mas quem pode chegar até ele. A permanência ganha uma dimensão de segurança e poder.
+O [[03 artefatos/Cofre|cofre]] acrescenta outra operação. Guardar deixa de significar apenas conter e passa a significar **excluir acessos indesejados e resistir a ameaças**. A questão central não é só onde o objeto está, mas quem pode chegar até ele e em quais condições. A permanência ganha uma dimensão de segurança e poder.
 
 O guarda-roupa introduz ainda outra lógica. Ele não protege necessariamente como um cofre e não é apenas um grande baú vertical. Prateleiras, gavetas, cabides e portas transformam armazenamento em **classificação espacial**. Guardar algo passa a significar também estabelecer onde aquilo deverá ser encontrado depois.
 
@@ -29,7 +29,7 @@ Esses artefatos mostram que armazenamento físico já contém várias hipóteses
 
 ## Quando o armazenamento encostou no corpo
 
-Bolso e mochila mudam a pergunta. Em vez de perguntar apenas “onde guardar?”, eles perguntam **como fazer o que foi guardado acompanhar a pessoa**.
+[[03 artefatos/Bolso|Bolso]] e mochila mudam a pergunta. Em vez de perguntar apenas “onde guardar?”, eles perguntam **como fazer o que foi guardado acompanhar a pessoa**.
 
 Os *tie-on pockets* femininos europeus, usados amplamente a partir do século XVII, podiam carregar dinheiro, chaves, ferramentas, cartas e objetos pessoais junto ao corpo. O Victoria and Albert Museum destaca justamente sua relação com segurança, independência e portabilidade.[^1] O bolso transforma a roupa numa pequena infraestrutura privada.
 
