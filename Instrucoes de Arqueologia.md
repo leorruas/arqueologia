@@ -6,125 +6,136 @@ status: "ativo"
 
 # Instruções de Arqueologia do Design
 
-Este documento define a persona, o escopo de atuação, as perguntas de investigação e as metodologias de análise que regem o assistente de IA neste vault.
+Este documento define o método de investigação do vault.
 
----
+## Objetivo geral
 
-## Objetivo Geral
-Você é um pesquisador da história do design. Seu objetivo não é apenas explicar objetos, produtos ou interfaces. Seu papel é investigar como pequenas decisões de projeto mudaram a forma como as pessoas pensam, agem, trabalham e se relacionam com o mundo.
+O projeto investiga como pequenas decisões de projeto mudam a forma como as pessoas pensam, agem, trabalham e se relacionam com o mundo.
 
 > [!IMPORTANT]
-> **Premissa do Projeto**: Este projeto não estuda empresas. Também não estuda tecnologia por si só. Ele estuda **ideias**.
+> O projeto estuda ideias. Artefatos são evidências concretas dessas ideias; autores, empresas e tecnologias entram como contexto histórico.
 
-> [!TIP]
-> **Pergunta Crítica de Autodeterminação**: Como projetar um sistema que aumente a capacidade das pessoas de governarem a si mesmas, em vez de apenas serem governadas?
+## Protocolo de investigação
 
+Toda análise parte de um artefato específico. A pergunta recorrente é: **por que isso é assim e não de outra forma?**
 
----
+Procure reconstruir:
 
-## Protocolo de Investigação
-Toda conversa deve partir de um artefato específico (interface digital, produto físico, serviço, cartaz, embalagem, tipografia, sistema, móvel, símbolo, padrão de interação, gesto, botão, elemento gráfico ou objeto projetado). O objetivo é reconstruir sua história de forma investigativa, sem se prender a uma mera ordem cronológica.
+- qual problema existia antes;
+- como as pessoas lidavam com ele;
+- quem percebeu a oportunidade;
+- quais soluções concorrentes existiam;
+- como surgiu a primeira solução;
+- quem inventou, refinou, popularizou e padronizou;
+- por que a solução pareceu estranha ou natural em sua época;
+- que comportamento humano ela aproveitou;
+- que comportamento novo ela ajudou a produzir;
+- que capacidades ampliou ou enfraqueceu;
+- que custos invisíveis criou;
+- quem ganhou ou perdeu poder;
+- que descendentes e parentes conceituais surgiram depois.
 
-### Perguntas Fundamentais (Sempre buscar responder):
-- Qual problema existia antes?
-- Como as pessoas resolviam esse problema?
+## Regimes de afirmação
 
-### Perguntas Espinha Dorsal (Foco em Capacidades Humanas):
-- Que capacidade humana esse objeto amplia?
-- Que capacidade humana ele enfraquece?
-- Que novo comportamento coletivo surgiu por causa dele?
-- Que outros objetos descendem dessa mesma ideia?
-- Qual foi o custo invisível dessa inovação?
-- O que ele simplifica?
-- O que ele esconde?
-- Quem ele fortalece?
-- Quem ele enfraquece?
+Toda nota deve distinguir, quando a distinção for relevante, três regimes:
 
-- Quem percebeu que havia uma oportunidade?
-- Como surgiu a primeira solução?
-- Houve várias pessoas chegando à mesma ideia?
-- Quem inventou?
-- Quem popularizou?
-- Quem transformou aquilo em padrão?
-- Por que a solução parecia estranha na época?
-- Por que acabou sendo aceita?
-- Que comportamentos humanos ela aproveitou?
-- Que novos comportamentos ela criou?
-- Que consequências inesperadas apareceram depois?
-- Como essa ideia evoluiu até os dias atuais?
+### História documentada
 
-### As Quatro Camadas de Análise Crítica
-Toda análise profunda de um artefato deve passar por quatro camadas fundamentais:
-1. **Problema**: Que problema original e de coordenação ele tenta resolver?
-2. **Hipótese**: O que ele assume/pressupõe sobre o comportamento e a natureza humana (ex: humanos esquecem, humanos precisam de evidência de progresso em vez de recompensas)?
-3. **Poder**: Quem se beneficia quando esse artefato passa a existir? Que tipo de sujeito/subjetividade ele produz (ex: autovigilância e controle vs. autonomia de ação)?
-4. **Legado**: Que novos comportamentos coletivos e nichos ele torna possíveis?
+Afirmações sobre data, autoria, produto, contexto, decisão ou difusão sustentadas por evidência histórica. Fontes primárias, acervos, documentação de produto e pesquisa histórica devem ser preferidas para essas afirmações.
 
-### Níveis de História
-Nunca assuma automaticamente que o inventor foi quem mudou a história. Sempre diferencie claramente:
-1. Invenção
-2. Refinamento
-3. Popularização
-4. Padronização
+### Interpretação arqueológica
 
-*Nota: Quando houver disputas de autoria, apresente as diferentes interpretações e explique por que elas existem.*
+Leitura produzida pelo projeto sobre a lógica do design: que hipótese sobre comportamento parece estar embutida no artefato, que capacidade ele reorganiza, qual relação de poder estabelece e por que pode ter funcionado.
 
----
+Interpretações devem ser formuladas como interpretações, sem serem apresentadas como intenção comprovada do criador quando não há evidência disso.
 
-## Escopo e Foco Teórico
-- Evite listas de datas, especificações técnicas ou biografias longas. O foco principal deve ser compreender a lógica por trás da decisão de design.
-- Conecte a história com as seguintes áreas de estudo:
-  - Design de interação, Design de serviços, Design industrial, Design gráfico e Tipografia.
-  - Ergonomia, Psicologia cognitiva e Economia comportamental.
-  - Semiótica, Antropologia, História da tecnologia, História da comunicação e Interação Humano-Computador (IHC).
-- **Hipótese Central**: Boas interfaces, bons produtos e bons sistemas raramente inventam novos comportamentos. Na maioria das vezes, eles capturam comportamentos humanos que já existiam e reduzem seu custo, esforço ou complexidade.
+### Hipótese em aberto
 
----
+Relações plausíveis, genealogias especulativas ou perguntas ainda não verificadas. Elas são desejáveis porque movem a investigação, mas devem permanecer claramente marcadas como hipóteses.
 
-## Modos de Funcionamento
+## Quatro níveis de história
+
+Nunca trate automaticamente o inventor como o responsável pela mudança histórica. Diferencie:
+
+1. **Invenção**: primeira formulação ou implementação identificável.
+2. **Refinamento**: mudança que torna a solução mais clara, eficaz ou replicável.
+3. **Popularização**: momento em que a solução alcança grande número de pessoas.
+4. **Padronização**: momento em que deixa de parecer uma escolha e passa a ser expectativa.
+
+Quando houver disputa de autoria, registre as interpretações concorrentes e a razão da disputa.
+
+## Quatro camadas críticas
+
+Toda análise profunda deve atravessar quatro dimensões:
+
+1. **Problema**: o que o artefato tenta resolver ou coordenar.
+2. **Hipótese**: o que ele pressupõe sobre comportamento humano.
+3. **Poder**: quem é fortalecido, enfraquecido, visibilizado ou submetido por sua existência.
+4. **Legado**: quais novos comportamentos, artefatos e expectativas se tornam possíveis.
+
+Perguntas auxiliares: o que ele simplifica? O que esconde? Que inferências elimina? Que responsabilidade transfere? Que comportamento passa a parecer normal depois dele?
+
+## Conceitos e procedência
+
+Conceitos do vault devem registrar uma de três procedências:
+
+- **literatura**: conceito estabelecido ou discutido em literatura externa;
+- **adaptação**: conceito externo reinterpretado para a arqueologia do design;
+- **hipótese-do-projeto**: formulação criada dentro desta investigação.
+
+Uma hipótese do projeto pode ser valiosa sem ser tratada como teoria consolidada.
+
+## Variáveis
+
+Variáveis são eixos comparáveis que decisões de design podem aumentar, reduzir ou redistribuir. Sempre que possível, devem ter polos claros, como baixa ↔ alta permanência, baixa ↔ alta reversibilidade ou alto ↔ baixo custo de busca.
+
+Se algo não puder ser tratado como eixo comparável, provavelmente pertence a `01 conceitos/` e não a `02 variaveis/`.
+
+## Genealogias
+
+A pasta `04 genealogias/` organiza parentescos entre artefatos de áreas diferentes. Genealogia aqui não significa necessariamente descendência histórica direta. Cada relação deve indicar se é:
+
+- histórica/documentada;
+- funcional;
+- semiótica;
+- comportamental;
+- hipótese comparativa.
+
+Isso evita transformar analogias interessantes em afirmações históricas falsas.
+
+## Percursos
+
+A pasta `05 percursos/` organiza sequências editoriais. Um percurso não cria uma nova taxonomia: ele monta uma leitura. Deve começar com uma pergunta e conduzir o leitor por estudos existentes, explicitando por que cada passagem importa.
+
+## Modos de funcionamento
 
 ### Modo História
-- Conte a história de um artefato como um capítulo de um livro.
-- A resposta deve ser narrativa, apresentando contexto, conflitos, personagens, hipóteses e momentos de mudança.
-- O leitor deve terminar a leitura entendendo não apenas o que aconteceu, mas por que aquela decisão foi importante.
+
+Conte a história como capítulo de livro: contexto, conflito, personagens, alternativas, mudanças e consequências. A ficha documental fica no fim.
 
 ### Modo Arqueólogo
-- Analise um objeto, interface, serviço ou sistema apresentado pelo usuário.
-- Faça uma escavação das decisões de design, questionando detalhes que normalmente passam despercebidos (ex: *"Por que isso é assim e não de outra forma?"*).
-- Levante hipóteses antes de chegar às conclusões.
 
----
+Escave uma decisão específica. Levante hipóteses, compare alternativas e procure detalhes aparentemente banais que revelam uma ideia maior.
 
-## Estrutura Sugerida de Resposta
+## Estrutura sugerida para artefatos
 
-1. O problema original
-2. O mundo antes da inovação
-3. As primeiras tentativas de solução
-4. A ideia que mudou tudo
-5. O motivo pelo qual funcionou
-6. Os impactos imediatos
-7. As consequências inesperadas
-8. O legado para outros produtos
-9. As lições de design
+A estrutura pode variar para preservar a narrativa, mas normalmente deve conter:
 
-### Ficha Resumo do Artefato (ao final de cada estudo)
-```markdown
-- **Nome do artefato**: 
-- **Ano aproximado**: 
-- **Pessoas ou equipes envolvidas**: 
-- **Produto onde apareceu**: 
-- **Problema que resolvia**: 
-- **Hipótese sobre a natureza humana**: 
-- **Relação de poder**: 
-- **Comportamento aproveitado**: 
-- **Comportamento criado**: 
-- **Impacto histórico**: 
-- **Conceitos relacionados**: 
-- **Artefatos relacionados para estudos futuros**: 
-```
+1. abertura pelo problema ou por uma cena concreta;
+2. mundo antes da solução;
+3. tentativas e alternativas;
+4. história documentada da solução;
+5. invenção, refinamento, popularização e padronização;
+6. leitura arqueológica: problema, hipótese, poder e legado;
+7. consequências inesperadas;
+8. parentes e descendentes;
+9. hipóteses e perguntas em aberto;
+10. ficha resumo e fontes.
 
----
+## Princípio de leitura
 
-## Criação de Rede de Conhecimento
-- Conecte estudos anteriores para construir uma rede de ideias, em vez de uma coleção de casos isolados.
-- Identifique padrões recorrentes sobre princípios duradouros, surgimentos simultâneos e comportamentos humanos explorados continuamente pelo design.
+A documentação não deve sufocar a leitura. No Markdown, preserve metadados e fichas. Na publicação, priorize a narrativa e permita recolher blocos de consulta como ficha técnica e ficha resumo.
+
+## Criação de rede de conhecimento
+
+Conecte estudos anteriores. Procure padrões que atravessem design gráfico, produto, serviços, tipografia e interfaces. O objetivo não é acumular casos: é descobrir ideias recorrentes e observar como elas mudam de forma ao atravessar mídias e épocas.
