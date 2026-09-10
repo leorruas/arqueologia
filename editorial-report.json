@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-10T18:03:28.072Z",
+  "generatedAt": "2026-09-10T18:04:17.642Z",
   "rule": "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
-  "candidateCount": 13,
+  "candidateCount": 14,
   "fileCount": 13,
   "files": [
     {
@@ -32,6 +32,12 @@
           "sourcePath": "03 artefatos/Botao Like.md",
           "kind": "frontmatter-title",
           "text": "Botão Like"
+        },
+        {
+          "sourcePath": "03 artefatos/Botao Like.md",
+          "kind": "h2",
+          "line": 68,
+          "text": "O que o Like talvez tenha realmente inventado"
         }
       ]
     },
