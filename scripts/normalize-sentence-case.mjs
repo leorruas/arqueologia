@@ -49,7 +49,44 @@ const substituicoes = new Map([
   ["Literatura ou Tradição Estabelecida", "Literatura ou tradição estabelecida"],
   ["Adaptações para a Arqueologia do Design", "Adaptações para a arqueologia do design"],
   ["Hipóteses do Projeto", "Hipóteses do projeto"],
-  ["Regra de Uso", "Regra de uso"]
+  ["Regra de Uso", "Regra de uso"],
+  ["Origens e Surgimento", "Origens e surgimento"],
+  ["Evolução e Desenvolvimento", "Evolução e desenvolvimento"],
+  ["Figuras e Autores de Destaque", "Figuras e autores de destaque"],
+  ["Empresas e Estúdios Clave", "Empresas e estúdios de destaque"],
+  ["Artefatos Históricos Relacionados", "Artefatos históricos relacionados"],
+  ["Conexões e Referências", "Conexões e referências"],
+  ["Design de Produto e Mobiliário", "Design de produto e mobiliário"],
+  ["Design Gráfico e Comunicação Visual", "Design gráfico e comunicação visual"],
+  ["Design de Serviços e Organização", "Design de serviços e organização"],
+  ["Interfaces Digitais e Software", "Interfaces digitais e software"],
+  ["Designers e Teóricos", "Designers e teóricos"],
+  ["Século XIX e Início do Século XX (Pioneiros e Bauhaus)", "Século XIX e início do século XX (pioneiros e Bauhaus)"],
+  ["Meados do Século XX (Modernismo e Design Suíço)", "Meados do século XX (modernismo e design suíço)"],
+  ["Teoria do Design e Wicked Problems", "Teoria do design e wicked problems"],
+  ["Era Digital e Computação Pessoal", "Era digital e computação pessoal"],
+  ["Design de Serviços, Facilitação e Design Estratégico", "Design de serviços, facilitação e design estratégico"],
+  ["Filosofia, Sociologia e Relações de Poder", "Filosofia, sociologia e relações de poder"],
+  ["Economia Comportamental e Arquitetura de Escolha", "Economia comportamental e arquitetura de escolha"],
+  ["Evolução, Cognição e Cultura Material", "Evolução, cognição e cultura material"],
+  ["Corporações, Estúdios e Fundições", "Corporações, estúdios e fundições"],
+  ["Tecnologia e Eletrônicos", "Tecnologia e eletrônicos"],
+  ["Consultorias de Serviços e Design Estratégico", "Consultorias de serviços e design estratégico"],
+  ["Design Gráfico e Estúdios", "Design gráfico e estúdios"],
+  ["Fundições Tipográficas (Type Foundries)", "Fundições tipográficas (type foundries)"]
+]);
+
+const titulosSeguros = new Map([
+  ["Design Gráfico", "Design gráfico"],
+  ["Design de Interface", "Design de interface"],
+  ["Design de Produto", "Design de produto"],
+  ["Design de Serviços", "Design de serviços"],
+  ["Índice de Artefatos", "Índice de artefatos"],
+  ["Índice de Autores", "Índice de autores"],
+  ["Índice de Conceitos", "Índice de conceitos"],
+  ["Índice de Empresas", "Índice de empresas"],
+  ["Índice de Variáveis", "Índice de variáveis"],
+  ["Livros Indicados", "Livros indicados"]
 ]);
 
 function listarMarkdowns(diretorio, acumulador = []) {
@@ -68,15 +105,23 @@ function listarMarkdowns(diretorio, acumulador = []) {
 
 let arquivosAlterados = 0;
 let headingsAlterados = 0;
+let titulosAlterados = 0;
 
 for (const arquivo of listarMarkdowns(raiz)) {
   const original = fs.readFileSync(arquivo, "utf8");
-  const novo = original.replace(/^(#{2,6})\s+(.+)$/gm, (linha, marcas, titulo) => {
+  let novo = original.replace(/^(#{2,6})\s+(.+)$/gm, (linha, marcas, titulo) => {
     const limpo = titulo.trim();
     const substituto = substituicoes.get(limpo);
     if (!substituto || substituto === limpo) return linha;
     headingsAlterados += 1;
     return `${marcas} ${substituto}`;
+  });
+
+  novo = novo.replace(/^title:\s*(["'])(.+?)\1\s*$/m, (linha, aspas, titulo) => {
+    const substituto = titulosSeguros.get(titulo.trim());
+    if (!substituto || substituto === titulo.trim()) return linha;
+    titulosAlterados += 1;
+    return `title: ${aspas}${substituto}${aspas}`;
   });
 
   if (novo !== original) {
@@ -85,4 +130,4 @@ for (const arquivo of listarMarkdowns(raiz)) {
   }
 }
 
-console.log(`Sentence case: ${headingsAlterados} headings normalizados em ${arquivosAlterados} arquivos.`);
+console.log(`Sentence case: ${headingsAlterados} headings e ${titulosAlterados} títulos normalizados em ${arquivosAlterados} arquivos.`);
