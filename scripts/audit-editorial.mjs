@@ -34,7 +34,17 @@ const headingsLegadosConceito = new Set([
   "fontes",
   "ficha resumo do conceito"
 ]);
+const headingsLegadosVariavel = new Set([
+  "impacto nos artefatos",
+  "aumentada / maximizada",
+  "diminuída / minimizada",
+  "aumenta a variável",
+  "reduz a variável",
+  "redistribui a variável",
+  "ficha resumo da variável"
+]);
 const metadadosConceitoObrigatorios = ["status", "origem", "grau"];
+const metadadosVariavelObrigatorios = ["status", "eixo"];
 
 function listarMarkdowns(diretorio, acumulador = []) {
   for (const entrada of fs.readdirSync(diretorio, { withFileTypes: true })) {
@@ -80,7 +90,9 @@ function headingEhApenasLink(texto) {
 const candidatos = [];
 const estruturasLegadasArtefato = [];
 const estruturasLegadasConceito = [];
+const estruturasLegadasVariavel = [];
 const metadadosConceitoAusentes = [];
+const metadadosVariavelAusentes = [];
 
 for (const arquivo of listarMarkdowns(raiz)) {
   const relativo = path.relative(raiz, arquivo).split(path.sep).join("/");
@@ -96,9 +108,12 @@ for (const arquivo of listarMarkdowns(raiz)) {
 
   if (categoria === "01 conceitos") {
     const ausentes = metadadosConceitoObrigatorios.filter(campo => !temCampoFrontmatter(frontmatter, campo));
-    if (ausentes.length) {
-      metadadosConceitoAusentes.push({ sourcePath: relativo, fields: ausentes });
-    }
+    if (ausentes.length) metadadosConceitoAusentes.push({ sourcePath: relativo, fields: ausentes });
+  }
+
+  if (categoria === "02 variaveis") {
+    const ausentes = metadadosVariavelObrigatorios.filter(campo => !temCampoFrontmatter(frontmatter, campo));
+    if (ausentes.length) metadadosVariavelAusentes.push({ sourcePath: relativo, fields: ausentes });
   }
 
   markdown.split(/\r?\n/).forEach((linha, indice) => {
@@ -114,6 +129,9 @@ for (const arquivo of listarMarkdowns(raiz)) {
     }
     if (categoria === "01 conceitos" && headingsLegadosConceito.has(normalizado)) {
       estruturasLegadasConceito.push({ sourcePath: relativo, line: indice + 1, text: texto });
+    }
+    if (categoria === "02 variaveis" && headingsLegadosVariavel.has(normalizado)) {
+      estruturasLegadasVariavel.push({ sourcePath: relativo, line: indice + 1, text: texto });
     }
 
     if (palavrasCapitalizadas(texto).length >= 1) {
@@ -134,6 +152,7 @@ function agruparPorArquivo(itens) {
 const porArquivo = agruparPorArquivo(candidatos);
 const legadosArtefatoPorArquivo = agruparPorArquivo(estruturasLegadasArtefato);
 const legadosConceitoPorArquivo = agruparPorArquivo(estruturasLegadasConceito);
+const legadosVariavelPorArquivo = agruparPorArquivo(estruturasLegadasVariavel);
 
 const relatorio = {
   generatedAt: new Date().toISOString(),
@@ -148,7 +167,12 @@ const relatorio = {
   legacyConceptFileCount: legadosConceitoPorArquivo.size,
   legacyConceptFiles: [...legadosConceitoPorArquivo.entries()].map(([sourcePath, items]) => ({ sourcePath, items })),
   conceptMetadataMissingCount: metadadosConceitoAusentes.length,
-  conceptMetadataMissingFiles: metadadosConceitoAusentes
+  conceptMetadataMissingFiles: metadadosConceitoAusentes,
+  legacyVariableStructureCount: estruturasLegadasVariavel.length,
+  legacyVariableFileCount: legadosVariavelPorArquivo.size,
+  legacyVariableFiles: [...legadosVariavelPorArquivo.entries()].map(([sourcePath, items]) => ({ sourcePath, items })),
+  variableMetadataMissingCount: metadadosVariavelAusentes.length,
+  variableMetadataMissingFiles: metadadosVariavelAusentes
 };
 
 fs.writeFileSync(path.join(raiz, "editorial-report.json"), JSON.stringify(relatorio, null, 2));
@@ -156,5 +180,7 @@ console.log(
   `Auditoria editorial: ${candidatos.length} candidatos em ${porArquivo.size} arquivos; ` +
   `${estruturasLegadasArtefato.length} headings legados em ${legadosArtefatoPorArquivo.size} artefatos; ` +
   `${estruturasLegadasConceito.length} headings legados em ${legadosConceitoPorArquivo.size} conceitos; ` +
-  `${metadadosConceitoAusentes.length} conceitos com metadados obrigatórios ausentes.`
+  `${metadadosConceitoAusentes.length} conceitos com metadados obrigatórios ausentes; ` +
+  `${estruturasLegadasVariavel.length} headings legados em ${legadosVariavelPorArquivo.size} variáveis; ` +
+  `${metadadosVariavelAusentes.length} variáveis com metadados obrigatórios ausentes.`
 );
