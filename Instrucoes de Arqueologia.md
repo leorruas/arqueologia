@@ -1,10 +1,10 @@
 ---
-title: "Instruções de Arqueologia"
+title: "Instruções de arqueologia"
 type: "manual"
 status: "ativo"
 ---
 
-# Instruções de Arqueologia do Design
+# Instruções de arqueologia do design
 
 Este documento define o método de investigação do vault.
 
@@ -37,7 +37,7 @@ Procure reconstruir:
 
 ## Regimes de afirmação
 
-Toda nota deve distinguir, quando a distinção for relevante, três regimes:
+Toda nota deve distinguir, quando a distinção for relevante, três regimes.
 
 ### História documentada
 
@@ -93,13 +93,7 @@ Se algo não puder ser tratado como eixo comparável, provavelmente pertence a `
 
 ## Genealogias
 
-A pasta `04 genealogias/` organiza parentescos entre artefatos de áreas diferentes. Genealogia aqui não significa necessariamente descendência histórica direta. Cada relação deve indicar se é:
-
-- histórica/documentada;
-- funcional;
-- semiótica;
-- comportamental;
-- hipótese comparativa.
+A pasta `04 genealogias/` organiza parentescos entre artefatos de áreas diferentes. Genealogia aqui não significa necessariamente descendência histórica direta. Cada relação deve indicar se é histórica/documentada, funcional, semiótica, comportamental ou hipótese comparativa.
 
 Isso evita transformar analogias interessantes em afirmações históricas falsas.
 
@@ -109,11 +103,11 @@ A pasta `05 percursos/` organiza sequências editoriais. Um percurso não cria u
 
 ## Modos de funcionamento
 
-### Modo História
+### Modo história
 
 Conte a história como capítulo de livro: contexto, conflito, personagens, alternativas, mudanças e consequências. A ficha documental fica no fim.
 
-### Modo Arqueólogo
+### Modo arqueólogo
 
 Escave uma decisão específica. Levante hipóteses, compare alternativas e procure detalhes aparentemente banais que revelam uma ideia maior.
 
@@ -131,6 +125,18 @@ A estrutura pode variar para preservar a narrativa, mas normalmente deve conter:
 8. parentes e descendentes;
 9. hipóteses e perguntas em aberto;
 10. ficha resumo e fontes.
+
+## Regras de escrita
+
+A escrita deve ser formal, clara e investigativa. Parágrafos completos são a unidade principal. Listas entram quando ajudam a comparar, sequenciar ou consultar informação, sem substituir a narrativa por fragmentos.
+
+No português do Brasil, títulos editoriais, headings, rótulos, tabs e nomes genéricos de seção usam sentence case. Isso significa usar maiúscula no início e onde a ortografia exigir, preservando nomes próprios, siglas e grafias oficiais. Exemplos corretos: `História e contexto de criação`, `Ficha técnica`, `Conceitos relacionados`. Exemplos a evitar: `História e Contexto de Criação`, `Ficha Técnica`, `Conceitos Relacionados`.
+
+Nomes próprios e nomes oficiais não devem ser forçados para minúsculas: `Xerox PARC`, `GitHub`, `Jobs to Be Done`, `Value Proposition Ad Lib`, `iPhone` e `Bauhaus` mantêm suas grafias.
+
+Nomes de arquivo podem permanecer estáveis mesmo quando usam capitalização antiga. Eles funcionam como identificadores. A regra de sentence case vale prioritariamente para aquilo que o leitor vê: frontmatter `title`, headings, texto corrido, navegação e interface.
+
+Evite transformar interpretações em intenções atribuídas aos criadores. Evite também usar uma fonte teórica como se ela comprovasse autoria, data ou circunstância histórica. As referências devem ser escolhidas pela função que cumprem na afirmação.
 
 ## Princípio de leitura
 
