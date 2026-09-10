@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#080808">
+  <title>arqueologia • do design</title>
+  <meta name="description" content="Uma investigação sobre como pequenas decisões de design mudaram comportamentos, sistemas e cultura.">
+  <link rel="stylesheet" href="style.css?v=arqueologia-v1">
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+  <nav class="sticky-nav" id="sticky-nav">
+    <button class="nav-logo" id="nav-logo" type="button">arqueologia • design</button>
+    <label class="nav-search-container" for="nav-search-input">
+      <span class="sr-only">Pesquisar no acervo</span>
+      <input type="search" id="nav-search-input" placeholder="pesquisar..." autocomplete="off">
+    </label>
+    <div class="nav-acoes">
+      <a href="#explorar-campos" class="nav-link" id="nav-link-indice">índice</a>
+      <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Alternar tema">modo claro</button>
+    </div>
+  </nav>
+
+  <header class="page-masthead" id="page-masthead">
+    <section class="busca-principal" aria-label="Pesquisar no acervo">
+      <div class="busca-campo">
+        <label class="sr-only" for="main-search-input">Pesquisar por artefato, ideia ou conceito</label>
+        <input type="search" id="main-search-input" placeholder="pesquisar artefatos, ideias e conceitos..." autocomplete="off">
+      </div>
+    </section>
+    <div class="masthead-copy">
+      <h1 id="home-title"><span>arqueologia</span><small>do design</small></h1>
+      <p>toda interface, produto ou sistema é uma hipótese sobre o comportamento humano</p>
+    </div>
+  </header>
+
+  <main>
+    <section class="orientacoes-iniciais" id="orientacoes-iniciais" aria-labelledby="orientacoes-titulo">
+      <h2 id="orientacoes-titulo" class="section-title">comece aqui...</h2>
+      <div class="pastas-container" id="orientacoes-container"></div>
+    </section>
+
+    <section class="explorar-campos" id="explorar-campos" aria-labelledby="campos-titulo">
+      <h2 id="campos-titulo" class="section-title">escavações...</h2>
+      <div class="pastas-container" id="pastas-container"></div>
+    </section>
+
+    <section class="resultados escondido" id="resultados" aria-live="polite">
+      <div class="resultados-cabecalho">
+        <p class="eyebrow">resultados</p>
+        <h2 id="resultados-titulo">pesquisa</h2>
+      </div>
+      <div class="cards-container" id="cards-container"></div>
+    </section>
+
+    <section class="disciplina-leitor escondido" id="disciplina-leitor" aria-live="polite">
+      <nav class="artigo-breadcrumbs" id="disciplina-breadcrumbs" aria-label="Caminho de navegação"></nav>
+      <div class="disciplina-cabecalho" id="disciplina-cabecalho"></div>
+      <div class="disciplina-acoes" id="disciplina-acoes"></div>
+      <button id="btn-voltar-disciplina" class="btn-voltar" type="button">← voltar para as escavações</button>
+    </section>
+
+    <section class="leitor-artigo escondido" id="leitor-artigo">
+      <div class="artigo-layout-container">
+        <aside class="artigo-toc-sidebar" id="artigo-toc-sidebar">
+          <div class="toc-header"><span class="toc-title">neste estudo</span></div>
+          <nav class="toc-nav" id="toc-nav"></nav>
+        </aside>
+        <div class="artigo-conteudo-wrapper">
+          <nav class="artigo-breadcrumbs" id="artigo-breadcrumbs" aria-label="Caminho de navegação"></nav>
+          <p class="artigo-kicker" id="artigo-kicker">arqueologia</p>
+          <h2 id="artigo-titulo"></h2>
+          <div id="artigo-corpo" class="artigo-corpo"></div>
+          <nav class="artigo-nav-cards" id="artigo-nav-rodape" aria-label="Navegação entre estudos"></nav>
+          <div class="retorno-artigo">
+            <p>continue a escavação</p>
+            <button id="btn-voltar" class="btn-voltar" type="button">← voltar para o campo</button>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer" id="site-footer">
+    <p>arqueologia do design • um acervo em construção</p>
+  </footer>
+
+  <script type="module" src="script.js?v=arqueologia-v1"></script>
+</body>
+</html>
