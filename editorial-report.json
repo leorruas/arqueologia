@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T23:28:38.556Z",
+  "generatedAt": "2026-09-10T23:29:08.809Z",
   "rule": "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
   "typeDesignRule": "Tipos de design devem funcionar como ensaios disciplinares e não usar estrutura enciclopédica de origem, pioneiros, empresas ou inventário exaustivo.",
   "pathRule": "Percursos devem funcionar como argumentos de leitura e não usar sequência numerada de resumos de artefatos.",
@@ -337,29 +337,9 @@
       ]
     }
   ],
-  "legacyTypeDesignStructureCount": 20,
-  "legacyTypeDesignFileCount": 6,
+  "legacyTypeDesignStructureCount": 17,
+  "legacyTypeDesignFileCount": 5,
   "legacyTypeDesignFiles": [
-    {
-      "sourcePath": "00 tipos de design/Design Grafico.md",
-      "items": [
-        {
-          "sourcePath": "00 tipos de design/Design Grafico.md",
-          "line": 13,
-          "text": "Problema recorrente"
-        },
-        {
-          "sourcePath": "00 tipos de design/Design Grafico.md",
-          "line": 19,
-          "text": "Autores e instituições relacionados"
-        },
-        {
-          "sourcePath": "00 tipos de design/Design Grafico.md",
-          "line": 23,
-          "text": "Artefatos relacionados"
-        }
-      ]
-    },
     {
       "sourcePath": "00 tipos de design/Design de IA.md",
       "items": [
