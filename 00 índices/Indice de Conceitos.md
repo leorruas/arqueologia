@@ -6,38 +6,53 @@ status: "ativo"
 
 # Índice de Conceitos
 
-Catálogo de teorias, modelos mentais, frameworks e princípios que explicam a operação de artefatos na arqueologia do design.
+Este índice separa conceitos pela procedência intelectual. A distinção não indica qualidade: serve para impedir que uma formulação criada dentro da Arqueologia do Design pareça ter o mesmo estatuto histórico de uma teoria consolidada na literatura.
 
-## Conceitos Catalogados
+## Literatura ou tradição estabelecida
 
-- [[01 conceitos/Affordance|Affordance]] — Propriedade visual ou física que sinaliza como um objeto deve ser operado (ex: Pinch to Zoom, Slide to Unlock, Post-it).
-- [[01 conceitos/Antropomorfismo|Antropomorfismo]] — Atribuição de formas, intenções ou sentimentos humanos a entidades abstratas ou inanimadas para mediar interações técnicas (ex: Mascote, Prompt Conversacional).
-- [[01 conceitos/Autodeterminação|Autodeterminação]] — Necessidades psicológicas de autonomia, competência e pertencimento na motivação (ex: Visão, Princípio, Retrospectiva, JTBD).
-- [[01 conceitos/Autonomia da Atencao|Autonomia da Atenção]] — O controle e escolha sobre o foco mental (ex: Infinite Scroll, Post-it, Archive).
-- [[01 conceitos/Compressao do Esforco|Compressão do Esforço]] — Otimização ou encurtamento do custo e passos operacionais exigidos para repetir ações frequentes (ex: Atalhos de Teclado, Pull to Refresh, Carrinho de Compras).
-- [[01 conceitos/Continuidade de Acesso|Continuidade de Acesso]] — Eliminação de interrupções espaço-temporais para tornar recursos constantemente disponíveis (ex: Garrafa de Água, Archive, Infinite Scroll).
-- [[01 conceitos/Design Systems|Design Systems]] — A unificação de linguagens visuais por meio de componentes e regras modulares (ex: Grid, Ícones do Macintosh).
-- [[01 conceitos/Distribuicao de Escassez|Distribuição de Escassez]] — A legitimação ética da alocação de recursos escassos por meio de serviços de coordenação (ex: Fila, Agendamento).
-- [[01 conceitos/Economia da Atencao|Economia da Atenção]] — A monetização e otimização do tempo e do foco mental do usuário (ex: Infinite Scroll, Botão Like, Pull to Refresh, Controle Remoto).
-- [[01 conceitos/Ecologia de Artefatos|Ecologia de Artefatos]] — A cadeia ecológica de transformação organizacional em que cada artefato reorganiza um recurso invisível e viabiliza a etapa seguinte (ex: JTBD, Value Proposition Ad Lib, Projeto Piloto, Kanban, Checklist).
-- [[01 conceitos/Eras da Economia|Eras da Economia e Design]] — Divisão histórica de projetos focados em Produção, Acesso e Decisão (ex: Controle Remoto, Infinite Scroll).
-- [[01 conceitos/Esqueuomorfismo|Esqueuomorfismo]] — A imitação de propriedades físicas de objetos reais no ambiente digital (ex: Slide to Unlock, Ícones do Macintosh).
-- [[01 conceitos/Formulação|Formulação]] — O enquadramento correto de problemas complexos determina a qualidade da solução (ex: Problema de Design, Brief, Pergunta de Pesquisa).
-- [[01 conceitos/Intenção|Intenção]] — A estabilização do porquê mantendo a forma (como) flexível (ex: Visão, JTBD, North Star).
-- [[01 conceitos/Investigação|Investigação]] — A estruturação disciplinada da incerteza para gerar autoeficácia (ex: Pergunta, Hipótese Científica).
-- [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção Boa vs Fricção Ruim]] — A curadoria de barreiras operacionais vs atritos que geram valor (ex: Slide to Unlock, Quadro Branco, Undo Send).
-- [[01 conceitos/Justica Procedimental|Justiça Procedimental]] — A percepção de imparcialidade e neutralidade nas regras de um fluxo (ex: Fila, Undo).
-- [[01 conceitos/Justificabilidade|Justificabilidade]] — O princípio de que decisões de design e alocação de recursos devem ser inteligíveis, explicáveis e contestáveis (ex: Value Proposition Ad Lib, Justificativa de Valor Público, Manifesto).
-- [[01 conceitos/Limiares|Limiares]] — Interfaces projetadas para tornar perceptível e intuitiva a transição entre contextos de uso (ex: Tapete, Tela de Login, Fila).
-- [[01 conceitos/Manipulacao Direta|Manipulação Direta]] — A filosofia de toque gestual analógico contínuo (ex: Pinch to Zoom, Slide to Unlock, Pull to Refresh).
-- [[01 conceitos/Memoria Distribuida|Memória Distribuída]] — O uso do ambiente físico como apoio cognitivo de memória (ex: Post-it, Fila, Carrinho de Compras).
-- [[01 conceitos/Peles Temporarias da Arquitetura|Peles Temporárias da Arquitetura]] — As intervenções efêmeras e luminosas sobre superfícies arquitetônicas que alteram o significado simbólico do espaço sem reconstruir sua infraestrutura estável (ex: Pôster, Tapete, Grid).
-- [[01 conceitos/Recompensa Variavel|Recompensa Variável]] — O reforço psicológico através de resultados imprevisíveis de ações (ex: Pull to Refresh, Botão Like, Infinite Scroll).
-- [[01 conceitos/Redução de Inferências|Redução de Inferências]] — Princípio focado em eliminar a necessidade de adivinhação do usuário por meio de fronteiras e demarcações explícitas (ex: Espaço entre Palavras, Grid, Checklist).
-- [[01 conceitos/Servico de Reflexao|Serviço de Reflexão]] — Serviços de cognição generativa focados em construir compreensão e reflexão compartilhada (ex: Entrevistas de experiência).
-- [[01 conceitos/Sincronizacao|Sincronização]] — A coordenação de múltiplos atores, processos ou fluxos para que existam e operem no mesmo ritmo espaço-temporal (ex: Calendário, Fila, Agendamento, Cartão de Embarque, Checklist).
-- [[01 conceitos/Tecnologia de Acesso|Tecnologia de Acesso]] — A estruturação e circulação de recursos reorganizando acessibilidade temporal/espacial (ex: Fila, Agendamento, Cartão de Embarque).
-- [[01 conceitos/Tecnologias de Delimitacao|Tecnologias de Delimitação]] — Artefatos físicos, semióticos ou lógicos que constroem fronteiras e determinam contextos de comportamento (ex: Tapete, Tela de Login, Slide to Unlock).
+- [[01 conceitos/Affordance|Affordance]]: conceito com história própria na psicologia ecológica e no design de interação; o uso no design exige distinguir Gibson de interpretações posteriores como a de Donald Norman.
+- [[01 conceitos/Antropomorfismo|Antropomorfismo]]: conceito estabelecido em psicologia, comunicação e estudos da interação humano-computador.
+- [[01 conceitos/Autodeterminação|Autodeterminação]]: teoria psicológica associada a autonomia, competência e pertencimento.
+- [[01 conceitos/Design Systems|Design Systems]]: prática e campo consolidado de sistematização de componentes, regras e linguagem de interface.
+- [[01 conceitos/Economia da Atencao|Economia da Atenção]]: tradição que trata atenção humana como recurso escasso e disputado.
+- [[01 conceitos/Esqueuomorfismo|Esqueuomorfismo]]: termo estabelecido para persistência ou imitação de formas de uma tecnologia anterior em outra.
+- [[01 conceitos/Justica Procedimental|Justiça Procedimental]]: tradição de pesquisa sobre percepção de justiça nos processos de decisão.
+- [[01 conceitos/Manipulacao Direta|Manipulação Direta]]: formulação clássica de interação associada a Ben Shneiderman.
+- [[01 conceitos/Memoria Distribuida|Memória Distribuída]]: família de ideias ligada à cognição distribuída e à externalização de memória.
+- [[01 conceitos/Paradoxo da Escolha|Paradoxo da Escolha]]: formulação popularizada por Barry Schwartz sobre efeitos de conjuntos amplos de alternativas.
+- [[01 conceitos/Recompensa Variavel|Recompensa Variável]]: princípio derivado de tradições de aprendizagem e reforço comportamental.
+
+## Adaptações para a arqueologia do design
+
+Estas notas reaproveitam ideias existentes, mas lhes dão uma função específica dentro deste projeto:
+
+- [[01 conceitos/Autonomia da Atencao|Autonomia da Atenção]]: usa discussões sobre atenção e autonomia para perguntar quem governa o foco.
+- [[01 conceitos/Distribuicao de Escassez|Distribuição de Escassez]]: aproxima design de serviços, acesso e regras de alocação.
+- [[01 conceitos/Formulação|Formulação]]: transforma o enquadramento do problema em objeto de análise de design.
+- [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção Boa vs Fricção Ruim]]: usa fricção como distinção entre atrito que protege valor e atrito que apenas encarece a ação.
+- [[01 conceitos/Intenção|Intenção]]: trabalha a separação entre propósito estável e forma operacional variável.
+- [[01 conceitos/Investigação|Investigação]]: trata a organização da dúvida como capacidade projetável.
+- [[01 conceitos/Justificabilidade|Justificabilidade]]: aproxima transparência, explicabilidade e contestabilidade de decisões de design e serviço.
+- [[01 conceitos/Limiares|Limiares]]: adapta a ideia de passagem entre estados e territórios para interfaces, objetos e serviços.
+- [[01 conceitos/Sincronizacao|Sincronização]]: usa coordenação temporal e operacional como lente transversal sobre serviços.
+- [[01 conceitos/Tecnologias de Delimitacao|Tecnologias de Delimitação]]: reúne fronteiras físicas, visuais e lógicas sob uma leitura comparativa.
+
+## Hipóteses do projeto
+
+Estas formulações nasceram ou ganharam sua forma atual dentro desta investigação. Devem permanecer abertas a revisão e não ser apresentadas como teorias externas consolidadas:
+
+- [[01 conceitos/Compressao do Esforco|Compressão do Esforço]]: hipótese de que muitas inovações vencem ao incorporar passos de um comportamento já existente.
+- [[01 conceitos/Continuidade de Acesso|Continuidade de Acesso]]: hipótese sobre a transformação de acesso episódico em disponibilidade contínua.
+- [[01 conceitos/Ecologia de Artefatos|Ecologia de Artefatos]]: modelo que relaciona artefatos organizacionais pelo recurso invisível que cada um reorganiza.
+- [[01 conceitos/Eras da Economia|Eras da Economia e Design]]: estrutura interpretativa do projeto para comparar mudanças no foco de produção, acesso e decisão.
+- [[01 conceitos/Peles Temporarias da Arquitetura|Peles Temporárias da Arquitetura]]: leitura de intervenções efêmeras que alteram a camada simbólica de espaços estáveis.
+- [[01 conceitos/Redução de Inferências|Redução de Inferências]]: hipótese de que certas decisões vencem ao retirar adivinhações necessárias para agir.
+- [[01 conceitos/Servico de Reflexao|Serviço de Reflexão]]: formulação para serviços cujo principal resultado é produzir compreensão compartilhada.
+- [[01 conceitos/Tecnologia de Acesso|Tecnologia de Acesso]]: lente que trata filas, agendas e interfaces como mecanismos de circulação de recursos.
+
+## Regra de uso
+
+Quando um conceito do projeto começar a aparecer repetidamente em artefatos diferentes, isso é um sinal para fortalecê-lo: procurar antecedentes na literatura, identificar limites e tentar encontrar um caso que contradiga a formulação. A meta não é confirmar as hipóteses do vault, mas torná-las mais difíceis de derrubar.
 
 ---
 [[index|Voltar para o Início]]
