@@ -1,6 +1,7 @@
 ---
 title: "Design de produto"
 type: "tipo-design"
+status: "publicado"
 tags:
   - design/tipo
   - arqueologia
@@ -8,43 +9,62 @@ tags:
 
 # Design de produto
 
-Design de produto investiga objetos físicos e sistemas materiais que reorganizam ação, acesso, armazenamento, transporte, controle e relação com o corpo. No vault, a área interessa menos como catálogo de objetos e mais como lugar onde pequenas decisões materiais reduzem esforço, estabilizam rotinas e tornam capacidades portáteis.
+Um objeto nunca começa apenas na forma. Ele começa numa negociação entre corpo, matéria, esforço, hábito, fabricação e ambiente. Antes de existir uma profissão chamada design de produto, pessoas já desenhavam recipientes, ferramentas, mobiliário, roupas, mecanismos e utensílios para responder a uma pergunta muito concreta: **como fazer o mundo material assumir parte do trabalho que antes recaía sobre o corpo ou sobre a memória?**
 
-## Problema recorrente
+É esse problema que interessa ao vault. Design de produto não aparece aqui como catálogo de objetos bem resolvidos, mas como história de pequenas redistribuições de capacidade. Uma alça muda como um peso pode ser carregado. Uma tampa cria um dentro e um fora. Uma fechadura transforma armazenamento em exclusão. Uma roda muda quanto o corpo consegue transportar. Um botão desloca comando para a mão. A matéria passa a organizar comportamento.
 
-Objetos de uso cotidiano incorporam hipóteses sobre postura, alcance, força, memória, privacidade, deslocamento e repetição. Um bom estudo de produto pergunta que trabalho o objeto retirou do corpo, que prática anterior ele aproveitou e que novo comportamento passou a tornar barato ou recorrente.
+## O objeto começou muito antes da profissão
 
-A disciplina moderna se consolida com a industrialização, o desenho para produção seriada e escolas e empresas que passaram a tratar forma, função, fabricação e uso como partes do mesmo problema. Para este projeto, porém, produtos anteriores à industrialização também são relevantes quando revelam mecanismos de design comparáveis.
+Recipientes, assentos, lâminas, vestimentas e mecanismos são anteriores à industrialização e, portanto, anteriores ao design industrial como profissão. O [[03 artefatos/Baú|Baú]], o [[03 artefatos/Bolso|Bolso]] e o [[03 artefatos/Guarda-roupa|Guarda-roupa]] mostram isso com clareza. Eles já resolvem problemas que continuam centrais ao campo: conter, aproximar, proteger, classificar e permitir recuperação.
 
-## Autores e instituições relacionados
+O [[03 artefatos/Mochila|Mochila]] acrescenta ergonomia de transporte; a [[03 artefatos/Carteira|Carteira]], concentração portátil de valor e credenciais; a [[03 artefatos/Garrafa de Agua|Garrafa de água]], uma reserva material capaz de tornar um recurso disponível longe de sua fonte. Nenhum desses objetos precisou esperar a existência de um “designer de produto” para incorporar hipóteses sobre alcance, mobilidade, privacidade ou repetição.
 
-[[autores/Peter Behrens|Peter Behrens]] e [[autores/Dieter Rams|Dieter Rams]] aparecem como referências importantes da história moderna do campo. [[empresas/AEG|AEG]] e [[empresas/Braun|Braun]] ajudam a observar como decisões de produto foram refinadas, sistematizadas e difundidas em escala industrial.
+A industrialização, porém, altera o problema. Quando um objeto deixa de ser ajustado caso a caso e passa a ser produzido para muitos corpos desconhecidos, decisões locais precisam funcionar em escala. Forma, fabricação, custo, manutenção e uso entram numa mesma equação. A Industrial Designers Society of America situa a emergência do design industrial como prática profissional em relação direta com a Revolução Industrial e com a passagem de produção artesanal de pequeno volume para produtos fabricados em massa; a consolidação profissional, contudo, ocorre gradualmente e assume formas diferentes em países distintos.[^1]
 
-## Artefatos relacionados
+É importante evitar a história confortável do “primeiro designer industrial”. [[autores/Peter Behrens|Peter Behrens]] e a [[empresas/AEG|AEG]] são relevantes porque, no início do século XX, mostram uma tentativa precoce de coordenar produto, arquitetura, comunicação e identidade dentro de uma empresa industrial. Isso não faz de Behrens o inventor universal do campo. Nos Estados Unidos, outra linhagem de profissionalização aparece entre exposições, consultorias e associações nas décadas de 1920 a 1950, com nomes como Walter Dorwin Teague, Raymond Loewy e Henry Dreyfuss. A própria história institucional da IDSA mostra como a profissão foi sendo construída por organizações concorrentes antes de sua fusão em 1965.[^2]
 
-- [[03 artefatos/Bolso|Bolso]]: armazenamento acoplado ao corpo e infraestrutura cotidiana de portabilidade.
-- [[03 artefatos/Baú|Baú]]: contenção física que transforma objetos dispersos em conjunto guardado.
-- [[03 artefatos/Cofre|Cofre]]: armazenamento que incorpora resistência, exclusão e condições de acesso.
-- [[03 artefatos/Guarda-roupa|Guarda-roupa]]: contenção convertida em classificação espacial recuperável.
-- [[03 artefatos/Mochila|Mochila]]: distribuição de carga para ampliar mobilidade mantendo as mãos livres.
-- [[03 artefatos/Carteira|Carteira]]: concentração portátil de valor, identidade e credenciais.
-- [[03 artefatos/Garrafa de Agua|Garrafa de água]]: transformação de acesso localizado à água em disponibilidade portátil.
-- [[03 artefatos/Tapete|Tapete]]: superfície portátil de territorialização e limiar.
-- [[03 artefatos/Espelho|Espelho]]: superfície de auto-observação e feedback visual.
-- [[03 artefatos/Post-it|Post-it]]: memória externa reposicionável e provisória.
-- [[03 artefatos/Controle Remoto|Controle remoto]]: comando deslocado da máquina para a mão.
-- [[03 artefatos/Quadro Branco|Quadro branco]]: superfície de escrita apagável para pensamento provisório.
-- [[03 artefatos/Carrinho de Compras|Carrinho de compras]]: ampliação da capacidade de transporte no autoatendimento.
-- [[03 artefatos/Braun T3|Braun T3]]: rádio portátil e síntese formal associada à Braun e a Dieter Rams.
-- [[03 artefatos/Carimbo|Carimbo]]: repetição material de marcas de validação e estado institucional.
-- [[03 artefatos/Crachá|Crachá]]: identificação visível e triagem de acesso.
-- [[03 artefatos/Camera Fotografica|Câmera fotográfica]]: transformação da luz em registro portátil e selecionável.
-- [[03 artefatos/Luminaria|Luminária]]: controle local da luz como forma de orientar atividade e atenção.
-- [[03 artefatos/Projetor|Projetor]]: dispositivo que desacopla a imagem exibida da superfície material que a recebe.
-- [[03 artefatos/Cigarro|Cigarro]]: objeto industrial que torna combustão, dosagem e ritual portáteis e repetíveis.
+## Produzir para muitos corpos exige transformar diferenças em parâmetros
 
-## Conexões
+A produção em série introduz uma tensão permanente: o objeto precisa ser suficientemente estável para ser fabricado repetidamente e suficientemente adaptável para funcionar em corpos e situações diferentes.
 
-A área cruza [[00 tipos de design/Design Grafico|Design gráfico]], [[00 tipos de design/Design de Interface|Design de interface]] e [[00 tipos de design/Design de Servicos|Design de serviços]]. Conceitos recorrentes incluem [[01 conceitos/Limiares|limiares]], [[01 conceitos/Tecnologias de Delimitacao|tecnologias de delimitação]], [[01 conceitos/Memoria Distribuida|memória distribuída]], [[01 conceitos/Continuidade de Acesso|continuidade de acesso]] e [[01 conceitos/Compressao do Esforco|compressão do esforço]].
+É por isso que ergonomia se torna uma questão tão importante. Uma cadeira não interage com “o usuário” abstrato: encontra altura, peso, postura, força, alcance e hábitos concretos. Uma interface física precisa tornar a ação possível sem exigir que todos compreendam sua engenharia interna.
 
-Esta nota deve acompanhar os artefatos que se declaram materialmente ligados ao campo. Se um novo objeto entra no índice central como design de produto, a propagação só está completa quando essa relação aparece também aqui ou é explicitamente rejeitada por uma razão editorial.
+O [[03 artefatos/Controle Remoto|Controle remoto]] é um exemplo simples e poderoso. Ele não melhora apenas um aparelho; desloca a relação espacial com ele. A pessoa deixa de precisar levantar e atravessar a sala para mudar canal ou volume. O artefato captura uma intenção já existente e reduz seu custo motor. Isso conversa diretamente com [[01 conceitos/Compressao do Esforco|compressão do esforço]].
+
+O [[03 artefatos/Carrinho de Compras|Carrinho de compras]] faz algo parecido com carga. Ele amplia a quantidade de produtos que alguém consegue movimentar dentro de um sistema de autosserviço. O objeto aumenta capacidade física, mas também pode aumentar consumo porque a antiga limitação dos braços deixa de atuar. O design do objeto altera o comportamento do sistema ao redor dele.
+
+Essa lógica aparece de outras formas no [[03 artefatos/Cofre|Cofre]], que materializa resistência e autorização; no [[03 artefatos/Tapete|Tapete]], que transforma uma superfície em limiar; e no [[03 artefatos/Post-it|Post-it]], que usa adesão temporária para acoplar memória ao ambiente. Produto, nesse sentido, é design de **condições materiais para uma ação**.
+
+## A forma pode virar regra, linguagem e expectativa
+
+Durante o século XX, parte do design de produto se afasta da ideia de que o trabalho termina quando a função mecânica está resolvida. Forma, interface, identidade e coerência de sistema passam a ser tratadas como dimensões do uso.
+
+A [[empresas/Braun|Braun]] sob a influência de [[autores/Dieter Rams|Dieter Rams]] é relevante não porque tenha inventado simplicidade, mas porque sistematiza uma linguagem em que controles, proporções, materiais e hierarquias visuais procuram reduzir ambiguidade entre produtos diferentes. O [[03 artefatos/Braun T3|Braun T3]] permite observar essa lógica em escala pequena: a forma tenta tornar operação e identidade parte do mesmo sistema.
+
+Isso mostra por que as fronteiras entre [[00 tipos de design/Design de Produto|design de produto]], [[00 tipos de design/Design de Interface|design de interface]] e [[00 tipos de design/Design Grafico|design gráfico]] são históricas e porosas. Um botão físico também é interface. Uma marcação impressa no objeto também é informação gráfica. Um aparelho conectado pode continuar materialmente estável enquanto seu comportamento muda por software.
+
+A [[03 artefatos/Camera Fotografica|Câmera fotográfica]] transforma luz em registro e exige decisões sobre enquadramento, disparo e portabilidade. A [[03 artefatos/Luminaria|Luminária]] torna a iluminação local controlável e reorganiza atividade no espaço. O [[03 artefatos/Projetor|Projetor]] desacopla imagem e superfície, permitindo que uma parede receba conteúdos sucessivos. Mesmo o [[03 artefatos/Cigarro|Cigarro]], estudado sem celebração, revela como industrialização pode transformar combustão, dosagem e ritual em unidade portátil e repetível.
+
+O objeto nunca é apenas suporte passivo. Ele propõe uma rotina.
+
+## Todo objeto redistribui trabalho e dependência
+
+Uma hipótese recorrente deste campo é que bons produtos raramente inventam necessidades humanas do zero. Eles reorganizam aquilo que alguém já tentava fazer: carregar, guardar, sentar, iluminar, alcançar, controlar, registrar, consumir.
+
+Mas reduzir esforço numa dimensão pode criar dependência em outra. A mochila libera as mãos e transfere peso para costas e ombros. A garrafa amplia autonomia e cria a tarefa de abastecer e transportar o recipiente. O controle remoto reduz deslocamento e torna a mudança de canal praticamente sem custo. A carteira concentra documentos e valor, mas aumenta o impacto de perdê-los todos de uma vez.
+
+É por isso que [[01 conceitos/Continuidade de Acesso|continuidade de acesso]], [[01 conceitos/Tecnologias de Delimitacao|tecnologias de delimitação]], [[01 conceitos/Memoria Distribuida|memória distribuída]] e [[01 conceitos/Limiares|limiares]] atravessam tantos objetos desta área. Cada um ajuda a perguntar não apenas “para que serve?”, mas **que parte da ação humana foi transferida para a matéria e que novas obrigações apareceram depois dessa transferência?**
+
+Esse é também o ponto em que produto encontra [[00 tipos de design/Design de Servicos|design de serviços]]. Um carrinho só faz sentido dentro de uma ecologia de compra; um crachá dentro de uma infraestrutura de acesso; uma câmera dentro de práticas de registro e circulação. Às vezes, projetar o objeto significa projetar uma peça de um sistema maior.
+
+## Leituras no vault
+
+Para observar a relação entre corpo e capacidade, leia [[03 artefatos/Mochila|Mochila]], [[03 artefatos/Garrafa de Agua|Garrafa de água]], [[03 artefatos/Controle Remoto|Controle remoto]] e [[03 artefatos/Carrinho de Compras|Carrinho de compras]]. Para armazenamento e fronteira, [[03 artefatos/Baú|Baú]], [[03 artefatos/Cofre|Cofre]], [[03 artefatos/Guarda-roupa|Guarda-roupa]], [[03 artefatos/Bolso|Bolso]], [[03 artefatos/Carteira|Carteira]] e [[03 artefatos/Crachá|Crachá]] formam um conjunto particularmente fértil.
+
+[[04 genealogias/Portabilidade e Desancoragem|Portabilidade e desancoragem]], [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] e [[04 genealogias/Compressao do Esforco|Compressão do esforço]] mostram como essas decisões materiais reaparecem em mídias e sistemas que já não parecem “produto” no sentido clássico.
+
+## Referências
+
+[^1]: Industrial Designers Society of America. “What Is Industrial Design?”. A entidade relaciona a emergência profissional do design industrial à industrialização e à produção em massa, distinguindo-a de práticas de projeto anteriores. https://www.idsa.org/about-idsa/advocacy/what-industrial-design/
+
+[^2]: Industrial Designers Society of America. “Our Story”. A história institucional documenta a formação gradual de organizações profissionais de design industrial nos Estados Unidos, culminando na criação da IDSA em 1965 pela fusão de entidades anteriores. https://www.idsa.org/about-idsa/our-story/
