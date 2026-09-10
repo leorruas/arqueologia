@@ -244,17 +244,18 @@
 .artigo-corpo li.lista-grupo::before { display: none; }
 .artigo-corpo li.lista-grupo > strong:first-child,
 .artigo-corpo li.lista-grupo > p:first-child > strong:first-child {
-  display: block;
-  padding-bottom: 7px;
-  border-bottom: 1px solid color-mix(in srgb, var(--text) 20%, transparent);
+  display: inline;
   color: var(--text);
   font-size: 1rem;
   font-weight: 680;
   line-height: 1.25;
 }
-.artigo-corpo li.lista-grupo > ul {
-  margin-top: 8px;
+.artigo-corpo li.lista-grupo > ul,
+.artigo-corpo li.lista-grupo > ol {
+  margin-top: 9px;
+  padding-top: 8px;
   padding-left: 0;
+  border-top: 1px solid color-mix(in srgb, var(--text) 20%, transparent);
 }
 
 body.viewing .indice-acervo,
