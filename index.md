@@ -44,6 +44,7 @@ Use esta lente quando quiser ler o acervo como uma sequência editorial:
 - [[05 percursos/Como Projetamos Fronteiras|Como Projetamos Fronteiras]]
 - [[05 percursos/Da Parede ao Feed|Da Parede ao Feed]]
 - [[05 percursos/Da Espera a Sincronizacao|Da Espera à Sincronização]]
+- [[05 percursos/Da Parede ao Interlocutor|Da Parede ao Interlocutor]]
 
 ## Índices cruzados
 
@@ -60,4 +61,5 @@ Autores e empresas funcionam como entidades de contexto: ajudam a localizar quem
 
 - [[me|me.md]]: regras operacionais e de escrita.
 - [[Instrucoes de Arqueologia|Instruções de Arqueologia]]: método investigativo.
+- [[Guia de escrita|Guia de escrita]]: padrão editorial.
 - [[log|log.md]]: histórico de alterações do vault.
