@@ -72,25 +72,29 @@ A hipótese deste projeto é que manifestos são especialmente poderosos em mome
 Mas essa capacidade exige um teste posterior. Se o mundo descrito pelo manifesto nunca aparece nas decisões, sobra apenas uma peça de comunicação.
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Manifesto |
 | **Período** | Antecedentes antigos; forte consolidação política, artística e profissional entre os séculos XIX e XXI |
 | **Autoria** | Distribuída; cada manifesto possui autores identificáveis, mas o formato não tem inventor único |
+| **Produto ou contexto** | Não explicitado na ficha anterior. |
 | **Problema original** | Tornar pública e compartilhável uma ruptura de valores, interpretação ou direção |
+| **Mundo antes** | Não explicitado na ficha anterior. |
 | **Invenção** | Sem ocorrência única identificável |
 | **Refinamento** | Movimentos políticos e artísticos transformam declarações programáticas em instrumentos de mobilização e identidade |
 | **Popularização** | Política, vanguardas artísticas, movimentos sociais, tecnologia e cultura organizacional |
 | **Padronização** | Textos curtos que declaram princípios, contrastes e compromissos de um grupo ou movimento |
+| **Hipótese de design** | Mudar a interpretação coletiva de uma prática pode preparar o terreno para mudar a prática propriamente dita |
 | **Comportamento aproveitado** | Busca por pertencimento, coerência e distinção entre práticas consideradas novas e antigas |
 | **Comportamento produzido** | Adesão pública a princípios e uso de uma linguagem compartilhada para orientar ação coletiva |
-| **Hipótese de design** | Mudar a interpretação coletiva de uma prática pode preparar o terreno para mudar a prática propriamente dita |
 | **Relação de poder** | Quem redige o manifesto influencia quais valores representarão o grupo e quais práticas serão posicionadas como obsoletas ou ilegítimas |
-| **Custo invisível** | Simplificação, polarização, dogmatização e distância entre declaração e prática |
+| **Consequências inesperadas** | Custo invisível: Simplificação, polarização, dogmatização e distância entre declaração e prática |
+| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
 | **Conceitos relacionados** | [[01 conceitos/Intencao|Intenção]], legitimidade, identidade coletiva |
-| **Família de ideias** | Artefatos de alinhamento, intenção e mobilização |
+| **Variáveis relacionadas** | Não explicitado na ficha anterior. |
+| **Genealogia** | Família de ideias: Artefatos de alinhamento, intenção e mobilização |
 | **Parentes** | [[03 artefatos/Visão|Visão]], [[03 artefatos/Princípio|Princípio]], [[03 artefatos/Projeto Piloto|Projeto piloto]], [[03 artefatos/Hero Section|Hero section]] |
+| **Princípio de design revelado** | Não explicitado na ficha anterior. |
 | **Questão em aberto** | Em que momento um manifesto deixa de reorganizar decisões e passa a funcionar apenas como sinalização identitária? |
 
 ## Referências

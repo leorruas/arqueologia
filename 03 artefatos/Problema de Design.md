@@ -72,24 +72,29 @@ A hipótese deste projeto é que o problema de design funciona melhor quando ent
 Talvez seja isso que separa formulação de simples briefing. O briefing diz o que foi pedido. O problema de design registra aquilo que, naquele momento, a equipe acredita que merece ser transformado.
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Problema de design |
 | **Período** | Prática histórica do projeto; explicitada e teorizada fortemente na segunda metade do século XX |
 | **Autoria** | Distribuída. Herbert Simon, Horst Rittel e Melvin Webber são referências teóricas importantes, não inventores individuais do artefato |
+| **Produto ou contexto** | Não explicitado na ficha anterior. |
 | **Problema original** | Evitar que uma solução presumida seja confundida com a situação que realmente precisa ser transformada |
+| **Mundo antes** | Não explicitado na ficha anterior. |
 | **Invenção** | Sem ocorrência única identificável |
 | **Refinamento** | Teorias de design, planejamento, problem framing, pesquisa com usuários e métodos de descoberta tornam a formulação uma etapa explícita |
 | **Popularização** | Design estratégico, UX, design de serviços, design thinking e inovação |
 | **Padronização** | Problem statements, briefs reformulados, HMWs, discovery e enquadramentos de projeto |
+| **Hipótese de design** | Tornar explícita a situação a transformar amplia o espaço de soluções e reduz o risco de otimizar o problema errado |
 | **Comportamento aproveitado** | Capacidade humana de reinterpretar uma situação e imaginar estados alternativos |
 | **Comportamento produzido** | Suspender soluções precoces, reformular demandas e comparar alternativas em relação a um estado desejado |
-| **Hipótese de design** | Tornar explícita a situação a transformar amplia o espaço de soluções e reduz o risco de otimizar o problema errado |
 | **Relação de poder** | Quem define o problema influencia quais soluções, usuários, métricas e restrições serão considerados legítimos |
-| **Custo invisível** | Tempo de investigação, disputa de escopo e possibilidade de paralisia por reformulação contínua |
-| **Família de ideias** | Artefatos de formulação e investigação |
+| **Consequências inesperadas** | Custo invisível: Tempo de investigação, disputa de escopo e possibilidade de paralisia por reformulação contínua |
+| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
+| **Conceitos relacionados** | Não explicitado na ficha anterior. |
+| **Variáveis relacionadas** | Não explicitado na ficha anterior. |
+| **Genealogia** | Família de ideias: Artefatos de formulação e investigação |
 | **Parentes** | [[03 artefatos/Pergunta de Pesquisa|Pergunta de pesquisa]], [[03 artefatos/Hipótese Científica|Hipótese científica]], [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Projeto Piloto|Projeto piloto]], [[03 artefatos/Brief|Brief]] |
+| **Princípio de design revelado** | Não explicitado na ficha anterior. |
 | **Questão em aberto** | Como saber quando uma formulação está boa o suficiente para ser testada em vez de continuar sendo refinada? |
 
 ## Referências

@@ -58,26 +58,29 @@ Wishlists, favoritos e rascunhos de transação podem ser vistos como parentes d
 O carrinho revela, então, uma ideia maior: decisões complexas ficam mais fáceis quando o sistema oferece um lugar onde escolhas podem existir antes de se tornarem definitivas.
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Carrinho de compras |
 | **Período** | 1937 no varejo físico; tradução digital disseminada no e-commerce dos anos 1990 |
 | **Autoria** | Sylvan Goldman no carrinho físico; desenvolvimento digital distribuído |
+| **Produto ou contexto** | Não explicitado na ficha anterior. |
 | **Problema original** | Limite corporal de carregar produtos durante compras em autoatendimento |
+| **Mundo antes** | Não explicitado na ficha anterior. |
 | **Invenção** | Folding basket carriage desenvolvido por Goldman em Oklahoma |
 | **Refinamento** | Evolução para carrinhos encaixáveis, cestos maiores e formatos industriais |
 | **Popularização** | Supermercados de autoatendimento |
 | **Padronização** | Carrinho como infraestrutura quase universal do supermercado e metáfora recorrente do e-commerce |
+| **Hipótese de design** | A capacidade de escolha aumenta quando carga física e memória de itens são externalizadas |
 | **Comportamento aproveitado** | Depositar provisoriamente itens enquanto se continua escolhendo |
 | **Comportamento produzido** | Compras mais longas, acúmulo temporário e revisão antes do pagamento |
-| **Hipótese de design** | A capacidade de escolha aumenta quando carga física e memória de itens são externalizadas |
 | **Relação de poder** | Amplia autonomia do consumidor, mas também amplia a capacidade do varejo de manter a pessoa escolhendo por mais tempo |
-| **Custo invisível** | Pode remover limites físicos que antes restringiam volume de compra; no digital, pode favorecer acumulação de intenções e abandono |
+| **Consequências inesperadas** | Custo invisível: Pode remover limites físicos que antes restringiam volume de compra; no digital, pode favorecer acumulação de intenções e abandono |
+| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
 | **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória distribuída]] |
 | **Variáveis relacionadas** | [[02 variaveis/Reversibilidade|Reversibilidade]], [[02 variaveis/Atrito Decisorio|Atrito decisório]], [[02 variaveis/Friccao|Fricção]] |
 | **Genealogia** | [[04 genealogias/Compressao do Esforco|Compressão do esforço]] |
 | **Parentes** | cesta, sacola, [[03 artefatos/Post-it|Post-it]], wishlist, favoritos |
+| **Princípio de design revelado** | Não explicitado na ficha anterior. |
 | **Questão em aberto** | O que muda na decisão quando o espaço provisório de escolha não tem peso, volume nem limite físico perceptível? |
 
 ## Referências

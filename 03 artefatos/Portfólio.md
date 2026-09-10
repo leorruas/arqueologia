@@ -68,23 +68,29 @@ O portfólio, então, não elimina a avaliação institucional. Ele muda sua mat
 Em vez de perguntar apenas “qual título você possui?”, permite perguntar “o que você consegue mostrar?”. Mas a pergunta seguinte continua necessária: “o que exatamente essa amostra prova?”.
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Portfólio |
 | **Período** | Práticas de apresentar trabalhos são antigas; o termo como recipiente para papéis aparece no início do século XVIII e o uso profissional se consolida posteriormente |
 | **Autoria** | Distribuída; não há inventor único |
+| **Produto ou contexto** | Não explicitado na ficha anterior. |
 | **Problema original** | Tornar trabalho, capacidade e trajetória examináveis fora da presença imediata de quem os produziu |
+| **Mundo antes** | Não explicitado na ficha anterior. |
 | **Invenção** | Emerge de práticas de reunir e transportar desenhos, documentos e amostras de trabalho |
 | **Refinamento** | Curadoria, descrição de casos, documentação de processo e formatos digitais |
 | **Popularização** | Arte, arquitetura, publicidade, design, fotografia e outras profissões criativas |
 | **Padronização** | Seleção de trabalhos como etapa recorrente de educação, contratação e promoção profissional |
+| **Hipótese de design** | Competências invisíveis tornam-se mais avaliáveis quando materializadas em evidências contextualizadas |
 | **Comportamento aproveitado** | Julgar capacidade por exemplos observáveis e comparar evidências concretas |
 | **Comportamento produzido** | Documentar, selecionar e narrar o próprio trabalho como parte da vida profissional |
-| **Hipótese de design** | Competências invisíveis tornam-se mais avaliáveis quando materializadas em evidências contextualizadas |
 | **Relação de poder** | Pode reduzir dependência de credenciais formais, mas transfere ao indivíduo a obrigação de curar e promover continuamente sua própria produção |
-| **Custo invisível** | Autopromoção permanente, ocultação de fracassos e incentivo a privilegiar projetos fáceis de representar |
+| **Consequências inesperadas** | Custo invisível: Autopromoção permanente, ocultação de fracassos e incentivo a privilegiar projetos fáceis de representar |
+| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
+| **Conceitos relacionados** | Não explicitado na ficha anterior. |
+| **Variáveis relacionadas** | Não explicitado na ficha anterior. |
+| **Genealogia** | Não explicitado na ficha anterior. |
 | **Parentes** | currículo, diário de projeto, repositório de código, histórico de versões, case study |
+| **Princípio de design revelado** | Não explicitado na ficha anterior. |
 | **Questão em aberto** | Como um portfólio pode tornar visíveis competências relacionais, processuais e coletivas sem falsificar autoria individual? |
 
 ## Referências

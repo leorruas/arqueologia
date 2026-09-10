@@ -66,24 +66,29 @@ O princípio de design revelado pelo espaço entre palavras é quase paradoxal: 
 O vazio não é o que falta entre dois elementos. Pode ser justamente o que permite entender que existem dois elementos.
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Espaço entre palavras |
 | **Período** | Separação sistemática ganha força na Europa medieval, especialmente a partir dos séculos VII e VIII |
 | **Autoria** | Difusa; escribas insulares, incluindo tradições irlandesas e anglo-saxãs, são centrais na história documentada |
+| **Produto ou contexto** | Não explicitado na ficha anterior. |
 | **Problema original** | Reduzir o esforço de identificar fronteiras lexicais em texto contínuo |
+| **Mundo antes** | Não explicitado na ficha anterior. |
 | **Invenção** | Separadores e práticas de segmentação existiam antes; a inovação é gradual, não pontual |
 | **Refinamento** | Uso sistemático de espaços regulares entre unidades lexicais |
 | **Popularização** | Manuscritos medievais do norte da Europa e posterior tradição tipográfica |
 | **Padronização** | Impressão e sistemas modernos de escrita alfabética |
+| **Hipótese de design** | Tornar fronteiras perceptíveis reduz inferência necessária para decodificar estrutura |
 | **Comportamento aproveitado** | Agrupamento visual por proximidade e reconhecimento de unidades |
 | **Comportamento produzido** | Segmentação visual rápida de palavras e maior facilidade para leitura silenciosa e consulta |
-| **Hipótese de design** | Tornar fronteiras perceptíveis reduz inferência necessária para decodificar estrutura |
 | **Relação de poder** | Facilita acesso individual ao texto e formas de consulta menos dependentes de mediação oral |
-| **Custo invisível** | Pode reforçar a percepção da palavra escrita como unidade autônoma e afastar parte da experiência rítmica e oral da linguagem |
+| **Consequências inesperadas** | Custo invisível: Pode reforçar a percepção da palavra escrita como unidade autônoma e afastar parte da experiência rítmica e oral da linguagem |
+| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
 | **Conceitos relacionados** | [[01 conceitos/Redução de Inferências|Redução de inferências]], proximidade, chunking, design da informação |
+| **Variáveis relacionadas** | Não explicitado na ficha anterior. |
+| **Genealogia** | Não explicitado na ficha anterior. |
 | **Parentes** | [[03 artefatos/Grid|Grid]], parágrafo, coluna, margem, cartão de interface |
+| **Princípio de design revelado** | Não explicitado na ficha anterior. |
 | **Questão em aberto** | Que outros elementos de interface se tornaram tão fundamentais que já não conseguimos percebê-los como decisões de design? |
 
 ## Referências

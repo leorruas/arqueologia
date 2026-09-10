@@ -84,24 +84,29 @@ A hipótese deste projeto é que princípios bons precisam carregar não apenas 
 Um princípio útil não substitui pensamento. Ele tenta preservar uma forma de pensar.
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Princípio |
 | **Período** | Muito anterior às organizações modernas; uso deliberado em design e gestão se amplia no século XX e XXI |
 | **Autoria** | Distribuída; sem inventor único |
+| **Produto ou contexto** | Não explicitado na ficha anterior. |
 | **Problema original** | Orientar decisões em situações que regras e procedimentos não conseguem antecipar completamente |
+| **Mundo antes** | Não explicitado na ficha anterior. |
 | **Invenção** | Sem ocorrência única identificável |
 | **Refinamento** | Direito, ética, gestão, arquitetura e design desenvolvem diferentes formas de princípios gerais aplicados a casos concretos |
 | **Popularização** | Códigos profissionais, design principles, leadership principles, metodologias e sistemas de governança |
 | **Padronização** | Conjuntos explícitos de princípios usados para orientar design, produto, cultura e tomada de decisão |
+| **Hipótese de design** | Critérios gerais compartilhados permitem decisões coerentes sem exigir procedimentos exaustivos |
 | **Comportamento aproveitado** | Capacidade humana de interpretar critérios abstratos diante de situações novas |
 | **Comportamento produzido** | Julgar localmente em vez de depender apenas de instruções pré-escritas |
-| **Hipótese de design** | Critérios gerais compartilhados permitem decisões coerentes sem exigir procedimentos exaustivos |
 | **Relação de poder** | Pode distribuir autonomia, mas quem define e interpreta princípios continua influenciando quais decisões são consideradas legítimas |
-| **Custo invisível** | Ambiguidade, decisões inconsistentes e uso retórico do princípio para justificar escolhas feitas por outros motivos |
-| **Família de ideias** | Artefatos de autodeterminação e escolha |
+| **Consequências inesperadas** | Custo invisível: Ambiguidade, decisões inconsistentes e uso retórico do princípio para justificar escolhas feitas por outros motivos |
+| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
+| **Conceitos relacionados** | Não explicitado na ficha anterior. |
+| **Variáveis relacionadas** | Não explicitado na ficha anterior. |
+| **Genealogia** | Família de ideias: Artefatos de autodeterminação e escolha |
 | **Parentes** | valores, credo organizacional, constituição, [[03 artefatos/Manifesto|Manifesto]], [[03 artefatos/Visão|Visão]], guideline, regra |
+| **Princípio de design revelado** | Não explicitado na ficha anterior. |
 | **Questão em aberto** | Como saber se um princípio realmente orienta decisões ou apenas descreve retrospectivamente aquilo que a organização já queria fazer? |
 
 ## Referências

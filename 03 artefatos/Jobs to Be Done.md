@@ -78,25 +78,29 @@ Ele cria uma espécie de espaço negativo em torno do produto. Ao dizer o que pr
 Talvez seja por isso que uma boa formulação de Job se pareça tanto com uma vontade. Ela aponta para uma direção suficientemente concreta para orientar, mas suficientemente aberta para que ainda exista algo a ser projetado.
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Jobs to Be Done |
 | **Período** | Desenvolvimento de linhagens convergentes desde o início dos anos 1990; consolidação pública nas décadas de 2000 e 2010 |
 | **Autoria** | Disputada e distribuída entre Anthony Ulwick, Clayton Christensen, Bob Moesta e outros; Alan Klement é um refinador importante da leitura centrada em progresso |
+| **Produto ou contexto** | Não explicitado na ficha anterior. |
 | **Problema original** | Como inovar sem começar pelo produto, pela tecnologia ou pela segmentação existente |
+| **Mundo antes** | Não explicitado na ficha anterior. |
 | **Invenção** | Não há um único momento consensual; Ulwick desenvolve ODI a partir de 1991 e Christensen/Moesta desenvolvem a linhagem posteriormente conhecida como Jobs Theory |
 | **Refinamento** | Outcome statements, entrevistas de mudança, Forces of Progress e formulações centradas em progresso representam refinamentos diferentes |
 | **Popularização** | Livros e trabalho de Christensen, Moesta, Ulwick, Klement e comunidades de produto e inovação |
 | **Padronização** | Job statements, entrevistas JTBD, Forces of Progress e uso do conceito em estratégia e product discovery |
+| **Hipótese de design** | Compreender a transformação desejada permite mudar a solução sem perder a intenção que orienta o projeto |
 | **Comportamento aproveitado** | Pessoas escolhem meios em função de mudanças que tentam produzir em circunstâncias concretas |
 | **Comportamento produzido** | Investigar progresso, comparar alternativas fora da categoria e formular necessidades sem prescrever tecnologia |
-| **Hipótese de design** | Compreender a transformação desejada permite mudar a solução sem perder a intenção que orienta o projeto |
 | **Relação de poder** | Pode ampliar autonomia de equipes e reduzir apego a soluções hierarquicamente impostas; também pode abstrair condições sociais quando aplicado de forma excessivamente individualista |
-| **Custo invisível** | Pesquisa qualitativa exigente e risco de Jobs genéricos demais para orientar decisões práticas |
+| **Consequências inesperadas** | Custo invisível: Pesquisa qualitativa exigente e risco de Jobs genéricos demais para orientar decisões práticas |
+| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
 | **Conceitos relacionados** | [[01 conceitos/Autodeterminacao|Autodeterminação]], [[01 conceitos/Intencao|Intenção]], [[01 conceitos/Formulacao|Formulação]] |
-| **Família de ideias** | Artefatos de intenção, formulação e autodeterminação |
+| **Variáveis relacionadas** | Não explicitado na ficha anterior. |
+| **Genealogia** | Família de ideias: Artefatos de intenção, formulação e autodeterminação |
 | **Parentes** | [[03 artefatos/Brief|Brief]], [[03 artefatos/Pergunta de Pesquisa|Pergunta de pesquisa]], [[03 artefatos/Problema de Design|Problema de design]], [[03 artefatos/North Star|North Star]], [[03 artefatos/Hipótese Científica|Hipótese científica]], [[03 artefatos/Value Proposition Ad Lib|Value Proposition Ad Lib]] |
+| **Princípio de design revelado** | Não explicitado na ficha anterior. |
 | **Questão em aberto** | Como preservar a abertura do Job sem abstraí-lo tanto que ele deixa de restringir escolhas reais de produto e serviço? |
 
 ## Referências

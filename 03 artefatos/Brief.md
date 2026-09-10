@@ -70,24 +70,29 @@ Ele deveria permitir que, meses depois, alguém consiga reconstruir por que dete
 Nesse sentido, o brief é menos um começo do projeto do que um ponto de referência para suas mudanças.
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Brief |
 | **Período** | Prática de instrução muito anterior ao design moderno; consolidada como documento profissional em publicidade, design e gestão ao longo do século XX |
 | **Autoria** | Distribuída; sem inventor único |
+| **Produto ou contexto** | Não explicitado na ficha anterior. |
 | **Problema original** | Transmitir objetivos, contexto e restrições entre quem demanda e quem executa um projeto |
+| **Mundo antes** | Não explicitado na ficha anterior. |
 | **Invenção** | Sem ocorrência única identificável |
 | **Refinamento** | Publicidade, design management e gestão de projetos transformam o briefing em documento estruturado e compartilhado |
 | **Popularização** | Agências, estúdios, departamentos de marketing, consultorias e equipes de produto |
 | **Padronização** | Creative briefs, design briefs, project briefs e formulários estruturados de entrada de demanda |
+| **Hipótese de design** | Restrições e objetivos explícitos permitem concentrar julgamento criativo no espaço que permanece aberto |
 | **Comportamento aproveitado** | Capacidade de usar um registro compartilhado para coordenar expectativas e reduzir dependência de memória individual |
 | **Comportamento produzido** | Formalizar contexto antes da execução e retornar ao documento para avaliar mudanças e divergências |
-| **Hipótese de design** | Restrições e objetivos explícitos permitem concentrar julgamento criativo no espaço que permanece aberto |
 | **Relação de poder** | Quem define o brief influencia quais restrições serão tratadas como dadas e quais perguntas poderão ser reabertas |
-| **Custo invisível** | Tempo de preparação, ocultação de conflitos internos e risco de transformar briefing em prescrição detalhada de solução |
-| **Família de ideias** | Artefatos de coordenação e formulação |
+| **Consequências inesperadas** | Custo invisível: Tempo de preparação, ocultação de conflitos internos e risco de transformar briefing em prescrição detalhada de solução |
+| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
+| **Conceitos relacionados** | Não explicitado na ficha anterior. |
+| **Variáveis relacionadas** | Não explicitado na ficha anterior. |
+| **Genealogia** | Família de ideias: Artefatos de coordenação e formulação |
 | **Parentes** | [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Problema de Design|Problema de design]], escopo, termo de abertura, [[03 artefatos/Visão|Visão]] |
+| **Princípio de design revelado** | Não explicitado na ficha anterior. |
 | **Questão em aberto** | Como registrar restrições suficientes para orientar o trabalho sem impedir que a equipe questione premissas que chegaram disfarçadas de requisitos? |
 
 ## Referências

@@ -52,24 +52,29 @@ Há, porém, um custo possível. Quando uma estética de contenção vira sinal 
 O T3 é interessante porque ajuda a separar essas duas coisas. Sua força não está em “ter poucos elementos”. Está em fazer com que quase todo elemento restante tenha função perceptível.
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Braun T3 |
 | **Período** | 1958 |
 | **Autoria** | Dieter Rams; associação também registrada com a Hochschule für Gestaltung de Ulm; fabricação Braun |
+| **Produto ou contexto** | Não explicitado na ficha anterior. |
 | **Problema original** | Dar forma portátil, legível e compacta ao rádio transistorizado |
+| **Mundo antes** | Não explicitado na ficha anterior. |
 | **Invenção** | Não inventa o rádio portátil nem o transistor |
 | **Refinamento** | Condensa a linguagem funcionalista da Braun numa interface de bolso extremamente reduzida |
 | **Popularização** | Braun e circulação internacional do design alemão do pós-guerra |
 | **Padronização** | Sua linguagem participa da consolidação posterior do minimalismo em eletrônicos de consumo |
+| **Hipótese de design** | Um aparelho tecnicamente sofisticado pode ser compreendido por uma forma visualmente contida e poucos controles claros |
 | **Comportamento aproveitado** | Ajustar uma variável contínua por rotação física |
 | **Comportamento produzido** | Uso de mídia sonora portátil e individualizado dentro de uma transformação mais ampla |
-| **Hipótese de design** | Um aparelho tecnicamente sofisticado pode ser compreendido por uma forma visualmente contida e poucos controles claros |
 | **Relação de poder** | A portabilidade desloca parte do controle da escuta do ambiente compartilhado para o indivíduo |
-| **Custo invisível** | A linguagem minimalista pode virar estilo imitativo desvinculado de clareza funcional |
+| **Consequências inesperadas** | Custo invisível: A linguagem minimalista pode virar estilo imitativo desvinculado de clareza funcional |
+| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
 | **Conceitos relacionados** | [[01 conceitos/Compressao do Esforco|Compressão do esforço]] |
+| **Variáveis relacionadas** | Não explicitado na ficha anterior. |
+| **Genealogia** | Não explicitado na ficha anterior. |
 | **Parentes** | rádio doméstico, rádio de bolso, [[03 artefatos/Controle Remoto|Controle remoto]], iPod como comparação formal posterior |
+| **Princípio de design revelado** | Não explicitado na ficha anterior. |
 | **Questão em aberto** | Quando a discrição deixa de ser consequência funcional e passa a ser apenas uma estética de autoridade? |
 
 ## Referências

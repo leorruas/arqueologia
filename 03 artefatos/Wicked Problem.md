@@ -76,24 +76,29 @@ A hipótese deste projeto é que o Wicked Problem funciona como um artefato de *
 Isso produz uma pergunta incômoda para o design: e se alguns dos nossos melhores projetos não forem aqueles que encerram problemas, mas aqueles que criam condições melhores para continuar lidando com eles?
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Wicked Problem |
 | **Período** | Formulação pública documentada em 1967; desenvolvimento posterior e sistematização influente em 1973 |
 | **Autoria** | Horst Rittel formula o termo; C. West Churchman registra e divulga a formulação em 1967; Rittel e Melvin Webber a sistematizam em 1973 |
+| **Produto ou contexto** | Não explicitado na ficha anterior. |
 | **Problema original** | Explicar por que métodos lineares de solução de problemas falham diante de problemas sociais e de planejamento com formulação instável e valores conflitantes |
+| **Mundo antes** | Não explicitado na ficha anterior. |
 | **Invenção** | Horst Rittel, documentado por Churchman em 1967 |
 | **Refinamento** | Desenvolvimento por Rittel e sistematização com Webber nas dez propriedades de 1973 |
 | **Popularização** | Planejamento, políticas públicas, design sistêmico, inovação e design de serviços |
 | **Padronização** | Uso recorrente do conceito para distinguir problemas sociais complexos de problemas relativamente delimitados ou “tame” |
+| **Hipótese de design** | Alguns sistemas só podem ser transformados responsavelmente quando problema e solução são tratados como mutuamente dependentes |
 | **Comportamento aproveitado** | Capacidade humana de revisar interpretações diante das consequências de uma intervenção |
 | **Comportamento produzido** | Iterar formulação e ação, negociar critérios e abandonar a expectativa de solução final única |
-| **Hipótese de design** | Alguns sistemas só podem ser transformados responsavelmente quando problema e solução são tratados como mutuamente dependentes |
 | **Relação de poder** | Expõe que definição de problema, métrica e sucesso incorporam valores e não são decisões puramente técnicas |
-| **Custo invisível** | Pode legitimar paralisia, relativismo ou uso indiscriminado da palavra “complexo” para evitar decisões |
-| **Família de ideias** | Artefatos de formulação, complexidade e investigação |
+| **Consequências inesperadas** | Custo invisível: Pode legitimar paralisia, relativismo ou uso indiscriminado da palavra “complexo” para evitar decisões |
+| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
+| **Conceitos relacionados** | Não explicitado na ficha anterior. |
+| **Variáveis relacionadas** | Não explicitado na ficha anterior. |
+| **Genealogia** | Família de ideias: Artefatos de formulação, complexidade e investigação |
 | **Parentes** | [[03 artefatos/Problema de Design|Problema de design]], [[03 artefatos/Projeto Piloto|Projeto piloto]], [[03 artefatos/Hipótese Científica|Hipótese científica]], [[03 artefatos/Retrospectiva|Retrospectiva]] |
+| **Princípio de design revelado** | Não explicitado na ficha anterior. |
 | **Questão em aberto** | Como manter capacidade de agir sem converter a complexidade em desculpa para inação ou em promessa falsa de controle? |
 
 ## Referências

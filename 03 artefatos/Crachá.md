@@ -52,25 +52,29 @@ Biometria e credenciais em smartphones tentam reduzir essa fricção, mas não e
 O crachá mostra uma ideia recorrente no design institucional: **quando confiança interpessoal não escala, organizações criam objetos que tornam pertencimento verificável**.
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Crachá |
 | **Período** | Credenciais são antigas; badges industriais e fotográficos consolidam-se no fim do século XIX e início do XX |
 | **Autoria** | Distribuída |
+| **Produto ou contexto** | Não explicitado na ficha anterior. |
 | **Problema original** | Identificar pertencimento e autorização em organizações grandes demais para reconhecimento pessoal |
+| **Mundo antes** | Não explicitado na ficha anterior. |
 | **Invenção** | Deriva de passes, badges, certificados e outras credenciais anteriores |
 | **Refinamento** | Inclusão de fotografia, número, cores, hologramas e tecnologias eletrônicas |
 | **Popularização** | Indústria, governos, escolas, eventos e corporações |
 | **Padronização** | Cartões de identificação e acesso físico integrados a sistemas digitais |
+| **Hipótese de design** | Pertencimento pode ser externalizado em uma credencial verificável |
 | **Comportamento aproveitado** | Reconhecer sinais visuais de filiação e apresentar credenciais em fronteiras controladas |
 | **Comportamento produzido** | Portar identidade institucional visível e validar o próprio corpo em catracas e portarias |
-| **Hipótese de design** | Pertencimento pode ser externalizado em uma credencial verificável |
 | **Relação de poder** | Facilita autonomia de circulação autorizada, mas torna classificação, exclusão e vigilância operacionalmente simples |
-| **Custo invisível** | Dependência do objeto, clonagem, extravio e hierarquias visuais de vínculo ou acesso |
+| **Consequências inesperadas** | Custo invisível: Dependência do objeto, clonagem, extravio e hierarquias visuais de vínculo ou acesso |
+| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
 | **Conceitos relacionados** | [[01 conceitos/Limiares|Limiares]], [[01 conceitos/Tecnologias de Delimitacao|Tecnologias de delimitação]] |
+| **Variáveis relacionadas** | Não explicitado na ficha anterior. |
 | **Genealogia** | [[04 genealogias/Limiares e Delimitacao|Limiares e delimitação]] |
 | **Parentes** | [[03 artefatos/Login|Login]], [[03 artefatos/Tela de Login|Tela de login]], passaporte, chave, uniforme |
+| **Princípio de design revelado** | Não explicitado na ficha anterior. |
 | **Questão em aberto** | O que acontece com o pertencimento institucional quando a credencial deixa de ser visível e passa a operar silenciosamente por biometria ou dispositivos pessoais? |
 
 ## Referências

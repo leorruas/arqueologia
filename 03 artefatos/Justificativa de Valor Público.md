@@ -93,26 +93,29 @@ A hipótese deste projeto é que a legitimidade de decisões de design no setor 
 Nesse sentido, justificabilidade não é sinônimo de produzir mais documentos. É projetar decisões para que continuem explicáveis depois que seus autores saírem da sala.
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Justificativa de valor público |
 | **Período** | Proposta concebida em 2026 no contexto deste projeto |
-| **Estado** | Proposta conceitual; não há no vault evidência de institucionalização formal no IFMG |
 | **Autoria** | Leo Ruas, como formulação desenvolvida no projeto Arqueologia do Design |
+| **Produto ou contexto** | Não explicitado na ficha anterior. |
 | **Problema original** | Demandas localizadas podem mobilizar recursos coletivos sem explicitar adequadamente problema, alternativas, benefício público, custos e critérios de continuidade |
+| **Mundo antes** | Não explicitado na ficha anterior. |
 | **Invenção** | Adaptação proposta a partir do Value Proposition Ad Lib para governança de decisões públicas |
 | **Refinamento** | Estrutura em cinco camadas: origem, problema, alternativas, custos/interesse público e verificação |
 | **Popularização** | Ainda não aplicável; artefato em formulação |
 | **Padronização** | Ainda não aplicável |
+| **Hipótese de design** | Uma justificativa curta, estruturada e verificável pode tornar decisões públicas mais legíveis e contestáveis antes de recursos serem comprometidos |
 | **Comportamento aproveitado** | Necessidade institucional e jurídica de justificar decisões, além da capacidade de revisar argumentos quando premissas ficam explícitas |
 | **Comportamento produzido** | Investigar a demanda antes da solução, comparar alternativas e registrar condições de avaliação posterior |
-| **Hipótese de design** | Uma justificativa curta, estruturada e verificável pode tornar decisões públicas mais legíveis e contestáveis antes de recursos serem comprometidos |
 | **Relação de poder** | Reduz a força de demandas sustentadas apenas por autoridade, mas pode criar nova concentração de poder se a avaliação ficar monopolizada por uma instância técnica |
-| **Custo invisível** | Nova carga burocrática, preenchimento performativo e paralisia quando exigências são desproporcionais ao risco da decisão |
+| **Consequências inesperadas** | Custo invisível: Nova carga burocrática, preenchimento performativo e paralisia quando exigências são desproporcionais ao risco da decisão Registros adicionais preservados da ficha anterior: estado: Proposta conceitual; não há no vault evidência de institucionalização formal no IFMG |
+| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
 | **Conceitos relacionados** | [[01 conceitos/Formulacao|Formulação]], [[01 conceitos/Justificabilidade|Justificabilidade]], [[01 conceitos/Intencao|Intenção]], [[01 conceitos/Justica Procedimental|Justiça procedimental]], [[01 conceitos/Servico de Reflexao|Serviço de reflexão]] |
-| **Família de ideias** | Artefatos de justificabilidade, governança e legibilidade decisória |
+| **Variáveis relacionadas** | Não explicitado na ficha anterior. |
+| **Genealogia** | Família de ideias: Artefatos de justificabilidade, governança e legibilidade decisória |
 | **Parentes** | [[03 artefatos/Value Proposition Ad Lib|Value Proposition Ad Lib]], [[03 artefatos/Problema de Design|Problema de design]], [[03 artefatos/Projeto Piloto|Projeto piloto]], [[03 artefatos/Número de Protocolo|Número de protocolo]], [[03 artefatos/Carimbo|Carimbo]] |
+| **Princípio de design revelado** | Não explicitado na ficha anterior. |
 | **Questão em aberto** | Como tornar a justificativa proporcional ao risco e ao custo da decisão para que ela produza reflexão sem virar mais um rito administrativo? |
 
 ## Referências

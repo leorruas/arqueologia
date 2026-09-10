@@ -88,24 +88,29 @@ A hipótese deste projeto é que a RACI é uma **diagramação institucional de 
 Seu melhor resultado talvez não seja eliminar conflito. É fazer com que o conflito aconteça no momento em que ainda pode ser discutido, e não apenas depois que alguma coisa deu errado.
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Matriz RACI |
 | **Período** | Linhagens de matrizes de responsabilidade se desenvolvem no século XX; origem específica do acrônimo RACI permanece incerta |
 | **Autoria** | Difusa; não há inventor único confiavelmente documentado |
+| **Produto ou contexto** | Não explicitado na ficha anterior. |
 | **Problema original** | Reduzir ambiguidade sobre quem executa, responde, deve ser consultado ou informado em cada atividade ou entrega |
+| **Mundo antes** | Não explicitado na ficha anterior. |
 | **Invenção** | Sem ocorrência única estabelecida; deriva de práticas mais amplas de responsibility charting e responsibility assignment matrices |
 | **Refinamento** | Consolidação das quatro categorias R, A, C e I e incorporação a métodos de gestão de projetos e governança |
 | **Popularização** | Gestão de projetos, consultorias, governança, tecnologia e organizações matriciais |
 | **Padronização** | Planilhas e matrizes tarefa × papel usadas em planejamento e definição de responsabilidades |
+| **Hipótese de design** | Tornar fronteiras de responsabilidade visíveis reduz o custo de renegociá-las durante o trabalho |
 | **Comportamento aproveitado** | Capacidade de coordenar expectativas quando papéis e alçadas se tornam explícitos e compartilhados |
 | **Comportamento produzido** | Negociar antecipadamente execução, decisão, consulta e comunicação em torno das entregas |
-| **Hipótese de design** | Tornar fronteiras de responsabilidade visíveis reduz o custo de renegociá-las durante o trabalho |
 | **Relação de poder** | Pode distribuir autonomia ou apenas tornar hierarquias existentes mais explícitas; quem define o Accountable define onde está a palavra final |
-| **Custo invisível** | Rigidez, manutenção da matriz, falsa clareza diante de influência informal e uso defensivo para transferir culpa |
-| **Família de ideias** | Artefatos de autorização e coordenação |
+| **Consequências inesperadas** | Custo invisível: Rigidez, manutenção da matriz, falsa clareza diante de influência informal e uso defensivo para transferir culpa |
+| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
+| **Conceitos relacionados** | Não explicitado na ficha anterior. |
+| **Variáveis relacionadas** | Não explicitado na ficha anterior. |
+| **Genealogia** | Família de ideias: Artefatos de autorização e coordenação |
 | **Parentes** | organograma, matriz de decisão, alçadas, [[03 artefatos/Kanban|Kanban]], [[03 artefatos/Workshop|Workshop]], [[03 artefatos/Princípio|Princípio]] |
+| **Princípio de design revelado** | Não explicitado na ficha anterior. |
 | **Questão em aberto** | Quanto de responsabilidade precisa ser definido antecipadamente antes que a clareza comece a destruir a colaboração adaptativa? |
 
 ## Referências

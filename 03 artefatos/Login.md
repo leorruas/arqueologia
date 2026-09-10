@@ -60,25 +60,29 @@ O login revela, assim, uma hipótese duradoura do design de sistemas: recursos c
 A pergunta contemporânea não é se o login vai desaparecer. É quanto de seu ritual pode desaparecer sem que o usuário perca a capacidade de entender quem o sistema pensa que ele é.
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Login |
 | **Período** | Consolidação em sistemas multiusuário no início dos anos 1960 |
 | **Autoria** | Distribuída; CTSS e a equipe liderada por Fernando Corbató são referências centrais na história inicial de contas e passwords |
+| **Produto ou contexto** | Não explicitado na ficha anterior. |
 | **Problema original** | Separar identidade, arquivos, permissões e responsabilidade entre usuários de uma infraestrutura compartilhada |
+| **Mundo antes** | Não explicitado na ficha anterior. |
 | **Invenção** | Não há um único inventor ou instante isolável do login moderno |
 | **Refinamento** | Contas, passwords, sessões, permissões, autenticação multifator e identidades federadas |
 | **Popularização** | Sistemas multiusuário, redes e serviços web |
 | **Padronização** | Fluxos de autenticação, SSO, OAuth, biometria e passkeys |
+| **Hipótese de design** | Um sistema compartilhado precisa estabelecer quem age antes de decidir o que essa pessoa pode acessar ou modificar |
 | **Comportamento aproveitado** | Provar identidade por segredo, posse ou característica pessoal para atravessar um limite |
 | **Comportamento produzido** | Entrar e sair de identidades digitais e administrar credenciais como parte da vida cotidiana |
-| **Hipótese de design** | Um sistema compartilhado precisa estabelecer quem age antes de decidir o que essa pessoa pode acessar ou modificar |
 | **Relação de poder** | Protege privacidade e individualiza responsabilidade, mas dá ao sistema poder de admitir, excluir e registrar ações por identidade |
-| **Custo invisível** | Fadiga de senhas, perda de acesso, roubo de credenciais e dependência de provedores de identidade |
+| **Consequências inesperadas** | Custo invisível: Fadiga de senhas, perda de acesso, roubo de credenciais e dependência de provedores de identidade |
+| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
 | **Conceitos relacionados** | [[01 conceitos/Limiares|Limiares]], [[01 conceitos/Tecnologias de Delimitacao|Tecnologias de delimitação]] |
+| **Variáveis relacionadas** | Não explicitado na ficha anterior. |
 | **Genealogia** | [[04 genealogias/Limiares e Delimitacao|Limiares e delimitação]] |
 | **Parentes** | [[03 artefatos/Tela de Login|Tela de login]], [[03 artefatos/Crachá|Crachá]], chave, passaporte, biometria |
+| **Princípio de design revelado** | Não explicitado na ficha anterior. |
 | **Questão em aberto** | Quanto do ritual de autenticação pode desaparecer sem tornar identidade e permissão opacas demais para o usuário? |
 
 ## Referências

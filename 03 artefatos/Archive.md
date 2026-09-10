@@ -86,26 +86,29 @@ Talvez seja essa a inovação comportamental mais interessante. Sistemas de info
 Arquivar é uma pequena demonstração disso: **uma coisa pode continuar pertencendo ao seu mundo sem continuar pedindo sua atenção**.
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Archive |
 | **Período** | Arquivamento digital anterior ao Gmail; padrão ganhou grande visibilidade no Gmail a partir de 2004 |
 | **Autoria** | Distribuída. O Gmail, desenvolvido inicialmente por Paul Buchheit e equipe, é um importante popularizador do padrão de arquivar associado a busca e grande armazenamento |
+| **Produto ou contexto** | Não explicitado na ficha anterior. |
 | **Problema original** | Retirar itens concluídos da superfície de atenção sem apagá-los nem exigir classificação detalhada |
+| **Mundo antes** | Não explicitado na ficha anterior. |
 | **Invenção** | Arquivamento é anterior ao Gmail; não há uma ocorrência única atribuída ao produto |
 | **Refinamento** | Combinação entre Archive, grande capacidade de armazenamento, busca e visão “Todos os e-mails” reduz necessidade de mover mensagens para pastas |
 | **Popularização** | Gmail e, posteriormente, muitos clientes de e-mail, mensageria e sistemas de produtividade |
 | **Padronização** | Comando Archive como estado distinto de Inbox e Delete |
+| **Hipótese de design** | Quando armazenar e recuperar ficam baratos, o sistema pode reduzir o custo de organização antecipada |
 | **Comportamento aproveitado** | Afastar algo resolvido do campo imediato sem querer perdê-lo definitivamente |
 | **Comportamento produzido** | Arquivar rapidamente e confiar em busca ou recuperação posterior em vez de classificar cada item |
-| **Hipótese de design** | Quando armazenar e recuperar ficam baratos, o sistema pode reduzir o custo de organização antecipada |
 | **Relação de poder** | Aumenta autonomia sobre o campo de atenção, mas transfere dependência para infraestrutura de armazenamento e indexação |
-| **Custo invisível** | Acúmulo de dados, dependência da busca e invisibilidade do custo material da infraestrutura necessária para preservar tudo |
+| **Consequências inesperadas** | Custo invisível: Acúmulo de dados, dependência da busca e invisibilidade do custo material da infraestrutura necessária para preservar tudo |
+| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
 | **Conceitos relacionados** | [[01 conceitos/Autonomia da Atencao|Autonomia da atenção]], [[01 conceitos/Tecnologia de Acesso|Tecnologia de acesso]], [[01 conceitos/Memoria Distribuida|Memória distribuída]] |
 | **Variáveis relacionadas** | [[02 variaveis/Atrito Decisorio|Atrito decisório]], [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Permanencia|Permanência]] |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] |
 | **Parentes** | pasta, lixeira, busca, [[03 artefatos/Botao Salvar|Botão salvar]], Inbox Zero |
+| **Princípio de design revelado** | Não explicitado na ficha anterior. |
 | **Questão em aberto** | O que acontece com nossa capacidade de distinguir o importante do apenas recuperável quando praticamente tudo pode ser guardado indefinidamente? |
 
 ## Referências

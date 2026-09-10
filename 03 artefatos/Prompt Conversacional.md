@@ -84,24 +84,29 @@ Os controles híbridos que vêm cercando interfaces generativas — sugestões, 
 Talvez o prompt conversacional não seja o fim da interface gráfica. Seja um novo centro em torno do qual controles reaparecem.
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Prompt conversacional |
 | **Período** | Antecedentes em comandos, busca e conversação computacional; popularização massiva com interfaces de LLM a partir de 2022 |
 | **Autoria** | Distribuída; não há inventor único do prompt conversacional contemporâneo |
+| **Produto ou contexto** | Não explicitado na ficha anterior. |
 | **Problema original** | Permitir especificar uma variedade grande de intenções sem antecipá-las todas em controles fixos |
+| **Mundo antes** | Não explicitado na ficha anterior. |
 | **Invenção** | Entrada textual e diálogo computacional antecedem LLMs |
 | **Refinamento** | Modelos capazes de seguir instruções e manter interação contextual em múltiplos turnos |
 | **Popularização** | ChatGPT e outras interfaces generativas a partir de 2022 |
 | **Padronização** | Caixa de conversa cercada progressivamente por controles multimodais, ferramentas e sugestões |
+| **Hipótese de design** | Linguagem natural pode funcionar como camada flexível de especificação para operações que não foram previamente transformadas em controles |
 | **Comportamento aproveitado** | Explicar, delegar, exemplificar, corrigir e negociar tarefas por linguagem |
 | **Comportamento produzido** | Iterar com software por diálogo, desenvolver repertórios de prompting e validar saídas probabilísticas |
-| **Hipótese de design** | Linguagem natural pode funcionar como camada flexível de especificação para operações que não foram previamente transformadas em controles |
 | **Relação de poder** | Amplia liberdade de formulação do usuário, mas concentra interpretação e geração numa infraestrutura opaca e probabilística |
-| **Custo invisível** | Ansiedade diante da caixa vazia, esforço de formulação, imprevisibilidade e necessidade contínua de validar respostas plausíveis |
+| **Consequências inesperadas** | Custo invisível: Ansiedade diante da caixa vazia, esforço de formulação, imprevisibilidade e necessidade contínua de validar respostas plausíveis |
+| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
 | **Conceitos relacionados** | [[01 conceitos/Formulação|Formulação]], [[01 conceitos/Antropomorfismo|Antropomorfismo]], [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção boa vs fricção ruim]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]] |
+| **Variáveis relacionadas** | Não explicitado na ficha anterior. |
+| **Genealogia** | Não explicitado na ficha anterior. |
 | **Parentes** | interface de linha de comando, barra de busca, ELIZA, [[03 artefatos/Brief|Brief]], [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Mascote|Mascote]] |
+| **Princípio de design revelado** | Não explicitado na ficha anterior. |
 | **Questão em aberto** | Quanto da liberdade do prompt continuará aberta quando interfaces generativas amadurecerem e voltarem a incorporar estruturas visíveis para reduzir ambiguidade? |
 
 ## Referências

@@ -106,27 +106,29 @@ Ele se tornou tão natural que ensinou milhões de pessoas a cuidar da permanên
 A pergunta que sobra é mais estranha: quando uma interface absorve uma responsabilidade que antes era nossa, o que acontece com a nossa percepção de controle, autoria e fechamento?
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Botão salvar |
 | **Período** | Operação anterior às GUIs; consolidação como convenção de interface entre as décadas de 1980 e 1990 |
 | **Autoria** | Distribuída. Não há inventor único estabelecido para a operação, o comando gráfico ou a convenção do disquete |
+| **Produto ou contexto** | Não explicitado na ficha anterior. |
 | **Problema original** | Fazer o estado atual do trabalho persistir |
+| **Mundo antes** | Não explicitado na ficha anterior. |
 | **Invenção** | Operações de gravação antecedem a interface gráfica |
 | **Refinamento** | Tradução da operação em comandos como `Save`, caixas de diálogo, atalhos e barras de ferramentas |
 | **Popularização** | Computadores pessoais e aplicações de produtividade |
 | **Padronização** | Repetição de `Save`, atalhos recorrentes e do disquete como símbolo |
+| **Hipótese de design** | O usuário pode e deve decidir quais estados precisam persistir |
 | **Comportamento aproveitado** | Externalizar memória e preservar objetos importantes |
 | **Comportamento produzido** | Ritual recorrente de salvar durante o trabalho |
-| **Hipótese de design** | O usuário pode e deve decidir quais estados precisam persistir |
 | **Relação de poder** | Oferece controle explícito, mas transfere ao usuário a responsabilidade por lembrar de preservar |
-| **Consequência inesperada** | O disquete sobrevive como signo depois do desaparecimento cotidiano do suporte físico |
-| **Transformação posterior** | Autosave e histórico de versões transferem parte da responsabilidade para a infraestrutura |
+| **Consequências inesperadas** | O disquete sobrevive como signo depois do desaparecimento cotidiano do suporte físico |
+| **Destino ou transformação posterior** | Autosave e histórico de versões transferem parte da responsabilidade para a infraestrutura |
 | **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Continuidade de Acesso|Continuidade de acesso]] |
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Custo do Erro|Custo do erro]], [[02 variaveis/Reversibilidade|Reversibilidade]] |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] |
 | **Parentes** | [[03 artefatos/Post-it|Post-it]], [[03 artefatos/Archive|Archive]], [[03 artefatos/Número de Protocolo|Número de protocolo]] |
+| **Princípio de design revelado** | Não explicitado na ficha anterior. |
 | **Questão em aberto** | O que acontece com a percepção de versão e fechamento quando preservar deixa de ser uma ação consciente? |
 
 ## Referências

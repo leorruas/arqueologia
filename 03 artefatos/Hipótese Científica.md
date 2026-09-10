@@ -68,24 +68,29 @@ No projeto de design, essa leitura produz uma consequência útil. Em vez de per
 Talvez seja esse o parentesco mais forte entre ciência e design: ambos avançam melhor quando conseguem transformar certezas implícitas em apostas que o mundo pode contrariar.
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Hipótese científica |
 | **Período** | Prática com antecedentes antigos; formalizações modernas se desenvolvem ao longo da Revolução Científica e da filosofia da ciência posterior |
 | **Autoria** | Distribuída. Bacon, Galileu e Popper representam momentos diferentes da história metodológica, não uma linha de coautoria |
+| **Produto ou contexto** | Não explicitado na ficha anterior. |
 | **Problema original** | Como transformar uma explicação possível em algo confrontável com evidências |
+| **Mundo antes** | Não explicitado na ficha anterior. |
 | **Invenção** | Sem ocorrência única identificável |
 | **Refinamento** | Métodos experimentais, raciocínio hipotético-dedutivo e debates sobre confirmação e falseabilidade tornam hipóteses mais explicitamente testáveis |
 | **Popularização** | Ciência experimental, medicina, pesquisa social, produto e práticas de experimentação em design |
 | **Padronização** | Protocolos de pesquisa, testes de hipótese, experimentos controlados e documentação de premissas |
+| **Hipótese de design** | Tornar uma crença explicitamente vulnerável à evidência melhora a qualidade da aprendizagem |
 | **Comportamento aproveitado** | Capacidade humana de antecipar consequências e comparar expectativa com observação |
 | **Comportamento produzido** | Formular explicações provisórias, prever resultados e revisar crenças diante de evidência |
-| **Hipótese de design** | Tornar uma crença explicitamente vulnerável à evidência melhora a qualidade da aprendizagem |
 | **Relação de poder** | Fortalece investigação baseada em critérios discutíveis publicamente e enfraquece, em princípio, explicações sustentadas apenas por autoridade |
-| **Custo invisível** | Viés de confirmação, simplificação excessiva de fenômenos e dogmatização da própria hipótese |
-| **Família de ideias** | Artefatos de formulação e investigação |
+| **Consequências inesperadas** | Custo invisível: Viés de confirmação, simplificação excessiva de fenômenos e dogmatização da própria hipótese |
+| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
+| **Conceitos relacionados** | Não explicitado na ficha anterior. |
+| **Variáveis relacionadas** | Não explicitado na ficha anterior. |
+| **Genealogia** | Família de ideias: Artefatos de formulação e investigação |
 | **Parentes** | [[03 artefatos/Pergunta de Pesquisa|Pergunta de pesquisa]], [[03 artefatos/Problema de Design|Problema de design]], [[03 artefatos/Projeto Piloto|Projeto piloto]], [[03 artefatos/Jobs to Be Done|Jobs to Be Done]] |
+| **Princípio de design revelado** | Não explicitado na ficha anterior. |
 | **Questão em aberto** | Como projetar processos em que abandonar uma hipótese ruim seja percebido como aprendizado e não como fracasso? |
 
 ## Referências

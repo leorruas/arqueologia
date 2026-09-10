@@ -64,24 +64,29 @@ A hipótese deste projeto é que uma boa pergunta de pesquisa possui uma tensão
 Por isso seu destino mais interessante talvez não seja ser respondida exatamente como foi escrita. Às vezes, uma pesquisa bem-sucedida termina com uma pergunta melhor do que aquela com que começou.
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Pergunta de pesquisa |
 | **Período** | Prática sem origem única; consolidada como convenção metodológica da pesquisa acadêmica moderna |
 | **Autoria** | Distribuída entre tradições científicas e acadêmicas |
+| **Produto ou contexto** | Não explicitado na ficha anterior. |
 | **Problema original** | Manter uma investigação coerente diante de muitas observações, fontes e caminhos possíveis |
+| **Mundo antes** | Não explicitado na ficha anterior. |
 | **Invenção** | Não há ocorrência única identificável |
 | **Refinamento** | Metodologias de pesquisa passam a explicitar critérios para perguntas delimitadas, investigáveis e revisáveis |
 | **Popularização** | Universidades, pesquisa científica, pesquisa de mercado, UX Research e investigação aplicada |
 | **Padronização** | Projetos de pesquisa, TCCs, dissertações, teses, protocolos e briefs de pesquisa |
+| **Hipótese de design** | Uma dúvida explicitada e compartilhada consegue coordenar decisões investigativas ao longo do tempo |
 | **Comportamento aproveitado** | Capacidade humana de perseguir uma dúvida explícita e usar um objetivo compartilhado como critério de seleção |
 | **Comportamento produzido** | Selecionar métodos, fontes e dados em relação a uma lacuna formulada |
-| **Hipótese de design** | Uma dúvida explicitada e compartilhada consegue coordenar decisões investigativas ao longo do tempo |
 | **Relação de poder** | Quem formula a pergunta influencia o que será observado e o que poderá permanecer fora do campo |
-| **Custo invisível** | Exclusão de descobertas periféricas, estreitamento prematuro e risco de transformar pesquisa em confirmação |
-| **Família de ideias** | Artefatos de formulação e investigação |
+| **Consequências inesperadas** | Custo invisível: Exclusão de descobertas periféricas, estreitamento prematuro e risco de transformar pesquisa em confirmação |
+| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
+| **Conceitos relacionados** | Não explicitado na ficha anterior. |
+| **Variáveis relacionadas** | Não explicitado na ficha anterior. |
+| **Genealogia** | Família de ideias: Artefatos de formulação e investigação |
 | **Parentes** | [[03 artefatos/Pergunta|Pergunta]], [[03 artefatos/Hipótese Científica|Hipótese científica]], [[03 artefatos/Problema de Design|Problema de design]], [[03 artefatos/Jobs to Be Done|Jobs to Be Done]] |
+| **Princípio de design revelado** | Não explicitado na ficha anterior. |
 | **Questão em aberto** | Como manter uma pergunta suficientemente estável para coordenar a pesquisa sem protegê-la das descobertas que deveriam transformá-la? |
 
 ## Referências

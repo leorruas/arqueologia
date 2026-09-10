@@ -66,24 +66,29 @@ Com inteligência artificial, porém, aparece uma diferença importante. O masco
 Isso torna a arqueologia do mascote especialmente relevante para IA. Antes de máquinas conversarem, o design já sabia há muito tempo como fazer entidades sem corpo parecerem sujeitos sociais.
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Mascote |
 | **Período** | Práticas ancestrais de personificação; mascote moderno de massa consolidado no fim do século XIX e século XX |
 | **Autoria** | Distribuída. Edmond Audran ajuda a popularizar o termo; Bibendum envolve André e Édouard Michelin e O’Galop |
+| **Produto ou contexto** | Não explicitado na ficha anterior. |
 | **Problema original** | Dar presença, memória e personalidade a entidades abstratas |
+| **Mundo antes** | Não explicitado na ficha anterior. |
 | **Invenção** | Não há origem única; personagens protetores, emblemas e personificações são muito anteriores à publicidade moderna |
 | **Refinamento** | Integração entre personagem, produto e identidade em mascotes comerciais e institucionais |
 | **Popularização** | Publicidade, esporte, campanhas públicas, escolas e grandes eventos |
 | **Padronização** | Sistemas de personagem com regras visuais, narrativas e comportamentais reproduzíveis |
+| **Hipótese de design** | Uma entidade abstrata se torna mais relacionável quando recebe sinais consistentes de corpo, intenção e personalidade |
 | **Comportamento aproveitado** | Antropomorfização, empatia por rostos e identificação afetiva com personagens |
 | **Comportamento produzido** | Falar, torcer, brincar, colecionar e interagir simbolicamente com instituições como se fossem sujeitos |
-| **Hipótese de design** | Uma entidade abstrata se torna mais relacionável quando recebe sinais consistentes de corpo, intenção e personalidade |
 | **Relação de poder** | Pode aproximar instituições do público, mas também revestir estruturas de poder com uma personalidade emocional mais simpática do que sua operação real |
-| **Custo invisível** | Confusão entre caráter do personagem e conduta da organização; infantilização ou suavização excessiva de mensagens |
+| **Consequências inesperadas** | Custo invisível: Confusão entre caráter do personagem e conduta da organização; infantilização ou suavização excessiva de mensagens |
+| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
 | **Conceitos relacionados** | [[01 conceitos/Antropomorfismo|Antropomorfismo]], [[01 conceitos/Design Systems|Design Systems]], [[01 conceitos/Esqueuomorfismo|Esqueuomorfismo]] |
+| **Variáveis relacionadas** | Não explicitado na ficha anterior. |
+| **Genealogia** | Não explicitado na ficha anterior. |
 | **Parentes** | brasão, avatar, personagem publicitário, assistente virtual, robô social |
+| **Princípio de design revelado** | Não explicitado na ficha anterior. |
 | **Questão em aberto** | O que muda eticamente quando um personagem institucional deixa de apenas representar uma voz e passa a gerar respostas por conta própria? |
 
 ## Referências

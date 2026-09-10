@@ -90,25 +90,29 @@ O desafio é impedir que a institucionalização destrua justamente a reflexão 
 Se virar só mais uma caixa a preencher, sobra a forma e desaparece a pergunta.
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Value Proposition Ad Lib |
 | **Período** | Publicado em 2014 em *Value Proposition Design*; adaptações posteriores variam por contexto |
 | **Autoria** | Alexander Osterwalder, Yves Pigneur, Greg Bernarda e Alan Smith no contexto de *Value Proposition Design* e Strategyzer |
+| **Produto ou contexto** | Não explicitado na ficha anterior. |
 | **Problema original** | Prototipar rapidamente direções de proposta de valor e tornar explícita a relação entre oferta, público, jobs, dores e ganhos |
+| **Mundo antes** | Não explicitado na ficha anterior. |
 | **Invenção** | Ad Lib documentado em *Value Proposition Design* em 2014 |
 | **Refinamento** | Uso da estrutura em workshops, estratégia e adaptações para outros contextos de decisão |
 | **Popularização** | Ecossistema Strategyzer, design thinking, produto e facilitação estratégica |
 | **Padronização** | Frases lacunadas para propostas de valor e hipóteses de produto |
+| **Hipótese de design** | Uma gramática curta e compartilhada consegue revelar inconsistências que permanecem ocultas em discussões abertas |
 | **Comportamento aproveitado** | Impulso de explicar e justificar propostas por meio de relações causais compreensíveis |
 | **Comportamento produzido** | Explicitar público, necessidade, transformação e premissas antes de detalhar a implementação |
-| **Hipótese de design** | Uma gramática curta e compartilhada consegue revelar inconsistências que permanecem ocultas em discussões abertas |
 | **Relação de poder** | Pode exigir justificativa explícita de propostas hierárquicas e ampliar contestabilidade; também pode fornecer vocabulário para legitimar decisões já tomadas |
-| **Custo invisível** | Preenchimento performativo, simplificação de problemas complexos e falsa sensação de rigor sem evidência |
+| **Consequências inesperadas** | Custo invisível: Preenchimento performativo, simplificação de problemas complexos e falsa sensação de rigor sem evidência |
+| **Destino ou transformação posterior** | Não explicitado na ficha anterior. |
 | **Conceitos relacionados** | [[01 conceitos/Formulacao|Formulação]], [[01 conceitos/Intencao|Intenção]], [[01 conceitos/Justificabilidade|Justificabilidade]], [[01 conceitos/Servico de Reflexao|Serviço de reflexão]] |
-| **Família de ideias** | Artefatos de intenção, formulação e justificabilidade |
+| **Variáveis relacionadas** | Não explicitado na ficha anterior. |
+| **Genealogia** | Família de ideias: Artefatos de intenção, formulação e justificabilidade |
 | **Parentes** | [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Brief|Brief]], [[03 artefatos/Problema de Design|Problema de design]], [[03 artefatos/Justificativa de Valor Público|Justificativa de Valor Público]], [[03 artefatos/Hipótese Científica|Hipótese científica]] |
+| **Princípio de design revelado** | Não explicitado na ficha anterior. |
 | **Questão em aberto** | Como institucionalizar a exigência de justificar uma proposta sem transformar o Ad Lib em burocracia performativa? |
 
 ## Referências
