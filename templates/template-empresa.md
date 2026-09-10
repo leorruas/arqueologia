@@ -1,6 +1,7 @@
 ---
 title: "{{title}}"
 type: "empresa"
+status: "rascunho"
 tags:
   - design/empresa
   - arqueologia
@@ -8,25 +9,27 @@ tags:
 
 # {{title}}
 
-[Resumo da empresa, corporação, estúdio ou coletivo de design, quando foi fundada, onde, e qual seu impacto na história do design.]
+[Abra explicando por que esta organização importa para uma ideia do vault. Evite transformar a nota em perfil corporativo geral. O foco deve ser o papel da organização na invenção, refinamento, popularização, padronização, circulação ou institucionalização de uma decisão de design.]
 
-## Perfil Institucional
-- **Fundação**: [Ano, local, fundadores]
-- **Período de Atividade**: [Ativa / Anos de atividade]
-- **Sede original**: [Cidade, País]
+## Papel histórico
 
-## Filosofia & Abordagem de Design
-- **Estilo & Identidade**: [Como a empresa se posicionava esteticamente e metodologicamente?]
-- **Setores de Atuação**: [Ex: Móveis, Tecnologia, Identidade Visual, Automotivo]
+[Descreva que função a organização teve e em que período. Diferencie claramente empresa que financiou, fabricou, distribuiu, popularizou ou padronizou de quem efetivamente inventou ou projetou.]
 
-## Projetos Emblemáticos e Produtos Históricos
-- [[03 artefatos/|Nome do Produto 1]] ([Ano]): [Breve histórico do produto e seu impacto comercial/cultural]
-- [[03 artefatos/|Nome do Produto 2]] ([Ano]): [Breve histórico do produto e seu impacto comercial/cultural]
+## Artefatos e pessoas relacionados
 
-## Designers Notáveis Associados
-- [[autores/|Designer 1]] — [Cargo/Período e contribuição]
-- [[autores/|Designer 2]] — [Cargo/Período e contribuição]
+[Conecte apenas artefatos e autores materialmente relevantes. Para cada relação importante, diga o papel desempenhado em vez de apenas listar nomes.]
 
-## Referências e Leituras
-- **Site oficial** (se ativo): [URL]
-- **Leituras**: [Livros sobre a história ou arquivo da empresa]
+## O que a organização tornou possível
+
+[Explique que capacidade de escala, distribuição, infraestrutura, produção, mercado ou institucionalização alterou a trajetória da ideia estudada.]
+
+## Cuidado histórico
+
+[Evite linguagem promocional e atribuições automáticas de autoria. Empresas podem ser decisivas para popularização ou padronização sem terem inventado a ideia.]
+
+## Fontes e leituras
+
+[Inclua fontes institucionais, arquivos e bibliografia apenas quando sustentarem afirmações usadas na nota. Livros realmente úteis devem entrar também em [[00 índices/Livros Indicados|Livros indicados]].]
+
+> [!IMPORTANT]
+> Antes de concluir, execute o [[Instrucoes de Arqueologia#Protocolo de propagação|Protocolo de propagação]]. Confirme que a empresa aparece no [[00 índices/Indice de Empresas|Índice de empresas]] e que artefatos e autores relacionados devolvem o vínculo quando isso melhora a leitura histórica.
