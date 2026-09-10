@@ -10,7 +10,8 @@ Catálogo de estúdios, marcas, corporações, coletivos e fundições tipográf
 
 ## Corporações, estúdios e fundições
 
-### Tecnologia e eletrônicos
+### Tecnologia, indústria e eletrônicos
+- [[empresas/3M|3M]]: contexto industrial de desenvolvimento, fabricação e difusão do Post-it.
 - [[empresas/AEG|AEG]]: pioneira no design corporativo unificado.
 - [[empresas/Apple|Apple]]: computação pessoal, eletrônicos de consumo e interface gráfica.
 - [[empresas/Braun|Braun]]: eletrodomésticos minimalistas e aparelhos de som.
