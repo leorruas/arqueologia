@@ -54,6 +54,7 @@ leitura: "mandatória: ler antes de qualquer operação no vault"
 27. **Tipos de design como ensaios disciplinares**: notas em `00 tipos de design/` investigam como uma classe de problemas ganhou forma como campo. Não usar estrutura enciclopédica de definição, pioneiros, marcos, empresas e lista exaustiva de artefatos. Autores e instituições entram apenas quando explicam uma transformação.
 28. **Percursos como argumentos de leitura**: notas em `05 percursos/` não devem ser listas numeradas de artigos. Organizar por mudanças de ideia, comparar estudos dentro da mesma seção e fazer a pergunta inicial se transformar ao longo da leitura.
 29. **Propagação semântica**: uma correção factual ou conceitual também precisa atravessar a rede. Ao mudar autoria, data, papel histórico, procedência, grau de certeza, interpretação central ou estatuto de uma hipótese, procure notas que dependam dessa afirmação e corrija versões incompatíveis. Um grafo pode ter links corretos e ainda contar histórias contraditórias.
+30. **Propagação de governança**: uma mudança de modelo editorial, schema, regra de escrita ou função de uma camada não termina no arquivo em que foi proposta. Antes de concluir, verifique e atualize, quando afetados, `me.md`, `Instrucoes de Arqueologia.md`, `Guia de escrita.md`, templates correspondentes, scripts de auditoria, `README.md`, `index.md` e `00 índices/Sobre o projeto.md`. A documentação pública, os modelos de criação e os testes automáticos devem descrever o mesmo sistema editorial.
 
 ## Regras editoriais
 
@@ -114,6 +115,8 @@ Uma operação que cria ou altera materialmente um estudo só termina depois de:
 - verificar wikilinks sem destino e vínculos que deveriam ser recíprocos.
 
 Esse fechamento é parte da criação do artigo, não uma etapa opcional de manutenção posterior.
+
+Quando a própria governança mudar, aplique também a regra de propagação de governança: alinhe os manuais, templates, auditorias e páginas públicas afetadas antes de considerar a alteração concluída.
 
 ### Estados editoriais
 
