@@ -117,26 +117,6 @@ function limparHeading(texto) {
   return texto.replace(/\s+#+\s*$/, "").replace(/[*_`~=]/g, "").trim();
 }
 
-function extrairHeadings(markdown) {
-  return markdown
-    .split(/\r?\n/)
-    .map(linha => linha.match(/^(#{1,6})\s+(.+)$/))
-    .filter(Boolean)
-    .map(match => ({ level: match[1].length, text: limparHeading(match[2]) }))
-    .filter(item => item.text);
-}
-
-function extrairWikiLinks(markdown) {
-  const links = [];
-  const regex = /\[\[([^\]]+)\]\]/g;
-  let match;
-  while ((match = regex.exec(markdown))) {
-    const bruto = match[1].split("|")[0].split("#")[0].trim();
-    if (bruto) links.push(bruto);
-  }
-  return [...new Set(links)];
-}
-
 function limparReferenciaWiki(valor) {
   return String(valor || "")
     .replace(/^\[\[/, "")
@@ -145,7 +125,20 @@ function limparReferenciaWiki(valor) {
     .split("#")[0]
     .replace(/^\.\//, "")
     .replace(/\.md$/i, "")
+    .trim()
+    .replace(/\\+$/g, "")
     .trim();
+}
+
+function extrairWikiLinks(markdown) {
+  const links = [];
+  const regex = /\[\[([^\]]+)\]\]/g;
+  let match;
+  while ((match = regex.exec(markdown))) {
+    const bruto = limparReferenciaWiki(match[1]);
+    if (bruto) links.push(bruto);
+  }
+  return [...new Set(links)];
 }
 
 function referenciaIgnoravel(valor) {
