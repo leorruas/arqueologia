@@ -29,6 +29,8 @@ Isso produz uma diferença importante para a memória: **o pôster envelhece; a 
 
 Com a computação interativa, a superfície deixa de apenas apresentar estados definidos anteriormente. A ação do usuário passa a alterar o que aparece. Clicar, arrastar, digitar, selecionar ou tocar produz respostas. A tela não é mais apenas suporte de leitura; torna-se lugar de ação sobre um sistema invisível.
 
+O [[03 artefatos/Cursor|cursor]] condensa essa passagem num sinal mínimo. Ele não mostra apenas onde olhar: mostra onde alguma coisa pode mudar. Ao transformar uma coordenada interna da máquina em presença visível, torna a intenção operacional perceptível e ajuda a converter uma superfície simbólica em campo de ação.
+
 Essa transformação ensina outro comportamento: não basta olhar para a superfície. Podemos **operá-la**. A relação muda de interpretação para intervenção.
 
 A [[03 artefatos/Hero Section|hero section]] ajuda a enxergar que essa operação começa antes do primeiro clique. A superfície precisa enquadrar onde a pessoa chegou e sugerir que tipo de ação existe ali. O design gráfico continua trabalhando dentro da interface: hierarquia e composição organizam não apenas leitura, mas expectativa de comportamento.
