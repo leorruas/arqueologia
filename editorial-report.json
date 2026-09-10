@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-10T22:53:51.996Z",
+  "generatedAt": "2026-09-10T22:54:45.506Z",
   "rule": "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
   "artifactSheetRule": "Cada artefato deve conter uma única Ficha arqueológica em tabela Campo/Registro com os 22 campos definidos no template atual.",
-  "candidateCount": 30,
-  "fileCount": 23,
+  "candidateCount": 31,
+  "fileCount": 24,
   "files": [
     {
       "sourcePath": "00 índices/Indice de Autores.md",
@@ -61,6 +61,16 @@
           "kind": "h2",
           "line": 54,
           "text": "O calendário não apenas descreve o futuro. Ele começa a governá-lo"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Camera Fotografica.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Camera Fotografica.md",
+          "kind": "frontmatter-title",
+          "text": "Câmera Fotográfica"
         }
       ]
     },
