@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-10T17:58:05.387Z",
+  "generatedAt": "2026-09-10T17:58:36.889Z",
   "rule": "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
-  "candidateCount": 13,
-  "fileCount": 13,
+  "candidateCount": 14,
+  "fileCount": 14,
   "files": [
     {
       "sourcePath": "00 índices/Indice de Autores.md",
@@ -112,6 +112,17 @@
           "sourcePath": "03 artefatos/Undo Send.md",
           "kind": "frontmatter-title",
           "text": "Undo Send"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Undo.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Undo.md",
+          "kind": "h2",
+          "line": 38,
+          "text": "O que Undo não resolve"
         }
       ]
     },
