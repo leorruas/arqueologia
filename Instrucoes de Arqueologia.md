@@ -91,6 +91,16 @@ Variáveis são eixos comparáveis que decisões de design podem aumentar, reduz
 
 Se algo não puder ser tratado como eixo comparável, provavelmente pertence a `01 conceitos/` e não a `02 variaveis/`.
 
+## Tipos de design
+
+A pasta `00 tipos de design/` não deve funcionar como enciclopédia de profissões. Cada nota investiga **como uma classe de problemas se tornou reconhecível como campo de projeto**.
+
+O texto deve partir daquilo que a área aprendeu a tornar manipulável: linguagem e hierarquia visual no design gráfico, relação entre corpo e objeto no design de produto, estados e ações no design de interface, coordenação distribuída no design de serviços, comportamento probabilístico no design de IA, forma visual da linguagem na tipografia etc.
+
+Práticas podem existir muito antes de o campo receber nome, profissão, escola ou associação. Por isso, diferencie práticas antecedentes de consolidação disciplinar. Autores, empresas, escolas e movimentos entram dentro da narrativa quando ajudam a explicar uma transformação; não devem formar seções catalográficas de “pioneiros” ou “empresas de destaque”.
+
+Um tipo de design deve usar os artefatos do vault como **evidência de modos de pensar**, e não tentar duplicar o índice central. A pergunta final é menos “quais objetos pertencem a esta área?” e mais “que tipo de relação esta área aprendeu a projetar — e onde seus limites começam a se misturar com outros campos?”.
+
 ## Genealogias
 
 A pasta `04 genealogias/` organiza parentescos entre artefatos de áreas diferentes. Genealogia aqui não significa necessariamente descendência histórica direta. Cada relação deve indicar se é histórica/documentada, funcional, semiótica, comportamental ou hipótese comparativa.
@@ -99,7 +109,13 @@ Isso evita transformar analogias interessantes em afirmações históricas falsa
 
 ## Percursos
 
-A pasta `05 percursos/` organiza sequências editoriais. Um percurso não cria uma nova taxonomia: ele monta uma leitura. Deve começar com uma pergunta e conduzir o leitor por estudos existentes, explicitando por que cada passagem importa.
+A pasta `05 percursos/` organiza **argumentos de leitura**. Um percurso não cria uma taxonomia e não resume artigos em sequência: ele faz uma pergunta ganhar complexidade ao atravessar estudos existentes.
+
+A estrutura principal deve ser narrativa. Evite organizar o texto como `1. Artefato`, `2. Artefato`, `3. Artefato`. Os headings devem nomear transformações de ideia, como uma fronteira que sai do chão e vai para o corpo, uma espera que ganha posição, uma superfície que deixa de apenas falar e passa a responder.
+
+Um percurso deve explicitar por que cada passagem muda a pergunta anterior. Sempre que possível, compare mais de um artefato dentro do mesmo movimento. A sequência é editorial, salvo quando houver evidência de descendência histórica; não transforme ordem de leitura em cronologia causal.
+
+O valor do percurso está no **intervalo entre os estudos**. Ele deve terminar com uma formulação que não seria tão visível em nenhum artigo isolado e apontar genealogias ou estudos capazes de continuar a investigação.
 
 ## Protocolo de propagação
 
@@ -177,13 +193,13 @@ A estrutura pode variar para preservar a narrativa, mas normalmente deve conter:
 7. consequências inesperadas;
 8. parentes e descendentes;
 9. hipóteses e perguntas em aberto;
-10. ficha resumo e fontes.
+10. ficha arqueológica e referências.
 
 ## Regras de escrita
 
 A escrita deve ser formal, clara e investigativa. Parágrafos completos são a unidade principal. Listas entram quando ajudam a comparar, sequenciar ou consultar informação, sem substituir a narrativa por fragmentos.
 
-No português do Brasil, títulos editoriais, headings, rótulos, tabs e nomes genéricos de seção usam sentence case. Isso significa usar maiúscula no início e onde a ortografia exigir, preservando nomes próprios, siglas e grafias oficiais. Exemplos corretos: `História e contexto de criação`, `Ficha técnica`, `Conceitos relacionados`. Exemplos a evitar: `História e Contexto de Criação`, `Ficha Técnica`, `Conceitos Relacionados`.
+No português do Brasil, títulos editoriais, headings, rótulos, tabs e nomes genéricos de seção usam sentence case. Isso significa usar maiúscula no início e onde a ortografia exigir, preservando nomes próprios, siglas e grafias oficiais. Exemplos corretos: `História e contexto de criação`, `Ficha arqueológica`, `Conceitos relacionados`. Exemplos a evitar: `História e Contexto de Criação`, `Ficha Arqueológica`, `Conceitos Relacionados`.
 
 Nomes próprios e nomes oficiais não devem ser forçados para minúsculas: `Xerox PARC`, `GitHub`, `Jobs to Be Done`, `Value Proposition Ad Lib`, `iPhone` e `Bauhaus` mantêm suas grafias.
 
@@ -193,7 +209,7 @@ Evite transformar interpretações em intenções atribuídas aos criadores. Evi
 
 ## Princípio de leitura
 
-A documentação não deve sufocar a leitura. No Markdown, preserve metadados e fichas. Na publicação, priorize a narrativa e permita recolher blocos de consulta como ficha técnica e ficha resumo.
+A documentação não deve sufocar a leitura. No Markdown, preserve metadados e as fichas exigidas pelo tipo de nota. Na publicação, priorize a narrativa e permita recolher camadas documentais quando isso melhorar a fluidez. Tipos de design e percursos devem funcionar como leitura contínua, não como fichas ou catálogos disfarçados.
 
 ## Criação de rede de conhecimento
 
