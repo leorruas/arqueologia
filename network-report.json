@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-10T23:26:34.422Z",
+  "generatedAt": "2026-09-10T23:27:10.454Z",
   "scope": "Integração do grafo: índices, home, reciprocidade estrutural, tipos de design e nós órfãos. Conceitos e variáveis não exigem backlink exaustivo.",
-  "issueCount": 11,
+  "issueCount": 4,
   "countsByKind": {
     "missing-from-index": 1,
-    "missing-reciprocal-link": 8,
+    "missing-reciprocal-link": 1,
     "orphan-node": 1,
     "design-type-drift": 1
   },
@@ -17,51 +17,9 @@
     },
     {
       "kind": "missing-reciprocal-link",
-      "sourcePath": "03 artefatos/App de tracking de gastos.md",
-      "targetPath": "04 genealogias/Permanencia e Memoria Externa.md",
-      "detail": "A ficha liga para 04 genealogias/Permanencia e Memoria Externa.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "missing-reciprocal-link",
-      "sourcePath": "03 artefatos/Calendário.md",
-      "targetPath": "04 genealogias/Permanencia e Memoria Externa.md",
-      "detail": "A ficha liga para 04 genealogias/Permanencia e Memoria Externa.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "missing-reciprocal-link",
-      "sourcePath": "03 artefatos/Checklist.md",
-      "targetPath": "04 genealogias/Permanencia e Memoria Externa.md",
-      "detail": "A ficha liga para 04 genealogias/Permanencia e Memoria Externa.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "missing-reciprocal-link",
       "sourcePath": "03 artefatos/Espaço entre Palavras.md",
       "targetPath": "00 tipos de design/Tipografia.md",
       "detail": "A ficha liga para 00 tipos de design/Tipografia.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "missing-reciprocal-link",
-      "sourcePath": "03 artefatos/Pôster.md",
-      "targetPath": "04 genealogias/Permanencia e Memoria Externa.md",
-      "detail": "A ficha liga para 04 genealogias/Permanencia e Memoria Externa.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "missing-reciprocal-link",
-      "sourcePath": "03 artefatos/Quadro Branco.md",
-      "targetPath": "04 genealogias/Permanencia e Memoria Externa.md",
-      "detail": "A ficha liga para 04 genealogias/Permanencia e Memoria Externa.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "missing-reciprocal-link",
-      "sourcePath": "03 artefatos/Retrospectiva.md",
-      "targetPath": "04 genealogias/Permanencia e Memoria Externa.md",
-      "detail": "A ficha liga para 04 genealogias/Permanencia e Memoria Externa.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "missing-reciprocal-link",
-      "sourcePath": "03 artefatos/Workshop.md",
-      "targetPath": "04 genealogias/Permanencia e Memoria Externa.md",
-      "detail": "A ficha liga para 04 genealogias/Permanencia e Memoria Externa.md, mas a nota relacionada não devolve o vínculo."
     },
     {
       "kind": "orphan-node",
