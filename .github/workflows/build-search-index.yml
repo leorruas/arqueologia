@@ -1,4 +1,4 @@
-name: Atualizar índice de busca
+name: Atualizar índice e auditorias
 
 on:
   push:
@@ -21,6 +21,8 @@ on:
       - "puc-parity.css"
       - "index.html"
       - "scripts/build-search-index.mjs"
+      - "scripts/normalize-sentence-case.mjs"
+      - "scripts/audit-editorial.mjs"
       - ".github/workflows/build-search-index.yml"
   workflow_dispatch:
 
@@ -51,19 +53,36 @@ jobs:
           node --check enhancements.js
           node --check puc-parity.js
           node --check scripts/build-search-index.mjs
+          node --check scripts/normalize-sentence-case.mjs
+          node --check scripts/audit-editorial.mjs
+
+      - name: Normalizar headings estruturais em sentence case
+        run: node scripts/normalize-sentence-case.mjs
+
+      - name: Auditar sentence case restante
+        run: node scripts/audit-editorial.mjs
 
       - name: Gerar índice e relatório de links
         run: node scripts/build-search-index.mjs
 
-      - name: Salvar arquivos gerados
+      - name: Salvar normalização, índice e auditorias
         shell: bash
         run: |
-          git add search-index.json link-report.json
+          git add \
+            "00 tipos de design" \
+            "00 índices" \
+            "01 conceitos" \
+            "02 variaveis" \
+            "03 artefatos" \
+            "04 genealogias" \
+            "05 percursos" \
+            autores empresas \
+            search-index.json link-report.json editorial-report.json
           if git diff --cached --quiet; then
-            echo "Índice e relatório já estão atualizados."
+            echo "Conteúdo e relatórios já estão atualizados."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "chore: atualiza índice e relatório de links [skip ci]"
+          git commit -m "chore: aplica sentence case e atualiza auditorias [skip ci]"
           git push
