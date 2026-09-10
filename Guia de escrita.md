@@ -79,6 +79,14 @@ Ao dizer que dois artefatos são parentes, indicar a natureza da relação quand
 
 Semelhança funcional não implica descendência histórica.
 
+## Wikilinks e pistas
+
+Criar `[[wikilink]]` apenas quando a nota de destino existir. Um link comunica ao leitor e ao grafo que há conteúdo disponível naquele destino; portanto, não deve funcionar como marcador de uma intenção futura.
+
+Quando uma pessoa, empresa, conceito ou artefato ainda não tiver nota, manter a expressão como texto simples. Se ela tiver valor potencial para investigações futuras, registrá-la em `Pistas de pesquisa.md`.
+
+Uma pista não é uma promessa de estudo. Ela é apenas uma possibilidade preservada para avaliação posterior.
+
 ## Densidade e repetição
 
 Evitar repetir na narrativa informações já presentes na ficha, salvo quando forem necessárias para construir o argumento. Evitar também repetir a mesma hipótese em seções diferentes com palavras ligeiramente diferentes.
