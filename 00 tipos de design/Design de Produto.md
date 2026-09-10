@@ -8,41 +8,39 @@ tags:
 
 # Design de produto
 
-O **Design de Produto** (frequentemente associado ao Desenho Industrial) lida com a concepção, desenvolvimento e manufatura de objetos físicos e sistemas utilitários destinados à produção em massa.
+Design de produto investiga objetos físicos e sistemas materiais que reorganizam ação, acesso, armazenamento, transporte, controle e relação com o corpo. No vault, a área interessa menos como catálogo de objetos e mais como lugar onde pequenas decisões materiais reduzem esforço, estabilizam rotinas e tornam capacidades portáteis.
 
-## Origens e surgimento
-- **Contexto Histórico**: Ganhou forma com a Revolução Industrial no século XIX, dividindo a manufatura artesanal da conceituação teórica de objetos reprodutíveis por máquinas.
-- **Pioneiros**: Peter Behrens, trabalhando para a AEG na Alemanha a partir de 1907, é considerado o primeiro designer industrial integrado a uma corporação moderna. A escola Bauhaus (1919) consolidou o ensino moderno da disciplina.
+## Problema recorrente
 
-## Evolução e desenvolvimento
-- **Marcos Históricos**:
-  - **1907**: Peter Behrens torna-se consultor artístico da AEG.
-  - **1919**: Fundação da Bauhaus na Alemanha por Walter Gropius.
-  - **1955**: Fundação da escola de design de Ulm (HfG Ulm).
-  - **Década de 1980**: O aparecimento do design pós-moderno com o Memphis Group.
+Objetos de uso cotidiano incorporam hipóteses sobre postura, alcance, força, memória, privacidade, deslocamento e repetição. Um bom estudo de produto pergunta que trabalho o objeto retirou do corpo, que prática anterior ele aproveitou e que novo comportamento passou a tornar barato ou recorrente.
 
-## Figuras e autores de destaque
-- [[autores/Dieter Rams|Dieter Rams]] — Famoso por sua atuação na Braun e seus dez princípios para o bom design.
-- [[autores/Peter Behrens|Peter Behrens]] — Considerado o pai do design industrial moderno.
+A disciplina moderna se consolida com a industrialização, o desenho para produção seriada e escolas e empresas que passaram a tratar forma, função, fabricação e uso como partes do mesmo problema. Para este projeto, porém, produtos anteriores à industrialização também são relevantes quando revelam mecanismos de design comparáveis.
 
-## Empresas e estúdios de destaque
-- [[empresas/Braun|Braun]] — Empresa alemã célebre pelo design minimalista de meados do século XX.
-- [[empresas/AEG|AEG]] — Pioneira na aplicação do design industrial integrado.
+## Autores e instituições relacionados
 
-## Artefatos históricos relacionados
-- [[03 artefatos/Bolso|Bolso]] — Pequena infraestrutura de armazenamento acoplada ao corpo, articulando privacidade e portabilidade.
-- [[03 artefatos/Baú|Baú]] — Recipiente que transforma dispersão em contenção e ajuda a separar guardar de classificar.
-- [[03 artefatos/Cofre|Cofre]] — Recipiente que transforma ameaça, resistência e autorização em requisitos de projeto.
-- [[03 artefatos/Guarda-roupa|Guarda-roupa]] — Móvel que transforma contenção em arquitetura interna de classificação e recuperação.
-- [[03 artefatos/Mochila|Mochila]] — Recipiente corporal que distribui carga para ampliar mobilidade mantendo as mãos livres.
-- [[03 artefatos/Carteira|Carteira]] — Recipiente portátil que passou de valores físicos a credenciais de acesso reconhecidas por infraestruturas externas.
-- [[03 artefatos/Garrafa de Agua|Garrafa de Água]] — Recipiente de hidratação portátil e transição de acesso geográfico para recurso contínuo.
-- [[03 artefatos/Tapete|Tapete]] — Tecnologia portátil clássica de territorialização e diagramação de espaço.
-- [[03 artefatos/Espelho|Espelho]] — Superfície de auto-observação que transforma o próprio corpo em fonte imediata de feedback visual.
-- [[03 artefatos/Post-it|Post-it]] — Bloco de notas reposicionáveis e elemento de modelagem de memória física no ambiente.
-- [[03 artefatos/Controle Remoto|Controle Remoto]] — Dispositivo de sintonia à distância, pioneiro no condicionamento de atenção.
-- [[03 artefatos/Quadro Branco|Quadro Branco]] — Superfície lisa de rascunhos provisórios para colaboração de equipes.
+[[autores/Peter Behrens|Peter Behrens]] e [[autores/Dieter Rams|Dieter Rams]] aparecem como referências importantes da história moderna do campo. [[empresas/AEG|AEG]] e [[empresas/Braun|Braun]] ajudam a observar como decisões de produto foram refinadas, sistematizadas e difundidas em escala industrial.
 
-## Conexões e referências
-- **Conceitos Chave**: [[01 conceitos/Limiares|Limiares]], [[01 conceitos/Tecnologias de Delimitacao|Tecnologias de Delimitação]], [[01 conceitos/Memoria Distribuida|Memória Distribuída]], [[01 conceitos/Continuidade de Acesso|Continuidade de acesso]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]]
-- **Áreas Correlatas**: [[00 tipos de design/Design Grafico|Design Gráfico]], [[00 tipos de design/Design de Serviços|Design de Serviços]]
+## Artefatos relacionados
+
+- [[03 artefatos/Bolso|Bolso]]: armazenamento acoplado ao corpo e infraestrutura cotidiana de portabilidade.
+- [[03 artefatos/Baú|Baú]]: contenção física que transforma objetos dispersos em conjunto guardado.
+- [[03 artefatos/Cofre|Cofre]]: armazenamento que incorpora resistência, exclusão e condições de acesso.
+- [[03 artefatos/Guarda-roupa|Guarda-roupa]]: contenção convertida em classificação espacial recuperável.
+- [[03 artefatos/Mochila|Mochila]]: distribuição de carga para ampliar mobilidade mantendo as mãos livres.
+- [[03 artefatos/Carteira|Carteira]]: concentração portátil de valor, identidade e credenciais.
+- [[03 artefatos/Garrafa de Agua|Garrafa de água]]: transformação de acesso localizado à água em disponibilidade portátil.
+- [[03 artefatos/Tapete|Tapete]]: superfície portátil de territorialização e limiar.
+- [[03 artefatos/Espelho|Espelho]]: superfície de auto-observação e feedback visual.
+- [[03 artefatos/Post-it|Post-it]]: memória externa reposicionável e provisória.
+- [[03 artefatos/Controle Remoto|Controle remoto]]: comando deslocado da máquina para a mão.
+- [[03 artefatos/Quadro Branco|Quadro branco]]: superfície de escrita apagável para pensamento provisório.
+- [[03 artefatos/Carrinho de Compras|Carrinho de compras]]: ampliação da capacidade de transporte no autoatendimento.
+- [[03 artefatos/Braun T3|Braun T3]]: rádio portátil e síntese formal associada à Braun e a Dieter Rams.
+- [[03 artefatos/Carimbo|Carimbo]]: repetição material de marcas de validação e estado institucional.
+- [[03 artefatos/Crachá|Crachá]]: identificação visível e triagem de acesso.
+
+## Conexões
+
+A área cruza [[00 tipos de design/Design Grafico|Design gráfico]], [[00 tipos de design/Design de Interface|Design de interface]] e [[00 tipos de design/Design de Servicos|Design de serviços]]. Conceitos recorrentes incluem [[01 conceitos/Limiares|limiares]], [[01 conceitos/Tecnologias de Delimitacao|tecnologias de delimitação]], [[01 conceitos/Memoria Distribuida|memória distribuída]], [[01 conceitos/Continuidade de Acesso|continuidade de acesso]] e [[01 conceitos/Compressao do Esforco|compressão do esforço]].
+
+Esta nota deve acompanhar os artefatos que se declaram materialmente ligados ao campo. Se um novo objeto entra no índice central como design de produto, a propagação só está completa quando essa relação aparece também aqui ou é explicitamente rejeitada por uma razão editorial.
