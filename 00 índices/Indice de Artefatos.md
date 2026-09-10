@@ -10,6 +10,9 @@ Este índice organiza estudos publicados por campo de design. A classificação 
 
 ## Design de produto e mobiliário
 
+- [[03 artefatos/Bolso|Bolso]]: armazenamento acoplado ao corpo e infraestrutura cotidiana de portabilidade.
+- [[03 artefatos/Baú|Baú]]: contenção física que transforma objetos dispersos em um conjunto guardado.
+- [[03 artefatos/Cofre|Cofre]]: armazenamento que incorpora resistência, exclusão e condições de acesso.
 - [[03 artefatos/Garrafa de Agua|Garrafa de Água]]: acesso portátil à água.
 - [[03 artefatos/Tapete|Tapete]]: superfície de territorialização e limiar.
 - [[03 artefatos/Post-it|Post-it]]: memória externa reposicionável e provisória.
