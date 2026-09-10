@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-10T23:25:30.881Z",
+  "generatedAt": "2026-09-10T23:25:50.410Z",
   "scope": "Integração do grafo: índices, home, reciprocidade estrutural, tipos de design e nós órfãos. Conceitos e variáveis não exigem backlink exaustivo.",
-  "issueCount": 26,
+  "issueCount": 21,
   "countsByKind": {
     "missing-from-index": 1,
-    "missing-reciprocal-link": 23,
+    "missing-reciprocal-link": 18,
     "orphan-node": 1,
     "design-type-drift": 1
   },
@@ -41,12 +41,6 @@
     },
     {
       "kind": "missing-reciprocal-link",
-      "sourcePath": "03 artefatos/Carimbo.md",
-      "targetPath": "04 genealogias/Coordenacao e Sincronizacao.md",
-      "detail": "A ficha liga para 04 genealogias/Coordenacao e Sincronizacao.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "missing-reciprocal-link",
       "sourcePath": "03 artefatos/Checklist.md",
       "targetPath": "04 genealogias/Permanencia e Memoria Externa.md",
       "detail": "A ficha liga para 04 genealogias/Permanencia e Memoria Externa.md, mas a nota relacionada não devolve o vínculo."
@@ -68,12 +62,6 @@
       "sourcePath": "03 artefatos/Grid.md",
       "targetPath": "04 genealogias/Compressao do Esforco.md",
       "detail": "A ficha liga para 04 genealogias/Compressao do Esforco.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "missing-reciprocal-link",
-      "sourcePath": "03 artefatos/Grid.md",
-      "targetPath": "04 genealogias/Coordenacao e Sincronizacao.md",
-      "detail": "A ficha liga para 04 genealogias/Coordenacao e Sincronizacao.md, mas a nota relacionada não devolve o vínculo."
     },
     {
       "kind": "missing-reciprocal-link",
@@ -120,32 +108,14 @@
     {
       "kind": "missing-reciprocal-link",
       "sourcePath": "03 artefatos/Retrospectiva.md",
-      "targetPath": "04 genealogias/Coordenacao e Sincronizacao.md",
-      "detail": "A ficha liga para 04 genealogias/Coordenacao e Sincronizacao.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "missing-reciprocal-link",
-      "sourcePath": "03 artefatos/Retrospectiva.md",
       "targetPath": "04 genealogias/Permanencia e Memoria Externa.md",
       "detail": "A ficha liga para 04 genealogias/Permanencia e Memoria Externa.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "missing-reciprocal-link",
-      "sourcePath": "03 artefatos/Service Blueprint.md",
-      "targetPath": "04 genealogias/Coordenacao e Sincronizacao.md",
-      "detail": "A ficha liga para 04 genealogias/Coordenacao e Sincronizacao.md, mas a nota relacionada não devolve o vínculo."
     },
     {
       "kind": "missing-reciprocal-link",
       "sourcePath": "03 artefatos/Slide to Unlock.md",
       "targetPath": "04 genealogias/Compressao do Esforco.md",
       "detail": "A ficha liga para 04 genealogias/Compressao do Esforco.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "missing-reciprocal-link",
-      "sourcePath": "03 artefatos/Workshop.md",
-      "targetPath": "04 genealogias/Coordenacao e Sincronizacao.md",
-      "detail": "A ficha liga para 04 genealogias/Coordenacao e Sincronizacao.md, mas a nota relacionada não devolve o vínculo."
     },
     {
       "kind": "missing-reciprocal-link",
