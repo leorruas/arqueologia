@@ -28,6 +28,7 @@ A história da área passa pela interação com terminais, interfaces gráficas,
 - [[03 artefatos/Login|Login]]: limiar lógico de autenticação.
 - [[03 artefatos/Tela de Login|Tela de login]]: tradução visual do limiar de autenticação.
 - [[03 artefatos/Atalhos de Teclado|Atalhos de teclado]]: compressão de comandos recorrentes.
+- [[03 artefatos/Cursor|Cursor]]: representação visível do ponto de ação e de foco dentro da superfície computacional.
 - [[03 artefatos/Undo|Undo]]: reversibilidade explícita de ações.
 - [[03 artefatos/Botao Salvar|Botão salvar]]: decisão explícita de persistência.
 - [[03 artefatos/Hero Section|Hero section]]: enquadramento inicial e hierarquia de atenção.
