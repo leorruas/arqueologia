@@ -1,6 +1,7 @@
 {
-  "generatedAt": "2026-09-10T21:30:12.039Z",
+  "generatedAt": "2026-09-10T21:31:54.732Z",
   "rule": "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
+  "artifactSheetRule": "Cada artefato deve conter uma única Ficha arqueológica em tabela Campo/Registro com os 22 campos definidos no template atual.",
   "candidateCount": 23,
   "fileCount": 19,
   "files": [
@@ -226,321 +227,276 @@
       ]
     }
   ],
-  "legacyArtifactStructureCount": 42,
-  "legacyArtifactFileCount": 21,
+  "legacyArtifactStructureCount": 27,
+  "legacyArtifactFileCount": 27,
   "legacyArtifactFiles": [
     {
-      "sourcePath": "03 artefatos/Agendamento.md",
+      "sourcePath": "03 artefatos/Archive.md",
       "items": [
         {
-          "sourcePath": "03 artefatos/Agendamento.md",
+          "sourcePath": "03 artefatos/Archive.md",
           "line": null,
-          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
-        },
-        {
-          "sourcePath": "03 artefatos/Agendamento.md",
-          "line": null,
-          "text": "Referências aparecem antes da Ficha arqueológica"
+          "text": "Ficha arqueológica sem campos padrão: Produto ou contexto, Mundo antes, Consequências inesperadas, Destino ou transformação posterior, Princípio de design revelado"
         }
       ]
     },
     {
-      "sourcePath": "03 artefatos/Assinatura.md",
+      "sourcePath": "03 artefatos/Atalhos de Teclado.md",
       "items": [
         {
-          "sourcePath": "03 artefatos/Assinatura.md",
+          "sourcePath": "03 artefatos/Atalhos de Teclado.md",
           "line": null,
-          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
-        },
-        {
-          "sourcePath": "03 artefatos/Assinatura.md",
-          "line": null,
-          "text": "Referências aparecem antes da Ficha arqueológica"
+          "text": "Ficha arqueológica sem campos padrão: Produto ou contexto, Mundo antes, Consequências inesperadas, Destino ou transformação posterior, Variáveis relacionadas, Princípio de design revelado"
         }
       ]
     },
     {
-      "sourcePath": "03 artefatos/Botao Like.md",
+      "sourcePath": "03 artefatos/Botao Salvar.md",
       "items": [
         {
-          "sourcePath": "03 artefatos/Botao Like.md",
+          "sourcePath": "03 artefatos/Botao Salvar.md",
           "line": null,
-          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
-        },
-        {
-          "sourcePath": "03 artefatos/Botao Like.md",
-          "line": null,
-          "text": "Referências aparecem antes da Ficha arqueológica"
+          "text": "Ficha arqueológica sem campos padrão: Produto ou contexto, Mundo antes, Consequências inesperadas, Destino ou transformação posterior, Princípio de design revelado"
         }
       ]
     },
     {
-      "sourcePath": "03 artefatos/Calendário.md",
+      "sourcePath": "03 artefatos/Braun T3.md",
       "items": [
         {
-          "sourcePath": "03 artefatos/Calendário.md",
+          "sourcePath": "03 artefatos/Braun T3.md",
           "line": null,
-          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
-        },
-        {
-          "sourcePath": "03 artefatos/Calendário.md",
-          "line": null,
-          "text": "Referências aparecem antes da Ficha arqueológica"
+          "text": "Ficha arqueológica sem campos padrão: Produto ou contexto, Mundo antes, Consequências inesperadas, Destino ou transformação posterior, Variáveis relacionadas, Genealogia, Princípio de design revelado"
         }
       ]
     },
     {
-      "sourcePath": "03 artefatos/Carimbo.md",
+      "sourcePath": "03 artefatos/Brief.md",
       "items": [
         {
-          "sourcePath": "03 artefatos/Carimbo.md",
+          "sourcePath": "03 artefatos/Brief.md",
           "line": null,
-          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
-        },
-        {
-          "sourcePath": "03 artefatos/Carimbo.md",
-          "line": null,
-          "text": "Referências aparecem antes da Ficha arqueológica"
+          "text": "Ficha arqueológica sem campos padrão: Produto ou contexto, Mundo antes, Consequências inesperadas, Destino ou transformação posterior, Conceitos relacionados, Variáveis relacionadas, Genealogia, Princípio de design revelado"
         }
       ]
     },
     {
-      "sourcePath": "03 artefatos/Fila.md",
+      "sourcePath": "03 artefatos/Carrinho de Compras.md",
       "items": [
         {
-          "sourcePath": "03 artefatos/Fila.md",
+          "sourcePath": "03 artefatos/Carrinho de Compras.md",
           "line": null,
-          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
-        },
-        {
-          "sourcePath": "03 artefatos/Fila.md",
-          "line": null,
-          "text": "Referências aparecem antes da Ficha arqueológica"
+          "text": "Ficha arqueológica sem campos padrão: Produto ou contexto, Mundo antes, Consequências inesperadas, Destino ou transformação posterior, Princípio de design revelado"
         }
       ]
     },
     {
-      "sourcePath": "03 artefatos/Garrafa de Agua.md",
+      "sourcePath": "03 artefatos/Cartao de Embarque.md",
       "items": [
         {
-          "sourcePath": "03 artefatos/Garrafa de Agua.md",
+          "sourcePath": "03 artefatos/Cartao de Embarque.md",
           "line": null,
-          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
-        },
-        {
-          "sourcePath": "03 artefatos/Garrafa de Agua.md",
-          "line": null,
-          "text": "Referências aparecem antes da Ficha arqueológica"
+          "text": "Ficha arqueológica sem campos padrão: Produto ou contexto, Mundo antes, Consequências inesperadas, Destino ou transformação posterior, Princípio de design revelado"
         }
       ]
     },
     {
-      "sourcePath": "03 artefatos/Grid.md",
+      "sourcePath": "03 artefatos/Crachá.md",
       "items": [
         {
-          "sourcePath": "03 artefatos/Grid.md",
+          "sourcePath": "03 artefatos/Crachá.md",
           "line": null,
-          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
-        },
-        {
-          "sourcePath": "03 artefatos/Grid.md",
-          "line": null,
-          "text": "Referências aparecem antes da Ficha arqueológica"
+          "text": "Ficha arqueológica sem campos padrão: Produto ou contexto, Mundo antes, Consequências inesperadas, Destino ou transformação posterior, Variáveis relacionadas, Princípio de design revelado"
         }
       ]
     },
     {
-      "sourcePath": "03 artefatos/Helvetica.md",
+      "sourcePath": "03 artefatos/Espaço entre Palavras.md",
       "items": [
         {
-          "sourcePath": "03 artefatos/Helvetica.md",
+          "sourcePath": "03 artefatos/Espaço entre Palavras.md",
           "line": null,
-          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
-        },
-        {
-          "sourcePath": "03 artefatos/Helvetica.md",
-          "line": null,
-          "text": "Referências aparecem antes da Ficha arqueológica"
+          "text": "Ficha arqueológica sem campos padrão: Produto ou contexto, Mundo antes, Consequências inesperadas, Destino ou transformação posterior, Variáveis relacionadas, Genealogia, Princípio de design revelado"
         }
       ]
     },
     {
-      "sourcePath": "03 artefatos/Hero Section.md",
+      "sourcePath": "03 artefatos/Hipótese Científica.md",
       "items": [
         {
-          "sourcePath": "03 artefatos/Hero Section.md",
+          "sourcePath": "03 artefatos/Hipótese Científica.md",
           "line": null,
-          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
-        },
-        {
-          "sourcePath": "03 artefatos/Hero Section.md",
-          "line": null,
-          "text": "Referências aparecem antes da Ficha arqueológica"
+          "text": "Ficha arqueológica sem campos padrão: Produto ou contexto, Mundo antes, Consequências inesperadas, Destino ou transformação posterior, Conceitos relacionados, Variáveis relacionadas, Genealogia, Princípio de design revelado"
         }
       ]
     },
     {
-      "sourcePath": "03 artefatos/Infinite Scroll.md",
+      "sourcePath": "03 artefatos/Jobs to Be Done.md",
       "items": [
         {
-          "sourcePath": "03 artefatos/Infinite Scroll.md",
+          "sourcePath": "03 artefatos/Jobs to Be Done.md",
           "line": null,
-          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
-        },
-        {
-          "sourcePath": "03 artefatos/Infinite Scroll.md",
-          "line": null,
-          "text": "Referências aparecem antes da Ficha arqueológica"
+          "text": "Ficha arqueológica sem campos padrão: Produto ou contexto, Mundo antes, Consequências inesperadas, Destino ou transformação posterior, Variáveis relacionadas, Genealogia, Princípio de design revelado"
         }
       ]
     },
     {
-      "sourcePath": "03 artefatos/Kanban.md",
+      "sourcePath": "03 artefatos/Justificativa de Valor Público.md",
       "items": [
         {
-          "sourcePath": "03 artefatos/Kanban.md",
+          "sourcePath": "03 artefatos/Justificativa de Valor Público.md",
           "line": null,
-          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
-        },
-        {
-          "sourcePath": "03 artefatos/Kanban.md",
-          "line": null,
-          "text": "Referências aparecem antes da Ficha arqueológica"
+          "text": "Ficha arqueológica sem campos padrão: Produto ou contexto, Mundo antes, Consequências inesperadas, Destino ou transformação posterior, Variáveis relacionadas, Genealogia, Princípio de design revelado"
         }
       ]
     },
     {
-      "sourcePath": "03 artefatos/Número de Protocolo.md",
+      "sourcePath": "03 artefatos/Login.md",
       "items": [
         {
-          "sourcePath": "03 artefatos/Número de Protocolo.md",
+          "sourcePath": "03 artefatos/Login.md",
           "line": null,
-          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
-        },
-        {
-          "sourcePath": "03 artefatos/Número de Protocolo.md",
-          "line": null,
-          "text": "Referências aparecem antes da Ficha arqueológica"
+          "text": "Ficha arqueológica sem campos padrão: Produto ou contexto, Mundo antes, Consequências inesperadas, Destino ou transformação posterior, Variáveis relacionadas, Princípio de design revelado"
         }
       ]
     },
     {
-      "sourcePath": "03 artefatos/Pinch to Zoom.md",
+      "sourcePath": "03 artefatos/Manifesto.md",
       "items": [
         {
-          "sourcePath": "03 artefatos/Pinch to Zoom.md",
+          "sourcePath": "03 artefatos/Manifesto.md",
           "line": null,
-          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
-        },
-        {
-          "sourcePath": "03 artefatos/Pinch to Zoom.md",
-          "line": null,
-          "text": "Referências aparecem antes da Ficha arqueológica"
+          "text": "Ficha arqueológica sem campos padrão: Produto ou contexto, Mundo antes, Consequências inesperadas, Destino ou transformação posterior, Variáveis relacionadas, Genealogia, Princípio de design revelado"
         }
       ]
     },
     {
-      "sourcePath": "03 artefatos/Quadro Branco.md",
+      "sourcePath": "03 artefatos/Mascote.md",
       "items": [
         {
-          "sourcePath": "03 artefatos/Quadro Branco.md",
+          "sourcePath": "03 artefatos/Mascote.md",
           "line": null,
-          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
-        },
-        {
-          "sourcePath": "03 artefatos/Quadro Branco.md",
-          "line": null,
-          "text": "Referências aparecem antes da Ficha arqueológica"
+          "text": "Ficha arqueológica sem campos padrão: Produto ou contexto, Mundo antes, Consequências inesperadas, Destino ou transformação posterior, Variáveis relacionadas, Genealogia, Princípio de design revelado"
         }
       ]
     },
     {
-      "sourcePath": "03 artefatos/Retrospectiva.md",
+      "sourcePath": "03 artefatos/Matriz RACI.md",
       "items": [
         {
-          "sourcePath": "03 artefatos/Retrospectiva.md",
+          "sourcePath": "03 artefatos/Matriz RACI.md",
           "line": null,
-          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
-        },
-        {
-          "sourcePath": "03 artefatos/Retrospectiva.md",
-          "line": null,
-          "text": "Referências aparecem antes da Ficha arqueológica"
+          "text": "Ficha arqueológica sem campos padrão: Produto ou contexto, Mundo antes, Consequências inesperadas, Destino ou transformação posterior, Conceitos relacionados, Variáveis relacionadas, Genealogia, Princípio de design revelado"
         }
       ]
     },
     {
-      "sourcePath": "03 artefatos/Slide to Unlock.md",
+      "sourcePath": "03 artefatos/North Star.md",
       "items": [
         {
-          "sourcePath": "03 artefatos/Slide to Unlock.md",
+          "sourcePath": "03 artefatos/North Star.md",
           "line": null,
-          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
-        },
-        {
-          "sourcePath": "03 artefatos/Slide to Unlock.md",
-          "line": null,
-          "text": "Referências aparecem antes da Ficha arqueológica"
+          "text": "Ficha arqueológica sem campos padrão: Produto ou contexto, Mundo antes, Consequências inesperadas, Destino ou transformação posterior, Conceitos relacionados, Variáveis relacionadas, Genealogia, Princípio de design revelado"
         }
       ]
     },
     {
-      "sourcePath": "03 artefatos/Tapete.md",
+      "sourcePath": "03 artefatos/Pergunta de Pesquisa.md",
       "items": [
         {
-          "sourcePath": "03 artefatos/Tapete.md",
+          "sourcePath": "03 artefatos/Pergunta de Pesquisa.md",
           "line": null,
-          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
-        },
-        {
-          "sourcePath": "03 artefatos/Tapete.md",
-          "line": null,
-          "text": "Referências aparecem antes da Ficha arqueológica"
+          "text": "Ficha arqueológica sem campos padrão: Produto ou contexto, Mundo antes, Consequências inesperadas, Destino ou transformação posterior, Conceitos relacionados, Variáveis relacionadas, Genealogia, Princípio de design revelado"
         }
       ]
     },
     {
-      "sourcePath": "03 artefatos/Undo Send.md",
+      "sourcePath": "03 artefatos/Pergunta.md",
       "items": [
         {
-          "sourcePath": "03 artefatos/Undo Send.md",
+          "sourcePath": "03 artefatos/Pergunta.md",
           "line": null,
-          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
-        },
-        {
-          "sourcePath": "03 artefatos/Undo Send.md",
-          "line": null,
-          "text": "Referências aparecem antes da Ficha arqueológica"
+          "text": "Ficha arqueológica sem campos padrão: Produto ou contexto, Mundo antes, Consequências inesperadas, Destino ou transformação posterior, Variáveis relacionadas, Genealogia, Princípio de design revelado"
         }
       ]
     },
     {
-      "sourcePath": "03 artefatos/Undo.md",
+      "sourcePath": "03 artefatos/Portfólio.md",
       "items": [
         {
-          "sourcePath": "03 artefatos/Undo.md",
+          "sourcePath": "03 artefatos/Portfólio.md",
           "line": null,
-          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
-        },
-        {
-          "sourcePath": "03 artefatos/Undo.md",
-          "line": null,
-          "text": "Referências aparecem antes da Ficha arqueológica"
+          "text": "Ficha arqueológica sem campos padrão: Produto ou contexto, Mundo antes, Consequências inesperadas, Destino ou transformação posterior, Conceitos relacionados, Variáveis relacionadas, Genealogia, Princípio de design revelado"
         }
       ]
     },
     {
-      "sourcePath": "03 artefatos/Workshop.md",
+      "sourcePath": "03 artefatos/Princípio.md",
       "items": [
         {
-          "sourcePath": "03 artefatos/Workshop.md",
+          "sourcePath": "03 artefatos/Princípio.md",
           "line": null,
-          "text": "Referências ainda usam lista numerada em vez de notas de rodapé"
-        },
+          "text": "Ficha arqueológica sem campos padrão: Produto ou contexto, Mundo antes, Consequências inesperadas, Destino ou transformação posterior, Conceitos relacionados, Variáveis relacionadas, Genealogia, Princípio de design revelado"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Problema de Design.md",
+      "items": [
         {
-          "sourcePath": "03 artefatos/Workshop.md",
+          "sourcePath": "03 artefatos/Problema de Design.md",
           "line": null,
-          "text": "Referências aparecem antes da Ficha arqueológica"
+          "text": "Ficha arqueológica sem campos padrão: Produto ou contexto, Mundo antes, Consequências inesperadas, Destino ou transformação posterior, Conceitos relacionados, Variáveis relacionadas, Genealogia, Princípio de design revelado"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Projeto Piloto.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Projeto Piloto.md",
+          "line": null,
+          "text": "Ficha arqueológica sem campos padrão: Produto ou contexto, Mundo antes, Consequências inesperadas, Destino ou transformação posterior, Variáveis relacionadas, Genealogia, Princípio de design revelado"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Prompt Conversacional.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Prompt Conversacional.md",
+          "line": null,
+          "text": "Ficha arqueológica sem campos padrão: Produto ou contexto, Mundo antes, Consequências inesperadas, Destino ou transformação posterior, Variáveis relacionadas, Genealogia, Princípio de design revelado"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Value Proposition Ad Lib.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Value Proposition Ad Lib.md",
+          "line": null,
+          "text": "Ficha arqueológica sem campos padrão: Produto ou contexto, Mundo antes, Consequências inesperadas, Destino ou transformação posterior, Variáveis relacionadas, Genealogia, Princípio de design revelado"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Visão.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Visão.md",
+          "line": null,
+          "text": "Ficha arqueológica sem campos padrão: Produto ou contexto, Mundo antes, Consequências inesperadas, Destino ou transformação posterior, Conceitos relacionados, Variáveis relacionadas, Genealogia, Princípio de design revelado"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Wicked Problem.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Wicked Problem.md",
+          "line": null,
+          "text": "Ficha arqueológica sem campos padrão: Produto ou contexto, Mundo antes, Consequências inesperadas, Destino ou transformação posterior, Conceitos relacionados, Variáveis relacionadas, Genealogia, Princípio de design revelado"
         }
       ]
     }
