@@ -10,49 +10,48 @@ tags:
 
 # {{title}}
 
-[Defina a variável como algo que pode aumentar, diminuir ou ser redistribuído por decisões de design. Se não houver um eixo comparável razoável, considere mover a ideia para `01 conceitos/`.]
+[Abra com uma situação concreta em que esta variável muda. Explique por que ela é útil como eixo comparável e não apenas como conceito abstrato.]
 
-## Eixo
+[Defina a variável como algo que pode aumentar, diminuir ou ser redistribuído por decisões de design. Se não houver um eixo observável razoável, considere mover a ideia para `01 conceitos/`.]
 
-**[Polo A] ↔ [Polo B]**
+## [Título editorial: o que realmente muda]
 
-Explique o que significa deslocar uma experiência em cada direção e evite tratar um dos polos como universalmente melhor.
+Explique os polos do eixo em narrativa. Evite tratar um deles como universalmente desejável.
 
-## Como observar
+**Eixo:** [Polo A] ↔ [Polo B]
 
-[Que sinais qualitativos ou quantitativos indicam mudança nesta variável? Que comportamento, tempo, erro, esforço, escolha ou resultado poderia ser observado?]
+Mostre o que significa deslocar uma experiência em cada direção e, se necessário, distinga esta variável de outras próximas.
 
-## Impacto nos artefatos
+## [Título editorial: como perceber a mudança]
 
-### Aumenta a variável
+Explique quais sinais qualitativos ou quantitativos podem indicar deslocamento no eixo: tempo, passos, busca, erro, atenção, reversão, previsibilidade, percepção de justiça ou outro comportamento observável.
 
-- [[03 artefatos/|Artefato 1]]: [mecanismo]
+Use exemplos concretos de artefatos já estudados. Integre aumentos, reduções e redistribuições em prosa; não crie três blocos fixos se o argumento puder ser mais claro em narrativa.
 
-### Reduz a variável
+## [Título editorial: tensões e custos]
 
-- [[03 artefatos/|Artefato 2]]: [mecanismo]
+Mostre trade-offs. Uma variável não é meta isolada de otimização. Reduzir custo pode aumentar risco; elevar previsibilidade pode reduzir adaptação; aumentar reversibilidade pode alterar compromisso.
 
-### Redistribui a variável
+Quando uma relação causal não estiver demonstrada, marque-a como hipótese.
 
-- [[03 artefatos/|Artefato 3]]: [quem recebe mais ou menos desta variável]
+## [Título editorial opcional: relações]
 
-## Relações e tensões
+Conecte a conceitos, genealogias e outras variáveis somente quando isso acrescentar uma distinção real. Preserve a natureza do parentesco e evite transformar correlação em descendência ou causalidade.
 
-[Que outras variáveis mudam junto? Há trade-offs? Exemplo: aumentar reversibilidade pode reduzir custo do erro, mas também adiar fechamento ou decisão.]
+## Ficha da variável
 
-## Conceitos relacionados
+| Campo | Registro |
+|---|---|
+| **Variável** | {{title}} |
+| **Eixo** | [Polo A ↔ Polo B] |
+| **Definição operacional** | [o que muda] |
+| **Como observar** | [indícios ou medidas] |
+| **O que não mede sozinho** | [limite principal] |
+| **Trade-offs principais** | [tensões] |
+| **Artefatos-chave** | [[03 artefatos/|Artefato 1]], [[03 artefatos/|Artefato 2]] |
+| **Conceitos relacionados** | [[01 conceitos/|Conceito]] |
+| **Genealogias relacionadas** | [[04 genealogias/|Genealogia]] |
 
-- [[01 conceitos/|Conceito]]
+## Referências
 
-## Genealogias relacionadas
-
-- [[04 genealogias/|Genealogia]]
-
-### Ficha Resumo da Variável
-
-- **Nome da variável**: {{title}}
-- **Eixo**: [Polo A ↔ Polo B]
-- **Definição operacional**: [o que muda]
-- **Como observar**: [indícios ou medidas]
-- **Trade-offs principais**: [tensões]
-- **Artefatos chave**: [[03 artefatos/|Artefato 1]], [[03 artefatos/|Artefato 2]]
+[Inclua apenas fontes que sustentem a definição operacional, antecedentes teóricos ou relações empíricas realmente usadas no texto. Se a variável for uma operacionalização própria do projeto, declare isso e use literatura apenas como antecedente, não como autoria da formulação.]
