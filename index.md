@@ -30,6 +30,7 @@ Use esta lente para atravessar disciplinas e seguir uma mesma hipótese de desig
 - [[04 genealogias/Permanencia e Memoria Externa|Permanência e Memória Externa]]
 - [[04 genealogias/Limiares e Delimitacao|Limiares e Delimitação]]
 - [[04 genealogias/Acesso e Disponibilidade|Acesso e Disponibilidade]]
+- [[04 genealogias/Portabilidade e Desancoragem|Portabilidade e Desancoragem]]
 - [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e Sincronização]]
 - [[04 genealogias/Atencao e Recompensa|Atenção e Recompensa]]
 - [[04 genealogias/Reversibilidade e Custo do Erro|Reversibilidade e Custo do Erro]]
