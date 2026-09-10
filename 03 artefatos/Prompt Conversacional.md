@@ -1,6 +1,7 @@
 ---
 title: "Prompt conversacional"
 type: "artefato"
+status: "publicado"
 tags:
   - design/artefato
   - arqueologia
@@ -8,53 +9,107 @@ tags:
 
 # Prompt conversacional
 
-O **Prompt Conversacional** é uma metainterface textual baseada em linguagem natural que substitui controles visuais predefinidos (menus, botões, fluxos) por uma caixa de entrada vazia, permitindo que usuários formulem intenções, instruam operações computacionais e validem resultados iterativamente por meio do diálogo.
+Uma caixa de texto vazia parece a interface mais simples possível. Quase nada foi decidido por quem desenhou a tela: não há catálogo completo de ações, sequência fixa de menus nem formulário capaz de antecipar todas as intenções.
 
-## Ficha técnica
-- **Criador(es)**: Pesquisadores de computação interativa; Joseph Weizenbaum (ELIZA); cientistas da computação responsáveis pela arquitetura Transformer e modelos ajustados por instruções (InstructGPT)
-- **Empresa/Fabricante**: OpenAI e desenvolvedores de modelos de linguagem generativa
-- **Ano de Lançamento**: Popularizado em escala global em 2022 (com o ChatGPT)
-- **Materiais/Mídia**: Interface digital, código de software (NLP/LLM), campos de texto web/mobile
-- **Tipo de Design**: [[00 tipos de design/Design de Interface|Design de Interface]]
+Mas essa ausência de controles não elimina o design. Ela transfere parte dele para o usuário.
 
-## História e contexto de criação
-- **Demanda / Problema**: Como permitir que humanos operem sistemas e executem tarefas complexas sem precisar aprender linguagens de programação formais ou navegar por menus rígidos que antecipam poucas opções? O prompt surge para viabilizar a especificação direta de intenções em linguagem cotidiana.
-- **O Mundo Antes da Inovação**: O usuário estava preso entre a linha de comando clássica (que exigia sintaxe exata e memorização de vocabulário de máquina) e a interface gráfica clássica (que reduzia a carga de memória, mas limitava o escopo de ação às decisões e botões previamente desenhados pelo designer).
+O **prompt conversacional** é interessante justamente por isso. Para pedir algo a um sistema generativo, a pessoa precisa transformar uma intenção ainda vaga em linguagem: explicar objetivo, contexto, restrições, exemplos, tom e formato. Aquilo que um formulário distribuiria em campos passa a precisar ser formulado dentro da própria conversa.
 
-## Inovação e impacto
-- **Ampliação de Capacidade**: Amplia drasticamente o alcance e a flexibilidade das operações de software, permitindo que o usuário crie tarefas sem botões preexistentes simplesmente descrevendo-as na caixa de entrada.
-- **Enfraquecimento de Capacidade**: Enfraquece a orientação intuitiva fornecida pelo reconhecimento visual. A ausência de botões remove as pistas sobre os limites e capacidades do sistema, aumentando a incerteza operacional do usuário.
-- **Comportamento Coletivo**: Gerou o hábito social de conversar com softwares, iterar sobre o trabalho de máquinas por meio do feedback escrito ("regenerar", "mudar o tom") e estudar a engenharia de prompts como competência técnica de articulação lógica.
-- **Linhagem e Descendência**: Descendente da linha de comando, da barra de busca dos navegadores e de sistemas conversacionais antigos como o ELIZA (1966). Antepassado de sistemas híbridos de design generativo e assistentes autônomos multiagentes.
-- **Custo Invisível**: Transferência da carga de design e estruturação de dados da máquina para o usuário. Para obter resultados consistentes, o usuário deve "projetar os campos" cognitivamente, antecipando o contexto, tom e formato nas frases, sob pena de receber respostas inúteis.
+A caixa vazia é menos uma ausência de interface do que uma **metainterface para construir interfaces temporárias por linguagem**.
 
-## Referências e onde encontrar
-- **Acervos**: Demonstrações históricas de IHC, o repositório da arquitetura Transformer da Google (2017) e o lançamento do ChatGPT (2022).
-- **Leituras**: *Attention Is All You Need* (Google Research, 2017) e artigos científicos sobre o InstructGPT (2022).
+## Antes do prompt existir como conversa
 
----
+Computadores já recebiam instruções textuais muito antes dos LLMs. Interfaces de linha de comando permitiam descrever operações por palavras e parâmetros, mas exigiam vocabulário e sintaxe definidos previamente. A flexibilidade era grande apenas dentro da gramática formal que o sistema conseguia interpretar.
 
-### Ficha resumo
+Também houve sistemas conversacionais muito antes da IA generativa contemporânea. Joseph Weizenbaum desenvolveu ELIZA no MIT entre 1965 e 1966. Seu famoso script DOCTOR produzia a aparência de diálogo por regras de transformação textual, sem a capacidade semântica aberta dos modelos atuais.[^1]
 
-- **Nome do artefato**: Prompt Conversacional
-- **Categoria**: Interface Digital
-- **Período aproximado**: Popularizado em 2022
-- **Pessoas ou equipes envolvidas**: Joseph Weizenbaum, pesquisadores de computadores interativos, equipes de LLM e produto da OpenAI
-- **Produto onde apareceu**: ChatGPT, InstructGPT, ELIZA (antecedente histórico)
-- **Problema original**: Executar operações flexíveis e variadas sem a rigidez de interfaces de botões estáticos ou complexidade de código formal
-- **Hipótese sobre a natureza humana**: Humanos preferem explicar o que querem por meio de linguagem descritiva incremental do que memorizar códigos de comandos de sistemas ou clicar por sequências longas de menus
-- **Relação de poder**: Decentraliza a criação de comandos ao empoderar o usuário linguístico, mas concentra o poder interpretativo na caixa preta opaca do modelo de IA corporativo, gerando dependência epistêmica e exigindo que o humano adapte sua linguagem natural às heurísticas de interpretação probabilística da máquina (engenharia de prompt)
-- **Mundo antes da inovação**: Interfaces gráficas controladas por designers (menus e botões rígidos) e interfaces de código restritas a programadores
-- **A ideia que mudou tudo**: Oferecer uma caixa de texto livre que processa instruções semânticas em vez de comandos estruturados rígidos, interpretando o contexto por mecanismos de atenção
-- **Comportamento aproveitado**: Dialogar, delegar tarefas por briefing, instruir, dar exemplos e corrigir o trabalho alheio
-- **Comportamento criado**: Desenvolver heurísticas de escrita técnica para interagir com IA (prompts estruturados), monitorar respostas probabilisticamente instáveis e iterar conversando com o software
-- **Por que funcionou**: Eliminou a fricção inicial de uso, pois o usuário já sabe se comunicar linguisticamente, permitindo que a especificação da tarefa ocorra de forma processual e incremental
-- **Consequências inesperadas**: Ansiedade do cursor piscante em uma caixa vazia, ilusão de competência racional atribuída ao sistema com base apenas em sua fluência gramatical (efeito ELIZA) e sobrecarga cognitiva do usuário para validar alucinações
-- **Legado**: Consolidou a interface de conversação como o padrão da computação de inteligência artificial generativa
-- **Conceitos relacionados**: [[01 conceitos/Formulação|Formulação]], [[01 conceitos/Antropomorfismo|Antropomorfismo]], [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção Boa vs Fricção Ruim]], [[01 conceitos/Compressao do Esforco|Compressão do Esforço]]
-- **Família de ideias**: Metainterfaces e computação baseada em intenções
-- **Parentes**: [[03 artefatos/Tela de Login|Tela de Login]], [[03 artefatos/Atalhos de Teclado|Atalhos de Teclado]], [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Brief|Brief]]
-- **Hipótese central**: A simplicidade visual da caixa de texto do prompt esconde o deslocamento do design operacional para a capacidade formulativa da linguagem do usuário
-- **Princípio de design revelado**: A universalidade semântica da entrada exige o esforço cognitivo do usuário na curadoria das restrições e validação dos resultados
-- **Destino do artefato**: Evolui como o núcleo de sistemas generativos, sendo cercado por controles híbridos e automatizado por agentes que começam a agir autonomamente a partir de instruções curtas
-- **Perguntas em aberto**: Como reduzir a barreira de engenharia de prompt sem comprometer a flexibilidade aberta que define a caixa de conversação?
+ELIZA é um antecedente importante não porque o prompt de LLM descenda diretamente dele, mas porque revelou cedo uma propriedade da interação humana com linguagem computacional: **fluência conversacional pode levar pessoas a atribuir compreensão, intenção e presença a mecanismos muito mais limitados do que parecem**.
+
+A barra de busca constitui outro parente funcional. Ela também recebe linguagem relativamente livre e tenta transformar formulação humana em recuperação de informação. O prompt generativo amplia a operação: em vez de apenas localizar um item existente, o sistema pode sintetizar, transformar e produzir respostas novas.
+
+## Quando instrução virou uma capacidade central do modelo
+
+A arquitetura Transformer apresentada em 2017 é uma parte importante da infraestrutura que possibilita os grandes modelos de linguagem contemporâneos, mas não “inventa o prompt”.[^2] Outro passo relevante foi o refinamento de modelos para seguir instruções expressas em linguagem natural.
+
+Em 2022, o trabalho sobre InstructGPT descreveu modelos ajustados com feedback humano para responder melhor às intenções expressas em prompts.[^3] Em 30 de novembro do mesmo ano, o ChatGPT foi lançado publicamente com uma diferença de interface especialmente importante: o prompt não era uma solicitação isolada. Ele fazia parte de um diálogo capaz de manter contexto e receber perguntas e correções posteriores.[^4]
+
+Isso transforma a interação. O usuário não precisa especificar tudo perfeitamente de uma vez. Pode dizer “não era isso”, adicionar uma restrição, pedir outro formato ou mostrar um exemplo.
+
+O comando se torna negociação iterativa.
+
+## A GUI mostrava possibilidades; a conversa exige imaginá-las
+
+Menus e botões têm uma vantagem poderosa: mostram parte do que é possível fazer. Uma caixa vazia oferece pouca orientação sobre seu espaço de possibilidades.
+
+Esse é um deslocamento de [[02 variaveis/Custo de Busca|custo de busca]]. Em uma GUI, o usuário procura a ação entre controles desenhados previamente. Em uma interface conversacional, precisa muitas vezes imaginar que a ação é possível antes de formulá-la.
+
+Isso explica a sensação conhecida do cursor piscando diante de uma caixa vazia. A interface parece oferecer liberdade total, mas liberdade sem catálogo também produz incerteza.
+
+A promessa de “basta dizer o que você quer” esconde que querer não é sempre uma instrução suficientemente definida. Usuários precisam descobrir quais detalhes alteram o resultado, que contexto fornecer e como reconhecer uma resposta ruim.
+
+É por isso que o prompt se conecta a [[01 conceitos/Formulação|Formulação]] e a artefatos como [[03 artefatos/Brief|Brief]] e [[03 artefatos/Jobs to Be Done|Jobs to Be Done]]. Todos transformam intenção em estrutura comunicável, embora para interlocutores e finalidades diferentes.
+
+## O design operacional mudou de lugar
+
+Um formulário obriga o designer a decidir antecipadamente quais informações importam. Campo de data, quantidade, endereço e categoria já contêm uma teoria sobre o problema.
+
+No prompt aberto, parte dessa estrutura precisa ser reconstruída linguisticamente. O usuário pode dizer “reescreva este texto para uma diretoria, mantendo os dados e reduzindo para três parágrafos”. Acabou de especificar operação, público, restrição de conteúdo e formato sem tocar em quatro controles diferentes.
+
+Essa capacidade produz enorme [[01 conceitos/Compressao do Esforco|Compressão do esforço]] quando a intenção está clara. Uma sequência de operações pode caber numa frase.
+
+Mas o custo não desaparece. Ele muda de natureza. O usuário passa a realizar trabalho de formulação e, principalmente, de validação. Como a saída é probabilística e pode parecer convincente mesmo quando está errada, compreender o pedido não basta: é preciso julgar a resposta.
+
+## Conversar facilita antropomorfizar
+
+Uma interface baseada em turnos de fala usa um comportamento humano antiquíssimo: delegar, explicar, corrigir e negociar por linguagem.
+
+Isso reduz a aprendizagem inicial porque conversar já faz parte do repertório humano. Também aumenta o risco de confundir forma social com capacidade cognitiva.
+
+Aqui o parentesco com [[01 conceitos/Antropomorfismo|Antropomorfismo]] e com [[03 artefatos/Mascote|Mascote]] fica especialmente produtivo. Um mascote dá rosto a uma instituição. Uma interface conversacional pode dar **voz responsiva** a um sistema.
+
+O chamado efeito ELIZA é importante como alerta histórico: pessoas podem interpretar respostas linguísticas como sinais de compreensão profunda mesmo quando o mecanismo não sustenta essa interpretação.[^1]
+
+Com LLMs, a capacidade é muito maior do que no ELIZA, mas o problema semiótico permanece: a fluência da forma não é garantia de verdade, intenção ou consciência.
+
+## Quem ganhou poder quando o menu desapareceu?
+
+O prompt parece descentralizar o design porque permite ao usuário formular operações que ninguém precisou transformar antes em botão. Isso amplia muito o espaço de ação.
+
+Ao mesmo tempo, concentra poder interpretativo no modelo e na infraestrutura que o produz. O usuário sabe o que escreveu, mas não controla integralmente como aquela formulação será interpretada, quais contextos internos atuarão sobre ela nem por que uma resposta específica apareceu.
+
+A relação de poder é, portanto, dupla. O usuário ganha liberdade para especificar intenções; perde parte da previsibilidade que interfaces determinísticas forneciam.
+
+Os controles híbridos que vêm cercando interfaces generativas — sugestões, modos, anexos, ferramentas, campos estruturados e ações rápidas — podem ser lidos como resposta a esse problema. Depois de remover quase todos os controles, o design começa a devolvê-los seletivamente onde a liberdade da linguagem produz ambiguidade demais.
+
+Talvez o prompt conversacional não seja o fim da interface gráfica. Seja um novo centro em torno do qual controles reaparecem.
+
+## Ficha arqueológica
+
+| Campo | Registro |
+|---|---|
+| **Artefato** | Prompt conversacional |
+| **Período** | Antecedentes em comandos, busca e conversação computacional; popularização massiva com interfaces de LLM a partir de 2022 |
+| **Autoria** | Distribuída; não há inventor único do prompt conversacional contemporâneo |
+| **Problema original** | Permitir especificar uma variedade grande de intenções sem antecipá-las todas em controles fixos |
+| **Invenção** | Entrada textual e diálogo computacional antecedem LLMs |
+| **Refinamento** | Modelos capazes de seguir instruções e manter interação contextual em múltiplos turnos |
+| **Popularização** | ChatGPT e outras interfaces generativas a partir de 2022 |
+| **Padronização** | Caixa de conversa cercada progressivamente por controles multimodais, ferramentas e sugestões |
+| **Comportamento aproveitado** | Explicar, delegar, exemplificar, corrigir e negociar tarefas por linguagem |
+| **Comportamento produzido** | Iterar com software por diálogo, desenvolver repertórios de prompting e validar saídas probabilísticas |
+| **Hipótese de design** | Linguagem natural pode funcionar como camada flexível de especificação para operações que não foram previamente transformadas em controles |
+| **Relação de poder** | Amplia liberdade de formulação do usuário, mas concentra interpretação e geração numa infraestrutura opaca e probabilística |
+| **Custo invisível** | Ansiedade diante da caixa vazia, esforço de formulação, imprevisibilidade e necessidade contínua de validar respostas plausíveis |
+| **Conceitos relacionados** | [[01 conceitos/Formulação|Formulação]], [[01 conceitos/Antropomorfismo|Antropomorfismo]], [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção boa vs fricção ruim]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]] |
+| **Parentes** | interface de linha de comando, barra de busca, ELIZA, [[03 artefatos/Brief|Brief]], [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Mascote|Mascote]] |
+| **Questão em aberto** | Quanto da liberdade do prompt continuará aberta quando interfaces generativas amadurecerem e voltarem a incorporar estruturas visíveis para reduzir ambiguidade? |
+
+## Referências
+
+[^1]: Weizenbaum, Joseph. “ELIZA—A Computer Program for the Study of Natural Language Communication between Man and Machine”. *Communications of the ACM*, 1966; MIT Archives, *Computer conversations, 1965*. Fontes históricas do sistema ELIZA e do script DOCTOR.
+
+[^2]: Vaswani, Ashish et al. “Attention Is All You Need”. 2017. Artigo que apresenta a arquitetura Transformer.
+
+[^3]: Ouyang, Long et al. “Training language models to follow instructions with human feedback”. 2022. Trabalho sobre InstructGPT e ajuste de modelos para seguir intenções expressas em prompts.
+
+[^4]: OpenAI. “Introducing ChatGPT”. 30 nov. 2022. O anúncio público descreve explicitamente o formato de diálogo, perguntas de acompanhamento e relação com InstructGPT.
