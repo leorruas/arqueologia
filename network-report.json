@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-10T23:25:08.861Z",
+  "generatedAt": "2026-09-10T23:25:30.881Z",
   "scope": "Integração do grafo: índices, home, reciprocidade estrutural, tipos de design e nós órfãos. Conceitos e variáveis não exigem backlink exaustivo.",
-  "issueCount": 29,
+  "issueCount": 26,
   "countsByKind": {
     "missing-from-index": 1,
-    "missing-reciprocal-link": 26,
+    "missing-reciprocal-link": 23,
     "orphan-node": 1,
     "design-type-drift": 1
   },
@@ -20,12 +20,6 @@
       "sourcePath": "03 artefatos/App de tracking de gastos.md",
       "targetPath": "04 genealogias/Permanencia e Memoria Externa.md",
       "detail": "A ficha liga para 04 genealogias/Permanencia e Memoria Externa.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "missing-reciprocal-link",
-      "sourcePath": "03 artefatos/Assinatura.md",
-      "targetPath": "04 genealogias/Limiares e Delimitacao.md",
-      "detail": "A ficha liga para 04 genealogias/Limiares e Delimitacao.md, mas a nota relacionada não devolve o vínculo."
     },
     {
       "kind": "missing-reciprocal-link",
@@ -65,12 +59,6 @@
     },
     {
       "kind": "missing-reciprocal-link",
-      "sourcePath": "03 artefatos/Cofre.md",
-      "targetPath": "04 genealogias/Limiares e Delimitacao.md",
-      "detail": "A ficha liga para 04 genealogias/Limiares e Delimitacao.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "missing-reciprocal-link",
       "sourcePath": "03 artefatos/Espaço entre Palavras.md",
       "targetPath": "00 tipos de design/Tipografia.md",
       "detail": "A ficha liga para 00 tipos de design/Tipografia.md, mas a nota relacionada não devolve o vínculo."
@@ -92,12 +80,6 @@
       "sourcePath": "03 artefatos/Helvetica.md",
       "targetPath": "04 genealogias/Compressao do Esforco.md",
       "detail": "A ficha liga para 04 genealogias/Compressao do Esforco.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "missing-reciprocal-link",
-      "sourcePath": "03 artefatos/Hero Section.md",
-      "targetPath": "04 genealogias/Limiares e Delimitacao.md",
-      "detail": "A ficha liga para 04 genealogias/Limiares e Delimitacao.md, mas a nota relacionada não devolve o vínculo."
     },
     {
       "kind": "missing-reciprocal-link",
