@@ -11,41 +11,35 @@ tags:
 
 Muitas soluções de design parecem inovadoras porque tornam uma ação nova possível. Mas uma parte talvez mais comum da inovação acontece de outro modo: a pessoa já sabia o que queria fazer, e o artefato simplesmente retirou passos do caminho.
 
-Essa genealogia investiga essa operação. Um atalho de teclado, um carrinho de compras, um controle remoto, um gesto de atualização, um checklist, um quadro Kanban e um Service Blueprint não têm a mesma história. O parentesco está em comprimir uma sequência de movimentos, decisões, lembranças, inferências ou coordenação em uma estrutura que exige menos operações conscientes.
+Essa genealogia investiga essa operação. Atalhos de teclado, carrinhos, controles remotos, grids, gestos, tipografias, carimbos e representações de serviço não têm a mesma história. O parentesco está em comprimir movimentos, decisões, lembranças, inferências ou coordenação em uma estrutura que exige menos operações conscientes.
 
 ## Quando vários passos viram uma estrutura menor
 
-[[03 artefatos/Atalhos de Teclado|Atalhos de teclado]] condensam uma sequência de navegação em poucas teclas. Em vez de procurar um comando, abrir um menu e selecioná-lo, a pessoa pode acionar diretamente uma função que já conhece. A economia é operacional, mas também perceptiva: desaparece parte da busca pela interface.
+[[03 artefatos/Atalhos de Teclado|Atalhos de teclado]] condensam navegação em poucas teclas. O [[03 artefatos/Carrinho de Compras|carrinho de compras]] reduz esforço de transporte. O [[03 artefatos/Controle Remoto|controle remoto]] retira deslocamento corporal entre intenção e comando.
 
-O [[03 artefatos/Carrinho de Compras|carrinho de compras]] produz uma compressão física semelhante. Ele permite acumular objetos sem carregá-los individualmente nos braços e transforma várias pequenas decisões de transporte em uma única infraestrutura móvel. O comportamento de escolher produtos já existia; o artefato aumenta a quantidade e o tempo durante os quais essa escolha pode continuar.
+[[03 artefatos/Pull to Refresh|Pull to Refresh]], [[03 artefatos/Pinch to Zoom|Pinch to Zoom]] e [[03 artefatos/Slide to Unlock|Slide to Unlock]] mostram a mesma lógica em gestos. A ação não desaparece, mas uma sequência de controles ou decisões é condensada numa operação corporal reconhecível.
 
-O [[03 artefatos/Controle Remoto|controle remoto]] comprime deslocamento corporal. A pessoa já desejava mudar canal, volume ou estado do aparelho; o comando deixa de exigir aproximação física até a televisão. Essa redução de esforço parece pequena, mas altera a frequência com que explorar outra opção se torna viável.
+O [[03 artefatos/Infinite Scroll|Infinite Scroll]] comprime uma transição de navegação ao retirar a paginação explícita. O ganho de continuidade vem com um custo possível: desaparecem também alguns pontos naturais de parada e orientação.
 
-O [[03 artefatos/Pull to Refresh|Pull to Refresh]] reduz uma operação de interface a um gesto que acontece no mesmo espaço onde a pessoa já está navegando. O [[03 artefatos/Checklist|checklist]] comprime a necessidade de lembrar uma sequência inteira em uma lista externa. O [[03 artefatos/Kanban|Kanban]] faz algo parecido em escala coletiva: estados de trabalho e próximos movimentos deixam de depender apenas de memória individual, conversa e acompanhamento informal.
+O [[03 artefatos/Botao Like|Botão Like]] comprime uma resposta social complexa em um gesto pequeno e quantificável. O [[03 artefatos/Carimbo|carimbo]] realiza algo parecido em contexto institucional: uma marca repetível pode representar um estado, validação ou passagem que, de outro modo, exigiria reinscrição ou explicação.
 
-O [[03 artefatos/Service Blueprint|Service Blueprint]] acrescenta uma forma diferente de compressão. Ele pode não retirar nenhuma etapa do serviço; o que reduz é o esforço necessário para reconstruir suas dependências. Ações do usuário, frontstage, backstage e processos de suporte passam a compartilhar a mesma superfície. Uma explicação antes espalhada entre departamentos vira uma representação comum.
+O [[03 artefatos/Grid|grid]] reduz parte do esforço de decidir e reconstruir relações espaciais recorrentes numa composição. A [[03 artefatos/Helvetica|Helvetica]], em outra escala, pode ser lida como tentativa de tornar a forma tipográfica suficientemente previsível e versátil para circular entre muitos contextos, embora essa relação seja comparativa, não uma explicação total de sua história.
 
-Em todos esses casos, o design não precisa inventar o desejo nem automatizar o trabalho. Ele modifica o custo de realizá-lo, lembrá-lo ou compreendê-lo coletivamente.
+O [[03 artefatos/Checklist|checklist]] comprime memória em uma lista externa. O [[03 artefatos/Kanban|Kanban]] externaliza estados de trabalho. O [[03 artefatos/Service Blueprint|Service Blueprint]] reduz o esforço necessário para reconstruir dependências de um serviço distribuído entre vários atores.
+
+Em todos esses casos, o design não precisa inventar o desejo nem automatizar o trabalho. Ele modifica o custo de realizá-lo, lembrá-lo, localizá-lo ou compreendê-lo coletivamente.
 
 ## Pequenas economias podem criar grandes capacidades
 
-Uma redução de esforço pode parecer insignificante quando observada uma única vez. O efeito muda quando a ação se repete dezenas ou milhares de vezes. Um atalho que economiza alguns segundos pode transformar a maneira como alguém trabalha durante anos. Um gesto simples pode tornar uma consulta mais frequente. Um quadro visível pode mudar quanto uma equipe depende de reuniões para descobrir o estado do trabalho. Um controle remoto pode transformar uma mudança ocasional de canal em exploração repetida porque o custo marginal de tentar outra opção caiu.
+Uma redução de esforço parece pequena quando observada uma única vez. O efeito muda quando a ação se repete. Um atalho economiza segundos, mas pode ser usado milhares de vezes. Um controle remoto transforma a troca ocasional de canal em exploração recorrente. Um gesto integrado à superfície pode tornar uma operação tão barata que ela deixa de parecer uma decisão separada.
 
-No Service Blueprint, o ganho pode ser menos frequente e ainda assim estrutural: uma equipe deixa de precisar reconstruir oralmente o sistema toda vez que tenta localizar uma falha ou discutir uma mudança. A representação vira memória compartilhada da arquitetura do serviço.
-
-É aqui que [[01 conceitos/Compressao do Esforco|compressão do esforço]] encontra [[01 conceitos/Redução de Inferências|redução de inferências]] e [[01 conceitos/Memoria Distribuida|memória distribuída]]. O esforço retirado da ação pode ser motor, cognitivo, temporal, decisional, social ou institucional. As variáveis [[02 variaveis/Friccao|fricção]], [[02 variaveis/Custo Transacional|custo transacional]] e [[02 variaveis/Atrito Decisorio|atrito decisório]] ajudam a separar essas formas em vez de tratá-las todas como “facilidade”.
-
-Mas retirar passos ou inferências também pode retirar pausas e nuances. Um clique extra às vezes era apenas desperdício; em outros casos, funcionava como momento de verificação, deliberação ou abandono. Uma caixa num blueprint pode reduzir horas de explicação e simultaneamente apagar trabalho tácito que não cabe nela.
-
-A pergunta de design deixa de ser “quantos passos conseguimos eliminar?” e passa a incluir “que trabalho cognitivo esses passos ou ambiguidades estavam fazendo?”.
+É aqui que [[01 conceitos/Compressao do Esforco|compressão do esforço]] encontra [[01 conceitos/Redução de Inferências|redução de inferências]] e [[01 conceitos/Memoria Distribuida|memória distribuída]]. O esforço retirado pode ser motor, cognitivo, temporal, decisional, social ou institucional. As variáveis [[02 variaveis/Friccao|fricção]], [[02 variaveis/Custo Transacional|custo transacional]] e [[02 variaveis/Atrito Decisorio|atrito decisório]] ajudam a separar essas formas em vez de chamá-las genericamente de conveniência.
 
 ## Conveniência precisa de uma anatomia
 
-Uma hipótese desta genealogia é que “conveniência” é uma categoria pouco precisa para análise. Dois artefatos podem ser convenientes por razões muito diferentes: um reduz movimento, outro memória, outro espera, outro negociação entre pessoas, outro o custo de construir uma representação comum.
+Retirar etapas também pode retirar pausas, contexto ou escolha. Infinite Scroll reduz uma transição e também um ponto de parada. Like facilita expressão e também empobrece nuance. Grid acelera composição e pode estabilizar convenções. Carimbo reduz repetição e pode transformar uma marca administrativa em autoridade aparentemente natural.
 
-Classificar o esforço em camadas pode revelar parentescos melhores e também limites. Atalhos e controles remotos comprimem gestos e deslocamentos distintos. Carrinhos reduzem carga corporal. Checklist e Kanban externalizam informação em escalas diferentes. Pull to Refresh comprime gesto. Service Blueprint comprime complexidade relacional suficiente para que um grupo consiga discuti-la. A semelhança está na operação de retirar trabalho do caminho e redistribuí-lo para o artefato ou para a infraestrutura.
-
-Talvez uma das perguntas mais produtivas para a arqueologia do design seja, então, muito simples: quando uma solução parece “fácil”, qual esforço desapareceu, para onde ele foi e que comportamento ficou mais barato depois disso?
+A pergunta de design, então, não é “quantos passos conseguimos eliminar?”. É “qual esforço desapareceu, para onde foi e que comportamento ficou mais barato depois disso?”.
 
 ## Ficha da genealogia
 
@@ -55,10 +49,10 @@ Talvez uma das perguntas mais produtivas para a arqueologia do design seja, ent�
 | **Pergunta central** | Como o design transforma sequências de ações, decisões, lembranças, inferências ou coordenação em operações menores? |
 | **Hipótese de parentesco** | Soluções recorrentes retiram etapas conscientes ou custos de reconstrução de comportamentos que já existiam |
 | **Natureza das relações** | Funcional, operacional, cognitiva, comportamental e comparativa |
-| **Artefatos principais** | [[03 artefatos/Atalhos de Teclado|Atalhos de teclado]], [[03 artefatos/Carrinho de Compras|Carrinho de compras]], [[03 artefatos/Controle Remoto|Controle remoto]], [[03 artefatos/Pull to Refresh|Pull to Refresh]], [[03 artefatos/Checklist|Checklist]], [[03 artefatos/Kanban|Kanban]], [[03 artefatos/Service Blueprint|Service Blueprint]] |
+| **Artefatos principais** | [[03 artefatos/Atalhos de Teclado|Atalhos de teclado]], [[03 artefatos/Carrinho de Compras|Carrinho de compras]], [[03 artefatos/Controle Remoto|Controle remoto]], [[03 artefatos/Pull to Refresh|Pull to Refresh]], [[03 artefatos/Pinch to Zoom|Pinch to Zoom]], [[03 artefatos/Slide to Unlock|Slide to Unlock]], [[03 artefatos/Infinite Scroll|Infinite Scroll]], [[03 artefatos/Botao Like|Botão Like]], [[03 artefatos/Carimbo|Carimbo]], [[03 artefatos/Grid|Grid]], [[03 artefatos/Helvetica|Helvetica]], [[03 artefatos/Checklist|Checklist]], [[03 artefatos/Kanban|Kanban]], [[03 artefatos/Service Blueprint|Service Blueprint]] |
 | **Comportamento recorrente** | Executar ou compreender tarefas conhecidas com menos movimento, busca, memória, decisão, inferência ou coordenação |
 | **O que o design redistribui** | Esforço motor, cognitivo, temporal, decisional, social e institucional |
-| **Relação de poder** | Ao decidir quais etapas ou relações podem ser comprimidas numa estrutura, o sistema também decide quais momentos de escolha, trabalho ou ambiguidade permanecem visíveis |
+| **Relação de poder** | Ao decidir quais etapas podem ser comprimidas, o sistema também decide quais momentos de escolha, trabalho ou ambiguidade permanecem visíveis |
 | **Conceitos relacionados** | [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Redução de Inferências|Redução de inferências]], [[01 conceitos/Memoria Distribuida|Memória distribuída]] |
 | **Variáveis relacionadas** | [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Atrito Decisorio|Atrito decisório]] |
 | **Cuidado histórico** | Os artefatos não formam uma linhagem direta; são comparados pela operação de reduzir e redistribuir esforço |
