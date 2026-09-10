@@ -60,9 +60,6 @@ jobs:
           node --check scripts/audit-editorial.mjs
           node --check scripts/consolidate-unresolved-links.mjs
 
-      - name: Migrar fichas arqueológicas legadas para a tabela padrão
-        run: node scripts/migrate-artifact-sheets.mjs
-
       - name: Normalizar headings estruturais em sentence case
         run: node scripts/normalize-sentence-case.mjs
 
@@ -72,7 +69,7 @@ jobs:
       - name: Consolidar referências futuras como pistas
         run: node scripts/consolidate-unresolved-links.mjs
 
-      - name: Auditar sentence case restante
+      - name: Auditar sentence case e fichas arqueológicas
         run: node scripts/audit-editorial.mjs
 
       - name: Gerar índice e relatório final de links
