@@ -1,24 +1,24 @@
 /* Paridade visual com a camada editorial final da Pages da PUC. */
 
 :root {
-  --accent: #d56d64;
-  --accent-hover: #efa29c;
-  --accent-05: rgba(213, 109, 100, .06);
-  --accent-15: rgba(213, 109, 100, .15);
-  --accent-30: rgba(213, 109, 100, .28);
-  --accent-40: rgba(213, 109, 100, .40);
+  --accent: #ff3b30;
+  --accent-hover: #ff6961;
+  --accent-05: rgba(255, 59, 48, .06);
+  --accent-15: rgba(255, 59, 48, .15);
+  --accent-30: rgba(255, 59, 48, .28);
+  --accent-40: rgba(255, 59, 48, .40);
   --bg: #101010;
   --text: #f1f0eb;
   --muted: #a4a39e;
 }
 
 :root[data-theme="light"] {
-  --accent: #9b403a;
-  --accent-hover: #7e312c;
-  --accent-05: rgba(155, 64, 58, .06);
-  --accent-15: rgba(155, 64, 58, .14);
-  --accent-30: rgba(155, 64, 58, .28);
-  --accent-40: rgba(155, 64, 58, .40);
+  --accent: #d70015;
+  --accent-hover: #b00012;
+  --accent-05: rgba(215, 0, 21, .06);
+  --accent-15: rgba(215, 0, 21, .14);
+  --accent-30: rgba(215, 0, 21, .28);
+  --accent-40: rgba(215, 0, 21, .40);
   --bg: #ffffff;
   --text: #151515;
   --muted: #65645f;
