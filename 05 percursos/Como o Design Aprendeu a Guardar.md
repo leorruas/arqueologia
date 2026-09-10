@@ -21,7 +21,7 @@ O [[03 artefatos/Baú|baú]] é uma imagem elementar de armazenamento porque res
 
 O [[03 artefatos/Cofre|cofre]] acrescenta outra operação. Guardar deixa de significar apenas conter e passa a significar **excluir acessos indesejados e resistir a ameaças**. A questão central não é só onde o objeto está, mas quem pode chegar até ele e em quais condições. A permanência ganha uma dimensão de segurança e poder.
 
-O guarda-roupa introduz ainda outra lógica. Ele não protege necessariamente como um cofre e não é apenas um grande baú vertical. Prateleiras, gavetas, cabides e portas transformam armazenamento em **classificação espacial**. Guardar algo passa a significar também estabelecer onde aquilo deverá ser encontrado depois.
+O [[03 artefatos/Guarda-roupa|guarda-roupa]] introduz ainda outra lógica. Ele não protege necessariamente como um cofre e não é apenas um grande baú vertical. Prateleiras, gavetas, cabides e portas transformam armazenamento em **classificação espacial**. Guardar algo passa a significar também estabelecer onde aquilo deverá ser encontrado depois.
 
 Esses artefatos mostram que armazenamento físico já contém várias hipóteses de design: reunir, proteger, separar, esconder, ordenar e facilitar recuperação não são a mesma operação.
 
@@ -29,11 +29,13 @@ Esses artefatos mostram que armazenamento físico já contém várias hipóteses
 
 ## Quando o armazenamento encostou no corpo
 
-[[03 artefatos/Bolso|Bolso]] e mochila mudam a pergunta. Em vez de perguntar apenas “onde guardar?”, eles perguntam **como fazer o que foi guardado acompanhar a pessoa**.
+[[03 artefatos/Bolso|Bolso]] e [[03 artefatos/Mochila|mochila]] mudam a pergunta. Em vez de perguntar apenas “onde guardar?”, eles perguntam **como fazer o que foi guardado acompanhar a pessoa**.
 
 Os *tie-on pockets* femininos europeus, usados amplamente a partir do século XVII, podiam carregar dinheiro, chaves, ferramentas, cartas e objetos pessoais junto ao corpo. O Victoria and Albert Museum destaca justamente sua relação com segurança, independência e portabilidade.[^1] O bolso transforma a roupa numa pequena infraestrutura privada.
 
 A mochila aumenta essa capacidade. O corpo ganha um volume adicional de armazenamento sem perder mobilidade. O que antes exigia mãos, cestos separados ou permanência num lugar pode atravessar distâncias junto da pessoa.
+
+A [[03 artefatos/Carteira|carteira]] mostra outra mutação: um recipiente portátil pode carregar não apenas dinheiro e documentos, mas credenciais que mobilizam recursos mantidos em sistemas externos. Guardar junto ao corpo começa a significar também carregar **capacidade de acesso**.
 
 A [[03 artefatos/Garrafa de Agua|garrafa de água]] pertence à mesma família funcional por outra razão. Ela não guarda apenas um objeto: guarda uma **reserva de acesso**. A pessoa transporta água para não depender de encontrar uma fonte exatamente quando a necessidade aparece.
 
@@ -41,13 +43,13 @@ A [[03 artefatos/Garrafa de Agua|garrafa de água]] pertence à mesma família f
 
 ## Depois começamos a guardar o que aconteceu
 
-O diário muda novamente o objeto da preservação. O que entra no recipiente já não precisa ser uma coisa material: pode ser um acontecimento, uma percepção, uma promessa, uma emoção ou uma interpretação do dia.
+O [[03 artefatos/Diário|diário]] muda novamente o objeto da preservação. O que entra no recipiente já não precisa ser uma coisa material: pode ser um acontecimento, uma percepção, uma promessa, uma emoção ou uma interpretação do dia.
 
 Isso aproxima guardar de **registrar**. O passado deixa de depender apenas da memória interna e ganha uma inscrição consultável. O diário não conserva a experiência em si; conserva uma representação dela. Essa diferença é central para [[01 conceitos/Memoria Distribuida|memória distribuída]].
 
 Livros-caixa e registros de despesas fazem algo semelhante com comportamento econômico. Guardar uma compra num registro permite que uma ação já encerrada volte depois como padrão, saldo, categoria ou comparação.
 
-Aplicativos de tracking financeiro transformam essa lógica ao automatizar parte do registro. Quicken nasceu nos anos 1980 justamente como tentativa de usar o computador pessoal para administrar finanças domésticas; décadas depois, serviços como Mint passaram a agregar automaticamente transações de contas e cartões e a categorizar gastos para devolver ao usuário uma visão consolidada de seu comportamento.[^2][^3]
+O [[03 artefatos/App de tracking de gastos|app de tracking de gastos]] transforma essa lógica ao automatizar parte do registro. Quicken nasceu nos anos 1980 justamente como tentativa de usar o computador pessoal para administrar finanças domésticas; décadas depois, serviços como Mint passaram a agregar automaticamente transações de contas e cartões e a categorizar gastos para devolver ao usuário uma visão consolidada de seu comportamento.[^2][^3]
 
 Aqui “guardar” adquire uma propriedade nova: **o passado registrado começa a produzir feedback sobre o presente**.
 
@@ -59,7 +61,7 @@ Isso abre uma família futura particularmente interessante para o projeto: diár
 
 Arquivos físicos costumam ligar armazenamento a localização: para recuperar algo, alguém precisa conhecer gaveta, pasta, estante ou classificação.
 
-Bancos de dados digitais tornam essa relação muito mais abstrata. O trabalho de Edgar F. Codd sobre o modelo relacional, publicado em 1970, parte explicitamente do problema de permitir que usuários acessem informação sem precisar conhecer a representação física ou o caminho interno de armazenamento.[^4]
+O [[03 artefatos/Banco de dados|banco de dados]] torna essa relação muito mais abstrata. O trabalho de Edgar F. Codd sobre o modelo relacional, publicado em 1970, parte explicitamente do problema de permitir que usuários acessem informação sem precisar conhecer a representação física ou o caminho interno de armazenamento.[^4]
 
 Essa é uma mutação importante do verbo guardar.
 
@@ -71,7 +73,7 @@ Guardar passa a significar também tornar endereçável.
 
 ## A nuvem separou guardar de carregar
 
-O bolso e a mochila tornam algo portátil fazendo o objeto viajar com a pessoa. A computação em nuvem produz quase o movimento inverso.
+O bolso e a mochila tornam algo portátil fazendo o objeto viajar com a pessoa. O [[03 artefatos/Arquivo em nuvem|arquivo em nuvem]] produz quase o movimento inverso.
 
 Na definição do NIST, cloud computing envolve acesso conveniente e sob demanda, por rede, a recursos compartilhados como servidores, aplicações e armazenamento.[^5] Para este percurso, a consequência de design mais interessante é simples: **o arquivo pode continuar parado enquanto o acesso se torna portátil**.
 
