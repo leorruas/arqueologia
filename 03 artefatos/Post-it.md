@@ -10,29 +10,29 @@ tags:
 
 O **Post-it** é um pequeno bloco de papel com uma tira de adesivo sensível à pressão em sua parte traseira, projetado para fixar anotações temporárias em superfícies e ser removido ou reposicionado sem deixar marcas ou resíduos.
 
-## Ficha Técnica
+## Ficha técnica
 - **Criador(es)**: Spencer Silver (invenção da cola reposicionável) e Arthur Fry (concepção do produto de marcação)
 - **Empresa/Fabricante**: [[empresas/3M|3M]]
 - **Ano de Lançamento**: 1977 (teste inicial); 1980 (lançamento global)
 - **Tipo de Design**: [[00 tipos de design/Design de Produto|Design de Produto]]
 
-## História e Contexto de Criação
+## História e contexto de criação
 - **Demanda / Problema**: O problema original não era a falta de suportes para escrever, pois cadernos, agendas e folhas soltas eram abundantes. O problema era como anexar uma informação temporária no ambiente físico (como um lembrete ou um marcador de livro) de forma visível sem danificar a superfície de contato ao ser removido.
 - **O Mundo Antes da Inovação**: As pessoas usavam clipes, alfinetes, fitas adesivas tradicionais ou pedaços de papel soltos. Fitas adesivas danificavam as folhas e superfícies. Marcadores soltos caíam facilmente dos livros ao serem manuseados. Bilhetes soltos sobre a mesa podiam se perder, já que não faziam parte do ambiente direto de atenção do destinatário.
 
-## Inovação e Impacto
+## Inovação e impacto
 - **Ampliação de Capacidade**: Amplia a capacidade de memória distribuída e externalização de ideias no ambiente, tirando o peso da lembrança interna.
 - **Enfraquecimento de Capacidade**: Enfraquece a memória de trabalho interna e os hábitos de memorização proativa pessoal.
 - **Comportamento Coletivo**: Criou a cultura de mapeamento ágil e brainstorming visual colaborativo em equipes (kanbans físicos, design thinking).
 - **Linhagem e Descendência**: Descendente direto da mochila (externalização de lembretes ao ambiente) e de marcadores de papel soltos. Primo conceitual do quadro branco e antepassado direto de ferramentas de diagramas online (Miro, Figma Jam e Trello).
 - **Custo Invisível**: Fragmentação e atomização do pensamento em pequenas notas soltas, dificultando a redação e síntese de ideias complexas e raciocínios contínuos longos.
 
-## Referências e Onde Encontrar
+## Referências e onde encontrar
 - **Leituras**: Histórias de arquivos corporativos da 3M e estudos de ergonomia cognitiva sobre cognição distribuída.
 
 ---
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: Post-it
 - **Ano aproximado**: 1977 a 1980

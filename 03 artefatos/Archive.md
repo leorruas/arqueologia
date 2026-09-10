@@ -10,29 +10,29 @@ tags:
 
 O **Archive** (Arquivar) é um padrão de gerenciamento de dados de e-mail e produtividade introduzido pelo Gmail, permitindo ao usuário remover itens de sua visualização imediata (Inbox) sem excluí-los permanentemente.
 
-## Ficha Técnica
+## Ficha técnica
 - **Criador(es)**: Equipe de desenvolvimento original do Gmail (liderada por Paul Buchheit)
 - **Empresa/Fabricante**: [[empresas/Google|Google]]
 - **Ano de Lançamento**: 2004
 - **Tipo de Design**: [[00 tipos de design/Design de Interface|Design de Interface]]
 
-## História e Contexto de Criação
+## História e contexto de criação
 - **Demanda / Problema**: Clientes de e-mail tradicionais (Outlook ou Yahoo!) imitavam a organização de arquivos de escritório físicos: os usuários precisavam criar e manter estruturas complexas de pastas e subpastas para catalogar suas mensagens. Isso gerava uma pesada carga cognitiva cotidiana, exigindo decidir onde cada e-mail deveria "morar".
 - **Processo de Desenvolvimento**: A equipe do Gmail propôs um paradigma diferente: a busca rápida e eficiente tornaria a organização manual por pastas obsoleta. Em vez de obrigar o usuário a catalogar ou deletar mensagens, o Gmail ofereceu armazenamento massivo de 1 GB (gigante para a época) e o botão "Arquivar", cuja única função era tirar a mensagem da tela inicial, mantendo-a disponível para recuperação pela barra de busca.
 
-## Inovação e Impacto
+## Inovação e impacto
 - **Ampliação de Capacidade**: Amplia a capacidade de organização rápida ao descarregar a carga cognitiva da decisão de categorização ativa de dados.
 - **Enfraquecimento de Capacidade**: Enfraquece o hábito humano de manter classificações e estruturas lógicas de armazenamento organizadas conscientemente.
 - **Comportamento Coletivo**: Originou a cultura do "Inbox Zero" e o acúmulo de dados ilimitados (hoarding digital), devido à confiança de que buscadores mecânicos localizarão qualquer arquivo passado.
 - **Linhagem e Descendência**: Descendente direto da ação de afastar papéis resolvidos da mesa de trabalho, jogando-os em gavetas de arquivo morto. Antepassado direto de barras de busca unificadas em computadores locais (Spotlight, Windows Search) e notas sem pastas do Notion/Obsidian.
 - **Custo Invisível**: Dependência de indexadores robustos proprietários em background e maior volume de armazenamento em servidores de nuvem de grande escala.
 
-## Referências e Onde Encontrar
+## Referências e onde encontrar
 - **Produtos Relacionados**: Gmail, Google Drive, Obsidian.
 
 ---
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: Archive
 - **Ano aproximado**: 2004

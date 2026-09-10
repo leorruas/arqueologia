@@ -58,7 +58,7 @@ Por isso, a pergunta não é apenas “como fazer durar?”, mas **quem decide o
 - [[04 genealogias/Permanencia e Memoria Externa|Permanência e Memória Externa]]
 - [[04 genealogias/Reversibilidade e Custo do Erro|Reversibilidade e Custo do Erro]]
 
-### Ficha Resumo da Variável
+### Ficha resumo da variável
 
 - **Nome da variável**: Permanência
 - **Eixo**: efêmero ↔ persistente

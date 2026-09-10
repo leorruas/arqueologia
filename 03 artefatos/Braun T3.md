@@ -10,31 +10,31 @@ tags:
 
 O Braun T3 é um rádio transistorizado de bolso projetado por Dieter Rams. Ele é considerado um dos maiores marcos do minimalismo e do design de produto industrial do século XX, definindo a estética da marca Braun e influenciando diretamente o design de eletrônicos de consumo modernos por décadas.
 
-## Ficha Técnica
+## Ficha técnica
 - **Criador(es)**: [[autores/Dieter Rams|Dieter Rams]]
 - **Empresa/Fabricante**: [[empresas/Braun|Braun]]
 - **Ano de Lançamento**: 1958
 - **Materiais/Mídia**: Plástico (poliestireno) e componentes eletrônicos transistorizados
 - **Tipo de Design**: [[00 tipos de design/Design de Produto|Design de Produto]]
 
-## História e Contexto de Criação
+## História e contexto de criação
 - **Demanda / Problema**: Antes do final da década de 1950, os aparelhos de rádio eram móveis volumosos, pesados e ornamentados que ocupavam o centro das salas de estar familiares. Com a invenção e a popularização comercial do transistor, surgiu a oportunidade técnica de criar aparelhos de rádio portáteis, mas as primeiras tentativas no mercado mantinham acabamentos que imitavam couro ou madeira tradicional em formatos desajeitados.
 - **Processo de Desenvolvimento**: Dieter Rams projetou o T3 com um corpo purista retangular de plástico cinza claro, apresentando uma perfuração circular discreta para a saída de som e um dial sintonizador rotativo inovador e plano, integrado ao corpo para evitar quebras ou acionamentos acidentais no bolso.
 
-## Inovação e Impacto
+## Inovação e impacto
 - **Ampliação de Capacidade**: Amplia a portabilidade acústica e a autonomia de consumo individual de informação e entretenimento no dia a dia.
 - **Enfraquecimento de Capacidade**: Enfraquece a escuta coletiva e social do rádio como um elemento de unificação familiar no espaço doméstico.
 - **Comportamento Coletivo**: Estabeleceu o hábito de transportar a mídia de forma pessoal e individualizada no bolso, precursora dos aparelhos de música portáteis pessoais.
 - **Linhagem e Descendência**: Descendente direto dos primeiros estudos de transistores miniaturizados. Antepassado estético e funcional direto do primeiro iPod (2001) da Apple, cuja interface de Scroll Wheel foi diretamente inspirada no dial rotativo do T3.
 - **Custo Invisível**: Atomização social do consumo de mídia e obsolescência rápida de dispositivos eletrônicos de consumo pessoal.
 
-## Referências e Onde Encontrar
+## Referências e onde encontrar
 - **Acervos**: MoMA (Nova York), Vitra Design Museum (Weil am Rhein).
 - **Leituras**: *Dieter Rams: As Little Design as Possible* (Sophie Lovell).
 
 ---
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: Braun T3
 - **Categoria**: Produto / Eletrônicos

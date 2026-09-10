@@ -10,7 +10,7 @@ tags:
 
 Processo de exploração disciplinada que visa estruturar e tornar a incerteza ou ignorância observável e testável empiricamente, gerando novos consensos e autoeficácia.
 
-## Aplicação nos Artefatos
+## Aplicação nos artefatos
 
 Este conceito/princípio se manifesta e ajuda a compreender a lógica operacional dos seguintes artefatos:
 
@@ -19,7 +19,7 @@ Este conceito/princípio se manifesta e ajuda a compreender a lógica operaciona
 - [[03 artefatos/Pergunta de Pesquisa|Pergunta de Pesquisa]] — Aplicação na estruturação de autonomia ou foco de intenção de equipe.
 - [[03 artefatos/Wicked Problem|Wicked Problem]] — Aplicação na estruturação de autonomia ou foco de intenção de equipe.
 
-## Variáveis Relacionadas
+## Variáveis relacionadas
 
 Este conceito opera associado ou impacta as seguintes variáveis de design:
 - [[02 variaveis/Justica|Justiça]]
@@ -27,7 +27,7 @@ Este conceito opera associado ou impacta as seguintes variáveis de design:
 
 ---
 
-### Ficha Resumo do Conceito
+### Ficha resumo do conceito
 
 - **Nome do conceito**: Investigação
 - **Área principal**: Metodologia / IHC / Epistemologia

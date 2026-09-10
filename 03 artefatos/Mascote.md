@@ -10,31 +10,31 @@ tags:
 
 O **Mascote** é um dispositivo de comunicação visual e design de identidade que dá corpo, rosto e temperamento a entidades abstratas (empresas, escolas, eventos, campanhas), convertendo marcas em personagens vivos para aproximar o público e mediar interações afetivas.
 
-## Ficha Técnica
+## Ficha técnica
 - **Criador(es)**: Edmond Audran (popularizador do termo no final do século XIX); O’Galop (ilustrador que desenvolveu o Bibendum); André e Édouard Michelin (idealizadores do Bibendum)
 - **Empresa/Fabricante**: [[empresas/Michelin|Michelin]] e agências/estúdios de design subsequentes
 - **Ano de Lançamento**: Final do século XIX (Bibendum de 1898 como marco publicitário)
 - **Materiais/Mídia**: Ilustração impressa, fantasia tridimensional, código digital, animação, objetos físicos
 - **Tipo de Design**: [[00 tipos de design/Design Grafico|Design Gráfico]]
 
-## História e Contexto de Criação
+## História e contexto de criação
 - **Demanda / Problema**: Como fazer uma entidade abstrata (uma corporação, uma escola ou uma campanha pública) parecer viva e próxima? Organizações não possuem corpo ou rosto; logotipos são estáticos e impessoais. O mascote surge para dar um organismo expressivo a essa abstração.
 - **O Mundo Antes da Inovação**: As identidades eram representadas por brasões heráldicos ou logotipos estáticos que geravam respeito e obediência, mas não facilitavam a torcida, o afeto ou a interatividade direta com o consumidor ou cidadão.
 
-## Inovação e Impacto
+## Inovação e impacto
 - **Ampliation de Capacidade**: Amplia a capacidade de engajamento emocional e interatividade ao transformar marcas em interlocutores visuais que parecem olhar, expressar sentimentos e participar de rituais com as pessoas.
 - **Enfraquecimento de Capacidade**: Enfraquece a sobriedade racional das comunicações e a visualização clara dos processos internos da organização, que são resumidos à performance e humor do personagem.
 - **Comportamento Coletivo**: Criou o hábito de falar com marcas como se fossem sujeitos, colecionar brinquedos corporativos, vestir fantasias institucionais e torcer por personagens em rituais coletivos (como eventos esportivos).
 - **Linhagem e Descendência**: Descende das práticas primitivas de talismãs e totens protetores de grupos. Antepassado direto de assistentes virtuais de voz, avatares de marca digitais, assistentes conversacionais e robôs de suporte.
 - **Custo Invisível**: Criação de uma "fachada emocional" que humaniza e mascara a verdadeira conduta das organizações. O mascote facilita a atribuição de intenções benevolentes à marca, mitigando o senso crítico do consumidor em relação às operações corporativas ou governamentais reais.
 
-## Referências e Onde Encontrar
+## Referências e onde encontrar
 - **Acervos**: Coleções de publicações de publicidade clássica do final do século XIX e campanhas do Ad Council (como o Smokey Bear de 1944).
 - **Leituras**: Estudos sobre a antropomorfização de marcas na comunicação organizacional e a opereta *La Mascotte* (Edmond Audran, 1880).
 
 ---
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: Mascote
 - **Categoria**: Design Gráfico

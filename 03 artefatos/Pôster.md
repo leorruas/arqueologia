@@ -10,33 +10,33 @@ tags:
 
 O **Pôster** (ou Cartaz) é uma superfície gráfica portátil composta por texto, imagem ou a combinação integrada de ambos, afixada em espaços públicos ou de alta circulação. Ele atua como um dispositivo de comunicação de massa e interrupção perceptiva, projetado para emitir mensagens autônomas, capturar a atenção de sujeitos em movimento e disputar a paisagem simbólica da cidade sem depender da presença contínua de um emissor humano.
 
-## Ficha Técnica
+## Ficha técnica
 - **Criador(es)**: Alois Senefelder (litografia); Jules Chéret (pôster litográfico colorido moderno); Henri de Toulouse-Lautrec (integração artística e publicitária)
 - **Empresa/Fabricante**: Diversas oficinas tipográficas, estúdios de litografia, agências de publicidade e movimentos culturais/políticos
 - **Ano de Lançamento**: Século XIX (antecedentes tipográficos impressos desde o século XV; consolidação do pôster litográfico colorido moderno entre 1866 e 1890)
 - **Materiais/Mídia**: Papel, tinta litográfica, tintas de imprensa, serigrafia, técnicas de fotomontagem
 - **Tipo de Design**: [[00 tipos de design/Design Grafico|Design Gráfico]] / Comunicação de Massa / Arte Pública
 
-## História e Contexto de Criação
+## História e contexto de criação
 - **Demanda / Problema**: Comunicar mensagens para um público amplo e urbano em movimento sem exigir a presença física e contínua do emissor (comerciante, político, artista) nem a mediação presencial de leitores dispostos a abrir livros ou documentos densos.
 - **O Mundo Antes da Inovação**: A comunicação pública dependia da voz (pregoeiros), da arquitetura permanente (fachadas, relevos), dos sinos e de editais tipográficos fixados em locais institucionais. A mensagem necessitava da presença do emissor ou da autoridade física do edifício para ser validada.
 - **A Inovação Litográfica**: A consolidação do pôster moderno ocorreu com a invenção da litografia por [[autores/Alois Senefelder|Alois Senefelder]] no fim do século XVIII e, posteriormente, com o refinamento promovido por [[autores/Jules Cheret|Jules Chéret]] a partir de 1866. Chéret integrava imagem e tipografia desenhada em composições litográficas coloridas de grande escala, permitindo que a letra deixasse de ser apenas leitura textual para atuar como espetáculo visual e elemento de ritmo espacial.
 - **A Linguagem das Vanguardas e da Publicidade**: Em 1891, [[autores/Henri de Toulouse Lautrec|Henri de Toulouse-Lautrec]] revoluciona o gênero com o cartaz *Moulin Rouge: La Goulue*, introduzindo recortes abruptos, silhuetas, áreas planas de cor e síntese visual. Lautrec demonstrou que o pôster não precisava descrever exaustivamente uma cena, mas sim fabricar antecipação e projetar experiências futuras na imaginação do pedestre.
 - **Deslocamento para a Modernidade**: No século XX, movimentos como Construtivismo, Futurismo, Dadaísmo e a Bauhaus incorporaram diagonais, fotomontagens e tipografia assimétrica no pôster, transformando a composição de uma mera ilustração representativa para uma organização dinâmica de forças perceptivas e urgência política.
 
-## As Quatro Camadas de Análise Crítica
+## As quatro camadas de análise crítica
 - **Problema**: Resolver a disputa pela atenção humana em ambientes urbanos ruidosos e densos, emitindo mensagens autônomas a partir de superfícies reproduzíveis.
 - **Hipótese sobre a Natureza Humana**: Pressupõe que a atenção do transeunte é escassa e dispersa; para ser sensibilizado, o indivíduo necessita de interrupções visuais marcadas por contraste, rostos, escala, novidade e simplificação drástica de significado.
 - **Poder**: Define quem possui o direito temporário de enunciar e visibilizar ideias no espaço urbano. Fortalece quem detém o controle dos meios de reprodução ou a audácia de ocupação de superfícies (comerciantes, estados, partidos, artistas e ativistas), produzindo sujeitos engajados, consumidores ou orientados ideologicamente.
 - **Legado**: Estabeleceu a gramática da síntese visual e da hierarquia Perceptiva à distância, inspirando a publicidade moderna, a propaganda política, o design de sinalização e as estruturas contemporâneas de captura de atenção em telas digitais (como a [[03 artefatos/Hero Section|Hero Section]], thumbnails e posts de redes sociais).
 
-## Referências e Onde Encontrar
+## Referências e onde encontrar
 - **Leituras**: Registros históricos da coleção de cartazes do Victoria and Albert Museum (V&A); análises de história do cartaz publicadas pelo Metropolitan Museum of Art (Met) e Museum of Modern Art (MoMA).
 - **Autores Relacionados**: [[autores/Alois Senefelder|Alois Senefelder]], [[autores/Jules Cheret|Jules Cheret]], [[autores/Henri de Toulouse Lautrec|Henri de Toulouse-Lautrec]], [[autores/Josef Muller Brockmann|Josef Müller-Brockmann]], [[autores/Peter Behrens|Peter Behrens]].
 
 ---
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: Pôster
 - **Categoria**: Design gráfico / Comunicação de massa / Arte pública

@@ -10,18 +10,18 @@ tags:
 
 O Kanban é um artefato de coordenação baseado em gestão visual que espacializa fluxos de trabalho e limita o trabalho em progresso (WIP).
 
-## Ficha Técnica
+## Ficha técnica
 - **Criador(es)**: [[autores/Taiichi Ohno|Taiichi Ohno]]
 - **Empresa/Fabricante**: Toyota (originalmente)
 - **Ano de Lançamento**: Década de 1950 na Toyota.
 - **Materiais/Mídia**: Quadros físicos, cartões de papel, sistemas digitais (Trello, Jira)
 - **Tipo de Design**: [[00 tipos de design/Design de Interface|Design de Interface]] / [[00 tipos de design/Design de Servicos|Design de Serviços]]
 
-## História e Contexto de Criação
+## História e contexto de criação
 - **Demanda / Problema**: Como coordenar trabalho sem depender exclusivamente da supervisão.
 - **Processo de Desenvolvimento**: Desenvolvido como ferramenta nos primeiros contextos de Década de 1950 na Toyota..
 
-## Inovação e Impacto
+## Inovação e impacto
 - **Ampliação de Capacidade**: Amplia a capacidade de equipes se autorregularem e gerenciarem gargalos visíveis.
 - **Enfraquecimento de Capacidade**: Enfraquece a dependência de supervisão direta e cobranças hierárquicas de tarefas.
 - **Comportamento Coletivo**: Gestão visual.
@@ -32,7 +32,7 @@ O Kanban é um artefato de coordenação baseado em gestão visual que espaciali
 - **Quem ele fortalece**: Equipes operacionais autônomas e gerentes de entrega.
 - **Quem ele enfraquece**: Comando e controle centralizado tradicional.
 
-## Referências e Onde Encontrar
+## Referências e onde encontrar
 - **Acervos**: Vitra Design Museum, MoMA (ou não aplicável se digital/processual)
 - **Leituras**:
 - *Toyota Production System* por Taiichi Ohno
@@ -40,7 +40,7 @@ O Kanban é um artefato de coordenação baseado em gestão visual que espaciali
 
 ---
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: Kanban
 - **Categoria**: Interface / Fluxo / Coordenação

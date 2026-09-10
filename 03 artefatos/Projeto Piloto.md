@@ -10,31 +10,31 @@ tags:
 
 O projeto piloto é um espaço intermediário e protegido criado para experimentar mudanças organizacionais ou técnicas em escala limitada, permitindo o aprendizado e a redução do risco antes de uma implementação em larga escala.
 
-## Ficha Técnica
+## Ficha técnica
 - **Criador(es)**: Invenção distribuída (convergência histórica)
 - **Empresa/Fabricante**: Diversas organizações industriais e científicas
 - **Ano de Lançamento**: Século XX (consolidado entre as décadas de 1950 e 1970)
 - **Materiais/Mídia**: Práticas de gestão, processos organizacionais e metodologias experimentais
 - **Tipo de Design**: [[00 tipos de design/Design de Servicos|Design de Serviços]] / Gestão Organizacional
 
-## História e Contexto de Criação
+## História e contexto de criação
 - **Demanda / Problema**: Como experimentar mudanças estruturais profundas sem colocar em risco toda a organização ou desperdiçar grandes quantidades de recursos em apostas irreversíveis.
 - **Processo de Desenvolvimento**: Evoluiu a partir de maquetes arquitetônicas, modelos de argila e peças de prova de alfaiataria. Consolidou-se no pós-guerra na engenharia industrial (plantas piloto) e na pesquisa científica (estudos piloto) até ser adotado por governos e corporações para testar políticas e tecnologias.
 
-## Inovação e Impacto
+## Inovação e impacto
 - **Ampliação de Capacidade**: Amplia a capacidade de simulação e aprendizado organizacional pré-compromisso.
 - **Enfraquecimento de Capacidade**: Enfraquece a tomada de decisões rápidas e a necessidade de coragem/intuição pura dos gestores, substituindo-as por dados empíricos de teste.
 - **Comportamento Coletivo**: Introduziu a cultura de experimentação ("testar antes de escalar") e o direito controlado ao erro no ambiente de negócios.
 - **Linhagem e Descendência**: Descendente direto de protótipos físicos, ensaios e brincadeiras biológicas. Antecessor direto de versões beta, MVPs, testes A/B e feature flags de software.
 - **Custo Invisível**: Pode gerar atrasos na escala (paralisia por experimentação) ou criar "ilhas de excelência" difíceis de replicar no restante da organização (efeito piloto).
 
-## Referências e Onde Encontrar
+## Referências e onde encontrar
 - **Acervos**: Não aplicável (artefato conceitual de serviço/processo)
 - **Leituras**: *Leading Change* (John Kotter), *The Sciences of the Artificial* (Herbert Simon), *Niche Construction: The Neglected Process in Evolution* (John Odling-Smee, Kevin Laland & Marcus Feldman).
 
 ---
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: Projeto Piloto
 - **Categoria**: Serviço / Gestão Organizacional

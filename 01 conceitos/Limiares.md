@@ -10,7 +10,7 @@ tags:
 
 Os **Limiares** (Thresholds ou Tecnologias de Transição) representam o princípio de design de que muitos artefatos não existem para realizar uma tarefa final direta, mas para tornar compreensível, perceptível e aceitável a passagem entre dois estados ou contextos psicológicos, físicos ou lógicos distintos.
 
-## Aplicação nos Artefatos
+## Aplicação nos artefatos
 
 Este conceito/princípio se manifesta e ajuda a compreender a lógica operacional dos seguintes artefatos:
 
@@ -32,7 +32,7 @@ Os limiares trabalham em conjunto com outros três pilares do design comportamen
 
 O design destes elementos atua como a infraestrutura invisível do comportamento, garantindo sincronia social e sistêmica sem a necessidade de comandos explícitos contínuos.
 
-## Variáveis Relacionadas
+## Variáveis relacionadas
 
 Este conceito opera associado ou impacta as seguintes variáveis de design:
 - [[02 variaveis/Friccao|Fricção]]
@@ -41,7 +41,7 @@ Este conceito opera associado ou impacta as seguintes variáveis de design:
 
 ---
 
-### Ficha Resumo do Conceito
+### Ficha resumo do conceito
 
 - **Nome do conceito**: Limiares
 - **Área principal**: Interação Humano-Computador (IHC) / Design Espacial / Psicologia Ambiental

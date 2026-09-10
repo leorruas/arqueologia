@@ -26,7 +26,7 @@ Segundo a teoria de *behavior settings* (configuração de comportamento) de Rog
 
 Ao cruzar uma fronteira demarcada por essas tecnologias, o usuário muda imediatamente o seu "roteiro de interação" (ex: abaixar a voz ao entrar em uma igreja, tirar os sapatos sobre o _genkan_ japonês, fornecer credenciais na tela de login, ou esperar passivamente sua vez em uma fila). O design não elimina a sujeira ou o atrito, mas reorganiza *onde* e *como* eles acontecem na jornada de uso.
 
-## Aplicação nos Artefatos
+## Aplicação nos artefatos
 
 Este conceito/princípio se manifesta e ajuda a compreender a lógica operacional dos seguintes artefatos:
 
@@ -34,7 +34,7 @@ Este conceito/princípio se manifesta e ajuda a compreender a lógica operaciona
 - [[03 artefatos/Tela de Login|Tela de Login]] — Delimita o espaço digital privado com base no mecanismo de identidade e credenciais.
 - [[03 artefatos/Slide to Unlock|Slide to Unlock]] — Estabelece uma fronteira tátil baseada em atrito mecânico intencional para separar o estado de repouso e de uso do telefone.
 
-## Variáveis Relacionadas
+## Variáveis relacionadas
 
 Este conceito opera associado ou impacta as seguintes variáveis de design:
 - [[02 variaveis/Friccao|Fricção]]
@@ -43,7 +43,7 @@ Este conceito opera associado ou impacta as seguintes variáveis de design:
 
 ---
 
-### Ficha Resumo do Conceito
+### Ficha resumo do conceito
 
 - **Nome do conceito**: Tecnologias de Delimitação
 - **Área principal**: Design de Interface / Psicologia Ambiental / Design de Serviços

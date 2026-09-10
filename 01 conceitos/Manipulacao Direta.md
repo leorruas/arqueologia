@@ -10,7 +10,7 @@ tags:
 
 A **Manipulação Direta** (Direct Manipulation) é o modelo conceitual de IHC no qual os usuários agem fisicamente sobre as representações visuais dos objetos na tela (arrastar, esticar, girar) em tempo real, sem a intermediação de menus abstratos ou sintaxes textuais de comando.
 
-## Aplicação nos Artefatos
+## Aplicação nos artefatos
 
 Este conceito/princípio se manifesta e ajuda a compreender a lógica operacional dos seguintes artefatos:
 
@@ -18,7 +18,7 @@ Este conceito/princípio se manifesta e ajuda a compreender a lógica operaciona
 - [[Slide to Unlock|Slide to Unlock]] — Reage pixel por pixel ao movimento do dedo do usuário ao longo da trava horizontal do primeiro iPhone.
 - [[Pull to Refresh|Pull to Refresh]] — Transforma a própria lista de dados em um material elástico tracionado que aciona uma ação em background.
 
-## Variáveis Relacionadas
+## Variáveis relacionadas
 
 Este conceito opera associado ou impacta as seguintes variáveis de design:
 - [[02 variaveis/Custo Transacional|Custo Transacional]]
@@ -26,7 +26,7 @@ Este conceito opera associado ou impacta as seguintes variáveis de design:
 
 ---
 
-### Ficha Resumo do Conceito
+### Ficha resumo do conceito
 
 - **Nome do conceito**: Manipulação Direta
 - **Área principal**: IHC / Computação Pessoal

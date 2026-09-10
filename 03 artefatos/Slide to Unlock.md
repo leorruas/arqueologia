@@ -10,29 +10,29 @@ tags:
 
 O **Slide to Unlock** (Deslizar para Desbloquear) é o gesto e mecanismo de interface do usuário introduzido no primeiro iPhone para ligar o aparelho evitando ativações acidentais no bolso.
 
-## Ficha Técnica
+## Ficha técnica
 - **Criador(es)**: Equipe de engenharia e design da [[empresas/Apple|Apple]]
 - **Empresa/Fabricante**: [[empresas/Apple|Apple]]
 - **Ano de Lançamento**: 2007
 - **Tipo de Design**: [[00 tipos de design/Design de Interface|Design de Interface]]
 
-## História e Contexto de Criação
+## História e contexto de criação
 - **Demanda / Problema**: O iPhone foi o pioneiro na remoção de teclados físicos em prol de uma grande tela sensível ao toque. Isso gerou o risco iminente de toques indesejados e ligações acidentais quando o aparelho estivesse no bolso. Um simples botão virtual de "Desbloquear" não era seguro o suficiente.
 - **Processo de Desenvolvimento**: A equipe de software da Apple percebeu que precisava de um gesto contínuo e direcional que dificilmente ocorreria por acaso no bolso. Inspiraram-se em travas físicas de portas para criar o deslizar horizontal.
 
-## Inovação e Impacto
+## Inovação e impacto
 - **Ampliação de Capacidade**: Amplia a segurança de controle gestual deliberado, garantindo que o corpo confirme a intenção de iniciar o uso do aparelho sem depender de botões físicos rígidos.
 - **Enfraquecimento de Capacidade**: Enfraquece a velocidade imediata de acesso às funções do aparelho, impondo uma fricção intencional.
 - **Comportamento Coletivo**: Consagrou o polegar como o principal direcionador de destravamento de dispositivos digitais no cotidiano.
 - **Linhagem e Descendência**: Descendente direto de ferrolhos de trancas mecânicas físicas aplicados à tela de vidro (esqueuomorfismo).
 - **Custo Invisível**: Consolidação de metáforas analógicas na interface móvel que atrasaram a transição para linguagens visuais digitais mais limpas e planas.
 
-## Referências e Onde Encontrar
+## Referências e onde encontrar
 - **Conceitos Relacionados**: [[autores/Ben Shneiderman|Direct Manipulation]], Skeuomorphism.
 
 ---
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: Slide to Unlock
 - **Ano aproximado**: 2007

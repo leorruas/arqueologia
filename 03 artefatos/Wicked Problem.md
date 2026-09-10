@@ -10,18 +10,18 @@ tags:
 
 O Wicked Problem (ou Problema Complexo/Traiçoeiro) é um artefato conceitual e de enquadramento usado para gerenciar problemas de planejamento social ou organizacional que não possuem soluções exatas e que mudam enquanto se tenta resolvê-los.
 
-## Ficha Técnica
+## Ficha técnica
 - **Criador(es)**: [[autores/Horst Rittel|Horst Rittel]], [[autores/Melvin Webber|Melvin Webber]]
 - **Empresa/Fabricante**: Não aplicável
 - **Ano de Lançamento**: 1973.
 - **Materiais/Mídia**: Textos teóricos, ferramentas de mapeamento de sistemas
 - **Tipo de Design**: [[00 tipos de design/Design de Servicos|Design de Serviços]]
 
-## História e Contexto de Criação
+## História e contexto de criação
 - **Demanda / Problema**: Como lidar com problemas que nunca podem ser completamente resolvidos.
 - **Processo de Desenvolvimento**: Desenvolvido como ferramenta nos primeiros contextos de 1973..
 
-## Inovação e Impacto
+## Inovação e impacto
 - **Ampliação de Capacidade**: Amplia a tolerância à complexidade e o pensamento sistêmico frente a desafios de longo prazo.
 - **Enfraquecimento de Capacidade**: Enfraquece a ilusão de soluções rápidas e definitivas para problemas de natureza social ou organizacional.
 - **Comportamento Coletivo**: Não especificado
@@ -32,14 +32,14 @@ O Wicked Problem (ou Problema Complexo/Traiçoeiro) é um artefato conceitual e 
 - **Quem ele fortalece**: Planejadores urbanos, estrategistas e designers sociais.
 - **Quem ele enfraquece**: Tecnocratas focados em otimizações lineares simples de causa e efeito.
 
-## Referências e Onde Encontrar
+## Referências e onde encontrar
 - **Acervos**: Vitra Design Museum, MoMA (ou não aplicável se digital/processual)
 - **Leituras**:
 - *Dilemmas in a General Theory of Planning* por Horst Rittel e Melvin Webber
 
 ---
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: Wicked Problem
 - **Categoria**: Metodologia / Complexidade / Planejamento

@@ -1,0 +1,3390 @@
+{
+  "generatedAt": "2026-09-10T15:36:59.535Z",
+  "rule": "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
+  "candidateCount": 472,
+  "fileCount": 134,
+  "files": [
+    {
+      "sourcePath": "00 tipos de design/Design Grafico.md",
+      "items": [
+        {
+          "sourcePath": "00 tipos de design/Design Grafico.md",
+          "kind": "frontmatter-title",
+          "text": "Design Gráfico"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design Grafico.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Origens e Surgimento"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design Grafico.md",
+          "kind": "h2",
+          "line": 17,
+          "text": "Evolução e Desenvolvimento"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design Grafico.md",
+          "kind": "h2",
+          "line": 24,
+          "text": "Figuras e Autores de Destaque"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design Grafico.md",
+          "kind": "h2",
+          "line": 31,
+          "text": "Empresas e Estúdios Clave"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design Grafico.md",
+          "kind": "h2",
+          "line": 35,
+          "text": "Artefatos Históricos Relacionados"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design Grafico.md",
+          "kind": "h2",
+          "line": 40,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "00 tipos de design/Design de IA.md",
+      "items": [
+        {
+          "sourcePath": "00 tipos de design/Design de IA.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Origens e Surgimento"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design de IA.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Evolução e Desenvolvimento"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design de IA.md",
+          "kind": "h2",
+          "line": 25,
+          "text": "Figuras e Autores de Destaque"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design de IA.md",
+          "kind": "h2",
+          "line": 29,
+          "text": "Empresas e Estúdios Clave"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design de IA.md",
+          "kind": "h2",
+          "line": 33,
+          "text": "Artefatos Históricos Relacionados"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design de IA.md",
+          "kind": "h2",
+          "line": 36,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "00 tipos de design/Design de Interface.md",
+      "items": [
+        {
+          "sourcePath": "00 tipos de design/Design de Interface.md",
+          "kind": "frontmatter-title",
+          "text": "Design de Interface"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design de Interface.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Origens e Surgimento"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design de Interface.md",
+          "kind": "h2",
+          "line": 17,
+          "text": "Evolução e Desenvolvimento"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design de Interface.md",
+          "kind": "h2",
+          "line": 24,
+          "text": "Figuras e Autores de Destaque"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design de Interface.md",
+          "kind": "h2",
+          "line": 28,
+          "text": "Empresas e Estúdios Clave"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design de Interface.md",
+          "kind": "h2",
+          "line": 32,
+          "text": "Artefatos Históricos Relacionados"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design de Interface.md",
+          "kind": "h2",
+          "line": 41,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "00 tipos de design/Design de Produto.md",
+      "items": [
+        {
+          "sourcePath": "00 tipos de design/Design de Produto.md",
+          "kind": "frontmatter-title",
+          "text": "Design de Produto"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design de Produto.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Origens e Surgimento"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design de Produto.md",
+          "kind": "h2",
+          "line": 17,
+          "text": "Evolução e Desenvolvimento"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design de Produto.md",
+          "kind": "h2",
+          "line": 24,
+          "text": "Figuras e Autores de Destaque"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design de Produto.md",
+          "kind": "h2",
+          "line": 28,
+          "text": "Empresas e Estúdios Clave"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design de Produto.md",
+          "kind": "h2",
+          "line": 32,
+          "text": "Artefatos Históricos Relacionados"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design de Produto.md",
+          "kind": "h2",
+          "line": 39,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "00 tipos de design/Design de Servicos.md",
+      "items": [
+        {
+          "sourcePath": "00 tipos de design/Design de Servicos.md",
+          "kind": "frontmatter-title",
+          "text": "Design de Serviços"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design de Servicos.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Origens e Surgimento"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design de Servicos.md",
+          "kind": "h2",
+          "line": 17,
+          "text": "Evolução e Desenvolvimento"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design de Servicos.md",
+          "kind": "h2",
+          "line": 24,
+          "text": "Figuras e Autores de Destaque"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design de Servicos.md",
+          "kind": "h2",
+          "line": 28,
+          "text": "Empresas e Estúdios Clave"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design de Servicos.md",
+          "kind": "h2",
+          "line": 32,
+          "text": "Artefatos Históricos Relacionados"
+        },
+        {
+          "sourcePath": "00 tipos de design/Design de Servicos.md",
+          "kind": "h2",
+          "line": 41,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "00 tipos de design/Tipografia.md",
+      "items": [
+        {
+          "sourcePath": "00 tipos de design/Tipografia.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Origens e Surgimento"
+        },
+        {
+          "sourcePath": "00 tipos de design/Tipografia.md",
+          "kind": "h2",
+          "line": 17,
+          "text": "Evolução e Desenvolvimento"
+        },
+        {
+          "sourcePath": "00 tipos de design/Tipografia.md",
+          "kind": "h2",
+          "line": 24,
+          "text": "Figuras e Autores de Destaque"
+        },
+        {
+          "sourcePath": "00 tipos de design/Tipografia.md",
+          "kind": "h2",
+          "line": 28,
+          "text": "Empresas e Estúdios Clave"
+        },
+        {
+          "sourcePath": "00 tipos de design/Tipografia.md",
+          "kind": "h2",
+          "line": 32,
+          "text": "Artefatos Históricos Relacionados"
+        },
+        {
+          "sourcePath": "00 tipos de design/Tipografia.md",
+          "kind": "h2",
+          "line": 35,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "00 índices/Indice de Artefatos.md",
+      "items": [
+        {
+          "sourcePath": "00 índices/Indice de Artefatos.md",
+          "kind": "frontmatter-title",
+          "text": "Índice de Artefatos"
+        },
+        {
+          "sourcePath": "00 índices/Indice de Artefatos.md",
+          "kind": "h2",
+          "line": 11,
+          "text": "Design de Produto e Mobiliário"
+        },
+        {
+          "sourcePath": "00 índices/Indice de Artefatos.md",
+          "kind": "h2",
+          "line": 23,
+          "text": "Design Gráfico e Comunicação Visual"
+        },
+        {
+          "sourcePath": "00 índices/Indice de Artefatos.md",
+          "kind": "h2",
+          "line": 36,
+          "text": "Design de Serviços e Organização"
+        },
+        {
+          "sourcePath": "00 índices/Indice de Artefatos.md",
+          "kind": "h2",
+          "line": 62,
+          "text": "Interfaces Digitais e Software"
+        }
+      ]
+    },
+    {
+      "sourcePath": "00 índices/Indice de Autores.md",
+      "items": [
+        {
+          "sourcePath": "00 índices/Indice de Autores.md",
+          "kind": "frontmatter-title",
+          "text": "Índice de Autores"
+        },
+        {
+          "sourcePath": "00 índices/Indice de Autores.md",
+          "kind": "h2",
+          "line": 11,
+          "text": "Designers e Teóricos"
+        },
+        {
+          "sourcePath": "00 índices/Indice de Autores.md",
+          "kind": "h3",
+          "line": 13,
+          "text": "Século XIX e Início do Século XX (Pioneiros e Bauhaus)"
+        },
+        {
+          "sourcePath": "00 índices/Indice de Autores.md",
+          "kind": "h3",
+          "line": 19,
+          "text": "Meados do Século XX (Modernismo e Design Suíço)"
+        },
+        {
+          "sourcePath": "00 índices/Indice de Autores.md",
+          "kind": "h3",
+          "line": 25,
+          "text": "Teoria do Design e Wicked Problems"
+        },
+        {
+          "sourcePath": "00 índices/Indice de Autores.md",
+          "kind": "h3",
+          "line": 30,
+          "text": "Era Digital e Computação Pessoal"
+        },
+        {
+          "sourcePath": "00 índices/Indice de Autores.md",
+          "kind": "h3",
+          "line": 40,
+          "text": "Design de Serviços, Facilitação e Design Estratégico"
+        },
+        {
+          "sourcePath": "00 índices/Indice de Autores.md",
+          "kind": "h3",
+          "line": 53,
+          "text": "Filosofia, Sociologia e Relações de Poder"
+        },
+        {
+          "sourcePath": "00 índices/Indice de Autores.md",
+          "kind": "h3",
+          "line": 58,
+          "text": "Economia Comportamental e Arquitetura de Escolha"
+        },
+        {
+          "sourcePath": "00 índices/Indice de Autores.md",
+          "kind": "h3",
+          "line": 62,
+          "text": "Evolução, Cognição e Cultura Material"
+        }
+      ]
+    },
+    {
+      "sourcePath": "00 índices/Indice de Conceitos.md",
+      "items": [
+        {
+          "sourcePath": "00 índices/Indice de Conceitos.md",
+          "kind": "frontmatter-title",
+          "text": "Índice de Conceitos"
+        }
+      ]
+    },
+    {
+      "sourcePath": "00 índices/Indice de Empresas.md",
+      "items": [
+        {
+          "sourcePath": "00 índices/Indice de Empresas.md",
+          "kind": "frontmatter-title",
+          "text": "Índice de Empresas"
+        },
+        {
+          "sourcePath": "00 índices/Indice de Empresas.md",
+          "kind": "h2",
+          "line": 11,
+          "text": "Corporações, Estúdios e Fundições"
+        },
+        {
+          "sourcePath": "00 índices/Indice de Empresas.md",
+          "kind": "h3",
+          "line": 13,
+          "text": "Tecnologia e Eletrônicos"
+        },
+        {
+          "sourcePath": "00 índices/Indice de Empresas.md",
+          "kind": "h3",
+          "line": 21,
+          "text": "Consultorias de Serviços e Design Estratégico"
+        },
+        {
+          "sourcePath": "00 índices/Indice de Empresas.md",
+          "kind": "h3",
+          "line": 25,
+          "text": "Design Gráfico e Estúdios"
+        },
+        {
+          "sourcePath": "00 índices/Indice de Empresas.md",
+          "kind": "h3",
+          "line": 29,
+          "text": "Fundições Tipográficas (Type Foundries)"
+        }
+      ]
+    },
+    {
+      "sourcePath": "00 índices/Indice de Variaveis.md",
+      "items": [
+        {
+          "sourcePath": "00 índices/Indice de Variaveis.md",
+          "kind": "frontmatter-title",
+          "text": "Índice de Variáveis"
+        }
+      ]
+    },
+    {
+      "sourcePath": "00 índices/Livros Indicados.md",
+      "items": [
+        {
+          "sourcePath": "00 índices/Livros Indicados.md",
+          "kind": "frontmatter-title",
+          "text": "Livros Indicados"
+        },
+        {
+          "sourcePath": "00 índices/Livros Indicados.md",
+          "kind": "h2",
+          "line": 11,
+          "text": "Leituras e Livros Catalogados"
+        }
+      ]
+    },
+    {
+      "sourcePath": "01 conceitos/Autonomia da Atencao.md",
+      "items": [
+        {
+          "sourcePath": "01 conceitos/Autonomia da Atencao.md",
+          "kind": "frontmatter-title",
+          "text": "Autonomia da Atenção"
+        }
+      ]
+    },
+    {
+      "sourcePath": "01 conceitos/Compressao do Esforco.md",
+      "items": [
+        {
+          "sourcePath": "01 conceitos/Compressao do Esforco.md",
+          "kind": "frontmatter-title",
+          "text": "Compressão do Esforço"
+        }
+      ]
+    },
+    {
+      "sourcePath": "01 conceitos/Continuidade de Acesso.md",
+      "items": [
+        {
+          "sourcePath": "01 conceitos/Continuidade de Acesso.md",
+          "kind": "frontmatter-title",
+          "text": "Continuidade de Acesso"
+        }
+      ]
+    },
+    {
+      "sourcePath": "01 conceitos/Design Systems.md",
+      "items": [
+        {
+          "sourcePath": "01 conceitos/Design Systems.md",
+          "kind": "frontmatter-title",
+          "text": "Design Systems"
+        }
+      ]
+    },
+    {
+      "sourcePath": "01 conceitos/Distribuicao de Escassez.md",
+      "items": [
+        {
+          "sourcePath": "01 conceitos/Distribuicao de Escassez.md",
+          "kind": "frontmatter-title",
+          "text": "Distribuição de Escassez"
+        },
+        {
+          "sourcePath": "01 conceitos/Distribuicao de Escassez.md",
+          "kind": "h2",
+          "line": 21,
+          "text": "Taxonomia de Critérios de Distribuição"
+        }
+      ]
+    },
+    {
+      "sourcePath": "01 conceitos/Ecologia de Artefatos.md",
+      "items": [
+        {
+          "sourcePath": "01 conceitos/Ecologia de Artefatos.md",
+          "kind": "frontmatter-title",
+          "text": "Ecologia de Artefatos"
+        },
+        {
+          "sourcePath": "01 conceitos/Ecologia de Artefatos.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "As Famílias de Artefatos e os Recursos Invisíveis"
+        }
+      ]
+    },
+    {
+      "sourcePath": "01 conceitos/Economia da Atencao.md",
+      "items": [
+        {
+          "sourcePath": "01 conceitos/Economia da Atencao.md",
+          "kind": "frontmatter-title",
+          "text": "Economia da Atenção"
+        }
+      ]
+    },
+    {
+      "sourcePath": "01 conceitos/Eras da Economia.md",
+      "items": [
+        {
+          "sourcePath": "01 conceitos/Eras da Economia.md",
+          "kind": "frontmatter-title",
+          "text": "Eras da Economia e Design"
+        }
+      ]
+    },
+    {
+      "sourcePath": "01 conceitos/Friccao Boa vs Friccao Ruim.md",
+      "items": [
+        {
+          "sourcePath": "01 conceitos/Friccao Boa vs Friccao Ruim.md",
+          "kind": "frontmatter-title",
+          "text": "Fricção Boa vs Fricção Ruim"
+        }
+      ]
+    },
+    {
+      "sourcePath": "01 conceitos/Justica Procedimental.md",
+      "items": [
+        {
+          "sourcePath": "01 conceitos/Justica Procedimental.md",
+          "kind": "frontmatter-title",
+          "text": "Justiça Procedimental"
+        }
+      ]
+    },
+    {
+      "sourcePath": "01 conceitos/Limiares.md",
+      "items": [
+        {
+          "sourcePath": "01 conceitos/Limiares.md",
+          "kind": "h2",
+          "line": 24,
+          "text": "A Matriz de Estabilização Comportamental"
+        }
+      ]
+    },
+    {
+      "sourcePath": "01 conceitos/Manipulacao Direta.md",
+      "items": [
+        {
+          "sourcePath": "01 conceitos/Manipulacao Direta.md",
+          "kind": "frontmatter-title",
+          "text": "Manipulação Direta"
+        }
+      ]
+    },
+    {
+      "sourcePath": "01 conceitos/Memoria Distribuida.md",
+      "items": [
+        {
+          "sourcePath": "01 conceitos/Memoria Distribuida.md",
+          "kind": "frontmatter-title",
+          "text": "Memória Distribuída"
+        }
+      ]
+    },
+    {
+      "sourcePath": "01 conceitos/Paradoxo da Escolha.md",
+      "items": [
+        {
+          "sourcePath": "01 conceitos/Paradoxo da Escolha.md",
+          "kind": "frontmatter-title",
+          "text": "Paradoxo da Escolha"
+        }
+      ]
+    },
+    {
+      "sourcePath": "01 conceitos/Peles Temporarias da Arquitetura.md",
+      "items": [
+        {
+          "sourcePath": "01 conceitos/Peles Temporarias da Arquitetura.md",
+          "kind": "frontmatter-title",
+          "text": "Peles Temporárias da Arquitetura"
+        },
+        {
+          "sourcePath": "01 conceitos/Peles Temporarias da Arquitetura.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "As Camadas de Efemeridade Urbana"
+        }
+      ]
+    },
+    {
+      "sourcePath": "01 conceitos/Recompensa Variavel.md",
+      "items": [
+        {
+          "sourcePath": "01 conceitos/Recompensa Variavel.md",
+          "kind": "frontmatter-title",
+          "text": "Recompensa Variável"
+        }
+      ]
+    },
+    {
+      "sourcePath": "01 conceitos/Redução de Inferências.md",
+      "items": [
+        {
+          "sourcePath": "01 conceitos/Redução de Inferências.md",
+          "kind": "frontmatter-title",
+          "text": "Redução de Inferências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "01 conceitos/Servico de Reflexao.md",
+      "items": [
+        {
+          "sourcePath": "01 conceitos/Servico de Reflexao.md",
+          "kind": "frontmatter-title",
+          "text": "Serviço de Reflexão"
+        }
+      ]
+    },
+    {
+      "sourcePath": "01 conceitos/Tecnologia de Acesso.md",
+      "items": [
+        {
+          "sourcePath": "01 conceitos/Tecnologia de Acesso.md",
+          "kind": "frontmatter-title",
+          "text": "Tecnologia de Acesso"
+        }
+      ]
+    },
+    {
+      "sourcePath": "01 conceitos/Tecnologias de Delimitacao.md",
+      "items": [
+        {
+          "sourcePath": "01 conceitos/Tecnologias de Delimitacao.md",
+          "kind": "frontmatter-title",
+          "text": "Tecnologias de Delimitação"
+        },
+        {
+          "sourcePath": "01 conceitos/Tecnologias de Delimitacao.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Mecanismos de Construção de Fronteiras"
+        },
+        {
+          "sourcePath": "01 conceitos/Tecnologias de Delimitacao.md",
+          "kind": "h2",
+          "line": 23,
+          "text": "Indução de Contextos e Behavior Settings"
+        }
+      ]
+    },
+    {
+      "sourcePath": "02 variaveis/Atrito Decisorio.md",
+      "items": [
+        {
+          "sourcePath": "02 variaveis/Atrito Decisorio.md",
+          "kind": "frontmatter-title",
+          "text": "Atrito Decisório"
+        }
+      ]
+    },
+    {
+      "sourcePath": "02 variaveis/Custo Transacional.md",
+      "items": [
+        {
+          "sourcePath": "02 variaveis/Custo Transacional.md",
+          "kind": "frontmatter-title",
+          "text": "Custo Transacional"
+        }
+      ]
+    },
+    {
+      "sourcePath": "02 variaveis/Custo de Busca.md",
+      "items": [
+        {
+          "sourcePath": "02 variaveis/Custo de Busca.md",
+          "kind": "frontmatter-title",
+          "text": "Custo de Busca"
+        }
+      ]
+    },
+    {
+      "sourcePath": "02 variaveis/Custo do Erro.md",
+      "items": [
+        {
+          "sourcePath": "02 variaveis/Custo do Erro.md",
+          "kind": "frontmatter-title",
+          "text": "Custo do Erro"
+        }
+      ]
+    },
+    {
+      "sourcePath": "02 variaveis/Expectativa de Disponibilidade.md",
+      "items": [
+        {
+          "sourcePath": "02 variaveis/Expectativa de Disponibilidade.md",
+          "kind": "frontmatter-title",
+          "text": "Expectativa de Disponibilidade"
+        }
+      ]
+    },
+    {
+      "sourcePath": "02 variaveis/Legitimidade Decisoria.md",
+      "items": [
+        {
+          "sourcePath": "02 variaveis/Legitimidade Decisoria.md",
+          "kind": "frontmatter-title",
+          "text": "Legitimidade Decisória"
+        }
+      ]
+    },
+    {
+      "sourcePath": "02 variaveis/Previsibilidade Visual.md",
+      "items": [
+        {
+          "sourcePath": "02 variaveis/Previsibilidade Visual.md",
+          "kind": "frontmatter-title",
+          "text": "Previsibilidade Visual"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Atalhos de Teclado.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Atalhos de Teclado.md",
+          "kind": "frontmatter-title",
+          "text": "Atalhos de Teclado"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Botao Like.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Botao Like.md",
+          "kind": "frontmatter-title",
+          "text": "Botão Like"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Botao Salvar.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Botao Salvar.md",
+          "kind": "frontmatter-title",
+          "text": "Botão Salvar"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Carrinho de Compras.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Carrinho de Compras.md",
+          "kind": "frontmatter-title",
+          "text": "Carrinho de Compras"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Cartao de Embarque.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Cartao de Embarque.md",
+          "kind": "frontmatter-title",
+          "text": "Cartão de Embarque"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Controle Remoto.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Controle Remoto.md",
+          "kind": "frontmatter-title",
+          "text": "Controle Remoto"
+        },
+        {
+          "sourcePath": "03 artefatos/Controle Remoto.md",
+          "kind": "h2",
+          "line": 28,
+          "text": "Evolução e Desenvolvimento"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Espaço entre Palavras.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Espaço entre Palavras.md",
+          "kind": "frontmatter-title",
+          "text": "Espaço entre Palavras"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Garrafa de Agua.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Garrafa de Agua.md",
+          "kind": "frontmatter-title",
+          "text": "Garrafa de Água"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Hero Section.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Hero Section.md",
+          "kind": "frontmatter-title",
+          "text": "Hero Section"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Hipótese Científica.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Hipótese Científica.md",
+          "kind": "frontmatter-title",
+          "text": "Hipótese Científica"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Infinite Scroll.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Infinite Scroll.md",
+          "kind": "frontmatter-title",
+          "text": "Infinite Scroll"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Jobs to Be Done.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Jobs to Be Done.md",
+          "kind": "frontmatter-title",
+          "text": "Jobs to Be Done"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Justificativa de Valor Público.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Justificativa de Valor Público.md",
+          "kind": "frontmatter-title",
+          "text": "Justificativa de Valor Público"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/North Star.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/North Star.md",
+          "kind": "frontmatter-title",
+          "text": "North Star"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Número de Protocolo.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Número de Protocolo.md",
+          "kind": "frontmatter-title",
+          "text": "Número de Protocolo"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Pergunta de Pesquisa.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Pergunta de Pesquisa.md",
+          "kind": "frontmatter-title",
+          "text": "Pergunta de Pesquisa"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Pinch to Zoom.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Pinch to Zoom.md",
+          "kind": "frontmatter-title",
+          "text": "Pinch to Zoom"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Problema de Design.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Problema de Design.md",
+          "kind": "frontmatter-title",
+          "text": "Problema de Design"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Projeto Piloto.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Projeto Piloto.md",
+          "kind": "frontmatter-title",
+          "text": "Projeto Piloto"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Prompt Conversacional.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Prompt Conversacional.md",
+          "kind": "frontmatter-title",
+          "text": "Prompt Conversacional"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Pull to Refresh.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Pull to Refresh.md",
+          "kind": "frontmatter-title",
+          "text": "Pull to Refresh"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Quadro Branco.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Quadro Branco.md",
+          "kind": "frontmatter-title",
+          "text": "Quadro Branco"
+        },
+        {
+          "sourcePath": "03 artefatos/Quadro Branco.md",
+          "kind": "h2",
+          "line": 28,
+          "text": "Evolução e Desenvolvimento"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Slide to Unlock.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Slide to Unlock.md",
+          "kind": "frontmatter-title",
+          "text": "Slide to Unlock"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Tela de Login.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Tela de Login.md",
+          "kind": "frontmatter-title",
+          "text": "Tela de Login"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Undo Send.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Undo Send.md",
+          "kind": "frontmatter-title",
+          "text": "Undo Send"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Value Proposition Ad Lib.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Value Proposition Ad Lib.md",
+          "kind": "frontmatter-title",
+          "text": "Value Proposition Ad Lib"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Wicked Problem.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Wicked Problem.md",
+          "kind": "frontmatter-title",
+          "text": "Wicked Problem"
+        }
+      ]
+    },
+    {
+      "sourcePath": "04 genealogias/Acesso e Disponibilidade.md",
+      "items": [
+        {
+          "sourcePath": "04 genealogias/Acesso e Disponibilidade.md",
+          "kind": "frontmatter-title",
+          "text": "Acesso e Disponibilidade"
+        }
+      ]
+    },
+    {
+      "sourcePath": "04 genealogias/Atencao e Recompensa.md",
+      "items": [
+        {
+          "sourcePath": "04 genealogias/Atencao e Recompensa.md",
+          "kind": "frontmatter-title",
+          "text": "Atenção e Recompensa"
+        }
+      ]
+    },
+    {
+      "sourcePath": "04 genealogias/Compressao do Esforco.md",
+      "items": [
+        {
+          "sourcePath": "04 genealogias/Compressao do Esforco.md",
+          "kind": "frontmatter-title",
+          "text": "Compressão do Esforço"
+        }
+      ]
+    },
+    {
+      "sourcePath": "04 genealogias/Coordenacao e Sincronizacao.md",
+      "items": [
+        {
+          "sourcePath": "04 genealogias/Coordenacao e Sincronizacao.md",
+          "kind": "frontmatter-title",
+          "text": "Coordenação e Sincronização"
+        }
+      ]
+    },
+    {
+      "sourcePath": "04 genealogias/Limiares e Delimitacao.md",
+      "items": [
+        {
+          "sourcePath": "04 genealogias/Limiares e Delimitacao.md",
+          "kind": "frontmatter-title",
+          "text": "Limiares e Delimitação"
+        }
+      ]
+    },
+    {
+      "sourcePath": "04 genealogias/Permanencia e Memoria Externa.md",
+      "items": [
+        {
+          "sourcePath": "04 genealogias/Permanencia e Memoria Externa.md",
+          "kind": "frontmatter-title",
+          "text": "Permanência e Memória Externa"
+        }
+      ]
+    },
+    {
+      "sourcePath": "04 genealogias/Reversibilidade e Custo do Erro.md",
+      "items": [
+        {
+          "sourcePath": "04 genealogias/Reversibilidade e Custo do Erro.md",
+          "kind": "frontmatter-title",
+          "text": "Reversibilidade e Custo do Erro"
+        }
+      ]
+    },
+    {
+      "sourcePath": "05 percursos/Como Projetamos Fronteiras.md",
+      "items": [
+        {
+          "sourcePath": "05 percursos/Como Projetamos Fronteiras.md",
+          "kind": "frontmatter-title",
+          "text": "Como Projetamos Fronteiras"
+        },
+        {
+          "sourcePath": "05 percursos/Como Projetamos Fronteiras.md",
+          "kind": "h2",
+          "line": 26,
+          "text": "4. [[03 artefatos/Tela de Login|Tela de Login]]"
+        },
+        {
+          "sourcePath": "05 percursos/Como Projetamos Fronteiras.md",
+          "kind": "h2",
+          "line": 30,
+          "text": "5. [[03 artefatos/Slide to Unlock|Slide to Unlock]]"
+        }
+      ]
+    },
+    {
+      "sourcePath": "05 percursos/Como o Design Aprendeu a Guardar.md",
+      "items": [
+        {
+          "sourcePath": "05 percursos/Como o Design Aprendeu a Guardar.md",
+          "kind": "frontmatter-title",
+          "text": "Como o Design Aprendeu a Guardar"
+        },
+        {
+          "sourcePath": "05 percursos/Como o Design Aprendeu a Guardar.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "2. [[03 artefatos/Botao Salvar|Botão Salvar]]"
+        },
+        {
+          "sourcePath": "05 percursos/Como o Design Aprendeu a Guardar.md",
+          "kind": "h2",
+          "line": 26,
+          "text": "4. [[03 artefatos/Número de Protocolo|Número de Protocolo]]"
+        }
+      ]
+    },
+    {
+      "sourcePath": "05 percursos/Da Espera a Sincronizacao.md",
+      "items": [
+        {
+          "sourcePath": "05 percursos/Da Espera a Sincronizacao.md",
+          "kind": "frontmatter-title",
+          "text": "Da Espera à Sincronização"
+        },
+        {
+          "sourcePath": "05 percursos/Da Espera a Sincronizacao.md",
+          "kind": "h2",
+          "line": 26,
+          "text": "4. [[03 artefatos/Cartao de Embarque|Cartão de Embarque]]"
+        }
+      ]
+    },
+    {
+      "sourcePath": "05 percursos/Da Parede ao Feed.md",
+      "items": [
+        {
+          "sourcePath": "05 percursos/Da Parede ao Feed.md",
+          "kind": "frontmatter-title",
+          "text": "Da Parede ao Feed"
+        },
+        {
+          "sourcePath": "05 percursos/Da Parede ao Feed.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "2. [[03 artefatos/Hero Section|Hero Section]]"
+        },
+        {
+          "sourcePath": "05 percursos/Da Parede ao Feed.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "3. [[03 artefatos/Botao Like|Botão Like]]"
+        },
+        {
+          "sourcePath": "05 percursos/Da Parede ao Feed.md",
+          "kind": "h2",
+          "line": 26,
+          "text": "4. [[03 artefatos/Pull to Refresh|Pull to Refresh]]"
+        },
+        {
+          "sourcePath": "05 percursos/Da Parede ao Feed.md",
+          "kind": "h2",
+          "line": 30,
+          "text": "5. [[03 artefatos/Infinite Scroll|Infinite Scroll]]"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/Adrian Frutiger.md",
+      "items": [
+        {
+          "sourcePath": "autores/Adrian Frutiger.md",
+          "kind": "frontmatter-title",
+          "text": "Adrian Frutiger"
+        },
+        {
+          "sourcePath": "autores/Adrian Frutiger.md",
+          "kind": "h2",
+          "line": 14,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/Adrian Frutiger.md",
+          "kind": "h2",
+          "line": 19,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/Adrian Frutiger.md",
+          "kind": "h2",
+          "line": 23,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/Adrian Frutiger.md",
+          "kind": "h2",
+          "line": 28,
+          "text": "Parcerias & Empresas"
+        },
+        {
+          "sourcePath": "autores/Adrian Frutiger.md",
+          "kind": "h2",
+          "line": 31,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/Alan Kay.md",
+      "items": [
+        {
+          "sourcePath": "autores/Alan Kay.md",
+          "kind": "frontmatter-title",
+          "text": "Alan Kay"
+        },
+        {
+          "sourcePath": "autores/Alan Kay.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/Alan Kay.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/Alan Kay.md",
+          "kind": "h2",
+          "line": 24,
+          "text": "Empresas e Parcerias"
+        },
+        {
+          "sourcePath": "autores/Alan Kay.md",
+          "kind": "h2",
+          "line": 28,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/Alan Klement.md",
+      "items": [
+        {
+          "sourcePath": "autores/Alan Klement.md",
+          "kind": "frontmatter-title",
+          "text": "Alan Klement"
+        },
+        {
+          "sourcePath": "autores/Alan Klement.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/Alan Klement.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/Alan Klement.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/Alan Klement.md",
+          "kind": "h2",
+          "line": 26,
+          "text": "Parcerias & Empresas"
+        },
+        {
+          "sourcePath": "autores/Alan Klement.md",
+          "kind": "h2",
+          "line": 29,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/Alexander Osterwalder.md",
+      "items": [
+        {
+          "sourcePath": "autores/Alexander Osterwalder.md",
+          "kind": "frontmatter-title",
+          "text": "Alexander Osterwalder"
+        },
+        {
+          "sourcePath": "autores/Alexander Osterwalder.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/Alexander Osterwalder.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/Alexander Osterwalder.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/Alexander Osterwalder.md",
+          "kind": "h2",
+          "line": 27,
+          "text": "Parcerias & Empresas"
+        },
+        {
+          "sourcePath": "autores/Alexander Osterwalder.md",
+          "kind": "h2",
+          "line": 30,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/Alois Senefelder.md",
+      "items": [
+        {
+          "sourcePath": "autores/Alois Senefelder.md",
+          "kind": "frontmatter-title",
+          "text": "Alois Senefelder"
+        },
+        {
+          "sourcePath": "autores/Alois Senefelder.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/Alois Senefelder.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/Alois Senefelder.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/Alois Senefelder.md",
+          "kind": "h2",
+          "line": 26,
+          "text": "Parcerias & Empresas"
+        },
+        {
+          "sourcePath": "autores/Alois Senefelder.md",
+          "kind": "h2",
+          "line": 29,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/Atul Gawande.md",
+      "items": [
+        {
+          "sourcePath": "autores/Atul Gawande.md",
+          "kind": "frontmatter-title",
+          "text": "Atul Gawande"
+        },
+        {
+          "sourcePath": "autores/Atul Gawande.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/Atul Gawande.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/Atul Gawande.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/Atul Gawande.md",
+          "kind": "h2",
+          "line": 27,
+          "text": "Parcerias & Empresas"
+        },
+        {
+          "sourcePath": "autores/Atul Gawande.md",
+          "kind": "h2",
+          "line": 30,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/Barry Schwartz.md",
+      "items": [
+        {
+          "sourcePath": "autores/Barry Schwartz.md",
+          "kind": "frontmatter-title",
+          "text": "Barry Schwartz"
+        },
+        {
+          "sourcePath": "autores/Barry Schwartz.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/Barry Schwartz.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/Barry Schwartz.md",
+          "kind": "h2",
+          "line": 23,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/Barry Schwartz.md",
+          "kind": "h2",
+          "line": 26,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/Ben Shneiderman.md",
+      "items": [
+        {
+          "sourcePath": "autores/Ben Shneiderman.md",
+          "kind": "frontmatter-title",
+          "text": "Ben Shneiderman"
+        },
+        {
+          "sourcePath": "autores/Ben Shneiderman.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/Ben Shneiderman.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/Ben Shneiderman.md",
+          "kind": "h2",
+          "line": 25,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/Ben Shneiderman.md",
+          "kind": "h2",
+          "line": 28,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/Birgit Mager.md",
+      "items": [
+        {
+          "sourcePath": "autores/Birgit Mager.md",
+          "kind": "frontmatter-title",
+          "text": "Birgit Mager"
+        },
+        {
+          "sourcePath": "autores/Birgit Mager.md",
+          "kind": "h2",
+          "line": 14,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/Birgit Mager.md",
+          "kind": "h2",
+          "line": 19,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/Birgit Mager.md",
+          "kind": "h2",
+          "line": 23,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/Birgit Mager.md",
+          "kind": "h2",
+          "line": 27,
+          "text": "Parcerias & Empresas"
+        },
+        {
+          "sourcePath": "autores/Birgit Mager.md",
+          "kind": "h2",
+          "line": 30,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/Bob Moesta.md",
+      "items": [
+        {
+          "sourcePath": "autores/Bob Moesta.md",
+          "kind": "frontmatter-title",
+          "text": "Bob Moesta"
+        },
+        {
+          "sourcePath": "autores/Bob Moesta.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/Bob Moesta.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/Bob Moesta.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/Bob Moesta.md",
+          "kind": "h2",
+          "line": 25,
+          "text": "Parcerias & Empresas"
+        },
+        {
+          "sourcePath": "autores/Bob Moesta.md",
+          "kind": "h2",
+          "line": 28,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/Cass R. Sunstein.md",
+      "items": [
+        {
+          "sourcePath": "autores/Cass R. Sunstein.md",
+          "kind": "frontmatter-title",
+          "text": "Cass R. Sunstein"
+        },
+        {
+          "sourcePath": "autores/Cass R. Sunstein.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/Cass R. Sunstein.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/Cass R. Sunstein.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/Cass R. Sunstein.md",
+          "kind": "h2",
+          "line": 26,
+          "text": "Parcerias & Empresas"
+        },
+        {
+          "sourcePath": "autores/Cass R. Sunstein.md",
+          "kind": "h2",
+          "line": 29,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/Clayton Christensen.md",
+      "items": [
+        {
+          "sourcePath": "autores/Clayton Christensen.md",
+          "kind": "frontmatter-title",
+          "text": "Clayton Christensen"
+        },
+        {
+          "sourcePath": "autores/Clayton Christensen.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/Clayton Christensen.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/Clayton Christensen.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/Clayton Christensen.md",
+          "kind": "h2",
+          "line": 26,
+          "text": "Parcerias & Empresas"
+        },
+        {
+          "sourcePath": "autores/Clayton Christensen.md",
+          "kind": "h2",
+          "line": 29,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/Dave Gray.md",
+      "items": [
+        {
+          "sourcePath": "autores/Dave Gray.md",
+          "kind": "frontmatter-title",
+          "text": "Dave Gray"
+        },
+        {
+          "sourcePath": "autores/Dave Gray.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/Dave Gray.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/Dave Gray.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/Dave Gray.md",
+          "kind": "h2",
+          "line": 27,
+          "text": "Parcerias & Empresas"
+        },
+        {
+          "sourcePath": "autores/Dave Gray.md",
+          "kind": "h2",
+          "line": 30,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/David Kirkpatrick.md",
+      "items": [
+        {
+          "sourcePath": "autores/David Kirkpatrick.md",
+          "kind": "frontmatter-title",
+          "text": "David Kirkpatrick"
+        },
+        {
+          "sourcePath": "autores/David Kirkpatrick.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/David Kirkpatrick.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/David Kirkpatrick.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/David Kirkpatrick.md",
+          "kind": "h2",
+          "line": 25,
+          "text": "Parcerias & Empresas"
+        },
+        {
+          "sourcePath": "autores/David Kirkpatrick.md",
+          "kind": "h2",
+          "line": 28,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/Dieter Rams.md",
+      "items": [
+        {
+          "sourcePath": "autores/Dieter Rams.md",
+          "kind": "frontmatter-title",
+          "text": "Dieter Rams"
+        },
+        {
+          "sourcePath": "autores/Dieter Rams.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/Dieter Rams.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/Dieter Rams.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/Dieter Rams.md",
+          "kind": "h2",
+          "line": 27,
+          "text": "Parcerias & Empresas"
+        },
+        {
+          "sourcePath": "autores/Dieter Rams.md",
+          "kind": "h2",
+          "line": 30,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/Donald Norman.md",
+      "items": [
+        {
+          "sourcePath": "autores/Donald Norman.md",
+          "kind": "frontmatter-title",
+          "text": "Donald Norman"
+        },
+        {
+          "sourcePath": "autores/Donald Norman.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/Donald Norman.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/Donald Norman.md",
+          "kind": "h2",
+          "line": 24,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/Donald Norman.md",
+          "kind": "h2",
+          "line": 27,
+          "text": "Empresas e Parcerias"
+        },
+        {
+          "sourcePath": "autores/Donald Norman.md",
+          "kind": "h2",
+          "line": 31,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/Douglas Engelbart.md",
+      "items": [
+        {
+          "sourcePath": "autores/Douglas Engelbart.md",
+          "kind": "frontmatter-title",
+          "text": "Douglas Engelbart"
+        },
+        {
+          "sourcePath": "autores/Douglas Engelbart.md",
+          "kind": "h2",
+          "line": 14,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/Douglas Engelbart.md",
+          "kind": "h2",
+          "line": 19,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/Douglas Engelbart.md",
+          "kind": "h2",
+          "line": 23,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/Douglas Engelbart.md",
+          "kind": "h2",
+          "line": 27,
+          "text": "Parcerias & Empresas"
+        },
+        {
+          "sourcePath": "autores/Douglas Engelbart.md",
+          "kind": "h2",
+          "line": 30,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/Francis Bacon.md",
+      "items": [
+        {
+          "sourcePath": "autores/Francis Bacon.md",
+          "kind": "frontmatter-title",
+          "text": "Francis Bacon"
+        },
+        {
+          "sourcePath": "autores/Francis Bacon.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/Francis Bacon.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/Francis Bacon.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/Francis Bacon.md",
+          "kind": "h2",
+          "line": 27,
+          "text": "Parcerias & Empresas"
+        },
+        {
+          "sourcePath": "autores/Francis Bacon.md",
+          "kind": "h2",
+          "line": 30,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/G Lynn Shostack.md",
+      "items": [
+        {
+          "sourcePath": "autores/G Lynn Shostack.md",
+          "kind": "frontmatter-title",
+          "text": "G Lynn Shostack"
+        },
+        {
+          "sourcePath": "autores/G Lynn Shostack.md",
+          "kind": "h2",
+          "line": 14,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/G Lynn Shostack.md",
+          "kind": "h2",
+          "line": 19,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/G Lynn Shostack.md",
+          "kind": "h2",
+          "line": 23,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/G Lynn Shostack.md",
+          "kind": "h2",
+          "line": 27,
+          "text": "Parcerias & Empresas"
+        },
+        {
+          "sourcePath": "autores/G Lynn Shostack.md",
+          "kind": "h2",
+          "line": 30,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/Hans Barnard.md",
+      "items": [
+        {
+          "sourcePath": "autores/Hans Barnard.md",
+          "kind": "frontmatter-title",
+          "text": "Hans Barnard"
+        },
+        {
+          "sourcePath": "autores/Hans Barnard.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/Hans Barnard.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/Hans Barnard.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/Hans Barnard.md",
+          "kind": "h2",
+          "line": 27,
+          "text": "Parcerias & Empresas"
+        },
+        {
+          "sourcePath": "autores/Hans Barnard.md",
+          "kind": "h2",
+          "line": 30,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/Henri de Toulouse Lautrec.md",
+      "items": [
+        {
+          "sourcePath": "autores/Henri de Toulouse Lautrec.md",
+          "kind": "frontmatter-title",
+          "text": "Henri de Toulouse-Lautrec"
+        },
+        {
+          "sourcePath": "autores/Henri de Toulouse Lautrec.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/Henri de Toulouse Lautrec.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/Henri de Toulouse Lautrec.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/Henri de Toulouse Lautrec.md",
+          "kind": "h2",
+          "line": 27,
+          "text": "Parcerias & Empresas"
+        },
+        {
+          "sourcePath": "autores/Henri de Toulouse Lautrec.md",
+          "kind": "h2",
+          "line": 30,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/Herbert Simon.md",
+      "items": [
+        {
+          "sourcePath": "autores/Herbert Simon.md",
+          "kind": "frontmatter-title",
+          "text": "Herbert Simon"
+        },
+        {
+          "sourcePath": "autores/Herbert Simon.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/Herbert Simon.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/Herbert Simon.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/Herbert Simon.md",
+          "kind": "h2",
+          "line": 26,
+          "text": "Parcerias & Empresas"
+        },
+        {
+          "sourcePath": "autores/Herbert Simon.md",
+          "kind": "h2",
+          "line": 29,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/Horst Rittel.md",
+      "items": [
+        {
+          "sourcePath": "autores/Horst Rittel.md",
+          "kind": "frontmatter-title",
+          "text": "Horst Rittel"
+        },
+        {
+          "sourcePath": "autores/Horst Rittel.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/Horst Rittel.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/Horst Rittel.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/Horst Rittel.md",
+          "kind": "h2",
+          "line": 26,
+          "text": "Parcerias & Empresas"
+        },
+        {
+          "sourcePath": "autores/Horst Rittel.md",
+          "kind": "h2",
+          "line": 29,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/James Macanufo.md",
+      "items": [
+        {
+          "sourcePath": "autores/James Macanufo.md",
+          "kind": "frontmatter-title",
+          "text": "James Macanufo"
+        },
+        {
+          "sourcePath": "autores/James Macanufo.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/James Macanufo.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/James Macanufo.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/James Macanufo.md",
+          "kind": "h2",
+          "line": 26,
+          "text": "Parcerias & Empresas"
+        },
+        {
+          "sourcePath": "autores/James Macanufo.md",
+          "kind": "h2",
+          "line": 29,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/John Kotter.md",
+      "items": [
+        {
+          "sourcePath": "autores/John Kotter.md",
+          "kind": "frontmatter-title",
+          "text": "John Kotter"
+        },
+        {
+          "sourcePath": "autores/John Kotter.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/John Kotter.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/John Kotter.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/John Kotter.md",
+          "kind": "h2",
+          "line": 26,
+          "text": "Parcerias & Empresas"
+        },
+        {
+          "sourcePath": "autores/John Kotter.md",
+          "kind": "h2",
+          "line": 29,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/John Odling-Smee.md",
+      "items": [
+        {
+          "sourcePath": "autores/John Odling-Smee.md",
+          "kind": "frontmatter-title",
+          "text": "John Odling-Smee"
+        },
+        {
+          "sourcePath": "autores/John Odling-Smee.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/John Odling-Smee.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/John Odling-Smee.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/John Odling-Smee.md",
+          "kind": "h2",
+          "line": 25,
+          "text": "Parcerias & Empresas"
+        },
+        {
+          "sourcePath": "autores/John Odling-Smee.md",
+          "kind": "h2",
+          "line": 28,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/Josef Muller Brockmann.md",
+      "items": [
+        {
+          "sourcePath": "autores/Josef Muller Brockmann.md",
+          "kind": "frontmatter-title",
+          "text": "Josef Müller-Brockmann"
+        },
+        {
+          "sourcePath": "autores/Josef Muller Brockmann.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/Josef Muller Brockmann.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/Josef Muller Brockmann.md",
+          "kind": "h2",
+          "line": 24,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/Josef Muller Brockmann.md",
+          "kind": "h2",
+          "line": 28,
+          "text": "Empresas e Parcerias"
+        },
+        {
+          "sourcePath": "autores/Josef Muller Brockmann.md",
+          "kind": "h2",
+          "line": 32,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/Jules Cheret.md",
+      "items": [
+        {
+          "sourcePath": "autores/Jules Cheret.md",
+          "kind": "frontmatter-title",
+          "text": "Jules Chéret"
+        },
+        {
+          "sourcePath": "autores/Jules Cheret.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/Jules Cheret.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/Jules Cheret.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/Jules Cheret.md",
+          "kind": "h2",
+          "line": 26,
+          "text": "Parcerias & Empresas"
+        },
+        {
+          "sourcePath": "autores/Jules Cheret.md",
+          "kind": "h2",
+          "line": 29,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/Kevin Laland.md",
+      "items": [
+        {
+          "sourcePath": "autores/Kevin Laland.md",
+          "kind": "frontmatter-title",
+          "text": "Kevin Laland"
+        },
+        {
+          "sourcePath": "autores/Kevin Laland.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/Kevin Laland.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/Kevin Laland.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/Kevin Laland.md",
+          "kind": "h2",
+          "line": 26,
+          "text": "Parcerias & Empresas"
+        },
+        {
+          "sourcePath": "autores/Kevin Laland.md",
+          "kind": "h2",
+          "line": 29,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/Loren Brichter.md",
+      "items": [
+        {
+          "sourcePath": "autores/Loren Brichter.md",
+          "kind": "frontmatter-title",
+          "text": "Loren Brichter"
+        },
+        {
+          "sourcePath": "autores/Loren Brichter.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/Loren Brichter.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/Loren Brichter.md",
+          "kind": "h2",
+          "line": 24,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/Loren Brichter.md",
+          "kind": "h2",
+          "line": 28,
+          "text": "Empresas e Parcerias"
+        },
+        {
+          "sourcePath": "autores/Loren Brichter.md",
+          "kind": "h2",
+          "line": 32,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/Marcus Feldman.md",
+      "items": [
+        {
+          "sourcePath": "autores/Marcus Feldman.md",
+          "kind": "frontmatter-title",
+          "text": "Marcus Feldman"
+        },
+        {
+          "sourcePath": "autores/Marcus Feldman.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/Marcus Feldman.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/Marcus Feldman.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/Marcus Feldman.md",
+          "kind": "h2",
+          "line": 26,
+          "text": "Parcerias & Empresas"
+        },
+        {
+          "sourcePath": "autores/Marcus Feldman.md",
+          "kind": "h2",
+          "line": 29,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/Max Miedinger.md",
+      "items": [
+        {
+          "sourcePath": "autores/Max Miedinger.md",
+          "kind": "frontmatter-title",
+          "text": "Max Miedinger"
+        },
+        {
+          "sourcePath": "autores/Max Miedinger.md",
+          "kind": "h2",
+          "line": 14,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/Max Miedinger.md",
+          "kind": "h2",
+          "line": 19,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/Max Miedinger.md",
+          "kind": "h2",
+          "line": 23,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/Max Miedinger.md",
+          "kind": "h2",
+          "line": 27,
+          "text": "Parcerias & Empresas"
+        },
+        {
+          "sourcePath": "autores/Max Miedinger.md",
+          "kind": "h2",
+          "line": 30,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/Melvin Webber.md",
+      "items": [
+        {
+          "sourcePath": "autores/Melvin Webber.md",
+          "kind": "frontmatter-title",
+          "text": "Melvin Webber"
+        },
+        {
+          "sourcePath": "autores/Melvin Webber.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/Melvin Webber.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/Melvin Webber.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/Melvin Webber.md",
+          "kind": "h2",
+          "line": 25,
+          "text": "Parcerias & Empresas"
+        },
+        {
+          "sourcePath": "autores/Melvin Webber.md",
+          "kind": "h2",
+          "line": 28,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/Merlin Donald.md",
+      "items": [
+        {
+          "sourcePath": "autores/Merlin Donald.md",
+          "kind": "frontmatter-title",
+          "text": "Merlin Donald"
+        },
+        {
+          "sourcePath": "autores/Merlin Donald.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/Merlin Donald.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/Merlin Donald.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/Merlin Donald.md",
+          "kind": "h2",
+          "line": 26,
+          "text": "Parcerias & Empresas"
+        },
+        {
+          "sourcePath": "autores/Merlin Donald.md",
+          "kind": "h2",
+          "line": 29,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/Michel Foucault.md",
+      "items": [
+        {
+          "sourcePath": "autores/Michel Foucault.md",
+          "kind": "frontmatter-title",
+          "text": "Michel Foucault"
+        },
+        {
+          "sourcePath": "autores/Michel Foucault.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/Michel Foucault.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/Michel Foucault.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/Michel Foucault.md",
+          "kind": "h2",
+          "line": 26,
+          "text": "Parcerias & Empresas"
+        },
+        {
+          "sourcePath": "autores/Michel Foucault.md",
+          "kind": "h2",
+          "line": 29,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/Norbert Elias.md",
+      "items": [
+        {
+          "sourcePath": "autores/Norbert Elias.md",
+          "kind": "frontmatter-title",
+          "text": "Norbert Elias"
+        },
+        {
+          "sourcePath": "autores/Norbert Elias.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/Norbert Elias.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/Norbert Elias.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/Norbert Elias.md",
+          "kind": "h2",
+          "line": 27,
+          "text": "Parcerias & Empresas"
+        },
+        {
+          "sourcePath": "autores/Norbert Elias.md",
+          "kind": "h2",
+          "line": 30,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/Peter Behrens.md",
+      "items": [
+        {
+          "sourcePath": "autores/Peter Behrens.md",
+          "kind": "frontmatter-title",
+          "text": "Peter Behrens"
+        },
+        {
+          "sourcePath": "autores/Peter Behrens.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/Peter Behrens.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/Peter Behrens.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/Peter Behrens.md",
+          "kind": "h2",
+          "line": 27,
+          "text": "Parcerias & Empresas"
+        },
+        {
+          "sourcePath": "autores/Peter Behrens.md",
+          "kind": "h2",
+          "line": 30,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/Richard H. Thaler.md",
+      "items": [
+        {
+          "sourcePath": "autores/Richard H. Thaler.md",
+          "kind": "frontmatter-title",
+          "text": "Richard H. Thaler"
+        },
+        {
+          "sourcePath": "autores/Richard H. Thaler.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/Richard H. Thaler.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/Richard H. Thaler.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/Richard H. Thaler.md",
+          "kind": "h2",
+          "line": 26,
+          "text": "Parcerias & Empresas"
+        },
+        {
+          "sourcePath": "autores/Richard H. Thaler.md",
+          "kind": "h2",
+          "line": 29,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/Robert Adler.md",
+      "items": [
+        {
+          "sourcePath": "autores/Robert Adler.md",
+          "kind": "frontmatter-title",
+          "text": "Robert Adler"
+        },
+        {
+          "sourcePath": "autores/Robert Adler.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/Robert Adler.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/Robert Adler.md",
+          "kind": "h2",
+          "line": 23,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/Robert Adler.md",
+          "kind": "h2",
+          "line": 27,
+          "text": "Empresas e Parcerias"
+        },
+        {
+          "sourcePath": "autores/Robert Adler.md",
+          "kind": "h2",
+          "line": 30,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/Steve Krug.md",
+      "items": [
+        {
+          "sourcePath": "autores/Steve Krug.md",
+          "kind": "frontmatter-title",
+          "text": "Steve Krug"
+        },
+        {
+          "sourcePath": "autores/Steve Krug.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/Steve Krug.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/Steve Krug.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/Steve Krug.md",
+          "kind": "h2",
+          "line": 26,
+          "text": "Parcerias & Empresas"
+        },
+        {
+          "sourcePath": "autores/Steve Krug.md",
+          "kind": "h2",
+          "line": 29,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/Sunni Brown.md",
+      "items": [
+        {
+          "sourcePath": "autores/Sunni Brown.md",
+          "kind": "frontmatter-title",
+          "text": "Sunni Brown"
+        },
+        {
+          "sourcePath": "autores/Sunni Brown.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/Sunni Brown.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/Sunni Brown.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/Sunni Brown.md",
+          "kind": "h2",
+          "line": 26,
+          "text": "Parcerias & Empresas"
+        },
+        {
+          "sourcePath": "autores/Sunni Brown.md",
+          "kind": "h2",
+          "line": 29,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/Susan Kare.md",
+      "items": [
+        {
+          "sourcePath": "autores/Susan Kare.md",
+          "kind": "frontmatter-title",
+          "text": "Susan Kare"
+        },
+        {
+          "sourcePath": "autores/Susan Kare.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/Susan Kare.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/Susan Kare.md",
+          "kind": "h2",
+          "line": 25,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/Susan Kare.md",
+          "kind": "h2",
+          "line": 29,
+          "text": "Empresas e Parcerias"
+        },
+        {
+          "sourcePath": "autores/Susan Kare.md",
+          "kind": "h2",
+          "line": 34,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "autores/Willeke Wendrich.md",
+      "items": [
+        {
+          "sourcePath": "autores/Willeke Wendrich.md",
+          "kind": "frontmatter-title",
+          "text": "Willeke Wendrich"
+        },
+        {
+          "sourcePath": "autores/Willeke Wendrich.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Biográfico"
+        },
+        {
+          "sourcePath": "autores/Willeke Wendrich.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Contribuições & Filosofia de Design"
+        },
+        {
+          "sourcePath": "autores/Willeke Wendrich.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos e Obras Marcantes"
+        },
+        {
+          "sourcePath": "autores/Willeke Wendrich.md",
+          "kind": "h2",
+          "line": 27,
+          "text": "Parcerias & Empresas"
+        },
+        {
+          "sourcePath": "autores/Willeke Wendrich.md",
+          "kind": "h2",
+          "line": 30,
+          "text": "Conexões e Referências"
+        }
+      ]
+    },
+    {
+      "sourcePath": "empresas/3M.md",
+      "items": [
+        {
+          "sourcePath": "empresas/3M.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Institucional"
+        },
+        {
+          "sourcePath": "empresas/3M.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Filosofia & Abordagem de Design"
+        },
+        {
+          "sourcePath": "empresas/3M.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos Emblemáticos e Produtos Históricos"
+        },
+        {
+          "sourcePath": "empresas/3M.md",
+          "kind": "h2",
+          "line": 26,
+          "text": "Designers Notáveis Associados"
+        },
+        {
+          "sourcePath": "empresas/3M.md",
+          "kind": "h2",
+          "line": 30,
+          "text": "Referências e Leituras"
+        }
+      ]
+    },
+    {
+      "sourcePath": "empresas/AEG.md",
+      "items": [
+        {
+          "sourcePath": "empresas/AEG.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Institucional"
+        },
+        {
+          "sourcePath": "empresas/AEG.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Filosofia & Abordagem de Design"
+        },
+        {
+          "sourcePath": "empresas/AEG.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos Emblemáticos e Produtos Históricos"
+        },
+        {
+          "sourcePath": "empresas/AEG.md",
+          "kind": "h2",
+          "line": 27,
+          "text": "Designers Notáveis Associados"
+        },
+        {
+          "sourcePath": "empresas/AEG.md",
+          "kind": "h2",
+          "line": 30,
+          "text": "Referências e Leituras"
+        }
+      ]
+    },
+    {
+      "sourcePath": "empresas/Apple.md",
+      "items": [
+        {
+          "sourcePath": "empresas/Apple.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Institucional"
+        },
+        {
+          "sourcePath": "empresas/Apple.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Filosofia & Abordagem de Design"
+        },
+        {
+          "sourcePath": "empresas/Apple.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos Emblemáticos e Produtos Históricos"
+        },
+        {
+          "sourcePath": "empresas/Apple.md",
+          "kind": "h2",
+          "line": 27,
+          "text": "Designers Notáveis Associados"
+        },
+        {
+          "sourcePath": "empresas/Apple.md",
+          "kind": "h2",
+          "line": 32,
+          "text": "Referências e Leituras"
+        }
+      ]
+    },
+    {
+      "sourcePath": "empresas/Braun.md",
+      "items": [
+        {
+          "sourcePath": "empresas/Braun.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Institucional"
+        },
+        {
+          "sourcePath": "empresas/Braun.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Filosofia & Abordagem de Design"
+        },
+        {
+          "sourcePath": "empresas/Braun.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos Emblemáticos e Produtos Históricos"
+        },
+        {
+          "sourcePath": "empresas/Braun.md",
+          "kind": "h2",
+          "line": 27,
+          "text": "Designers Notáveis Associados"
+        },
+        {
+          "sourcePath": "empresas/Braun.md",
+          "kind": "h2",
+          "line": 32,
+          "text": "Referências e Leituras"
+        }
+      ]
+    },
+    {
+      "sourcePath": "empresas/Chermayeff and Geismar.md",
+      "items": [
+        {
+          "sourcePath": "empresas/Chermayeff and Geismar.md",
+          "kind": "frontmatter-title",
+          "text": "Chermayeff and Geismar"
+        },
+        {
+          "sourcePath": "empresas/Chermayeff and Geismar.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Institucional"
+        },
+        {
+          "sourcePath": "empresas/Chermayeff and Geismar.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Filosofia & Abordagem de Design"
+        },
+        {
+          "sourcePath": "empresas/Chermayeff and Geismar.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos Emblemáticos e Produtos Históricos"
+        },
+        {
+          "sourcePath": "empresas/Chermayeff and Geismar.md",
+          "kind": "h2",
+          "line": 28,
+          "text": "Designers Notáveis Associados"
+        },
+        {
+          "sourcePath": "empresas/Chermayeff and Geismar.md",
+          "kind": "h2",
+          "line": 33,
+          "text": "Referências e Leituras"
+        }
+      ]
+    },
+    {
+      "sourcePath": "empresas/Engine.md",
+      "items": [
+        {
+          "sourcePath": "empresas/Engine.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Institucional"
+        },
+        {
+          "sourcePath": "empresas/Engine.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Filosofia & Abordagem de Design"
+        },
+        {
+          "sourcePath": "empresas/Engine.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos Emblemáticos e Produtos Históricos"
+        },
+        {
+          "sourcePath": "empresas/Engine.md",
+          "kind": "h2",
+          "line": 26,
+          "text": "Designers Notáveis Associados"
+        },
+        {
+          "sourcePath": "empresas/Engine.md",
+          "kind": "h2",
+          "line": 30,
+          "text": "Referências e Leituras"
+        }
+      ]
+    },
+    {
+      "sourcePath": "empresas/Facebook.md",
+      "items": [
+        {
+          "sourcePath": "empresas/Facebook.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Institucional"
+        },
+        {
+          "sourcePath": "empresas/Facebook.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Filosofia & Abordagem de Design"
+        },
+        {
+          "sourcePath": "empresas/Facebook.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos Emblemáticos e Produtos Históricos"
+        },
+        {
+          "sourcePath": "empresas/Facebook.md",
+          "kind": "h2",
+          "line": 26,
+          "text": "Referências e Leituras"
+        }
+      ]
+    },
+    {
+      "sourcePath": "empresas/Google.md",
+      "items": [
+        {
+          "sourcePath": "empresas/Google.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Institucional"
+        },
+        {
+          "sourcePath": "empresas/Google.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Filosofia & Abordagem de Design"
+        },
+        {
+          "sourcePath": "empresas/Google.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos Emblemáticos e Produtos Históricos"
+        },
+        {
+          "sourcePath": "empresas/Google.md",
+          "kind": "h2",
+          "line": 27,
+          "text": "Referências e Leituras"
+        }
+      ]
+    },
+    {
+      "sourcePath": "empresas/Haas Type Foundry.md",
+      "items": [
+        {
+          "sourcePath": "empresas/Haas Type Foundry.md",
+          "kind": "frontmatter-title",
+          "text": "Haas Type Foundry"
+        },
+        {
+          "sourcePath": "empresas/Haas Type Foundry.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Institucional"
+        },
+        {
+          "sourcePath": "empresas/Haas Type Foundry.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Filosofia & Abordagem de Design"
+        },
+        {
+          "sourcePath": "empresas/Haas Type Foundry.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos Emblemáticos e Produtos Históricos"
+        },
+        {
+          "sourcePath": "empresas/Haas Type Foundry.md",
+          "kind": "h2",
+          "line": 26,
+          "text": "Designers Notáveis Associados"
+        },
+        {
+          "sourcePath": "empresas/Haas Type Foundry.md",
+          "kind": "h2",
+          "line": 30,
+          "text": "Referências e Leituras"
+        }
+      ]
+    },
+    {
+      "sourcePath": "empresas/Linotype.md",
+      "items": [
+        {
+          "sourcePath": "empresas/Linotype.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Institucional"
+        },
+        {
+          "sourcePath": "empresas/Linotype.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Filosofia & Abordagem de Design"
+        },
+        {
+          "sourcePath": "empresas/Linotype.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos Emblemáticos e Produtos Históricos"
+        },
+        {
+          "sourcePath": "empresas/Linotype.md",
+          "kind": "h2",
+          "line": 26,
+          "text": "Designers Notáveis Associados"
+        },
+        {
+          "sourcePath": "empresas/Linotype.md",
+          "kind": "h2",
+          "line": 32,
+          "text": "Referências e Leituras"
+        }
+      ]
+    },
+    {
+      "sourcePath": "empresas/Livework.md",
+      "items": [
+        {
+          "sourcePath": "empresas/Livework.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Institucional"
+        },
+        {
+          "sourcePath": "empresas/Livework.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Filosofia & Abordagem de Design"
+        },
+        {
+          "sourcePath": "empresas/Livework.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos Emblemáticos e Produtos Históricos"
+        },
+        {
+          "sourcePath": "empresas/Livework.md",
+          "kind": "h2",
+          "line": 26,
+          "text": "Designers Notáveis Associados"
+        },
+        {
+          "sourcePath": "empresas/Livework.md",
+          "kind": "h2",
+          "line": 30,
+          "text": "Referências e Leituras"
+        }
+      ]
+    },
+    {
+      "sourcePath": "empresas/Pentagram.md",
+      "items": [
+        {
+          "sourcePath": "empresas/Pentagram.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Institucional"
+        },
+        {
+          "sourcePath": "empresas/Pentagram.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Filosofia & Abordagem de Design"
+        },
+        {
+          "sourcePath": "empresas/Pentagram.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos Emblemáticos e Produtos Históricos"
+        },
+        {
+          "sourcePath": "empresas/Pentagram.md",
+          "kind": "h2",
+          "line": 27,
+          "text": "Designers Notáveis Associados"
+        },
+        {
+          "sourcePath": "empresas/Pentagram.md",
+          "kind": "h2",
+          "line": 33,
+          "text": "Referências e Leituras"
+        }
+      ]
+    },
+    {
+      "sourcePath": "empresas/Xerox PARC.md",
+      "items": [
+        {
+          "sourcePath": "empresas/Xerox PARC.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Institucional"
+        },
+        {
+          "sourcePath": "empresas/Xerox PARC.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Filosofia & Abordagem de Design"
+        },
+        {
+          "sourcePath": "empresas/Xerox PARC.md",
+          "kind": "h2",
+          "line": 22,
+          "text": "Projetos Emblemáticos e Produtos Históricos"
+        },
+        {
+          "sourcePath": "empresas/Xerox PARC.md",
+          "kind": "h2",
+          "line": 27,
+          "text": "Designers Notáveis Associados"
+        },
+        {
+          "sourcePath": "empresas/Xerox PARC.md",
+          "kind": "h2",
+          "line": 31,
+          "text": "Referências e Leituras"
+        }
+      ]
+    },
+    {
+      "sourcePath": "empresas/Zenith.md",
+      "items": [
+        {
+          "sourcePath": "empresas/Zenith.md",
+          "kind": "frontmatter-title",
+          "text": "Zenith Electronics"
+        },
+        {
+          "sourcePath": "empresas/Zenith.md",
+          "kind": "h2",
+          "line": 13,
+          "text": "Perfil Institucional"
+        },
+        {
+          "sourcePath": "empresas/Zenith.md",
+          "kind": "h2",
+          "line": 18,
+          "text": "Filosofia & Abordagem de Design"
+        },
+        {
+          "sourcePath": "empresas/Zenith.md",
+          "kind": "h2",
+          "line": 21,
+          "text": "Projetos Emblemáticos e Produtos Históricos"
+        },
+        {
+          "sourcePath": "empresas/Zenith.md",
+          "kind": "h2",
+          "line": 26,
+          "text": "Designers e Engenheiros Notáveis"
+        },
+        {
+          "sourcePath": "empresas/Zenith.md",
+          "kind": "h2",
+          "line": 30,
+          "text": "Conexões e Referências"
+        }
+      ]
+    }
+  ]
+}

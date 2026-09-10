@@ -10,7 +10,7 @@ tags:
 
 A **Economia da Atenção** trata a atenção humana como um recurso valioso, escasso e monetizável. O modelo analisa como as escolhas de design de interfaces modernas são modeladas com o objetivo explícito de maximizar o tempo de permanência de um usuário e registrar seus hábitos comportamentais para fins corporativos ou comerciais.
 
-## Aplicação nos Artefatos
+## Aplicação nos artefatos
 
 Este conceito/princípio se manifesta e ajuda a compreender a lógica operacional dos seguintes artefatos:
 
@@ -18,7 +18,7 @@ Este conceito/princípio se manifesta e ajuda a compreender a lógica operaciona
 - [[Botao Like|Botão Like]] — Funciona como um sinalizador quantificável de aprovação que gera métricas valiosas para os algoritmos de recomendação e retenção de anúncios.
 - [[Pull to Refresh|Pull to Refresh]] — Garante a atração do usuário ao topo da lista por meio da física e mecânica de atualização associada a recompensas.
 
-## Variáveis Relacionadas
+## Variáveis relacionadas
 
 Este conceito opera associado ou impacta as seguintes variáveis de design:
 - [[Atencao|Atenção]]
@@ -26,7 +26,7 @@ Este conceito opera associado ou impacta as seguintes variáveis de design:
 
 ---
 
-### Ficha Resumo do Conceito
+### Ficha resumo do conceito
 
 - **Nome do conceito**: Economia da Atenção
 - **Área principal**: Economia Comportamental / IHC

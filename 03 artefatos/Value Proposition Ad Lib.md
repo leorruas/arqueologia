@@ -10,30 +10,30 @@ tags:
 
 Um artefato de design estratégico e facilitação em formato de frase lacunada para preenchimento coletivo. Ele é projetado para forçar equipes a estruturarem, de forma explícita e resumida, a relação lógica entre o perfil do usuário, a dor enfrentada, a solução proposta, a hipótese de transformação e as evidências que sustentam essa aposta.
 
-## Ficha Técnica
+## Ficha técnica
 - **Criador(es)**: [[autores/Alexander Osterwalder|Alexander Osterwalder]] (conceito original), adaptado por designers na área de serviços públicos
 - **Empresa/Fabricante**: [Não aplicável]
 - **Ano de Lançamento**: Década de 2020
 - **Materiais/Mídia**: Papel, lousas digitais, post-its, texto digital
 - **Tipo de Design**: [[00 tipos de design/Design de Servicos|Design de Serviços]]
 
-## História e Contexto de Criação
+## História e contexto de criação
 - **Demanda / Problema**: Nas discussões de projeto, as equipes possuem uma forte tendência cognitiva de focar prematuramente nas soluções ("vamos criar um aplicativo", "vamos colocar inteligência artificial") sem antes definir se essa intervenção de fato resolve um problema real ou cria valor para o usuário final.
 - **Processo de Desenvolvimento**: A ferramenta surgiu como um desdobramento simplificado do *Value Proposition Canvas* de Alexander Osterwalder, convertendo diagramas complexos em uma estrutura verbal simples (Ad Lib ou fill-in-the-blanks) para workshops. Em contextos públicos e sociais, ela foi adaptada para colocar a hipótese e a evidência empírica no centro da justificativa de projetos.
 
-## Inovação e Impacto
+## Inovação e impacto
 - **Ampliação de Capacidade**: Amplia a capacidade de reflexão lógica e alinhamento conceitual das equipes, permitindo visualizar e testar os elos de uma argumentação de projeto em poucos segundos.
 - **Enfraquecimento de Capacidade**: Enfraquece o debate fluido e a intuição puramente informal de design, canalizando as ideias de forma rígida em uma estrutura de hipótese pré-determinada.
 - **Comportamento Coletivo**: Introduziu o hábito de discutir "hipóteses de valor" e "rastreabilidade de demandas" antes da prototipação de sistemas.
 - **Linhagem e Descendência**: Descende dos canvases de negócios e de propostas de valor comerciais, e deu origem a matrizes formais de governança pública, como a Justificativa de Valor Público.
 - **Custo Invisível**: Pode induzir a um preenchimento retórico ou burocrático (o preenchimento pelo preenchimento), onde equipes aprendem a usar a linguagem do framework para legitimar ideias predefinidas sem reflexão real.
 
-## Referências e Onde Encontrar
+## Referências e onde encontrar
 - **Leituras**: *Value Proposition Design* (Alexander Osterwalder et al., 2014)
 
 ---
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: Value Proposition Ad Lib
 - **Categoria**: Design de Serviços / Workshop / Formulação de Hipóteses

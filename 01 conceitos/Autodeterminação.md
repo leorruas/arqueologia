@@ -10,7 +10,7 @@ tags:
 
 Princípio que postula que a motivação sustentável humana surge quando três necessidades psicológicas essenciais são atendidas: autonomia, competência e pertencimento. O design pode estruturar sistemas para ampliar essas capacidades em vez de impor controle.
 
-## Aplicação nos Artefatos
+## Aplicação nos artefatos
 
 Este conceito/princípio se manifesta e ajuda a compreender a lógica operacional dos seguintes artefatos:
 
@@ -20,7 +20,7 @@ Este conceito/princípio se manifesta e ajuda a compreender a lógica operaciona
 - [[03 artefatos/Jobs to Be Done|Jobs to Be Done]] — Aplicação na estruturação de autonomia ou foco de intenção de equipe.
 - [[03 artefatos/Workshop|Workshop]] — Aplicação na estruturação de autonomia ou foco de intenção de equipe.
 
-## Variáveis Relacionadas
+## Variáveis relacionadas
 
 Este conceito opera associado ou impacta as seguintes variáveis de design:
 - [[02 variaveis/Atencao|Atenção]]
@@ -28,7 +28,7 @@ Este conceito opera associado ou impacta as seguintes variáveis de design:
 
 ---
 
-### Ficha Resumo do Conceito
+### Ficha resumo do conceito
 
 - **Nome do conceito**: Autodeterminação
 - **Área principal**: Psicologia Cognitiva / Liderança / Design de Serviços

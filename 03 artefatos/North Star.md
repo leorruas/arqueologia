@@ -10,18 +10,18 @@ tags:
 
 A North Star (ou métrica Estrela Guia) é um artefato de intenção e alinhamento que resume a principal entrega de valor de um produto ou serviço às equipes de desenvolvimento.
 
-## Ficha Técnica
+## Ficha técnica
 - **Criador(es)**: Não aplicável
 - **Empresa/Fabricante**: Não aplicável
 - **Ano de Lançamento**: Produto digital e estratégia, anos 2000.
 - **Materiais/Mídia**: Dashboards, apresentações, roadmaps estratégicos
 - **Tipo de Design**: [[00 tipos de design/Design de Interface|Design de Interface]] / [[00 tipos de design/Design de Servicos|Design de Serviços]]
 
-## História e Contexto de Criação
+## História e contexto de criação
 - **Demanda / Problema**: Como evitar que equipes otimizem métricas locais enquanto perdem o objetivo maior.
 - **Processo de Desenvolvimento**: Desenvolvido como ferramenta nos primeiros contextos de Produto digital e estratégia, anos 2000..
 
-## Inovação e Impacto
+## Inovação e impacto
 - **Ampliação de Capacidade**: Amplia o alinhamento de equipes ágeis multifuncionais em torno da entrega de valor real.
 - **Enfraquecimento de Capacidade**: Enfraquece o foco em métricas de vaidade (como downloads ou visualizações brutas).
 - **Comportamento Coletivo**: Não especificado
@@ -32,14 +32,14 @@ A North Star (ou métrica Estrela Guia) é um artefato de intenção e alinhamen
 - **Quem ele fortalece**: Product Owners, equipes de engenharia e lideranças de produto.
 - **Quem ele enfraquece**: Silas de marketing ou financeiro obcecados por otimizações locais imediatas.
 
-## Referências e Onde Encontrar
+## Referências e onde encontrar
 - **Acervos**: Vitra Design Museum, MoMA (ou não aplicável se digital/processual)
 - **Leituras**:
 - *The North Star Playbook* por Amplitude
 
 ---
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: North Star
 - **Categoria**: Estratégia / Produto / Gestão

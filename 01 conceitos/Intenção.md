@@ -10,7 +10,7 @@ tags:
 
 A estabilização do 'porquê' (propósito/resultado desejado) em um artefato compartilhado, enquanto se deixa o 'como' (a implementação/forma física) aberto para adaptação individual ou inovação.
 
-## Aplicação nos Artefatos
+## Aplicação nos artefatos
 
 Este conceito/princípio se manifesta e ajuda a compreender a lógica operacional dos seguintes artefatos:
 
@@ -18,7 +18,7 @@ Este conceito/princípio se manifesta e ajuda a compreender a lógica operaciona
 - [[03 artefatos/Jobs to Be Done|Jobs to Be Done]] — Aplicação na estruturação de autonomia ou foco de intenção de equipe.
 - [[03 artefatos/North Star|North Star]] — Aplicação na estruturação de autonomia ou foco de intenção de equipe.
 
-## Variáveis Relacionadas
+## Variáveis relacionadas
 
 Este conceito opera associado ou impacta as seguintes variáveis de design:
 - [[02 variaveis/Atrito Decisorio|Atrito Decisório]]
@@ -26,7 +26,7 @@ Este conceito opera associado ou impacta as seguintes variáveis de design:
 
 ---
 
-### Ficha Resumo do Conceito
+### Ficha resumo do conceito
 
 - **Nome do conceito**: Intenção
 - **Área principal**: Estratégia / Design de Serviços / IHC

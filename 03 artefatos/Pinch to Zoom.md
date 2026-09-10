@@ -10,30 +10,30 @@ tags:
 
 O **Pinch to Zoom** (Pinçar para Dar Zoom) é um gesto de interface multitouch no qual o usuário afasta dois dedos na tela para ampliar uma imagem ou aproxima os dedos para reduzi-la.
 
-## Ficha Técnica
+## Ficha técnica
 - **Criador(es)**: Refinado e popularizado pela equipe do primeiro iPhone.
 - **Empresa/Fabricante**: [[empresas/Apple|Apple]]
 - **Ano de Lançamento**: 2007 (Consagração comercial)
 - **Tipo de Design**: [[00 tipos de design/Design de Interface|Design de Interface]]
 
-## História e Contexto de Criação
+## História e contexto de criação
 - **Demanda / Problema**: Em telas pequenas de celulares anteriores ao iPhone, ampliar fotos, mapas ou páginas da web era uma tarefa incômoda que dependia de cliques repetitivos em botões de "+" e "-" ou na navegação por menus de contexto lentos.
 - **Processo de Desenvolvimento**: Embora a tecnologia multitouch estivesse em desenvolvimento em laboratórios acadêmicos por décadas (com pesquisadores como Bill Buxton) e demonstrada comercialmente por Jeff Han em 2006, a Apple teve o mérito de condensar essa tecnologia em um gesto extremamente responsivo de hardware/software no iPhone.
 
-## Inovação e Impacto
+## Inovação e impacto
 - **Ampliação de Capacidade**: Amplia a facilidade e a precisão do foco visual em telas pequenas, simulando a manipulação mecânica direta de materiais elásticos reais.
 - **Enfraquecimento de Capacidade**: Enfraqueceu o desenvolvimento de páginas web e documentos com design verdadeiramente responsivo que se ajustassem sozinhos à tela do leitor.
 - **Comportamento Coletivo**: Criou o reflexo gestual imediato de pinçar qualquer superfície de vidro ou tela na expectativa de ampliá-la.
 - **Linhagem e Descendência**: Descendente direto da lupa física manual e do gesto de esticar tecidos. Antepassado direto de interfaces baseadas em gestos espaciais tridimensionais (como Apple Vision Pro).
 - **Custo Invisível**: Sustentou layouts mal diagramados de desktop em telas móveis, atrasando a busca por designs responsivos melhores.
 
-## Referências e Onde Encontrar
+## Referências e onde encontrar
 - **Pesquisadores**: Bill Buxton, Jeff Han.
 - **Conceitos**: [[autores/Donald Norman|Signifiers and Affordances]], [[autores/Ben Shneiderman|Direct Manipulation]].
 
 ---
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: Pinch to Zoom
 - **Ano aproximado**: 2007

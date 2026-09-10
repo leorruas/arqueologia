@@ -18,7 +18,7 @@ O conceito estabelece três regimes fundamentais de presença no espaço públic
 2. **As Peles Gráficas (Efemeridade por Desgaste)**: Dispositivos materiais efêmeros afixados por aderência (ex: [[03 artefatos/Pôster|Pôster]], lambe-lambe, faixas, vitrines, pichação, grafite). Envelhecem com o tempo, acumulam camadas e morrem gradualmente sob a chuva e a remoção.
 3. **As Aparições Luminosas (Efemeridade por Condição)**: Intervenções imateriais projetadas por luz (ex: projeções mapeadas, fachadas de led). Existem estritamente enquanto certas condições técnicas e energéticas são mantidas, desaparecendo instantaneamente sem deixar vestígios físicos na matéria.
 
-## Aplicação nos Artefatos
+## Aplicação nos artefatos
 
 Este conceito fundamenta e explica a operação simbólica dos seguintes artefatos:
 
@@ -26,7 +26,7 @@ Este conceito fundamenta e explica a operação simbólica dos seguintes artefat
 - [[03 artefatos/Tapete|Tapete]] — Apropria-se do piso arquitetônico sem construir paredes, delimitando limiares temporários de intimidade ou autoridade social.
 - [[03 artefatos/Grid|Grid]] — Fornece a estrutura de suporte subjacente tanto para a diagramação de superfícies gráficas quanto para o planejamento de fachadas e layouts urbanos.
 
-## Variáveis Relacionadas
+## Variáveis relacionadas
 
 Este conceito impacta e opera associado às seguintes variáveis de design:
 - [[02 variaveis/Permanencia|Permanência]]
@@ -35,7 +35,7 @@ Este conceito impacta e opera associado às seguintes variáveis de design:
 
 ---
 
-### Ficha Resumo do Conceito
+### Ficha resumo do conceito
 
 - **Nome do conceito**: Peles Temporárias da Arquitetura
 - **Área principal**: Design Gráfico / Arquitetura / Semiótica Urbana / Arqueologia do Design

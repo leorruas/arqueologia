@@ -10,7 +10,7 @@ tags:
 
 A sincronização no design refere-se à propriedade de artefatos, sistemas ou serviços de coordenar múltiplos atores sociais, processos ou fluxos para que existam e operem no mesmo ritmo espaço-temporal. Longe de ser apenas um fenômeno físico ou técnico, a sincronização é uma tecnologia de coordenação social indispensável para o funcionamento de qualquer organização complexa. Ela converte o tempo individual e subjetivo em uma convenção compartilhada, permitindo a cooperação coletiva.
 
-## Aplicação nos Artefatos
+## Aplicação nos artefatos
 
 Este conceito/princípio se manifesta e ajuda a compreender a lógica operacional dos seguintes artefatos:
 
@@ -20,7 +20,7 @@ Este conceito/princípio se manifesta e ajuda a compreender a lógica operaciona
 - [[03 artefatos/Cartao de Embarque|Cartão de Embarque]] — Sincroniza a logística de massa de passageiros, tripulações, bagagens e aeronaves em portões e horários rígidos para viabilizar o transporte aéreo.
 - [[03 artefatos/Checklist|Checklist]] — Sincroniza e sequencia ações de uma equipe técnica em ambientes de alto estresse, garantindo que etapas críticas não sejam puladas e que a cognição do grupo opere de forma sincronizada.
 
-## Variáveis Relacionadas
+## Variáveis relacionadas
 
 Este conceito opera associado ou impacta as seguintes variáveis de design:
 - [[02 variaveis/Atencao|Atenção]] — Direciona e sintoniza a atenção coletiva para o mesmo ponto ou ciclo temporal.
@@ -29,7 +29,7 @@ Este conceito opera associado ou impacta as seguintes variáveis de design:
 
 ---
 
-### Ficha Resumo do Conceito
+### Ficha resumo do conceito
 
 - **Nome do conceito**: Sincronização
 - **Área principal**: Design de Serviços / Sociologia / IHC

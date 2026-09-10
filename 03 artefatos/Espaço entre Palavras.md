@@ -10,31 +10,31 @@ tags:
 
 O espaço em branco entre palavras é um artefato invisível de arquitetura da informação e tipografia medieval que revolucionou a cognição e a legibilidade textual. Ao introduzir o vazio físico como delimitador visual de termos, converteu a escrita de uma representação sonora (feita para ser declamada) em uma interface direta para o pensamento silencioso.
 
-## Ficha Técnica
+## Ficha técnica
 - **Criador(es)**: [[autores/Monges Copistas Irlandeses|Monges copistas irlandeses]] e outros escribas medievais (autoria difusa)
 - **Empresa/Fabricante**: Não aplicável (evolução caligráfica e monástica)
 - **Ano de Lançamento**: Séculos VII e VIII (aproximado)
 - **Materiais/Mídia**: Pergaminho, tinta, manuscritos medievais
 - **Tipo de Design**: [[00 tipos de design/Tipografia|Tipografia]] e [[00 tipos de design/Design Grafico|Design Gráfico]]
 
-## História e Contexto de Criação
+## História e contexto de criação
 - **Demanda / Problema**: Na antiguidade clássica, os gregos e romanos utilizavam a *scriptio continua* (texto contínuo sem divisões ou espaçamentos entre as palavras). Essa convenção de escrita funcionava sob a premissa de que a leitura seria feita obrigatoriamente em voz alta, onde a pronúncia e o ritmo vocal auxiliavam a decodificação da estrutura das frases. No entanto, quando os monges irlandeses no início da Idade Média precisaram copiar e estudar textos em latim (que não era sua língua materna), a ausência de fronteiras físicas entre as palavras gerava um atrito cognitivo insustentável. Eles não possuíam a intuição fonética natural para decifrar a partitura contínua do latim.
 - **Processo de Desenvolvimento**: A introdução do espaçamento entre as palavras ocorreu de maneira gradual e difusa nas scriptoriums medievais da Irlanda, estendendo-se depois para a Inglaterra e o restante da Europa. Escribas medievais começaram a inserir vazios controlados para isolar unidades de significado, diminuindo a necessidade de decodificação fonética em voz alta antes da compreensão da frase.
 
-## Inovação e Impacto
+## Inovação e impacto
 - **Ampliação de Capacidade**: Amplia drasticamente a capacidade de leitura silenciosa, individual e veloz, tornando o processo puramente visual.
 - **Enfraquecimento de Capacidade**: Enfraquece a necessidade da oralidade e a percepção do texto como evento auditivo comum e teatralizado.
 - **Comportamento Coletivo**: Deu origem à prática de leitura introspectiva individualizada, possibilitando também a indexação, catalogação rápida em dicionários, o surgimento de índices remissivos e a paginação moderna.
 - **Linhagem e Descendência**: Grid editorial, parágrafos, colunas, tabelas de dados, e em interfaces digitais contemporâneas, cartões modulares, campos de formulário, abas de navegador e balões de diálogo.
 - **Custo Invisível**: Perda da tradição da oralidade comunitária e do ritmo poético inerente ao fluxo vocal contínuo das línguas antigas.
 
-## Referências e Onde Encontrar
+## Referências e onde encontrar
 - **Acervos**: Manuscritos medievais primitivos em bibliotecas históricas como a Biblioteca do Trinity College em Dublin.
 - **Leituras**: "Space Between Words: The Origins of Silent Reading" por Paul Saenger.
 
 ---
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: Espaço entre Palavras
 - **Categoria**: Tipografia, arquitetura da informação, design gráfico

@@ -10,18 +10,18 @@ tags:
 
 A Matriz RACI é um artefato de autorização e governança que distribui e explicita papéis e responsabilidades em relação a processos organizacionais.
 
-## Ficha Técnica
+## Ficha técnica
 - **Criador(es)**: Não aplicável
 - **Empresa/Fabricante**: Não aplicável
 - **Ano de Lançamento**: Décadas de 1950 e 1960.
 - **Materiais/Mídia**: Planilhas, matrizes impressas, guias de governança
 - **Tipo de Design**: [[00 tipos de design/Design de Servicos|Design de Serviços]]
 
-## História e Contexto de Criação
+## História e contexto de criação
 - **Demanda / Problema**: Ambiguidade sobre quem decide e quem executa.
 - **Processo de Desenvolvimento**: Desenvolvido como ferramenta nos primeiros contextos de Décadas de 1950 e 1960..
 
-## Inovação e Impacto
+## Inovação e impacto
 - **Ampliação de Capacidade**: Amplia a clareza sobre alçadas decisórias e atribuições de responsabilidade.
 - **Enfraquecimento de Capacidade**: Enfraquece a ambiguidade e as discussões infindáveis sobre 'quem decide'.
 - **Comportamento Coletivo**: Decisão distribuída.
@@ -32,14 +32,14 @@ A Matriz RACI é um artefato de autorização e governança que distribui e expl
 - **Quem ele fortalece**: Gestores de projetos e patrocinadores de iniciativas corporativas.
 - **Quem ele enfraquece**: Membros de equipes que se esquivam de responsabilidades por falta de clareza.
 
-## Referências e Onde Encontrar
+## Referências e onde encontrar
 - **Acervos**: Vitra Design Museum, MoMA (ou não aplicável se digital/processual)
 - **Leituras**:
 - *RACI Matrix Guides* (Literatura de governança corporativa)
 
 ---
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: Matriz RACI
 - **Categoria**: Governança / Coordenação / Serviços

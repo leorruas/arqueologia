@@ -10,31 +10,31 @@ tags:
 
 O número de protocolo é um artefato de rastreabilidade, persistência e identificação sistêmica projetado para atribuir um código numérico exclusivo a uma solicitação ou processo, permitindo que a demanda exista de forma independente dos indivíduos nela envolvidos.
 
-## Ficha Técnica
+## Ficha técnica
 - **Criador(es)**: Invenção distribuída (convergência burocrática estatal)
 - **Empresa/Fabricante**: Correios, tribunais e repartições públicas
 - **Ano de Lançamento**: Séculos XIX e XX (ligado à profissionalização das burocracias de massa)
 - **Materiais/Mídia**: Registro em livros de protocolo físicos, tíquetes de papel impresso, bancos de dados digitais
 - **Tipo de Design**: [[00 tipos de design/Design de Servicos|Design de Serviços]] / Arquitetura da Informação
 
-## História e Contexto de Criação
+## História e contexto de criação
 - **Demanda / Problema**: Como acompanhar, rastrear e cobrar o andamento de uma solicitação individual ao longo do tempo e por diferentes departamentos, sem que ela se perca fisicamente ou dependa da memória das partes.
 - **Processo de Desenvolvimento**: Surgiu com a expansão dos serviços postais e a necessidade de registrar a entrada e saída de correspondências e processos jurídicos. Com a profissionalização administrativa, o número sequencial ou gerado por algoritmos tornou-se a chave mestra de busca de qualquer fluxo de trabalho.
 
-## Inovação e Impacto
+## Inovação e impacto
 - **Ampliação de Capacidade**: Amplia a capacidade de rastreabilidade temporal e coordenação de processos em escala populacional.
 - **Enfraquecimento de Capacidade**: Enfraquece a necessidade de interações baseadas no conhecimento pessoal e no tratamento particular das demandas.
 - **Comportamento Coletivo**: Acostumou a sociedade a identificar e cobrar direitos por meio de códigos abstratos (ex: "me informe o número do protocolo").
 - **Linhagem e Descendência**: Descendente de índices de livros de cartório e números de registro. Antepassado de números de pedidos de e-commerce, códigos de rastreamento de encomendas, UUIDs de computação e números de processos judiciais eletrônicos.
 - **Custo Invisível**: Desumanização do atendimento (transformar o cidadão ou sua dor em um simples número), atrito de busca caso o código seja perdido e a falsa sensação de que a geração de um número equivale à resolução do problema.
 
-## Referências e Onde Encontrar
+## Referências e onde encontrar
 - **Acervos**: Arquivos públicos, sistemas de atendimento ao consumidor (SAC)
 - **Leituras**: Literaturas sobre a história da administração pública e teoria dos sistemas organizacionais.
 
 ---
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: Número de Protocolo
 - **Categoria**: Design de Serviços / Arquitetura da Informação

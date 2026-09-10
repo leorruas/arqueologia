@@ -10,31 +10,31 @@ tags:
 
 O **Prompt Conversacional** é uma metainterface textual baseada em linguagem natural que substitui controles visuais predefinidos (menus, botões, fluxos) por uma caixa de entrada vazia, permitindo que usuários formulem intenções, instruam operações computacionais e validem resultados iterativamente por meio do diálogo.
 
-## Ficha Técnica
+## Ficha técnica
 - **Criador(es)**: Pesquisadores de computação interativa; Joseph Weizenbaum (ELIZA); cientistas da computação responsáveis pela arquitetura Transformer e modelos ajustados por instruções (InstructGPT)
 - **Empresa/Fabricante**: [[empresas/OpenAI|OpenAI]] e desenvolvedores de modelos de linguagem generativa
 - **Ano de Lançamento**: Popularizado em escala global em 2022 (com o ChatGPT)
 - **Materiais/Mídia**: Interface digital, código de software (NLP/LLM), campos de texto web/mobile
 - **Tipo de Design**: [[00 tipos de design/Design de Interface|Design de Interface]]
 
-## História e Contexto de Criação
+## História e contexto de criação
 - **Demanda / Problema**: Como permitir que humanos operem sistemas e executem tarefas complexas sem precisar aprender linguagens de programação formais ou navegar por menus rígidos que antecipam poucas opções? O prompt surge para viabilizar a especificação direta de intenções em linguagem cotidiana.
 - **O Mundo Antes da Inovação**: O usuário estava preso entre a linha de comando clássica (que exigia sintaxe exata e memorização de vocabulário de máquina) e a interface gráfica clássica (que reduzia a carga de memória, mas limitava o escopo de ação às decisões e botões previamente desenhados pelo designer).
 
-## Inovação e Impacto
+## Inovação e impacto
 - **Ampliação de Capacidade**: Amplia drasticamente o alcance e a flexibilidade das operações de software, permitindo que o usuário crie tarefas sem botões preexistentes simplesmente descrevendo-as na caixa de entrada.
 - **Enfraquecimento de Capacidade**: Enfraquece a orientação intuitiva fornecida pelo reconhecimento visual. A ausência de botões remove as pistas sobre os limites e capacidades do sistema, aumentando a incerteza operacional do usuário.
 - **Comportamento Coletivo**: Gerou o hábito social de conversar com softwares, iterar sobre o trabalho de máquinas por meio do feedback escrito ("regenerar", "mudar o tom") e estudar a engenharia de prompts como competência técnica de articulação lógica.
 - **Linhagem e Descendência**: Descendente da linha de comando, da barra de busca dos navegadores e de sistemas conversacionais antigos como o ELIZA (1966). Antepassado de sistemas híbridos de design generativo e assistentes autônomos multiagentes.
 - **Custo Invisível**: Transferência da carga de design e estruturação de dados da máquina para o usuário. Para obter resultados consistentes, o usuário deve "projetar os campos" cognitivamente, antecipando o contexto, tom e formato nas frases, sob pena de receber respostas inúteis.
 
-## Referências e Onde Encontrar
+## Referências e onde encontrar
 - **Acervos**: Demonstrações históricas de IHC, o repositório da arquitetura Transformer da Google (2017) e o lançamento do ChatGPT (2022).
 - **Leituras**: *Attention Is All You Need* (Google Research, 2017) e artigos científicos sobre o InstructGPT (2022).
 
 ---
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: Prompt Conversacional
 - **Categoria**: Interface Digital

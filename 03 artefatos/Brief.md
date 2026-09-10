@@ -10,18 +10,18 @@ tags:
 
 O Brief (ou Briefing) é um artefato de coordenação e contexto que sintetiza restrições, objetivos e dados de mercado para orientar o trabalho criativo.
 
-## Ficha Técnica
+## Ficha técnica
 - **Criador(es)**: Não aplicável
 - **Empresa/Fabricante**: Não aplicável
 - **Ano de Lançamento**: Publicidade e design, início do século XX.
 - **Materiais/Mídia**: Documentos impressos, e-mails estruturados, cartões de projetos
 - **Tipo de Design**: [[00 tipos de design/Design Grafico|Design Gráfico]] / [[00 tipos de design/Design de Produto|Design de Produto]]
 
-## História e Contexto de Criação
+## História e contexto de criação
 - **Demanda / Problema**: Como transmitir uma necessidade entre cliente e equipe.
 - **Processo de Desenvolvimento**: Desenvolvido como ferramenta nos primeiros contextos de Publicidade e design, início do século XX..
 
-## Inovação e Impacto
+## Inovação e impacto
 - **Ampliação de Capacidade**: Amplia a comunicação entre clientes e equipes técnicas criativas, alinhando expectativas.
 - **Enfraquecimento de Capacidade**: Enfraquece o retrabalho provocado por falhas primárias de comunicação de escopo.
 - **Comportamento Coletivo**: Não especificado
@@ -32,14 +32,14 @@ O Brief (ou Briefing) é um artefato de coordenação e contexto que sintetiza r
 - **Quem ele fortalece**: Gerentes de conta, clientes e equipes de criação.
 - **Quem ele enfraquece**: Criativos que buscam trabalhar sem nenhuma restrição ou controle mercadológico.
 
-## Referências e Onde Encontrar
+## Referências e onde encontrar
 - **Acervos**: Vitra Design Museum, MoMA (ou não aplicável se digital/processual)
 - **Leituras**:
 - *Creating a Perfect Design Brief* por Peter L. Phillips
 
 ---
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: Brief
 - **Categoria**: Comunicação / Coordenação / Processo

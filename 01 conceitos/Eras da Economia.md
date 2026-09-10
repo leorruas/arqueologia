@@ -14,14 +14,14 @@ A evolução histórica da relação entre humanidade, comércio e design pode s
 2. **Era do Acesso** (*"O desafio é conectar"*): Focada em tecnologias de tráfego, internet e telecomunicações que aproximam os usuários de recursos existentes sem produzir novos objetos. A principal barreira era a logística física e informacional. (Ex: Google, Uber, Spotify, Pix, [[03 artefatos/Controle Remoto|Controle Remoto]]).
 3. **Era da Decisão** (*"O desafio é escolher"*): Focada em curadoria, recomendação e inteligência artificial para filtrar a abundância incontrolável de opções geradas pelo acesso facilitado. A principal barreira é o limite de atenção e a fadiga decisória. (Ex: Algoritmos de recomendação do TikTok, autoplay do Netflix, Discover Weekly do Spotify, agentes inteligentes de IA).
 
-## Aplicação nos Artefatos
+## Aplicação nos artefatos
 
 Este conceito/princípio se manifesta e ajuda a compreender a lógica operacional dos seguintes artefatos:
 
 - [[03 artefatos/Controle Remoto|Controle Remoto]] — Serviu como um dos primeiros artefatos de transição da Era da Produção de TVs para a Era do Acesso a múltiplos canais sintonizados instantaneamente.
 - [[03 artefatos/Infinite Scroll|Infinite Scroll]] — Tecnologia de acesso contínuo que catalisou a transição para a Era da Decisão, ao inundar a atenção do usuário com opções ininterruptas de feed.
 
-## Variáveis Relacionadas
+## Variáveis relacionadas
 
 Este conceito opera associado ou impacta as seguintes variáveis de design:
 - [[variaveis/Custo de Busca|Custo de Busca]]
@@ -30,7 +30,7 @@ Este conceito opera associado ou impacta as seguintes variáveis de design:
 
 ---
 
-### Ficha Resumo do Conceito
+### Ficha resumo do conceito
 
 - **Nome do conceito**: Eras da Economia e Design
 - **Área principal**: História Econômica / Design de Serviços

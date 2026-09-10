@@ -10,18 +10,18 @@ tags:
 
 O Princípio é uma heurística organizacional estruturada para orientar o julgamento subjetivo em situações inéditas onde regras explícitas são insuficientes.
 
-## Ficha Técnica
+## Ficha técnica
 - **Criador(es)**: Não aplicável
 - **Empresa/Fabricante**: Não aplicável
 - **Ano de Lançamento**: Muito anterior às organizações modernas. Ganha força em empresas a partir da segunda metade do século XX.
 - **Materiais/Mídia**: Documentos de diretrizes, cartazes, códigos de ética
 - **Tipo de Design**: [[00 tipos de design/Design de Servicos|Design de Serviços]]
 
-## História e Contexto de Criação
+## História e contexto de criação
 - **Demanda / Problema**: Como orientar decisões quando não existe uma regra específica.
 - **Processo de Desenvolvimento**: Desenvolvido como ferramenta nos primeiros contextos de Muito anterior às organizações modernas. Ganha força em empresas a partir da segunda metade do século XX..
 
-## Inovação e Impacto
+## Inovação e impacto
 - **Ampliação de Capacidade**: Amplia a autonomia de decisão e julgamento individual em contextos dinâmicos.
 - **Enfraquecimento de Capacidade**: Enfraquece a dependência de regulamentações exaustivas e POPs rígidos.
 - **Comportamento Coletivo**: Decisão contextual em vez de execução mecânica.
@@ -32,7 +32,7 @@ O Princípio é uma heurística organizacional estruturada para orientar o julga
 - **Quem ele fortalece**: Profissionais e equipes operacionais de primeira linha.
 - **Quem ele enfraquece**: Burocratas que dependem de regras estritas.
 
-## Referências e Onde Encontrar
+## Referências e onde encontrar
 - **Acervos**: Vitra Design Museum, MoMA (ou não aplicável se digital/processual)
 - **Leituras**:
 - [[00 índices/Livros Indicados|The Design of Everyday Things]] por Donald Norman (sobre princípios aplicados a interfaces)
@@ -40,7 +40,7 @@ O Princípio é uma heurística organizacional estruturada para orientar o julga
 
 ---
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: Princípio
 - **Categoria**: Gestão / Decisão / Estratégia

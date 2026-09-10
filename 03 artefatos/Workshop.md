@@ -10,18 +10,18 @@ tags:
 
 O Workshop é um artefato participativo e ritualístico projetado para redistribuir autoria e catalisar o comprometimento coletivo na co-criação de soluções complexas.
 
-## Ficha Técnica
+## Ficha técnica
 - **Criador(es)**: Não aplicável
 - **Empresa/Fabricante**: Não aplicável
 - **Ano de Lançamento**: Décadas de 1970 e 1980 no design participativo e desenvolvimento organizacional.
 - **Materiais/Mídia**: Post-its, quadros de ideação, cronômetros, guias de facilitação
 - **Tipo de Design**: [[00 tipos de design/Design de Servicos|Design de Serviços]]
 
-## História e Contexto de Criação
+## História e contexto de criação
 - **Demanda / Problema**: Como produzir mudanças que as pessoas realmente adotem.
 - **Processo de Desenvolvimento**: Desenvolvido como ferramenta nos primeiros contextos de Décadas de 1970 e 1980 no design participativo e desenvolvimento organizacional..
 
-## Inovação e Impacto
+## Inovação e impacto
 - **Ampliação de Capacidade**: Amplia o engajamento coletivo e a diversidade de perspectivas na solução de problemas.
 - **Enfraquecimento de Capacidade**: Enfraquece a resistência passiva a mudanças impostas unilateralmente por lideranças.
 - **Comportamento Coletivo**: Construção coletiva de decisões.
@@ -32,14 +32,14 @@ O Workshop é um artefato participativo e ritualístico projetado para redistrib
 - **Quem ele fortalece**: Equipes multidisciplinares e facilitadores estratégicos.
 - **Quem ele enfraquece**: Lideranças centralizadoras que prescrevem soluções sozinhas.
 
-## Referências e Onde Encontrar
+## Referências e onde encontrar
 - **Acervos**: Vitra Design Museum, MoMA (ou não aplicável se digital/processual)
 - **Leituras**:
 - *Gamestorming* por Dave Gray, Sunni Brown e James Macanufo
 
 ---
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: Workshop
 - **Categoria**: Serviços / Colaboração / Facilitação

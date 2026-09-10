@@ -10,31 +10,31 @@ tags:
 
 O carimbo é um artefato de estampagem física e autoridade burocrática projetado para aplicar marcas visuais repetíveis em documentos, sinalizando instantaneamente o status institucional ou de validação sem alterar o conteúdo textual básico do suporte.
 
-## Ficha Técnica
+## Ficha técnica
 - **Criador(es)**: Invenção distribuída (convergência de selos cilíndricos e carimbos de argila antigos)
 - **Empresa/Fabricante**: Diversos fabricantes artesanais e industriais de instrumentos de escrita/ escritório
 - **Ano de Lançamento**: Antiguidade (massificado nos séculos XIX e XX com a borracha vulcanizada e as burocracias de Estado)
 - **Materiais/Mídia**: Madeira, metal, borracha, almofada de tinta entintada
 - **Tipo de Design**: [[00 tipos de design/Design Grafico|Design Gráfico]] / Design de Serviços / Design de Produto
 
-## História e Contexto de Criação
+## História e contexto de criação
 - **Demanda / Problema**: Como rotular ou classificar rapidamente grandes volumes de documentos físicos com o selo de aprovação, arquivamento ou trâmite de uma instituição, sem depender da escrita manual individual e lenta.
 - **Processo de Desenvolvimento**: Evoluiu de lacres de cera e selos de pedra ou argila usados na Mesopotâmia e na China antiga. O salto tecnológico ocorreu no século XIX com a vulcanização da borracha por Charles Goodyear, o que permitiu a produção em massa de carimbos flexíveis, duráveis e baratos.
 
-## Inovação e Impacto
+## Inovação e impacto
 - **Ampliação de Capacidade**: Amplia a velocidade e a padronização gráfica do registro de status administrativos em larga escala.
 - **Enfraquecimento de Capacidade**: Enfraquece a necessidade de avaliações manuais e detalhadas do conteúdo por parte de quem carimba, promovendo decisões mecânicas.
 - **Comportamento Coletivo**: Estabeleceu ritos de legitimação burocrática ("só é válido com o carimbo oficial"), mudando a percepção pública de autoridade.
 - **Linhagem e Descendência**: Descendente de sinetes reais, selos de chumbo e marcas de propriedade. Antepassado de selos digitais, marcas d'água virtuais, e badges de status em sistemas de software.
 - **Custo Invisível**: Criação de barreiras burocráticas artificiais (como "autenticação de documentos"), lentidão operacional por excesso de trâmites de validação e distanciamento impessoal do cidadão.
 
-## Referências e Onde Encontrar
+## Referências e onde encontrar
 - **Acervos**: Repartições públicas antigas, museus de história administrativa, arquivos municipais
 - **Leituras**: Literaturas sobre a história da burocracia estatal (ex: Max Weber) e semiótica da autoridade visual.
 
 ---
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: Carimbo
 - **Categoria**: Design de Produto / Gráfico / Serviços Burocráticos

@@ -10,18 +10,18 @@ tags:
 
 A Retrospectiva é um artefato processual e reflexivo que cria um espaço de tempo protegido para que equipes reinterpretem e aprendam com sua experiência recente.
 
-## Ficha Técnica
+## Ficha técnica
 - **Criador(es)**: Não aplicável
 - **Empresa/Fabricante**: Não aplicável
 - **Ano de Lançamento**: Popularizada pelo Scrum nos anos 1990 e 2000, embora tenha parentes militares muito anteriores.
 - **Materiais/Mídia**: Quadros brancos, Post-its, softwares de colaboração (Miro/FigJam)
 - **Tipo de Design**: [[00 tipos de design/Design de Servicos|Design de Serviços]]
 
-## História e Contexto de Criação
+## História e contexto de criação
 - **Demanda / Problema**: Como aprender continuamente sem esperar o fracasso final.
 - **Processo de Desenvolvimento**: Desenvolvido como ferramenta nos primeiros contextos de Popularizada pelo Scrum nos anos 1990 e 2000, embora tenha parentes militares muito anteriores..
 
-## Inovação e Impacto
+## Inovação e impacto
 - **Ampliação de Capacidade**: Amplia o aprendizado coletivo e a melhoria contínua de processos.
 - **Enfraquecimento de Capacidade**: Enfraquece o acúmulo silencioso de erros e disfunções de equipe.
 - **Comportamento Coletivo**: Aprendizagem contínua.
@@ -32,14 +32,14 @@ A Retrospectiva é um artefato processual e reflexivo que cria um espaço de tem
 - **Quem ele fortalece**: Equipes auto-organizadas e facilitadores.
 - **Quem ele enfraquece**: Gerentes focados apenas em cronogramas estáticos.
 
-## Referências e Onde Encontrar
+## Referências e onde encontrar
 - **Acervos**: Vitra Design Museum, MoMA (ou não aplicável se digital/processual)
 - **Leituras**:
 - *Agile Retrospectives* por Esther Derby e Diana Larsen
 
 ---
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: Retrospectiva
 - **Categoria**: Metodologia / Aprendizado / Processo

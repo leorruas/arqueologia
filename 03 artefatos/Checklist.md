@@ -10,31 +10,31 @@ tags:
 
 O checklist é um artefato de cognição distribuída e suporte operacional projetado para estruturar e sequenciar a verificação de tarefas complexas, mitigando os limites da memória humana imediata em ambientes de alta responsabilidade.
 
-## Ficha Técnica
+## Ficha técnica
 - **Criador(es)**: Equipes de pilotos de teste e engenheiros da Boeing (popularizado posteriormente na medicina por [[autores/Atul Gawande|Atul Gawande]])
 - **Empresa/Fabricante**: Boeing Company
 - **Ano de Lançamento**: 1935 (nascimento associado ao desenvolvimento do avião B-17)
 - **Materiais/Mídia**: Papel impresso, cartões plastificados, telas digitais
 - **Tipo de Design**: [[00 tipos de design/Design de Servicos|Design de Serviços]] / Design de Informação
 
-## História e Contexto de Criação
+## História e contexto de criação
 - **Demanda / Problema**: A complexidade mecânica e operacional de novas máquinas (como o bombardeiro Boeing B-17, considerado "grande demais para voar por um homem só") superava a capacidade de memória procedural e a atenção concentrada do cérebro humano em situações de estresse.
 - **Processo de Desenvolvimento**: Após a queda trágica de um protótipo em 1935 por esquecimento de um travamento simples de controle, os pilotos de teste da Boeing criaram um guia de bolso com passos rápidos e essenciais a serem verificados antes de decolar, taxiar e pousar.
 
-## Inovação e Impacto
+## Inovação e impacto
 - **Ampliação de Capacidade**: Amplia a memória de curto prazo e a atenção focada, liberando carga cognitiva para a resolução de problemas imprevistos.
 - **Enfraquecimento de Capacidade**: Enfraquece a autonomia intuitiva total do profissional experiente, subordinando sua ação à sequência prescrita.
 - **Comportamento Coletivo**: Estabeleceu o hábito de checagem cruzada ("verificação mútua") e a cultura de segurança cirúrgica e aeronáutica moderna.
 - **Linhagem e Descendência**: Descendente de receitas de culinária, roteiros e listas de inventário. Antepassado de fluxos de tarefas digitais, wizards de onboarding e assistentes virtuais de passo a passo.
 - **Custo Invisível**: Pode induzir a uma execução cega e automatizada (atentando menos a sinais sutis do ambiente fora da lista) ou gerar resistência em equipes que enxergam a lista como uma redução de seu status profissional.
 
-## Referências e Onde Encontrar
+## Referências e onde encontrar
 - **Acervos**: Manuais históricos de aviação da Boeing
 - **Leituras**: *The Checklist Manifesto* (Atul Gawande).
 
 ---
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: Checklist
 - **Categoria**: Design de Serviços / Cognição Distribuída

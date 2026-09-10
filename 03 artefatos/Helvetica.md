@@ -11,31 +11,31 @@ tags:
 
 A Helvetica (originalmente desenvolvida como Neue Haas Grotesk) é a fonte tipográfica sem serifa mais popular do mundo. Ela sintetizou os princípios de legibilidade, neutralidade e clareza estrutural promovidos pelo Estilo Tipográfico Internacional (Design Suíço) em meados do século XX.
 
-## Ficha Técnica
+## Ficha técnica
 - **Criador(es)**: Max Miedinger com direção de Eduard Hoffmann
 - **Empresa/Fabricante**: [[empresas/Haas Type Foundry|Haas Type Foundry]] (posteriormente licenciada e distribuída pela [[empresas/Linotype|Linotype]])
 - **Ano de Lançamento**: 1957
 - **Materiais/Mídia**: Tipos de metal fundidos, fotocomposição e fontes digitais
 - **Tipo de Design**: [[00 tipos de design/Tipografia|Tipografia]]
 
-## História e Contexto de Criação
+## História e contexto de criação
 - **Demanda / Problema**: No pós-guerra, empresas multinacionais em rápida expansão e designers do Estilo Suíço demandavam uma tipografia altamente funcional, moderna e sem características emocionais ou históricas excessivas. Havia uma forte concorrência no mercado de tipos, e a fundição Haas precisava criar um alfabeto sem serifa que superasse a popularidade alemã da Akzidenz-Grotesk.
 - **Processo de Desenvolvimento**: Max Miedinger desenhou a fonte sob a supervisão atenta de Eduard Hoffmann, que avaliava sistematicamente as provas de impressão. O desenho focou em linhas horizontais e verticais precisas, com terminações horizontais e espaços negativos internos (contraformas) cuidadosamente equilibrados para dar estabilidade e consistência visual a cada caractere.
 
-## Inovação e Impacto
+## Inovação e impacto
 - **Ampliação de Capacidade**: Amplia a neutralidade comunicativa, a uniformidade corporativa e a legibilidade instantânea à distância e em movimento (como sinalização urbana).
 - **Enfraquecimento de Capacidade**: Enfraquece a expressividade histórica, a singularidade regional e a variação formal vernacular do texto.
 - **Comportamento Coletivo**: Acostumou o público ocidental a ler textos oficiais, alertas de trânsito e marcas comerciais sob uma mesma lente de impessoalidade e autoridade técnica.
 - **Linhagem e Descendência**: Descendente direta de tipos sem serifa do século XIX (Grotesques) e da Akzidenz-Grotesk. Antepassada direta de fontes digitais modernas como a Arial (Microsoft) e a San Francisco (Apple).
 - **Custo Invisível**: Padronização estética global e monotonia urbana devido ao seu uso excessivo por corporações e governos de todo o mundo.
 
-## Referências e Onde Encontrar
+## Referências e onde encontrar
 - **Acervos**: MoMA (Nova York).
 - **Leituras**: *Helvetica: Homage to a Typeface* (Lars Müller).
 
 ---
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: Helvetica
 - **Categoria**: Tipografia

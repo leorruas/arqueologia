@@ -93,7 +93,7 @@ Uma hipótese do projeto é que o Save foi um artefato de transição: tornou ex
 
 - [[autores/Merlin Donald|Merlin Donald]]: útil para pensar sistemas externos de memória, sem servir como fonte para a história específica do comando Save.
 
-## Ficha Técnica
+## Ficha técnica
 
 - **Criador(es)**: atribuição difusa; não há inventor único estabelecido para o comando ou para o ícone de disquete como convenção de salvar
 - **Organização/contexto**: múltiplos sistemas e aplicações; Xerox, Apple, Microsoft e outros participaram de etapas diferentes da linguagem gráfica
@@ -102,7 +102,7 @@ Uma hipótese do projeto é que o Save foi um artefato de transição: tornou ex
 - **Tipo(s) de design**: [[00 tipos de design/Design de Interface|Design de Interface]]
 - **Status da atribuição histórica**: distribuída e parcialmente incerta
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: Botão Salvar
 - **Categoria**: Interface digital

@@ -10,18 +10,18 @@ tags:
 
 A Pergunta de Pesquisa é um artefato de formulação que delimita a fronteira do conhecimento a ser explorado em investigações de longo prazo.
 
-## Ficha Técnica
+## Ficha técnica
 - **Criador(es)**: Não aplicável
 - **Empresa/Fabricante**: Não aplicável
 - **Ano de Lançamento**: Universidades modernas (séculos XIX e XX).
 - **Materiais/Mídia**: Projetos de pesquisa, agendas acadêmicas
 - **Tipo de Design**: [[00 tipos de design/Design de Servicos|Design de Serviços]]
 
-## História e Contexto de Criação
+## História e contexto de criação
 - **Demanda / Problema**: Como manter uma investigação coerente durante anos.
 - **Processo de Desenvolvimento**: Desenvolvido como ferramenta nos primeiros contextos de Universidades modernas (séculos XIX e XX)..
 
-## Inovação e Impacto
+## Inovação e impacto
 - **Ampliação de Capacidade**: Amplia o foco e a consistência metodológica de investigações prolongadas.
 - **Enfraquecimento de Capacidade**: Enfraquece a dispersão investigativa e o acúmulo desordenado de fatos avulsos.
 - **Comportamento Coletivo**: Não especificado
@@ -32,14 +32,14 @@ A Pergunta de Pesquisa é um artefato de formulação que delimita a fronteira d
 - **Quem ele fortalece**: Pesquisadores acadêmicos, analistas e designers de serviço.
 - **Quem ele enfraquece**: Curiosos assistemáticos e acumuladores de informações dispersas.
 
-## Referências e Onde Encontrar
+## Referências e onde encontrar
 - **Acervos**: Vitra Design Museum, MoMA (ou não aplicável se digital/processual)
 - **Leituras**:
 - *Designing Qualitative Research* por Uwe Flick
 
 ---
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: Pergunta de Pesquisa
 - **Categoria**: Metodologia / Investigação / Processo

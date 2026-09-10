@@ -15,7 +15,7 @@ O design clássico de IHC e serviços frequentemente opera sob o dogma de que to
 
 Sob essa lente, o papel do designer de serviços e produto deixa de ser puramente "eliminar etapas" e passa a ser **fazer a curadoria das fricções**, decidindo estrategicamente quais barreiras devem continuar existindo para enriquecer a experiência humana.
 
-## Aplicação nos Artefatos
+## Aplicação nos artefatos
 
 Este conceito/princípio se manifesta e ajuda a compreender a lógica operacional dos seguintes artefatos:
 
@@ -23,7 +23,7 @@ Este conceito/princípio se manifesta e ajuda a compreender a lógica operaciona
 - [[03 artefatos/Slide to Unlock|Slide to Unlock]] — Introduz propositalmente uma fricção física boa (o arrastar contínuo horizontal) para evitar a fricção ruim de ligações acidentais no bolso.
 - [[03 artefatos/Undo Send|Undo Send]] — Insere um atraso tático artificial na fila de rede como um atrito salutar de reflexão para conter impulsos emocionais de envio.
 
-## Variáveis Relacionadas
+## Variáveis relacionadas
 
 Este conceito opera associado ou impacta as seguintes variáveis de design:
 - [[variaveis/Friccao|Fricção]]
@@ -32,7 +32,7 @@ Este conceito opera associado ou impacta as seguintes variáveis de design:
 
 ---
 
-### Ficha Resumo do Conceito
+### Ficha resumo do conceito
 
 - **Nome do conceito**: Fricção Boa vs Fricção Ruim
 - **Área principal**: IHC / Psicologia Cognitiva / Design de Serviços

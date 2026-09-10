@@ -84,7 +84,7 @@ A comparação entre Pull to Refresh e mecanismos de recompensa variável pode s
 - Wired, “Tweetie 2 for iPhone Flutters Into the App Store”, 9 out. 2009.
 - Registros de troca entre John Gruber e Loren Brichter, 1 e 2 out. 2009, reproduzidos em material de IHC da Carnegie Mellon University.
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: Pull to Refresh
 - **Categoria**: Interface digital / gesto móvel

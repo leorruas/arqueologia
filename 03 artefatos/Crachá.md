@@ -10,31 +10,31 @@ tags:
 
 O crachá é um artefato de identificação física, pertencimento e controle de acesso projetado para exibir de forma visível e imediata a identidade de um indivíduo e seu papel ou nível de permissão dentro de uma organização física.
 
-## Ficha Técnica
+## Ficha técnica
 - **Criador(es)**: Invenção distribuída (evolução de passes e medalhas de identificação militar e industrial)
 - **Empresa/Fabricante**: Indústrias, corporações e órgãos governamentais do século XX
 - **Ano de Lançamento**: Século XX (popularizou-se com a expansão das grandes plantas industriais e complexos administrativos)
 - **Materiais/Mídia**: Cartão plastificado, papel impresso, fecho de metal, cordão de pescoço, chips magnéticos ou RFID
 - **Tipo de Design**: [[00 tipos de design/Design Grafico|Design Gráfico]] / Design de Produto / Design de Serviços
 
-## História e Contexto de Criação
+## História e contexto de criação
 - **Demanda / Problema**: Como identificar rapidamente se uma pessoa pertence legítimamente a um espaço institucional físico e quais áreas ela está autorizada a frequentar, especialmente em organizações populosas demais para o reconhecimento interpessoal direto.
 - **Processo de Desenvolvimento**: Derivou de passes de metal e cartões de identificação de papelão usados por operários em ferrovias e indústrias no século XIX. No século XX, a introdução da fotografia no cartão e, posteriormente, de tecnologias como fitas magnéticas e chips RFID transformaram o crachá de um mero identificador visual em um dispositivo de controle de portaria ativa.
 
-## Inovação e Impacto
+## Inovação e impacto
 - **Ampliação de Capacidade**: Amplia a capacidade de triagem visual e controle de segurança de fluxos humanos em espaços físicos.
 - **Enfraquecimento de Capacidade**: Enfraquece a informalidade do trânsito livre e o reconhecimento comunitário mútuo nos ambientes de trabalho.
 - **Comportamento Coletivo**: Criou o hábito de expor a identidade institucional no próprio peito/corpo e gerou a divisão clara de territórios organizacionais (ex: "acesso permitido apenas com crachá").
 - **Linhagem e Descendência**: Descendente de medalhas militares, brasões de corporações de ofício e passes de viagem. Antepassado de cartões de acesso eletrônicos, chaves digitais e crachás digitais em telas de smartphones.
 - **Custo Invisível**: Fricção física para portar o objeto (esquecimentos bloqueiam o dia de trabalho), divisão visual hierárquica implícita em grandes corporações e a sensação de vigilância contínua.
 
-## Referências e Onde Encontrar
+## Referências e onde encontrar
 - **Acervos**: Arquivos corporativos históricos, museus do trabalho e da história industrial
 - **Leituras**: Literaturas sobre a história da administração científica (Taylorismo/Fordismo) e semiótica da vestimenta organizacional.
 
 ---
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: Crachá
 - **Categoria**: Design de Produto / Gráfico / Design de Serviços

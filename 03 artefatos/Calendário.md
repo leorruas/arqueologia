@@ -10,18 +10,18 @@ tags:
 
 O calendário é um dos artefatos de coordenação e sincronização mais antigos e fundamentais da humanidade. Longe de ser apenas um instrumento físico ou digital para medir a passagem dos dias, o calendário é uma tecnologia cognitiva e social que espacializa o tempo, transformando uma dimensão abstrata e invisível em uma superfície visível e estruturada de ação coletiva e individual.
 
-## Ficha Técnica
+## Ficha técnica
 - **Criador(es)**: Diversas civilizações de forma independente
 - **Empresa/Fabricante**: Não aplicável (desenvolvimento descentralizado)
 - **Ano de Lançamento**: Desenvolvido originalmente entre 3000 e 1000 a.C. O calendário gregoriano atual consolida-se em 1582.
 - **Materiais/Mídia**: Inscrições em pedra, tábuas de argila, papel (folhinhas), e posteriormente interfaces digitais.
 - **Tipo de Design**: [[00 tipos de design/Design de Interface|Design de Interface]] / [[00 tipos de design/Design de Servicos|Design de Serviços]]
 
-## História e Contexto de Criação
+## História e contexto de criação
 - **Demanda / Problema**: Com a transição para sociedades agrícolas complexas, os seres humanos passaram a enfrentar a necessidade crítica de coordenar atividades a longo prazo. O ciclo de plantio e colheita, a cobrança de impostos, a celebração de rituais religiosos e a organização militar demandavam sincronização em escalas de tempo muito maiores do que a memória imediata permitia.
 - **Processo de Desenvolvimento**: Diferentes sociedades (egípcios, babilônios, maias, chineses e romanos) desenvolveram seus próprios métodos baseados em ciclos astronômicos. Com a expansão burocrática dos Estados e a globalização, houve um esforço de padronização, culminando na adoção do calendário gregoriano para sincronizar o comércio e a diplomacia internacional.
 
-## Inovação e Impacto
+## Inovação e impacto
 - **Ampliação de Capacidade**: Amplia a capacidade cognitiva de projeção futura e a sincronização temporal entre múltiplos indivíduos ou grupos separados no espaço.
 - **Enfraquecimento de Capacidade**: Enfraquece a percepção natural e intuitiva dos ritmos biológicos e ecológicos do tempo vivido (presente contínuo).
 - **Comportamento Coletivo**: Viabilizou o planejamento agrícola estruturado, a constituição de calendários escolares e acadêmicos compartilhados, prazos legais, agendas burocráticas e a globalização do tempo comercial.
@@ -32,7 +32,7 @@ O calendário é um dos artefatos de coordenação e sincronização mais antigo
 - **Quem ele fortalece**: Fortalece instituições burocráticas, governos e empregadores que dependem do cumprimento de prazos, impostos e sincronização de turnos produtivos.
 - **Quem ele enfraquece**: Enfraquece indivíduos cuja autonomia produtiva ou ritmos biológicos individuais não se conformam facilmente a padrões homogêneos de agendamento e produção industrial.
 
-## Referências e Onde Encontrar
+## Referências e onde encontrar
 - **Acervos**: Vitra Design Museum, MoMA (versões clássicas de calendários modernos), coleções históricas do British Museum.
 - **Leituras**:
   - [[00 índices/Livros Indicados|Sobre o Tempo]] por Norbert Elias (Sobre a construção social do tempo como forma de coordenação humana).
@@ -40,7 +40,7 @@ O calendário é um dos artefatos de coordenação e sincronização mais antigo
 
 ---
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: Calendário
 - **Categoria**: Serviço / Interface / Cognitivo

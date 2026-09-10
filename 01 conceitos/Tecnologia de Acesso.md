@@ -10,7 +10,7 @@ tags:
 
 O conceito de **Tecnologia de Acesso** (ou Arquitetura de Acesso) estabelece que muitos dos artefatos e serviços de design mais influentes da história não criam ou produzem novos conteúdos, produtos ou recursos de forma nativa. Em vez disso, o seu valor reside na capacidade de **reorganizar o acesso espacial e temporal** a recursos existentes, alterando o custo, o esforço e a previsibilidade de sua obtenção por parte dos usuários.
 
-## Aplicação nos Artefatos
+## Aplicação nos artefatos
 
 Este conceito/princípio se manifesta e ajuda a compreender a lógica operacional dos seguintes artefatos:
 
@@ -19,7 +19,7 @@ Este conceito/princípio se manifesta e ajuda a compreender a lógica operaciona
 - [[03 artefatos/Archive|Archive]] — Não gera e-mails; atua como uma tecnologia de indexação rápida para recuperação passiva de dados históricos por meio de busca.
 - Serviços contemporâneos (como Uber, Airbnb ou iFood) — Funcionam estritamente como arquiteturas de acesso que conectam motoristas, residências e cozinhas pré-existentes aos usuários.
 
-## Variáveis Relacionadas
+## Variáveis relacionadas
 
 Este conceito opera associado ou impacta as seguintes variáveis de design:
 - [[02 variaveis/Custo Transacional|Custo Transacional]]
@@ -28,7 +28,7 @@ Este conceito opera associado ou impacta as seguintes variáveis de design:
 
 ---
 
-### Ficha Resumo do Conceito
+### Ficha resumo do conceito
 
 - **Nome do conceito**: Tecnologia de Acesso
 - **Área principal**: Design de Serviços / Arquitetura da Informação

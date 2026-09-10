@@ -12,14 +12,14 @@ O **Serviço de Reflexão** (ou serviços baseados em *cognição generativa*) �
 
 Ao contrário de serviços mecânicos ou baseados em recuperação de informação pura (como consultar saldo ou extrair metadados), os serviços de reflexão dependem da interação fluida, do silêncio de escuta ativa, do inesperado e do pensamento compartilhado.
 
-## Aplicação nos Artefatos
+## Aplicação nos artefatos
 
 Este conceito/princípio se manifesta e ajuda a compreender a lógica operacional dos seguintes artefatos:
 
 - Entrevistas de experiência e pesquisa qualitativa exploratória — O pesquisador não atua apenas como um coletor passivo, mas ajuda o próprio usuário a organizar e ressignificar sua vivência no momento do diálogo.
 - Serviços de aconselhamento, mentoria de design, terapias e sessões de codisplay — Estruturas relacionais focadas em espelhar e apoiar a reconfiguração cognitiva do usuário durante o fluxo da fala.
 
-## Variáveis Relacionadas
+## Variáveis relacionadas
 
 Este conceito opera associado ou impacta as seguintes variáveis de design:
 - [[variaveis/Justica|Justiça]]
@@ -27,7 +27,7 @@ Este conceito opera associado ou impacta as seguintes variáveis de design:
 
 ---
 
-### Ficha Resumo do Conceito
+### Ficha resumo do conceito
 
 - **Nome do conceito**: Serviço de Reflexão
 - **Área principal**: Design de Serviços / Psicologia Social / Cognição Generativa

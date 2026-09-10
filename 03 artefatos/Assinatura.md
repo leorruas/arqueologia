@@ -10,31 +10,31 @@ tags:
 
 A assinatura é um artefato de validação pessoal e jurídica constituído por um gesto caligráfico repetível, único e reconhecível, projetado para ligar permanentemente a identidade de um indivíduo a uma declaração ou decisão em um suporte físico.
 
-## Ficha Técnica
+## Ficha técnica
 - **Criador(es)**: Invenção distribuída (evolução de marcas caligráficas, selos e inscrições manuscritas)
 - **Empresa/Fabricante**: Não aplicável (desenvolvido por governos, cartórios e tabelionatos históricos)
 - **Ano de Lançamento**: Antiguidade/Idade Média (consolidado como padrão legal na expansão dos Estados Modernos)
 - **Materiais/Mídia**: Tinta sobre papel ou pergaminho, caligrafia manual
 - **Tipo de Design**: [[00 tipos de design/Design Grafico|Design Gráfico]] / Design de Identidade / Design de Serviços
 
-## História e Contexto de Criação
+## História e contexto de criação
 - **Demanda / Problema**: Como associar uma obrigação, contrato ou declaração a uma pessoa específica sem depender da presença física constante ou do testemunho oral permanente.
 - **Processo de Desenvolvimento**: Originou-se do uso de sinetes com cera quente e anéis com monogramas de nobreza. Com a disseminação da alfabetização e do papel, o traço caligráfico individualizado (a rubrica ou assinatura por extenso) tornou-se a representação máxima da vontade de um indivíduo.
 
-## Inovação e Impacto
+## Inovação e impacto
 - **Ampliação de Capacidade**: Amplia a capacidade de validação jurídica descentralizada e compromisso formal à distância.
 - **Enfraquecimento de Capacidade**: Enfraquece o valor do testemunho oral direto e da palavra empenhada de forma puramente social/comunitária.
 - **Comportamento Coletivo**: Estruturou o sistema comercial e jurídico internacional de contratos, promissórias e acordos formais baseados na confiança documental.
 - **Linhagem e Descendência**: Descendente de selos de cera, sinetes reais e marcas de ferrete. Antepassada direta de assinaturas digitais, chaves privadas (criptográficas), logins e biometria digital.
 - **Custo Invisível**: Possibilidade de falsificação de traços, exclusão de indivíduos analfabetos dos sistemas contratuais formais e a burocratização do compromisso ("só vale assinado").
 
-## Referências e Onde Encontrar
+## Referências e onde encontrar
 - **Acervos**: Arquivos nacionais, museus históricos (seção de documentos e tratados históricos)
 - **Leituras**: Literaturas sobre a história do direito contratual, diplomática e história da escrita.
 
 ---
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: Assinatura
 - **Categoria**: Design Gráfico / Identidade / Design de Serviços

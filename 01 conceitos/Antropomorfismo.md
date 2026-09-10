@@ -10,14 +10,14 @@ tags:
 
 O **Antropomorfismo** é um viés cognitivo e princípio projetual que consiste na atribuição de traços humanos, sentimentos, rostos, comportamentos ou intenções a entidades não humanas (objetos, animais, corporações ou sistemas computacionais). No design, é utilizado para mediar e facilitar a relação com sistemas abstratos complexos por meio de formas conhecidas de convívio social.
 
-## Aplicação nos Artefatos
+## Aplicação nos artefatos
 
 Este conceito/princípio se manifesta e ajuda a compreender a lógica operacional dos seguintes artefatos:
 
 - [[03 artefatos/Mascote|Mascote]] — Dá corpo, rosto e sentimentos a uma marca abstrata corporativa ou governamental, gerando vínculo afetivo imediato e simulando vida.
 - [[03 artefatos/Prompt Conversacional|Prompt Conversacional]] — A interface de conversa em formato de diálogo textual induz o usuário a atribuir intenção, certeza e compreensão intelectual ao software (Efeito ELIZA) com base na fluência sintática e tom.
 
-## Variáveis Relacionadas
+## Variáveis relacionadas
 
 Este conceito opera associado ou impacta as seguintes variáveis de design:
 - [[02 variaveis/Friccao|Fricção]]
@@ -26,7 +26,7 @@ Este conceito opera associado ou impacta as seguintes variáveis de design:
 
 ---
 
-### Ficha Resumo do Conceito
+### Ficha resumo do conceito
 
 - **Nome do conceito**: Antropomorfismo
 - **Área principal**: IHC / Psicologia Cognitiva / Semiótica

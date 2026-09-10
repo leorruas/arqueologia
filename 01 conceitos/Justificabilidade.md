@@ -10,7 +10,7 @@ tags:
 
 O princípio da **Justificabilidade** postula que a tomada de decisões no design de sistemas, serviços e políticas não deve ser opaca, discricionária ou baseada unicamente na hierarquia. Para que um artefato, processo ou investimento público ou organizacional seja legítimo, os motivos de sua existência, seus beneficiários planejados, suas evidências fundamentadoras e seus resultados esperados devem ser explicitados, tornados legíveis e passíveis de contestação e verificação retroativa.
 
-## Aplicação nos Artefatos
+## Aplicação nos artefatos
 
 Este conceito/princípio se manifesta e ajuda a compreender a lógica operacional dos seguintes artefatos:
 
@@ -18,7 +18,7 @@ Este conceito/princípio se manifesta e ajuda a compreender a lógica operaciona
 - [[03 artefatos/Justificativa de Valor Público|Justificativa de Valor Público]] — Transforma a justificativa técnica de sistemas em uma microinfraestrutura de accountability institucional no serviço público, exigindo evidências, alternativas e condições de descontinuação.
 - [[03 artefatos/Manifesto|Manifesto]] — Declara publicamente as intenções, valores e justificações que guiam uma nova prática de design, permitindo que a coletividade avalie e critique a coerência das ações futuras com base nesses princípios declarados.
 
-## Variáveis Relacionadas
+## Variáveis relacionadas
 
 Este conceito opera associado ou impacta as seguintes variáveis de design:
 - [[02 variaveis/Legitimidade Decisoria|Legitimidade Decisória]]
@@ -26,7 +26,7 @@ Este conceito opera associado ou impacta as seguintes variáveis de design:
 
 ---
 
-### Ficha Resumo do Conceito
+### Ficha resumo do conceito
 
 - **Nome do conceito**: Justificabilidade
 - **Área principal**: Design de Serviços / Governança / Teoria do Design

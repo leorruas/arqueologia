@@ -10,7 +10,7 @@ tags:
 
 A **Autonomia da Atenção** é o modelo teórico que analisa o grau de arbítrio e poder de decisão consciente que o usuário retém sobre a alocação de seu foco mental. Interfaces com arquitetura ativa (modelo *pull*) promovem a autonomia, enquanto interfaces baseadas em interrupção (modelo *push*) disputam essa autonomia para capturar engajamento passivo.
 
-## Aplicação nos Artefatos
+## Aplicação nos artefatos
 
 Este conceito/princípio se manifesta e ajuda a compreender a lógica operacional dos seguintes artefatos:
 
@@ -18,7 +18,7 @@ Este conceito/princípio se manifesta e ajuda a compreender a lógica operaciona
 - [[Infinite Scroll|Infinite Scroll]] — Diminui a autonomia da atenção ao prender o foco do usuário em um fluxo ininterrupto de carregamento de conteúdo sem pontos de saída.
 - [[Post-it|Post-it]] — Intercepta a atenção no ambiente físico ao colocar lembretes exatamente no local onde o usuário passará, agindo como um *push* contextual e passivo.
 
-## Variáveis Relacionadas
+## Variáveis relacionadas
 
 Este conceito opera associado ou impacta as seguintes variáveis de design:
 - [[Atencao|Atenção]]
@@ -26,7 +26,7 @@ Este conceito opera associado ou impacta as seguintes variáveis de design:
 
 ---
 
-### Ficha Resumo do Conceito
+### Ficha resumo do conceito
 
 - **Nome do conceito**: Autonomia da Atenção
 - **Área principal**: Psicologia Cognitiva / Economia da Atenção

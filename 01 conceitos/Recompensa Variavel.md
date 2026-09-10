@@ -10,7 +10,7 @@ tags:
 
 A **Recompensa Variável** (Variable Reward) é um princípio de condicionamento psicológico operante originado nos experimentos de B. F. Skinner. O conceito descreve como os comportamentos se repetem com frequência e engajamento significativamente maiores quando o retorno gerado por uma ação é imprevisível ou oscilante (dinâmica de caça-níqueis).
 
-## Aplicação nos Artefatos
+## Aplicação nos artefatos
 
 Este conceito/princípio se manifesta e ajuda a compreender a lógica operacional dos seguintes artefatos:
 
@@ -18,7 +18,7 @@ Este conceito/princípio se manifesta e ajuda a compreender a lógica operaciona
 - [[Botao Like|Botão Like]] — Alimenta o engajamento através da checagem de métricas sociais: o usuário retorna continuamente para ver se recebeu novas reações/curtidas.
 - [[Infinite Scroll|Infinite Scroll]] — Estimula a rolagem contínua devido à expectativa ininterrupta de encontrar algo de valor no fluxo descendente.
 
-## Variáveis Relacionadas
+## Variáveis relacionadas
 
 Este conceito opera associado ou impacta as seguintes variáveis de design:
 - [[Atencao|Atenção]]
@@ -26,7 +26,7 @@ Este conceito opera associado ou impacta as seguintes variáveis de design:
 
 ---
 
-### Ficha Resumo do Conceito
+### Ficha resumo do conceito
 
 - **Nome do conceito**: Recompensa Variável
 - **Área principal**: Psicologia Comportamental / Economia da Atenção

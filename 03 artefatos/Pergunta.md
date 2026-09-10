@@ -10,18 +10,18 @@ tags:
 
 A Pergunta é uma das tecnologias cognitivas e relacionais mais fundamentais da humanidade. Ao invés de fornecer respostas prontas, ela reorganiza o foco mental e estimula o julgamento individual e a autoeficácia.
 
-## Ficha Técnica
+## Ficha técnica
 - **Criador(es)**: [[autores/Sócrates|Sócrates]]
 - **Empresa/Fabricante**: Não aplicável
 - **Ano de Lançamento**: Tão antigo quanto a linguagem.
 - **Materiais/Mídia**: Linguagem, roteiros de pesquisa, blocos de notas
 - **Tipo de Design**: [[00 tipos de design/Design de Servicos|Design de Serviços]]
 
-## História e Contexto de Criação
+## História e contexto de criação
 - **Demanda / Problema**: Como produzir conhecimento sem simplesmente transmitir respostas.
 - **Processo de Desenvolvimento**: Desenvolvido como ferramenta nos primeiros contextos de Tão antigo quanto a linguagem..
 
-## Inovação e Impacto
+## Inovação e impacto
 - **Ampliação de Capacidade**: Amplia a reflexão crítica, a autonomia de pensamento e a descoberta de fatos novos.
 - **Enfraquecimento de Capacidade**: Enfraquece a passividade cognitiva e a aceitação acrítica de dogmas.
 - **Comportamento Coletivo**: Investigação, descoberta, autonomia intelectual.
@@ -32,7 +32,7 @@ A Pergunta é uma das tecnologias cognitivas e relacionais mais fundamentais da 
 - **Quem ele fortalece**: Pesquisadores qualitativos, facilitadores e pensadores autônomos.
 - **Quem ele enfraquece**: Regimes dogmáticos ou lideranças autoritárias dependentes de obediência cega.
 
-## Referências e Onde Encontrar
+## Referências e onde encontrar
 - **Acervos**: Vitra Design Museum, MoMA (ou não aplicável se digital/processual)
 - **Leituras**:
 - *Diálogos Socráticos* por Platão
@@ -40,7 +40,7 @@ A Pergunta é uma das tecnologias cognitivas e relacionais mais fundamentais da 
 
 ---
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: Pergunta
 - **Categoria**: Cognição / Investigação / Facilitação

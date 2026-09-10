@@ -23,7 +23,7 @@ A ecologia de transformação organiza os artefatos em oito famílias funcionais
 7. **Artefatos de Institucionalização**: Transformam experimentos em rotinas permanentes e independentes de indivíduos (ex: [[03 artefatos/Checklist|Checklist]], [[03 artefatos/Carimbo|Carimbo]], [[03 artefatos/Número de Protocolo|Número de Protocolo]], POPs, Manuais). Reorganizam o recurso invisível da *continuidade*.
 8. **Artefatos de Avaliação**: Transformam resultados operacionais em aprendizagem sistêmica (ex: [[03 artefatos/Retrospectiva|Retrospectiva]], Dashboards, Indicadores). Reorganizam o recurso invisível da *aprendizagem*.
 
-## Aplicação nos Artefatos
+## Aplicação nos artefatos
 
 Este conceito permite compreender como artefatos aparentemente heterogêneos alimentam-se mutuamente em ciclos contínuos:
 - Um [[03 artefatos/Jobs to Be Done|Jobs to Be Done]] (Investigação) gera um [[03 artefatos/Value Proposition Ad Lib|Value Proposition Ad Lib]] (Formulação).
@@ -33,7 +33,7 @@ Este conceito permite compreender como artefatos aparentemente heterogêneos ali
 - A implementação consolida-se em um [[03 artefatos/Checklist|Checklist]] operacional (Institucionalização).
 - Os dados operacionais alimentam uma [[03 artefatos/Retrospectiva|Retrospectiva]] (Avaliação), que por sua vez gera novas perguntas de investigação.
 
-## Variáveis Relacionadas
+## Variáveis relacionadas
 
 Este conceito impacta diretamente e interliga as seguintes variáveis:
 - [[02 variaveis/Custo Transacional|Custo Transacional]]
@@ -43,7 +43,7 @@ Este conceito impacta diretamente e interliga as seguintes variáveis:
 
 ---
 
-### Ficha Resumo do Conceito
+### Ficha resumo do conceito
 
 - **Nome do conceito**: Ecologia de Artefatos
 - **Área principal**: Design de Serviços / Teoria da Mudança Organizacional / Arqueologia do Design

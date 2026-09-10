@@ -10,18 +10,18 @@ tags:
 
 A Visão é um artefato de intenção e autodeterminação organizacional consolidado na gestão estratégica de meados do século XX. Sua finalidade é alinhar a atenção coletiva e descentralizar decisões sem a necessidade de prescrições rígidas.
 
-## Ficha Técnica
+## Ficha técnica
 - **Criador(es)**: [[autores/Peter Drucker|Peter Drucker]], [[autores/Warren Bennis|Warren Bennis]], [[autores/John Kotter|John Kotter]]
 - **Empresa/Fabricante**: Não aplicável
 - **Ano de Lançamento**: Décadas de 1970 e 1980, com a consolidação da gestão estratégica.
 - **Materiais/Mídia**: Documentos corporativos, apresentações, manifestos
 - **Tipo de Design**: [[00 tipos de design/Design de Servicos|Design de Serviços]]
 
-## História e Contexto de Criação
+## História e contexto de criação
 - **Demanda / Problema**: Como permitir que centenas ou milhares de pessoas tomem decisões coerentes sem depender de instruções constantes.
 - **Processo de Desenvolvimento**: Desenvolvido como ferramenta nos primeiros contextos de Décadas de 1970 e 1980, com a consolidação da gestão estratégica..
 
-## Inovação e Impacto
+## Inovação e impacto
 - **Ampliação de Capacidade**: Amplia a capacidade de descentralizar tomadas de decisão em organizações de grande escala.
 - **Enfraquecimento de Capacidade**: Enfraquece a necessidade de microgerenciamento e supervisão direta constante.
 - **Comportamento Coletivo**: Decisões descentralizadas coerentes.
@@ -32,7 +32,7 @@ A Visão é um artefato de intenção e autodeterminação organizacional consol
 - **Quem ele fortalece**: Líderes estratégicos que delegam responsabilidades operacionais.
 - **Quem ele enfraquece**: Executores que necessitam de instruções passo a passo exatas.
 
-## Referências e Onde Encontrar
+## Referências e onde encontrar
 - **Acervos**: Vitra Design Museum, MoMA (ou não aplicável se digital/processual)
 - **Leituras**:
 - [[00 índices/Livros Indicados|Leading Change]] por John Kotter
@@ -40,7 +40,7 @@ A Visão é um artefato de intenção e autodeterminação organizacional consol
 
 ---
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: Visão
 - **Categoria**: Gestão / Estratégia / Serviços

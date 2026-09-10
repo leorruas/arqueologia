@@ -10,31 +10,31 @@ tags:
 
 O manifesto é um artefato de alinhamento e design semiótico utilizado para declarar intenções, princípios e visões de mundo, visando transformar a percepção da realidade e guiar a ação coletiva sem alterar processos práticos diretamente.
 
-## Ficha Técnica
+## Ficha técnica
 - **Criador(es)**: Invenção distribuída (convergência histórica de movimentos políticos e artísticos)
 - **Empresa/Fabricante**: Coletivos, partidos políticos, movimentos artísticos e grupos tecnológicos
 - **Ano de Lançamento**: Consolidou-se entre os séculos XVIII e XIX; expandiu-se no design e tecnologia no século XX
 - **Materiais/Mídia**: Mídia impressa, publicações em periódicos, manifestos digitais
 - **Tipo de Design**: [[00 tipos de design/Design Grafico|Design Gráfico]] / Design Estratégico
 
-## História e Contexto de Criação
+## História e contexto de criação
 - **Demanda / Problema**: Como alinhar o pensamento e a ação de grandes grupos de pessoas em torno de uma nova perspectiva e dar visibilidade/significado a mudanças sociais ou conceituais invisíveis.
 - **Processo de Desenvolvimento**: Evoluiu de panfletos, teses filosóficas e declarações revolucionárias. Exemplos históricos marcantes incluem o *Manifesto Comunista* (1848), o *Manifesto Futurista* (1909) e, no contexto tecnológico recente, o *Manifesto Ágil* (2001).
 
-## Inovação e Impacto
+## Inovação e impacto
 - **Ampliação de Capacidade**: Amplia a capacidade de articulação de visões abstratas de futuro e alinhamento ideológico em larga escala.
 - **Enfraquecimento de Capacidade**: Enfraquece a necessidade de negociações e consensos incrementais detalhados, impondo uma polarização ou uma direção clara de ruptura.
 - **Comportamento Coletivo**: Mobiliza movimentos sociais, artísticos e profissionais, gerando identidades coletivas fortes em torno de princípios comuns.
 - **Linhagem e Descendência**: Descendente de cartas abertas, dogmas religiosos e declarações de direitos. Antepassado de cartas de princípios corporativos, missões de produto e diretrizes de design.
 - **Custo Invisível**: Pode gerar simplificação excessiva de problemas complexos, dogmatismo e descompasso entre a teoria declarada e a prática real das organizações.
 
-## Referências e Onde Encontrar
+## Referências e onde encontrar
 - **Acervos**: Arquivos históricos, museus de arte moderna (seção de manifestos de vanguarda)
 - **Leituras**: Literaturas sobre história das ideias e manifestos estéticos/políticos (ex: manifestos futuristas, dadaístas e o Manifesto Ágil).
 
 ---
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: Manifesto
 - **Categoria**: Design Estratégico / Comunicação Semiótica

@@ -10,18 +10,18 @@ tags:
 
 A Hipótese Científica é um artefato de formulação e investigação que estrutura dúvidas intelectuais em explicações provisórias refutáveis por evidências empíricas.
 
-## Ficha Técnica
+## Ficha técnica
 - **Criador(es)**: [[autores/Francis Bacon|Francis Bacon]], [[autores/Galileo Galilei|Galileo Galilei]], [[autores/Karl Popper|Karl Popper]]
 - **Empresa/Fabricante**: Não aplicável
 - **Ano de Lançamento**: Séculos XVII e XVIII, com a Revolução Científica.
 - **Materiais/Mídia**: Textos acadêmicos, diários de laboratório, registros estatísticos
 - **Tipo de Design**: [[00 tipos de design/Design de Servicos|Design de Serviços]]
 
-## História e Contexto de Criação
+## História e contexto de criação
 - **Demanda / Problema**: Como investigar fenômenos sem começar acreditando que já sabemos a resposta.
 - **Processo de Desenvolvimento**: Desenvolvido como ferramenta nos primeiros contextos de Séculos XVII e XVIII, com a Revolução Científica..
 
-## Inovação e Impacto
+## Inovação e impacto
 - **Ampliação de Capacidade**: Amplia o rigor investigativo, a acumulação de conhecimento e a refutabilidade empírica.
 - **Enfraquecimento de Capacidade**: Enfraquece dogmas, intuições puras e explicações puramente baseadas em autoridade.
 - **Comportamento Coletivo**: Não especificado
@@ -32,7 +32,7 @@ A Hipótese Científica é um artefato de formulação e investigação que estr
 - **Quem ele fortalece**: Pesquisadores e cientistas experimentais.
 - **Quem ele enfraquece**: Provedores de certezas absolutas sem base empírica.
 
-## Referências e Onde Encontrar
+## Referências e onde encontrar
 - **Acervos**: Vitra Design Museum, MoMA (ou não aplicável se digital/processual)
 - **Leituras**:
 - [[00 índices/Livros Indicados|Vigiar e Punir]] por Michel Foucault (sobre saber/poder)
@@ -40,7 +40,7 @@ A Hipótese Científica é um artefato de formulação e investigação que estr
 
 ---
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: Hipótese Científica
 - **Categoria**: Metodologia / Investigação / Epistemologia

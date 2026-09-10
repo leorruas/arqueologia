@@ -10,31 +10,31 @@ tags:
 
 O login é um artefato de identidade digital, controle de acesso e demarcação de permissões projetado para criar um limiar de entrada em sistemas digitais compartilhado, separando as identidades, arquivos e responsabilidades dos usuários com base em credenciais de acesso.
 
-## Ficha Técnica
+## Ficha técnica
 - **Criador(es)**: Fernando Corbató (pioneiro no desenvolvimento de senhas no CTSS)
 - **Empresa/Fabricante**: MIT (Massachusetts Institute of Technology)
 - **Ano de Lançamento**: 1961 (com o Compatible Time-Sharing System - CTSS)
 - **Materiais/Mídia**: Código de software, campos de entrada de texto em interfaces, bancos de dados de credenciais
 - **Tipo de Design**: [[00 tipos de design/Design de Interface|Design de Interface]] / Segurança da Informação
 
-## História e Contexto de Criação
+## História e contexto de criação
 - **Demanda / Problema**: Como múltiplos usuários podem compartilhar simultaneamente os recursos de um único computador central (mainframe) mantendo seus arquivos privados e suas ações separadas e protegidas contra interferências de terceiros.
 - **Processo de Desenvolvimento**: Desenvolvido sob a liderança do cientista da computação Fernando Corbató no MIT. A criação de "contas de usuário" protegidas por senha permitiu que cada pesquisador tivesse seu próprio espaço de armazenamento e tempo de processamento delimitado no sistema compartilhado.
 
-## Inovação e Impacto
+## Inovação e impacto
 - **Ampliação de Capacidade**: Amplia a capacidade de individualização e privacidade em ambientes computacionais compartilhados e remotos.
 - **Enfraquecimento de Capacidade**: Enfraquece a facilidade de acesso imediato e livre a recursos físicos e digitais sem a necessidade de memorização ou posse de credenciais.
 - **Comportamento Coletivo**: Estabeleceu o hábito diário de "entrar" e "sair" de contas virtuais para interagir com o mundo, consolidando a noção de identidade digital cindida da presença corporal.
 - **Linhagem e Descendência**: Descendente de chaves físicas, senhas militares faladas, assinaturas manuscritas e fechaduras de cofres. Antepassado direto de gerenciadores de senhas, autenticação em duas etapas (2FA), logins sociais (OAuth) e biometria por reconhecimento facial ou digital.
 - **Custo Invisível**: Carga cognitiva constante para memorizar dezenas de senhas exclusivas (fadiga de senhas), vulnerabilidades de segurança por credenciais fracas ou vazamento de dados, e a exclusão de usuários em caso de perda de acesso às contas.
 
-## Referências e Onde Encontrar
+## Referências e onde encontrar
 - **Acervos**: Arquivos do MIT e museus de história da computação (ex: Computer History Museum)
 - **Leituras**: Literaturas sobre a história dos sistemas operacionais e biografia de Fernando Corbató.
 
 ---
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: Login
 - **Categoria**: Design de Interface / Identidade Digital

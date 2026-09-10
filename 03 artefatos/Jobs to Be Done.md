@@ -10,18 +10,18 @@ tags:
 
 O Jobs to Be Done (JTBD) é uma teoria de design e estratégia que postula que as pessoas adquirem produtos e serviços não por suas características em si, mas para realizar um progresso desejado em circunstâncias específicas.
 
-## Ficha Técnica
+## Ficha técnica
 - **Criador(es)**: [[autores/Clayton Christensen|Clayton Christensen]], [[autores/Anthony Ulwick|Anthony Ulwick]], [[autores/Bob Moesta|Bob Moesta]], [[autores/Alan Klement|Alan Klement]]
 - **Empresa/Fabricante**: Não aplicável
 - **Ano de Lançamento**: Décadas de 1990 e 2000.
 - **Materiais/Mídia**: Estruturas de texto (Job Statements), diagramas de forças, roteiros de entrevista
 - **Tipo de Design**: [[00 tipos de design/Design de Servicos|Design de Serviços]] / [[00 tipos de design/Design de Interface|Design de Interface]]
 
-## História e Contexto de Criação
+## História e contexto de criação
 - **Demanda / Problema**: Como inovar sem começar pela solução.
 - **Processo de Desenvolvimento**: Estratégia, inovação e desenvolvimento de produtos.
 
-## Inovação e Impacto
+## Inovação e impacto
 - **Ampliação de Capacidade**: Amplia a visão de concorrência e a compreensão das reais motivações humanas.
 - **Enfraquecimento de Capacidade**: Enfraquece o foco em dados demográficos tradicionais ou no apego excessivo a soluções tecnológicas atuais.
 - **Comportamento Coletivo**: Não especificado
@@ -32,7 +32,7 @@ O Jobs to Be Done (JTBD) é uma teoria de design e estratégia que postula que a
 - **Quem ele fortalece**: Designers de produto e estrategistas focados em inovação disruptiva.
 - **Quem ele enfraquece**: Engenheiros obcecados por acumular funcionalidades ('feature creep') sem foco em utilidade.
 
-## Referências e Onde Encontrar
+## Referências e onde encontrar
 - **Acervos**: Vitra Design Museum, MoMA (ou não aplicável se digital/processual)
 - **Leituras**:
 - [[00 índices/Livros Indicados|Nudge]] por Thaler e Sunstein (relação de contexto)
@@ -42,7 +42,7 @@ O Jobs to Be Done (JTBD) é uma teoria de design e estratégia que postula que a
 
 ---
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: Jobs to Be Done
 - **Categoria**: Estratégia / Pesquisa / Inovação

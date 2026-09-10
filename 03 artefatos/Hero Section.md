@@ -10,30 +10,30 @@ tags:
 
 A **Hero Section** (ou primeiro bloco visual) é a seção inicial posicionada no topo de uma página web, geralmente composta por uma manchete forte (headline), um subtítulo de suporte, um elemento visual proeminente (imagem, vídeo ou grafismo) e uma chamada para ação clara (Call to Action - CTA). Ela funciona como a vitrine digital e o portal de entrada do usuário em um site ou aplicativo.
 
-## Ficha Técnica
+## Ficha técnica
 - **Criador(es)**: Desenvolvedores web, web designers e profissionais de marketing digital (sem inventor único)
 - **Empresa/Fabricante**: Diversas agências de web e empresas de internet
 - **Ano de Lançamento**: Final da década de 1990 (consolidação global entre 2010 e 2020 com o avanço do web design responsivo)
 - **Materiais/Mídia**: Código (HTML/CSS), tipografia, fotografia digital, ilustrações
 - **Tipo de Design**: [[00 tipos de design/Design de Interface|Design de Interface]] / Arquitetura da Informação
 
-## História e Contexto de Criação
+## História e contexto de criação
 - **Demanda / Problema**: Orientar rapidamente um visitante que chega a um site novo e desconhecido. Diante da altíssima taxa de rejeição de páginas e da pouca paciência do usuário da internet, a hero section surgiu para responder instantaneamente a perguntas básicas nos primeiros segundos: *“O que é isso?”*, *“Para que serve?”*, *“Como isso me ajuda?”* e *“O que devo fazer a seguir?”*.
 - **O Mundo Antes da Inovação**: As páginas iniciais (home pages) dos primórdios da web (anos 1990) eram estruturadas como índices densos ou documentos de texto contínuos, repletos de links textuais dispersos e sem hierarquia clara de leitura. O visitante precisava rolar a página e ler parágrafos inteiros para extrair o propósito do site.
 
-## Inovação e Impacto
+## Inovação e impacto
 - **Ampliação de Capacidade**: Amplia a capacidade de escaneamento visual imediato e tomada de decisão rápida sobre a relevância de uma página.
 - **Enfraquecimento de Capacidade**: Enfraquece a tolerância à leitura de textos detalhados de introdução e a paciência para descobrir caminhos de navegação complexos.
 - **Comportamento Coletivo**: Estabeleceu o hábito cultural de exigir que toda página web declare seu valor imediatamente e forneça um próximo passo indutivo evidente, reduzindo o tempo de atenção dispensado a sites não otimizados.
 - **Linhagem e Descendência**: Descendente direta das manchetes e manchetes secundárias posicionadas "acima da dobra" (*above the fold*) nos jornais impressos diários, além das fachadas físicas de lojas e das capas de livros.
 - **Custo Invisível**: Padronização estética massiva da internet (SaaS, landing pages e aplicativos passaram a usar o mesmo layout de hero section de três blocos), resultando em perda de identidade visual criativa e promessas de marketing vazias ou excessivamente genéricas.
 
-## Referências e Onde Encontrar
+## Referências e onde encontrar
 - **Leituras**: *Don't Make Me Think* por Steve Krug (escaneabilidade e facilidade de orientação inicial); diretrizes de IHC do Nielsen Norman Group sobre o comportamento do usuário acima da dobra.
 
 ---
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: Hero Section
 - **Categoria**: Interface digital / Arquitetura da informação

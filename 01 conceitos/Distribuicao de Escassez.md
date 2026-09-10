@@ -10,7 +10,7 @@ tags:
 
 A **Distribuição de Escassez** é o princípio de design de serviços e filosofia política aplicada que estabelece que todo serviço que administra recursos limitados opera como uma teoria de justiça em funcionamento. O papel da interface ou do fluxo de serviço não é apenas otimizar a eficiência, mas materializar e legitimar socialmente os critérios de alocação de tais recursos.
 
-## Aplicação nos Artefatos
+## Aplicação nos artefatos
 
 Este conceito/princípio se manifesta e ajuda a compreender a lógica operacional dos seguintes artefatos:
 
@@ -30,7 +30,7 @@ Serviços que coordenam escassez adotam diferentes critérios para justificar a 
 6. **Relacionamento ou Confiança** (Ex: Sistemas de indicação, networking) — Prioridade baseada em vínculos sociais.
 7. **Preferência Personalizada** (Ex: Algoritmos de recomendação) — Prioridade baseada no perfil e comportamento histórico de dados do usuário.
 
-## Variáveis Relacionadas
+## Variáveis relacionadas
 
 Este conceito opera associado ou impacta as seguintes variáveis de design:
 - [[02 variaveis/Justica|Justiça]]
@@ -39,7 +39,7 @@ Este conceito opera associado ou impacta as seguintes variáveis de design:
 
 ---
 
-### Ficha Resumo do Conceito
+### Ficha resumo do conceito
 
 - **Nome do conceito**: Distribuição de Escassez
 - **Área principal**: Design de Serviços / Filosofia Política / Economia Comportamental

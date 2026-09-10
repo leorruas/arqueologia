@@ -10,7 +10,7 @@ tags:
 
 O enquadramento e delimitação de um problema complexo. Postula que a qualidade e a eficácia das soluções dependem inteiramente do esforço despendido em compreender e definir a dúvida ou lacuna corretamente.
 
-## Aplicação nos Artefatos
+## Aplicação nos artefatos
 
 Este conceito/princípio se manifesta e ajuda a compreender a lógica operacional dos seguintes artefatos:
 
@@ -20,7 +20,7 @@ Este conceito/princípio se manifesta e ajuda a compreender a lógica operaciona
 - [[03 artefatos/Pergunta de Pesquisa|Pergunta de Pesquisa]] — Aplicação na estruturação de autonomia ou foco de intenção de equipe.
 - [[03 artefatos/Prompt Conversacional|Prompt Conversacional]] — Exige que o usuário formule textualmente o contexto, restrições e objetivos desejados para obter resultados precisos de sistemas probabilísticos.
 
-## Variáveis Relacionadas
+## Variáveis relacionadas
 
 Este conceito opera associado ou impacta as seguintes variáveis de design:
 - [[02 variaveis/Custo de Busca|Custo de Busca]]
@@ -28,7 +28,7 @@ Este conceito opera associado ou impacta as seguintes variáveis de design:
 
 ---
 
-### Ficha Resumo do Conceito
+### Ficha resumo do conceito
 
 - **Nome do conceito**: Formulação
 - **Área principal**: Metodologia / IHC / Pensamento Sistêmico

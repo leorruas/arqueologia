@@ -10,7 +10,7 @@ tags:
 
 O **Paradoxo da Escolha** (The Paradox of Choice), formulado pelo psicólogo [[autores/Barry Schwartz|Barry Schwartz]], é o modelo teórico que demonstra que a abundância irrestrita de alternativas em um sistema, embora inicialmente libertadora, aumenta o esforço decisório do usuário, resultando em paralisia de escolha e sentimentos subsequentes de arrependimento, ansiedade e insatisfação.
 
-## Aplicação nos Artefatos
+## Aplicação nos artefatos
 
 Este conceito/princípio se manifesta e ajuda a compreender a lógica operacional dos seguintes artefatos:
 
@@ -18,7 +18,7 @@ Este conceito/princípio se manifesta e ajuda a compreender a lógica operaciona
 - [[03 artefatos/Infinite Scroll|Infinite Scroll]] — Oferece opções virtualmente infinitas de novos posts, gerando ansiedade sutil em interromper a navegação por medo de perder um conteúdo potencialmente melhor (FOMO).
 - Sistemas de busca modernos (como Google ou Spotify) — Concentram volumes gigantescos de dados. Sem filtros ou recomendações ativas de curadoria de design, a sobrecarga de resultados gera paralisia decisória.
 
-## Variáveis Relacionadas
+## Variáveis relacionadas
 
 Este conceito opera associado ou impacta as seguintes variáveis de design:
 - [[02 variaveis/Atrito Decisorio|Atrito Decisório]]
@@ -27,7 +27,7 @@ Este conceito opera associado ou impacta as seguintes variáveis de design:
 
 ---
 
-### Ficha Resumo do Conceito
+### Ficha resumo do conceito
 
 - **Nome do conceito**: Paradoxo da Escolha
 - **Área principal**: Economia Comportamental / Psicologia Cognitiva

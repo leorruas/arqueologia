@@ -10,31 +10,31 @@ tags:
 
 Um artefato de governança e design de serviços públicos projetado para institucionalizar e auditar a tomada de decisões no serviço público. Ele funciona como uma microinfraestrutura de accountability inserida em processos eletrônicos oficiais (como o SEI), condicionando o início de novos projetos, sistemas ou contratações à justificabilidade do valor público gerado para o cidadão e a comunidade.
 
-## Ficha Técnica
+## Ficha técnica
 - **Criador(es)**: Leo Ruas
 - **Empresa/Fabricante**: Instituto Federal de Minas Gerais (IFMG)
 - **Ano de Lançamento**: 2026
 - **Materiais/Mídia**: Documentos administrativos integrados em sistemas de processos eletrônicos (SEI), planilhas de governança
 - **Tipo de Design**: [[00 tipos de design/Design de Servicos|Design de Serviços]]
 
-## História e Contexto de Criação
+## História e contexto de criação
 - **Demanda / Problema**: Recursos coletivos e verba pública podem ser consumidos por demandas de sistemas localizados, customizações desnecessárias e contratações de TI solicitadas por conveniências particulares de chefias ou setores, sem que tragam benefício sistêmico ou institucional real.
 - **Processo de Desenvolvimento**: O artefato foi concebido como uma evolução do *Value Proposition Ad Lib* para o contexto da administração pública. Ele uniu o papel regulador da TI (que fiscaliza custos e viabilidade técnica) e da Comunicação (que defende a clareza e a experiência do cidadão) em uma barreira de legitimidade, obrigando que propostas de intervenções digitais passassem por critérios explícitos de justificabilidade e avaliação retroativa.
 
-## Inovação e Impacto
+## Inovação e impacto
 - **Ampliação de Capacidade**: Amplia a capacidade de auditoria e prestação de contas (accountability) de decisões institucionais complexas, convertendo promessas de serviços em premissas lógicas de valor controláveis e questionáveis.
 - **Enfraquecimento de Capacidade**: Dificulta a tomada de decisões discricionárias unilaterais por parte de gestores, reduzindo a velocidade de aprovação de propostas informais e sem dados de base.
 - **Comportamento Coletivo**: Estimula a colaboração transversal entre TI, Comunicação e áreas de negócio, forçando-as a estruturar justificativas em termos de necessidades públicas em vez de exigências hierárquicas.
 - **Linhagem e Descendência**: Descendente direto dos canvases de proposta de valor e da motivação do ato administrativo. Compartilha a mesma linhagem de transparência ativa que gerou a Lei de Acesso à Informação (LAI) e o Portal da Transparência.
 - **Custo Invisível**: Introduz mais uma etapa e um documento no processo burocrático de trâmite governamental, o que pode aumentar a carga operacional se não for devidamente integrado ao fluxo existente.
 
-## Referências e Onde Encontrar
+## Referências e onde encontrar
 - **Acervos**: Fluxo de processos administrativos do IFMG
 - **Leituras**: *Dilemmas in a General Theory of Planning* (Rittel & Webber, 1973) e a legislação brasileira de transparência pública (Lei nº 12.527 - LAI)
 
 ---
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: Justificativa de Valor Público
 - **Categoria**: Design de Serviços / Governança / Administração Pública

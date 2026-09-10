@@ -12,7 +12,7 @@ O conceito de **Compressão do Esforço** descreve a tendência histórica de pr
 
 Em vez de criar comportamentos novos, artefatos que utilizam a compressão do esforço capturam padrões de ação humana que já existem e reduzem drasticamente o seu atrito operacional, consolidando múltiplos passos em um único gatilho ou estrutura pré-definida.
 
-## Aplicação nos Artefatos
+## Aplicação nos artefatos
 
 Este conceito se manifesta e ajuda a compreender a lógica operacional dos seguintes artefatos:
 
@@ -20,7 +20,7 @@ Este conceito se manifesta e ajuda a compreender a lógica operacional dos segui
 - [[03 artefatos/Pull to Refresh|Pull to Refresh]] — Comprime a ação de atualizar uma página (procurar o botão, mover o cursor, clicar) em um único gesto elástico integrado ao próprio fluxo de rolagem.
 - [[03 artefatos/Carrinho de Compras|Carrinho de Compras]] — Permite agrupar múltiplos produtos em uma única transação final, eliminando a necessidade de pagar por cada item separadamente e reduzindo o custo de repetição do processo de pagamento.
 
-## Variáveis Relacionadas
+## Variáveis relacionadas
 
 Este conceito opera associado ou impacta as seguintes variáveis de design:
 - [[02 variaveis/Custo Transacional|Custo Transacional]]
@@ -29,7 +29,7 @@ Este conceito opera associado ou impacta as seguintes variáveis de design:
 
 ---
 
-### Ficha Resumo do Conceito
+### Ficha resumo do conceito
 
 - **Nome do conceito**: Compressão do Esforço
 - **Área principal**: Interação Humano-Computador (IHC) / Ergonomia / Design de Serviços

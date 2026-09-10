@@ -10,18 +10,18 @@ tags:
 
 O Problema de Design é um artefato de formulação que enquadra e reconfigura as dores dos usuários, evitando que designers pulem direto para a implementação de soluções equivocadas.
 
-## Ficha Técnica
+## Ficha técnica
 - **Criador(es)**: [[autores/Horst Rittel|Horst Rittel]], [[autores/Herbert Simon|Herbert Simon]]
 - **Empresa/Fabricante**: Não aplicável
 - **Ano de Lançamento**: Segunda metade do século XX.
 - **Materiais/Mídia**: Briefs de design, quadros de problemas, dinâmicas de Double Diamond
 - **Tipo de Design**: [[00 tipos de design/Design de Servicos|Design de Serviços]] / [[00 tipos de design/Design de Interface|Design de Interface]]
 
-## História e Contexto de Criação
+## História e contexto de criação
 - **Demanda / Problema**: Como evitar resolver perfeitamente o problema errado.
 - **Processo de Desenvolvimento**: Desenvolvido como ferramenta nos primeiros contextos de Segunda metade do século XX..
 
-## Inovação e Impacto
+## Inovação e impacto
 - **Ampliação de Capacidade**: Amplia o espaço de ideação criativa e a assertividade da solução desenhada.
 - **Enfraquecimento de Capacidade**: Enfraquece a pressa para implementar soluções precoces baseadas apenas em suposições.
 - **Comportamento Coletivo**: Não especificado
@@ -32,7 +32,7 @@ O Problema de Design é um artefato de formulação que enquadra e reconfigura a
 - **Quem ele fortalece**: Designers estratégicos e de experiência do usuário.
 - **Quem ele enfraquece**: Desenvolvedores e gerentes apressados pela entrega de telas rápidas.
 
-## Referências e Onde Encontrar
+## Referências e onde encontrar
 - **Acervos**: Vitra Design Museum, MoMA (ou não aplicável se digital/processual)
 - **Leituras**:
 - [[00 índices/Livros Indicados|The Sciences of the Artificial]] por Herbert Simon
@@ -40,7 +40,7 @@ O Problema de Design é um artefato de formulação que enquadra e reconfigura a
 
 ---
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: Problema de Design
 - **Categoria**: Metodologia / Formulação / IHC

@@ -10,27 +10,27 @@ tags:
 
 O **Cartão de Embarque** (Boarding Pass) é um documento impresso ou digital emitido por uma empresa aérea que concede ao passageiro autorização para embarcar em uma aeronave específica, sintetizando dados de voo, identidade e prioridade.
 
-## Ficha Técnica
+## Ficha técnica
 - **Criador(es)**: Surgimento evolutivo na aviação comercial civil (consolidação em meados do século XX)
 - **Tipo de Design**: [[00 tipos de design/Design de Servicos|Design de Serviços]] / [[00 tipos de design/Design Grafico|Design Gráfico]]
 
-## História e Contexto de Criação
+## História e contexto de criação
 - **Demanda / Problema**: Nos primórdios da aviação, os embarques exigiam verificação manual contínua em diferentes pontos de controle: conferência de bilhete manuscrito, verificação de identidade, checagem de bagagem e atribuição física de assento. Esse fluxo descentralizado gerava longos atrasos logísticos nos aeroportos, erros manuais e atrito constante entre funcionários e viajantes.
 - **O Mundo Antes da Inovação**: As passagens eram preenchidas à mão por agentes em balcões de madeira, operando de forma lenta e isolada de sistemas centrais.
 
-## Inovação e Impacto
+## Inovação e impacto
 - **Ampliação de Capacidade**: Amplia a velocidade e a precisão de coordenação de fluxos logísticos de massa ao condensar direitos complexos de trânsito em um único artefato visual e escaneável.
 - **Enfraquecimento de Capacidade**: Enfraquece a flexibilidade e a autonomia do viajante de alterar detalhes de assento ou destino no momento do embarque.
 - **Comportamento Coletivo**: Criou o ritual de viagem aérea de autoatendimento, onde o passageiro assume o controle do fluxo através de checkpoints eletrônicos de leitura de código de barras.
 - **Linhagem e Descendência**: Descendente de bilhetes de trem e navio manuscritos clássicos. Antepassado direto dos e-tickets, bilhetes de trânsito em carteiras digitais (Apple Wallet) e QR Codes de acesso a eventos.
 - **Custo Invisível**: Dependência de sistemas de TI centrais interconectados em tempo real (caso o sistema caia, o aeroporto inteiro paralisa) e a exclusão digital de passageiros sem acesso a smartphones.
 
-## Referências e Onde Encontrar
+## Referências e onde encontrar
 - **Conceitos Relacionados**: Teoria da coordenação, design de serviços, design de informação.
 
 ---
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: Cartão de Embarque
 - **Ano aproximado**: Meados do século XX

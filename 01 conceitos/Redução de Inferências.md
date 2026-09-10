@@ -12,7 +12,7 @@ O conceito de **Redução de Inferências** refere-se ao princípio de design vo
 
 Diferente de artefatos que aceleram a velocidade da ação motora direta (como atalhos físicos), os dispositivos de redução de inferência otimizam a velocidade de processamento cognitivo ao remover a necessidade de adivinhação.
 
-## Aplicação nos Artefatos
+## Aplicação nos artefatos
 
 Este conceito é fundamental para compreender a utilidade dos seguintes artefatos:
 
@@ -20,7 +20,7 @@ Este conceito é fundamental para compreender a utilidade dos seguintes artefato
 - [[03 artefatos/Grid|Grid]] — Substitui o esforço de adivinhar o alinhamento e a hierarquia visual em uma diagramação por uma malha estrutural predefinida que organiza as relações espaciais da página.
 - [[03 artefatos/Checklist|Checklist]] — Remove a necessidade de inferir ou lembrar mentalmente quais passos de um protocolo complexo já foram executados sob estresse, externalizando o progresso operacional em um suporte físico.
 
-## Variáveis Relacionadas
+## Variáveis relacionadas
 
 Este conceito impacta diretamente as seguintes variáveis de design:
 - [[02 variaveis/Custo de Busca|Custo de Busca]] — Reduz o tempo de escaneamento visual e localização de informações.
@@ -29,7 +29,7 @@ Este conceito impacta diretamente as seguintes variáveis de design:
 
 ---
 
-### Ficha Resumo do Conceito
+### Ficha resumo do conceito
 
 - **Nome do conceito**: Redução de Inferências
 - **Área principal**: Ergonomia Cognitiva / Design de Interface / Arquitetura da Informação

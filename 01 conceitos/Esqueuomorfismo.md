@@ -10,14 +10,14 @@ tags:
 
 O **Esqueuomorfismo** (Skeuomorphism) estuda o princípio de design em que elementos gráficos digitais herdam características físicas, texturas e comportamentos analógicos e mecânicos de objetos reais tridimensionais, gerando familiaridade intuitiva de uso.
 
-## Aplicação nos Artefatos
+## Aplicação nos artefatos
 
 Este conceito/princípio se manifesta e ajuda a compreender a lógica operacional dos seguintes artefatos:
 
 - [[Slide to Unlock|Slide to Unlock]] — Imita fielmente o deslizar de uma trava física de metal (ferrolho) sobre uma canaleta para desbloquear a tela lógica do telefone.
 - [[03 artefatos/Icones do Macintosh|Ícones do Macintosh]] — Utilizam metáforas analógicas (lixeiras, disquetes, pastas de manila) para que o usuário compreendesse comandos virtuais de arquivos.
 
-## Variáveis Relacionadas
+## Variáveis relacionadas
 
 Este conceito opera associado ou impacta as seguintes variáveis de design:
 - [[02 variaveis/Atrito Decisorio|Atrito Decisório]]
@@ -25,7 +25,7 @@ Este conceito opera associado ou impacta as seguintes variáveis de design:
 
 ---
 
-### Ficha Resumo do Conceito
+### Ficha resumo do conceito
 
 - **Nome do conceito**: Esqueuomorfismo
 - **Área principal**: IHC / Design de Interface

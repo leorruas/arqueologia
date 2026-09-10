@@ -10,18 +10,18 @@ tags:
 
 O Portfólio é um artefato de evidência que torna observáveis capacidades e evoluções profissionais por meio de produtos reais de trabalho.
 
-## Ficha Técnica
+## Ficha técnica
 - **Criador(es)**: Não aplicável
 - **Empresa/Fabricante**: Não aplicável
 - **Ano de Lançamento**: Século XIX entre artistas e arquitetos; amplamente difundido no século XX.
 - **Materiais/Mídia**: Papel impresso, encadernações, websites, plataformas (Behance, GitHub)
 - **Tipo de Design**: [[00 tipos de design/Design Grafico|Design Gráfico]] / [[00 tipos de design/Design de Interface|Design de Interface]]
 
-## História e Contexto de Criação
+## História e contexto de criação
 - **Demanda / Problema**: Como tornar competências invisíveis observáveis.
 - **Processo de Desenvolvimento**: Desenvolvido como ferramenta nos primeiros contextos de Século XIX entre artistas e arquitetos; amplamente difundido no século XX..
 
-## Inovação e Impacto
+## Inovação e impacto
 - **Ampliação de Capacidade**: Amplia a capacidade de demonstrar competência prática e autoeficácia.
 - **Enfraquecimento de Capacidade**: Enfraquece a necessidade de avaliações puramente teóricas ou credenciamentos burocráticos.
 - **Comportamento Coletivo**: Documentar evolução.
@@ -32,14 +32,14 @@ O Portfólio é um artefato de evidência que torna observáveis capacidades e e
 - **Quem ele fortalece**: Designers e criativos autônomos buscando validação no mercado.
 - **Quem ele enfraquece**: Modelos tradicionais de contratação focados exclusivamente em diplomas.
 
-## Referências e Onde Encontrar
+## Referências e onde encontrar
 - **Acervos**: Vitra Design Museum, MoMA (ou não aplicável se digital/processual)
 - **Leituras**:
 - *Show Your Work!* por Austin Kleon
 
 ---
 
-### Ficha Resumo
+### Ficha resumo
 
 - **Nome do artefato**: Portfólio
 - **Categoria**: Evidência / Avaliação / Identidade
