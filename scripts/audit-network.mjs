@@ -105,6 +105,18 @@ function add(kind, sourcePath, detail, targetPath = null) {
   problemas.push({ kind, sourcePath, targetPath, detail });
 }
 
+const porTituloNormalizado = new Map();
+for (const a of arquivos.filter(x => x.path !== "index.md" && !x.path.startsWith("00 índices/"))) {
+  const chave = normalizar(a.title);
+  if (!porTituloNormalizado.has(chave)) porTituloNormalizado.set(chave, []);
+  porTituloNormalizado.get(chave).push(a.path);
+}
+for (const paths of porTituloNormalizado.values()) {
+  if (paths.length > 1) {
+    for (const p of paths) add("duplicate-title", p, `Título normalizado duplicado entre: ${paths.join(", ")}.`);
+  }
+}
+
 const indicePorCategoria = {
   "03 artefatos": "00 índices/Indice de Artefatos.md",
   "01 conceitos": "00 índices/Indice de Conceitos.md",
@@ -162,7 +174,7 @@ for (const tipo of arquivos.filter(a => a.path.startsWith("00 tipos de design/")
 
 const relatorio = {
   generatedAt: new Date().toISOString(),
-  scope: "Integração do grafo: índices, home, reciprocidade estrutural, tipos de design e nós órfãos. Conceitos e variáveis não exigem backlink exaustivo.",
+  scope: "Integração do grafo: títulos duplicados, índices, home, reciprocidade estrutural, tipos de design e nós órfãos. Conceitos e variáveis não exigem backlink exaustivo.",
   issueCount: problemas.length,
   countsByKind: problemas.reduce((acc, p) => ((acc[p.kind] = (acc[p.kind] || 0) + 1), acc), {}),
   issues: problemas
