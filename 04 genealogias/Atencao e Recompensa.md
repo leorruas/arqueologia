@@ -9,41 +9,51 @@ tags:
 
 # Atenção e recompensa
 
-Alguns artefatos disputam atenção; outros reduzem o custo de continuar prestando atenção. Essa diferença é importante. Um pôster precisa interromper alguém que está passando. Um feed precisa evitar que alguém que já chegou decida parar.
+Um pôster precisa fazer alguém olhar. Um feed precisa impedir que a pessoa pare de olhar. Entre essas duas operações existe uma mudança importante na história do design da atenção: primeiro era preciso capturar uma percepção que estava em trânsito; depois, em muitos sistemas digitais, tornou-se igualmente importante reduzir o custo de continuar.
 
-## A ideia recorrente
+Essa genealogia aproxima artefatos que usam contraste, novidade, antecipação, feedback social e redução de fricção para orientar ou prolongar atenção. O parentesco é principalmente perceptual e comportamental. Ele não significa que cada interface digital descenda historicamente de um cartaz ou de uma máquina de recompensa.
 
-Esta genealogia investiga como o design captura, orienta e prolonga atenção usando contraste, novidade, antecipação, feedback social e redução do atrito entre uma unidade de conteúdo e a próxima.
+## Fazer olhar e fazer continuar
 
-## Constelação de artefatos
+O [[03 artefatos/Pôster|pôster]] disputa atenção em um ambiente que não controla. A pessoa está andando pela cidade, olhando vitrines, sinais, edifícios e outras pessoas. Para interromper esse fluxo, o cartaz trabalha com escala, contraste, cor, imagem, texto e posição. Sua questão básica é perceptual: como transformar uma superfície entre muitas em algo que merece um olhar?
 
-- [[03 artefatos/Pôster|Pôster]]: parentesco **perceptivo e semiótico**. Disputa atenção no espaço público e condensa uma promessa em uma superfície rápida.
-- [[03 artefatos/Controle Remoto|Controle Remoto]]: parentesco **comportamental**. Reduz o custo de abandonar um conteúdo e procurar outro.
-- [[03 artefatos/Hero Section|Hero Section]]: parentesco **semiótico e espacial**. Enquadra a entrada de uma página e decide o que merece atenção primeiro.
-- [[03 artefatos/Botao Like|Botão Like]]: parentesco **social e comportamental**. Comprime aprovação em um gesto de baixo custo e produz feedback quantificado.
-- [[03 artefatos/Pull to Refresh|Pull to Refresh]]: parentesco **comportamental**. Converte o gesto de atualização em expectativa por novidade.
-- [[03 artefatos/Infinite Scroll|Infinite Scroll]]: parentesco **operacional e comportamental**. Remove a pausa decisória entre páginas de conteúdo.
+A [[03 artefatos/Hero Section|hero section]] conserva parte dessa lógica em uma superfície digital. Ela ocupa uma região privilegiada da página e tenta enquadrar rapidamente o que está sendo oferecido, por que aquilo importa e qual ação parece seguinte. O parentesco com o pôster é semiótico e espacial, não uma afirmação de descendência direta.
 
-## Interrupção e continuidade
+O [[03 artefatos/Controle Remoto|controle remoto]] introduz uma tensão diferente. Ele dá ao espectador poder para interromper um estímulo com pouco esforço, trocar de canal e procurar outro. Isso aumenta autonomia local, mas também reduz o custo de buscar novidade. A mesma ferramenta que facilita abandonar algo pode acelerar a procura pelo próximo estímulo.
 
-Há pelo menos duas estratégias diferentes nesta família. A primeira tenta conquistar atenção: pôster e hero section. A segunda tenta impedir uma interrupção voluntária: infinite scroll e, em certos contextos, pull to refresh. O controle remoto ocupa uma posição curiosa porque dá ao usuário poder de interromper um conteúdo, mas também aumenta a velocidade de busca por outro estímulo.
+Nos ambientes de plataforma, [[03 artefatos/Botao Like|botão Like]], [[03 artefatos/Pull to Refresh|Pull to Refresh]] e [[03 artefatos/Infinite Scroll|Infinite scroll]] atuam menos sobre o primeiro olhar e mais sobre a continuidade. O Like transforma resposta social em uma ação pequena e legível. O Pull to Refresh conecta um gesto simples à possibilidade de encontrar algo novo. O infinite scroll remove pontos de parada entre um conjunto de conteúdos e o próximo.
 
-## Cuidado com genealogias fáceis
+A diferença é importante: um grupo de artefatos trabalha para conquistar atenção; outro trabalha para tornar menos necessário decidir conscientemente se ela deve continuar.
 
-Sem evidência histórica, não se deve dizer que um gesto digital “descende” diretamente de uma caça-níquel ou de outro dispositivo de recompensa. A comparação pode ser **comportamental**: ação simples, resultado variável, expectativa de novidade. Isso é diferente de afirmar influência histórica documentada.
+## A transição também pode ser projetada
 
-## Conceitos relacionados
+Essa leitura desloca a análise da mensagem isolada para o intervalo entre mensagens. Se um pôster precisa vencer a distração para receber um primeiro olhar, um feed pode ser desenhado para que o fim de um item não funcione como convite à saída.
 
-- [[01 conceitos/Economia da Atencao|Economia da Atenção]]
-- [[01 conceitos/Recompensa Variavel|Recompensa Variável]]
-- [[01 conceitos/Autonomia da Atencao|Autonomia da Atenção]]
+A [[01 conceitos/Economia da Atencao|economia da atenção]] ajuda a entender por que essa passagem importa. Atenção é limitada, e sistemas competem por sua alocação. Mas a variável [[02 variaveis/Atencao|atenção]] não depende apenas de conteúdos atraentes. Ela também depende da [[02 variaveis/Friccao|fricção]] entre um conteúdo e outro e da [[02 variaveis/Expectativa de Disponibilidade|expectativa de disponibilidade]] de novidade.
 
-## Variáveis relacionadas
+O [[01 conceitos/Recompensa Variavel|conceito de recompensa variável]] pode ser útil para interpretar situações em que uma ação repetida oferece resultados imprevisíveis. Ainda assim, essa comparação exige cuidado. Não há base para tratar Pull to Refresh, feeds ou outros artefatos desta constelação como descendentes diretos de caça-níqueis apenas por compartilharem incerteza e antecipação. Quando essa relação aparece aqui, ela é uma hipótese comportamental, não uma genealogia histórica.
 
-- [[02 variaveis/Atencao|Atenção]]
-- [[02 variaveis/Friccao|Fricção]]
-- [[02 variaveis/Expectativa de Disponibilidade|Expectativa de Disponibilidade]]
+A [[01 conceitos/Autonomia da Atencao|autonomia da atenção]] introduz a pergunta política. Um sistema pode facilitar a escolha do usuário e simultaneamente reduzir os momentos em que ele precisa escolher. O controle remoto permite sair com facilidade. O infinite scroll torna continuar quase automático. A diferença entre essas duas formas de baixa fricção mostra que “facilidade” não tem uma única direção moral.
 
-## Hipótese em aberto
+## Quando parar deixa de ser um evento
 
-Talvez a transformação mais importante do design de atenção no ambiente digital seja a passagem de “fazer alguém olhar” para “tornar desnecessário decidir continuar olhando”. A unidade crítica deixa de ser apenas a mensagem e passa a ser a transição entre mensagens.
+Uma hipótese desta genealogia é que parte do design contemporâneo da atenção mudou de “como fazer alguém olhar?” para “como tornar desnecessária a decisão de continuar olhando?”. Isso não torna pôster e feed equivalentes. Mostra que ambos projetam transições perceptivas, mas em pontos diferentes do ciclo.
+
+Talvez a unidade crítica de investigação não seja apenas o conteúdo, e sim o momento em que uma pessoa poderia mudar de direção. O cartaz tenta produzir esse momento. O feed pode tentar apagá-lo. Entre captura e continuidade aparece uma questão maior: quantos pontos de decisão uma experiência deve preservar para que atenção permaneça também uma forma de escolha?
+
+## Ficha da genealogia
+
+| Campo | Registro |
+|---|---|
+| **Genealogia** | Atenção e recompensa |
+| **Pergunta central** | Como o design captura, orienta e prolonga atenção? |
+| **Hipótese de parentesco** | Artefatos distintos atuam sobre o primeiro olhar, a busca por novidade ou a continuidade entre estímulos |
+| **Natureza das relações** | Perceptual, semiótica, comportamental e comparativa; não implica descendência histórica |
+| **Artefatos principais** | [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Controle Remoto|Controle remoto]], [[03 artefatos/Hero Section|Hero section]], [[03 artefatos/Botao Like|Botão Like]], [[03 artefatos/Pull to Refresh|Pull to Refresh]], [[03 artefatos/Infinite Scroll|Infinite scroll]] |
+| **Comportamento recorrente** | Orientar o olhar, buscar novidade, responder socialmente e continuar consumindo estímulos |
+| **O que o design redistribui** | Atenção, fricção entre conteúdos e momentos explícitos de decisão |
+| **Relação de poder** | Sistemas podem aumentar capacidade de escolher e, ao mesmo tempo, reduzir as ocasiões em que uma nova escolha precisa ser formulada |
+| **Conceitos relacionados** | [[01 conceitos/Economia da Atencao|Economia da atenção]], [[01 conceitos/Recompensa Variavel|Recompensa variável]], [[01 conceitos/Autonomia da Atencao|Autonomia da atenção]] |
+| **Variáveis relacionadas** | [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Expectativa de Disponibilidade|Expectativa de disponibilidade]] |
+| **Cuidado histórico** | Semelhanças com mecanismos de recompensa são comparações comportamentais quando não houver evidência de influência direta |
+| **Hipótese em aberto** | A transição entre mensagens pode ser uma unidade de design tão importante quanto a mensagem; resta investigar quando reduzir pontos de parada começa a reduzir autonomia |
