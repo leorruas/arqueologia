@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-10T22:43:22.620Z",
+  "generatedAt": "2026-09-10T22:44:03.409Z",
   "rule": "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
   "artifactSheetRule": "Cada artefato deve conter uma única Ficha arqueológica em tabela Campo/Registro com os 22 campos definidos no template atual.",
-  "candidateCount": 28,
+  "candidateCount": 29,
   "fileCount": 22,
   "files": [
     {
@@ -125,6 +125,12 @@
           "sourcePath": "03 artefatos/Jobs to Be Done.md",
           "kind": "h2",
           "line": 62,
+          "text": "O Job pode nascer de histórias e voltar como medida"
+        },
+        {
+          "sourcePath": "03 artefatos/Jobs to Be Done.md",
+          "kind": "h2",
+          "line": 82,
           "text": "Quando o Job vira slogan"
         }
       ]
