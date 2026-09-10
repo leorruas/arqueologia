@@ -21,7 +21,7 @@ G. Lynn Shostack é uma executiva de serviços financeiros e teórica de marketi
 - **Principais Invenções/Técnicas**: Inventou o *Service Blueprinting* em 1982. A técnica introduziu a Linha de Visibilidade (Line of Visibility) para separar o que o cliente vê (front stage) dos processos de suporte que ocorrem nos bastidores (back stage).
 
 ## Projetos e obras marcantes
-- [[03 artefatos/Service Blueprint|Service Blueprint]] (1982): O diagrama visual que mapeia a jornada do cliente integrada com os processos operacionais de suporte ao longo do tempo.
+- Service Blueprint (1982): O diagrama visual que mapeia a jornada do cliente integrada com os processos operacionais de suporte ao longo do tempo.
 - **Mapeamento do Serviço de Estacionamento com Manobrista (Valet Parking - 1984)**: Caso de estudo seminal publicado na Harvard Business Review para ilustrar a aplicação prática de sua metodologia.
 
 ## Parcerias e empresas

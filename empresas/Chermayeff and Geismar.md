@@ -20,10 +20,10 @@ A Chermayeff & Geismar (atualmente operando como Chermayeff & Geismar & Haviv) �
 - **Setores de Atuação**: Identidade visual, marca corporativa, sistemas de sinalização de exposições e design gráfico.
 
 ## Projetos emblemáticos e produtos históricos
-- [[03 artefatos/Logo do Chase Manhattan Bank|Logo do Chase Manhattan Bank]] (1960): Um octógono abstrato pioneiro que provou que um banco de grande porte poderia ser representado com sucesso por uma forma não literal.
-- [[03 artefatos/Logo da Mobil|Logo da Mobil]] (1964): O famoso logotipo com o "O" vermelho, focado em simplificação fonética e consistência visual nos postos de gasolina.
-- [[03 artefatos/Logo do PBS|Logo do PBS]] (1984): A sobreposição estilizada do perfil de rostos humanos, simbolizando o caráter público e coletivo da rede de televisão.
-- [[03 artefatos/Redesenho do Pavao da NBC|Redesenho do Pavão da NBC]] (1986): A simplificação do pavão de penas coloridas para uma forma geométrica estilizada e facilmente reprodutível.
+- Logo do Chase Manhattan Bank (1960): Um octógono abstrato pioneiro que provou que um banco de grande porte poderia ser representado com sucesso por uma forma não literal.
+- Logo da Mobil (1964): O famoso logotipo com o "O" vermelho, focado em simplificação fonética e consistência visual nos postos de gasolina.
+- Logo do PBS (1984): A sobreposição estilizada do perfil de rostos humanos, simbolizando o caráter público e coletivo da rede de televisão.
+- Redesenho do Pavão da NBC (1986): A simplificação do pavão de penas coloridas para uma forma geométrica estilizada e facilmente reprodutível.
 
 ## Designers notáveis associados
 - **Ivan Chermayeff** — Cofundador, mestre das identidades visuais abstratas americanas.

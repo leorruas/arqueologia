@@ -12,7 +12,7 @@ O **Mascote** é um dispositivo de comunicação visual e design de identidade q
 
 ## Ficha técnica
 - **Criador(es)**: Edmond Audran (popularizador do termo no final do século XIX); O’Galop (ilustrador que desenvolveu o Bibendum); André e Édouard Michelin (idealizadores do Bibendum)
-- **Empresa/Fabricante**: [[empresas/Michelin|Michelin]] e agências/estúdios de design subsequentes
+- **Empresa/Fabricante**: Michelin e agências/estúdios de design subsequentes
 - **Ano de Lançamento**: Final do século XIX (Bibendum de 1898 como marco publicitário)
 - **Materiais/Mídia**: Ilustração impressa, fantasia tridimensional, código digital, animação, objetos físicos
 - **Tipo de Design**: [[00 tipos de design/Design Grafico|Design Gráfico]]
@@ -40,7 +40,7 @@ O **Mascote** é um dispositivo de comunicação visual e design de identidade q
 - **Categoria**: Design Gráfico
 - **Período aproximado**: Final do século XIX e consolidação no século XX
 - **Pessoas ou equipes envolvidas**: Edmond Audran, O’Galop, André Michelin, Édouard Michelin
-- **Produto onde apareceu**: Campanhas da [[empresas/Michelin|Michelin]] (Bibendum), Ad Council (Smokey Bear), Jogos Olímpicos (Waldi, 1972)
+- **Produto onde apareceu**: Campanhas da Michelin (Bibendum), Ad Council (Smokey Bear), Jogos Olímpicos (Waldi, 1972)
 - **Problema original**: A impessoalidade e abstração de identidades institucionais e produtos inanimados
 - **Hipótese sobre a natureza humana**: Humanos projetam intenções, sentimentos e familiaridade em elementos antropomórficos mais facilmente do que em sistemas lógicos ou geometrias abstratas
 - **Relação de poder**: Beneficia corporações e governos ao revestir sistemas e estruturas de poder com uma roupagem simpática e amigável (fachada emocional), promovendo autovigilância induzida por proximidade moral em detrimento do distanciamento crítico

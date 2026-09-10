@@ -23,11 +23,11 @@ O **Design de IA** (ou Design de Inteligência Artificial) é a vertente do desi
 - **Impacto Tecnológico/Social**: A passagem de modelos linguísticos puros para modelos treinados por instruções e feedback humano (RLHF) transformou motores estáticos de texto em assistentes proativos e, posteriormente, em agentes autônomos que executam planos.
 
 ## Figuras e autores de destaque
-- [[autores/Joseph Weizenbaum|Joseph Weizenbaum]] — Cientista da computação e criador do ELIZA, pioneiro na reflexão ética sobre a relação psicológica entre humanos e computadores falantes.
+- Joseph Weizenbaum — Cientista da computação e criador do ELIZA, pioneiro na reflexão ética sobre a relação psicológica entre humanos e computadores falantes.
 - [[autores/Alan Kay|Alan Kay]] — Visão pioneira de computadores como amplificadores do intelecto humano que inspirou a computação conversacional proativa.
 
 ## Empresas e estúdios de destaque
-- [[empresas/OpenAI|OpenAI]] — Desenvolvedora do InstructGPT e do ChatGPT, padronizando a metainterface do chatbot comercial de IA.
+- OpenAI — Desenvolvedora do InstructGPT e do ChatGPT, padronizando a metainterface do chatbot comercial de IA.
 - [[empresas/Google|Google]] — Criadora dos fundamentos do Transformer e de heurísticas de busca semântica que fundamentaram a interação de IA.
 
 ## Artefatos históricos relacionados

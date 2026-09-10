@@ -26,7 +26,7 @@ O **Design Gráfico** é o processo de comunicação visual por meio de tipograf
 - [[autores/Jules Cheret|Jules Chéret]] — Pai do pôster litográfico colorido moderno.
 - [[autores/Henri de Toulouse Lautrec|Henri de Toulouse-Lautrec]] — Pioneiro na fusão entre vanguarda artística e cartaz publicitário.
 - [[autores/Josef Muller Brockmann|Josef Müller-Brockmann]] — Um dos principais nomes do Design Suíço e da teoria das grades (grids).
-- [[autores/Paul Rand|Paul Rand]] — Famoso por criar marcas icônicas como IBM, ABC e UPS.
+- Paul Rand — Famoso por criar marcas icônicas como IBM, ABC e UPS.
 
 ## Empresas e estúdios de destaque
 - [[empresas/Chermayeff and Geismar|Chermayeff & Geismar]] — Estúdio nova-iorquino célebre pelas marcas do século XX.

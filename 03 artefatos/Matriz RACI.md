@@ -25,7 +25,7 @@ A Matriz RACI é um artefato de autorização e governança que distribui e expl
 - **Ampliação de Capacidade**: Amplia a clareza sobre alçadas decisórias e atribuições de responsabilidade.
 - **Enfraquecimento de Capacidade**: Enfraquece a ambiguidade e as discussões infindáveis sobre 'quem decide'.
 - **Comportamento Coletivo**: Decisão distribuída.
-- **Linhagem e Descendência**: [[03 artefatos/Organograma|Organograma]], [[03 artefatos/alçadas|alçadas]], [[03 artefatos/matriz de decisão|matriz de decisão]]
+- **Linhagem e Descendência**: Organograma, alçadas, matriz de decisão
 - **Custo Invisível**: Risco de burocratização e rigidez na divisão de papéis em equipes que necessitam de colaboração fluida.
 - **O que ele simplifica**: A resolução de impasses corporativos e delegação de autoridade.
 - **O que ele esconde**: Os processos informais de influência e tomada de decisão que ocorrem nos bastidores.
@@ -58,7 +58,7 @@ A Matriz RACI é um artefato de autorização e governança que distribui e expl
 - **Legado**: Não especificado
 - **Conceitos relacionados**: Não especificado
 - **Família de ideias**: Artefatos de Autorização, Artefatos de Coordenação.
-- **Parentes**: [[03 artefatos/Organograma|Organograma]], [[03 artefatos/alçadas|alçadas]], [[03 artefatos/matriz de decisão|matriz de decisão]]
+- **Parentes**: Organograma, alçadas, matriz de decisão
 - **Hipótese central**: A colaboração corporativa flui melhor quando as fronteiras decisórias individuais são explícitas.
 - **Princípio de design revelado**: Delegação e autonomia dependem da clareza sobre quem possui a palavra final.
 - **Destino do artefato**: Utilizada amplamente em governança corporativa, auditorias e gestão de projetos complexos.

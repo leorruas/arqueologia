@@ -25,7 +25,7 @@ A Pergunta de Pesquisa é um artefato de formulação que delimita a fronteira d
 - **Ampliação de Capacidade**: Amplia o foco e a consistência metodológica de investigações prolongadas.
 - **Enfraquecimento de Capacidade**: Enfraquece a dispersão investigativa e o acúmulo desordenado de fatos avulsos.
 - **Comportamento Coletivo**: Não especificado
-- **Linhagem e Descendência**: [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Hipótese Científica|Hipótese Científica]], [[03 artefatos/questão norteadora|questão norteadora]], [[03 artefatos/problema científico|problema científico]]
+- **Linhagem e Descendência**: [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Hipótese Científica|Hipótese Científica]], questão norteadora, problema científico
 - **Custo Invisível**: Exclusão de descobertas acidentais (serendipidade) que caiam fora da fronteira delimitada.
 - **O que ele simplifica**: A escolha de métodos e a curadoria de dados relevantes.
 - **O que ele esconde**: Outras perguntas importantes que foram descartadas na formulação.
@@ -58,7 +58,7 @@ A Pergunta de Pesquisa é um artefato de formulação que delimita a fronteira d
 - **Legado**: Não especificado
 - **Conceitos relacionados**: Não especificado
 - **Família de ideias**: Artefatos de Formulação, Artefatos de Investigação.
-- **Parentes**: [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Hipótese Científica|Hipótese Científica]], [[03 artefatos/questão norteadora|questão norteadora]], [[03 artefatos/problema científico|problema científico]]
+- **Parentes**: [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Hipótese Científica|Hipótese Científica]], questão norteadora, problema científico
 - **Hipótese central**: Pesquisadores conseguem investigar de forma mais profunda e coerente quando estabelecem uma fronteira clara de dúvida.
 - **Princípio de design revelado**: A formulação da dúvida organiza as tomadas de decisão metodológicas.
 - **Destino do artefato**: Padrão universal para trabalhos de conclusão de curso, dissertações de mestrado, teses de doutorado e briefs de pesquisa de mercado.

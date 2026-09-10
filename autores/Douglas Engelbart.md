@@ -21,7 +21,7 @@ Douglas Engelbart foi um engenheiro, inventor e pioneiro da computação america
 - **Principais Invenções/Técnicas**: Inventor do mouse de madeira de dois eixos. Desenvolveu o sistema NLS (oN-Line System), que integrou processamento de texto de tela, hiperlinks e colaboração remota por rede pela primeira vez na história.
 
 ## Projetos e obras marcantes
-- [[03 artefatos/Mouse Computacional|Mouse Computacional]] (1964): Dispositivo apontador físico patenteado como indicador de posição X-Y para sistemas de tela.
+- Mouse Computacional (1964): Dispositivo apontador físico patenteado como indicador de posição X-Y para sistemas de tela.
 - **The Mother of All Demos (1968)**: Demonstração pública revolucionária que apresentou ao mundo, de forma integrada, o mouse, hipertexto, processamento de texto colaborativo e teleconferência na rede.
 
 ## Parcerias e empresas

@@ -11,7 +11,7 @@ tags:
 A **Tela de Login** (ou Interface de Autenticação) é a interface de entrada que exige credenciais de identidade para conceder acesso a um sistema digital personalizado, funcionando como um limiar lógico e barreira comportamental.
 
 ## Ficha técnica
-- **Criador(es)**: [[autores/Fernando Corbato|Fernando Corbató]]
+- **Criador(es)**: Fernando Corbató
 - **Empresa/Fabricante**: MIT (Compatible Time-Sharing System - CTSS)
 - **Ano de Lançamento**: 1961
 - **Materiais/Mídia**: Código, software, interfaces textuais (CLI) e posteriormente gráficas (GUI)
@@ -38,7 +38,7 @@ A **Tela de Login** (ou Interface de Autenticação) é a interface de entrada q
 
 - **Nome do artefato**: Tela de Login
 - **Ano aproximado**: 1961
-- **Pessoas ou equipes envolvidas**: [[autores/Fernando Corbato|Fernando Corbató]] e a equipe do projeto CTSS no MIT
+- **Pessoas ou equipes envolvidas**: Fernando Corbató e a equipe do projeto CTSS no MIT
 - **Produto onde apareceu**: Sistema operacional Compatible Time-Sharing System (CTSS)
 - **Problema que resolvia**: Garantir privacidade e segurança de arquivos individuais em sistemas compartilhados e controlar cotas de processamento
 - **Comportamento aproveitado**: O entendimento analógico de fechar/abrir portas com chaves privadas e o uso de palavras-chave secretas

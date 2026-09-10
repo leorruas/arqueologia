@@ -25,7 +25,7 @@ A North Star (ou métrica Estrela Guia) é um artefato de intenção e alinhamen
 - **Ampliação de Capacidade**: Amplia o alinhamento de equipes ágeis multifuncionais em torno da entrega de valor real.
 - **Enfraquecimento de Capacidade**: Enfraquece o foco em métricas de vaidade (como downloads ou visualizações brutas).
 - **Comportamento Coletivo**: Não especificado
-- **Linhagem e Descendência**: [[03 artefatos/Visão|Visão]], [[03 artefatos/Manifesto|Manifesto]], [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Estratégia|Estratégia]]
+- **Linhagem e Descendência**: [[03 artefatos/Visão|Visão]], [[03 artefatos/Manifesto|Manifesto]], [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], Estratégia
 - **Custo Invisível**: Risco de simplificação excessiva de problemas sistêmicos complexos de produto em uma única métrica.
 - **O que ele simplifica**: A priorização de backlogs e a tomada de decisões descentralizadas.
 - **O que ele esconde**: Variáveis secundárias de saúde do negócio que podem ser prejudicadas pelo foco exclusivo em uma métrica.
@@ -58,7 +58,7 @@ A North Star (ou métrica Estrela Guia) é um artefato de intenção e alinhamen
 - **Legado**: Não especificado
 - **Conceitos relacionados**: Não especificado
 - **Família de ideias**: Artefatos de Intenção, Artefatos de Autodeterminação.
-- **Parentes**: [[03 artefatos/Visão|Visão]], [[03 artefatos/Manifesto|Manifesto]], [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Estratégia|Estratégia]]
+- **Parentes**: [[03 artefatos/Visão|Visão]], [[03 artefatos/Manifesto|Manifesto]], [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], Estratégia
 - **Hipótese central**: Equipes descentralizadas tomam decisões mais integradas quando compartilham um indicador único de sucesso.
 - **Princípio de design revelado**: Um foco compartilhado alinha a tomada de decisão autônoma.
 - **Destino do artefato**: Framework estratégico padrão adotado em empresas do ecossistema do Vale do Silício e tecnologia global.

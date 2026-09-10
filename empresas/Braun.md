@@ -20,9 +20,9 @@ A Braun GmbH é uma empresa de consumo de renome mundial, célebre pela sua infl
 - **Setores de Atuação**: Eletrodomésticos portáteis, aparelhos de barbear, equipamentos de som e relógios.
 
 ## Projetos emblemáticos e produtos históricos
-- [[03 artefatos/Braun SK 4 Phonosuper|Braun SK 4 Phonosuper]] (1956): Aparelho de rádio e toca-discos projetado por Hans Gugelot e [[autores/Dieter Rams|Dieter Rams]], inovador pelo uso de uma tampa de acrílico transparente que lhe rendeu o apelido de Caixão da Branca de Neve.
+- Braun SK 4 Phonosuper (1956): Aparelho de rádio e toca-discos projetado por Hans Gugelot e [[autores/Dieter Rams|Dieter Rams]], inovador pelo uso de uma tampa de acrílico transparente que lhe rendeu o apelido de Caixão da Branca de Neve.
 - [[03 artefatos/Braun T3|Rádio de Bolso Braun T3]] (1958): Projetado por [[autores/Dieter Rams|Dieter Rams]], com corpo purista e dial circular que serviu de inspiração direta para o layout do primeiro iPod da Apple.
-- [[03 artefatos/Braun ET66|Calculadora Braun ET66]] (1987): Projetada por Dietrich Lubs e [[autores/Dieter Rams|Dieter Rams]], com botões circulares em cores contrastantes para facilitar a digitação racional.
+- Calculadora Braun ET66 (1987): Projetada por Dietrich Lubs e [[autores/Dieter Rams|Dieter Rams]], com botões circulares em cores contrastantes para facilitar a digitação racional.
 
 ## Designers notáveis associados
 - [[autores/Dieter Rams|Dieter Rams]] — Chefe de design da empresa de 1961 a 1995, formulador dos 10 princípios do bom design.

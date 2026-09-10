@@ -25,7 +25,7 @@ O Workshop é um artefato participativo e ritualístico projetado para redistrib
 - **Ampliação de Capacidade**: Amplia o engajamento coletivo e a diversidade de perspectivas na solução de problemas.
 - **Enfraquecimento de Capacidade**: Enfraquece a resistência passiva a mudanças impostas unilateralmente por lideranças.
 - **Comportamento Coletivo**: Construção coletiva de decisões.
-- **Linhagem e Descendência**: [[03 artefatos/Oficina|Oficina]], [[03 artefatos/co-design|co-design]], [[03 artefatos/design sprint|design sprint]], [[03 artefatos/assembleia|assembleia]], [[03 artefatos/world café|world café]]
+- **Linhagem e Descendência**: Oficina, co-design, design sprint, assembleia, world café
 - **Custo Invisível**: Alto custo de tempo e energia para sincronizar agendas de múltiplos atores no mesmo espaço físico/digital.
 - **O que ele simplifica**: A busca de alinhamento e geração de ideias multidisciplinares rápidas.
 - **O que ele esconde**: Conflitos de poder profundos sob dinâmicas de colaboração de curto prazo.
@@ -58,7 +58,7 @@ O Workshop é um artefato participativo e ritualístico projetado para redistrib
 - **Legado**: Não especificado
 - **Conceitos relacionados**: Não especificado
 - **Família de ideias**: Artefatos de Autodeterminação, Artefatos de Sincronização.
-- **Parentes**: [[03 artefatos/Oficina|Oficina]], [[03 artefatos/co-design|co-design]], [[03 artefatos/design sprint|design sprint]], [[03 artefatos/assembleia|assembleia]], [[03 artefatos/world café|world café]]
+- **Parentes**: Oficina, co-design, design sprint, assembleia, world café
 - **Hipótese central**: As pessoas se comprometem mais profundamente com direções que ativamente ajudaram a co-criar.
 - **Princípio de design revelado**: A autoria compartilhada reduz a barreira social da mudança.
 - **Destino do artefato**: Consolidado em dinâmicas de Design Sprints, oficinas de cocriação e transformação cultural.

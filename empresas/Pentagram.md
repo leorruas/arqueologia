@@ -20,9 +20,9 @@ A Pentagram é a maior consultoria de design independente do mundo. Organizada s
 - **Setores de Atuação**: Identidade visual, design editorial, arquitetura, design de interiores, sinalização e design de produto.
 
 ## Projetos emblemáticos e produtos históricos
-- [[03 artefatos/Identidade da Mastercard|Identidade da Mastercard]] (2016): Redesenho do icônico logo de círculos sobrepostos projetado pelo escritório sob liderança de Michael Bierut, otimizando-o para telas digitais modernas.
-- [[03 artefatos/Tocha Olimpica de Londres 2012|Tocha Olímpica de Londres 2012]]: Projetada no setor de design industrial por Edward Barber e Jay Osgerby, parceiros do estúdio.
-- [[03 artefatos/Identidade do The Public Theater|Identidade e Sinalização do The Public Theater]] (1994): Projetada por Paula Scher, definindo novos caminhos para a tipografia contemporânea através do uso expressivo de pesos pesados de fontes de madeira.
+- Identidade da Mastercard (2016): Redesenho do icônico logo de círculos sobrepostos projetado pelo escritório sob liderança de Michael Bierut, otimizando-o para telas digitais modernas.
+- Tocha Olímpica de Londres 2012: Projetada no setor de design industrial por Edward Barber e Jay Osgerby, parceiros do estúdio.
+- Identidade e Sinalização do The Public Theater (1994): Projetada por Paula Scher, definindo novos caminhos para a tipografia contemporânea através do uso expressivo de pesos pesados de fontes de madeira.
 
 ## Designers notáveis associados
 - **Alan Fletcher** — Cofundador, considerado uma das figuras mais influentes do design gráfico britânico.

@@ -11,7 +11,7 @@ tags:
 A Visão é um artefato de intenção e autodeterminação organizacional consolidado na gestão estratégica de meados do século XX. Sua finalidade é alinhar a atenção coletiva e descentralizar decisões sem a necessidade de prescrições rígidas.
 
 ## Ficha técnica
-- **Criador(es)**: [[autores/Peter Drucker|Peter Drucker]], [[autores/Warren Bennis|Warren Bennis]], [[autores/John Kotter|John Kotter]]
+- **Criador(es)**: Peter Drucker, Warren Bennis, [[autores/John Kotter|John Kotter]]
 - **Empresa/Fabricante**: Não aplicável
 - **Ano de Lançamento**: Décadas de 1970 e 1980, com a consolidação da gestão estratégica.
 - **Materiais/Mídia**: Documentos corporativos, apresentações, manifestos
@@ -25,7 +25,7 @@ A Visão é um artefato de intenção e autodeterminação organizacional consol
 - **Ampliação de Capacidade**: Amplia a capacidade de descentralizar tomadas de decisão em organizações de grande escala.
 - **Enfraquecimento de Capacidade**: Enfraquece a necessidade de microgerenciamento e supervisão direta constante.
 - **Comportamento Coletivo**: Decisões descentralizadas coerentes.
-- **Linhagem e Descendência**: [[03 artefatos/Manifesto|Manifesto]], [[03 artefatos/missão|missão]], [[03 artefatos/North Star|North Star]], [[03 artefatos/estratégia|estratégia]]
+- **Linhagem e Descendência**: [[03 artefatos/Manifesto|Manifesto]], missão, [[03 artefatos/North Star|North Star]], estratégia
 - **Custo Invisível**: Risco de descolamento entre a imagem idealizada do futuro e a realidade operacional diária.
 - **O que ele simplifica**: O alinhamento estratégico de equipes multifuncionais.
 - **O que ele esconde**: As dificuldades operacionais e o esforço de execução do 'como'.
@@ -45,7 +45,7 @@ A Visão é um artefato de intenção e autodeterminação organizacional consol
 - **Nome do artefato**: Visão
 - **Categoria**: Gestão / Estratégia / Serviços
 - **Período aproximado**: Décadas de 1970 e 1980, com a consolidação da gestão estratégica.
-- **Pessoas ou equipes envolvidas**: [[autores/Peter Drucker|Peter Drucker]], [[autores/Warren Bennis|Warren Bennis]], [[autores/John Kotter|John Kotter]]
+- **Pessoas ou equipes envolvidas**: Peter Drucker, Warren Bennis, [[autores/John Kotter|John Kotter]]
 - **Produto onde apareceu**: Não especificado
 - **Problema original**: Como permitir que centenas ou milhares de pessoas tomem decisões coerentes sem depender de instruções constantes.
 - **Hipótese sobre a natureza humana**: As pessoas não precisam apenas de tarefas. Precisam entender para onde estão caminhando.
@@ -59,7 +59,7 @@ A Visão é um artefato de intenção e autodeterminação organizacional consol
 - **Legado**: Não especificado
 - **Conceitos relacionados**: Não especificado
 - **Família de ideias**: Artefatos de Intenção, Artefatos de Autodeterminação.
-- **Parentes**: [[03 artefatos/Manifesto|Manifesto]], [[03 artefatos/missão|missão]], [[03 artefatos/North Star|North Star]], [[03 artefatos/estratégia|estratégia]]
+- **Parentes**: [[03 artefatos/Manifesto|Manifesto]], missão, [[03 artefatos/North Star|North Star]], estratégia
 - **Hipótese central**: Pessoas decidem de forma coerente quando compartilham um futuro desejado.
 - **Princípio de design revelado**: Substituir microgerenciamento por propósito de longo prazo.
 - **Destino do artefato**: Incorporado na gestão contemporânea através de OKRs e métricas como North Star.

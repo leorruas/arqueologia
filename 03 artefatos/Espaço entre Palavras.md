@@ -11,7 +11,7 @@ tags:
 O espaço em branco entre palavras é um artefato invisível de arquitetura da informação e tipografia medieval que revolucionou a cognição e a legibilidade textual. Ao introduzir o vazio físico como delimitador visual de termos, converteu a escrita de uma representação sonora (feita para ser declamada) em uma interface direta para o pensamento silencioso.
 
 ## Ficha técnica
-- **Criador(es)**: [[autores/Monges Copistas Irlandeses|Monges copistas irlandeses]] e outros escribas medievais (autoria difusa)
+- **Criador(es)**: Monges copistas irlandeses e outros escribas medievais (autoria difusa)
 - **Empresa/Fabricante**: Não aplicável (evolução caligráfica e monástica)
 - **Ano de Lançamento**: Séculos VII e VIII (aproximado)
 - **Materiais/Mídia**: Pergaminho, tinta, manuscritos medievais
@@ -39,7 +39,7 @@ O espaço em branco entre palavras é um artefato invisível de arquitetura da i
 - **Nome do artefato**: Espaço entre Palavras
 - **Categoria**: Tipografia, arquitetura da informação, design gráfico
 - **Período aproximado**: Séculos VII e VIII
-- **Pessoas ou equipes envolvidas**: [[autores/Monges Copistas Irlandeses|Monges copistas irlandeses]] e outros escribas medievais
+- **Pessoas ou equipes envolvidas**: Monges copistas irlandeses e outros escribas medievais
 - **Produto onde apareceu**: Códices e manuscritos em latim
 - **Problema original**: Dificuldade em identificar limites entre palavras durante a leitura por falantes não nativos de latim.
 - **Mundo antes da inovação**: Uso da *scriptio continua*, com leitura dependente da pronúncia oral para estabelecer limites estruturais.
@@ -49,7 +49,7 @@ O espaço em branco entre palavras é um artefato invisível de arquitetura da i
 - **Por que funcionou**: Eliminou a necessidade de vocalização intermediária, encurtando o fluxo cognitivo de `escrever -> falar -> compreender` para `escrever -> olhar -> compreender`.
 - **Consequências inesperadas**: Modularização léxica que pavimentou o caminho para dicionários, índices sistemáticos e, mil anos depois, a indexação computacional e mecanismos de busca por palavras-chave (Google).
 - **Legado**: Toda a estrutura de delimitação gráfica moderna na impressão e na web (grids, botões, painéis, balões de texto).
-- **Conceitos relacionados**: [[01 conceitos/Carga Cognitiva|Carga Cognitiva]], [[01 conceitos/Chunking|Chunking]], [[01 conceitos/Gestalt da Proximidade|Gestalt da Proximidade]], [[01 conceitos/Design da Informação|Design da Informação]], [[01 conceitos/Redução de Inferências|Redução de Inferências]]
+- **Conceitos relacionados**: Carga Cognitiva, Chunking, Gestalt da Proximidade, Design da Informação, [[01 conceitos/Redução de Inferências|Redução de Inferências]]
 - **Família de ideias**: Artefatos de redução de inferência
 - **Parentes**: [[03 artefatos/Grid|Grid]], [[03 artefatos/Checklist|Checklist]]
 - **Hipótese central**: O espaço em branco é uma tecnologia cognitiva invisível que transforma a escrita em uma interface para o pensamento silencioso.

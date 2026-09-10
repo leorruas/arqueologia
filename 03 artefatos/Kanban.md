@@ -11,7 +11,7 @@ tags:
 O Kanban é um artefato de coordenação baseado em gestão visual que espacializa fluxos de trabalho e limita o trabalho em progresso (WIP).
 
 ## Ficha técnica
-- **Criador(es)**: [[autores/Taiichi Ohno|Taiichi Ohno]]
+- **Criador(es)**: Taiichi Ohno
 - **Empresa/Fabricante**: Toyota (originalmente)
 - **Ano de Lançamento**: Década de 1950 na Toyota.
 - **Materiais/Mídia**: Quadros físicos, cartões de papel, sistemas digitais (Trello, Jira)
@@ -25,7 +25,7 @@ O Kanban é um artefato de coordenação baseado em gestão visual que espaciali
 - **Ampliação de Capacidade**: Amplia a capacidade de equipes se autorregularem e gerenciarem gargalos visíveis.
 - **Enfraquecimento de Capacidade**: Enfraquece a dependência de supervisão direta e cobranças hierárquicas de tarefas.
 - **Comportamento Coletivo**: Gestão visual.
-- **Linhagem e Descendência**: [[03 artefatos/Scrum Board|Scrum Board]], [[03 artefatos/quadro branco|quadro branco]], [[03 artefatos/backlog|backlog]], [[03 artefatos/painel de produção|painel de produção]]
+- **Linhagem e Descendência**: Scrum Board, [[03 artefatos/quadro branco|quadro branco]], backlog, painel de produção
 - **Custo Invisível**: Rigidez burocrática caso as raias e cartões fiquem desatualizados.
 - **O que ele simplifica**: A visualização de gargalos e a distribuição de carga de trabalho.
 - **O que ele esconde**: Complexidades internas de tarefas individuais difíceis de estimar.
@@ -45,7 +45,7 @@ O Kanban é um artefato de coordenação baseado em gestão visual que espaciali
 - **Nome do artefato**: Kanban
 - **Categoria**: Interface / Fluxo / Coordenação
 - **Período aproximado**: Década de 1950 na Toyota.
-- **Pessoas ou equipes envolvidas**: [[autores/Taiichi Ohno|Taiichi Ohno]]
+- **Pessoas ou equipes envolvidas**: Taiichi Ohno
 - **Produto onde apareceu**: Não especificado
 - **Problema original**: Como coordenar trabalho sem depender exclusivamente da supervisão.
 - **Hipótese sobre a natureza humana**: Pessoas conseguem se autorregular quando enxergam o sistema em que trabalham.
@@ -59,7 +59,7 @@ O Kanban é um artefato de coordenação baseado em gestão visual que espaciali
 - **Legado**: Não especificado
 - **Conceitos relacionados**: Não especificado
 - **Família de ideias**: Artefatos de Coordenação, Artefatos de Autodeterminação.
-- **Parentes**: [[03 artefatos/Scrum Board|Scrum Board]], [[03 artefatos/quadro branco|quadro branco]], [[03 artefatos/backlog|backlog]], [[03 artefatos/painel de produção|painel de produção]]
+- **Parentes**: Scrum Board, [[03 artefatos/quadro branco|quadro branco]], backlog, painel de produção
 - **Hipótese central**: Equipes conseguem se auto-organizar eficientemente quando enxergam claramente os limites e o fluxo de seu trabalho.
 - **Princípio de design revelado**: Limitar o trabalho em progresso acelera a entrega global.
 - **Destino do artefato**: Tornou-se a interface padrão de gestão de projetos de software no mundo moderno.

@@ -25,7 +25,7 @@ O Princípio é uma heurística organizacional estruturada para orientar o julga
 - **Ampliação de Capacidade**: Amplia a autonomia de decisão e julgamento individual em contextos dinâmicos.
 - **Enfraquecimento de Capacidade**: Enfraquece a dependência de regulamentações exaustivas e POPs rígidos.
 - **Comportamento Coletivo**: Decisão contextual em vez de execução mecânica.
-- **Linhagem e Descendência**: [[03 artefatos/Valores|Valores]], [[03 artefatos/credo organizacional|credo organizacional]], [[03 artefatos/constituição|constituição]], [[03 artefatos/Manifesto|Manifesto]]
+- **Linhagem e Descendência**: Valores, credo organizacional, constituição, [[03 artefatos/Manifesto|Manifesto]]
 - **Custo Invisível**: Inconsistência potencial nas decisões tomadas por pessoas diferentes sob o mesmo princípio.
 - **O que ele simplifica**: A tomada de decisões complexas e adaptativas.
 - **O que ele esconde**: As ambiguidades e os trade-offs de decisões difíceis.
@@ -59,7 +59,7 @@ O Princípio é uma heurística organizacional estruturada para orientar o julga
 - **Legado**: Não especificado
 - **Conceitos relacionados**: Não especificado
 - **Família de ideias**: Artefatos de Autodeterminação, Artefatos de Escolha.
-- **Parentes**: [[03 artefatos/Valores|Valores]], [[03 artefatos/credo organizacional|credo organizacional]], [[03 artefatos/constituição|constituição]], [[03 artefatos/Manifesto|Manifesto]]
+- **Parentes**: Valores, credo organizacional, constituição, [[03 artefatos/Manifesto|Manifesto]]
 - **Hipótese central**: Bons critérios gerais produzem melhores soluções locais do que procedimentos inflexíveis.
 - **Princípio de design revelado**: Julgamento local supera regulamentações globais excessivas.
 - **Destino do artefato**: Evoluiu para princípios de design digital, frameworks ágeis e filosofias corporativas.

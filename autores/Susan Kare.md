@@ -23,7 +23,7 @@ Susan Kare é uma designer gráfica americana de enorme relevância, famosa por 
   - Criou a iconografia pixel art original do Macintosh 128K.
 
 ## Projetos e obras marcantes
-- **[[03 artefatos/Icones do Macintosh|Ícones do Macintosh]] (1984)**: Lixeira, laço de seleção, disquete de salvar, pasta de arquivos.
+- **Ícones do Macintosh (1984)**: Lixeira, laço de seleção, disquete de salvar, pasta de arquivos.
 - **Baralho de Paciência do Windows 3.0 (1990)**: Desenho das cartas digitais que popularizaram o jogo.
 
 ## Empresas e parcerias

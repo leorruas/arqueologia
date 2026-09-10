@@ -20,9 +20,9 @@ Peter Behrens foi um arquiteto, designer e pintor alemão, amplamente considerad
 - **Principais Invenções/Técnicas**: Inventor da identidade corporativa integrada. Criou o conceito de projetar sistematicamente desde a marca gráfica, catálogos e anúncios até os produtos manufaturados e as edificações fabris de uma corporação.
 
 ## Projetos e obras marcantes
-- [[03 artefatos/Chaleiras Eletricas de Peter Behrens|Chaleiras Elétricas de Peter Behrens]] (1909): Modelos com componentes padronizados e intercambiáveis com formas geométricas puras.
-- [[03 artefatos/Fabrica de Turbinas da AEG|Fábrica de Turbinas da AEG]] (1909): Um dos monumentos de fundação da arquitetura moderna mundial em aço e vidro.
-- [[03 artefatos/Ventilador de Mesa da AEG|Ventilador de Mesa da AEG]] (1908): Simplificação funcional do design de eletrodomésticos cotidianos.
+- Chaleiras Elétricas de Peter Behrens (1909): Modelos com componentes padronizados e intercambiáveis com formas geométricas puras.
+- Fábrica de Turbinas da AEG (1909): Um dos monumentos de fundação da arquitetura moderna mundial em aço e vidro.
+- Ventilador de Mesa da AEG (1908): Simplificação funcional do design de eletrodomésticos cotidianos.
 
 ## Parcerias e empresas
 - **Colaborações**: Atuou como consultor de design geral para a [[empresas/AEG|AEG]]. Em seu escritório, treinou nomes seminais da arquitetura moderna como Walter Gropius (fundador da Bauhaus), Ludwig Mies van der Rohe e Le Corbusier.

@@ -12,7 +12,7 @@ O **Prompt Conversacional** é uma metainterface textual baseada em linguagem na
 
 ## Ficha técnica
 - **Criador(es)**: Pesquisadores de computação interativa; Joseph Weizenbaum (ELIZA); cientistas da computação responsáveis pela arquitetura Transformer e modelos ajustados por instruções (InstructGPT)
-- **Empresa/Fabricante**: [[empresas/OpenAI|OpenAI]] e desenvolvedores de modelos de linguagem generativa
+- **Empresa/Fabricante**: OpenAI e desenvolvedores de modelos de linguagem generativa
 - **Ano de Lançamento**: Popularizado em escala global em 2022 (com o ChatGPT)
 - **Materiais/Mídia**: Interface digital, código de software (NLP/LLM), campos de texto web/mobile
 - **Tipo de Design**: [[00 tipos de design/Design de Interface|Design de Interface]]
@@ -39,7 +39,7 @@ O **Prompt Conversacional** é uma metainterface textual baseada em linguagem na
 - **Nome do artefato**: Prompt Conversacional
 - **Categoria**: Interface Digital
 - **Período aproximado**: Popularizado em 2022
-- **Pessoas ou equipes envolvidas**: Joseph Weizenbaum, pesquisadores de computadores interativos, equipes de LLM e produto da [[empresas/OpenAI|OpenAI]]
+- **Pessoas ou equipes envolvidas**: Joseph Weizenbaum, pesquisadores de computadores interativos, equipes de LLM e produto da OpenAI
 - **Produto onde apareceu**: ChatGPT, InstructGPT, ELIZA (antecedente histórico)
 - **Problema original**: Executar operações flexíveis e variadas sem a rigidez de interfaces de botões estáticos ou complexidade de código formal
 - **Hipótese sobre a natureza humana**: Humanos preferem explicar o que querem por meio de linguagem descritiva incremental do que memorizar códigos de comandos de sistemas ou clicar por sequências longas de menus

@@ -20,9 +20,9 @@ A Allgemeine Elektricitäts-Gesellschaft (AEG) foi uma das maiores empresas indu
 - **Setores de Atuação**: Eletrodomésticos, engenharia elétrica, iluminação e arquitetura industrial.
 
 ## Projetos emblemáticos e produtos históricos
-- [[03 artefatos/Chaleiras Eletricas de Peter Behrens|Chaleiras Elétricas de Peter Behrens]] (1909): Modelos padronizados com componentes intercambiáveis e formas puras que uniram arte e indústria.
-- [[03 artefatos/Fabrica de Turbinas da AEG|Fábrica de Turbinas da AEG]] (1909): Um marco da arquitetura moderna que utilizou vidro e aço para expressar a dignidade da era industrial.
-- [[03 artefatos/Ventilador de Mesa da AEG|Ventilador de Mesa da AEG]] (1908): Um dos primeiros eletrodomésticos a incorporar uma simplificação estética funcional baseada em formas puras.
+- Chaleiras Elétricas de Peter Behrens (1909): Modelos padronizados com componentes intercambiáveis e formas puras que uniram arte e indústria.
+- Fábrica de Turbinas da AEG (1909): Um marco da arquitetura moderna que utilizou vidro e aço para expressar a dignidade da era industrial.
+- Ventilador de Mesa da AEG (1908): Um dos primeiros eletrodomésticos a incorporar uma simplificação estética funcional baseada em formas puras.
 
 ## Designers notáveis associados
 - [[autores/Peter Behrens|Peter Behrens]] — Consultor artístico geral que definiu a identidade visual e de produto da empresa.

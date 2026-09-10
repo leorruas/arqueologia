@@ -11,7 +11,7 @@ tags:
 A Pergunta é uma das tecnologias cognitivas e relacionais mais fundamentais da humanidade. Ao invés de fornecer respostas prontas, ela reorganiza o foco mental e estimula o julgamento individual e a autoeficácia.
 
 ## Ficha técnica
-- **Criador(es)**: [[autores/Sócrates|Sócrates]]
+- **Criador(es)**: Sócrates
 - **Empresa/Fabricante**: Não aplicável
 - **Ano de Lançamento**: Tão antigo quanto a linguagem.
 - **Materiais/Mídia**: Linguagem, roteiros de pesquisa, blocos de notas
@@ -25,7 +25,7 @@ A Pergunta é uma das tecnologias cognitivas e relacionais mais fundamentais da 
 - **Ampliação de Capacidade**: Amplia a reflexão crítica, a autonomia de pensamento e a descoberta de fatos novos.
 - **Enfraquecimento de Capacidade**: Enfraquece a passividade cognitiva e a aceitação acrítica de dogmas.
 - **Comportamento Coletivo**: Investigação, descoberta, autonomia intelectual.
-- **Linhagem e Descendência**: [[03 artefatos/Entrevista|Entrevista]], [[03 artefatos/mentoria|mentoria]], [[03 artefatos/coaching|coaching]], [[03 artefatos/terapia|terapia]], [[03 artefatos/pesquisa qualitativa|pesquisa qualitativa]], [[03 artefatos/diálogo socrático|diálogo socrático]]
+- **Linhagem e Descendência**: Entrevista, mentoria, coaching, terapia, pesquisa qualitativa, diálogo socrático
 - **Custo Invisível**: Desconforto psicológico temporário provocado por dúvidas e incertezas expostas.
 - **O que ele simplifica**: A extração de necessidades implícitas e o enquadramento de problemas complexos.
 - **O que ele esconde**: As inclinações e viesses de quem formulou a própria pergunta.
@@ -45,7 +45,7 @@ A Pergunta é uma das tecnologias cognitivas e relacionais mais fundamentais da 
 - **Nome do artefato**: Pergunta
 - **Categoria**: Cognição / Investigação / Facilitação
 - **Período aproximado**: Tão antigo quanto a linguagem.
-- **Pessoas ou equipes envolvidas**: [[autores/Sócrates|Sócrates]]
+- **Pessoas ou equipes envolvidas**: Sócrates
 - **Produto onde apareceu**: Não especificado
 - **Problema original**: Como produzir conhecimento sem simplesmente transmitir respostas.
 - **Hipótese sobre a natureza humana**: As pessoas aprendem mais profundamente quando constroem interpretações próprias.
@@ -59,7 +59,7 @@ A Pergunta é uma das tecnologias cognitivas e relacionais mais fundamentais da 
 - **Legado**: Não especificado
 - **Conceitos relacionados**: Não especificado
 - **Família de ideias**: Artefatos de Autodeterminação, Artefatos de Investigação.
-- **Parentes**: [[03 artefatos/Entrevista|Entrevista]], [[03 artefatos/mentoria|mentoria]], [[03 artefatos/coaching|coaching]], [[03 artefatos/terapia|terapia]], [[03 artefatos/pesquisa qualitativa|pesquisa qualitativa]], [[03 artefatos/diálogo socrático|diálogo socrático]]
+- **Parentes**: Entrevista, mentoria, coaching, terapia, pesquisa qualitativa, diálogo socrático
 - **Hipótese central**: Seres humanos aprendem e mudam mais profundamente por meio da reflexão induzida por perguntas do que por comandos.
 - **Princípio de design revelado**: Perguntas direcionam a atenção melhor do que instruções.
 - **Destino do artefato**: Base metodológica da pesquisa de UX, facilitação estratégica, design participativo e interfaces conversacionais.

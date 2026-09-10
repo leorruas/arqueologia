@@ -21,7 +21,7 @@ Dieter Rams é um arquiteto e designer industrial alemão, reconhecido mundialme
 
 ## Projetos e obras marcantes
 - [[03 artefatos/Braun T3|Rádio de Bolso Braun T3]] (1958): Rádio transistorizado minimalista com dial sintonizador circular plano.
-- [[03 artefatos/Braun SK 4 Phonosuper|Braun SK 4 Phonosuper]] (1956): Toca-discos com caixa de chapa de aço, laterais de madeira e tampa de acrílico transparente.
+- Braun SK 4 Phonosuper (1956): Toca-discos com caixa de chapa de aço, laterais de madeira e tampa de acrílico transparente.
 - **Sistema de Prateleiras Vitsœ 606 (1960)**: Sistema de estantes modulares estruturadas em trilhos de alumínio que coexiste ativamente em espaços residenciais até hoje.
 
 ## Parcerias e empresas

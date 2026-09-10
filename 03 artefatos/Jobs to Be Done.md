@@ -11,7 +11,7 @@ tags:
 O Jobs to Be Done (JTBD) é uma teoria de design e estratégia que postula que as pessoas adquirem produtos e serviços não por suas características em si, mas para realizar um progresso desejado em circunstâncias específicas.
 
 ## Ficha técnica
-- **Criador(es)**: [[autores/Clayton Christensen|Clayton Christensen]], [[autores/Anthony Ulwick|Anthony Ulwick]], [[autores/Bob Moesta|Bob Moesta]], [[autores/Alan Klement|Alan Klement]]
+- **Criador(es)**: [[autores/Clayton Christensen|Clayton Christensen]], Anthony Ulwick, [[autores/Bob Moesta|Bob Moesta]], [[autores/Alan Klement|Alan Klement]]
 - **Empresa/Fabricante**: Não aplicável
 - **Ano de Lançamento**: Décadas de 1990 e 2000.
 - **Materiais/Mídia**: Estruturas de texto (Job Statements), diagramas de forças, roteiros de entrevista
@@ -25,7 +25,7 @@ O Jobs to Be Done (JTBD) é uma teoria de design e estratégia que postula que a
 - **Ampliação de Capacidade**: Amplia a visão de concorrência e a compreensão das reais motivações humanas.
 - **Enfraquecimento de Capacidade**: Enfraquece o foco em dados demográficos tradicionais ou no apego excessivo a soluções tecnológicas atuais.
 - **Comportamento Coletivo**: Não especificado
-- **Linhagem e Descendência**: [[03 artefatos/Brief|Brief]], [[03 artefatos/Pergunta de Pesquisa|Pergunta de Pesquisa]], [[03 artefatos/North Star|North Star]], [[03 artefatos/Manifesto|Manifesto]], [[03 artefatos/desafio de inovação|desafio de inovação]], [[03 artefatos/Hipótese Científica|Hipótese Científica]], [[03 artefatos/questão norteadora|questão norteadora]]
+- **Linhagem e Descendência**: [[03 artefatos/Brief|Brief]], [[03 artefatos/Pergunta de Pesquisa|Pergunta de Pesquisa]], [[03 artefatos/North Star|North Star]], [[03 artefatos/Manifesto|Manifesto]], desafio de inovação, [[03 artefatos/Hipótese Científica|Hipótese Científica]], questão norteadora
 - **Custo Invisível**: Requer esforço qualitativo denso de pesquisa para ser formulado corretamente, com risco de abstração excessiva.
 - **O que ele simplifica**: A definição do valor essencial de um produto.
 - **O que ele esconde**: Métricas quantitativas tradicionais de vendas imediatas.
@@ -47,7 +47,7 @@ O Jobs to Be Done (JTBD) é uma teoria de design e estratégia que postula que a
 - **Nome do artefato**: Jobs to Be Done
 - **Categoria**: Estratégia / Pesquisa / Inovação
 - **Período aproximado**: Décadas de 1990 e 2000.
-- **Pessoas ou equipes envolvidas**: [[autores/Clayton Christensen|Clayton Christensen]], [[autores/Anthony Ulwick|Anthony Ulwick]], [[autores/Bob Moesta|Bob Moesta]], [[autores/Alan Klement|Alan Klement]]
+- **Pessoas ou equipes envolvidas**: [[autores/Clayton Christensen|Clayton Christensen]], Anthony Ulwick, [[autores/Bob Moesta|Bob Moesta]], [[autores/Alan Klement|Alan Klement]]
 - **Produto onde apareceu**: Estratégia, inovação e desenvolvimento de produtos.
 - **Problema original**: Como inovar sem começar pela solução.
 - **Hipótese sobre a natureza humana**: Não especificado
@@ -59,9 +59,9 @@ O Jobs to Be Done (JTBD) é uma teoria de design e estratégia que postula que a
 - **Por que funcionou**: Estabilizou a necessidade humana (porquê) deixando a solução tecnológica aberta para inovação.
 - **Consequências inesperadas**: Uso de declarações de Job genéricas demais para guiar qualquer decisão prática de engenharia.
 - **Legado**: O JTBD talvez tenha sido uma das primeiras ferramentas modernas a estabilizar intenções em vez de soluções.
-- **Conceitos relacionados**: [[01 conceitos/Inovação|Inovação]], [[01 conceitos/Estratégia|Estratégia]], [[01 conceitos/Autodeterminação|Autodeterminação]], [[01 conceitos/Pensamento Funcional|Pensamento Funcional]], [[01 conceitos/Design Centrado no Ser Humano|Design Centrado no Ser Humano]]
+- **Conceitos relacionados**: Inovação, Estratégia, [[01 conceitos/Autodeterminação|Autodeterminação]], Pensamento Funcional, Design Centrado no Ser Humano
 - **Família de ideias**: Artefatos de Intenção, Artefatos de Autodeterminação.
-- **Parentes**: [[03 artefatos/Brief|Brief]], [[03 artefatos/Pergunta de Pesquisa|Pergunta de Pesquisa]], [[03 artefatos/North Star|North Star]], [[03 artefatos/Manifesto|Manifesto]], [[03 artefatos/desafio de inovação|desafio de inovação]], [[03 artefatos/Hipótese Científica|Hipótese Científica]], [[03 artefatos/questão norteadora|questão norteadora]]
+- **Parentes**: [[03 artefatos/Brief|Brief]], [[03 artefatos/Pergunta de Pesquisa|Pergunta de Pesquisa]], [[03 artefatos/North Star|North Star]], [[03 artefatos/Manifesto|Manifesto]], desafio de inovação, [[03 artefatos/Hipótese Científica|Hipótese Científica]], questão norteadora
 - **Hipótese central**: Pessoas são melhores em criar soluções contextuais quando compreendem e focam estritamente na transformação humana desejada.
 - **Princípio de design revelado**: O produto é apenas o meio; o progresso pessoal é a finalidade.
 - **Destino do artefato**: Framework de inovação dominante nas empresas de tecnologia e estratégia digital no início do século XXI.

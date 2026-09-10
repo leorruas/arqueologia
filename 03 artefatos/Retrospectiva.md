@@ -25,7 +25,7 @@ A Retrospectiva é um artefato processual e reflexivo que cria um espaço de tem
 - **Ampliação de Capacidade**: Amplia o aprendizado coletivo e a melhoria contínua de processos.
 - **Enfraquecimento de Capacidade**: Enfraquece o acúmulo silencioso de erros e disfunções de equipe.
 - **Comportamento Coletivo**: Aprendizagem contínua.
-- **Linhagem e Descendência**: [[03 artefatos/After Action Review|After Action Review]], [[03 artefatos/debriefing|debriefing]], [[03 artefatos/supervisão|supervisão]], [[03 artefatos/diário|diário]]
+- **Linhagem e Descendência**: After Action Review, debriefing, supervisão, diário
 - **Custo Invisível**: Exposição excessiva de falhas individuais que podem gerar fricção interpessoal se mal conduzida.
 - **O que ele simplifica**: A identificação de gargalos de trabalho e conflitos relacionais.
 - **O que ele esconde**: Responsabilidades individuais específicas atrás de consensos de grupo.
@@ -58,7 +58,7 @@ A Retrospectiva é um artefato processual e reflexivo que cria um espaço de tem
 - **Legado**: Não especificado
 - **Conceitos relacionados**: Não especificado
 - **Família de ideias**: Artefatos de Reflexão, Artefatos de Autodeterminação.
-- **Parentes**: [[03 artefatos/After Action Review|After Action Review]], [[03 artefatos/debriefing|debriefing]], [[03 artefatos/supervisão|supervisão]], [[03 artefatos/diário|diário]]
+- **Parentes**: After Action Review, debriefing, supervisão, diário
 - **Hipótese central**: A evolução organizacional contínua depende de momentos estruturados de reflexão coletiva.
 - **Princípio de design revelado**: Refletir com frequência reduz o impacto acumulado de erros.
 - **Destino do artefato**: Consolidada como ritual obrigatório em metodologias ágeis contemporâneas.

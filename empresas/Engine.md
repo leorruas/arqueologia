@@ -20,8 +20,8 @@ A Engine foi uma das consultorias fundadoras do movimento contemporâneo de desi
 - **Setores de Atuação**: Design de Serviços, políticas públicas, transporte aéreo, saúde e mobilidade urbana.
 
 ## Projetos emblemáticos e produtos históricos
-- [[03 artefatos/Transformacao do Servico Virgin Atlantic|Transformação do Serviço de Atendimento da Virgin Atlantic]] (2007): Redesenho holístico da jornada de check-in e experiências a bordo, unindo design de espaço físico, fluxo de interface e treinamento de tripulação.
-- [[03 artefatos/Inovacao no NHS|Inovação no NHS (National Health Service)]]: Projetos contínuos voltados a mapear e melhorar o atendimento em pronto-socorros ingleses, reduzindo tempos de espera percebidos e aprimorando fluxos de triagem.
+- Transformação do Serviço de Atendimento da Virgin Atlantic (2007): Redesenho holístico da jornada de check-in e experiências a bordo, unindo design de espaço físico, fluxo de interface e treinamento de tripulação.
+- Inovação no NHS (National Health Service): Projetos contínuos voltados a mapear e melhorar o atendimento em pronto-socorros ingleses, reduzindo tempos de espera percebidos e aprimorando fluxos de triagem.
 
 ## Designers notáveis associados
 - **Oliver King** — Cofundador e especialista em design estratégico organizacional.

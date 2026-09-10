@@ -20,8 +20,8 @@ A Livework é reconhecida como a primeira consultoria dedicada exclusivamente ao
 - **Setores de Atuação**: Design de Serviços, inovação organizacional, transporte, saúde, finanças e transformação do setor público.
 
 ## Projetos emblemáticos e produtos históricos
-- [[03 artefatos/Redesenho do Servico Streetcar|Redesenho do Serviço Streetcar]] (2004): Uma das primeiras aplicações sistemáticas de design de serviços no setor de compartilhamento de carros (que posteriormente virou a Zipcar), conectando reserva móvel, acesso ao carro físico e atendimento de suporte.
-- [[03 artefatos/Blueprints de Servicos Digitais TfL|Blueprints de Serviços Digitais para Transport for London (TfL)]]: Projetos pioneiros para melhorar a consistência de informações sobre viagens e conexões no transporte público de Londres.
+- Redesenho do Serviço Streetcar (2004): Uma das primeiras aplicações sistemáticas de design de serviços no setor de compartilhamento de carros (que posteriormente virou a Zipcar), conectando reserva móvel, acesso ao carro físico e atendimento de suporte.
+- Blueprints de Serviços Digitais para Transport for London (TfL): Projetos pioneiros para melhorar a consistência de informações sobre viagens e conexões no transporte público de Londres.
 
 ## Designers notáveis associados
 - **Ben Reason** — Cofundador e teórico do design de serviços.

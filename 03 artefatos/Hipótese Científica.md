@@ -11,7 +11,7 @@ tags:
 A Hipótese Científica é um artefato de formulação e investigação que estrutura dúvidas intelectuais em explicações provisórias refutáveis por evidências empíricas.
 
 ## Ficha técnica
-- **Criador(es)**: [[autores/Francis Bacon|Francis Bacon]], [[autores/Galileo Galilei|Galileo Galilei]], [[autores/Karl Popper|Karl Popper]]
+- **Criador(es)**: [[autores/Francis Bacon|Francis Bacon]], Galileo Galilei, Karl Popper
 - **Empresa/Fabricante**: Não aplicável
 - **Ano de Lançamento**: Séculos XVII e XVIII, com a Revolução Científica.
 - **Materiais/Mídia**: Textos acadêmicos, diários de laboratório, registros estatísticos
@@ -45,7 +45,7 @@ A Hipótese Científica é um artefato de formulação e investigação que estr
 - **Nome do artefato**: Hipótese Científica
 - **Categoria**: Metodologia / Investigação / Epistemologia
 - **Período aproximado**: Séculos XVII e XVIII, com a Revolução Científica.
-- **Pessoas ou equipes envolvidas**: [[autores/Francis Bacon|Francis Bacon]], [[autores/Galileo Galilei|Galileo Galilei]], [[autores/Karl Popper|Karl Popper]]
+- **Pessoas ou equipes envolvidas**: [[autores/Francis Bacon|Francis Bacon]], Galileo Galilei, Karl Popper
 - **Produto onde apareceu**: Não especificado
 - **Problema original**: Como investigar fenômenos sem começar acreditando que já sabemos a resposta.
 - **Hipótese sobre a natureza humana**: Não especificado

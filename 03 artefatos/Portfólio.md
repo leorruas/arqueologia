@@ -25,7 +25,7 @@ O Portfólio é um artefato de evidência que torna observáveis capacidades e e
 - **Ampliação de Capacidade**: Amplia a capacidade de demonstrar competência prática e autoeficácia.
 - **Enfraquecimento de Capacidade**: Enfraquece a necessidade de avaliações puramente teóricas ou credenciamentos burocráticos.
 - **Comportamento Coletivo**: Documentar evolução.
-- **Linhagem e Descendência**: [[03 artefatos/GitHub|GitHub]], [[03 artefatos/currículo|currículo]], [[03 artefatos/diário de projeto|diário de projeto]], [[03 artefatos/histórico de versões|histórico de versões]]
+- **Linhagem e Descendência**: GitHub, currículo, diário de projeto, histórico de versões
 - **Custo Invisível**: Esforço constante de curadoria e autopromoção permanente.
 - **O que ele simplifica**: A validação rápida de capacidades e estilo de trabalho.
 - **O que ele esconde**: As falhas, retrabalhos e a ajuda de terceiros nos projetos selecionados.
@@ -58,7 +58,7 @@ O Portfólio é um artefato de evidência que torna observáveis capacidades e e
 - **Legado**: Não especificado
 - **Conceitos relacionados**: Não especificado
 - **Família de ideias**: Artefatos de Evidência, Artefatos de Competência.
-- **Parentes**: [[03 artefatos/GitHub|GitHub]], [[03 artefatos/currículo|currículo]], [[03 artefatos/diário de projeto|diário de projeto]], [[03 artefatos/histórico de versões|histórico de versões]]
+- **Parentes**: GitHub, currículo, diário de projeto, histórico de versões
 - **Hipótese central**: A evidência de realizações passadas é o indicador mais confiável de competências futuras.
 - **Princípio de design revelado**: Mostrar resultados convence mais do que descrever capacidades.
 - **Destino do artefato**: Migrou inteiramente para plataformas globais online de design e repositórios de código.

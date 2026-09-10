@@ -25,7 +25,7 @@ O Problema de Design é um artefato de formulação que enquadra e reconfigura a
 - **Ampliação de Capacidade**: Amplia o espaço de ideação criativa e a assertividade da solução desenhada.
 - **Enfraquecimento de Capacidade**: Enfraquece a pressa para implementar soluções precoces baseadas apenas em suposições.
 - **Comportamento Coletivo**: Não especificado
-- **Linhagem e Descendência**: [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Hipótese Científica|Hipótese Científica]], [[03 artefatos/pesquisa|pesquisa]], [[03 artefatos/design thinking|design thinking]]
+- **Linhagem e Descendência**: [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Hipótese Científica|Hipótese Científica]], pesquisa, design thinking
 - **Custo Invisível**: Esforço de tempo exigido para realizar pesquisas de enquadramento antes da codificação/produção.
 - **O que ele simplifica**: A delimitação e o foco estratégico de workshops e processos criativos.
 - **O que ele esconde**: As limitações tecnológicas e de orçamento durante a fase inicial de exploração.
@@ -59,7 +59,7 @@ O Problema de Design é um artefato de formulação que enquadra e reconfigura a
 - **Legado**: Não especificado
 - **Conceitos relacionados**: Não especificado
 - **Família de ideias**: Artefatos de Formulação, Artefatos de Investigação.
-- **Parentes**: [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Hipótese Científica|Hipótese Científica]], [[03 artefatos/pesquisa|pesquisa]], [[03 artefatos/design thinking|design thinking]]
+- **Parentes**: [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Hipótese Científica|Hipótese Científica]], pesquisa, design thinking
 - **Hipótese central**: A eficácia do design reside mais em descobrir a pergunta certa do que em refinar respostas apressadas.
 - **Princípio de design revelado**: Formular corretamente o problema é metade da solução.
 - **Destino do artefato**: Metodologia central das disciplinas de IHC, Design de Serviços e Design Thinking.

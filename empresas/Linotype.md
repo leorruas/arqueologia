@@ -20,7 +20,7 @@ A Mergenthaler Linotype Company revolucionou o mundo da impressão e da comunica
 - **Setores de Atuação**: Fabricação de maquinário gráfico, licenciamento tipográfico e distribuição de fontes digitais.
 
 ## Projetos emblemáticos e produtos históricos
-- [[03 artefatos/Maquina Linotype|Máquina Linotype]] (1886): Equipamento mecânico que permitiu a digitação rápida de textos via teclado, acionando matrizes que fundiam linhas de chumbo inteiras em segundos, substituindo a composição manual letra a letra.
+- Máquina Linotype (1886): Equipamento mecânico que permitiu a digitação rápida de textos via teclado, acionando matrizes que fundiam linhas de chumbo inteiras em segundos, substituindo a composição manual letra a letra.
 - [[03 artefatos/Helvetica|Helvetica]] (Licenciamento e Distribuição): A Linotype adquiriu a Neue Haas Grotesk e a renomeou como Helvetica em 1960, promovendo sua distribuição global e consagrando-a como padrão corporativo definitivo.
 
 ## Designers notáveis associados

@@ -22,7 +22,7 @@ Loren Brichter é um renomado designer e desenvolvedor de software independente,
   - Otimizou o uso de células fluidas e renderização acelerada de listas no iOS, influenciando toda a indústria de aplicativos móveis.
 
 ## Projetos e obras marcantes
-- **[[03 artefatos/Tweetie|Tweetie]] (2008)**: Aplicativo pioneiro para Twitter no iPhone, mais tarde adquirido pelo próprio Twitter para se tornar seu cliente oficial.
+- **Tweetie (2008)**: Aplicativo pioneiro para Twitter no iPhone, mais tarde adquirido pelo próprio Twitter para se tornar seu cliente oficial.
 - **Letterpress (2012)**: Um jogo de palavras minimalista e extremamente elogiado pelo design plano (*Flat Design*) e interações limpas.
 
 ## Empresas e parcerias

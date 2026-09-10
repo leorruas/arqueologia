@@ -20,7 +20,7 @@ O **Xerox Palo Alto Research Center (PARC)** é um lendário centro de pesquisa 
 - **Setores de Atuação**: Tecnologia, Hardware, Redes, Sistemas Operacionais.
 
 ## Projetos emblemáticos e produtos históricos
-- **[[03 artefatos/Xerox Alto GUI|Xerox Alto GUI]] (1973)**: O primeiro computador pessoal experimental a usar mouse, interface gráfica de usuário (GUI) e a metáfora do desktop.
+- **Xerox Alto GUI (1973)**: O primeiro computador pessoal experimental a usar mouse, interface gráfica de usuário (GUI) e a metáfora do desktop.
 - **Impressora Laser (1971)**: Desenvolvida por Gary Starkweather.
 - **Ethernet (1973)**: Protocolo de rede local.
 

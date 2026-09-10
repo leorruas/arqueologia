@@ -15,7 +15,7 @@ O **Esqueuomorfismo** (Skeuomorphism) estuda o princípio de design em que eleme
 Este conceito/princípio se manifesta e ajuda a compreender a lógica operacional dos seguintes artefatos:
 
 - [[Slide to Unlock|Slide to Unlock]] — Imita fielmente o deslizar de uma trava física de metal (ferrolho) sobre uma canaleta para desbloquear a tela lógica do telefone.
-- [[03 artefatos/Icones do Macintosh|Ícones do Macintosh]] — Utilizam metáforas analógicas (lixeiras, disquetes, pastas de manila) para que o usuário compreendesse comandos virtuais de arquivos.
+- Ícones do Macintosh — Utilizam metáforas analógicas (lixeiras, disquetes, pastas de manila) para que o usuário compreendesse comandos virtuais de arquivos.
 
 ## Variáveis relacionadas
 
@@ -30,4 +30,4 @@ Este conceito opera associado ou impacta as seguintes variáveis de design:
 - **Nome do conceito**: Esqueuomorfismo
 - **Área principal**: IHC / Design de Interface
 - **Definição**: Filosofia de design que adota metáforas e texturas do ambiente mecânico real para facilitar a descoberta de comandos em sistemas virtuais.
-- **Artefatos chave explicados**: [[Slide to Unlock|Slide to Unlock]], [[03 artefatos/Icones do Macintosh|Ícones do Macintosh]]
+- **Artefatos chave explicados**: [[Slide to Unlock|Slide to Unlock]], Ícones do Macintosh

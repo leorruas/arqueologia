@@ -21,7 +21,7 @@ A Haas Type Foundry (Haas'sche Schriftgiesserei) foi uma das fundições de tipo
 
 ## Projetos emblemáticos e produtos históricos
 - [[03 artefatos/Helvetica|Neue Haas Grotesk]] (1957): Fonte sem serifa clássica projetada por Max Miedinger com a direção artística de Eduard Hoffmann, rebatizada posteriormente pela Linotype em 1960 como Helvetica.
-- [[03 artefatos/Clarendon|Clarendon]] (Redesenho de 1953): Nova versão do clássico tipo de serifa grossa (slab serif), adaptada pela Haas sob a direção de Hermann Eidenbenz para a composição mecânica.
+- Clarendon (Redesenho de 1953): Nova versão do clássico tipo de serifa grossa (slab serif), adaptada pela Haas sob a direção de Hermann Eidenbenz para a composição mecânica.
 
 ## Designers notáveis associados
 - **Max Miedinger** — Tipógrafo suíço e criador físico dos desenhos originais da Helvetica.

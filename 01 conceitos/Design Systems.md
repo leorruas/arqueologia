@@ -15,7 +15,7 @@ O conceito de **Design Systems** estuda a estruturação de bibliotecas modulare
 Este conceito/princípio se manifesta e ajuda a compreender a lógica operacional dos seguintes artefatos:
 
 - [[Grid|Grid]] — É a raiz conceitual histórica de todos os Design Systems modernos, ao criar uma estrutura geométrica de colunas para unificar a diagramação de diferentes páginas por equipes grandes.
-- [[03 artefatos/Icones do Macintosh|Ícones do Macintosh]] — Funcionaram como uma das primeiras bibliotecas nativas de componentes e símbolos gráficos sistêmicos e consistentes em computação pessoal comercial.
+- Ícones do Macintosh — Funcionaram como uma das primeiras bibliotecas nativas de componentes e símbolos gráficos sistêmicos e consistentes em computação pessoal comercial.
 
 ## Variáveis relacionadas
 
@@ -30,4 +30,4 @@ Este conceito opera associado ou impacta as seguintes variáveis de design:
 - **Nome do conceito**: Design Systems
 - **Área principal**: IHC / Design Gráfico / Engenharia de Software
 - **Definição**: O desenvolvimento sistemático de componentes, padrões e regras visuais integradas para gerenciar e unificar layouts.
-- **Artefatos chave explicados**: [[Grid|Grid]], [[03 artefatos/Icones do Macintosh|Ícones do Macintosh]]
+- **Artefatos chave explicados**: [[Grid|Grid]], Ícones do Macintosh

@@ -25,7 +25,7 @@ O Brief (ou Briefing) é um artefato de coordenação e contexto que sintetiza r
 - **Ampliação de Capacidade**: Amplia a comunicação entre clientes e equipes técnicas criativas, alinhando expectativas.
 - **Enfraquecimento de Capacidade**: Enfraquece o retrabalho provocado por falhas primárias de comunicação de escopo.
 - **Comportamento Coletivo**: Não especificado
-- **Linhagem e Descendência**: [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/escopo|escopo]], [[03 artefatos/termo de abertura|termo de abertura]], [[03 artefatos/Problema de Design|Problema de Design]]
+- **Linhagem e Descendência**: [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], escopo, termo de abertura, [[03 artefatos/Problema de Design|Problema de Design]]
 - **Custo Invisível**: Tempo e esforço para coletar e estruturar dados realistas antes do início prático do projeto.
 - **O que ele simplifica**: A formalização de requisitos e limitações operacionais.
 - **O que ele esconde**: As tensões políticas e disputas de prioridade internas do cliente.
@@ -58,7 +58,7 @@ O Brief (ou Briefing) é um artefato de coordenação e contexto que sintetiza r
 - **Legado**: Não especificado
 - **Conceitos relacionados**: Não especificado
 - **Família de ideias**: Artefatos de Coordenação, Artefatos de Formulação.
-- **Parentes**: [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/escopo|escopo]], [[03 artefatos/termo de abertura|termo de abertura]], [[03 artefatos/Problema de Design|Problema de Design]]
+- **Parentes**: [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], escopo, termo de abertura, [[03 artefatos/Problema de Design|Problema de Design]]
 - **Hipótese central**: O alinhamento inicial de restrições e metas é indispensável para a eficácia do trabalho criativo terceirizado.
 - **Princípio de design revelado**: Restrições claras ampliam o foco criativo.
 - **Destino do artefato**: Infraestrutura metodológica universal em agências de publicidade, estúdios de design e consultorias.
