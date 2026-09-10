@@ -14,3 +14,6 @@ status: "ativo"
 > 1. [[me|me.md]]: fonte principal de governança, arquitetura e workflows do vault.
 > 2. [[Instrucoes de Arqueologia|Instruções de arqueologia]]: método de investigação, regimes de afirmação e modos de análise.
 > 3. [[Guia de escrita|Guia de escrita]]: padrão editorial, sentence case em português do Brasil, ritmo de leitura, uso de fontes e regras de revisão.
+
+> [!WARNING]
+> Criar ou revisar materialmente um artigo sem executar o [[Instrucoes de Arqueologia#Protocolo de propagação|Protocolo de propagação]] é uma operação incompleta. Antes de encerrar, o agente deve verificar e atualizar, quando couber, tipos de design, conceitos, variáveis, artefatos relacionados, genealogias, percursos, autores, empresas, livros, índices, vínculos recíprocos e `log.md`.
