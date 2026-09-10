@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-10T23:24:37.683Z",
+  "generatedAt": "2026-09-10T23:25:08.861Z",
   "scope": "Integração do grafo: índices, home, reciprocidade estrutural, tipos de design e nós órfãos. Conceitos e variáveis não exigem backlink exaustivo.",
-  "issueCount": 31,
+  "issueCount": 29,
   "countsByKind": {
     "missing-from-index": 1,
-    "missing-reciprocal-link": 27,
+    "missing-reciprocal-link": 26,
     "orphan-node": 1,
-    "design-type-drift": 2
+    "design-type-drift": 1
   },
   "issues": [
     {
@@ -86,12 +86,6 @@
       "sourcePath": "03 artefatos/Grid.md",
       "targetPath": "04 genealogias/Coordenacao e Sincronizacao.md",
       "detail": "A ficha liga para 04 genealogias/Coordenacao e Sincronizacao.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "missing-reciprocal-link",
-      "sourcePath": "03 artefatos/Helvetica.md",
-      "targetPath": "00 tipos de design/Tipografia.md",
-      "detail": "A ficha liga para 00 tipos de design/Tipografia.md, mas a nota relacionada não devolve o vínculo."
     },
     {
       "kind": "missing-reciprocal-link",
@@ -186,12 +180,6 @@
     {
       "kind": "design-type-drift",
       "sourcePath": "03 artefatos/Espaço entre Palavras.md",
-      "targetPath": "00 tipos de design/Tipografia.md",
-      "detail": "Artefato declara 00 tipos de design/Tipografia.md, mas o tipo de design não o referencia."
-    },
-    {
-      "kind": "design-type-drift",
-      "sourcePath": "03 artefatos/Helvetica.md",
       "targetPath": "00 tipos de design/Tipografia.md",
       "detail": "Artefato declara 00 tipos de design/Tipografia.md, mas o tipo de design não o referencia."
     }
