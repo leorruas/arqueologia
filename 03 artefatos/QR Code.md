@@ -64,7 +64,7 @@ Isso cria uma tensão peculiar para o design gráfico. Em uma imagem convenciona
 
 Customizar um QR Code é, portanto, negociar com sua capacidade de sobreviver ao ruído.
 
-Essa propriedade produz uma pista para outra escavação: QR Codes artísticos ou generativos que tentam ser simultaneamente uma matriz legível por máquinas e uma imagem reconhecível por humanos. Nesse caso, o conflito entre os dois destinatários da superfície deixa de ser incidental e vira o próprio problema de projeto. Ver [[00 inbox/Pistas#QR Code artístico ou generativo|QR Code artístico ou generativo]].
+Essa propriedade produz uma pista para outra escavação: QR Codes artísticos ou generativos que tentam ser simultaneamente uma matriz legível por máquinas e uma imagem reconhecível por humanos. Nesse caso, o conflito entre os dois destinatários da superfície deixa de ser incidental e vira o próprio problema de projeto. Ver QR Code artístico ou generativo.
 
 ## O poder escondido na passagem
 
