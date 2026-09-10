@@ -25,11 +25,13 @@ Mais tarde, sistemas desenvolvidos no [[empresas/Xerox PARC|Xerox PARC]], como o
 
 O [[03 artefatos/Cursor|Cursor]] é quase a miniatura perfeita dessa passagem. Ele torna visível onde a próxima ação pode acontecer. Algo que poderia permanecer como estado interno da máquina ganha presença espacial compartilhada com o usuário.
 
+Os [[03 artefatos/Atalhos de Teclado|atalhos de teclado]] mostram uma tensão complementar. Depois que uma ação já foi aprendida, o usuário pode preferir retirar da superfície parte da navegação visível e comprimir vários passos em uma sequência motora curta. A mesma interface que ajuda iniciantes por reconhecimento pode oferecer aos usuários experientes caminhos baseados em memória.
+
 ## A interface transforma estados invisíveis em sinais
 
 Sistemas digitais estão cheios de estados que não possuem existência física evidente. Um arquivo pode estar salvo, selecionado, arquivado, sincronizado ou bloqueado sem mudar de matéria. A interface precisa dar forma perceptível a essas diferenças.
 
-O [[03 artefatos/Botao Salvar|Botão salvar]] materializa a passagem entre trabalho temporário e persistência. [[03 artefatos/Undo|Undo]] transforma história recente em possibilidade de retorno. [[03 artefatos/Login|Login]] estabelece uma operação de autenticação; a [[03 artefatos/Tela de Login|Tela de login]] transforma essa regra lógica em uma cena reconhecível de passagem. [[03 artefatos/Archive|Archive]] permite que algo deixe o primeiro plano sem deixar de existir.
+O [[03 artefatos/Botao Salvar|Botão salvar]] materializa a passagem entre trabalho temporário e persistência. [[03 artefatos/Undo|Undo]] transforma história recente em possibilidade de retorno. [[03 artefatos/Undo Send|Undo Send]] explicita que essa reversibilidade pode ser parcial: muitas vezes o sistema não recupera algo já enviado, apenas cria uma pequena janela antes que o envio se torne efetivo. [[03 artefatos/Login|Login]] estabelece uma operação de autenticação; a [[03 artefatos/Tela de Login|Tela de login]] transforma essa regra lógica em uma cena reconhecível de passagem. [[03 artefatos/Archive|Archive]] permite que algo deixe o primeiro plano sem deixar de existir.
 
 Esses artefatos mostram que interface é também **design de estados legíveis**. O usuário não precisa conhecer bits, processos ou bancos de dados; precisa reconhecer sinais suficientes para decidir o próximo gesto.
 
@@ -48,6 +50,12 @@ Esses gestos parecem “intuitivos” depois de aprendidos, mas isso não signif
 Aqui aparece uma tensão recorrente do campo: reduzir controles visíveis pode diminuir ruído e, ao mesmo tempo, aumentar dependência de conhecimento aprendido. Uma interface “limpa” pode exigir que o usuário saiba que puxar, pinçar ou deslizar têm significado oculto.
 
 O design de interface administra, portanto, um equilíbrio entre **mostrar possibilidades e preservar espaço**, entre ensinar e pressupor.
+
+## A entrada também é uma decisão de interface
+
+A [[03 artefatos/Hero Section|hero section]] mostra que a interface começa antes do primeiro comando. A parte inicial de uma página organiza atenção, contexto e expectativa para que a pessoa reconheça onde chegou e o que pode fazer. Seu parentesco com telas de login e outros limiares é menos técnico do que semiótico: todos precisam transformar chegada em orientação suficiente para a próxima ação.
+
+Isso aproxima interface de design gráfico. Hierarquia, escala e composição não servem apenas para embelezar uma superfície, mas para reduzir o custo de descobrir o que aquela superfície espera do usuário.
 
 ## A linguagem natural reabre o problema da interface
 
@@ -73,7 +81,7 @@ Essa questão atravessa [[01 conceitos/Manipulacao Direta|manipulação direta]]
 
 ## Leituras no vault
 
-Para observar a passagem de comando para ação visível, leia [[03 artefatos/Cursor|Cursor]], [[03 artefatos/Undo|Undo]] e [[03 artefatos/Botao Salvar|Botão salvar]]. Para interfaces gestuais, [[03 artefatos/Pinch to Zoom|Pinch to Zoom]], [[03 artefatos/Slide to Unlock|Slide to Unlock]] e [[03 artefatos/Pull to Refresh|Pull to Refresh]] mostram como convenções podem desaparecer dentro do corpo.
+Para observar a passagem de comando para ação visível, leia [[03 artefatos/Cursor|Cursor]], [[03 artefatos/Atalhos de Teclado|atalhos de teclado]], [[03 artefatos/Undo|Undo]], [[03 artefatos/Undo Send|Undo Send]] e [[03 artefatos/Botao Salvar|Botão salvar]]. Para interfaces gestuais, [[03 artefatos/Pinch to Zoom|Pinch to Zoom]], [[03 artefatos/Slide to Unlock|Slide to Unlock]] e [[03 artefatos/Pull to Refresh|Pull to Refresh]] mostram como convenções podem desaparecer dentro do corpo. [[03 artefatos/Hero Section|Hero section]] ajuda a observar a interface como limiar e enquadramento antes da ação.
 
 [[03 artefatos/Prompt Conversacional|Prompt conversacional]] e [[05 percursos/Da Parede ao Interlocutor|Da parede ao interlocutor]] ajudam a enxergar a mudança atual de superfície operável para superfície que parece interlocutora. [[04 genealogias/Reversibilidade e Custo do Erro|Reversibilidade e custo do erro]] e [[04 genealogias/Limiares e Delimitacao|Limiares e delimitação]] mostram duas famílias de problemas que atravessam a história da interface sem depender de uma tecnologia específica.
 
