@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T23:33:45.552Z",
+  "generatedAt": "2026-09-10T23:34:49.606Z",
   "rule": "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
   "typeDesignRule": "Tipos de design devem funcionar como ensaios disciplinares. Headings do template atual são permitidos; permanecem suspeitos apenas headings enciclopédicos legados.",
   "pathRule": "Percursos devem funcionar como argumentos de leitura e não usar sequência numerada de resumos de artefatos.",
@@ -353,79 +353,9 @@
   "legacyVariableFiles": [],
   "variableMetadataMissingCount": 0,
   "variableMetadataMissingFiles": [],
-  "legacyPathStructureCount": 23,
-  "legacyPathFileCount": 4,
+  "legacyPathStructureCount": 11,
+  "legacyPathFileCount": 2,
   "legacyPathFiles": [
-    {
-      "sourcePath": "05 percursos/Como Projetamos Fronteiras.md",
-      "items": [
-        {
-          "sourcePath": "05 percursos/Como Projetamos Fronteiras.md",
-          "line": 14,
-          "text": "1. [[03 artefatos/Tapete|Tapete]]"
-        },
-        {
-          "sourcePath": "05 percursos/Como Projetamos Fronteiras.md",
-          "line": 18,
-          "text": "2. [[03 artefatos/Crachá|Crachá]]"
-        },
-        {
-          "sourcePath": "05 percursos/Como Projetamos Fronteiras.md",
-          "line": 22,
-          "text": "3. [[03 artefatos/Login|Login]]"
-        },
-        {
-          "sourcePath": "05 percursos/Como Projetamos Fronteiras.md",
-          "line": 26,
-          "text": "4. [[03 artefatos/Tela de Login|Tela de Login]]"
-        },
-        {
-          "sourcePath": "05 percursos/Como Projetamos Fronteiras.md",
-          "line": 30,
-          "text": "5. [[03 artefatos/Slide to Unlock|Slide to Unlock]]"
-        },
-        {
-          "sourcePath": "05 percursos/Como Projetamos Fronteiras.md",
-          "line": 34,
-          "text": "O fio que une o percurso"
-        }
-      ]
-    },
-    {
-      "sourcePath": "05 percursos/Da Espera a Sincronizacao.md",
-      "items": [
-        {
-          "sourcePath": "05 percursos/Da Espera a Sincronizacao.md",
-          "line": 14,
-          "text": "1. [[03 artefatos/Calendário|Calendário]]"
-        },
-        {
-          "sourcePath": "05 percursos/Da Espera a Sincronizacao.md",
-          "line": 18,
-          "text": "2. [[03 artefatos/Fila|Fila]]"
-        },
-        {
-          "sourcePath": "05 percursos/Da Espera a Sincronizacao.md",
-          "line": 22,
-          "text": "3. [[03 artefatos/Agendamento|Agendamento]]"
-        },
-        {
-          "sourcePath": "05 percursos/Da Espera a Sincronizacao.md",
-          "line": 26,
-          "text": "4. [[03 artefatos/Cartao de Embarque|Cartão de Embarque]]"
-        },
-        {
-          "sourcePath": "05 percursos/Da Espera a Sincronizacao.md",
-          "line": 30,
-          "text": "5. [[03 artefatos/Kanban|Kanban]]"
-        },
-        {
-          "sourcePath": "05 percursos/Da Espera a Sincronizacao.md",
-          "line": 34,
-          "text": "O fio que une o percurso"
-        }
-      ]
-    },
     {
       "sourcePath": "05 percursos/Da Parede ao Feed.md",
       "items": [
