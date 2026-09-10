@@ -9,121 +9,59 @@ tags:
 
 # {{title}}
 
-[Abra com uma cena, tensão ou problema concreto. Evite começar pela ficha técnica. Em poucas linhas, mostre por que este artefato merece ser investigado.]
+[Abra com uma cena, tensão, gesto ou problema concreto. O primeiro movimento deve criar uma pergunta, não apresentar uma ficha ou definição enciclopédica.]
 
-## O problema antes do artefato
+[Desenvolva o estudo como uma investigação contínua. Use de três a cinco seções editoriais com títulos próprios em sentence case. Os títulos devem avançar o argumento, não nomear campos metodológicos. Evite transformar “problema”, “hipótese”, “poder”, “legado”, “invenção”, “refinamento”, “popularização” e “padronização” em subtítulos automáticos. Essas dimensões continuam obrigatórias quando relevantes, mas devem aparecer dentro da narrativa.]
 
-[Que dificuldade, custo, risco, limite ou problema de coordenação existia? Como as pessoas lidavam com isso antes?]
+## [Título editorial que revela a primeira mudança]
 
-## As tentativas e alternativas
+[Reconstrua o mundo anterior ao artefato, as soluções existentes e o problema que ainda permanecia. Quando houver afirmação histórica material, coloque a nota de referência junto da frase.[^1]]
 
-[Que soluções anteriores ou contemporâneas existiam? Houve caminhos concorrentes? O que cada um pressupunha?]
+[Mostre a primeira solução identificável e diferencie invenção de refinamento. Quando houver disputa de autoria ou evidência insuficiente, explicite a incerteza.]
 
-## História documentada
+## [Título editorial que revela por que a solução funcionou]
 
-[Reconstrua apenas o que pode ser sustentado historicamente: contexto, produtos, decisões, datas aproximadas, pessoas e equipes. Quando houver incerteza ou disputa de autoria, explicite-a.]
+[Explique a mudança de design com exemplos concretos. Compare alternativas contemporâneas quando isso ajudar a entender por que uma solução venceu, desapareceu ou mudou de função.]
 
-### Invenção
+[Integre a hipótese sobre comportamento humano à narrativa. Discuta também quem ganhou ou perdeu capacidade de agir, decidir, acessar, interpretar, controlar ou evitar erros.]
 
-[Primeira formulação ou implementação identificável.]
+## [Título editorial que revela a transformação posterior]
 
-### Refinamento
+[Mostre popularização e padronização sem assumir que quem inventou foi quem mudou a história. Explore novos hábitos, consequências inesperadas, descendentes e o destino atual do artefato.]
 
-[Quem mudou a solução de modo importante? O que foi alterado?]
+[Conecte parentes históricos, funcionais, semióticos ou comportamentais em prosa. Quando a relação for apenas uma hipótese comparativa do projeto, diga isso explicitamente.]
 
-### Popularização
+[Termine a narrativa com uma pergunta ou tensão que permaneça produtiva.]
 
-[Quem colocou a ideia diante de muita gente? Em que produto, serviço, mídia ou contexto?]
+## Ficha arqueológica
 
-### Padronização
+| Campo | Registro |
+|---|---|
+| **Artefato** | {{title}} |
+| **Período** | [Ano, década ou intervalo aproximado] |
+| **Autoria** | [Pessoa, equipe ou atribuição distribuída, com ressalvas] |
+| **Produto ou contexto** | [Produto, serviço, sistema, mídia ou ambiente] |
+| **Problema original** | [Problema] |
+| **Mundo antes** | [Prática ou solução anterior] |
+| **Invenção** | [Primeira formulação ou implementação identificável] |
+| **Refinamento** | [Mudanças relevantes] |
+| **Popularização** | [Quem ampliou a exposição ou o uso] |
+| **Padronização** | [Como virou convenção, expectativa ou norma] |
+| **Hipótese de design** | [Pressuposto sobre comportamento humano] |
+| **Comportamento aproveitado** | [Comportamento preexistente] |
+| **Comportamento produzido** | [Novo hábito ou expectativa] |
+| **Relação de poder** | [O que redistribui entre pessoas, instituições e sistemas] |
+| **Consequências inesperadas** | [Efeitos posteriores] |
+| **Destino ou transformação posterior** | [Desapareceu, foi incorporado, automatizado, coexiste etc.] |
+| **Conceitos relacionados** | [[01 conceitos/|Conceito]] |
+| **Variáveis relacionadas** | [[02 variaveis/|Variável]] |
+| **Genealogia** | [[04 genealogias/|Genealogia]] |
+| **Parentes** | [[03 artefatos/|Artefato relacionado]] |
+| **Princípio de design revelado** | [Princípio] |
+| **Questão em aberto** | [Pergunta futura] |
 
-[Quando a solução deixou de parecer excepcional e passou a ser esperada? Houve normas, plataformas ou convenções que a consolidaram?]
+## Referências
 
-## Leitura arqueológica
+[^1]: [Fonte histórica, primária, teórica ou comparativa. Inclua informação suficiente para identificar a obra ou documentação e, quando possível, URL ou localização precisa.]
 
-### Problema
-
-[Qual problema de comportamento ou coordenação o artefato reorganiza?]
-
-### Hipótese sobre o comportamento humano
-
-[Que pressuposto parece embutido na forma do artefato? Exemplo: humanos esquecem; evitam decisões custosas; respondem a fronteiras; precisam de sinais de progresso. Trate como interpretação quando a intenção do criador não estiver documentada.]
-
-### Poder
-
-[Quem ganha capacidade de agir, decidir, monitorar, excluir, distribuir ou interpretar? Quem perde? O que passa a ser visível ou invisível?]
-
-### Legado
-
-[Que novos hábitos, expectativas, produtos ou nichos esta solução tornou possíveis?]
-
-## Por que funcionou
-
-[Conecte forma, contexto, custo, ergonomia, psicologia, semiótica, economia ou infraestrutura. Evite explicações monocausais.]
-
-## Consequências inesperadas
-
-[Que problemas, dependências, ansiedades, novos custos ou usos não previstos apareceram?]
-
-## Parentes e descendentes
-
-Diferencie o tipo de relação sempre que necessário:
-
-- **Histórica/documentada**: [[03 artefatos/|Artefato]]: [evidência de influência ou descendência]
-- **Funcional**: [[03 artefatos/|Artefato]]: [resolve problema semelhante]
-- **Semiótica**: [[03 artefatos/|Artefato]]: [usa linguagem ou signo semelhante]
-- **Comportamental**: [[03 artefatos/|Artefato]]: [explora o mesmo comportamento]
-- **Hipótese comparativa**: [[03 artefatos/|Artefato]]: [parentesco proposto pelo projeto]
-
-## Hipóteses em aberto
-
-[Liste relações ou perguntas promissoras que ainda exigem pesquisa. Aqui a especulação é bem-vinda desde que esteja claramente marcada.]
-
-## Fontes
-
-### Fontes históricas
-
-[Fontes para autoria, datas, produto, difusão e contexto.]
-
-### Fontes teóricas
-
-[Fontes usadas para interpretar comportamento, cognição, poder ou cultura.]
-
-## Ficha Técnica
-
-- **Criador(es)**: [Pessoa/equipe, com ressalvas quando necessário]
-- **Organização/contexto**: [Empresa, instituição, estúdio ou ambiente]
-- **Período**: [Ano/década]
-- **Materiais/mídia**: [material, papel, código, interface, processo etc.]
-- **Tipo(s) de design**: [[00 tipos de design/|Tipo de Design]]
-- **Status da atribuição histórica**: [documentada / disputada / aproximada]
-
-### Ficha Resumo
-
-- **Nome do artefato**: {{title}}
-- **Categoria**: [Interface, produto, serviço, tipografia, documento, gesto etc.]
-- **Período aproximado**: [Década/Ano]
-- **Pessoas ou equipes envolvidas**: [Pessoas/equipes]
-- **Produto ou contexto onde apareceu**: [Produto/Contexto]
-- **Problema original**: [Problema]
-- **Mundo antes da inovação**: [Prática anterior]
-- **Invenção**: [Quem/o quê]
-- **Refinamento**: [Quem/o quê]
-- **Popularização**: [Quem/o quê]
-- **Padronização**: [Quem/o quê]
-- **Hipótese sobre o comportamento humano**: [Interpretação]
-- **Relação de poder**: [Quem é fortalecido/enfraquecido]
-- **Comportamento aproveitado**: [Comportamento preexistente]
-- **Comportamento criado**: [Novo hábito/expectativa]
-- **Por que funcionou**: [Fatores principais]
-- **Consequências inesperadas**: [Efeitos colaterais]
-- **Legado**: [Influência]
-- **Conceitos relacionados**: [[01 conceitos/|Conceito 1]], [[01 conceitos/|Conceito 2]]
-- **Variáveis relacionadas**: [[02 variaveis/|Variável 1]], [[02 variaveis/|Variável 2]]
-- **Genealogias**: [[04 genealogias/|Genealogia]]
-- **Família de ideias**: [Nome curto]
-- **Parentes**: [[03 artefatos/|Parente 1]], [[03 artefatos/|Parente 2]]
-- **Hipótese central**: [Interpretação principal do projeto]
-- **Princípio de design revelado**: [Princípio]
-- **Destino do artefato**: [Desapareceu, incorporado, coexiste, mudou de função etc.]
-- **Perguntas em aberto**: [Questões futuras]
+[Use notas junto das afirmações que dependem de evidência. A seção final reúne as referências completas. Não inclua fontes decorativas nem use uma obra teórica para provar um fato histórico que ela não documenta.]
