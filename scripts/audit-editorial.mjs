@@ -48,6 +48,8 @@ const camposFichaArtefato = [
   "Período",
   "Autoria",
   "Produto ou contexto",
+  "Tipo(s) de design",
+  "Empresas ou instituições relacionadas",
   "Problema original",
   "Mundo antes",
   "Invenção",
@@ -63,7 +65,9 @@ const camposFichaArtefato = [
   "Conceitos relacionados",
   "Variáveis relacionadas",
   "Genealogia",
+  "Percurso(s)",
   "Parentes",
+  "Leituras-chave",
   "Princípio de design revelado",
   "Questão em aberto"
 ];
@@ -243,7 +247,7 @@ const legadosVariavelPorArquivo = agruparPorArquivo(estruturasLegadasVariavel);
 const relatorio = {
   generatedAt: new Date().toISOString(),
   rule: "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
-  artifactSheetRule: "Cada artefato deve conter uma única Ficha arqueológica em tabela Campo/Registro com os 22 campos definidos no template atual.",
+  artifactSheetRule: "Cada artefato deve conter uma única Ficha arqueológica em tabela Campo/Registro com os 26 campos definidos no template atual.",
   candidateCount: candidatos.length,
   fileCount: porArquivo.size,
   files: [...porArquivo.entries()].map(([sourcePath, items]) => ({ sourcePath, items })),
