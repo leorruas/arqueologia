@@ -20,7 +20,7 @@ O baú cria uma unidade nova. Antes havia muitos objetos dispersos. Depois exist
 
 Não existe um inventor identificável do baú. Recipientes com tampa aparecem em tradições materiais muito diferentes e em períodos muito anteriores à história moderna do mobiliário. O que podemos documentar são formas específicas e usos particulares, não uma origem única.
 
-No Japão, por exemplo, o Metropolitan Museum of Art registra o *karabitsu*, um baú retangular elevado sobre quatro pernas, usado desde o período Nara, entre os séculos VIII e VIII, como repositório de objetos preciosos. O próprio museu ressalta que a origem da forma é obscura.[^1]
+No Japão, por exemplo, o Metropolitan Museum of Art registra o *karabitsu*, um baú retangular elevado sobre quatro pernas, usado desde o período Nara, no século VIII, como repositório de objetos preciosos. O próprio museu ressalta que a origem da forma é obscura.[^1]
 
 Na Europa medieval e renascentista, baús tiveram função importante como mobiliário de armazenamento. Exemplares preservados mostram roupas, tecidos, documentos e objetos de valor guardados em estruturas que podiam ser simultaneamente utilitárias, decorativas e simbólicas.[^2]
 
@@ -60,7 +60,7 @@ O [[03 artefatos/Bolso|bolso]] faz essa operação em escala corporal. O baú fa
 
 O baú tem um limite evidente: ele organiza muito bem a oposição **dentro / fora**, mas pouco diz sobre a posição relativa das coisas no interior.
 
-Esse limite ajuda a entender artefatos posteriores. Gavetas, estantes, guarda-roupas e arquivos subdividem o espaço. Eles não apenas contêm; começam a produzir categorias espaciais.
+Esse limite ajuda a entender artefatos posteriores. Gavetas, estantes, [[03 artefatos/Guarda-roupa|guarda-roupas]] e arquivos subdividem o espaço. Eles não apenas contêm; começam a produzir categorias espaciais.
 
 Há uma passagem de design importante aqui:
 
@@ -71,7 +71,7 @@ O baú, portanto, pode ser visto como uma tecnologia elementar de armazenamento 
 
 Mas essa separação também produz poder. Quem controla a tampa, a chave ou o lugar do recipiente controla parte do acesso ao conteúdo. Em baús de casamento, cofres domésticos, caixas de trabalhadores ou recipientes de viagem, guardar pode significar preservar propriedade — e também estabelecer quem pode ou não alcançar aquilo que foi preservado.
 
-É aí que o baú começa a se aproximar do cofre. A diferença não é apenas material. **O baú pergunta onde guardar; o cofre pergunta quem poderá abrir e contra quais ameaças o conteúdo precisa sobreviver.**
+É aí que o baú começa a se aproximar do [[03 artefatos/Cofre|cofre]]. A diferença não é apenas material. **O baú pergunta onde guardar; o cofre pergunta quem poderá abrir e contra quais ameaças o conteúdo precisa sobreviver.**
 
 ## Ficha arqueológica
 
@@ -96,7 +96,7 @@ Mas essa separação também produz poder. Quem controla a tampa, a chave ou o l
 | **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Tecnologias de Delimitacao|Tecnologias de delimitação]], [[01 conceitos/Continuidade de Acesso|Continuidade de acesso]] |
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Custo Transacional|Custo transacional]] |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]]; relação parcial com [[04 genealogias/Portabilidade e Desancoragem|Portabilidade e desancoragem]] |
-| **Parentes** | [[03 artefatos/Bolso|Bolso]], [[03 artefatos/Archive|Archive]]; cofre, mala, armário e gaveta como parentes ainda sem estudo próprio |
+| **Parentes** | [[03 artefatos/Bolso|Bolso]], [[03 artefatos/Cofre|Cofre]], [[03 artefatos/Guarda-roupa|Guarda-roupa]], [[03 artefatos/Archive|Archive]]; mala e gaveta como parentes ainda sem estudo próprio |
 | **Princípio de design revelado** | Antes de classificar ou buscar, o design pode reduzir dispersão criando uma fronteira que transforma muitos objetos em um conjunto recuperável |
 | **Questão em aberto** | Em que momento guardar deixa de ser principalmente conter e passa a exigir sistemas explícitos de classificação e busca? |
 
