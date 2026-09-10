@@ -25,6 +25,8 @@ O mesmo mecanismo pode aparecer em serviços. Um aplicativo bancário não inven
 
 A genealogia [[04 genealogias/Acesso e Disponibilidade|Acesso e disponibilidade]] amplia essa comparação. O interesse não está em dizer que uma garrafa “é como um aplicativo”, mas em observar uma operação recorrente: **infraestruturas fixas podem ser parcialmente transformadas em disponibilidade portátil ou contínua**.
 
+A genealogia [[04 genealogias/Portabilidade e Desancoragem|Portabilidade e desancoragem]] permite fazer uma distinção adicional. Continuidade de acesso é o efeito mais amplo: diminuir interrupções entre pessoa e recurso. Portabilidade é apenas uma das estratégias possíveis para produzi-lo. Uma garrafa leva o recurso consigo; um bolso ou mochila leva objetos; já um arquivo em nuvem pode continuar acessível justamente porque **não precisa viajar fisicamente com a pessoa**. Nesse caso, o que se torna portátil é a condição de acesso.
+
 ## Continuidade não significa permanência
 
 O conceito se aproxima de [[02 variaveis/Permanencia|Permanência]], mas não é a mesma coisa.
@@ -64,12 +66,12 @@ O conceito serve justamente para perceber que disponibilidade também é uma dec
 | **Grau de consolidação** | Experimental |
 | **Formulação associada a** | Arqueologia do Design |
 | **Área principal** | Design de serviços / IHC / design de produto |
-| **Distinção central** | Permanecer existente não é o mesmo que permanecer facilmente acessível |
+| **Distinção central** | Permanecer existente não é o mesmo que permanecer facilmente acessível; portabilidade é uma estratégia possível para produzir continuidade, não seu sinônimo |
 | **O que ajuda a explicar** | Como artefatos reduzem interrupções espaciais, temporais ou operacionais entre intenção e recurso |
 | **O que não explica sozinho** | Qualidade do recurso, justiça de acesso ou conveniência de disponibilidade permanente |
 | **Artefatos-chave** | [[03 artefatos/Garrafa de Agua|Garrafa de água]], [[03 artefatos/Archive|Archive]], [[03 artefatos/Infinite Scroll|Infinite Scroll]] |
 | **Variáveis relacionadas** | [[02 variaveis/Expectativa de Disponibilidade|Expectativa de disponibilidade]], [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Permanencia|Permanência]] |
-| **Genealogias relacionadas** | [[04 genealogias/Acesso e Disponibilidade|Acesso e disponibilidade]] |
+| **Genealogias relacionadas** | [[04 genealogias/Acesso e Disponibilidade|Acesso e disponibilidade]], [[04 genealogias/Portabilidade e Desancoragem|Portabilidade e desancoragem]] |
 
 ## Referências
 
