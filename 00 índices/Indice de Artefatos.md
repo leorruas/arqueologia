@@ -13,6 +13,9 @@ Este índice organiza estudos publicados por campo de design. A classificação 
 - [[03 artefatos/Bolso|Bolso]]: armazenamento acoplado ao corpo e infraestrutura cotidiana de portabilidade.
 - [[03 artefatos/Baú|Baú]]: contenção física que transforma objetos dispersos em um conjunto guardado.
 - [[03 artefatos/Cofre|Cofre]]: armazenamento que incorpora resistência, exclusão e condições de acesso.
+- [[03 artefatos/Guarda-roupa|Guarda-roupa]]: armazenamento que transforma contenção em classificação espacial recuperável.
+- [[03 artefatos/Mochila|Mochila]]: portabilidade criada pela distribuição da carga sobre o corpo.
+- [[03 artefatos/Carteira|Carteira]]: recipiente que concentra valor, identidade e credenciais portáteis.
 - [[03 artefatos/Garrafa de Agua|Garrafa de Água]]: acesso portátil à água.
 - [[03 artefatos/Tapete|Tapete]]: superfície de territorialização e limiar.
 - [[03 artefatos/Espelho|Espelho]]: superfície de auto-observação e feedback visual contínuo sobre o próprio corpo.
@@ -31,6 +34,7 @@ Este índice organiza estudos publicados por campo de design. A classificação 
 - [[03 artefatos/Manifesto|Manifesto]]: declaração pública que estabiliza intenção e posição.
 - [[03 artefatos/Assinatura|Assinatura]]: marca individual de autoria e autenticação.
 - [[03 artefatos/Mascote|Mascote]]: antropomorfização visual de organizações, produtos ou grupos.
+- [[03 artefatos/Diário|Diário]]: registro sequencial que transforma experiência passada em memória consultável e superfície de reflexão.
 
 ## Tipografia
 
@@ -69,6 +73,9 @@ Este índice organiza estudos publicados por campo de design. A classificação 
 
 ## Interfaces digitais e software
 
+- [[03 artefatos/App de tracking de gastos|App de tracking de gastos]]: registro financeiro automatizado que devolve comportamento passado como feedback.
+- [[03 artefatos/Banco de dados|Banco de dados]]: armazenamento que separa recuperação lógica de localização física.
+- [[03 artefatos/Arquivo em nuvem|Arquivo em nuvem]]: persistência remota que torna portátil a condição de acesso em vez do suporte físico.
 - [[03 artefatos/Login|Login]]: limiar lógico de autenticação em sistemas multiusuário.
 - [[03 artefatos/Tela de Login|Tela de Login]]: forma visual do limiar de autenticação.
 - [[03 artefatos/Atalhos de Teclado|Atalhos de Teclado]]: compressão motora de comandos recorrentes.
