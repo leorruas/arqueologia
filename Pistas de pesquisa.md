@@ -13,4 +13,4 @@ A presença aqui não obriga a criação de uma nota. Cada pista deve ser avalia
 
 ## Artefatos
 
-- **Pesquisa Quantitativa**: citado em `03 artefatos/Entrevista Qualitativa.md`
+- **Luminaria**: citado em `03 artefatos/Projetor.md`

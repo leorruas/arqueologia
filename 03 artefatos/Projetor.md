@@ -27,7 +27,7 @@ Nesse sentido, o projetor participa da invenção de um **público sincronizado*
 
 ## Luz como arquitetura temporária
 
-O projetor é parente da [[03 artefatos/Luminaria|luminária]] e da câmera fotográfica porque todos operam sobre luz e atenção, mas fazem operações diferentes.
+O projetor é parente da luminária e da câmera fotográfica porque todos operam sobre luz e atenção, mas fazem operações diferentes.
 
 A luminária seleciona uma parte do espaço tornando-a mais visível. A câmera transforma luz em registro. O projetor lança uma representação luminosa novamente sobre o espaço.
 

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-10T22:52:15.930Z",
+  "generatedAt": "2026-09-10T22:52:37.633Z",
   "rule": "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
   "artifactSheetRule": "Cada artefato deve conter uma única Ficha arqueológica em tabela Campo/Registro com os 22 campos definidos no template atual.",
-  "candidateCount": 29,
-  "fileCount": 22,
+  "candidateCount": 30,
+  "fileCount": 23,
   "files": [
     {
       "sourcePath": "00 índices/Indice de Autores.md",
@@ -190,6 +190,17 @@
           "sourcePath": "03 artefatos/Pinch to Zoom.md",
           "kind": "frontmatter-title",
           "text": "Pinch to Zoom"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Projetor.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Projetor.md",
+          "kind": "h2",
+          "line": 48,
+          "text": "Do cinema ao PowerPoint"
         }
       ]
     },
