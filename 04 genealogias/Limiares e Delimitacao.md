@@ -1,5 +1,5 @@
 ---
-title: "Limiares e Delimitação"
+title: "Limiares e delimitação"
 type: "genealogia"
 status: "publicado"
 tags:
@@ -7,7 +7,7 @@ tags:
   - arqueologia
 ---
 
-# Limiares e Delimitação
+# Limiares e delimitação
 
 Muitos artefatos existem para responder a uma pergunta simples: **onde uma situação termina e outra começa?** O design transforma fronteiras abstratas em sinais perceptíveis, rituais, superfícies ou verificações.
 

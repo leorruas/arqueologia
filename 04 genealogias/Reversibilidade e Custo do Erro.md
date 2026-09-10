@@ -1,5 +1,5 @@
 ---
-title: "Reversibilidade e Custo do Erro"
+title: "Reversibilidade e custo do erro"
 type: "genealogia"
 status: "publicado"
 tags:
@@ -7,7 +7,7 @@ tags:
   - arqueologia
 ---
 
-# Reversibilidade e Custo do Erro
+# Reversibilidade e custo do erro
 
 Um artefato pode tornar uma ação mais fácil sem torná-la mais segura. Outra família de soluções trabalha sobre um problema diferente: **o que acontece quando a pessoa muda de ideia, se engana ou ainda não sabe se a decisão é boa?**
 

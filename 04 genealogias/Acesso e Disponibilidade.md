@@ -1,5 +1,5 @@
 ---
-title: "Acesso e Disponibilidade"
+title: "Acesso e disponibilidade"
 type: "genealogia"
 status: "publicado"
 tags:
@@ -7,7 +7,7 @@ tags:
   - arqueologia
 ---
 
-# Acesso e Disponibilidade
+# Acesso e disponibilidade
 
 Uma parte importante do design consiste em mudar não o recurso em si, mas **o custo de alcançá-lo**. Água, atendimento, informação e conteúdo podem continuar essencialmente iguais enquanto o sistema que regula quando, onde e como chegam às pessoas muda por completo.
 

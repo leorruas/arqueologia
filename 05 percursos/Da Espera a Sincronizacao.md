@@ -1,5 +1,5 @@
 ---
-title: "Da Espera à Sincronização"
+title: "Da espera à sincronização"
 type: "percurso"
 status: "publicado"
 tags:
@@ -7,7 +7,7 @@ tags:
   - arqueologia
 ---
 
-# Da Espera à Sincronização
+# Da espera à sincronização
 
 Este percurso pergunta: **como grupos transformam disputa, tempo e dependência mútua em uma ordem que todos conseguem perceber?**
 

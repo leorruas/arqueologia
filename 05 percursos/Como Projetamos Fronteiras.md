@@ -1,5 +1,5 @@
 ---
-title: "Como Projetamos Fronteiras"
+title: "Como projetamos fronteiras"
 type: "percurso"
 status: "publicado"
 tags:
@@ -7,7 +7,7 @@ tags:
   - arqueologia
 ---
 
-# Como Projetamos Fronteiras
+# Como projetamos fronteiras
 
 Este percurso investiga uma pergunta: **como uma fronteira abstrata se torna perceptível o bastante para orientar comportamento?**
 
