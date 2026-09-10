@@ -1,0 +1,271 @@
+/* Camada editorial da Pages: índice relacional e refinamento do leitor. */
+
+.indice-acervo {
+  padding: 40px 0 8px;
+}
+
+.indice-acervo .section-title {
+  margin-bottom: 18px;
+}
+
+.indice-bloco {
+  margin-bottom: 42px;
+  border-top: 1px solid color-mix(in srgb, var(--text) 42%, transparent);
+}
+
+.indice-bloco-cabecalho {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 18px;
+  padding: 12px 0 10px;
+  border-bottom: 1px solid color-mix(in srgb, var(--text) 25%, transparent);
+}
+
+.indice-bloco-cabecalho h3 {
+  margin: 0;
+  color: var(--text);
+  font-size: .88rem;
+  font-weight: 650;
+  letter-spacing: .01em;
+  text-transform: lowercase;
+}
+
+.indice-contagem {
+  color: var(--muted);
+  font-size: .74rem;
+  text-transform: lowercase;
+}
+
+.indice-tipos {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.indice-tipo-card {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 18px;
+  align-items: baseline;
+  min-height: 68px;
+  padding: 16px 0;
+  border-bottom: 1px solid color-mix(in srgb, var(--text) 25%, transparent);
+  color: var(--text);
+  text-decoration: none;
+  transition: color .16s ease, padding-left .16s ease;
+}
+
+.indice-tipo-card:nth-child(odd) { padding-right: 34px; }
+.indice-tipo-card:nth-child(even) { padding-left: 34px; }
+.indice-tipo-card:hover,
+.indice-tipo-card:focus-visible {
+  padding-left: 8px;
+  color: var(--accent);
+  outline: none;
+}
+.indice-tipo-card:nth-child(odd):hover,
+.indice-tipo-card:nth-child(odd):focus-visible { padding-left: 8px; }
+
+.indice-tipo-card strong {
+  color: currentColor;
+  font-size: 1.15rem;
+  font-weight: 540;
+  letter-spacing: -.025em;
+  text-transform: lowercase;
+}
+
+.indice-tipo-card span {
+  color: var(--muted);
+  font-size: .76rem;
+  white-space: nowrap;
+}
+
+.indice-grupo {
+  display: grid;
+  grid-template-columns: minmax(165px, .48fr) minmax(0, 1.52fr);
+  gap: 28px;
+  padding: 18px 0 20px;
+  border-bottom: 1px solid color-mix(in srgb, var(--text) 25%, transparent);
+}
+
+.indice-grupo-titulo {
+  margin: 0;
+  font-size: .92rem;
+  font-weight: 650;
+  line-height: 1.2;
+}
+
+.indice-grupo-titulo a {
+  color: var(--accent);
+  text-decoration: none;
+  text-transform: lowercase;
+}
+.indice-grupo-titulo a:hover { color: var(--text); }
+
+.indice-artefatos-lista {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0 24px;
+}
+
+.indice-artefato-link {
+  display: block;
+  padding: 5px 0 6px;
+  border-bottom: 1px solid color-mix(in srgb, var(--text) 15%, transparent);
+  color: var(--text);
+  font-size: .88rem;
+  line-height: 1.25;
+  text-decoration: none;
+  text-transform: lowercase;
+  transition: color .15s ease, border-color .15s ease;
+}
+.indice-artefato-link:hover {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+/* Relações geradas a partir dos wikilinks do vault. */
+.relacoes-design {
+  max-width: 760px;
+  margin: 44px 0 8px;
+  padding-top: 14px;
+  border-top: 2px solid var(--accent);
+}
+
+.relacoes-design-cabecalho {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 20px;
+  margin-bottom: 10px;
+}
+
+.relacoes-design h3 {
+  margin: 0;
+  color: var(--accent);
+  font-size: .78rem;
+  font-weight: 700;
+  letter-spacing: .04em;
+  text-transform: lowercase;
+}
+
+.relacoes-design-cabecalho span {
+  color: var(--muted);
+  font-size: .72rem;
+}
+
+.relacoes-design-lista {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0 22px;
+}
+
+.relacoes-design a {
+  padding: 8px 0;
+  border-bottom: 1px solid color-mix(in srgb, var(--text) 18%, transparent);
+  color: var(--text);
+  font-size: .88rem;
+  line-height: 1.25;
+  text-decoration: none;
+  text-transform: lowercase;
+}
+.relacoes-design a:hover { color: var(--accent); }
+
+/* Hierarquia editorial do conteúdo. */
+#artigo-titulo {
+  max-width: 720px;
+  font-size: clamp(2.15rem, 4vw, 3rem);
+  line-height: .98;
+  margin-bottom: 26px;
+}
+
+.artigo-corpo h2 {
+  margin-top: 42px !important;
+  margin-bottom: 14px !important;
+  padding-bottom: 9px !important;
+  font-size: 1.55rem !important;
+  line-height: 1.08 !important;
+}
+
+.artigo-corpo h3 {
+  margin-top: 30px !important;
+  margin-bottom: 10px !important;
+  color: var(--text) !important;
+  font-size: 1.18rem !important;
+  font-weight: 650 !important;
+}
+
+.artigo-corpo h4 {
+  margin-top: 24px !important;
+  color: var(--muted) !important;
+  font-size: 1rem !important;
+  font-weight: 650 !important;
+}
+
+/* Listas: um único sistema de marcadores, inclusive em níveis aninhados. */
+.artigo-corpo ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0 0 18px;
+}
+
+.artigo-corpo ul > li {
+  position: relative;
+  padding-left: 17px;
+}
+
+.artigo-corpo ul > li::before {
+  content: "◆";
+  position: absolute;
+  left: 0;
+  top: .08em;
+  color: var(--accent);
+  font-size: .58em;
+  line-height: 2.25;
+}
+
+.artigo-corpo ul ul {
+  margin: 7px 0 2px;
+  padding-left: 16px;
+}
+
+.artigo-corpo ul ul > li::before {
+  content: "·";
+  top: -.03em;
+  font-size: 1em;
+  line-height: 1.55;
+}
+
+/* Quando um item funciona como título de um subgrupo, ele deixa de parecer bullet. */
+.artigo-corpo li.lista-grupo {
+  margin-top: 22px;
+  padding-left: 0;
+}
+.artigo-corpo li.lista-grupo::before { display: none; }
+.artigo-corpo li.lista-grupo > strong:first-child,
+.artigo-corpo li.lista-grupo > p:first-child > strong:first-child {
+  display: block;
+  padding-bottom: 7px;
+  border-bottom: 1px solid color-mix(in srgb, var(--text) 20%, transparent);
+  color: var(--text);
+  font-size: 1rem;
+  font-weight: 680;
+  line-height: 1.25;
+}
+.artigo-corpo li.lista-grupo > ul {
+  margin-top: 8px;
+  padding-left: 0;
+}
+
+body.viewing .indice-acervo,
+.indice-acervo.escondido { display: none !important; }
+
+@media (max-width: 760px) {
+  .indice-tipos { grid-template-columns: 1fr; }
+  .indice-tipo-card,
+  .indice-tipo-card:nth-child(odd),
+  .indice-tipo-card:nth-child(even) { padding-left: 0; padding-right: 0; }
+  .indice-grupo { grid-template-columns: 1fr; gap: 10px; }
+  .indice-artefatos-lista,
+  .relacoes-design-lista { grid-template-columns: 1fr; }
+}
