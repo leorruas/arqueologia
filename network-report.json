@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-10T23:26:11.563Z",
+  "generatedAt": "2026-09-10T23:26:34.422Z",
   "scope": "Integração do grafo: índices, home, reciprocidade estrutural, tipos de design e nós órfãos. Conceitos e variáveis não exigem backlink exaustivo.",
-  "issueCount": 18,
+  "issueCount": 11,
   "countsByKind": {
     "missing-from-index": 1,
-    "missing-reciprocal-link": 15,
+    "missing-reciprocal-link": 8,
     "orphan-node": 1,
     "design-type-drift": 1
   },
@@ -23,21 +23,9 @@
     },
     {
       "kind": "missing-reciprocal-link",
-      "sourcePath": "03 artefatos/Botao Like.md",
-      "targetPath": "04 genealogias/Compressao do Esforco.md",
-      "detail": "A ficha liga para 04 genealogias/Compressao do Esforco.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "missing-reciprocal-link",
       "sourcePath": "03 artefatos/Calendário.md",
       "targetPath": "04 genealogias/Permanencia e Memoria Externa.md",
       "detail": "A ficha liga para 04 genealogias/Permanencia e Memoria Externa.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "missing-reciprocal-link",
-      "sourcePath": "03 artefatos/Carimbo.md",
-      "targetPath": "04 genealogias/Compressao do Esforco.md",
-      "detail": "A ficha liga para 04 genealogias/Compressao do Esforco.md, mas a nota relacionada não devolve o vínculo."
     },
     {
       "kind": "missing-reciprocal-link",
@@ -50,30 +38,6 @@
       "sourcePath": "03 artefatos/Espaço entre Palavras.md",
       "targetPath": "00 tipos de design/Tipografia.md",
       "detail": "A ficha liga para 00 tipos de design/Tipografia.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "missing-reciprocal-link",
-      "sourcePath": "03 artefatos/Grid.md",
-      "targetPath": "04 genealogias/Compressao do Esforco.md",
-      "detail": "A ficha liga para 04 genealogias/Compressao do Esforco.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "missing-reciprocal-link",
-      "sourcePath": "03 artefatos/Helvetica.md",
-      "targetPath": "04 genealogias/Compressao do Esforco.md",
-      "detail": "A ficha liga para 04 genealogias/Compressao do Esforco.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "missing-reciprocal-link",
-      "sourcePath": "03 artefatos/Infinite Scroll.md",
-      "targetPath": "04 genealogias/Compressao do Esforco.md",
-      "detail": "A ficha liga para 04 genealogias/Compressao do Esforco.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "missing-reciprocal-link",
-      "sourcePath": "03 artefatos/Pinch to Zoom.md",
-      "targetPath": "04 genealogias/Compressao do Esforco.md",
-      "detail": "A ficha liga para 04 genealogias/Compressao do Esforco.md, mas a nota relacionada não devolve o vínculo."
     },
     {
       "kind": "missing-reciprocal-link",
@@ -92,12 +56,6 @@
       "sourcePath": "03 artefatos/Retrospectiva.md",
       "targetPath": "04 genealogias/Permanencia e Memoria Externa.md",
       "detail": "A ficha liga para 04 genealogias/Permanencia e Memoria Externa.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "missing-reciprocal-link",
-      "sourcePath": "03 artefatos/Slide to Unlock.md",
-      "targetPath": "04 genealogias/Compressao do Esforco.md",
-      "detail": "A ficha liga para 04 genealogias/Compressao do Esforco.md, mas a nota relacionada não devolve o vínculo."
     },
     {
       "kind": "missing-reciprocal-link",
