@@ -22,6 +22,7 @@ on:
       - "index.html"
       - "scripts/build-search-index.mjs"
       - "scripts/normalize-sentence-case.mjs"
+      - "scripts/migrate-artifact-sheets.mjs"
       - "scripts/audit-editorial.mjs"
       - "scripts/consolidate-unresolved-links.mjs"
       - ".github/workflows/build-search-index.yml"
@@ -55,8 +56,12 @@ jobs:
           node --check puc-parity.js
           node --check scripts/build-search-index.mjs
           node --check scripts/normalize-sentence-case.mjs
+          node --check scripts/migrate-artifact-sheets.mjs
           node --check scripts/audit-editorial.mjs
           node --check scripts/consolidate-unresolved-links.mjs
+
+      - name: Migrar fichas arqueológicas legadas para a tabela padrão
+        run: node scripts/migrate-artifact-sheets.mjs
 
       - name: Normalizar headings estruturais em sentence case
         run: node scripts/normalize-sentence-case.mjs
