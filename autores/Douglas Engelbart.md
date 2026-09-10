@@ -27,6 +27,6 @@ Douglas Engelbart foi um engenheiro, inventor e pioneiro da computação america
 ## Parcerias & Empresas
 - **Colaborações**: Fundou o Augmentation Research Center (ARC) no Stanford Research Institute. Seus pesquisadores e tecnologias serviram como semente crucial para a posterior fundação do [[empresas/Xerox PARC|Xerox PARC]].
 
-## Conexões e Referências
+## Conexões e referências
 - [[00 tipos de design/Design de Interface|Design de Interface]]
 - **Fontes bibliográficas**: *Bootstrapping: Douglas Engelbart, Coevolution, and the Origins of Personal Computing* (Thierry Bardini).

@@ -27,7 +27,7 @@ Sociólogo alemão de origem judaica, um dos intelectuais mais influentes da soc
 ## Parcerias & Empresas
 - **Colaborações**: Karl Mannheim, Universidade de Frankfurt, Universidade de Leicester.
 
-## Conexões e Referências
+## Conexões e referências
 - [[00 tipos de design/Design de Produto|Design de Produto]], [[00 tipos de design/Design de Servicos|Design de Serviços]]
 - **Fontes bibliográficas**:
   - [[00 índices/Livros Indicados|*Sobre o Tempo*]] (1984) - Uma análise sociológica sobre como o tempo é uma construção social reguladora e um instrumento de coordenação e sincronização coletiva.

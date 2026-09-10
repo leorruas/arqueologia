@@ -25,7 +25,7 @@ Ben Shneiderman é um cientista da computação americano e professor da Univers
 ## Projetos e Obras Marcantes
 - **Designing the User Interface (1986)**: Livro seminal que definiu as bases teóricas do design de interfaces de usuário.
 
-## Conexões e Referências
+## Conexões e referências
 - [[Design de Interface|Design de Interface]]
 - **Fontes bibliográficas**:
   - [[00 índices/Livros Indicados|*Designing the User Interface*]] (1986) - Estabelece os fundamentos teóricos de design de interface de usuário, incluindo os oito princípios de usabilidade e o conceito de manipulação direta.

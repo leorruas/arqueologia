@@ -1,441 +1,23 @@
 {
-  "generatedAt": "2026-09-10T15:36:59.535Z",
+  "generatedAt": "2026-09-10T15:38:11.754Z",
   "rule": "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
-  "candidateCount": 472,
-  "fileCount": 134,
+  "candidateCount": 363,
+  "fileCount": 124,
   "files": [
-    {
-      "sourcePath": "00 tipos de design/Design Grafico.md",
-      "items": [
-        {
-          "sourcePath": "00 tipos de design/Design Grafico.md",
-          "kind": "frontmatter-title",
-          "text": "Design Gráfico"
-        },
-        {
-          "sourcePath": "00 tipos de design/Design Grafico.md",
-          "kind": "h2",
-          "line": 13,
-          "text": "Origens e Surgimento"
-        },
-        {
-          "sourcePath": "00 tipos de design/Design Grafico.md",
-          "kind": "h2",
-          "line": 17,
-          "text": "Evolução e Desenvolvimento"
-        },
-        {
-          "sourcePath": "00 tipos de design/Design Grafico.md",
-          "kind": "h2",
-          "line": 24,
-          "text": "Figuras e Autores de Destaque"
-        },
-        {
-          "sourcePath": "00 tipos de design/Design Grafico.md",
-          "kind": "h2",
-          "line": 31,
-          "text": "Empresas e Estúdios Clave"
-        },
-        {
-          "sourcePath": "00 tipos de design/Design Grafico.md",
-          "kind": "h2",
-          "line": 35,
-          "text": "Artefatos Históricos Relacionados"
-        },
-        {
-          "sourcePath": "00 tipos de design/Design Grafico.md",
-          "kind": "h2",
-          "line": 40,
-          "text": "Conexões e Referências"
-        }
-      ]
-    },
-    {
-      "sourcePath": "00 tipos de design/Design de IA.md",
-      "items": [
-        {
-          "sourcePath": "00 tipos de design/Design de IA.md",
-          "kind": "h2",
-          "line": 13,
-          "text": "Origens e Surgimento"
-        },
-        {
-          "sourcePath": "00 tipos de design/Design de IA.md",
-          "kind": "h2",
-          "line": 18,
-          "text": "Evolução e Desenvolvimento"
-        },
-        {
-          "sourcePath": "00 tipos de design/Design de IA.md",
-          "kind": "h2",
-          "line": 25,
-          "text": "Figuras e Autores de Destaque"
-        },
-        {
-          "sourcePath": "00 tipos de design/Design de IA.md",
-          "kind": "h2",
-          "line": 29,
-          "text": "Empresas e Estúdios Clave"
-        },
-        {
-          "sourcePath": "00 tipos de design/Design de IA.md",
-          "kind": "h2",
-          "line": 33,
-          "text": "Artefatos Históricos Relacionados"
-        },
-        {
-          "sourcePath": "00 tipos de design/Design de IA.md",
-          "kind": "h2",
-          "line": 36,
-          "text": "Conexões e Referências"
-        }
-      ]
-    },
-    {
-      "sourcePath": "00 tipos de design/Design de Interface.md",
-      "items": [
-        {
-          "sourcePath": "00 tipos de design/Design de Interface.md",
-          "kind": "frontmatter-title",
-          "text": "Design de Interface"
-        },
-        {
-          "sourcePath": "00 tipos de design/Design de Interface.md",
-          "kind": "h2",
-          "line": 13,
-          "text": "Origens e Surgimento"
-        },
-        {
-          "sourcePath": "00 tipos de design/Design de Interface.md",
-          "kind": "h2",
-          "line": 17,
-          "text": "Evolução e Desenvolvimento"
-        },
-        {
-          "sourcePath": "00 tipos de design/Design de Interface.md",
-          "kind": "h2",
-          "line": 24,
-          "text": "Figuras e Autores de Destaque"
-        },
-        {
-          "sourcePath": "00 tipos de design/Design de Interface.md",
-          "kind": "h2",
-          "line": 28,
-          "text": "Empresas e Estúdios Clave"
-        },
-        {
-          "sourcePath": "00 tipos de design/Design de Interface.md",
-          "kind": "h2",
-          "line": 32,
-          "text": "Artefatos Históricos Relacionados"
-        },
-        {
-          "sourcePath": "00 tipos de design/Design de Interface.md",
-          "kind": "h2",
-          "line": 41,
-          "text": "Conexões e Referências"
-        }
-      ]
-    },
-    {
-      "sourcePath": "00 tipos de design/Design de Produto.md",
-      "items": [
-        {
-          "sourcePath": "00 tipos de design/Design de Produto.md",
-          "kind": "frontmatter-title",
-          "text": "Design de Produto"
-        },
-        {
-          "sourcePath": "00 tipos de design/Design de Produto.md",
-          "kind": "h2",
-          "line": 13,
-          "text": "Origens e Surgimento"
-        },
-        {
-          "sourcePath": "00 tipos de design/Design de Produto.md",
-          "kind": "h2",
-          "line": 17,
-          "text": "Evolução e Desenvolvimento"
-        },
-        {
-          "sourcePath": "00 tipos de design/Design de Produto.md",
-          "kind": "h2",
-          "line": 24,
-          "text": "Figuras e Autores de Destaque"
-        },
-        {
-          "sourcePath": "00 tipos de design/Design de Produto.md",
-          "kind": "h2",
-          "line": 28,
-          "text": "Empresas e Estúdios Clave"
-        },
-        {
-          "sourcePath": "00 tipos de design/Design de Produto.md",
-          "kind": "h2",
-          "line": 32,
-          "text": "Artefatos Históricos Relacionados"
-        },
-        {
-          "sourcePath": "00 tipos de design/Design de Produto.md",
-          "kind": "h2",
-          "line": 39,
-          "text": "Conexões e Referências"
-        }
-      ]
-    },
-    {
-      "sourcePath": "00 tipos de design/Design de Servicos.md",
-      "items": [
-        {
-          "sourcePath": "00 tipos de design/Design de Servicos.md",
-          "kind": "frontmatter-title",
-          "text": "Design de Serviços"
-        },
-        {
-          "sourcePath": "00 tipos de design/Design de Servicos.md",
-          "kind": "h2",
-          "line": 13,
-          "text": "Origens e Surgimento"
-        },
-        {
-          "sourcePath": "00 tipos de design/Design de Servicos.md",
-          "kind": "h2",
-          "line": 17,
-          "text": "Evolução e Desenvolvimento"
-        },
-        {
-          "sourcePath": "00 tipos de design/Design de Servicos.md",
-          "kind": "h2",
-          "line": 24,
-          "text": "Figuras e Autores de Destaque"
-        },
-        {
-          "sourcePath": "00 tipos de design/Design de Servicos.md",
-          "kind": "h2",
-          "line": 28,
-          "text": "Empresas e Estúdios Clave"
-        },
-        {
-          "sourcePath": "00 tipos de design/Design de Servicos.md",
-          "kind": "h2",
-          "line": 32,
-          "text": "Artefatos Históricos Relacionados"
-        },
-        {
-          "sourcePath": "00 tipos de design/Design de Servicos.md",
-          "kind": "h2",
-          "line": 41,
-          "text": "Conexões e Referências"
-        }
-      ]
-    },
-    {
-      "sourcePath": "00 tipos de design/Tipografia.md",
-      "items": [
-        {
-          "sourcePath": "00 tipos de design/Tipografia.md",
-          "kind": "h2",
-          "line": 13,
-          "text": "Origens e Surgimento"
-        },
-        {
-          "sourcePath": "00 tipos de design/Tipografia.md",
-          "kind": "h2",
-          "line": 17,
-          "text": "Evolução e Desenvolvimento"
-        },
-        {
-          "sourcePath": "00 tipos de design/Tipografia.md",
-          "kind": "h2",
-          "line": 24,
-          "text": "Figuras e Autores de Destaque"
-        },
-        {
-          "sourcePath": "00 tipos de design/Tipografia.md",
-          "kind": "h2",
-          "line": 28,
-          "text": "Empresas e Estúdios Clave"
-        },
-        {
-          "sourcePath": "00 tipos de design/Tipografia.md",
-          "kind": "h2",
-          "line": 32,
-          "text": "Artefatos Históricos Relacionados"
-        },
-        {
-          "sourcePath": "00 tipos de design/Tipografia.md",
-          "kind": "h2",
-          "line": 35,
-          "text": "Conexões e Referências"
-        }
-      ]
-    },
-    {
-      "sourcePath": "00 índices/Indice de Artefatos.md",
-      "items": [
-        {
-          "sourcePath": "00 índices/Indice de Artefatos.md",
-          "kind": "frontmatter-title",
-          "text": "Índice de Artefatos"
-        },
-        {
-          "sourcePath": "00 índices/Indice de Artefatos.md",
-          "kind": "h2",
-          "line": 11,
-          "text": "Design de Produto e Mobiliário"
-        },
-        {
-          "sourcePath": "00 índices/Indice de Artefatos.md",
-          "kind": "h2",
-          "line": 23,
-          "text": "Design Gráfico e Comunicação Visual"
-        },
-        {
-          "sourcePath": "00 índices/Indice de Artefatos.md",
-          "kind": "h2",
-          "line": 36,
-          "text": "Design de Serviços e Organização"
-        },
-        {
-          "sourcePath": "00 índices/Indice de Artefatos.md",
-          "kind": "h2",
-          "line": 62,
-          "text": "Interfaces Digitais e Software"
-        }
-      ]
-    },
     {
       "sourcePath": "00 índices/Indice de Autores.md",
       "items": [
         {
           "sourcePath": "00 índices/Indice de Autores.md",
-          "kind": "frontmatter-title",
-          "text": "Índice de Autores"
-        },
-        {
-          "sourcePath": "00 índices/Indice de Autores.md",
-          "kind": "h2",
-          "line": 11,
-          "text": "Designers e Teóricos"
-        },
-        {
-          "sourcePath": "00 índices/Indice de Autores.md",
           "kind": "h3",
           "line": 13,
-          "text": "Século XIX e Início do Século XX (Pioneiros e Bauhaus)"
-        },
-        {
-          "sourcePath": "00 índices/Indice de Autores.md",
-          "kind": "h3",
-          "line": 19,
-          "text": "Meados do Século XX (Modernismo e Design Suíço)"
-        },
-        {
-          "sourcePath": "00 índices/Indice de Autores.md",
-          "kind": "h3",
-          "line": 25,
-          "text": "Teoria do Design e Wicked Problems"
-        },
-        {
-          "sourcePath": "00 índices/Indice de Autores.md",
-          "kind": "h3",
-          "line": 30,
-          "text": "Era Digital e Computação Pessoal"
-        },
-        {
-          "sourcePath": "00 índices/Indice de Autores.md",
-          "kind": "h3",
-          "line": 40,
-          "text": "Design de Serviços, Facilitação e Design Estratégico"
-        },
-        {
-          "sourcePath": "00 índices/Indice de Autores.md",
-          "kind": "h3",
-          "line": 53,
-          "text": "Filosofia, Sociologia e Relações de Poder"
-        },
-        {
-          "sourcePath": "00 índices/Indice de Autores.md",
-          "kind": "h3",
-          "line": 58,
-          "text": "Economia Comportamental e Arquitetura de Escolha"
-        },
-        {
-          "sourcePath": "00 índices/Indice de Autores.md",
-          "kind": "h3",
-          "line": 62,
-          "text": "Evolução, Cognição e Cultura Material"
-        }
-      ]
-    },
-    {
-      "sourcePath": "00 índices/Indice de Conceitos.md",
-      "items": [
-        {
-          "sourcePath": "00 índices/Indice de Conceitos.md",
-          "kind": "frontmatter-title",
-          "text": "Índice de Conceitos"
-        }
-      ]
-    },
-    {
-      "sourcePath": "00 índices/Indice de Empresas.md",
-      "items": [
-        {
-          "sourcePath": "00 índices/Indice de Empresas.md",
-          "kind": "frontmatter-title",
-          "text": "Índice de Empresas"
-        },
-        {
-          "sourcePath": "00 índices/Indice de Empresas.md",
-          "kind": "h2",
-          "line": 11,
-          "text": "Corporações, Estúdios e Fundições"
-        },
-        {
-          "sourcePath": "00 índices/Indice de Empresas.md",
-          "kind": "h3",
-          "line": 13,
-          "text": "Tecnologia e Eletrônicos"
-        },
-        {
-          "sourcePath": "00 índices/Indice de Empresas.md",
-          "kind": "h3",
-          "line": 21,
-          "text": "Consultorias de Serviços e Design Estratégico"
-        },
-        {
-          "sourcePath": "00 índices/Indice de Empresas.md",
-          "kind": "h3",
-          "line": 25,
-          "text": "Design Gráfico e Estúdios"
-        },
-        {
-          "sourcePath": "00 índices/Indice de Empresas.md",
-          "kind": "h3",
-          "line": 29,
-          "text": "Fundições Tipográficas (Type Foundries)"
-        }
-      ]
-    },
-    {
-      "sourcePath": "00 índices/Indice de Variaveis.md",
-      "items": [
-        {
-          "sourcePath": "00 índices/Indice de Variaveis.md",
-          "kind": "frontmatter-title",
-          "text": "Índice de Variáveis"
+          "text": "Século XIX e início do século XX (pioneiros e Bauhaus)"
         }
       ]
     },
     {
       "sourcePath": "00 índices/Livros Indicados.md",
       "items": [
-        {
-          "sourcePath": "00 índices/Livros Indicados.md",
-          "kind": "frontmatter-title",
-          "text": "Livros Indicados"
-        },
         {
           "sourcePath": "00 índices/Livros Indicados.md",
           "kind": "h2",
@@ -802,12 +384,6 @@
           "sourcePath": "03 artefatos/Controle Remoto.md",
           "kind": "frontmatter-title",
           "text": "Controle Remoto"
-        },
-        {
-          "sourcePath": "03 artefatos/Controle Remoto.md",
-          "kind": "h2",
-          "line": 28,
-          "text": "Evolução e Desenvolvimento"
         }
       ]
     },
@@ -968,12 +544,6 @@
           "sourcePath": "03 artefatos/Quadro Branco.md",
           "kind": "frontmatter-title",
           "text": "Quadro Branco"
-        },
-        {
-          "sourcePath": "03 artefatos/Quadro Branco.md",
-          "kind": "h2",
-          "line": 28,
-          "text": "Evolução e Desenvolvimento"
         }
       ]
     },
@@ -1222,12 +792,6 @@
           "kind": "h2",
           "line": 28,
           "text": "Parcerias & Empresas"
-        },
-        {
-          "sourcePath": "autores/Adrian Frutiger.md",
-          "kind": "h2",
-          "line": 31,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -1256,12 +820,6 @@
           "kind": "h2",
           "line": 24,
           "text": "Empresas e Parcerias"
-        },
-        {
-          "sourcePath": "autores/Alan Kay.md",
-          "kind": "h2",
-          "line": 28,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -1296,12 +854,6 @@
           "kind": "h2",
           "line": 26,
           "text": "Parcerias & Empresas"
-        },
-        {
-          "sourcePath": "autores/Alan Klement.md",
-          "kind": "h2",
-          "line": 29,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -1336,12 +888,6 @@
           "kind": "h2",
           "line": 27,
           "text": "Parcerias & Empresas"
-        },
-        {
-          "sourcePath": "autores/Alexander Osterwalder.md",
-          "kind": "h2",
-          "line": 30,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -1376,12 +922,6 @@
           "kind": "h2",
           "line": 26,
           "text": "Parcerias & Empresas"
-        },
-        {
-          "sourcePath": "autores/Alois Senefelder.md",
-          "kind": "h2",
-          "line": 29,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -1416,12 +956,6 @@
           "kind": "h2",
           "line": 27,
           "text": "Parcerias & Empresas"
-        },
-        {
-          "sourcePath": "autores/Atul Gawande.md",
-          "kind": "h2",
-          "line": 30,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -1450,12 +984,6 @@
           "kind": "h2",
           "line": 23,
           "text": "Projetos e Obras Marcantes"
-        },
-        {
-          "sourcePath": "autores/Barry Schwartz.md",
-          "kind": "h2",
-          "line": 26,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -1484,12 +1012,6 @@
           "kind": "h2",
           "line": 25,
           "text": "Projetos e Obras Marcantes"
-        },
-        {
-          "sourcePath": "autores/Ben Shneiderman.md",
-          "kind": "h2",
-          "line": 28,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -1524,12 +1046,6 @@
           "kind": "h2",
           "line": 27,
           "text": "Parcerias & Empresas"
-        },
-        {
-          "sourcePath": "autores/Birgit Mager.md",
-          "kind": "h2",
-          "line": 30,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -1564,12 +1080,6 @@
           "kind": "h2",
           "line": 25,
           "text": "Parcerias & Empresas"
-        },
-        {
-          "sourcePath": "autores/Bob Moesta.md",
-          "kind": "h2",
-          "line": 28,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -1604,12 +1114,6 @@
           "kind": "h2",
           "line": 26,
           "text": "Parcerias & Empresas"
-        },
-        {
-          "sourcePath": "autores/Cass R. Sunstein.md",
-          "kind": "h2",
-          "line": 29,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -1644,12 +1148,6 @@
           "kind": "h2",
           "line": 26,
           "text": "Parcerias & Empresas"
-        },
-        {
-          "sourcePath": "autores/Clayton Christensen.md",
-          "kind": "h2",
-          "line": 29,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -1684,12 +1182,6 @@
           "kind": "h2",
           "line": 27,
           "text": "Parcerias & Empresas"
-        },
-        {
-          "sourcePath": "autores/Dave Gray.md",
-          "kind": "h2",
-          "line": 30,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -1724,12 +1216,6 @@
           "kind": "h2",
           "line": 25,
           "text": "Parcerias & Empresas"
-        },
-        {
-          "sourcePath": "autores/David Kirkpatrick.md",
-          "kind": "h2",
-          "line": 28,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -1764,12 +1250,6 @@
           "kind": "h2",
           "line": 27,
           "text": "Parcerias & Empresas"
-        },
-        {
-          "sourcePath": "autores/Dieter Rams.md",
-          "kind": "h2",
-          "line": 30,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -1804,12 +1284,6 @@
           "kind": "h2",
           "line": 27,
           "text": "Empresas e Parcerias"
-        },
-        {
-          "sourcePath": "autores/Donald Norman.md",
-          "kind": "h2",
-          "line": 31,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -1844,12 +1318,6 @@
           "kind": "h2",
           "line": 27,
           "text": "Parcerias & Empresas"
-        },
-        {
-          "sourcePath": "autores/Douglas Engelbart.md",
-          "kind": "h2",
-          "line": 30,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -1884,12 +1352,6 @@
           "kind": "h2",
           "line": 27,
           "text": "Parcerias & Empresas"
-        },
-        {
-          "sourcePath": "autores/Francis Bacon.md",
-          "kind": "h2",
-          "line": 30,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -1924,12 +1386,6 @@
           "kind": "h2",
           "line": 27,
           "text": "Parcerias & Empresas"
-        },
-        {
-          "sourcePath": "autores/G Lynn Shostack.md",
-          "kind": "h2",
-          "line": 30,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -1964,12 +1420,6 @@
           "kind": "h2",
           "line": 27,
           "text": "Parcerias & Empresas"
-        },
-        {
-          "sourcePath": "autores/Hans Barnard.md",
-          "kind": "h2",
-          "line": 30,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -2004,12 +1454,6 @@
           "kind": "h2",
           "line": 27,
           "text": "Parcerias & Empresas"
-        },
-        {
-          "sourcePath": "autores/Henri de Toulouse Lautrec.md",
-          "kind": "h2",
-          "line": 30,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -2044,12 +1488,6 @@
           "kind": "h2",
           "line": 26,
           "text": "Parcerias & Empresas"
-        },
-        {
-          "sourcePath": "autores/Herbert Simon.md",
-          "kind": "h2",
-          "line": 29,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -2084,12 +1522,6 @@
           "kind": "h2",
           "line": 26,
           "text": "Parcerias & Empresas"
-        },
-        {
-          "sourcePath": "autores/Horst Rittel.md",
-          "kind": "h2",
-          "line": 29,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -2124,12 +1556,6 @@
           "kind": "h2",
           "line": 26,
           "text": "Parcerias & Empresas"
-        },
-        {
-          "sourcePath": "autores/James Macanufo.md",
-          "kind": "h2",
-          "line": 29,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -2164,12 +1590,6 @@
           "kind": "h2",
           "line": 26,
           "text": "Parcerias & Empresas"
-        },
-        {
-          "sourcePath": "autores/John Kotter.md",
-          "kind": "h2",
-          "line": 29,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -2204,12 +1624,6 @@
           "kind": "h2",
           "line": 25,
           "text": "Parcerias & Empresas"
-        },
-        {
-          "sourcePath": "autores/John Odling-Smee.md",
-          "kind": "h2",
-          "line": 28,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -2244,12 +1658,6 @@
           "kind": "h2",
           "line": 28,
           "text": "Empresas e Parcerias"
-        },
-        {
-          "sourcePath": "autores/Josef Muller Brockmann.md",
-          "kind": "h2",
-          "line": 32,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -2284,12 +1692,6 @@
           "kind": "h2",
           "line": 26,
           "text": "Parcerias & Empresas"
-        },
-        {
-          "sourcePath": "autores/Jules Cheret.md",
-          "kind": "h2",
-          "line": 29,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -2324,12 +1726,6 @@
           "kind": "h2",
           "line": 26,
           "text": "Parcerias & Empresas"
-        },
-        {
-          "sourcePath": "autores/Kevin Laland.md",
-          "kind": "h2",
-          "line": 29,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -2364,12 +1760,6 @@
           "kind": "h2",
           "line": 28,
           "text": "Empresas e Parcerias"
-        },
-        {
-          "sourcePath": "autores/Loren Brichter.md",
-          "kind": "h2",
-          "line": 32,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -2404,12 +1794,6 @@
           "kind": "h2",
           "line": 26,
           "text": "Parcerias & Empresas"
-        },
-        {
-          "sourcePath": "autores/Marcus Feldman.md",
-          "kind": "h2",
-          "line": 29,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -2444,12 +1828,6 @@
           "kind": "h2",
           "line": 27,
           "text": "Parcerias & Empresas"
-        },
-        {
-          "sourcePath": "autores/Max Miedinger.md",
-          "kind": "h2",
-          "line": 30,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -2484,12 +1862,6 @@
           "kind": "h2",
           "line": 25,
           "text": "Parcerias & Empresas"
-        },
-        {
-          "sourcePath": "autores/Melvin Webber.md",
-          "kind": "h2",
-          "line": 28,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -2524,12 +1896,6 @@
           "kind": "h2",
           "line": 26,
           "text": "Parcerias & Empresas"
-        },
-        {
-          "sourcePath": "autores/Merlin Donald.md",
-          "kind": "h2",
-          "line": 29,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -2564,12 +1930,6 @@
           "kind": "h2",
           "line": 26,
           "text": "Parcerias & Empresas"
-        },
-        {
-          "sourcePath": "autores/Michel Foucault.md",
-          "kind": "h2",
-          "line": 29,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -2604,12 +1964,6 @@
           "kind": "h2",
           "line": 27,
           "text": "Parcerias & Empresas"
-        },
-        {
-          "sourcePath": "autores/Norbert Elias.md",
-          "kind": "h2",
-          "line": 30,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -2644,12 +1998,6 @@
           "kind": "h2",
           "line": 27,
           "text": "Parcerias & Empresas"
-        },
-        {
-          "sourcePath": "autores/Peter Behrens.md",
-          "kind": "h2",
-          "line": 30,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -2684,12 +2032,6 @@
           "kind": "h2",
           "line": 26,
           "text": "Parcerias & Empresas"
-        },
-        {
-          "sourcePath": "autores/Richard H. Thaler.md",
-          "kind": "h2",
-          "line": 29,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -2724,12 +2066,6 @@
           "kind": "h2",
           "line": 27,
           "text": "Empresas e Parcerias"
-        },
-        {
-          "sourcePath": "autores/Robert Adler.md",
-          "kind": "h2",
-          "line": 30,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -2764,12 +2100,6 @@
           "kind": "h2",
           "line": 26,
           "text": "Parcerias & Empresas"
-        },
-        {
-          "sourcePath": "autores/Steve Krug.md",
-          "kind": "h2",
-          "line": 29,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -2804,12 +2134,6 @@
           "kind": "h2",
           "line": 26,
           "text": "Parcerias & Empresas"
-        },
-        {
-          "sourcePath": "autores/Sunni Brown.md",
-          "kind": "h2",
-          "line": 29,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -2844,12 +2168,6 @@
           "kind": "h2",
           "line": 29,
           "text": "Empresas e Parcerias"
-        },
-        {
-          "sourcePath": "autores/Susan Kare.md",
-          "kind": "h2",
-          "line": 34,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -2884,12 +2202,6 @@
           "kind": "h2",
           "line": 27,
           "text": "Parcerias & Empresas"
-        },
-        {
-          "sourcePath": "autores/Willeke Wendrich.md",
-          "kind": "h2",
-          "line": 30,
-          "text": "Conexões e Referências"
         }
       ]
     },
@@ -3377,12 +2689,6 @@
           "kind": "h2",
           "line": 26,
           "text": "Designers e Engenheiros Notáveis"
-        },
-        {
-          "sourcePath": "empresas/Zenith.md",
-          "kind": "h2",
-          "line": 30,
-          "text": "Conexões e Referências"
         }
       ]
     }

@@ -27,7 +27,7 @@ Teórico de negócios, autor e consultor suíço, reconhecido por suas contribui
 ## Parcerias & Empresas
 - **Colaborações**: Yves Pigneur, Strategyzer (empresa que cofundou).
 
-## Conexões e Referências
+## Conexões e referências
 - [[00 tipos de design/Design de Servicos|Design de Serviços]]
 - **Fontes bibliográficas**:
   - [[00 índices/Livros Indicados|*Value Proposition Design*]] (2014) - Explica a lógica de estruturação das propostas de valor a partir do encaixe entre as dores/ganhos do cliente e o mapa de valor do produto ou serviço.

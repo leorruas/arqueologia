@@ -23,7 +23,7 @@ Barry Schwartz é um proeminente psicólogo americano e professor de teoria soci
 ## Projetos e Obras Marcantes
 - *The Paradox of Choice - Why More Is Less* (2004): Livro seminal que mapeia os problemas da abundância de opções no comércio, finanças, saúde e relacionamentos amorosos.
 
-## Conexões e Referências
+## Conexões e referências
 - [[01 conceitos/Paradoxo da Escolha|Paradoxo da Escolha]]
 - [[02 variaveis/Atrito Decisorio|Atrito Decisório]]
 - **Fontes bibliográficas**:

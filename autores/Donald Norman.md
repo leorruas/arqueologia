@@ -28,7 +28,7 @@ Donald A. Norman é um cientista cognitivo, designer e autor americano, amplamen
 - **Apple**: Primeiro User Experience Architect da empresa (1993-1997).
 - **Nielsen Norman Group**: Co-fundador da principal consultoria de UX do mundo ao lado de Jakob Nielsen.
 
-## Conexões e Referências
+## Conexões e referências
 - [[Design de Produto|Design de Produto]]
 - [[Design de Interface|Design de Interface]]
 - **Fontes bibliográficas**:

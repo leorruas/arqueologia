@@ -26,7 +26,7 @@ Biólogo evolutivo e professor de Biologia Comportamental na University of St An
 ## Parcerias & Empresas
 - **Colaborações**: John Odling-Smee, Marcus Feldman, University of St Andrews.
 
-## Conexões e Referências
+## Conexões e referências
 - [[00 tipos de design/Design de Produto|Design de Produto]]
 - **Fontes bibliográficas**:
   - [[00 índices/Livros Indicados|*Niche Construction: The Neglected Process in Evolution*]] (2003) - Coautor da teoria que fundamenta a herança ecológica e a transmissão cultural cumulativa nos processos evolutivos e de cultura material.

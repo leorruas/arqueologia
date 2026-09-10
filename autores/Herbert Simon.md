@@ -26,7 +26,7 @@ Cientista político, psicólogo cognitivo, economista e cientista da computaçã
 ## Parcerias & Empresas
 - **Colaborações**: Allen Newell, Carnegie Mellon University (CMU), RAND Corporation.
 
-## Conexões e Referências
+## Conexões e referências
 - [[00 tipos de design/Design de Produto|Design de Produto]], [[00 tipos de design/Design de Interface|Design de Interface]]
 - **Fontes bibliográficas**:
   - [[00 índices/Livros Indicados|*The Sciences of the Artificial*]] (1969) - Obra seminal que define o design como a conversão de situações existentes em situações desejadas, formulando a teoria dos sistemas artificiais.

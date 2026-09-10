@@ -25,5 +25,5 @@ Alan Kay é um cientista da computação americano e um dos principais pioneiros
 - **Xerox PARC**: Liderou o grupo de pesquisa sistêmica (Learning Research Group) na década de 1970.
 - **Apple**: Tornou-se Apple Fellow em 1984.
 
-## Conexões e Referências
+## Conexões e referências
 - [[Design de Interface|Design de Interface]]

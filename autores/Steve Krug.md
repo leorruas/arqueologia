@@ -26,7 +26,7 @@ Profissional de experiência do usuário (UX) e consultor de usabilidade norte-a
 ## Parcerias & Empresas
 - **Colaborações**: Fundador da consultoria Advanced Common Sense, consultor para corporações como Apple, Netscape e AOL.
 
-## Conexões e Referências
+## Conexões e referências
 - [[00 tipos de design/Design de Interface|Design de Interface]]
 - **Fontes bibliográficas**:
   - [[00 índices/Livros Indicados|*Don't Make Me Think*]] (2000) - Um guia clássico de usabilidade na web, defendendo que boas interfaces não devem exigir esforço cognitivo ou inferências desnecessárias do usuário.

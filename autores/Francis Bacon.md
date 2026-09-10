@@ -27,7 +27,7 @@ Filósofo, estadista e ensaísta inglês, pioneiro da revolução científica e 
 ## Parcerias & Empresas
 - **Colaborações**: Corte do Rei James I da Inglaterra e da Rainha Elizabeth I.
 
-## Conexões e Referências
+## Conexões e referências
 - [[00 tipos de design/Design de Produto|Design de Produto]]
 - **Fontes bibliográficas**:
   - [[00 índices/Livros Indicados|*Novum Organum*]] (1620) - Lança as bases do método indutivo científico moderno, enfatizando a observação e a experimentação em oposição ao silogismo abstrato aristotélico.

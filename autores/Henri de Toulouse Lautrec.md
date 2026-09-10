@@ -27,7 +27,7 @@ Henri de Toulouse-Lautrec foi um pintor e gravador pós-impressionista francês 
 ## Parcerias & Empresas
 - **Colaborações**: Produziu cartazes para cabarés, teatros, performers (como La Goulue, Jane Avril e Aristide Bruant), revistas ilustradas e publicações de vanguarda.
 
-## Conexões e Referências
+## Conexões e referências
 - [[03 artefatos/Pôster|Pôster]]
 - [[00 tipos de design/Design Grafico|Design Gráfico]]
 - **Fontes Bibliográficas**:

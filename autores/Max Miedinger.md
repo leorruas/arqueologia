@@ -27,6 +27,6 @@ Max Miedinger foi um tipógrafo e designer de tipos suíço, famoso em todo o mu
 ## Parcerias & Empresas
 - **Colaborações**: Trabalhou como designer e representante de vendas na fundição de tipos [[empresas/Haas Type Foundry|Haas Type Foundry]], sob a supervisão direta de Eduard Hoffmann.
 
-## Conexões e Referências
+## Conexões e referências
 - [[00 tipos de design/Tipografia|Tipografia]]
 - **Fontes bibliográficas**: *Helvetica: Homage to a Typeface* (Lars Müller).

@@ -26,7 +26,7 @@ Professor emérito da Harvard Business School e consultor norte-americano, autor
 ## Parcerias & Empresas
 - **Colaborações**: Harvard Business School, consultoria Kotter International.
 
-## Conexões e Referências
+## Conexões e referências
 - [[00 tipos de design/Design de Servicos|Design de Serviços]]
 - **Fontes bibliográficas**:
   - [[00 índices/Livros Indicados|*Leading Change*]] (1996) - Estabelece o framework clássico de 8 etapas para guiar mudanças organizacionais complexas, destacando o papel dos projetos piloto para provar conceitos.

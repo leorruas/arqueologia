@@ -25,7 +25,7 @@ Planejador urbano, teórico e professor norte-americano, famoso pela sua co-auto
 ## Parcerias & Empresas
 - **Colaborações**: Horst Rittel, University of California, Berkeley.
 
-## Conexões e Referências
+## Conexões e referências
 - [[00 tipos de design/Design de Servicos|Design de Serviços]]
 - **Fontes bibliográficas**:
   - [[00 índices/Livros Indicados|*Dilemmas in a General Theory of Planning*]] (1973) - Coautor do artigo seminal que define os "Wicked Problems" e desafia os métodos tradicionais de planejamento urbano e social de cima para baixo.

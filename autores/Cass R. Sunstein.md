@@ -26,7 +26,7 @@ Jurista, cientista político e acadêmico norte-americano, professor na Harvard 
 ## Parcerias & Empresas
 - **Colaborações**: Richard H. Thaler, Harvard Law School, Office of Information and Regulatory Affairs (OIRA) da Casa Branca (governo Barack Obama).
 
-## Conexões e Referências
+## Conexões e referências
 - [[00 tipos de design/Design de Servicos|Design de Serviços]], [[00 tipos de design/Design de Interface|Design de Interface]]
 - **Fontes bibliográficas**:
   - [[00 índices/Livros Indicados|*Nudge*]] (2008) - Coautor do princípio do paternalismo libertário e do design de escolhas para melhorar a tomada de decisões de saúde, finanças e bem-estar público.

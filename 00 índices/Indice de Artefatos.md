@@ -1,5 +1,5 @@
 ---
-title: "Índice de Artefatos"
+title: "Índice de artefatos"
 type: "hub"
 status: "ativo"
 ---
@@ -8,7 +8,7 @@ status: "ativo"
 
 Este índice organiza estudos publicados por campo de design. A classificação é uma porta de entrada, não uma fronteira: o mesmo artefato pode reaparecer em [[04 genealogias/Permanencia e Memoria Externa|genealogias]] e [[05 percursos/Como o Design Aprendeu a Guardar|percursos]] diferentes.
 
-## Design de Produto e Mobiliário
+## Design de produto e mobiliário
 
 - [[03 artefatos/Garrafa de Agua|Garrafa de Água]]: acesso portátil à água.
 - [[03 artefatos/Tapete|Tapete]]: superfície de territorialização e limiar.
@@ -20,7 +20,7 @@ Este índice organiza estudos publicados por campo de design. A classificação 
 - [[03 artefatos/Carimbo|Carimbo]]: repetição de marcas de validação e estado institucional.
 - [[03 artefatos/Crachá|Crachá]]: identificação visível e triagem de acesso.
 
-## Design Gráfico e Comunicação Visual
+## Design gráfico e comunicação visual
 
 - [[03 artefatos/Pôster|Pôster]]: superfície pública de síntese visual e disputa de atenção.
 - [[03 artefatos/Grid|Grid]]: estrutura modular de diagramação e previsibilidade visual.
@@ -33,7 +33,7 @@ Este índice organiza estudos publicados por campo de design. A classificação 
 - [[03 artefatos/Espaço entre Palavras|Espaço entre Palavras]]: uso do vazio como tecnologia de segmentação da leitura.
 - [[03 artefatos/Helvetica|Helvetica]]: tipografia e projeto de neutralidade visual no século XX.
 
-## Design de Serviços e Organização
+## Design de serviços e organização
 
 - [[03 artefatos/Calendário|Calendário]]: referência temporal compartilhada.
 - [[03 artefatos/Fila|Fila]]: distribuição sequencial de acesso escasso.
@@ -59,7 +59,7 @@ Este índice organiza estudos publicados por campo de design. A classificação 
 - [[03 artefatos/Value Proposition Ad Lib|Value Proposition Ad Lib]]: estrutura lacunada para explicitar hipótese de valor.
 - [[03 artefatos/Justificativa de Valor Público|Justificativa de Valor Público]]: adaptação experimental do projeto para tornar escolhas públicas justificáveis.
 
-## Interfaces Digitais e Software
+## Interfaces digitais e software
 
 - [[03 artefatos/Login|Login]]: limiar lógico de autenticação em sistemas multiusuário.
 - [[03 artefatos/Tela de Login|Tela de Login]]: forma visual do limiar de autenticação.

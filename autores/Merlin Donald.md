@@ -26,7 +26,7 @@ Psicólogo cognitivo, neurocientista e autor canadense, amplamente reconhecido p
 ## Parcerias & Empresas
 - **Colaborações**: Queen's University, Case Western Reserve University, University College London.
 
-## Conexões e Referências
+## Conexões e referências
 - [[00 tipos de design/Design Grafico|Design Gráfico]], [[00 tipos de design/Tipografia|Tipografia]], [[00 tipos de design/Design de Interface|Design de Interface]]
 - **Fontes bibliográficas**:
   - [[00 índices/Livros Indicados|*Origins of the Modern Mind*]] (1991) - Teoria evolucionista que descreve a transição cognitiva humana e o advento da "exografia" (uso de artefatos externos para armazenamento de memória).

@@ -27,7 +27,7 @@ Arqueóloga, egiptóloga e professora de Arqueologia Digital e Tecnologias da In
 ## Parcerias & Empresas
 - **Colaborações**: Hans Barnard, UCLA Cotsen Institute of Archaeology.
 
-## Conexões e Referências
+## Conexões e referências
 - [[00 tipos de design/Design de Produto|Design de Produto]]
 - **Fontes bibliográficas**:
   - [[00 índices/Livros Indicados|*The Archaeology of a Nomadism*]] (2008) - Coautora da investigação arqueológica de sociedades nômades, destacando o papel das tecnologias vernaculares de acesso móvel a recursos.

@@ -25,7 +25,7 @@ Biólogo evolucionista britânico, professor da Oxford University, destacado por
 ## Parcerias & Empresas
 - **Colaborações**: Kevin Laland e Marcus Feldman.
 
-## Conexões e Referências
+## Conexões e referências
 - [[00 tipos de design/Design de Produto|Design de Produto]]
 - **Fontes bibliográficas**:
   - [[00 índices/Livros Indicados|*Niche Construction: The Neglected Process in Evolution*]] (2003) - Explora como os organismos modificam ativamente seus próprios ambientes de seleção ecológica, conceito fundamental para entender a coevolução humana e a tecnologia.

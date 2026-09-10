@@ -25,7 +25,7 @@ Designer de produto, engenheiro e consultor norte-americano, co-criador do frame
 ## Parcerias & Empresas
 - **Colaborações**: Re-Wired Group (cofundador), Clayton Christensen, Rick Pedi.
 
-## Conexões e Referências
+## Conexões e referências
 - [[00 tipos de design/Design de Produto|Design de Produto]], [[00 tipos de design/Design de Servicos|Design de Serviços]]
 - **Fontes bibliográficas**:
   - [[00 índices/Livros Indicados|*Demand-Side Sales 101*]] (2020) - Traduz o framework Jobs to Be Done em técnicas de venda baseadas na psicologia de compra e na redução de atrito comportamental do cliente.

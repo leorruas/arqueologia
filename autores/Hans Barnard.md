@@ -27,7 +27,7 @@ Arqueólogo, antropólogo e cirurgião pediátrico holandês, professor associad
 ## Parcerias & Empresas
 - **Colaborações**: Willeke Wendrich, Cotsen Institute of Archaeology (UCLA), Leiden University.
 
-## Conexões e Referências
+## Conexões e referências
 - [[00 tipos de design/Design de Produto|Design de Produto]]
 - **Fontes bibliográficas**:
   - [[00 índices/Livros Indicados|*The Archaeology of a Nomadism*]] (2008) - Investiga a arqueologia e cultura material de populações nômades e como os artefatos portáteis estruturam dinâmicas de territorialização temporária.

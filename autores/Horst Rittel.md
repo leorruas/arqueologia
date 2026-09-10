@@ -26,7 +26,7 @@ Teórico do design, matemático e professor alemão, amplamente conhecido por cu
 ## Parcerias & Empresas
 - **Colaborações**: Melvin Webber, Escola de Ulm (HfG Ulm), University of California, Berkeley.
 
-## Conexões e Referências
+## Conexões e referências
 - [[00 tipos de design/Design de Servicos|Design de Serviços]], [[00 tipos de design/Design de Produto|Design de Produto]]
 - **Fontes bibliográficas**:
   - [[00 índices/Livros Indicados|*Dilemmas in a General Theory of Planning*]] (1973) - Artigo conceitual seminal que define "Wicked Problems" (problemas complexos, mal formulados e socialmente sensíveis) em contraste com problemas simples.

@@ -27,7 +27,7 @@ Birgit Mager é uma professora e pesquisadora alemã, amplamente reconhecida com
 ## Parcerias & Empresas
 - **Colaborações**: KISD (Köln International School of Design), Service Design Network (SDN), parcerias governamentais e de saúde na Alemanha e no Reino Unido.
 
-## Conexões e Referências
+## Conexões e referências
 - [[00 tipos de design/Design de Servicos|Design de Serviços]]
 - [[03 artefatos/Workshop|Workshop]]
 - **Fontes bibliográficas**: *Service Design: KISD 1995-2015* (Birgit Mager), *Touchpoint Journal* (Editora e Fundadora).

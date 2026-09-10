@@ -27,7 +27,7 @@ Cirurgião geral, pesquisador de saúde pública e autor norte-americano, famoso
 ## Parcerias & Empresas
 - **Colaborações**: Organização Mundial da Saúde, Harvard Medical School, Ariadne Labs (cofundador).
 
-## Conexões e Referências
+## Conexões e referências
 - [[00 tipos de design/Design de Servicos|Design de Serviços]]
 - **Fontes bibliográficas**:
   - [[00 índices/Livros Indicados|*The Checklist Manifesto*]] (2009) - Demonstra como ferramentas de verificação simples evitam erros graves em ambientes de altíssima complexidade e estresse, distribuindo a carga cognitiva individual.

@@ -27,7 +27,7 @@ Autor, designer visual e consultor estratégico norte-americano, pioneiro do pen
 ## Parcerias & Empresas
 - **Colaborações**: Fundador da XPLANE, parceiro de Sunni Brown e James Macanufo.
 
-## Conexões e Referências
+## Conexões e referências
 - [[00 tipos de design/Design de Servicos|Design de Serviços]], [[00 tipos de design/Design Grafico|Design Gráfico]]
 - **Fontes bibliográficas**:
   - [[00 índices/Livros Indicados|*Gamestorming*]] (2010) - Apresenta dinâmicas de facilitação baseadas em dinâmicas de jogos para estimular a cocriação e colaboração em equipes corporativas.

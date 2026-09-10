@@ -28,6 +28,6 @@ Adrian Frutiger foi um designer de tipos e tipógrafo suíço, sendo um dos maio
 ## Parcerias & Empresas
 - **Colaborações**: Trabalhou na renomada fundição parisiense Deberny & Peignot. Colaborou por décadas com a [[empresas/Linotype|Linotype]] na transição e digitalização de fontes.
 
-## Conexões e Referências
+## Conexões e referências
 - [[00 tipos de design/Tipografia|Tipografia]]
 - **Fontes bibliográficas**: *Adrian Frutiger – Typefaces: The Complete Works* (Heidrun Osterer e Philipp Stamm).

@@ -1,5 +1,5 @@
 ---
-title: "Índice de Variáveis"
+title: "Índice de variáveis"
 type: "hub"
 status: "ativo"
 ---

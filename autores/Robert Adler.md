@@ -27,6 +27,6 @@ Robert Adler foi um proeminente físico e inventor austríaco-americano, detento
 ## Empresas e Parcerias
 - **Zenith Electronics**: Atuou como vice-presidente e diretor de pesquisa por décadas, tornando-se o pioneiro técnico da companhia.
 
-## Conexões e Referências
+## Conexões e referências
 - [[empresas/Zenith|Zenith Electronics]]
 - [[03 artefatos/Controle Remoto|Controle Remoto]]

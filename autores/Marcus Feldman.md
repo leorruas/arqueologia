@@ -26,7 +26,7 @@ Professor de Ciências Biológicas e Genética de Stanford, proeminente formulad
 ## Parcerias & Empresas
 - **Colaborações**: Luigi Luca Cavalli-Sforza, John Odling-Smee, Kevin Laland, Stanford University.
 
-## Conexões e Referências
+## Conexões e referências
 - [[00 tipos de design/Design de Produto|Design de Produto]]
 - **Fontes bibliográficas**:
   - [[00 índices/Livros Indicados|*Niche Construction: The Neglected Process in Evolution*]] (2003) - Coautor dos estudos de coevolução gene-cultura, analisando a matemática do impacto da construção de nicho no comportamento humano.

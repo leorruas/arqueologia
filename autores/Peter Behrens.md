@@ -27,7 +27,7 @@ Peter Behrens foi um arquiteto, designer e pintor alemão, amplamente considerad
 ## Parcerias & Empresas
 - **Colaborações**: Atuou como consultor de design geral para a [[empresas/AEG|AEG]]. Em seu escritório, treinou nomes seminais da arquitetura moderna como Walter Gropius (fundador da Bauhaus), Ludwig Mies van der Rohe e Le Corbusier.
 
-## Conexões e Referências
+## Conexões e referências
 - [[00 tipos de design/Design de Produto|Design de Produto]]
 - [[00 tipos de design/Design Grafico|Design Gráfico]]
 - **Fontes bibliográficas**: *Peter Behrens and the AEG, 1907-1914* (Tilmann Buddensieg).

@@ -31,6 +31,6 @@ Susan Kare é uma designer gráfica americana de enorme relevância, famosa por 
 - **NeXT**: Contratada por Steve Jobs após sua saída da Apple.
 - **Pinterest**: Atuou como Product Design Lead.
 
-## Conexões e Referências
+## Conexões e referências
 - [[Design Grafico|Design Gráfico]]
 - [[Design de Interface|Design de Interface]]

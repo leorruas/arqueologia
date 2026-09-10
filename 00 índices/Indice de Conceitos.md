@@ -1,5 +1,5 @@
 ---
-title: "Índice de Conceitos"
+title: "Índice de conceitos"
 type: "hub"
 status: "ativo"
 ---

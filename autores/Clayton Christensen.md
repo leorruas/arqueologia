@@ -26,7 +26,7 @@ Professor acadêmico e administrador norte-americano, famoso pela formulação d
 ## Parcerias & Empresas
 - **Colaborações**: Harvard Business School, consultoria estratégica Innosight, Bob Moesta e Michael Raynor.
 
-## Conexões e Referências
+## Conexões e referências
 - [[00 tipos de design/Design de Produto|Design de Produto]], [[00 tipos de design/Design de Servicos|Design de Serviços]]
 - **Fontes bibliográficas**:
   - [[00 índices/Livros Indicados|*Competing Against Luck*]] (2016) - Apresenta o framework Jobs to Be Done, argumentando que a inovação ocorre ao compreender o progresso circunstancial que o usuário tenta realizar.

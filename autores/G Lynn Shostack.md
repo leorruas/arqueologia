@@ -27,6 +27,6 @@ G. Lynn Shostack é uma executiva de serviços financeiros e teórica de marketi
 ## Parcerias & Empresas
 - **Colaborações**: Citibank (onde desenvolveu as primeiras metodologias aplicadas), Bankers Trust, American Marketing Association (AMA).
 
-## Conexões e Referências
+## Conexões e referências
 - [[00 tipos de design/Design de Servicos|Design de Serviços]]
 - **Fontes bibliográficas**: *Designing Services that Deliver* (Artigo clássico na Harvard Business Review, 1984), *How to Design a Service* (European Journal of Marketing, 1982).

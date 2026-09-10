@@ -27,6 +27,6 @@ Dieter Rams é um arquiteto e designer industrial alemão, reconhecido mundialme
 ## Parcerias & Empresas
 - **Colaborações**: Atuou como chefe e diretor de design da [[empresas/Braun|Braun]] de 1961 a 1995. Desenvolveu móveis duráveis para a empresa Vitsœ.
 
-## Conexões e Referências
+## Conexões e referências
 - [[00 tipos de design/Design de Produto|Design de Produto]]
 - **Fontes bibliográficas**: *Dieter Rams: As Little Design as Possible* (Sophie Lovell), *Dieter Rams: Ten Principles for Good Design* (Cees W. de Jong).

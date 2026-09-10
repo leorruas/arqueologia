@@ -25,7 +25,7 @@ O **Controle Remoto** para televisão é um dispositivo de interface sem fio que
 - **Comportamento Aproveitado**: A curiosidade de buscar a melhor alternativa possível e a aversão humana ao tédio ou à espera.
 - **Comportamento Criado**: A navegação contínua e fragmentada de conteúdo (zapping) e a menor tolerância à espera, antecipando o consumo digital moderno.
 
-## Evolução e Desenvolvimento
+## Evolução e desenvolvimento
 - **Do Analógico ao Digital**: A tecnologia evoluiu de cliques mecânicos ultrassônicos (que emitiam cliques de alta frequência ao bater em lâminas de metal internas) para a radiação infravermelha nos anos 1980 e, posteriormente, para Bluetooth e comandos de voz nas smart TVs. O princípio cognitivo de reduzir o esforço de abandonar uma opção para buscar a próxima serviu de ancestral direto para o botão "Próximo Vídeo" do YouTube, o "Autoplay" do Netflix e o gesto de arrastar do TikTok e do Tinder.
 
 ## Referências e onde encontrar

@@ -26,7 +26,7 @@ Autora, facilitadora visual e palestrante norte-americana, conhecida por sua def
 ## Parcerias & Empresas
 - **Colaborações**: Sunni Brown Ink, Dave Gray, James Macanufo.
 
-## Conexões e Referências
+## Conexões e referências
 - [[00 tipos de design/Design de Servicos|Design de Serviços]], [[00 tipos de design/Design Grafico|Design Gráfico]]
 - **Fontes bibliográficas**:
   - [[00 índices/Livros Indicados|*Gamestorming*]] (2010) - Coautora de técnicas de facilitação visual e pensamento gráfico focados em aprimorar workshops cocriativos e design de cooperação.

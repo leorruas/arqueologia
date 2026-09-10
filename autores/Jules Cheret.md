@@ -26,7 +26,7 @@ Jules Chéret foi um pintor, litógrafo e mestre das artes gráficas francês, a
 ## Parcerias & Empresas
 - **Colaborações**: Fundou sua própria gráfica litográfica em Paris em 1866 (mais tarde incorporada pela Imprimerie Chaix).
 
-## Conexões e Referências
+## Conexões e referências
 - [[03 artefatos/Pôster|Pôster]]
 - [[00 tipos de design/Design Grafico|Design Gráfico]]
 - **Fontes Bibliográficas**:

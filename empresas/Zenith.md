@@ -27,5 +27,5 @@ A **Zenith Electronics** (originalmente Zenith Radio Corporation) é uma empresa
 - Eugene J. Polley — Desenvolveu o Flash-Matic (1955), controle remoto sem fio baseado em feixes de luz visível.
 - [[autores/Robert Adler|Robert Adler]] — Desenvolveu o Space Command (1956).
 
-## Conexões e Referências
+## Conexões e referências
 - [[03 artefatos/Controle Remoto|Controle Remoto]]

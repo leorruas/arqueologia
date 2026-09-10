@@ -25,7 +25,7 @@ Jornalista de tecnologia, autor e palestrante norte-americano, reconhecido pela 
 ## Parcerias & Empresas
 - **Colaborações**: Revista Fortune, fundador da empresa de conferências Techonomy Media.
 
-## Conexões e Referências
+## Conexões e referências
 - [[00 tipos de design/Design de Interface|Design de Interface]], [[00 tipos de design/Design de Servicos|Design de Serviços]]
 - **Fontes bibliográficas**:
   - [[00 índices/Livros Indicados|*The Facebook Effect*]] (2010) - Narra a história e as dinâmicas sociológicas por trás do crescimento do Facebook, expondo os efeitos de coordenação social de redes em massa.

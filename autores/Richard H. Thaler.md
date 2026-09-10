@@ -26,7 +26,7 @@ Economista comportamental norte-americano, agraciado com o Prêmio Nobel de Econ
 ## Parcerias & Empresas
 - **Colaborações**: Cass R. Sunstein, Daniel Kahneman, University of Chicago.
 
-## Conexões e Referências
+## Conexões e referências
 - [[00 tipos de design/Design de Interface|Design de Interface]], [[00 tipos de design/Design de Servicos|Design de Serviços]]
 - **Fontes bibliográficas**:
   - [[00 índices/Livros Indicados|*Nudge*]] (2008) - Explora o conceito de Nudge (empurrãozinho), investigando como pequenas mudanças de design na arquitetura de escolha guiam comportamentos de maneira previsível sem impor proibições.

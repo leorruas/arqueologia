@@ -1,5 +1,5 @@
 ---
-title: "Índice de Autores"
+title: "Índice de autores"
 type: "hub"
 status: "ativo"
 ---
@@ -8,26 +8,26 @@ status: "ativo"
 
 Catálogo de designers, pesquisadores, teóricos e pioneiros da história do design catalogados no vault.
 
-## Designers e Teóricos
+## Designers e teóricos
 
-### Século XIX e Início do Século XX (Pioneiros e Bauhaus)
+### Século XIX e início do século XX (pioneiros e Bauhaus)
 - [[autores/Alois Senefelder|Alois Senefelder]] — Invenção da Litografia e Imprensa Planográfica.
 - [[autores/Jules Cheret|Jules Chéret]] — Pôster Litográfico Colorido e Comunicação de Massa.
 - [[autores/Henri de Toulouse Lautrec|Henri de Toulouse-Lautrec]] — Pôster Artístico, Síntese Visual e Publicidade Moderna.
 - [[autores/Peter Behrens|Peter Behrens]] — Desenho Industrial e Identidade Corporativa.
 
-### Meados do Século XX (Modernismo e Design Suíço)
+### Meados do século XX (modernismo e design suíço)
 - [[autores/Dieter Rams|Dieter Rams]] — Design de Produto e Minimalismo (Braun).
 - [[autores/Josef Muller Brockmann|Josef Müller-Brockmann]] — Design Gráfico e Grids (Design Suíço).
 - [[autores/Adrian Frutiger|Adrian Frutiger]] — Tipografia e Sinalização.
 - [[autores/Max Miedinger|Max Miedinger]] — Tipografia (Helvetica).
 
-### Teoria do Design e Wicked Problems
+### Teoria do design e wicked problems
 - [[autores/Horst Rittel|Horst Rittel]] — Metodologia de Design e Wicked Problems.
 - [[autores/Melvin Webber|Melvin Webber]] — Planejamento Urbano e Wicked Problems.
 - [[autores/Herbert Simon|Herbert Simon]] — Ciências do Artificial e Racionalidade Limitada.
 
-### Era Digital e Computação Pessoal
+### Era digital e computação pessoal
 - [[autores/Alan Kay|Alan Kay]] — Pioneiro de interfaces gráficas e da filosofia do Undo (Xerox PARC).
 - [[autores/Douglas Engelbart|Douglas Engelbart]] — Interface Humano-Computador e Mouse.
 - [[autores/Susan Kare|Susan Kare]] — Design de Ícones e Tipografia Digital (Apple Macintosh).
@@ -37,7 +37,7 @@ Catálogo de designers, pesquisadores, teóricos e pioneiros da história do des
 - [[autores/Steve Krug|Steve Krug]] — Usabilidade Web e Experiência do Usuário.
 - [[autores/David Kirkpatrick|David Kirkpatrick]] — Conectividade e Computação Social.
 
-### Design de Serviços, Facilitação e Design Estratégico
+### Design de serviços, facilitação e design estratégico
 - [[autores/G Lynn Shostack|G. Lynn Shostack]] — Service Blueprinting.
 - [[autores/Birgit Mager|Birgit Mager]] — Sistematização e Ensino de Design de Serviços.
 - [[autores/Clayton Christensen|Clayton Christensen]] — Jobs to Be Done e Inovação Disruptiva.
@@ -50,16 +50,16 @@ Catálogo de designers, pesquisadores, teóricos e pioneiros da história do des
 - [[autores/Atul Gawande|Atul Gawande]] — Checklists e Segurança em Sistemas Complexos.
 - [[autores/Alexander Osterwalder|Alexander Osterwalder]] — Canvas de Proposta de Valor e Modelos de Negócios.
 
-### Filosofia, Sociologia e Relações de Poder
+### Filosofia, sociologia e relações de poder
 - [[autores/Francis Bacon|Francis Bacon]] — Método Científico Indutivo.
 - [[autores/Michel Foucault|Michel Foucault]] — Arqueologia do Saber, Dispositivos e Relações de Poder.
 - [[autores/Norbert Elias|Norbert Elias]] — Processo Civilizador, Tempo e Interdependência.
 
-### Economia Comportamental e Arquitetura de Escolha
+### Economia comportamental e arquitetura de escolha
 - [[autores/Richard H. Thaler|Richard H. Thaler]] — Nudges e Economia Comportamental.
 - [[autores/Cass R. Sunstein|Cass R. Sunstein]] — Nudges e Paternalismo Libertário.
 
-### Evolução, Cognição e Cultura Material
+### Evolução, cognição e cultura material
 - [[autores/Merlin Donald|Merlin Donald]] — Evolução Cognitiva, Sistemas de Memória Externa e Exografia.
 - [[autores/John Odling-Smee|John Odling-Smee]] — Construção de Nicho e Herança Ecológica.
 - [[autores/Kevin Laland|Kevin Laland]] — Construção de Nicho e Transmissão Cultural Cumulativa.

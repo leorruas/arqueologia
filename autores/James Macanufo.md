@@ -26,7 +26,7 @@ Designer de informação, facilitador e consultor norte-americano, especialista 
 ## Parcerias & Empresas
 - **Colaborações**: XPLANE, Dave Gray, Sunni Brown.
 
-## Conexões e Referências
+## Conexões e referências
 - [[00 tipos de design/Design de Servicos|Design de Serviços]], [[00 tipos de design/Design Grafico|Design Gráfico]]
 - **Fontes bibliográficas**:
   - [[00 índices/Livros Indicados|*Gamestorming*]] (2010) - Coautor de metodologias visuais de facilitação, fornecendo ferramentas lúdicas e estruturadas para brainstorming e formulação de problemas em equipe.

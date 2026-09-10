@@ -29,7 +29,7 @@ Josef Müller-Brockmann foi um influente designer gráfico, autor e professor su
 - **Escola de Artes Aplicadas de Zurique**: Lecionou como professor a partir de 1957.
 - **Revista Neue Grafik (New Graphic Design)**: Co-fundador e editor ao lado de Richard Paul Lohse, Hans Neuburg e Carlo Vivarelli, propagando o design suíço pelo mundo.
 
-## Conexões e Referências
+## Conexões e referências
 - [[Design Grafico|Design Gráfico]]
 - [[Tipografia|Tipografia]]
 - [[Grid|Grid]]

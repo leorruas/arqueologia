@@ -26,7 +26,7 @@ Designer de produto, consultor e pesquisador norte-americano, responsável pelo 
 ## Parcerias & Empresas
 - **Colaborações**: Bob Moesta, fundador da consultoria Reveal.
 
-## Conexões e Referências
+## Conexões e referências
 - [[00 tipos de design/Design de Produto|Design de Produto]], [[00 tipos de design/Design de Servicos|Design de Serviços]]
 - **Fontes bibliográficas**:
   - [[00 índices/Livros Indicados|*When Coffee and Kale Compete*]] (2016) - Estudo aprofundado do framework Jobs to Be Done sob a perspectiva da substituição de produtos e das forças psicológicas de adoção.

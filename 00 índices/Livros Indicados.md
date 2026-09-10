@@ -1,5 +1,5 @@
 ---
-title: "Livros Indicados"
+title: "Livros indicados"
 type: "indice"
 status: "ativo"
 ---

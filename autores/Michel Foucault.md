@@ -26,7 +26,7 @@ Filósofo, historiador das ideias, crítico literário e teórico social francê
 ## Parcerias & Empresas
 - **Colaborações**: Collège de France, Université de Vincennes (Paris VIII).
 
-## Conexões e Referências
+## Conexões e referências
 - [[00 tipos de design/Design de Interface|Design de Interface]]
 - **Fontes bibliográficas**:
   - [[00 índices/Livros Indicados|*Vigiar e Punir*]] (1975) - Analisa o nascimento das instituições disciplinares e como o design do espaço físico (como o Panóptico) e do tempo atua como tecnologia de vigilância e poder.

@@ -26,7 +26,7 @@ Alois Senefelder foi um ator, dramaturgo e inventor austro-alemão, célebre por
 ## Parcerias & Empresas
 - **Colaborações**: Trabalhou em Munique com a imprensa régia da Baviera e estabeleceu oficinas litográficas na Europa.
 
-## Conexões e Referências
+## Conexões e referências
 - [[03 artefatos/Pôster|Pôster]]
 - [[00 tipos de design/Design Grafico|Design Gráfico]]
 - **Fontes Bibliográficas**:

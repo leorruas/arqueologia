@@ -25,7 +25,7 @@ O **Quadro Branco** (Whiteboard) é uma superfície lisa e não porosa (normalme
 - **Comportamento Aproveitado**: O pensamento visual dinâmico humano, no qual o esboço provisório serve de ferramenta cognitiva para clarear pensamentos complexos.
 - **Comportamento Criado**: O hábito de rascunhar hipóteses livremente em grupo, mapeando ideias de forma não permanente em reuniões de inovação corporativa.
 
-## Evolução e Desenvolvimento
+## Evolução e desenvolvimento
 - **Linhagem do Erro Barato**: O quadro branco integra uma linha evolutiva de redução do custo de arrependimento (Lápis -> Borracha -> Quadro Branco -> [[03 artefatos/Post-it|Post-it]] -> [[02 variaveis/Reversibilidade|Ctrl+Z]]). Nas últimas décadas, seu princípio de superfície colaborativa infinita migrou diretamente para softwares de quadros brancos digitais (como Miro, Figma Jam e Mural).
 
 ## Referências e onde encontrar

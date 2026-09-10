@@ -29,7 +29,7 @@ Loren Brichter é um renomado designer e desenvolvedor de software independente,
 - **Apple**: Contribuiu para as tecnologias de renderização iniciais do iPhone OS.
 - **Twitter**: Entrou após a aquisição da Atebits (sua empresa unipessoal) in 2010.
 
-## Conexões e Referências
+## Conexões e referências
 - [[Design de Interface|Design de Interface]]
 - [[Design de Produto|Design de Produto]]
 - **Fontes bibliográficas**:
