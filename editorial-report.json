@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T23:35:09.062Z",
+  "generatedAt": "2026-09-10T23:35:39.048Z",
   "rule": "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
   "typeDesignRule": "Tipos de design devem funcionar como ensaios disciplinares. Headings do template atual são permitidos; permanecem suspeitos apenas headings enciclopédicos legados.",
   "pathRule": "Percursos devem funcionar como argumentos de leitura e não usar sequência numerada de resumos de artefatos.",
@@ -353,44 +353,9 @@
   "legacyVariableFiles": [],
   "variableMetadataMissingCount": 0,
   "variableMetadataMissingFiles": [],
-  "legacyPathStructureCount": 11,
-  "legacyPathFileCount": 2,
+  "legacyPathStructureCount": 5,
+  "legacyPathFileCount": 1,
   "legacyPathFiles": [
-    {
-      "sourcePath": "05 percursos/Da Parede ao Feed.md",
-      "items": [
-        {
-          "sourcePath": "05 percursos/Da Parede ao Feed.md",
-          "line": 14,
-          "text": "1. [[03 artefatos/Pôster|Pôster]]"
-        },
-        {
-          "sourcePath": "05 percursos/Da Parede ao Feed.md",
-          "line": 18,
-          "text": "2. [[03 artefatos/Hero Section|Hero Section]]"
-        },
-        {
-          "sourcePath": "05 percursos/Da Parede ao Feed.md",
-          "line": 22,
-          "text": "3. [[03 artefatos/Botao Like|Botão Like]]"
-        },
-        {
-          "sourcePath": "05 percursos/Da Parede ao Feed.md",
-          "line": 26,
-          "text": "4. [[03 artefatos/Pull to Refresh|Pull to Refresh]]"
-        },
-        {
-          "sourcePath": "05 percursos/Da Parede ao Feed.md",
-          "line": 30,
-          "text": "5. [[03 artefatos/Infinite Scroll|Infinite Scroll]]"
-        },
-        {
-          "sourcePath": "05 percursos/Da Parede ao Feed.md",
-          "line": 34,
-          "text": "O fio que une o percurso"
-        }
-      ]
-    },
     {
       "sourcePath": "05 percursos/Da Parede ao Interlocutor.md",
       "items": [
