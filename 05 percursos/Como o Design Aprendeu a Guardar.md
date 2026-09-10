@@ -29,10 +29,16 @@ A memória agora deixa de ser apenas pessoal. Um protocolo faz uma solicitação
 
 ## 5. [[03 artefatos/Assinatura|Assinatura]]
 
-Termine observando que guardar fatos não basta. Sistemas sociais precisam guardar também responsabilidade e autoria. A assinatura acopla uma pessoa a um registro para que a ação continue produzindo efeitos no futuro.
+Observe que guardar fatos não basta. Sistemas sociais precisam guardar também responsabilidade e autoria. A assinatura acopla uma pessoa a um registro para que a ação continue produzindo efeitos no futuro.
+
+## 6. [[03 artefatos/LLM Wiki|LLM Wiki]]
+
+Agora não é apenas o registro que persiste. A síntese produzida sobre registros também pode ser mantida e reescrita pelo sistema. A memória externa começa a participar de sua própria organização.
+
+Isso desloca a pergunta de “quem precisa lembrar?” para outra mais difícil: **quem pode editar a memória que os próximos raciocínios usarão?** A mesma infraestrutura que reduz o custo de reconstruir relações pode fazer uma interpretação equivocada ganhar permanência e circular como contexto futuro.
 
 ## O fio que une o percurso
 
-A leitura sugerida é que sistemas de memória externa não apenas armazenam informação. Eles distribuem responsabilidade: quem precisa lembrar, quem precisa provar, quem precisa preservar e quem responde pelo registro.
+A leitura sugerida é que sistemas de memória externa não apenas armazenam informação. Eles distribuem responsabilidade: quem precisa lembrar, quem precisa provar, quem precisa preservar, quem responde pelo registro e, no caso de sistemas mantidos por agentes, quem pode reorganizar aquilo que será lembrado depois.
 
-Continue em [[04 genealogias/Permanencia e Memoria Externa|Permanência e Memória Externa]].
+Continue em [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]].
