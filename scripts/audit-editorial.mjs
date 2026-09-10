@@ -49,15 +49,22 @@ function extrairTitulo(frontmatter) {
   return match ? match[1].replace(/["']$/, "").trim() : "";
 }
 
+function headingEhApenasLink(texto) {
+  const limpo = texto.replace(/^\d+\.\s*/, "").trim();
+  return /^\[\[[^\]]+\]\]$/.test(limpo);
+}
+
 const candidatos = [];
 
 for (const arquivo of listarMarkdowns(raiz)) {
   const relativo = path.relative(raiz, arquivo).split(path.sep).join("/");
+  const categoria = relativo.split("/")[0];
   const markdown = fs.readFileSync(arquivo, "utf8");
   const frontmatter = markdown.match(/^---\r?\n([\s\S]*?)\r?\n---/)?.[1] || "";
   const titulo = extrairTitulo(frontmatter);
 
-  if (titulo && palavrasCapitalizadas(titulo).length >= 1) {
+  const categoriaDeNomeProprio = categoria === "autores" || categoria === "empresas";
+  if (!categoriaDeNomeProprio && titulo && palavrasCapitalizadas(titulo).length >= 1) {
     candidatos.push({ sourcePath: relativo, kind: "frontmatter-title", text: titulo });
   }
 
@@ -66,7 +73,7 @@ for (const arquivo of listarMarkdowns(raiz)) {
     if (!match) return;
     const nivel = match[1].length;
     const texto = match[2].replace(/\s+#+\s*$/, "").trim();
-    if (nivel === 1) return;
+    if (nivel === 1 || headingEhApenasLink(texto)) return;
     if (palavrasCapitalizadas(texto).length >= 1) {
       candidatos.push({ sourcePath: relativo, kind: `h${nivel}`, line: indice + 1, text: texto });
     }
