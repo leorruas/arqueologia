@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T23:10:37.067Z",
+  "generatedAt": "2026-09-10T23:11:01.388Z",
   "rule": "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
   "artifactSheetRule": "Cada artefato deve conter uma única Ficha arqueológica em tabela Campo/Registro com os 22 campos definidos no template atual.",
   "candidateCount": 34,
@@ -324,9 +324,24 @@
       ]
     }
   ],
-  "legacyArtifactStructureCount": 2,
-  "legacyArtifactFileCount": 1,
+  "legacyArtifactStructureCount": 4,
+  "legacyArtifactFileCount": 2,
   "legacyArtifactFiles": [
+    {
+      "sourcePath": "03 artefatos/Espaço entre palavras.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Espaço entre palavras.md",
+          "line": null,
+          "text": "Ficha arqueológica ausente"
+        },
+        {
+          "sourcePath": "03 artefatos/Espaço entre palavras.md",
+          "line": 59,
+          "text": "Ficha resumo"
+        }
+      ]
+    },
     {
       "sourcePath": "03 artefatos/QR Code.md",
       "items": [
