@@ -11,7 +11,7 @@ const camposPadrao = [
   ["Produto ou contexto", ["produto ou contexto", "produto ou contexto onde apareceu", "produto onde apareceu", "contexto onde apareceu"]],
   ["Tipo(s) de design", ["tipo(s) de design", "tipos de design", "tipo de design"]],
   ["Empresas ou instituições relacionadas", ["empresas ou instituições relacionadas", "empresas relacionadas", "instituições relacionadas"]],
-  ["Problema original", ["problema original"]],
+  ["Problema original", ["problema original", "problema que resolvia"]],
   ["Mundo antes", ["mundo antes", "mundo antes da inovacao"]],
   ["Invenção", ["invencao"]],
   ["Refinamento", ["refinamento"]],
@@ -19,7 +19,7 @@ const camposPadrao = [
   ["Padronização", ["padronizacao"]],
   ["Hipótese de design", ["hipotese de design"]],
   ["Comportamento aproveitado", ["comportamento aproveitado"]],
-  ["Comportamento produzido", ["comportamento produzido", "comportamento criado"]],
+  ["Comportamento produzido", ["comportamento produzido", "comportamento criado", "comportamento criado ou normalizado"]],
   ["Relação de poder", ["relacao de poder"]],
   ["Consequências inesperadas", ["consequencias inesperadas", "consequencia inesperada"]],
   ["Destino ou transformação posterior", ["destino ou transformacao posterior", "destino do artefato", "transformacao posterior"]],
@@ -30,7 +30,7 @@ const camposPadrao = [
   ["Parentes", ["parentes", "artefatos relacionados", "artefatos relacionados para estudos futuros"]],
   ["Leituras-chave", ["leituras-chave", "leituras chave", "leituras"]],
   ["Princípio de design revelado", ["principio de design revelado", "principio revelado", "principio de design"]],
-  ["Questão em aberto", ["questao em aberto", "perguntas em aberto"]]
+  ["Questão em aberto", ["questao em aberto", "perguntas em aberto", "questões em aberto"]]
 ];
 
 function normalizar(chave) {
@@ -38,6 +38,13 @@ function normalizar(chave) {
 }
 
 const nomesPadrao = new Set(camposPadrao.map(([campo]) => normalizar(campo)));
+const placeholders = [
+  /^não explicitado na ficha anterior\.?$/i,
+  /^ainda não explicitado\.?$/i,
+  /^relação disciplinar ainda não classificada\.?$/i,
+  /^ainda não integrado a um percurso editorial\.?$/i,
+  /^nenhuma leitura-chave registrada no índice bibliográfico até o momento\.?$/i
+];
 
 function ler(rel) {
   const p = path.join(raiz, rel);
@@ -65,7 +72,7 @@ function alvoDoLink(link) {
 }
 
 function extrairSecao(markdown) {
-  const inicioMatch = /^##\s+Ficha arqueológica\s*$/mi.exec(markdown);
+  const inicioMatch = /^##\s+(Ficha arqueológica|Ficha resumo)\s*$/mi.exec(markdown);
   if (!inicioMatch) return null;
   const corpoInicio = inicioMatch.index + inicioMatch[0].length;
   const resto = markdown.slice(corpoInicio);
@@ -108,7 +115,7 @@ function parsearFicha(corpo) {
 function obter(dados, aliases) {
   for (const alias of aliases) {
     const valor = dados.get(normalizar(alias));
-    if (valor && !/Não explicitado na ficha anterior\.?/i.test(valor)) return valor;
+    if (valor && !placeholders.some(re => re.test(valor.trim()))) return valor;
   }
   return "";
 }
@@ -136,8 +143,7 @@ let tipoAtual = "";
 for (const linha of indiceArtefatos.split(/\r?\n/)) {
   const h = linha.match(/^##\s+(.+)$/);
   if (h) tipoAtual = mapaHeadingTipo.get(normalizar(h[1])) || "";
-  const links = wikilinks(linha, "03 artefatos/");
-  for (const link of links) if (tipoAtual) mapaTipoPorArtefato.set(normalizar(alvoDoLink(link)), tipoAtual);
+  for (const link of wikilinks(linha, "03 artefatos/")) if (tipoAtual) mapaTipoPorArtefato.set(normalizar(alvoDoLink(link)), tipoAtual);
 }
 
 function percursosDoArtefato(alvo) {
@@ -209,7 +215,8 @@ for (const arquivo of listarArquivos(diretorioArtefatos)) {
   const valores = montarValores(dados, markdown, alvo);
   const jaPadrao = dados.size === camposPadrao.length && [...nomesPadrao].every(c => dados.has(c));
   const camposNovosComDados = ["Tipo(s) de design", "Empresas ou instituições relacionadas", "Percurso(s)", "Leituras-chave"].every(c => obter(dados, [c]));
-  if (jaPadrao && camposNovosComDados) continue;
+  const headingLegado = /^##\s+Ficha resumo\s*$/mi.test(markdown);
+  if (jaPadrao && camposNovosComDados && !headingLegado) continue;
   const novaSecao = `## Ficha arqueológica${tabelaPadrao(valores)}`;
   const atualizado = markdown.slice(0, secao.inicio) + novaSecao + markdown.slice(secao.fim);
   fs.writeFileSync(arquivo, atualizado);
