@@ -88,9 +88,17 @@ function headingEhApenasLink(texto) {
 }
 
 function corpoDaSecao(markdown, titulo) {
-  const padrao = new RegExp(`^##\\s+${titulo}\\s*$([\\s\\S]*?)(?=^##\\s+|\\z)`, "im");
-  const match = markdown.match(padrao);
-  return match?.[1] || "";
+  const linhas = markdown.split(/\r?\n/);
+  const alvo = `## ${titulo}`.toLowerCase();
+  const inicio = linhas.findIndex(linha => linha.trim().toLowerCase() === alvo);
+  if (inicio < 0) return "";
+
+  const corpo = [];
+  for (let i = inicio + 1; i < linhas.length; i += 1) {
+    if (/^##\s+/.test(linhas[i])) break;
+    corpo.push(linhas[i]);
+  }
+  return corpo.join("\n");
 }
 
 const candidatos = [];
