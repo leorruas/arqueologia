@@ -83,9 +83,28 @@ Se uma fonte existente não sustentar a afirmação à qual parece associada, ma
 
 ## Fichas
 
-Cada tipo de nota deve ter uma única ficha de consulta ao final. Artefatos usam `Ficha arqueológica`. Genealogias usam `Ficha da genealogia`. Conceitos e variáveis devem seguir seus próprios templates quando forem revisados.
+Notas que possuem ficha definida em seu template devem ter uma única ficha de consulta, posicionada depois da narrativa e antes das referências. Artefatos usam `Ficha arqueológica`. Genealogias usam `Ficha da genealogia`. Conceitos e variáveis seguem seus próprios templates. Tipos de design e percursos não precisam de ficha: neles, a síntese deve permanecer incorporada ao argumento e às conexões finais.
 
 A ficha não deve repetir longamente a narrativa. Ela comprime o estudo em campos comparáveis. Informações que não cabem sem perda de nuance permanecem no corpo do artigo.
+
+## Tipos de design
+
+Notas em `00 tipos de design/` são **ensaios disciplinares**, não verbetes enciclopédicos nem índices de profissionais. O objetivo não é responder apenas “o que é design gráfico?” ou “quem foram seus pioneiros?”, mas investigar **que classe de problema passou a ser percebida, nomeada e tratada como campo de projeto**.
+
+A abertura deve partir de uma tensão concreta do campo: tornar linguagem visível, tornar sistemas operáveis, industrializar objetos sem perder inteligibilidade, coordenar serviços distribuídos, projetar comportamento probabilístico etc. A história da disciplina entra para explicar como essa tensão ganhou práticas, instituições, vocabulários e critérios próprios.
+
+Preferir de três a cinco seções editoriais que avancem um argumento. Evitar como esqueleto visível os headings `Origens e surgimento`, `Evolução e desenvolvimento`, `Figuras e autores de destaque`, `Empresas e estúdios de destaque` e equivalentes. Autores, organizações, escolas e tecnologias devem aparecer no ponto da narrativa em que explicam uma transformação, com seu papel histórico especificado.
+
+Um tipo de design deve, quando relevante:
+
+- mostrar o problema que existia antes de o campo receber um nome profissional;
+- distinguir práticas antigas da posterior consolidação da disciplina;
+- explicar que hipótese recorrente sobre pessoas, materiais, informação ou organização o campo tende a operar;
+- mostrar fronteiras porosas com outros tipos de design, sem fingir territórios exclusivos;
+- usar artefatos do vault como evidência concreta de como a área pensa, e não como uma lista exaustiva de backlinks;
+- terminar abrindo rotas de leitura para conceitos, genealogias, percursos e um conjunto **curado** de artefatos representativos.
+
+A nota de tipo não substitui o `Índice de artefatos`. Se a única função de um bloco for listar todos os estudos classificados naquela área, o conteúdo pertence ao índice, não ao ensaio disciplinar.
 
 ## Genealogias
 
@@ -94,6 +113,24 @@ Genealogias são textos de síntese, não listas de backlinks. Devem começar pe
 Não presumir descendência histórica. O parentesco pode ser histórico, funcional, semiótico, comportamental, institucional ou uma hipótese comparativa do projeto. Essa natureza deve ficar clara no texto e na ficha.
 
 A genealogia pode usar referências dos estudos ligados como base interna. Deve adicionar referência própria quando fizer uma afirmação histórica ou teórica externa que não esteja apenas sintetizando os artefatos já estudados.
+
+## Percursos
+
+Notas em `05 percursos/` são **capítulos de leitura**, não playlists de links nem listas numeradas de artefatos. Um percurso existe porque uma pergunta ganha força quando atravessa vários estudos em determinada ordem.
+
+A unidade visível do texto deve ser a **mudança de ideia**, não o nome de cada artigo. Evitar o padrão `## 1. [[Artefato]]`, `## 2. [[Artefato]]` e equivalentes como estrutura principal. Links devem aparecer dentro de parágrafos que expliquem por que a passagem de um estudo para outro altera a pergunta.
+
+Um percurso deve:
+
+- abrir com uma pergunta ou transformação claramente formulada;
+- declarar quando a sequência é editorial e não uma genealogia histórica;
+- organizar de três a seis movimentos conceituais com headings narrativos próprios;
+- conectar pelo menos dois artefatos dentro do mesmo argumento sempre que a comparação for o que produz a descoberta;
+- mostrar o que muda de um estágio para outro — custo, capacidade, suporte, comportamento, poder, temporalidade, visibilidade ou responsabilidade;
+- incluir contradições e bifurcações quando a história não for linear;
+- terminar com uma formulação que só se torna visível depois de percorrer os casos e apontar genealogias ou estudos para continuidade.
+
+Um percurso não deve resumir cada artigo isoladamente. Seu valor está no **intervalo entre os artigos**: a relação, a mudança e a pergunta que emerge quando um caso altera a leitura do anterior.
 
 ## Relações entre artefatos
 
@@ -137,5 +174,7 @@ Antes de considerar um estudo publicado, verificar:
 - variáveis usadas como eixos comparáveis;
 - referências junto das afirmações históricas centrais;
 - adequação entre cada afirmação e a fonte usada para sustentá-la;
-- uma única ficha padronizada ao final;
+- ficha padronizada quando o tipo de nota possuir ficha;
+- tipos de design escritos como ensaios disciplinares, sem estrutura enciclopédica de pioneiros/marcos/empresas;
+- percursos escritos como argumentos entre estudos, sem sequência de resumos isolados;
 - comparação com o inventário da versão anterior para evitar perda de conteúdo.
