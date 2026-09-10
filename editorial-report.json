@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-10T22:38:32.093Z",
+  "generatedAt": "2026-09-10T22:41:56.436Z",
   "rule": "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
   "artifactSheetRule": "Cada artefato deve conter uma única Ficha arqueológica em tabela Campo/Registro com os 22 campos definidos no template atual.",
-  "candidateCount": 24,
-  "fileCount": 20,
+  "candidateCount": 27,
+  "fileCount": 21,
   "files": [
     {
       "sourcePath": "00 índices/Indice de Autores.md",
@@ -61,6 +61,28 @@
           "kind": "h2",
           "line": 54,
           "text": "O calendário não apenas descreve o futuro. Ele começa a governá-lo"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Customer Journey Map.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Customer Journey Map.md",
+          "kind": "frontmatter-title",
+          "text": "Customer Journey Map"
+        },
+        {
+          "sourcePath": "03 artefatos/Customer Journey Map.md",
+          "kind": "h2",
+          "line": 44,
+          "text": "O Journey Map e o JTBD olham para a mesma história por ângulos diferentes"
+        },
+        {
+          "sourcePath": "03 artefatos/Customer Journey Map.md",
+          "kind": "h2",
+          "line": 64,
+          "text": "Journey Map não é Service Blueprint"
         }
       ]
     },

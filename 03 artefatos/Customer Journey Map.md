@@ -35,9 +35,9 @@ Por isso, um Journey Map produzido apenas em workshop pode ser visualmente convi
 
 A literatura de prática recomenda alimentar mapas com evidências qualitativas e quantitativas. Entrevistas e observação ajudam a reconstruir motivações, interpretações e momentos de transição; surveys, analytics e métricas podem indicar frequência, magnitude e distribuição de comportamentos e problemas.[^3]
 
-A [[03 artefatos/Entrevista Qualitativa|entrevista qualitativa]] é particularmente importante porque uma jornada contém coisas que logs dificilmente registram: por que alguém hesitou, o que esperava que acontecesse, qual alternativa considerou, quando começou a desconfiar ou que evento fez uma situação mudar de significado.
+A entrevista qualitativa é particularmente importante porque uma jornada contém coisas que logs dificilmente registram: por que alguém hesitou, o que esperava que acontecesse, qual alternativa considerou, quando começou a desconfiar ou que evento fez uma situação mudar de significado.
 
-Já a [[03 artefatos/Pesquisa Quantitativa|pesquisa quantitativa]] pode responder outra pergunta: aquilo que apareceu em algumas histórias é recorrente? Em quais segmentos? Em qual etapa? Com qual magnitude? Uma pesquisa recente sobre métodos de service design mostra justamente designers combinando mapeamento de jornada, entrevistas, surveys e métricas para relacionar dados quantitativos aos pontos de contato.[^4]
+Já a pesquisa quantitativa pode responder outra pergunta: aquilo que apareceu em algumas histórias é recorrente? Em quais segmentos? Em qual etapa? Com qual magnitude? Uma pesquisa recente sobre métodos de service design mostra justamente designers combinando mapeamento de jornada, entrevistas, surveys e métricas para relacionar dados quantitativos aos pontos de contato.[^4]
 
 Assim, o mapa não é a pesquisa. É uma **estrutura de síntese** que organiza evidências diferentes numa representação temporal.
 
@@ -114,7 +114,7 @@ Talvez sua principal contribuição não seja “mostrar a jornada do cliente”
 | **Conceitos relacionados** | [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Redução de Inferências|Redução de inferências]], [[01 conceitos/Ecologia de Artefatos|Ecologia de artefatos]], [[01 conceitos/Investigação|Investigação]], [[01 conceitos/Formulação|Formulação]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Atrito Decisorio|Atrito decisório]], [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]] |
 | **Genealogia** | Parente funcional de representações que tornam processos e sequências distribuídas inspecionáveis |
-| **Parentes** | [[03 artefatos/Service Blueprint|Service Blueprint]], [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Entrevista Qualitativa|Entrevista qualitativa]], [[03 artefatos/Pesquisa Quantitativa|Pesquisa quantitativa]], [[03 artefatos/Storyboards|Storyboard]] |
+| **Parentes** | [[03 artefatos/Service Blueprint|Service Blueprint]], [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], Entrevista qualitativa, Pesquisa quantitativa, Storyboard |
 | **Princípio de design revelado** | Uma experiência distribuída no tempo pode se tornar discutível quando é comprimida numa representação comum, desde que o mapa preserve a diferença entre evidência e hipótese |
 | **Questão em aberto** | Como representar jornadas que são cíclicas, interrompidas, paralelas ou coletivas sem forçá-las a uma linha temporal limpa demais? |
 
