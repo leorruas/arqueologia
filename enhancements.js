@@ -5,14 +5,6 @@ let artigosIndice = [];
 let indiceMontado = false;
 let ultimaRotaRelacionada = "";
 
-function normalizarTexto(valor = "") {
-  return String(valor)
-    .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "")
-    .toLowerCase()
-    .trim();
-}
-
 function tituloDaEntrada(item) {
   return String(item?.title || item?.fileTitle || "")
     .replace(/^\d+\.\s*/, "")
@@ -25,16 +17,12 @@ function rotaDaEntrada(item) {
   return `#/estudo/${encodeURIComponent(item.category)}/${encodeURIComponent(tituloDaEntrada(item))}`;
 }
 
-function criarLink(item, classe) {
+function criarLink(item, classe = "") {
   const link = document.createElement("a");
   link.className = classe;
   link.href = rotaDaEntrada(item);
   link.textContent = tituloDaEntrada(item);
   return link;
-}
-
-function porCaminho(path) {
-  return artigosIndice.find(item => item.sourcePath === path) || null;
 }
 
 function tiposDeDesign() {
@@ -81,7 +69,6 @@ function montarCabecalhoBloco(titulo, contagem) {
   total.className = "indice-contagem";
   total.textContent = contagem;
   cabecalho.appendChild(total);
-
   return cabecalho;
 }
 
@@ -136,7 +123,6 @@ function montarIndice() {
   tipos.forEach(tipo => {
     const relacionados = artefatosRelacionadosAoTipo(tipo);
     if (!relacionados.length) return;
-
     relacionados.forEach(item => classificados.add(item.sourcePath));
 
     const grupo = document.createElement("section");
@@ -144,7 +130,7 @@ function montarIndice() {
 
     const h3 = document.createElement("h3");
     h3.className = "indice-grupo-titulo";
-    h3.appendChild(criarLink(tipo, ""));
+    h3.appendChild(criarLink(tipo));
     grupo.appendChild(h3);
 
     const lista = document.createElement("div");
@@ -182,7 +168,6 @@ function montarIndice() {
       window.setTimeout(() => document.getElementById("indice-acervo")?.scrollIntoView({ behavior: "smooth", block: "start" }), 30);
     });
   }
-
   sincronizarVisibilidadeIndice();
 }
 
@@ -198,15 +183,12 @@ function normalizarListasDoArtigo() {
   const corpo = document.getElementById("artigo-corpo");
   if (!corpo) return;
 
-  corpo.querySelectorAll("li").forEach(li => li.classList.remove("lista-grupo"));
   corpo.querySelectorAll("li").forEach(li => {
     const temSublista = Array.from(li.children).some(filho => filho.tagName === "UL" || filho.tagName === "OL");
-    if (!temSublista) return;
-
     const primeiro = li.firstElementChild;
     const strongDireto = primeiro?.tagName === "STRONG";
     const strongEmParagrafo = primeiro?.tagName === "P" && primeiro.children.length === 1 && primeiro.firstElementChild?.tagName === "STRONG";
-    if (strongDireto || strongEmParagrafo) li.classList.add("lista-grupo");
+    li.classList.toggle("lista-grupo", Boolean(temSublista && (strongDireto || strongEmParagrafo)));
   });
 }
 
@@ -239,7 +221,6 @@ function renderizarRelacoesDoArtigo() {
 
   let relacionados = [];
   let titulo = "";
-
   if (atual.category === "00 tipos de design") {
     relacionados = artefatosRelacionadosAoTipo(atual);
     titulo = "artefatos relacionados";
@@ -247,7 +228,6 @@ function renderizarRelacoesDoArtigo() {
     relacionados = tiposRelacionadosAoArtefato(atual);
     titulo = "tipos de design";
   }
-
   if (!relacionados.length) return;
 
   const secao = document.createElement("section");
@@ -255,11 +235,9 @@ function renderizarRelacoesDoArtigo() {
 
   const cabecalho = document.createElement("div");
   cabecalho.className = "relacoes-design-cabecalho";
-
   const h3 = document.createElement("h3");
   h3.textContent = titulo;
   cabecalho.appendChild(h3);
-
   const total = document.createElement("span");
   total.textContent = `${relacionados.length} ${relacionados.length === 1 ? "relação" : "relações"}`;
   cabecalho.appendChild(total);
@@ -267,9 +245,8 @@ function renderizarRelacoesDoArtigo() {
 
   const lista = document.createElement("div");
   lista.className = "relacoes-design-lista";
-  relacionados.forEach(item => lista.appendChild(criarLink(item, "")));
+  relacionados.forEach(item => lista.appendChild(criarLink(item)));
   secao.appendChild(lista);
-
   nav.parentNode.insertBefore(secao, nav);
 }
 
