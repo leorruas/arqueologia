@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-10T18:28:47.465Z",
+  "generatedAt": "2026-09-10T18:30:23.756Z",
   "rule": "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
-  "candidateCount": 20,
+  "candidateCount": 21,
   "fileCount": 17,
   "files": [
     {
@@ -86,6 +86,12 @@
           "sourcePath": "03 artefatos/Jobs to Be Done.md",
           "kind": "frontmatter-title",
           "text": "Jobs to Be Done"
+        },
+        {
+          "sourcePath": "03 artefatos/Jobs to Be Done.md",
+          "kind": "h2",
+          "line": 62,
+          "text": "Quando o Job vira slogan"
         }
       ]
     },
