@@ -43,6 +43,30 @@ const headingsLegadosVariavel = new Set([
   "redistribui a variável",
   "ficha resumo da variável"
 ]);
+const camposFichaArtefato = [
+  "Artefato",
+  "Período",
+  "Autoria",
+  "Produto ou contexto",
+  "Problema original",
+  "Mundo antes",
+  "Invenção",
+  "Refinamento",
+  "Popularização",
+  "Padronização",
+  "Hipótese de design",
+  "Comportamento aproveitado",
+  "Comportamento produzido",
+  "Relação de poder",
+  "Consequências inesperadas",
+  "Destino ou transformação posterior",
+  "Conceitos relacionados",
+  "Variáveis relacionadas",
+  "Genealogia",
+  "Parentes",
+  "Princípio de design revelado",
+  "Questão em aberto"
+];
 const metadadosConceitoObrigatorios = ["status", "origem", "grau"];
 const metadadosVariavelObrigatorios = ["status", "eixo"];
 
@@ -101,6 +125,15 @@ function corpoDaSecao(markdown, titulo) {
   return corpo.join("\n");
 }
 
+function normalizarCampo(texto) {
+  return texto
+    .replace(/\*\*/g, "")
+    .trim()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase();
+}
+
 const candidatos = [];
 const estruturasLegadasArtefato = [];
 const estruturasLegadasConceito = [];
@@ -144,15 +177,28 @@ for (const arquivo of listarMarkdowns(raiz)) {
       estruturasLegadasArtefato.push({ sourcePath: relativo, line: null, text: "Ficha arqueológica ainda usa lista legada em vez de tabela" });
     }
 
-    const referencias = corpoDaSecao(markdown, "Referências");
-    if (/^\s*\d+\.\s+/m.test(referencias)) {
-      estruturasLegadasArtefato.push({ sourcePath: relativo, line: null, text: "Referências ainda usam lista numerada em vez de notas de rodapé" });
+    if (fichas.length === 1 && !/^\s*\|\s*Campo\s*\|\s*Registro\s*\|/mi.test(ficha)) {
+      estruturasLegadasArtefato.push({ sourcePath: relativo, line: null, text: "Ficha arqueológica não usa a tabela padrão Campo/Registro" });
     }
 
-    const indiceFicha = markdown.search(/^##\s+Ficha arqueológica\s*$/mi);
-    const indiceReferencias = markdown.search(/^##\s+Referências\s*$/mi);
-    if (indiceFicha >= 0 && indiceReferencias >= 0 && indiceReferencias < indiceFicha) {
-      estruturasLegadasArtefato.push({ sourcePath: relativo, line: null, text: "Referências aparecem antes da Ficha arqueológica" });
+    if (fichas.length === 1) {
+      const camposPresentes = new Set();
+      for (const linha of ficha.split(/\r?\n/)) {
+        const match = linha.match(/^\s*\|\s*(.+?)\s*\|/);
+        if (!match) continue;
+        const campo = normalizarCampo(match[1]);
+        if (campo === "campo" || /^-+$/.test(campo)) continue;
+        camposPresentes.add(campo);
+      }
+
+      const ausentes = camposFichaArtefato.filter(campo => !camposPresentes.has(normalizarCampo(campo)));
+      if (ausentes.length) {
+        estruturasLegadasArtefato.push({
+          sourcePath: relativo,
+          line: null,
+          text: `Ficha arqueológica sem campos padrão: ${ausentes.join(", ")}`
+        });
+      }
     }
   }
 
@@ -197,6 +243,7 @@ const legadosVariavelPorArquivo = agruparPorArquivo(estruturasLegadasVariavel);
 const relatorio = {
   generatedAt: new Date().toISOString(),
   rule: "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
+  artifactSheetRule: "Cada artefato deve conter uma única Ficha arqueológica em tabela Campo/Registro com os 22 campos definidos no template atual.",
   candidateCount: candidatos.length,
   fileCount: porArquivo.size,
   files: [...porArquivo.entries()].map(([sourcePath, items]) => ({ sourcePath, items })),
@@ -218,7 +265,7 @@ const relatorio = {
 fs.writeFileSync(path.join(raiz, "editorial-report.json"), JSON.stringify(relatorio, null, 2));
 console.log(
   `Auditoria editorial: ${candidatos.length} candidatos em ${porArquivo.size} arquivos; ` +
-  `${estruturasLegadasArtefato.length} estruturas legadas em ${legadosArtefatoPorArquivo.size} artefatos; ` +
+  `${estruturasLegadasArtefato.length} problemas de ficha/estrutura em ${legadosArtefatoPorArquivo.size} artefatos; ` +
   `${estruturasLegadasConceito.length} headings legados em ${legadosConceitoPorArquivo.size} conceitos; ` +
   `${metadadosConceitoAusentes.length} conceitos com metadados obrigatórios ausentes; ` +
   `${estruturasLegadasVariavel.length} headings legados em ${legadosVariavelPorArquivo.size} variáveis; ` +
