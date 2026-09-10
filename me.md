@@ -2,62 +2,79 @@
 title: "me"
 type: "perfil-pessoal"
 status: "ativo"
-leitura: "mandatória — ler antes de qualquer operação no vault"
+leitura: "mandatória: ler antes de qualquer operação no vault"
 ---
 
 # me
 
 > [!IMPORTANT]
-> LEITURA MANDATÓRIA PARA AGENTES: Este arquivo é a âncora de identidade do vault. ABSOLUTAMENTE TODO agente ou assistente de IA deve ler este documento na íntegra antes de qualquer operação. Ele define quem sou, como penso, as regras críticas de escrita e os protocolos de atualização de log/index que regem este espaço de Arqueologia do Design.
-
----
+> Este arquivo é a âncora operacional do vault. Antes de alterar conteúdo, leia também [[Instrucoes de Arqueologia|Instruções de Arqueologia]].
 
 ## Quem sou
 
-**Leo Ruas** — Designer estratégico e pesquisador de UX, brasileiro, baseado em Belo Horizonte (BH). Atuo na interseção entre pesquisa qualitativa, inteligência artificial e sistemas de conhecimento. Trabalho para o IFMG como designer/servidor, além de consultoria e projetos de produto.
+**Leo Ruas**: designer estratégico e pesquisador de UX, brasileiro, baseado em Belo Horizonte. Atuo na interseção entre pesquisa qualitativa, inteligência artificial e sistemas de conhecimento.
 
-### Fatos Relevantes
-- Língua nativa: **Português (pt-BR)**. Escrevo e penso em português.
+### Contexto de trabalho
+
+- Língua nativa: português do Brasil.
 - Background híbrido: design, filosofia e dados.
-- Trabalho melhor com **contexto denso** — prefiro um agente que leu tudo do que um que pergunta o óbvio.
-- Este vault é focado na **Arqueologia do Design**: resgatar, documentar e analisar diferentes tipos de design, autores, empresas, artefatos e suas evoluções históricas.
-
----
+- Trabalho melhor com contexto denso e continuidade entre estudos.
+- Este vault é focado na Arqueologia do Design: investigar ideias de design a partir de artefatos concretos.
 
 ## Como trabalho com IA neste vault
 
-### Princípios de Co-criação
-1. **Rigor Histórico e Arqueológico**: Não invente fatos, anos, autores ou criações. Se uma informação for incerta ou não documentada, deixe isso explícito ou pergunte.
-2. **Sem Emojis**: Não gosto de emojis. Nenhum arquivo neste vault deve conter emojis para fins decorativos ou estruturais. Remova-os ou evite-os sempre.
-3. **Wikilinks Extensos**: Conecte tudo. Sempre que citar um autor, empresa, tipo de design ou artefato, use [[Wikilinks]] com caminhos relativos ao root (ex: [[autores/Dieter Rams|Dieter Rams]]).
-4. **Ficha Resumo Obrigatória**: Toda nota sobre um artefato na pasta 03 artefatos/ deve conter obrigatoriamente, ao final do arquivo, a seção ### Ficha Resumo estruturada com os campos essenciais do artefato.
-5. **Preservação do Arquivo de Inbox**: Ao ingerir notas do diretório de inbox (como `00 inbox/`), nunca delete os arquivos originais. Em vez disso, apenas limpe o conteúdo do texto ingerido, preservando o frontmatter e o título da nota.
-6. **Mapeamento de Conceitos e Variáveis**: Ao criar ou analisar um artefato, extraia ao máximo os conceitos e variáveis envolvidos (nas pastas 01 conceitos/ e 02 variaveis/). Identifique quais variáveis o design ativamente aumentou/maximizou ou diminuiu/minimizou e cruze essas relações atualizando extensivamente os arquivos correspondentes naquelas pastas.
-7. **Atualização Automática de Índices e Logs**: Toda vez que criar ou alterar significativamente uma nota, atualize o index.md correspondente e o log.md. O log.md deve ser mantido em ordem cronológica decrescente (com a data mais recente no topo).
-8. **Criação Imediata na Ingestão**: Se o texto de ingestão (ou a inbox) já contiver a Ficha Resumo ou Ficha Arqueológica estruturada de um artefato, crie a nota do artefato correspondente na pasta 03 artefatos/ imediatamente durante o processo.
-9. **Associação de Livros a Autores**: Ao citar ou processar um autor durante a ingestão, busque ativamente qual obra ou livro relevante dele pode ser indicado. Adicione essa recomendação na Ficha do autor ou do artefato e inclua-a no índice [[00 índices/Livros Indicados|Livros Indicados]].
-10. **Aproveitamento e Atualização Incremental**: Ao realizar a ingestão de novos textos, extraia o máximo de informações e novas conexões sobre artefatos já existentes. Atualize ativamente as notas desses artefatos antigos na pasta `03 artefatos/` adicionando novos significados, linhagens, parentes ou reflexões trazidos pela discussão recente.
-11. **As Quatro Camadas de Análise Crítica (Relações de Poder)**: Toda análise de artefato deve investigar quatro dimensões críticas: **Problema** (o que resolve), **Hipótese** (o que assume sobre a natureza humana), **Poder** (quem ganha poder e que tipo de sujeito/subjetividade ele cria, ex: autovigilância vs autonomia) e **Legado** (quais comportamentos e nichos viabiliza). Sempre questione o que o artefato simplifica, esconde, quem fortalece e quem enfraquece.
-12. **Inclusão e Linkagem de Autores de Livros**: Ao indicar, citar ou catalogar um livro no índice [[00 índices/Livros Indicados|Livros Indicados]], os respectivos autores devem ser incluídos como notas no diretório `autores/` e devidamente linkados na tabela de referências utilizando [[Wikilinks]]. Além disso, a seção de Fontes Bibliográficas da nota de cada autor deve conter um resumo analítico breve (1 a 2 frases) de cada obra catalogada, explicitando sua contribuição conceitual para a arqueologia do design.
+### Princípios de co-criação
+
+1. **Rigor histórico**: não invente fatos, anos, autores, produtos ou intenções. Quando algo não estiver documentado, marque como interpretação ou hipótese.
+2. **Três regimes de afirmação**: diferencie história documentada, interpretação arqueológica e hipótese em aberto.
+3. **Sem emojis em arquivos**: não usar emojis como decoração ou estrutura.
+4. **Wikilinks extensos**: sempre que houver uma nota correspondente, conecte autores, empresas, conceitos, variáveis, genealogias, percursos e artefatos com `[[Wikilinks]]`.
+5. **Ficha resumo obrigatória**: toda nota de `03 artefatos/` deve terminar com uma ficha arqueológica. A publicação pode recolher essa ficha para preservar a fluidez da leitura.
+6. **Preservação da inbox**: ao ingerir `00 inbox/`, nunca apagar os arquivos originais. Limpar apenas o conteúdo já processado, preservando frontmatter e título.
+7. **Mapeamento de conceitos e variáveis**: extraia relações relevantes sem forçar classificações. Variáveis devem funcionar como eixos comparáveis; conceitos explicam mecanismos ou interpretações.
+8. **Atualização de índices e log**: criações ou alterações significativas devem atualizar índices afetados e `log.md`. O log permanece em ordem cronológica decrescente.
+9. **Criação imediata na ingestão**: se uma captura já contiver uma ficha arqueológica estruturada, criar ou atualizar a nota correspondente durante a ingestão.
+10. **Associação de livros a autores**: obras citadas devem ser relacionadas aos autores e ao índice [[00 índices/Livros Indicados|Livros Indicados]] quando forem realmente úteis para a investigação.
+11. **Atualização incremental**: novas conversas devem enriquecer artefatos antigos com relações, hipóteses, correções e parentes relevantes.
+12. **Quatro camadas críticas**: toda análise profunda deve investigar problema, hipótese sobre comportamento, poder e legado.
+13. **Quatro níveis históricos**: diferenciar invenção, refinamento, popularização e padronização. Não atribuir automaticamente transformação histórica ao inventor.
+14. **Procedência conceitual**: conceitos devem declarar `origem: literatura`, `origem: adaptação` ou `origem: hipótese-do-projeto`.
+15. **Genealogia não é sinônimo de descendência**: parentescos podem ser históricos, funcionais, semióticos, comportamentais ou hipóteses comparativas. Indicar o tipo de relação quando houver risco de confusão.
+16. **Leitura antes de catalogação**: a abertura de um estudo deve convidar à leitura. Fichas, metadados e referências são camadas de consulta, não precisam interromper a narrativa.
+17. **Entidades de contexto**: autores e empresas ajudam a localizar ideias e papéis históricos; não são o centro conceitual do projeto.
+
+## Governança e estrutura do vault
+
+### Pastas principais
+
+- `00 inbox/`: notas temporárias e capturas rápidas.
+- `00 tipos de design/`: mapa disciplinar do acervo.
+- `00 índices/`: índices de consulta.
+- `01 conceitos/`: conceitos teóricos, adaptações e hipóteses explicativas.
+- `02 variaveis/`: eixos sistêmicos e cognitivos comparáveis.
+- `03 artefatos/`: objetos, interfaces, serviços, métodos, sinais, documentos e gestos investigados.
+- `04 genealogias/`: famílias de ideias que atravessam disciplinas e épocas.
+- `05 percursos/`: sequências editoriais de leitura.
+- `autores/`: pessoas usadas como contexto histórico e intelectual.
+- `empresas/`: organizações usadas como contexto histórico.
+- `templates/`: padrões de criação de notas.
+
+### Estados editoriais
+
+Usar `status` quando fizer sentido:
+
+- `publicado`: estudo suficientemente estruturado para leitura pública;
+- `rascunho`: conteúdo existente, ainda em revisão;
+- `pista`: tema mapeado, ainda sem estudo desenvolvido;
+- `revisar-fontes`: texto útil cuja base histórica precisa ser fortalecida;
+- `ativo`: hubs, manuais e estruturas permanentes.
+
+### Nomenclatura
+
+- Usar nomes legíveis em Title Case nos arquivos de conteúdo.
+- Evitar underscores.
+- Preservar acentos quando eles não criarem incompatibilidade técnica.
 
 ---
 
-## Governança e Estrutura do Vault
-
-### Pastas Principais
-- 00 inbox/: Notas temporárias e capturas rápidas.
-- 00 tipos de design/: Vertentes do design (ex: design gráfico, design de produto, design de serviços, tipografia, interface).
-- 00 índices/: Índices secundários (por autor, por empresa, por conceito, por variável, livros recomendados).
-- 01 conceitos/: Princípios e modelos teóricos explicativos de design.
-- 02 variaveis/: Variáveis sistêmicas e cognitivas mensuráveis (aumentam ou diminuem).
-- 03 artefatos/: Objetos, produtos físicos/digitais, fontes tipográficas, marcas, manifestos ou marcos específicos.
-- autores/: Designers, teóricos, artesãos e figuras históricas.
-- empresas/: Estúdios, fábricas, coletivos e marcas históricas.
-- templates/: Templates do vault.
-
-### Nomenclatura de Arquivos
-- Todos os arquivos devem usar Título em Title Case.md (ex: Design de Produto.md, Dieter Rams.md, Braun.md).
-- Sem underscores _. Use espaços.
-
----
-*Última atualização: 2026-07-09*
+*Última atualização: 2026-09-10*
