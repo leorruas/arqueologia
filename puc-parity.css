@@ -1,0 +1,274 @@
+/* Paridade visual com a camada editorial final da Pages da PUC. */
+
+:root {
+  --accent: #d56d64;
+  --accent-hover: #efa29c;
+  --accent-05: rgba(213, 109, 100, .06);
+  --accent-15: rgba(213, 109, 100, .15);
+  --accent-30: rgba(213, 109, 100, .28);
+  --accent-40: rgba(213, 109, 100, .40);
+  --bg: #101010;
+  --text: #f1f0eb;
+  --muted: #a4a39e;
+}
+
+:root[data-theme="light"] {
+  --accent: #9b403a;
+  --accent-hover: #7e312c;
+  --accent-05: rgba(155, 64, 58, .06);
+  --accent-15: rgba(155, 64, 58, .14);
+  --accent-30: rgba(155, 64, 58, .28);
+  --accent-40: rgba(155, 64, 58, .40);
+  --bg: #ffffff;
+  --text: #151515;
+  --muted: #65645f;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-size: 20px;
+}
+
+header,
+main,
+.site-footer {
+  max-width: 1240px;
+  padding-left: 32px;
+  padding-right: 32px;
+  box-sizing: border-box;
+}
+
+/* Navbar: mesma lógica visual da PUC, sem botões em formato de pílula. */
+.sticky-nav {
+  padding: 13px 32px;
+  border-bottom-color: color-mix(in srgb, var(--text) 18%, transparent);
+  background: color-mix(in srgb, var(--bg) 92%, transparent);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+
+.nav-logo {
+  color: var(--text);
+  font-size: .76rem;
+  font-weight: 650;
+}
+
+.nav-logo:hover { color: var(--accent); }
+
+.nav-link,
+.theme-toggle {
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  color: var(--accent);
+  font-size: .76rem;
+}
+
+.nav-link:hover,
+.theme-toggle:hover {
+  background: transparent;
+  color: var(--text);
+  border-color: transparent;
+}
+
+/* Masthead: título e busca ocupam colunas distintas, como na PUC atual. */
+.page-masthead {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(300px, 420px);
+  grid-template-areas: "copy search";
+  column-gap: 52px;
+  align-items: end;
+  margin: 74px auto 0;
+  padding: 0 32px;
+}
+
+.masthead-copy { grid-area: copy; }
+
+.page-masthead .busca-principal {
+  grid-area: search;
+  align-self: end;
+  margin: 0 0 54px;
+}
+
+.masthead-copy h1 {
+  font-size: clamp(4.3rem, 9.7vw, 8.7rem);
+  line-height: .84;
+  letter-spacing: -.08em;
+}
+
+.masthead-copy h1 span,
+.masthead-copy h1 small {
+  display: block;
+}
+
+.masthead-copy h1 small {
+  margin-top: .18em;
+  color: var(--accent);
+  font-size: .27em;
+  font-weight: 600;
+  letter-spacing: -.045em;
+  line-height: 1;
+}
+
+.masthead-copy h1:hover { color: var(--text); }
+.masthead-copy h1:hover small { color: var(--accent-hover); }
+
+.masthead-copy p {
+  max-width: 390px;
+  margin: 32px 0 54px;
+  font-size: 1rem;
+  line-height: 1.25;
+}
+
+.busca-campo,
+.busca-campo:focus-within {
+  display: block;
+  padding: 0 18px;
+  border: 0;
+  border-top: 1px solid color-mix(in srgb, var(--text) 42%, transparent);
+  border-bottom: 2px solid var(--accent);
+  border-radius: 0;
+  background: transparent;
+}
+
+.busca-campo input,
+.busca-campo #main-search-input {
+  box-sizing: border-box;
+  padding: 12px 0 11px;
+  border: 0;
+  border-radius: 0;
+  font-size: 1.05rem;
+}
+
+.orientacoes-iniciais { padding-top: 30px; }
+.explorar-campos { padding: 48px 0 64px; }
+.explorar-campos > .section-title { margin-bottom: 18px; font-size: 2.1rem; font-weight: 500; }
+
+/* Breadcrumbs: proporção, respiro e comportamento visual da PUC. */
+.artigo-breadcrumbs {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 12px;
+  color: var(--muted);
+  font-size: .85rem;
+  text-transform: lowercase;
+}
+
+.breadcrumb-link {
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--accent);
+  font: inherit;
+  text-decoration: none;
+  cursor: pointer;
+  transition: color .2s ease;
+}
+
+.breadcrumb-link:hover {
+  color: var(--text);
+  text-decoration: underline;
+}
+
+.breadcrumb-separator {
+  color: var(--muted);
+  user-select: none;
+}
+
+.disciplina-leitor,
+.leitor-artigo { font-size: 16px; }
+
+.disciplina-leitor { max-width: 1000px; }
+
+.btn-voltar {
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  color: var(--accent);
+}
+
+.btn-voltar:hover {
+  background: transparent;
+  color: var(--text);
+}
+
+@media (max-width: 768px) {
+  body { font-size: 18px; }
+  html, body { width: 100%; overflow-x: clip; }
+
+  header,
+  main,
+  .site-footer {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .sticky-nav { padding: 12px 20px; }
+  .nav-logo { font-size: .72rem; }
+  .nav-acoes { gap: 16px; }
+
+  .page-masthead {
+    display: flex;
+    flex-direction: column;
+    margin-top: 42px;
+    padding: 0 20px;
+  }
+
+  .masthead-copy {
+    order: 1;
+    width: 100%;
+    text-align: right;
+  }
+
+  .page-masthead .busca-principal {
+    order: 2;
+    width: 100%;
+    margin: 20px 0 24px;
+  }
+
+  .masthead-copy h1 {
+    font-size: clamp(4rem, 21vw, 5.6rem);
+    line-height: .86;
+  }
+
+  .masthead-copy h1 small { margin-top: .22em; }
+  .masthead-copy p { margin: 20px 0 0 auto; font-size: .92rem; }
+
+  .busca-campo,
+  .busca-campo:focus-within { padding: 0 12px; }
+
+  .busca-campo input,
+  .busca-campo #main-search-input { padding: 11px 0; font-size: 1rem; }
+
+  .orientacoes-iniciais { padding-top: 18px; }
+  .explorar-campos { padding: 36px 0 52px; }
+  .explorar-campos > .section-title { margin-bottom: 14px; font-size: 1.8rem; }
+
+  .nav-search-container {
+    min-width: 0;
+    max-width: 180px;
+    margin-right: 12px;
+  }
+
+  .nav-search-container input { font-size: .72rem; }
+}
+
+@media (max-width: 420px) {
+  header,
+  main,
+  .site-footer { padding-left: 16px; padding-right: 16px; }
+
+  .sticky-nav { padding: 11px 16px; }
+  .page-masthead { margin-top: 34px; padding: 0 16px; }
+  .nav-logo { font-size: .68rem; }
+  .nav-acoes { gap: 12px; }
+  .nav-link, .theme-toggle { font-size: .7rem; }
+  .masthead-copy h1 { font-size: clamp(3.7rem, 21vw, 5rem); }
+  .nav-search-container { max-width: 120px; margin-right: 8px; }
+  .nav-search-container input { padding-left: 4px; padding-right: 4px; }
+}
