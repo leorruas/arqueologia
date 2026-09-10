@@ -66,34 +66,27 @@ O artefato também pertence à genealogia [[04 genealogias/Limiares e Delimitaca
 3. Apple. “Apple Reinvents the Phone with iPhone”. Press release, 9 jan. 2007.
 
 ## Ficha arqueológica
-
-- **Nome do artefato**: Slide to Unlock
-- **Categoria**: Interface digital / gesto de desbloqueio / limiar
-- **Período aproximado**: Desenvolvimento documentado a partir de 2005; lançamento comercial em 2007
-- **Pessoas ou equipes envolvidas**: Imran Chaudhri, Bas Ording, Freddy Anzures, Marcel van Os, Stephen Lemay, Scott Forstall, Greg Christie e equipes do iPhone
-- **Produto ou contexto onde apareceu**: Primeiro iPhone
-- **Problema original**: Permitir desbloqueio intencional de uma superfície sensível ao toque sem tornar contatos acidentais equivalentes a comandos
-- **Mundo antes da inovação**: Telefones combinavam diferentes formas de bloqueio, botões físicos, sequências de teclas e interfaces touch anteriores; não havia um único padrão dominante para a nova superfície multitouch do iPhone
-- **Invenção**: Gesto de desbloquear uma interface movendo uma imagem ao longo de trajetória predefinida, documentado em patente com prioridade de 2005
-- **Refinamento**: Feedback visual, animação e integração do gesto à tela bloqueada do iPhone
-- **Popularização**: Distribuição em massa do iPhone e familiarização do público com gestos contínuos de toque
-- **Padronização**: O deslizar tornou-se gesto reconhecível em interfaces móveis, embora o Slide to Unlock específico tenha posteriormente perdido centralidade
-- **Hipótese sobre o comportamento humano**: Uma sequência motora espacialmente específica é um sinal de intenção mais confiável do que um contato isolado
-- **Relação de poder**: O sistema decide quando um movimento corporal é suficientemente estruturado para ser tratado como intenção
-- **Comportamento aproveitado**: Deslizar objetos e controles ao longo de trajetórias
-- **Comportamento criado**: Desbloquear dispositivos por um movimento contínuo do dedo e esperar que gestos direcionais produzam mudanças de estado
-- **Capacidade ampliada**: Proteção contra acionamentos acidentais sem depender de uma sequência complexa de teclas
-- **Capacidade reduzida ou deslocada**: Adiciona uma etapa motora obrigatória antes do acesso
-- **Custo invisível**: Pequeno atraso de entrada e necessidade inicial de aprender um gesto não evidente em uma superfície lisa
-- **Por que funcionou**: Aumenta a dificuldade de ativação acidental sem exigir uma decisão cognitivamente complexa
-- **Consequências inesperadas**: A familiaridade com o deslizar passou a alimentar um repertório muito maior de gestos de interface
-- **Legado**: Tornou-se um dos símbolos iniciais da interação gestual no smartphone contemporâneo
-- **Conceitos relacionados**: [[01 conceitos/Manipulacao Direta|Manipulação Direta]], [[01 conceitos/Esqueuomorfismo|Esqueuomorfismo]], [[01 conceitos/Affordance|Affordance]], [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção Boa vs Fricção Ruim]], [[01 conceitos/Limiares|Limiares]]
-- **Variáveis relacionadas**: [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Custo do Erro|Custo do Erro]], [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]]
-- **Genealogias**: [[04 genealogias/Limiares e Delimitacao|Limiares e delimitação]], [[04 genealogias/Compressao do Esforco|Compressão do esforço]]
-- **Família de ideias**: Gestos de intenção e tecnologias de limiar
-- **Parentes**: [[03 artefatos/Pinch to Zoom|Pinch to Zoom]], [[03 artefatos/Pull to Refresh|Pull to Refresh]], [[03 artefatos/Tela de Login|Tela de Login]], ferrolho e trava física como parentescos semióticos
-- **Hipótese central**: O Slide to Unlock transforma intenção em trajetória: não basta tocar, é preciso completar um movimento reconhecível
-- **Princípio de design revelado**: Fricção pode ser útil quando torna a intenção mais distinguível do acidente
-- **Destino do artefato**: Historicamente incorporado e depois parcialmente substituído por outras formas de desbloqueio e autenticação
-- **Perguntas em aberto**: Quando um gesto aprendido deixa de precisar da metáfora visual que originalmente ensinava como executá-lo?
+| Campo | Registro |
+|---|---|
+| **Artefato** | Slide to Unlock |
+| **Período** | Desenvolvimento documentado a partir de 2005; lançamento comercial em 2007 |
+| **Autoria** | Imran Chaudhri, Bas Ording, Freddy Anzures, Marcel van Os, Stephen Lemay, Scott Forstall, Greg Christie e equipes do iPhone |
+| **Produto ou contexto** | Primeiro iPhone Categoria: Interface digital / gesto de desbloqueio / limiar |
+| **Problema original** | Permitir desbloqueio intencional de uma superfície sensível ao toque sem tornar contatos acidentais equivalentes a comandos |
+| **Mundo antes** | Telefones combinavam diferentes formas de bloqueio, botões físicos, sequências de teclas e interfaces touch anteriores; não havia um único padrão dominante para a nova superfície multitouch do iPhone |
+| **Invenção** | Gesto de desbloquear uma interface movendo uma imagem ao longo de trajetória predefinida, documentado em patente com prioridade de 2005 |
+| **Refinamento** | Feedback visual, animação e integração do gesto à tela bloqueada do iPhone |
+| **Popularização** | Distribuição em massa do iPhone e familiarização do público com gestos contínuos de toque |
+| **Padronização** | O deslizar tornou-se gesto reconhecível em interfaces móveis, embora o Slide to Unlock específico tenha posteriormente perdido centralidade |
+| **Hipótese de design** | O Slide to Unlock transforma intenção em trajetória: não basta tocar, é preciso completar um movimento reconhecível Hipótese sobre o comportamento humano: Uma sequência motora espacialmente específica é um sinal de intenção mais confiável do que um contato isolado |
+| **Comportamento aproveitado** | Deslizar objetos e controles ao longo de trajetórias |
+| **Comportamento produzido** | Desbloquear dispositivos por um movimento contínuo do dedo e esperar que gestos direcionais produzam mudanças de estado |
+| **Relação de poder** | O sistema decide quando um movimento corporal é suficientemente estruturado para ser tratado como intenção |
+| **Consequências inesperadas** | A familiaridade com o deslizar passou a alimentar um repertório muito maior de gestos de interface Capacidade ampliada: Proteção contra acionamentos acidentais sem depender de uma sequência complexa de teclas Capacidade reduzida ou deslocada: Adiciona uma etapa motora obrigatória antes do acesso Custo invisível: Pequeno atraso de entrada e necessidade inicial de aprender um gesto não evidente em uma superfície lisa |
+| **Destino ou transformação posterior** | Historicamente incorporado e depois parcialmente substituído por outras formas de desbloqueio e autenticação Legado: Tornou-se um dos símbolos iniciais da interação gestual no smartphone contemporâneo |
+| **Conceitos relacionados** | [[01 conceitos/Manipulacao Direta|Manipulação Direta]], [[01 conceitos/Esqueuomorfismo|Esqueuomorfismo]], [[01 conceitos/Affordance|Affordance]], [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção Boa vs Fricção Ruim]], [[01 conceitos/Limiares|Limiares]] |
+| **Variáveis relacionadas** | [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Custo do Erro|Custo do Erro]], [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]] |
+| **Genealogia** | [[04 genealogias/Limiares e Delimitacao|Limiares e delimitação]], [[04 genealogias/Compressao do Esforco|Compressão do esforço]] Família de ideias: Gestos de intenção e tecnologias de limiar |
+| **Parentes** | [[03 artefatos/Pinch to Zoom|Pinch to Zoom]], [[03 artefatos/Pull to Refresh|Pull to Refresh]], [[03 artefatos/Tela de Login|Tela de Login]], ferrolho e trava física como parentescos semióticos |
+| **Princípio de design revelado** | Fricção pode ser útil quando torna a intenção mais distinguível do acidente Por que funcionou: Aumenta a dificuldade de ativação acidental sem exigir uma decisão cognitivamente complexa |
+| **Questão em aberto** | Quando um gesto aprendido deixa de precisar da metáfora visual que originalmente ensinava como executá-lo? |

@@ -98,36 +98,27 @@ Em calendários digitais, notificações e convites adicionam outra tensão. O f
 5. [[autores/Richard H. Thaler|Richard H. Thaler]] e [[autores/Cass R. Sunstein|Cass R. Sunstein]]. *Nudge*. Referência comparativa para estruturas que organizam escolhas e comportamento, não fonte para a história do calendário.
 
 ## Ficha arqueológica
-
-- **Nome do artefato**: Calendário
-- **Categoria**: Interface temporal / sistema de coordenação / tecnologia cognitiva
-- **Período aproximado**: Sistemas antigos documentados desde o quarto e terceiro milênios a.C.; múltiplas evoluções posteriores; reforma gregoriana em 1582
-- **Pessoas ou equipes envolvidas**: Diversas sociedades e tradições; no calendário gregoriano, Aloysius Lilius, Christopher Clavius e instituições da Igreja Católica sob Gregório XIII
-- **Produto ou contexto onde apareceu**: Agricultura, rituais, administração, impostos, religião, comércio, educação, trabalho e interfaces digitais
-- **Problema original**: Criar referências temporais compartilháveis para coordenar ações que precisam ocorrer além do presente imediato
-- **Mundo antes da inovação**: Observação de ciclos naturais, tradição oral e conhecimento especializado já permitiam previsão e planejamento; calendários formalizam e externalizam essas referências
-- **Invenção**: Múltipla e distribuída; diferentes sociedades construíram sistemas próprios
-- **Refinamento**: Ajustes astronômicos, sistemas de intercalação, padronizações religiosas e civis e novas formas gráficas
-- **Popularização**: Expansão de administrações, religiões, comércio e meios impressos tornou calendários parte cotidiana da coordenação social
-- **Padronização**: O calendário gregoriano tornou-se uma referência civil internacional por adoção gradual, não instantânea em 1582
-- **Hipótese sobre o comportamento humano**: Pessoas conseguem coordenar futuros complexos quando ciclos e compromissos são externalizados em unidades compartilhadas
-- **Relação de poder**: Quem define calendários, feriados, prazos e disponibilidade também participa da organização social do tempo de outras pessoas
-- **Comportamento aproveitado**: Reconhecimento humano de ciclos e capacidade de antecipar eventos
-- **Comportamento criado**: Marcar datas, cumprir prazos, agendar compromissos, celebrar efemérides e tratar partes do futuro como posições negociáveis
-- **Capacidade ampliada**: Planejamento de longo prazo, memória externa e sincronização entre pessoas distantes
-- **Capacidade reduzida ou deslocada**: Parte da orientação temporal passa a depender de convenções e sistemas externos em vez de observação direta dos ciclos
-- **Custo invisível**: Possibilidade de transformar todo intervalo futuro em unidade administrável, ocupável e sujeita a obrigações externas
-- **O que simplifica**: Comparação de datas, previsão convencional e coordenação de eventos sem recalcular fenômenos naturais
-- **O que esconde**: Diferenças qualitativas do tempo vivido e a história política das convenções que fazem uma data parecer natural
-- **Por que funcionou**: Converte fenômenos temporais e acordos sociais em uma linguagem externa, repetível e compartilhável
-- **Consequências inesperadas**: Calendários digitais transformam representação em infraestrutura ativa de convites, notificações, recorrências e automação
-- **Legado**: Agenda, cronograma, Gantt, roadmap, calendários escolares, fiscais, editoriais e sistemas digitais de agendamento
-- **Conceitos relacionados**: [[01 conceitos/Sincronizacao|Sincronização]], [[01 conceitos/Memoria Distribuida|Memória Distribuída]], [[01 conceitos/Tecnologia de Acesso|Tecnologia de Acesso]], [[01 conceitos/Continuidade de Acesso|Continuidade de Acesso]]
-- **Variáveis relacionadas**: [[02 variaveis/Expectativa de Disponibilidade|Expectativa de Disponibilidade]], [[02 variaveis/Custo Transacional|Custo Transacional]], [[02 variaveis/Permanencia|Permanência]]
-- **Genealogias**: [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]], [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]]
-- **Família de ideias**: Artefatos de sincronização e externalização do futuro
-- **Parentes**: [[03 artefatos/Agendamento|Agendamento]], [[03 artefatos/Fila|Fila]], [[03 artefatos/Checklist|Checklist]], [[03 artefatos/Post-it|Post-it]], agenda, cronograma e diagrama de Gantt
-- **Hipótese central**: O calendário transforma tempo observado e convenções coletivas em uma arquitetura externa na qual o futuro pode ser coordenado
-- **Princípio de design revelado**: Representar uma variável abstrata em posições compartilhadas permite que grupos coordenem ações sem precisar compartilhar continuamente memória, presença ou observação
-- **Destino do artefato**: Evoluiu de sistemas inscritos e impressos para infraestruturas digitais conectadas a bancos de dados, notificações e automações
-- **Perguntas em aberto**: Quando calendários digitais deixam de apenas ajudar uma pessoa a organizar seu tempo e passam a permitir que outras pessoas e sistemas administrem parcelas dele?
+| Campo | Registro |
+|---|---|
+| **Artefato** | Calendário |
+| **Período** | Sistemas antigos documentados desde o quarto e terceiro milênios a.C.; múltiplas evoluções posteriores; reforma gregoriana em 1582 |
+| **Autoria** | Diversas sociedades e tradições; no calendário gregoriano, Aloysius Lilius, Christopher Clavius e instituições da Igreja Católica sob Gregório XIII |
+| **Produto ou contexto** | Agricultura, rituais, administração, impostos, religião, comércio, educação, trabalho e interfaces digitais Categoria: Interface temporal / sistema de coordenação / tecnologia cognitiva |
+| **Problema original** | Criar referências temporais compartilháveis para coordenar ações que precisam ocorrer além do presente imediato |
+| **Mundo antes** | Observação de ciclos naturais, tradição oral e conhecimento especializado já permitiam previsão e planejamento; calendários formalizam e externalizam essas referências |
+| **Invenção** | Múltipla e distribuída; diferentes sociedades construíram sistemas próprios |
+| **Refinamento** | Ajustes astronômicos, sistemas de intercalação, padronizações religiosas e civis e novas formas gráficas |
+| **Popularização** | Expansão de administrações, religiões, comércio e meios impressos tornou calendários parte cotidiana da coordenação social |
+| **Padronização** | O calendário gregoriano tornou-se uma referência civil internacional por adoção gradual, não instantânea em 1582 |
+| **Hipótese de design** | O calendário transforma tempo observado e convenções coletivas em uma arquitetura externa na qual o futuro pode ser coordenado Hipótese sobre o comportamento humano: Pessoas conseguem coordenar futuros complexos quando ciclos e compromissos são externalizados em unidades compartilhadas |
+| **Comportamento aproveitado** | Reconhecimento humano de ciclos e capacidade de antecipar eventos |
+| **Comportamento produzido** | Marcar datas, cumprir prazos, agendar compromissos, celebrar efemérides e tratar partes do futuro como posições negociáveis |
+| **Relação de poder** | Quem define calendários, feriados, prazos e disponibilidade também participa da organização social do tempo de outras pessoas |
+| **Consequências inesperadas** | Calendários digitais transformam representação em infraestrutura ativa de convites, notificações, recorrências e automação Capacidade ampliada: Planejamento de longo prazo, memória externa e sincronização entre pessoas distantes Capacidade reduzida ou deslocada: Parte da orientação temporal passa a depender de convenções e sistemas externos em vez de observação direta dos ciclos Custo invisível: Possibilidade de transformar todo intervalo futuro em unidade administrável, ocupável e sujeita a obrigações externas Registros adicionais preservados da ficha anterior: o que simplifica: Comparação de datas, previsão convencional e coordenação de eventos sem recalcular fenômenos naturais; o que esconde: Diferenças qualitativas do tempo vivido e a história política das convenções que fazem uma data parecer natural |
+| **Destino ou transformação posterior** | Evoluiu de sistemas inscritos e impressos para infraestruturas digitais conectadas a bancos de dados, notificações e automações Legado: Agenda, cronograma, Gantt, roadmap, calendários escolares, fiscais, editoriais e sistemas digitais de agendamento |
+| **Conceitos relacionados** | [[01 conceitos/Sincronizacao|Sincronização]], [[01 conceitos/Memoria Distribuida|Memória Distribuída]], [[01 conceitos/Tecnologia de Acesso|Tecnologia de Acesso]], [[01 conceitos/Continuidade de Acesso|Continuidade de Acesso]] |
+| **Variáveis relacionadas** | [[02 variaveis/Expectativa de Disponibilidade|Expectativa de Disponibilidade]], [[02 variaveis/Custo Transacional|Custo Transacional]], [[02 variaveis/Permanencia|Permanência]] |
+| **Genealogia** | [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]], [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] Família de ideias: Artefatos de sincronização e externalização do futuro |
+| **Parentes** | [[03 artefatos/Agendamento|Agendamento]], [[03 artefatos/Fila|Fila]], [[03 artefatos/Checklist|Checklist]], [[03 artefatos/Post-it|Post-it]], agenda, cronograma e diagrama de Gantt |
+| **Princípio de design revelado** | Representar uma variável abstrata em posições compartilhadas permite que grupos coordenem ações sem precisar compartilhar continuamente memória, presença ou observação Por que funcionou: Converte fenômenos temporais e acordos sociais em uma linguagem externa, repetível e compartilhável |
+| **Questão em aberto** | Quando calendários digitais deixam de apenas ajudar uma pessoa a organizar seu tempo e passam a permitir que outras pessoas e sistemas administrem parcelas dele? |

@@ -53,34 +53,27 @@ A hipótese mais interessante talvez seja justamente essa: ao tornar uma ação 
 2. Google Workspace. Documentação e materiais posteriores sobre configuração de Undo Send e intervalos de 5, 10, 20 ou 30 segundos.
 
 ## Ficha arqueológica
-
-- **Nome do artefato**: Undo Send
-- **Categoria**: Interface digital / comunicação
-- **Período aproximado**: 2009 aos dias atuais
-- **Pessoas ou equipes envolvidas**: Michael Leggett, Yuzo Fujishima e equipe do Gmail
-- **Produto ou contexto onde apareceu**: Gmail Labs
-- **Problema original**: Arrependimento ou percepção de erro imediatamente após o envio de uma mensagem
-- **Mundo antes da inovação**: Ações digitais de envio tratadas como instantâneas e definitivas, em contraste com os intervalos materiais da correspondência física
-- **Invenção**: Gmail Labs, 2009, com uma janela inicial de cinco segundos antes do envio efetivo
-- **Refinamento**: Ampliação do intervalo configurável e integração ao Gmail normal
-- **Popularização**: Adoção da expectativa de “desfazer envio” por outros serviços de comunicação
-- **Padronização**: Tornou-se um padrão reconhecível de segurança em interfaces de comunicação, embora plataformas implementem mecanismos diferentes
-- **Hipótese sobre o comportamento humano**: A intenção pode continuar mudando imediatamente depois de uma ação aparentemente concluída
-- **Relação de poder**: Devolve ao usuário uma pequena margem temporal sobre uma decisão que o sistema poderia tratar como instantaneamente definitiva
-- **Comportamento aproveitado**: Arrependimento e revisão logo após agir
-- **Comportamento criado**: Enviar contando com uma curta janela de escape
-- **Capacidade ampliada**: Correção rápida de erros de destinatário, anexos e impulsividade
-- **Capacidade reduzida ou deslocada**: O envio deixa de ser tecnicamente instantâneo durante o intervalo de segurança
-- **Custo invisível**: Dependência de infraestrutura que retém a ação e possibilidade de maior confiança em uma reversibilidade que é limitada
-- **Por que funcionou**: Resolve um problema psicológico com uma intervenção temporal mínima e quase invisível
-- **Consequências inesperadas**: Pode mudar a expectativa do usuário sobre a reversibilidade de ações digitais
-- **Legado**: Tornou o atraso deliberado uma ferramenta explícita de segurança de interação
-- **Conceitos relacionados**: [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção Boa vs Fricção Ruim]], [[01 conceitos/Limiares|Limiares]]
-- **Variáveis relacionadas**: [[02 variaveis/Reversibilidade|Reversibilidade]], [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Custo do Erro|Custo do Erro]], [[02 variaveis/Atrito Decisorio|Atrito Decisório]]
-- **Genealogias**: [[04 genealogias/Reversibilidade e Custo do Erro|Reversibilidade e custo do erro]]
-- **Família de ideias**: Tecnologias de reversibilidade
-- **Parentes**: [[03 artefatos/Undo|Undo]], [[03 artefatos/Fila|Fila]]
-- **Hipótese central**: Uma ação pode parecer reversível sem precisar ser revertida, desde que o design adie discretamente o momento em que ela se torna irreversível
-- **Princípio de design revelado**: Inserir tempo entre intenção e consequência pode reduzir drasticamente o custo do erro
-- **Destino do artefato**: Incorporado e normalizado em serviços de comunicação
-- **Perguntas em aberto**: Até que ponto janelas de reversão alteram o cuidado que as pessoas dedicam à decisão antes de agir?
+| Campo | Registro |
+|---|---|
+| **Artefato** | Undo Send |
+| **Período** | 2009 aos dias atuais |
+| **Autoria** | Michael Leggett, Yuzo Fujishima e equipe do Gmail |
+| **Produto ou contexto** | Gmail Labs Categoria: Interface digital / comunicação |
+| **Problema original** | Arrependimento ou percepção de erro imediatamente após o envio de uma mensagem |
+| **Mundo antes** | Ações digitais de envio tratadas como instantâneas e definitivas, em contraste com os intervalos materiais da correspondência física |
+| **Invenção** | Gmail Labs, 2009, com uma janela inicial de cinco segundos antes do envio efetivo |
+| **Refinamento** | Ampliação do intervalo configurável e integração ao Gmail normal |
+| **Popularização** | Adoção da expectativa de “desfazer envio” por outros serviços de comunicação |
+| **Padronização** | Tornou-se um padrão reconhecível de segurança em interfaces de comunicação, embora plataformas implementem mecanismos diferentes |
+| **Hipótese de design** | Uma ação pode parecer reversível sem precisar ser revertida, desde que o design adie discretamente o momento em que ela se torna irreversível Hipótese sobre o comportamento humano: A intenção pode continuar mudando imediatamente depois de uma ação aparentemente concluída |
+| **Comportamento aproveitado** | Arrependimento e revisão logo após agir |
+| **Comportamento produzido** | Enviar contando com uma curta janela de escape |
+| **Relação de poder** | Devolve ao usuário uma pequena margem temporal sobre uma decisão que o sistema poderia tratar como instantaneamente definitiva |
+| **Consequências inesperadas** | Pode mudar a expectativa do usuário sobre a reversibilidade de ações digitais Capacidade ampliada: Correção rápida de erros de destinatário, anexos e impulsividade Capacidade reduzida ou deslocada: O envio deixa de ser tecnicamente instantâneo durante o intervalo de segurança Custo invisível: Dependência de infraestrutura que retém a ação e possibilidade de maior confiança em uma reversibilidade que é limitada |
+| **Destino ou transformação posterior** | Incorporado e normalizado em serviços de comunicação Legado: Tornou o atraso deliberado uma ferramenta explícita de segurança de interação |
+| **Conceitos relacionados** | [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção Boa vs Fricção Ruim]], [[01 conceitos/Limiares|Limiares]] |
+| **Variáveis relacionadas** | [[02 variaveis/Reversibilidade|Reversibilidade]], [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Custo do Erro|Custo do Erro]], [[02 variaveis/Atrito Decisorio|Atrito Decisório]] |
+| **Genealogia** | [[04 genealogias/Reversibilidade e Custo do Erro|Reversibilidade e custo do erro]] Família de ideias: Tecnologias de reversibilidade |
+| **Parentes** | [[03 artefatos/Undo|Undo]], [[03 artefatos/Fila|Fila]] |
+| **Princípio de design revelado** | Inserir tempo entre intenção e consequência pode reduzir drasticamente o custo do erro Por que funcionou: Resolve um problema psicológico com uma intervenção temporal mínima e quase invisível |
+| **Questão em aberto** | Até que ponto janelas de reversão alteram o cuidado que as pessoas dedicam à decisão antes de agir? |

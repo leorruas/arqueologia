@@ -77,34 +77,27 @@ Essa gramática abriu caminho para outras interfaces espaciais, inclusive ambien
 4. Trabalhos anteriores de Myron Krueger e pesquisas multitouch da Universidade de Toronto, conforme sistematizados por Bill Buxton.
 
 ## Ficha arqueológica
-
-- **Nome do artefato**: Pinch to Zoom
-- **Categoria**: Interface digital / gesto multitouch / controle de escala
-- **Período aproximado**: Antecedentes de pesquisa desde décadas anteriores; popularização comercial em 2007
-- **Pessoas ou equipes envolvidas**: Pesquisadores de multitouch como Myron Krueger, Bill Buxton e equipes da Universidade de Toronto; Jeff Han; equipes de design e engenharia do primeiro iPhone
-- **Produto ou contexto onde apareceu**: Sistemas experimentais multitouch; posteriormente iPhone, tablets, trackpads e outras superfícies digitais
-- **Problema original**: Alterar rapidamente a escala de imagens, mapas e documentos sem depender de controles separados
-- **Mundo antes da inovação**: Zoom realizado por botões, menus, ferramentas ou comandos indiretos; multitouch já existia em pesquisa, mas não era repertório cotidiano de grande parte do público
-- **Invenção**: Não atribuível à Apple nem a um único inventor; gestos multitouch de expansão e contração possuem antecedentes anteriores ao iPhone
-- **Refinamento**: Integração responsiva entre gesto, hardware, animação e conteúdo em dispositivos de consumo
-- **Popularização**: Primeiro iPhone e expansão posterior para smartphones, tablets e trackpads
-- **Padronização**: Tornou-se convenção amplamente reconhecida para controlar escala em superfícies multitouch
-- **Hipótese sobre o comportamento humano**: Uma transformação digital é mais fácil de aprender quando o movimento corporal guarda relação espacial compreensível com o resultado
-- **Relação de poder**: Transfere ao usuário controle contínuo sobre escala e nível de detalhe, reduzindo dependência de comandos discretos definidos pela interface
-- **Comportamento aproveitado**: Coordenação bimanual e compreensão espacial de aproximação, afastamento, expansão e contração
-- **Comportamento criado**: Pinçar telas e superfícies digitais na expectativa de controlar zoom
-- **Capacidade ampliada**: Controle rápido, contínuo e localizado da escala visual
-- **Capacidade reduzida ou deslocada**: Pode funcionar como compensação para conteúdo mal adaptado à tela, mas não há base suficiente para afirmar que tenha atrasado o design responsivo
-- **Custo invisível**: Dependência de descoberta ou aprendizagem inicial e dificuldade para usuários com limitações motoras quando não há alternativa acessível
-- **Por que funcionou**: Mapeia distância entre dedos diretamente para escala do objeto, mantendo ação e feedback no mesmo espaço perceptivo
-- **Consequências inesperadas**: Transformou-se em expectativa motora transferível para praticamente qualquer superfície interativa
-- **Legado**: Ajudou a consolidar a tela como espaço manipulável por gestos contínuos, não apenas superfície de apontar e clicar
-- **Conceitos relacionados**: [[01 conceitos/Manipulacao Direta|Manipulação Direta]], [[01 conceitos/Affordance|Affordance]], [[01 conceitos/Redução de Inferências|Redução de Inferências]]
-- **Variáveis relacionadas**: [[02 variaveis/Custo Transacional|Custo Transacional]], [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]]
-- **Genealogias**: [[04 genealogias/Compressao do Esforco|Compressão do esforço]]
-- **Família de ideias**: Gestos de manipulação direta
-- **Parentes**: [[03 artefatos/Slide to Unlock|Slide to Unlock]], [[03 artefatos/Pull to Refresh|Pull to Refresh]], lupa como parentesco funcional, gesto de esticar como analogia corporal
-- **Hipótese central**: Pinch to Zoom venceu porque transformou uma operação abstrata de escala em uma relação espacial contínua entre dedos e imagem
-- **Princípio de design revelado**: Quando a forma do gesto preserva a estrutura da transformação, o corpo pode aprender um comando como relação em vez de instrução
-- **Destino do artefato**: Padronizado e incorporado ao repertório básico de interação multitouch
-- **Perguntas em aberto**: Quais gestos hoje parecem “naturais” apenas porque uma geração inteira foi treinada por produtos que os padronizaram?
+| Campo | Registro |
+|---|---|
+| **Artefato** | Pinch to Zoom |
+| **Período** | Antecedentes de pesquisa desde décadas anteriores; popularização comercial em 2007 |
+| **Autoria** | Pesquisadores de multitouch como Myron Krueger, Bill Buxton e equipes da Universidade de Toronto; Jeff Han; equipes de design e engenharia do primeiro iPhone |
+| **Produto ou contexto** | Sistemas experimentais multitouch; posteriormente iPhone, tablets, trackpads e outras superfícies digitais Categoria: Interface digital / gesto multitouch / controle de escala |
+| **Problema original** | Alterar rapidamente a escala de imagens, mapas e documentos sem depender de controles separados |
+| **Mundo antes** | Zoom realizado por botões, menus, ferramentas ou comandos indiretos; multitouch já existia em pesquisa, mas não era repertório cotidiano de grande parte do público |
+| **Invenção** | Não atribuível à Apple nem a um único inventor; gestos multitouch de expansão e contração possuem antecedentes anteriores ao iPhone |
+| **Refinamento** | Integração responsiva entre gesto, hardware, animação e conteúdo em dispositivos de consumo |
+| **Popularização** | Primeiro iPhone e expansão posterior para smartphones, tablets e trackpads |
+| **Padronização** | Tornou-se convenção amplamente reconhecida para controlar escala em superfícies multitouch |
+| **Hipótese de design** | Pinch to Zoom venceu porque transformou uma operação abstrata de escala em uma relação espacial contínua entre dedos e imagem Hipótese sobre o comportamento humano: Uma transformação digital é mais fácil de aprender quando o movimento corporal guarda relação espacial compreensível com o resultado |
+| **Comportamento aproveitado** | Coordenação bimanual e compreensão espacial de aproximação, afastamento, expansão e contração |
+| **Comportamento produzido** | Pinçar telas e superfícies digitais na expectativa de controlar zoom |
+| **Relação de poder** | Transfere ao usuário controle contínuo sobre escala e nível de detalhe, reduzindo dependência de comandos discretos definidos pela interface |
+| **Consequências inesperadas** | Transformou-se em expectativa motora transferível para praticamente qualquer superfície interativa Capacidade ampliada: Controle rápido, contínuo e localizado da escala visual Capacidade reduzida ou deslocada: Pode funcionar como compensação para conteúdo mal adaptado à tela, mas não há base suficiente para afirmar que tenha atrasado o design responsivo Custo invisível: Dependência de descoberta ou aprendizagem inicial e dificuldade para usuários com limitações motoras quando não há alternativa acessível |
+| **Destino ou transformação posterior** | Padronizado e incorporado ao repertório básico de interação multitouch Legado: Ajudou a consolidar a tela como espaço manipulável por gestos contínuos, não apenas superfície de apontar e clicar |
+| **Conceitos relacionados** | [[01 conceitos/Manipulacao Direta|Manipulação Direta]], [[01 conceitos/Affordance|Affordance]], [[01 conceitos/Redução de Inferências|Redução de Inferências]] |
+| **Variáveis relacionadas** | [[02 variaveis/Custo Transacional|Custo Transacional]], [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]] |
+| **Genealogia** | [[04 genealogias/Compressao do Esforco|Compressão do esforço]] Família de ideias: Gestos de manipulação direta |
+| **Parentes** | [[03 artefatos/Slide to Unlock|Slide to Unlock]], [[03 artefatos/Pull to Refresh|Pull to Refresh]], lupa como parentesco funcional, gesto de esticar como analogia corporal |
+| **Princípio de design revelado** | Quando a forma do gesto preserva a estrutura da transformação, o corpo pode aprender um comando como relação em vez de instrução Por que funcionou: Mapeia distância entre dedos diretamente para escala do objeto, mantendo ação e feedback no mesmo espaço perceptivo |
+| **Questão em aberto** | Quais gestos hoje parecem “naturais” apenas porque uma geração inteira foi treinada por produtos que os padronizaram? |

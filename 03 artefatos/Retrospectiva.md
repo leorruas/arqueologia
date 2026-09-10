@@ -114,36 +114,27 @@ A retrospectiva é uma dessas condições materializadas no calendário.
 5. Literatura sobre debriefing, aprendizagem organizacional e segurança psicológica como referências teóricas para condições de reflexão coletiva.
 
 ## Ficha arqueológica
-
-- **Nome do artefato**: Retrospectiva
-- **Categoria**: Processo / reflexão coletiva / aprendizagem organizacional
-- **Período aproximado**: Práticas de debriefing e revisão são anteriores; AAR militar formalizada especialmente nas décadas de 1970 e 1980; Sprint Retrospective popularizada com Scrum desde os anos 1990
-- **Pessoas ou equipes envolvidas**: Múltiplas tradições; S. L. A. Marshall e posteriormente estruturas do U.S. Army na história da AAR; Ken Schwaber e Jeff Sutherland no Scrum; Esther Derby e Diana Larsen na sistematização de retrospectivas ágeis
-- **Produto ou contexto onde apareceu**: Treinamento militar, projetos, desenvolvimento de software, operações e equipes de trabalho
-- **Problema original**: Criar oportunidade recorrente de aprender com experiência recente antes que problemas se acumulem até o encerramento ou fracasso final
-- **Mundo antes da inovação**: Revisões posteriores, debriefings, críticas e post-mortems já existiam; a mudança está em integrar ciclos frequentes de reflexão ao próprio processo de trabalho
-- **Invenção**: Não há inventor único da reflexão pós-ação; diferentes tradições desenvolveram formas próprias
-- **Refinamento**: AARs estruturadas, ciclos ágeis frequentes, técnicas de facilitação e mecanismos explícitos de acompanhamento de melhorias
-- **Popularização**: Scrum e movimentos ágeis transformaram “retrospectiva” em ritual reconhecível de equipes de software e, depois, de outras áreas
-- **Padronização**: Tornou-se evento formal do Scrum e prática comum em ambientes ágeis
-- **Hipótese sobre o comportamento humano**: Experiência não se transforma automaticamente em aprendizagem; pessoas precisam de tempo, representação e comparação de perspectivas para reinterpretar o que viveram
-- **Relação de poder**: Pode criar espaço para equipes tornarem problemas visíveis ou converter falhas em exposição e controle, dependendo de quem participa e do destino das informações
-- **Comportamento aproveitado**: Reconstrução narrativa, comparação social, reconhecimento de padrões e aprendizagem a partir de experiência
-- **Comportamento criado**: Reservar períodos recorrentes para discutir o próprio processo e escolher mudanças explícitas
-- **Capacidade ampliada**: Aprendizagem coletiva, detecção precoce de disfunções e adaptação antes do encerramento do trabalho
-- **Capacidade reduzida ou deslocada**: Consome tempo produtivo imediato e torna parte da experiência coletiva sujeita a formalização e registro
-- **Custo invisível**: Risco de culpa, autocensura, consenso que dissolve responsabilidade ou ritualização sem mudança posterior
-- **O que simplifica**: Transforma um fluxo difuso de experiências em poucos padrões, problemas e ações discutíveis pelo grupo
-- **O que esconde**: Sínteses coletivas podem apagar diferenças de experiência, poder e responsabilidade individual
-- **Por que funcionou**: Cria cadência curta entre ação, interpretação e nova tentativa, permitindo que aprendizagem retorne ao sistema
-- **Consequências inesperadas**: O ritual criado para questionar a rotina pode tornar-se ele próprio uma rotina vazia
-- **Legado**: Sprint Retrospectives, AARs, post-mortems, incident reviews e outros formatos recorrentes de aprendizagem operacional
-- **Conceitos relacionados**: [[01 conceitos/Servico de Reflexao|Serviço de Reflexão]], [[01 conceitos/Memoria Distribuida|Memória Distribuída]], [[01 conceitos/Autodeterminação|Autodeterminação]], [[01 conceitos/Justica Procedimental|Justiça Procedimental]]
-- **Variáveis relacionadas**: [[02 variaveis/Custo do Erro|Custo do Erro]], [[02 variaveis/Legitimidade Decisoria|Legitimidade Decisória]], [[02 variaveis/Custo Transacional|Custo Transacional]]
-- **Genealogias**: [[04 genealogias/Reversibilidade e Custo do Erro|Reversibilidade e custo do erro]], [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]], [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]]
-- **Família de ideias**: Artefatos de reflexão e aprendizagem recorrente
-- **Parentes**: After Action Review, debriefing, post-mortem, diário, supervisão, [[03 artefatos/Workshop|Workshop]], [[03 artefatos/Checklist|Checklist]]
-- **Hipótese central**: A retrospectiva reduz a distância entre viver um problema e transformar essa experiência em mudança do próprio sistema
-- **Princípio de design revelado**: Aprendizagem contínua precisa de um lugar recorrente no processo; depender apenas de boa intenção faz a urgência ocupar todo o tempo disponível
-- **Destino do artefato**: Institucionalizado em métodos ágeis e expandido para operações, produtos e equipes fora do software
-- **Perguntas em aberto**: Como manter uma retrospectiva capaz de produzir mudança depois que o próprio ritual já se tornou perfeitamente previsível?
+| Campo | Registro |
+|---|---|
+| **Artefato** | Retrospectiva |
+| **Período** | Práticas de debriefing e revisão são anteriores; AAR militar formalizada especialmente nas décadas de 1970 e 1980; Sprint Retrospective popularizada com Scrum desde os anos 1990 |
+| **Autoria** | Múltiplas tradições; S. L. A. Marshall e posteriormente estruturas do U.S. Army na história da AAR; Ken Schwaber e Jeff Sutherland no Scrum; Esther Derby e Diana Larsen na sistematização de retrospectivas ágeis |
+| **Produto ou contexto** | Treinamento militar, projetos, desenvolvimento de software, operações e equipes de trabalho Categoria: Processo / reflexão coletiva / aprendizagem organizacional |
+| **Problema original** | Criar oportunidade recorrente de aprender com experiência recente antes que problemas se acumulem até o encerramento ou fracasso final |
+| **Mundo antes** | Revisões posteriores, debriefings, críticas e post-mortems já existiam; a mudança está em integrar ciclos frequentes de reflexão ao próprio processo de trabalho |
+| **Invenção** | Não há inventor único da reflexão pós-ação; diferentes tradições desenvolveram formas próprias |
+| **Refinamento** | AARs estruturadas, ciclos ágeis frequentes, técnicas de facilitação e mecanismos explícitos de acompanhamento de melhorias |
+| **Popularização** | Scrum e movimentos ágeis transformaram “retrospectiva” em ritual reconhecível de equipes de software e, depois, de outras áreas |
+| **Padronização** | Tornou-se evento formal do Scrum e prática comum em ambientes ágeis |
+| **Hipótese de design** | A retrospectiva reduz a distância entre viver um problema e transformar essa experiência em mudança do próprio sistema Hipótese sobre o comportamento humano: Experiência não se transforma automaticamente em aprendizagem; pessoas precisam de tempo, representação e comparação de perspectivas para reinterpretar o que viveram |
+| **Comportamento aproveitado** | Reconstrução narrativa, comparação social, reconhecimento de padrões e aprendizagem a partir de experiência |
+| **Comportamento produzido** | Reservar períodos recorrentes para discutir o próprio processo e escolher mudanças explícitas |
+| **Relação de poder** | Pode criar espaço para equipes tornarem problemas visíveis ou converter falhas em exposição e controle, dependendo de quem participa e do destino das informações |
+| **Consequências inesperadas** | O ritual criado para questionar a rotina pode tornar-se ele próprio uma rotina vazia Capacidade ampliada: Aprendizagem coletiva, detecção precoce de disfunções e adaptação antes do encerramento do trabalho Capacidade reduzida ou deslocada: Consome tempo produtivo imediato e torna parte da experiência coletiva sujeita a formalização e registro Custo invisível: Risco de culpa, autocensura, consenso que dissolve responsabilidade ou ritualização sem mudança posterior Registros adicionais preservados da ficha anterior: o que simplifica: Transforma um fluxo difuso de experiências em poucos padrões, problemas e ações discutíveis pelo grupo; o que esconde: Sínteses coletivas podem apagar diferenças de experiência, poder e responsabilidade individual |
+| **Destino ou transformação posterior** | Institucionalizado em métodos ágeis e expandido para operações, produtos e equipes fora do software Legado: Sprint Retrospectives, AARs, post-mortems, incident reviews e outros formatos recorrentes de aprendizagem operacional |
+| **Conceitos relacionados** | [[01 conceitos/Servico de Reflexao|Serviço de Reflexão]], [[01 conceitos/Memoria Distribuida|Memória Distribuída]], [[01 conceitos/Autodeterminação|Autodeterminação]], [[01 conceitos/Justica Procedimental|Justiça Procedimental]] |
+| **Variáveis relacionadas** | [[02 variaveis/Custo do Erro|Custo do Erro]], [[02 variaveis/Legitimidade Decisoria|Legitimidade Decisória]], [[02 variaveis/Custo Transacional|Custo Transacional]] |
+| **Genealogia** | [[04 genealogias/Reversibilidade e Custo do Erro|Reversibilidade e custo do erro]], [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]], [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] Família de ideias: Artefatos de reflexão e aprendizagem recorrente |
+| **Parentes** | After Action Review, debriefing, post-mortem, diário, supervisão, [[03 artefatos/Workshop|Workshop]], [[03 artefatos/Checklist|Checklist]] |
+| **Princípio de design revelado** | Aprendizagem contínua precisa de um lugar recorrente no processo; depender apenas de boa intenção faz a urgência ocupar todo o tempo disponível Por que funcionou: Cria cadência curta entre ação, interpretação e nova tentativa, permitindo que aprendizagem retorne ao sistema |
+| **Questão em aberto** | Como manter uma retrospectiva capaz de produzir mudança depois que o próprio ritual já se tornou perfeitamente previsível? |

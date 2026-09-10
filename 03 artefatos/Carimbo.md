@@ -98,34 +98,27 @@ O risco acompanha a vantagem. Quanto mais uma marca simplifica o processo, mais 
 5. Literatura sobre burocracia, autoridade documental e semiótica institucional, incluindo Max Weber como referência teórica mais ampla.
 
 ## Ficha arqueológica
-
-- **Nome do artefato**: Carimbo
-- **Categoria**: Produto / design gráfico / interface burocrática
-- **Período aproximado**: Antecedentes em selos antigos; carimbo de borracha moderno difundido a partir da segunda metade do século XIX
-- **Pessoas ou equipes envolvidas**: Sem inventor único para a família de estampagem; Charles Goodyear na vulcanização; autoria do carimbo de borracha disputada entre nomes como L. F. Witherell e James Orton Woodruff; J. F. W. Dorman na comercialização de equipamentos
-- **Produto ou contexto onde apareceu**: Comércio, correios, bancos, tabelionatos, empresas e burocracias estatais
-- **Problema original**: Aplicar rapidamente marcas repetíveis de identificação, classificação ou status sem reescrever a mesma informação
-- **Mundo antes da inovação**: Selos, sinetes, matrizes metálicas, lacres, escrita manual e assinaturas já desempenhavam funções de marcação e autenticação
-- **Invenção**: A estampagem é muito antiga; a autoria específica do carimbo de borracha moderno permanece disputada
-- **Refinamento**: Vulcanização, matrizes flexíveis, montagens de madeira, almofadas de tinta, datadores e mecanismos autoentintados
-- **Popularização**: Expansão dos escritórios, comércio, bancos, ferrovias, correios e administrações no fim do século XIX e século XX
-- **Padronização**: Marcas como recebido, pago, aprovado, protocolado e datado tornaram-se parte recorrente de fluxos documentais
-- **Hipótese sobre o comportamento humano**: Uma marca visual repetível pode funcionar como atalho para reconhecer identidade, autoridade ou estado sem reconstruir todo o processo que a produziu
-- **Relação de poder**: Condensa a autoridade de quem controla a matriz ou o direito institucional de aplicá-la; pode tornar uma decisão legível ao usuário sem revelar como ela foi tomada
-- **Comportamento aproveitado**: Reconhecimento de símbolos consistentes e confiança em convenções documentais compartilhadas
-- **Comportamento criado**: Procurar marcas de validação e tratar certos documentos como incompletos enquanto o sinal esperado não aparece
-- **Capacidade ampliada**: Velocidade de marcação, padronização e visibilidade de estados administrativos
-- **Capacidade reduzida ou deslocada**: A informação contextual sobre o processo pode ser comprimida até restar apenas o status final
-- **Custo invisível**: Formalismos sem função clara, dependência de etapas de validação e risco de confundir presença da marca com qualidade da decisão
-- **Por que funcionou**: Uma matriz reutilizável transforma mensagem ou autoridade recorrente em operação física de baixíssimo custo
-- **Consequências inesperadas**: Tornou-se símbolo cultural da burocracia e do procedimento repetitivo, inclusive quando sua função original já não é evidente
-- **Legado**: Badges de status, timestamps, selos digitais, indicadores de aprovação e outras marcas de estado em sistemas de software
-- **Conceitos relacionados**: [[01 conceitos/Compressao do Esforco|Compressão do Esforço]], [[01 conceitos/Redução de Inferências|Redução de Inferências]], [[01 conceitos/Justificabilidade|Justificabilidade]]
-- **Variáveis relacionadas**: [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]], [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Legitimidade Decisoria|Legitimidade Decisória]], [[02 variaveis/Custo Transacional|Custo Transacional]]
-- **Genealogias**: [[04 genealogias/Compressao do Esforco|Compressão do esforço]], [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]]
-- **Família de ideias**: Artefatos de validação, classificação e estado
-- **Parentes**: [[03 artefatos/Assinatura|Assinatura]], [[03 artefatos/Número de Protocolo|Número de Protocolo]], sinete, selo, badge de status, timestamp
-- **Hipótese central**: O carimbo torna uma decisão institucional portável porque condensa processo e autoridade em uma marca pequena e repetível
-- **Princípio de design revelado**: Estados complexos tornam-se operáveis em escala quando podem ser representados por sinais consistentes e baratos de produzir
-- **Destino do artefato**: Reduzido em alguns processos físicos, mas sua lógica foi amplamente incorporada a estados, metadados e sinais visuais digitais
-- **Perguntas em aberto**: Quando a validação migra da marca física para metadados invisíveis, que sinais a interface precisa mostrar para que o usuário continue entendendo por que deve confiar nela?
+| Campo | Registro |
+|---|---|
+| **Artefato** | Carimbo |
+| **Período** | Antecedentes em selos antigos; carimbo de borracha moderno difundido a partir da segunda metade do século XIX |
+| **Autoria** | Sem inventor único para a família de estampagem; Charles Goodyear na vulcanização; autoria do carimbo de borracha disputada entre nomes como L. F. Witherell e James Orton Woodruff; J. F. W. Dorman na comercialização de equipamentos |
+| **Produto ou contexto** | Comércio, correios, bancos, tabelionatos, empresas e burocracias estatais Categoria: Produto / design gráfico / interface burocrática |
+| **Problema original** | Aplicar rapidamente marcas repetíveis de identificação, classificação ou status sem reescrever a mesma informação |
+| **Mundo antes** | Selos, sinetes, matrizes metálicas, lacres, escrita manual e assinaturas já desempenhavam funções de marcação e autenticação |
+| **Invenção** | A estampagem é muito antiga; a autoria específica do carimbo de borracha moderno permanece disputada |
+| **Refinamento** | Vulcanização, matrizes flexíveis, montagens de madeira, almofadas de tinta, datadores e mecanismos autoentintados |
+| **Popularização** | Expansão dos escritórios, comércio, bancos, ferrovias, correios e administrações no fim do século XIX e século XX |
+| **Padronização** | Marcas como recebido, pago, aprovado, protocolado e datado tornaram-se parte recorrente de fluxos documentais |
+| **Hipótese de design** | O carimbo torna uma decisão institucional portável porque condensa processo e autoridade em uma marca pequena e repetível Hipótese sobre o comportamento humano: Uma marca visual repetível pode funcionar como atalho para reconhecer identidade, autoridade ou estado sem reconstruir todo o processo que a produziu |
+| **Comportamento aproveitado** | Reconhecimento de símbolos consistentes e confiança em convenções documentais compartilhadas |
+| **Comportamento produzido** | Procurar marcas de validação e tratar certos documentos como incompletos enquanto o sinal esperado não aparece |
+| **Relação de poder** | Condensa a autoridade de quem controla a matriz ou o direito institucional de aplicá-la; pode tornar uma decisão legível ao usuário sem revelar como ela foi tomada |
+| **Consequências inesperadas** | Tornou-se símbolo cultural da burocracia e do procedimento repetitivo, inclusive quando sua função original já não é evidente Capacidade ampliada: Velocidade de marcação, padronização e visibilidade de estados administrativos Capacidade reduzida ou deslocada: A informação contextual sobre o processo pode ser comprimida até restar apenas o status final Custo invisível: Formalismos sem função clara, dependência de etapas de validação e risco de confundir presença da marca com qualidade da decisão |
+| **Destino ou transformação posterior** | Reduzido em alguns processos físicos, mas sua lógica foi amplamente incorporada a estados, metadados e sinais visuais digitais Legado: Badges de status, timestamps, selos digitais, indicadores de aprovação e outras marcas de estado em sistemas de software |
+| **Conceitos relacionados** | [[01 conceitos/Compressao do Esforco|Compressão do Esforço]], [[01 conceitos/Redução de Inferências|Redução de Inferências]], [[01 conceitos/Justificabilidade|Justificabilidade]] |
+| **Variáveis relacionadas** | [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]], [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Legitimidade Decisoria|Legitimidade Decisória]], [[02 variaveis/Custo Transacional|Custo Transacional]] |
+| **Genealogia** | [[04 genealogias/Compressao do Esforco|Compressão do esforço]], [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]] Família de ideias: Artefatos de validação, classificação e estado |
+| **Parentes** | [[03 artefatos/Assinatura|Assinatura]], [[03 artefatos/Número de Protocolo|Número de Protocolo]], sinete, selo, badge de status, timestamp |
+| **Princípio de design revelado** | Estados complexos tornam-se operáveis em escala quando podem ser representados por sinais consistentes e baratos de produzir Por que funcionou: Uma matriz reutilizável transforma mensagem ou autoridade recorrente em operação física de baixíssimo custo |
+| **Questão em aberto** | Quando a validação migra da marca física para metadados invisíveis, que sinais a interface precisa mostrar para que o usuário continue entendendo por que deve confiar nela? |

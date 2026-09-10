@@ -81,34 +81,27 @@ Essa estrutura aparece hoje em corações, estrelas, upvotes, reações, favorit
 6. David Kirkpatrick. *The Facebook Effect*.
 
 ## Ficha arqueológica
-
-- **Nome do artefato**: Botão Like
-- **Categoria**: Interface digital / feedback social / sinal de dados
-- **Período aproximado**: Precedentes em 2005–2007; lançamento do Facebook em 2009; expansão posterior
-- **Pessoas ou equipes envolvidas**: Equipes de Vimeo e FriendFeed em implementações anteriores; no Facebook, Leah Pearlman, Justin Rosenstein, Andrew Bosworth, Akhil Wable, Jared Morgenstern, Jonathan Pines, Tom Whitnah e outros participantes de produto, design e engenharia
-- **Produto ou contexto onde apareceu**: Plataformas sociais e de mídia; Facebook a partir de 2009
-- **Problema original**: Permitir que usuários expressem aprovação ou presença sem precisar escrever comentários redundantes ou mínimos
-- **Mundo antes da inovação**: Comentários, votos, estrelas e outros sinais de aprovação exigiam formatos diferentes e, muitas vezes, maior esforço
-- **Invenção**: Não há inventor único da categoria; Vimeo tinha Like em 2005 e FriendFeed em 2007
-- **Refinamento**: Desenvolvimento do botão do Facebook entre 2007 e 2009; posteriormente expansão para Reactions
-- **Popularização**: Facebook transformou o Like em gesto cotidiano de escala global
-- **Padronização**: Likes, corações, upvotes e reações tornaram-se elementos esperados em plataformas de conteúdo social
-- **Hipótese sobre o comportamento humano**: Muitas interações sociais precisam apenas de um sinal mínimo de reconhecimento, aprovação ou presença
-- **Relação de poder**: Facilita expressão para o usuário e simultaneamente aumenta a capacidade da plataforma de medir, ranquear e interpretar comportamento
-- **Comportamento aproveitado**: Sinais rápidos de aprovação e presença que já existiam em conversa, aplauso, votação e comentários curtos
-- **Comportamento criado**: Reagir rotineiramente a conteúdo por meio de um sinal padronizado e numericamente acumulável
-- **Capacidade ampliada**: Expressão social rápida, feedback em escala e legibilidade coletiva de reações
-- **Capacidade reduzida ou deslocada**: Pode substituir algumas respostas escritas mais nuançadas por sinais comprimidos; o grau desse efeito varia por contexto
-- **Custo invisível**: Redução de nuances, exposição de métricas sociais e produção constante de dados comportamentais
-- **Por que funcionou**: Resolve uma necessidade social frequente com esforço quase nulo e feedback imediatamente compreensível
-- **Consequências inesperadas**: Likes passaram a participar de métricas públicas de popularidade, sistemas de distribuição e arquiteturas de dados muito além da intenção expressiva inicial
-- **Legado**: Transformou reação social em um dos principais sinais computáveis da economia de atenção
-- **Conceitos relacionados**: [[01 conceitos/Economia da Atencao|Economia da Atenção]], [[01 conceitos/Recompensa Variavel|Recompensa Variável]], [[01 conceitos/Compressao do Esforco|Compressão do Esforço]], [[01 conceitos/Redução de Inferências|Redução de Inferências]]
-- **Variáveis relacionadas**: [[02 variaveis/Custo Transacional|Custo Transacional]], [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Friccao|Fricção]]
-- **Genealogias**: [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]], [[04 genealogias/Compressao do Esforco|Compressão do esforço]]
-- **Família de ideias**: Sinais sociais comprimidos
-- **Parentes**: [[03 artefatos/Infinite Scroll|Infinite Scroll]], reações, coração/favorito, estrela, upvote, aplauso como parentesco comportamental
-- **Hipótese central**: O Like venceu porque uma ação humana ambígua pôde ser comprimida até se tornar simultaneamente fácil de executar, fácil de observar e fácil de processar
-- **Princípio de design revelado**: Reduzir o custo de uma expressão pode aumentar sua frequência e transformar seu rastro em nova infraestrutura do sistema
-- **Destino do artefato**: Padronizado, expandido em reações e incorporado a múltiplas plataformas
-- **Perguntas em aberto**: Quanto da força histórica do Like vem da facilidade para o usuário e quanto vem do valor que o sinal padronizado produz para quem controla a plataforma?
+| Campo | Registro |
+|---|---|
+| **Artefato** | Botão Like |
+| **Período** | Precedentes em 2005–2007; lançamento do Facebook em 2009; expansão posterior |
+| **Autoria** | Equipes de Vimeo e FriendFeed em implementações anteriores; no Facebook, Leah Pearlman, Justin Rosenstein, Andrew Bosworth, Akhil Wable, Jared Morgenstern, Jonathan Pines, Tom Whitnah e outros participantes de produto, design e engenharia |
+| **Produto ou contexto** | Plataformas sociais e de mídia; Facebook a partir de 2009 Categoria: Interface digital / feedback social / sinal de dados |
+| **Problema original** | Permitir que usuários expressem aprovação ou presença sem precisar escrever comentários redundantes ou mínimos |
+| **Mundo antes** | Comentários, votos, estrelas e outros sinais de aprovação exigiam formatos diferentes e, muitas vezes, maior esforço |
+| **Invenção** | Não há inventor único da categoria; Vimeo tinha Like em 2005 e FriendFeed em 2007 |
+| **Refinamento** | Desenvolvimento do botão do Facebook entre 2007 e 2009; posteriormente expansão para Reactions |
+| **Popularização** | Facebook transformou o Like em gesto cotidiano de escala global |
+| **Padronização** | Likes, corações, upvotes e reações tornaram-se elementos esperados em plataformas de conteúdo social |
+| **Hipótese de design** | O Like venceu porque uma ação humana ambígua pôde ser comprimida até se tornar simultaneamente fácil de executar, fácil de observar e fácil de processar Hipótese sobre o comportamento humano: Muitas interações sociais precisam apenas de um sinal mínimo de reconhecimento, aprovação ou presença |
+| **Comportamento aproveitado** | Sinais rápidos de aprovação e presença que já existiam em conversa, aplauso, votação e comentários curtos |
+| **Comportamento produzido** | Reagir rotineiramente a conteúdo por meio de um sinal padronizado e numericamente acumulável |
+| **Relação de poder** | Facilita expressão para o usuário e simultaneamente aumenta a capacidade da plataforma de medir, ranquear e interpretar comportamento |
+| **Consequências inesperadas** | Likes passaram a participar de métricas públicas de popularidade, sistemas de distribuição e arquiteturas de dados muito além da intenção expressiva inicial Capacidade ampliada: Expressão social rápida, feedback em escala e legibilidade coletiva de reações Capacidade reduzida ou deslocada: Pode substituir algumas respostas escritas mais nuançadas por sinais comprimidos; o grau desse efeito varia por contexto Custo invisível: Redução de nuances, exposição de métricas sociais e produção constante de dados comportamentais |
+| **Destino ou transformação posterior** | Padronizado, expandido em reações e incorporado a múltiplas plataformas Legado: Transformou reação social em um dos principais sinais computáveis da economia de atenção |
+| **Conceitos relacionados** | [[01 conceitos/Economia da Atencao|Economia da Atenção]], [[01 conceitos/Recompensa Variavel|Recompensa Variável]], [[01 conceitos/Compressao do Esforco|Compressão do Esforço]], [[01 conceitos/Redução de Inferências|Redução de Inferências]] |
+| **Variáveis relacionadas** | [[02 variaveis/Custo Transacional|Custo Transacional]], [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Friccao|Fricção]] |
+| **Genealogia** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]], [[04 genealogias/Compressao do Esforco|Compressão do esforço]] Família de ideias: Sinais sociais comprimidos |
+| **Parentes** | [[03 artefatos/Infinite Scroll|Infinite Scroll]], reações, coração/favorito, estrela, upvote, aplauso como parentesco comportamental |
+| **Princípio de design revelado** | Reduzir o custo de uma expressão pode aumentar sua frequência e transformar seu rastro em nova infraestrutura do sistema Por que funcionou: Resolve uma necessidade social frequente com esforço quase nulo e feedback imediatamente compreensível |
+| **Questão em aberto** | Quanto da força histórica do Like vem da facilidade para o usuário e quanto vem do valor que o sinal padronizado produz para quem controla a plataforma? |

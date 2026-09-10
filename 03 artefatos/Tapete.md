@@ -58,34 +58,27 @@ A família pode ser acompanhada até interfaces digitais. Cards, painéis, caixa
 3. Estudos de antropologia, arqueologia têxtil e design vernáculo sobre superfícies de uso doméstico e nômade.
 
 ## Ficha arqueológica
-
-- **Nome do artefato**: Tapete
-- **Categoria**: Produto / superfície têxtil / delimitação espacial
-- **Período aproximado**: Origem indeterminada; exemplares preservados desde a Antiguidade
-- **Pessoas ou equipes envolvidas**: Produção coletiva e anônima em diversas culturas
-- **Produto ou contexto onde apareceu**: Habitações, tendas, espaços cerimoniais, religiosos e domésticos
-- **Problema original**: Isolar o corpo do solo e criar superfícies mais habitáveis; em muitos contextos, também organizar usos e relações dentro de um espaço
-- **Mundo antes da inovação**: Não há um único “antes”; superfícies naturais, esteiras e outros revestimentos coexistiram e evoluíram em diferentes culturas
-- **Invenção**: Sem autoria ou local de origem identificáveis com segurança
-- **Refinamento**: Desenvolvimento de técnicas de tecelagem, nós, feltro, padrões, materiais e usos especializados
-- **Popularização**: Difusão por rotas comerciais, produção doméstica e industrialização têxtil
-- **Padronização**: Tornou-se elemento recorrente de interiores residenciais, cerimoniais e comerciais
-- **Hipótese sobre o comportamento humano**: Pessoas interpretam mudanças de textura, cor e padrão como sinais de fronteira e pertencimento mesmo sem barreira física
-- **Relação de poder**: Pode indicar quem pertence a uma zona, onde alguém deve sentar, entrar, circular ou retirar os sapatos, dependendo do contexto cultural
-- **Comportamento aproveitado**: Reconhecimento visual e tátil de limites
-- **Comportamento criado**: Organização de móveis e pessoas em “ilhas” perceptivas e rituais específicos associados a certas superfícies
-- **Capacidade ampliada**: Conforto térmico, legibilidade espacial e flexibilidade de zoneamento
-- **Capacidade reduzida ou deslocada**: Reduz necessidade de algumas divisões rígidas, mas pode introduzir obstáculos físicos e manutenção adicional
-- **Custo invisível**: Limpeza, acúmulo de poeira e risco de tropeço ou dificuldade de mobilidade
-- **Por que funcionou**: Delimita sem bloquear e pode ser movido, substituído ou reinterpretado com baixo custo arquitetônico
-- **Consequências inesperadas**: Tornar-se marcador de status, identidade cultural, ritual e valor artístico além da função doméstica
-- **Legado**: Mostra como superfícies podem organizar comportamento por diferença perceptiva em vez de barreira estrutural
-- **Conceitos relacionados**: [[01 conceitos/Limiares|Limiares]], [[01 conceitos/Tecnologias de Delimitacao|Tecnologias de Delimitação]], [[01 conceitos/Affordance|Affordance]]
-- **Variáveis relacionadas**: [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]], [[02 variaveis/Friccao|Fricção]]
-- **Genealogias**: [[04 genealogias/Limiares e Delimitacao|Limiares e delimitação]]
-- **Família de ideias**: Tecnologias leves de fronteira
-- **Parentes**: [[03 artefatos/Tela de Login|Tela de Login]], moldura, palco, pedestal, altar, genkan como comparação de limiar
-- **Hipótese central**: O tapete demonstra que uma fronteira pode reorganizar comportamento sem impedir fisicamente a passagem
-- **Princípio de design revelado**: Alterar a leitura de uma superfície pode reorganizar um espaço sem reconstruí-lo
-- **Destino do artefato**: Permanece materialmente presente e continua inspirando formas abstratas de delimitação em outras mídias
-- **Perguntas em aberto**: Quantas fronteiras de interface são descendentes conceituais de superfícies que primeiro ensinaram humanos a ler zonas dentro de zonas?
+| Campo | Registro |
+|---|---|
+| **Artefato** | Tapete |
+| **Período** | Origem indeterminada; exemplares preservados desde a Antiguidade |
+| **Autoria** | Produção coletiva e anônima em diversas culturas |
+| **Produto ou contexto** | Habitações, tendas, espaços cerimoniais, religiosos e domésticos Categoria: Produto / superfície têxtil / delimitação espacial |
+| **Problema original** | Isolar o corpo do solo e criar superfícies mais habitáveis; em muitos contextos, também organizar usos e relações dentro de um espaço |
+| **Mundo antes** | Não há um único “antes”; superfícies naturais, esteiras e outros revestimentos coexistiram e evoluíram em diferentes culturas |
+| **Invenção** | Sem autoria ou local de origem identificáveis com segurança |
+| **Refinamento** | Desenvolvimento de técnicas de tecelagem, nós, feltro, padrões, materiais e usos especializados |
+| **Popularização** | Difusão por rotas comerciais, produção doméstica e industrialização têxtil |
+| **Padronização** | Tornou-se elemento recorrente de interiores residenciais, cerimoniais e comerciais |
+| **Hipótese de design** | O tapete demonstra que uma fronteira pode reorganizar comportamento sem impedir fisicamente a passagem Hipótese sobre o comportamento humano: Pessoas interpretam mudanças de textura, cor e padrão como sinais de fronteira e pertencimento mesmo sem barreira física |
+| **Comportamento aproveitado** | Reconhecimento visual e tátil de limites |
+| **Comportamento produzido** | Organização de móveis e pessoas em “ilhas” perceptivas e rituais específicos associados a certas superfícies |
+| **Relação de poder** | Pode indicar quem pertence a uma zona, onde alguém deve sentar, entrar, circular ou retirar os sapatos, dependendo do contexto cultural |
+| **Consequências inesperadas** | Tornar-se marcador de status, identidade cultural, ritual e valor artístico além da função doméstica Capacidade ampliada: Conforto térmico, legibilidade espacial e flexibilidade de zoneamento Capacidade reduzida ou deslocada: Reduz necessidade de algumas divisões rígidas, mas pode introduzir obstáculos físicos e manutenção adicional Custo invisível: Limpeza, acúmulo de poeira e risco de tropeço ou dificuldade de mobilidade |
+| **Destino ou transformação posterior** | Permanece materialmente presente e continua inspirando formas abstratas de delimitação em outras mídias Legado: Mostra como superfícies podem organizar comportamento por diferença perceptiva em vez de barreira estrutural |
+| **Conceitos relacionados** | [[01 conceitos/Limiares|Limiares]], [[01 conceitos/Tecnologias de Delimitacao|Tecnologias de Delimitação]], [[01 conceitos/Affordance|Affordance]] |
+| **Variáveis relacionadas** | [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]], [[02 variaveis/Friccao|Fricção]] |
+| **Genealogia** | [[04 genealogias/Limiares e Delimitacao|Limiares e delimitação]] Família de ideias: Tecnologias leves de fronteira |
+| **Parentes** | [[03 artefatos/Tela de Login|Tela de Login]], moldura, palco, pedestal, altar, genkan como comparação de limiar |
+| **Princípio de design revelado** | Alterar a leitura de uma superfície pode reorganizar um espaço sem reconstruí-lo Por que funcionou: Delimita sem bloquear e pode ser movido, substituído ou reinterpretado com baixo custo arquitetônico |
+| **Questão em aberto** | Quantas fronteiras de interface são descendentes conceituais de superfícies que primeiro ensinaram humanos a ler zonas dentro de zonas? |

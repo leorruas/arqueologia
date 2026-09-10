@@ -72,34 +72,27 @@ A tensão central do artefato é justamente essa: **nem toda fricção é desper
 5. Nielsen Norman Group. Pesquisas sobre infinite scrolling, paginação e tarefas de busca orientadas a objetivo.
 
 ## Ficha arqueológica
-
-- **Nome do artefato**: Infinite Scroll
-- **Categoria**: Interface digital / navegação de listas e feeds
-- **Período aproximado**: 2005–2006 aos dias atuais
-- **Pessoas ou equipes envolvidas**: Julia Farago, Hugh Williams, Nick Craswell e equipe de busca da Microsoft; Aza Raskin em desenvolvimento independente contemporâneo; equipes posteriores de plataformas sociais
-- **Produto ou contexto onde apareceu**: MSN/Windows Live Image Search, protótipos e experimentos web, posteriormente redes sociais e catálogos digitais
-- **Problema original**: Eliminar a interrupção de pedir e carregar explicitamente a próxima página de um conjunto de resultados
-- **Mundo antes da inovação**: Conteúdo extenso dividido em páginas numeradas ou blocos carregados por comandos explícitos
-- **Invenção**: Há evidência de desenvolvimento contemporâneo em mais de um lugar; a equipe da Microsoft possui implementação e patente documentadas em 2005–2006, enquanto Aza Raskin relata criação independente em 2006
-- **Refinamento**: Carregamento progressivo mais suave, placeholders, virtualização de listas e integração com feeds continuamente ranqueados
-- **Popularização**: Adoção por redes sociais, buscas de imagem, catálogos e aplicativos móveis
-- **Padronização**: Tornou-se padrão reconhecível para navegação exploratória, embora não seja apropriado a todas as tarefas
-- **Hipótese sobre o comportamento humano**: Quando uma ação secundária é previsível a partir do gesto em curso, o sistema pode executá-la sem exigir nova decisão
-- **Relação de poder**: Reduz esforço do usuário, mas também permite que a plataforma controle quando e quanto conteúdo aparece sem devolver pontos naturais de decisão
-- **Comportamento aproveitado**: Continuar rolando quando ainda se procura algo ou se deseja ver mais
-- **Comportamento criado**: Esperar que listas se prolonguem automaticamente ao chegar ao limite
-- **Capacidade ampliada**: Navegação contínua e rápida por grandes conjuntos de conteúdo
-- **Capacidade reduzida ou deslocada**: Perda de marcos de posição, extensão e parada presentes na paginação
-- **Custo invisível**: Dificuldade de perceber encerramento e, em alguns contextos, de recuperar posição ou estimar quantidade restante
-- **Por que funcionou**: Une navegação e solicitação de conteúdo no mesmo gesto
-- **Consequências inesperadas**: Em feeds continuamente atualizados, participa de sistemas que reduzem sinais de parada e podem favorecer sessões prolongadas
-- **Legado**: Transformou o “fim da página” de fronteira explícita em evento técnico invisível
-- **Conceitos relacionados**: [[01 conceitos/Economia da Atencao|Economia da Atenção]], [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção Boa vs Fricção Ruim]], [[01 conceitos/Compressao do Esforco|Compressão do Esforço]], [[01 conceitos/Recompensa Variavel|Recompensa Variável]]
-- **Variáveis relacionadas**: [[02 variaveis/Atrito Decisorio|Atrito Decisório]], [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Custo de Busca|Custo de Busca]], [[02 variaveis/Friccao|Fricção]]
-- **Genealogias**: [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]], [[04 genealogias/Compressao do Esforco|Compressão do esforço]]
-- **Família de ideias**: Tecnologias de continuidade
-- **Parentes**: [[03 artefatos/Pull to Refresh|Pull to Refresh]], [[03 artefatos/Botao Like|Botão Like]], paginação, rolo de manuscrito como parentesco morfológico, autoplay como parentesco comportamental
-- **Hipótese central**: Infinite Scroll transformou uma decisão explícita de continuidade em inferência automática do sistema a partir do gesto de rolar
-- **Princípio de design revelado**: Remover uma microdecisão pode melhorar fluidez e, ao mesmo tempo, apagar um ponto de autonomia que só parecia irrelevante
-- **Destino do artefato**: Amplamente incorporado, hoje também objeto de crítica e de alternativas que reintroduzem limites ou pausas
-- **Perguntas em aberto**: Como distinguir uma fricção inútil de um ponto de parada que protege a capacidade do usuário de encerrar a interação?
+| Campo | Registro |
+|---|---|
+| **Artefato** | Infinite Scroll |
+| **Período** | 2005–2006 aos dias atuais |
+| **Autoria** | Julia Farago, Hugh Williams, Nick Craswell e equipe de busca da Microsoft; Aza Raskin em desenvolvimento independente contemporâneo; equipes posteriores de plataformas sociais |
+| **Produto ou contexto** | MSN/Windows Live Image Search, protótipos e experimentos web, posteriormente redes sociais e catálogos digitais Categoria: Interface digital / navegação de listas e feeds |
+| **Problema original** | Eliminar a interrupção de pedir e carregar explicitamente a próxima página de um conjunto de resultados |
+| **Mundo antes** | Conteúdo extenso dividido em páginas numeradas ou blocos carregados por comandos explícitos |
+| **Invenção** | Há evidência de desenvolvimento contemporâneo em mais de um lugar; a equipe da Microsoft possui implementação e patente documentadas em 2005–2006, enquanto Aza Raskin relata criação independente em 2006 |
+| **Refinamento** | Carregamento progressivo mais suave, placeholders, virtualização de listas e integração com feeds continuamente ranqueados |
+| **Popularização** | Adoção por redes sociais, buscas de imagem, catálogos e aplicativos móveis |
+| **Padronização** | Tornou-se padrão reconhecível para navegação exploratória, embora não seja apropriado a todas as tarefas |
+| **Hipótese de design** | Infinite Scroll transformou uma decisão explícita de continuidade em inferência automática do sistema a partir do gesto de rolar Hipótese sobre o comportamento humano: Quando uma ação secundária é previsível a partir do gesto em curso, o sistema pode executá-la sem exigir nova decisão |
+| **Comportamento aproveitado** | Continuar rolando quando ainda se procura algo ou se deseja ver mais |
+| **Comportamento produzido** | Esperar que listas se prolonguem automaticamente ao chegar ao limite |
+| **Relação de poder** | Reduz esforço do usuário, mas também permite que a plataforma controle quando e quanto conteúdo aparece sem devolver pontos naturais de decisão |
+| **Consequências inesperadas** | Em feeds continuamente atualizados, participa de sistemas que reduzem sinais de parada e podem favorecer sessões prolongadas Capacidade ampliada: Navegação contínua e rápida por grandes conjuntos de conteúdo Capacidade reduzida ou deslocada: Perda de marcos de posição, extensão e parada presentes na paginação Custo invisível: Dificuldade de perceber encerramento e, em alguns contextos, de recuperar posição ou estimar quantidade restante |
+| **Destino ou transformação posterior** | Amplamente incorporado, hoje também objeto de crítica e de alternativas que reintroduzem limites ou pausas Legado: Transformou o “fim da página” de fronteira explícita em evento técnico invisível |
+| **Conceitos relacionados** | [[01 conceitos/Economia da Atencao|Economia da Atenção]], [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção Boa vs Fricção Ruim]], [[01 conceitos/Compressao do Esforco|Compressão do Esforço]], [[01 conceitos/Recompensa Variavel|Recompensa Variável]] |
+| **Variáveis relacionadas** | [[02 variaveis/Atrito Decisorio|Atrito Decisório]], [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Custo de Busca|Custo de Busca]], [[02 variaveis/Friccao|Fricção]] |
+| **Genealogia** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]], [[04 genealogias/Compressao do Esforco|Compressão do esforço]] Família de ideias: Tecnologias de continuidade |
+| **Parentes** | [[03 artefatos/Pull to Refresh|Pull to Refresh]], [[03 artefatos/Botao Like|Botão Like]], paginação, rolo de manuscrito como parentesco morfológico, autoplay como parentesco comportamental |
+| **Princípio de design revelado** | Remover uma microdecisão pode melhorar fluidez e, ao mesmo tempo, apagar um ponto de autonomia que só parecia irrelevante Por que funcionou: Une navegação e solicitação de conteúdo no mesmo gesto |
+| **Questão em aberto** | Como distinguir uma fricção inútil de um ponto de parada que protege a capacidade do usuário de encerrar a interação? |

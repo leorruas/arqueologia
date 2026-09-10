@@ -51,34 +51,27 @@ Também existe uma tensão entre reversão e memória. Um Undo pode eliminar o e
 4. Bill Atkinson, depoimento oral preservado pelo Computer History Museum sobre a implementação de Undo no Lisa.
 
 ## Ficha arqueológica
-
-- **Nome do artefato**: Undo
-- **Categoria**: Interface digital / comando de edição
-- **Período aproximado**: Década de 1960 aos dias atuais
-- **Pessoas ou equipes envolvidas**: Warren Teitelman e equipe BBN-LISP; equipes do Apple Lisa; Bill Atkinson; equipes do Macintosh
-- **Produto ou contexto onde apareceu**: BBN-LISP; Apple Lisa; Macintosh; posteriormente editores e sistemas de software em geral
-- **Problema original**: Alto custo de recuperar estados anteriores depois de alterações ou erros
-- **Mundo antes da inovação**: Mudanças frequentemente exigiam backups prévios, reconstrução manual ou repetição do trabalho para recuperar um estado perdido
-- **Invenção**: Implementações iniciais documentadas de Undo em sistemas interativos como o BBN-LISP de Warren Teitelman
-- **Refinamento**: Integração consistente do comando a aplicativos gráficos, com destaque para o Lisa
-- **Popularização**: Disseminação em interfaces gráficas comerciais, incluindo o Macintosh
-- **Padronização**: Expectativa de que editores e ferramentas criativas ofereçam algum mecanismo de desfazer
-- **Hipótese sobre o comportamento humano**: Pessoas exploram mais quando o custo de uma tentativa mal-sucedida é reduzido
-- **Relação de poder**: Transfere parte do controle sobre consequências da máquina de volta ao usuário
-- **Comportamento aproveitado**: Aprendizado por tentativa e erro, esboço e correção
-- **Comportamento criado**: Experimentar ações digitais contando com a possibilidade de retornar ao estado anterior
-- **Capacidade ampliada**: Exploração, edição iterativa e recuperação de erros
-- **Capacidade reduzida ou deslocada**: Pode diminuir a necessidade de antecipar todas as consequências antes de agir; o efeito comportamental dessa mudança permanece hipótese
-- **Custo invisível**: Necessidade de armazenar estados ou operações e risco de comunicar uma reversibilidade maior do que o sistema realmente oferece
-- **Por que funcionou**: Transformou recuperação de erro em operação próxima e de baixo custo
-- **Consequências inesperadas**: Pode alterar a expectativa cultural sobre quanto uma ação digital deve ser reversível
-- **Legado**: Tornou a reversibilidade uma propriedade central de sistemas interativos e criativos
-- **Conceitos relacionados**: [[01 conceitos/Manipulacao Direta|Manipulação Direta]], [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção Boa vs Fricção Ruim]], [[01 conceitos/Justica Procedimental|Justiça Procedimental]]
-- **Variáveis relacionadas**: [[02 variaveis/Reversibilidade|Reversibilidade]], [[02 variaveis/Custo do Erro|Custo do Erro]], [[02 variaveis/Justica|Justiça]]
-- **Genealogias**: [[04 genealogias/Reversibilidade e Custo do Erro|Reversibilidade e custo do erro]]
-- **Família de ideias**: Tecnologias de reversibilidade
-- **Parentes**: [[03 artefatos/Undo Send|Undo Send]], [[03 artefatos/Quadro Branco|Quadro Branco]], [[03 artefatos/Botao Salvar|Botão Salvar]]
-- **Hipótese central**: O Undo transforma o erro de evento terminal em etapa possível de um processo exploratório
-- **Princípio de design revelado**: Reduzir o custo de voltar atrás pode aumentar a liberdade para avançar
-- **Destino do artefato**: Padronizado e incorporado à gramática básica de interfaces de edição
-- **Perguntas em aberto**: Quanto da criatividade possibilitada por software depende menos da quantidade de ferramentas e mais da confiança de que tentativas podem ser revertidas?
+| Campo | Registro |
+|---|---|
+| **Artefato** | Undo |
+| **Período** | Década de 1960 aos dias atuais |
+| **Autoria** | Warren Teitelman e equipe BBN-LISP; equipes do Apple Lisa; Bill Atkinson; equipes do Macintosh |
+| **Produto ou contexto** | BBN-LISP; Apple Lisa; Macintosh; posteriormente editores e sistemas de software em geral Categoria: Interface digital / comando de edição |
+| **Problema original** | Alto custo de recuperar estados anteriores depois de alterações ou erros |
+| **Mundo antes** | Mudanças frequentemente exigiam backups prévios, reconstrução manual ou repetição do trabalho para recuperar um estado perdido |
+| **Invenção** | Implementações iniciais documentadas de Undo em sistemas interativos como o BBN-LISP de Warren Teitelman |
+| **Refinamento** | Integração consistente do comando a aplicativos gráficos, com destaque para o Lisa |
+| **Popularização** | Disseminação em interfaces gráficas comerciais, incluindo o Macintosh |
+| **Padronização** | Expectativa de que editores e ferramentas criativas ofereçam algum mecanismo de desfazer |
+| **Hipótese de design** | O Undo transforma o erro de evento terminal em etapa possível de um processo exploratório Hipótese sobre o comportamento humano: Pessoas exploram mais quando o custo de uma tentativa mal-sucedida é reduzido |
+| **Comportamento aproveitado** | Aprendizado por tentativa e erro, esboço e correção |
+| **Comportamento produzido** | Experimentar ações digitais contando com a possibilidade de retornar ao estado anterior |
+| **Relação de poder** | Transfere parte do controle sobre consequências da máquina de volta ao usuário |
+| **Consequências inesperadas** | Pode alterar a expectativa cultural sobre quanto uma ação digital deve ser reversível Capacidade ampliada: Exploração, edição iterativa e recuperação de erros Capacidade reduzida ou deslocada: Pode diminuir a necessidade de antecipar todas as consequências antes de agir; o efeito comportamental dessa mudança permanece hipótese Custo invisível: Necessidade de armazenar estados ou operações e risco de comunicar uma reversibilidade maior do que o sistema realmente oferece |
+| **Destino ou transformação posterior** | Padronizado e incorporado à gramática básica de interfaces de edição Legado: Tornou a reversibilidade uma propriedade central de sistemas interativos e criativos |
+| **Conceitos relacionados** | [[01 conceitos/Manipulacao Direta|Manipulação Direta]], [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção Boa vs Fricção Ruim]], [[01 conceitos/Justica Procedimental|Justiça Procedimental]] |
+| **Variáveis relacionadas** | [[02 variaveis/Reversibilidade|Reversibilidade]], [[02 variaveis/Custo do Erro|Custo do Erro]], [[02 variaveis/Justica|Justiça]] |
+| **Genealogia** | [[04 genealogias/Reversibilidade e Custo do Erro|Reversibilidade e custo do erro]] Família de ideias: Tecnologias de reversibilidade |
+| **Parentes** | [[03 artefatos/Undo Send|Undo Send]], [[03 artefatos/Quadro Branco|Quadro Branco]], [[03 artefatos/Botao Salvar|Botão Salvar]] |
+| **Princípio de design revelado** | Reduzir o custo de voltar atrás pode aumentar a liberdade para avançar Por que funcionou: Transformou recuperação de erro em operação próxima e de baixo custo |
+| **Questão em aberto** | Quanto da criatividade possibilitada por software depende menos da quantidade de ferramentas e mais da confiança de que tentativas podem ser revertidas? |

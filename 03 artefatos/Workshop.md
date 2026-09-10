@@ -108,36 +108,27 @@ Nesse sentido, o workshop é parente de [[03 artefatos/Retrospectiva|Retrospecti
 5. Literatura de co-design, facilitação e desenvolvimento organizacional sobre participação e poder em processos colaborativos.
 
 ## Ficha arqueológica
-
-- **Nome do artefato**: Workshop
-- **Categoria**: Design de serviços / facilitação / interação coletiva
-- **Período aproximado**: Oficinas e workshops possuem história anterior; uso como dispositivo central de design participativo e colaboração organizacional ganha relevância especialmente a partir das décadas de 1970 e 1980
-- **Pessoas ou equipes envolvidas**: Sem inventor único; tradições de participatory design, desenvolvimento organizacional, facilitação e co-design; posteriormente autores como [[autores/Dave Gray|Dave Gray]], [[autores/Sunni Brown|Sunni Brown]] e [[autores/James Macanufo|James Macanufo]] sistematizaram repertórios de atividades
-- **Produto ou contexto onde apareceu**: Projetos participativos, transformação organizacional, design de serviços, estratégia, pesquisa, educação e inovação
-- **Problema original**: Criar condições temporárias para que múltiplos atores construam, confrontem ou decidam algo em conjunto
-- **Mundo antes da inovação**: Não há um único “antes”; reuniões, assembleias, oficinas e processos colaborativos já existiam. O design participativo modifica especialmente quem é reconhecido como participante legítimo do processo de projeto
-- **Invenção**: Sem ponto único. O workshop é uma forma histórica ampla; sua apropriação pelo design participativo é parte de uma transformação metodológica e política dos anos 1970 em diante
-- **Refinamento**: Jogos de facilitação, templates, timeboxes, votação, co-design, design sprint, ferramentas digitais e formatos remotos
-- **Popularização**: Design thinking, inovação corporativa, métodos ágeis e consultorias expandiram o uso de workshops nas décadas recentes
-- **Padronização**: Tornou-se formato esperado para alinhamento, ideação e cocriação em muitas organizações
-- **Hipótese sobre o comportamento humano**: Alterar temporariamente regras, representações e turnos de interação pode permitir que grupos produzam relações e ideias diferentes das geradas por reuniões convencionais
-- **Relação de poder**: Pode redistribuir voz e visibilidade, mas não elimina hierarquia; facilitadores e patrocinadores continuam controlando enquadramento, método e destino das decisões
-- **Comportamento aproveitado**: Conversação, imitação, construção sobre ideias alheias, manipulação conjunta de representações e busca de reconhecimento no grupo
-- **Comportamento criado**: Participar de sessões intensivas com regras explícitas de colaboração, produção visual e decisão coletiva
-- **Capacidade ampliada**: Diversidade de perspectivas, construção compartilhada de representações, negociação rápida de ambiguidades e participação
-- **Capacidade reduzida ou deslocada**: Exige sincronização de tempo e pode substituir reflexão individual longa por produção coletiva concentrada
-- **Custo invisível**: Muitas horas humanas simultâneas, conflitos de poder mascarados, participação cosmética e resultados sem continuidade
-- **O que simplifica**: Coloca pessoas, problema e materiais no mesmo intervalo para acelerar interação e alinhamento
-- **O que esconde**: Diferenças reais de autoridade podem parecer suspensas durante a dinâmica sem terem mudado estruturalmente
-- **Por que funcionou**: Projeta explicitamente regras de interação e usa representações compartilhadas para permitir que múltiplas contribuições coexistam
-- **Consequências inesperadas**: Workshop pode virar ritual corporativo de legitimação ou “teatro de design”, produzindo sensação de participação sem capacidade real de alterar decisões
-- **Legado**: Co-design workshops, design sprints, sessões de discovery, oficinas estratégicas e ambientes digitais de facilitação
-- **Conceitos relacionados**: [[01 conceitos/Autodeterminação|Autodeterminação]], [[01 conceitos/Memoria Distribuida|Memória Distribuída]], [[01 conceitos/Sincronizacao|Sincronização]], [[01 conceitos/Justica Procedimental|Justiça Procedimental]]
-- **Variáveis relacionadas**: [[02 variaveis/Custo Transacional|Custo Transacional]], [[02 variaveis/Legitimidade Decisoria|Legitimidade Decisória]], [[02 variaveis/Atencao|Atenção]]
-- **Genealogias**: [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]], [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]]
-- **Família de ideias**: Artefatos temporários de participação e coordenação
-- **Parentes**: Co-design, design sprint, assembleia, World Café, [[03 artefatos/Quadro Branco|Quadro branco]], [[03 artefatos/Post-it|Post-it]], [[03 artefatos/Retrospectiva|Retrospectiva]]
-- **Hipótese central**: O workshop não elimina estruturas de poder; ele cria temporariamente uma microarquitetura alternativa de interação dentro delas
-- **Princípio de design revelado**: Participação depende menos de reunir pessoas do que de projetar quais ações, vozes e representações terão espaço e consequência
-- **Destino do artefato**: Amplamente institucionalizado em design e gestão, hoje tensionado pelo excesso de reuniões, facilitação remota e críticas à participação cosmética
-- **Perguntas em aberto**: Que mecanismos precisam existir depois de um workshop para que a participação temporária se converta em poder persistente sobre decisões?
+| Campo | Registro |
+|---|---|
+| **Artefato** | Workshop |
+| **Período** | Oficinas e workshops possuem história anterior; uso como dispositivo central de design participativo e colaboração organizacional ganha relevância especialmente a partir das décadas de 1970 e 1980 |
+| **Autoria** | Sem inventor único; tradições de participatory design, desenvolvimento organizacional, facilitação e co-design; posteriormente autores como [[autores/Dave Gray|Dave Gray]], [[autores/Sunni Brown|Sunni Brown]] e [[autores/James Macanufo|James Macanufo]] sistematizaram repertórios de atividades |
+| **Produto ou contexto** | Projetos participativos, transformação organizacional, design de serviços, estratégia, pesquisa, educação e inovação Categoria: Design de serviços / facilitação / interação coletiva |
+| **Problema original** | Criar condições temporárias para que múltiplos atores construam, confrontem ou decidam algo em conjunto |
+| **Mundo antes** | Não há um único “antes”; reuniões, assembleias, oficinas e processos colaborativos já existiam. O design participativo modifica especialmente quem é reconhecido como participante legítimo do processo de projeto |
+| **Invenção** | Sem ponto único. O workshop é uma forma histórica ampla; sua apropriação pelo design participativo é parte de uma transformação metodológica e política dos anos 1970 em diante |
+| **Refinamento** | Jogos de facilitação, templates, timeboxes, votação, co-design, design sprint, ferramentas digitais e formatos remotos |
+| **Popularização** | Design thinking, inovação corporativa, métodos ágeis e consultorias expandiram o uso de workshops nas décadas recentes |
+| **Padronização** | Tornou-se formato esperado para alinhamento, ideação e cocriação em muitas organizações |
+| **Hipótese de design** | O workshop não elimina estruturas de poder; ele cria temporariamente uma microarquitetura alternativa de interação dentro delas Hipótese sobre o comportamento humano: Alterar temporariamente regras, representações e turnos de interação pode permitir que grupos produzam relações e ideias diferentes das geradas por reuniões convencionais |
+| **Comportamento aproveitado** | Conversação, imitação, construção sobre ideias alheias, manipulação conjunta de representações e busca de reconhecimento no grupo |
+| **Comportamento produzido** | Participar de sessões intensivas com regras explícitas de colaboração, produção visual e decisão coletiva |
+| **Relação de poder** | Pode redistribuir voz e visibilidade, mas não elimina hierarquia; facilitadores e patrocinadores continuam controlando enquadramento, método e destino das decisões |
+| **Consequências inesperadas** | Workshop pode virar ritual corporativo de legitimação ou “teatro de design”, produzindo sensação de participação sem capacidade real de alterar decisões Capacidade ampliada: Diversidade de perspectivas, construção compartilhada de representações, negociação rápida de ambiguidades e participação Capacidade reduzida ou deslocada: Exige sincronização de tempo e pode substituir reflexão individual longa por produção coletiva concentrada Custo invisível: Muitas horas humanas simultâneas, conflitos de poder mascarados, participação cosmética e resultados sem continuidade Registros adicionais preservados da ficha anterior: o que simplifica: Coloca pessoas, problema e materiais no mesmo intervalo para acelerar interação e alinhamento; o que esconde: Diferenças reais de autoridade podem parecer suspensas durante a dinâmica sem terem mudado estruturalmente |
+| **Destino ou transformação posterior** | Amplamente institucionalizado em design e gestão, hoje tensionado pelo excesso de reuniões, facilitação remota e críticas à participação cosmética Legado: Co-design workshops, design sprints, sessões de discovery, oficinas estratégicas e ambientes digitais de facilitação |
+| **Conceitos relacionados** | [[01 conceitos/Autodeterminação|Autodeterminação]], [[01 conceitos/Memoria Distribuida|Memória Distribuída]], [[01 conceitos/Sincronizacao|Sincronização]], [[01 conceitos/Justica Procedimental|Justiça Procedimental]] |
+| **Variáveis relacionadas** | [[02 variaveis/Custo Transacional|Custo Transacional]], [[02 variaveis/Legitimidade Decisoria|Legitimidade Decisória]], [[02 variaveis/Atencao|Atenção]] |
+| **Genealogia** | [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]], [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] Família de ideias: Artefatos temporários de participação e coordenação |
+| **Parentes** | Co-design, design sprint, assembleia, World Café, [[03 artefatos/Quadro Branco|Quadro branco]], [[03 artefatos/Post-it|Post-it]], [[03 artefatos/Retrospectiva|Retrospectiva]] |
+| **Princípio de design revelado** | Participação depende menos de reunir pessoas do que de projetar quais ações, vozes e representações terão espaço e consequência Por que funcionou: Projeta explicitamente regras de interação e usa representações compartilhadas para permitir que múltiplas contribuições coexistam |
+| **Questão em aberto** | Que mecanismos precisam existir depois de um workshop para que a participação temporária se converta em poder persistente sobre decisões? |

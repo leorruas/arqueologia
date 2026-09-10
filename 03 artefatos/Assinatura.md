@@ -83,34 +83,27 @@ A assinatura gráfica pode permanecer como símbolo cultural da vontade. A prova
 4. Estudos de diplomática, história do direito e história da escrita sobre autenticação documental.
 
 ## Ficha arqueológica
-
-- **Nome do artefato**: Assinatura
-- **Categoria**: Identidade / validação / interface documental
-- **Período aproximado**: Desenvolvimento gradual; expansão da assinatura manuscrita em documentos europeus medievais e modernos, com trajetórias distintas por sistema jurídico
-- **Pessoas ou equipes envolvidas**: Sem inventor individual; produto de convenções jurídicas, administrativas e escriturárias
-- **Produto ou contexto onde apareceu**: Cartas, escrituras, tratados, contratos, documentos administrativos e posteriormente sistemas eletrônicos
-- **Problema original**: Vincular de maneira persistente uma pessoa a uma declaração, autorização ou compromisso quando ela não estará continuamente presente
-- **Mundo antes da inovação**: Selos, testemunhas, sinais notariais, marcas e fórmulas documentais já autenticavam atos; em muitos contextos medievais o selo era mais importante que a assinatura manuscrita
-- **Invenção**: Distribuída, sem ponto único identificável
-- **Refinamento**: Consolidação de convenções manuscritas, reconhecimento jurídico de múltiplas formas de assinatura e mecanismos de verificação
-- **Popularização**: Expansão da escrita administrativa, do comércio, dos contratos e da alfabetização
-- **Padronização**: Tornou-se etapa esperada em inúmeros atos jurídicos e administrativos, embora sua forma válida continue dependente do contexto
-- **Hipótese sobre o comportamento humano**: Uma pessoa aceita que um sinal produzido por ela continue representando sua intenção depois que o momento da decisão passou
-- **Relação de poder**: Permite que instituições atribuam atos e obrigações a agentes ausentes; também dá ao indivíduo uma forma portátil de manifestar adoção ou consentimento
-- **Comportamento aproveitado**: Reconhecimento de marcas pessoais e uso social de rituais de compromisso
-- **Comportamento criado**: Assinar e rubricar como gesto convencional de concluir ou validar determinados atos
-- **Capacidade ampliada**: Formalização persistente de compromissos à distância e em momentos diferentes
-- **Capacidade reduzida ou deslocada**: Testemunho presencial deixa de ser necessário em muitos casos; parte da confiança passa para o documento e sua infraestrutura de autenticação
-- **Custo invisível**: Falsificação, formalismo, perícia e barreiras quando sistemas assumem uma forma específica de escrita como universal
-- **Por que funcionou**: Condensa agente e intenção em uma marca barata, portátil e incorporada ao próprio documento
-- **Consequências inesperadas**: A assinatura pode tornar-se ritual automático e ser confundida com prova de leitura ou compreensão do conteúdo
-- **Legado**: Assinaturas eletrônicas, assinaturas digitais e novas infraestruturas de registro de autoria e consentimento
-- **Conceitos relacionados**: [[01 conceitos/Limiares|Limiares]], [[01 conceitos/Justificabilidade|Justificabilidade]], [[01 conceitos/Redução de Inferências|Redução de Inferências]]
-- **Variáveis relacionadas**: [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Reversibilidade|Reversibilidade]], [[02 variaveis/Legitimidade Decisoria|Legitimidade Decisória]]
-- **Genealogias**: [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]], [[04 genealogias/Limiares e Delimitacao|Limiares e delimitação]]
-- **Família de ideias**: Artefatos de identidade, autoria e compromisso
-- **Parentes**: [[03 artefatos/Carimbo|Carimbo]], [[03 artefatos/Tela de Login|Tela de Login]], selo, sinete e assinatura digital
-- **Hipótese central**: A assinatura permite que uma manifestação momentânea de intenção continue representando uma pessoa quando ela já não está presente
-- **Princípio de design revelado**: Sistemas conseguem coordenar agentes ausentes quando criam representações persistentes de quem assumiu determinada ação
-- **Destino do artefato**: A forma manuscrita continua ativa, mas coexiste com mecanismos eletrônicos e criptográficos que deslocam parte da confiança para infraestrutura invisível
-- **Perguntas em aberto**: Em sistemas capazes de sintetizar marcas, vozes e identidades convincentes, qual parte da assinatura continuará visível ao usuário e qual parte precisará ser provada por infraestrutura?
+| Campo | Registro |
+|---|---|
+| **Artefato** | Assinatura |
+| **Período** | Desenvolvimento gradual; expansão da assinatura manuscrita em documentos europeus medievais e modernos, com trajetórias distintas por sistema jurídico |
+| **Autoria** | Sem inventor individual; produto de convenções jurídicas, administrativas e escriturárias |
+| **Produto ou contexto** | Cartas, escrituras, tratados, contratos, documentos administrativos e posteriormente sistemas eletrônicos Categoria: Identidade / validação / interface documental |
+| **Problema original** | Vincular de maneira persistente uma pessoa a uma declaração, autorização ou compromisso quando ela não estará continuamente presente |
+| **Mundo antes** | Selos, testemunhas, sinais notariais, marcas e fórmulas documentais já autenticavam atos; em muitos contextos medievais o selo era mais importante que a assinatura manuscrita |
+| **Invenção** | Distribuída, sem ponto único identificável |
+| **Refinamento** | Consolidação de convenções manuscritas, reconhecimento jurídico de múltiplas formas de assinatura e mecanismos de verificação |
+| **Popularização** | Expansão da escrita administrativa, do comércio, dos contratos e da alfabetização |
+| **Padronização** | Tornou-se etapa esperada em inúmeros atos jurídicos e administrativos, embora sua forma válida continue dependente do contexto |
+| **Hipótese de design** | A assinatura permite que uma manifestação momentânea de intenção continue representando uma pessoa quando ela já não está presente Hipótese sobre o comportamento humano: Uma pessoa aceita que um sinal produzido por ela continue representando sua intenção depois que o momento da decisão passou |
+| **Comportamento aproveitado** | Reconhecimento de marcas pessoais e uso social de rituais de compromisso |
+| **Comportamento produzido** | Assinar e rubricar como gesto convencional de concluir ou validar determinados atos |
+| **Relação de poder** | Permite que instituições atribuam atos e obrigações a agentes ausentes; também dá ao indivíduo uma forma portátil de manifestar adoção ou consentimento |
+| **Consequências inesperadas** | A assinatura pode tornar-se ritual automático e ser confundida com prova de leitura ou compreensão do conteúdo Capacidade ampliada: Formalização persistente de compromissos à distância e em momentos diferentes Capacidade reduzida ou deslocada: Testemunho presencial deixa de ser necessário em muitos casos; parte da confiança passa para o documento e sua infraestrutura de autenticação Custo invisível: Falsificação, formalismo, perícia e barreiras quando sistemas assumem uma forma específica de escrita como universal |
+| **Destino ou transformação posterior** | A forma manuscrita continua ativa, mas coexiste com mecanismos eletrônicos e criptográficos que deslocam parte da confiança para infraestrutura invisível Legado: Assinaturas eletrônicas, assinaturas digitais e novas infraestruturas de registro de autoria e consentimento |
+| **Conceitos relacionados** | [[01 conceitos/Limiares|Limiares]], [[01 conceitos/Justificabilidade|Justificabilidade]], [[01 conceitos/Redução de Inferências|Redução de Inferências]] |
+| **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Reversibilidade|Reversibilidade]], [[02 variaveis/Legitimidade Decisoria|Legitimidade Decisória]] |
+| **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]], [[04 genealogias/Limiares e Delimitacao|Limiares e delimitação]] Família de ideias: Artefatos de identidade, autoria e compromisso |
+| **Parentes** | [[03 artefatos/Carimbo|Carimbo]], [[03 artefatos/Tela de Login|Tela de Login]], selo, sinete e assinatura digital |
+| **Princípio de design revelado** | Sistemas conseguem coordenar agentes ausentes quando criam representações persistentes de quem assumiu determinada ação Por que funcionou: Condensa agente e intenção em uma marca barata, portátil e incorporada ao próprio documento |
+| **Questão em aberto** | Em sistemas capazes de sintetizar marcas, vozes e identidades convincentes, qual parte da assinatura continuará visível ao usuário e qual parte precisará ser provada por infraestrutura? |

@@ -59,34 +59,27 @@ A mesma ambiguidade aparece nas garrafas reutilizáveis. Elas podem reduzir desc
 4. Smithsonian Lemelson Center. Materiais sobre Nathaniel Wyeth e recipientes de PET.
 
 ## Ficha arqueológica
-
-- **Nome do artefato**: Garrafa de água
-- **Categoria**: Produto / recipiente portátil
-- **Período aproximado**: Antecedentes antigos; refinamentos industriais decisivos nos séculos XIX e XX
-- **Pessoas ou equipes envolvidas**: Evolução coletiva de recipientes portáteis; William Stanley Jr.; Nathaniel Wyeth; Ronald Roseveare
-- **Produto ou contexto onde apareceu**: Odres, cabaças, frascos, cantis, garrafas térmicas, garrafas PET e garrafas reutilizáveis contemporâneas
-- **Problema original**: Transportar uma reserva de líquido para reduzir dependência de uma fonte fixa durante deslocamentos e atividades
-- **Mundo antes da inovação**: Não há um único “antes”; diferentes sociedades combinaram fontes fixas e recipientes portáteis de diversas formas
-- **Invenção**: Sem inventor identificável para a garrafa como categoria
-- **Refinamento**: Novos materiais e sistemas de vedação, isolamento térmico e produção industrial alteraram peso, conservação e custo
-- **Popularização**: Industrialização de recipientes de vidro, metal e plástico e expansão do mercado de bebidas engarrafadas
-- **Padronização**: Garrafas portáteis tornaram-se parte comum de deslocamentos, trabalho, esporte e consumo cotidiano
-- **Hipótese sobre o comportamento humano**: Quando um recurso necessário pode acompanhar o corpo, pessoas reorganizam rotinas para depender menos do lugar onde esse recurso originalmente está
-- **Relação de poder**: Aumenta autonomia individual de transporte, mas também pode transferir acesso a um recurso comum para cadeias comerciais de embalagem e venda
-- **Comportamento aproveitado**: Necessidade recorrente de beber e prática antiga de transportar provisões
-- **Comportamento criado**: Rotinas de carregar permanentemente um recipiente pessoal e, em certos contextos, usá-lo como marcador de identidade
-- **Capacidade ampliada**: Mobilidade, continuidade de acesso e, em garrafas térmicas, conservação de temperatura
-- **Capacidade reduzida ou deslocada**: Menor dependência imediata de pontos coletivos de água, embora a infraestrutura de abastecimento continue indispensável
-- **Custo invisível**: Resíduos e logística no modelo descartável; mercantilização e consumo simbólico em alguns mercados reutilizáveis
-- **Por que funcionou**: Aproxima uma necessidade recorrente de seu recurso e permite transportar uma reserva previsível junto ao corpo
-- **Consequências inesperadas**: Expansão de água engarrafada descartável e transformação de garrafas reutilizáveis em acessórios de moda e status
-- **Legado**: Tornou a disponibilidade de líquidos uma propriedade portátil do cotidiano
-- **Conceitos relacionados**: [[01 conceitos/Continuidade de Acesso|Continuidade de Acesso]], [[01 conceitos/Tecnologia de Acesso|Tecnologia de Acesso]]
-- **Variáveis relacionadas**: [[02 variaveis/Expectativa de Disponibilidade|Expectativa de Disponibilidade]], [[02 variaveis/Variabilidade|Variabilidade]], [[02 variaveis/Friccao|Fricção]]
-- **Genealogias**: [[04 genealogias/Acesso e Disponibilidade|Acesso e disponibilidade]]
-- **Família de ideias**: Tecnologias portáteis de acesso
-- **Parentes**: Cantil militar, frasco de peregrino, garrafa PET, garrafa térmica, smartphone como hipótese comparativa de continuidade de acesso
-- **Hipótese central**: A história da garrafa é menos a invenção da água portátil do que a redução progressiva do custo de manter uma pequena reserva disponível junto ao corpo
-- **Princípio de design revelado**: Aproximar continuamente um recurso de quem precisa dele pode transformar uma necessidade episódica em expectativa permanente de disponibilidade
-- **Destino do artefato**: Coexiste em versões descartáveis, reutilizáveis, térmicas, utilitárias e simbólicas
-- **Perguntas em aberto**: Quando um artefato de autonomia passa a produzir uma nova dependência de disponibilidade constante?
+| Campo | Registro |
+|---|---|
+| **Artefato** | Garrafa de água |
+| **Período** | Antecedentes antigos; refinamentos industriais decisivos nos séculos XIX e XX |
+| **Autoria** | Evolução coletiva de recipientes portáteis; William Stanley Jr.; Nathaniel Wyeth; Ronald Roseveare |
+| **Produto ou contexto** | Odres, cabaças, frascos, cantis, garrafas térmicas, garrafas PET e garrafas reutilizáveis contemporâneas Categoria: Produto / recipiente portátil |
+| **Problema original** | Transportar uma reserva de líquido para reduzir dependência de uma fonte fixa durante deslocamentos e atividades |
+| **Mundo antes** | Não há um único “antes”; diferentes sociedades combinaram fontes fixas e recipientes portáteis de diversas formas |
+| **Invenção** | Sem inventor identificável para a garrafa como categoria |
+| **Refinamento** | Novos materiais e sistemas de vedação, isolamento térmico e produção industrial alteraram peso, conservação e custo |
+| **Popularização** | Industrialização de recipientes de vidro, metal e plástico e expansão do mercado de bebidas engarrafadas |
+| **Padronização** | Garrafas portáteis tornaram-se parte comum de deslocamentos, trabalho, esporte e consumo cotidiano |
+| **Hipótese de design** | A história da garrafa é menos a invenção da água portátil do que a redução progressiva do custo de manter uma pequena reserva disponível junto ao corpo Hipótese sobre o comportamento humano: Quando um recurso necessário pode acompanhar o corpo, pessoas reorganizam rotinas para depender menos do lugar onde esse recurso originalmente está |
+| **Comportamento aproveitado** | Necessidade recorrente de beber e prática antiga de transportar provisões |
+| **Comportamento produzido** | Rotinas de carregar permanentemente um recipiente pessoal e, em certos contextos, usá-lo como marcador de identidade |
+| **Relação de poder** | Aumenta autonomia individual de transporte, mas também pode transferir acesso a um recurso comum para cadeias comerciais de embalagem e venda |
+| **Consequências inesperadas** | Expansão de água engarrafada descartável e transformação de garrafas reutilizáveis em acessórios de moda e status Capacidade ampliada: Mobilidade, continuidade de acesso e, em garrafas térmicas, conservação de temperatura Capacidade reduzida ou deslocada: Menor dependência imediata de pontos coletivos de água, embora a infraestrutura de abastecimento continue indispensável Custo invisível: Resíduos e logística no modelo descartável; mercantilização e consumo simbólico em alguns mercados reutilizáveis |
+| **Destino ou transformação posterior** | Coexiste em versões descartáveis, reutilizáveis, térmicas, utilitárias e simbólicas Legado: Tornou a disponibilidade de líquidos uma propriedade portátil do cotidiano |
+| **Conceitos relacionados** | [[01 conceitos/Continuidade de Acesso|Continuidade de Acesso]], [[01 conceitos/Tecnologia de Acesso|Tecnologia de Acesso]] |
+| **Variáveis relacionadas** | [[02 variaveis/Expectativa de Disponibilidade|Expectativa de Disponibilidade]], [[02 variaveis/Variabilidade|Variabilidade]], [[02 variaveis/Friccao|Fricção]] |
+| **Genealogia** | [[04 genealogias/Acesso e Disponibilidade|Acesso e disponibilidade]] Família de ideias: Tecnologias portáteis de acesso |
+| **Parentes** | Cantil militar, frasco de peregrino, garrafa PET, garrafa térmica, smartphone como hipótese comparativa de continuidade de acesso |
+| **Princípio de design revelado** | Aproximar continuamente um recurso de quem precisa dele pode transformar uma necessidade episódica em expectativa permanente de disponibilidade Por que funcionou: Aproxima uma necessidade recorrente de seu recurso e permite transportar uma reserva previsível junto ao corpo |
+| **Questão em aberto** | Quando um artefato de autonomia passa a produzir uma nova dependência de disponibilidade constante? |

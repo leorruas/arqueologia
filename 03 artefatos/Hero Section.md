@@ -60,34 +60,27 @@ A pergunta contemporânea mais fértil talvez seja o que acontece quando a pági
 5. Steve Krug. *Don't Make Me Think*.
 
 ## Ficha arqueológica
-
-- **Nome do artefato**: Hero section
-- **Categoria**: Interface digital / arquitetura da informação / enquadramento
-- **Período aproximado**: Emergência gradual na web comercial; consolidação ampla nas décadas de 2000 e 2010
-- **Pessoas ou equipes envolvidas**: Sem inventor único; padrão coletivo de web design, marketing digital e arquitetura da informação
-- **Produto ou contexto onde apareceu**: Homepages, landing pages, portfólios, produtos SaaS e páginas institucionais
-- **Problema original**: Orientar rapidamente visitantes que chegam a uma página com pouco contexto
-- **Mundo antes da inovação**: Homepages mais próximas de documentos, diretórios e índices, com maior concorrência entre navegação e conteúdo inicial
-- **Invenção**: Emergência distribuída, sem primeira implementação suficientemente documentada para atribuição individual
-- **Refinamento**: Combinação recorrente de headline, texto de apoio, mídia visual e CTA em uma unidade de apresentação
-- **Popularização**: Expansão de landing pages, sites comerciais e templates de web design
-- **Padronização**: Tornou-se composição esperada em grande parte da web institucional e comercial
-- **Hipótese sobre o comportamento humano**: Visitantes precisam de uma interpretação inicial de baixo custo antes de investir atenção em um ambiente desconhecido
-- **Relação de poder**: Dá ao projetista forte poder de enquadrar qual promessa, problema e ação aparecem primeiro
-- **Comportamento aproveitado**: Escaneamento visual, atenção privilegiada à região inicial e busca rápida por sinais de relevância
-- **Comportamento criado**: Expectativa de que páginas expliquem rapidamente seu propósito e ofereçam um próximo passo reconhecível
-- **Capacidade ampliada**: Orientação e decisão inicial rápida
-- **Capacidade reduzida ou deslocada**: Pode diminuir a disposição para explorar páginas que não oferecem imediatamente uma moldura reconhecível
-- **Custo invisível**: Homogeneização visual e possibilidade de substituir informação concreta por promessas genéricas
-- **Por que funcionou**: Concentra os sinais de orientação de maior prioridade na região de menor custo de descoberta
-- **Consequências inesperadas**: Transformação de uma solução de orientação em fórmula estética repetitiva
-- **Legado**: Consolidou um ritual de entrada para páginas digitais
-- **Conceitos relacionados**: [[01 conceitos/Limiares|Limiares]], [[01 conceitos/Affordance|Affordance]], [[01 conceitos/Economia da Atencao|Economia da Atenção]], [[01 conceitos/Redução de Inferências|Redução de Inferências]]
-- **Variáveis relacionadas**: [[02 variaveis/Atrito Decisorio|Atrito Decisório]], [[02 variaveis/Custo de Busca|Custo de Busca]], [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]], [[02 variaveis/Atencao|Atenção]]
-- **Genealogias**: [[04 genealogias/Limiares e Delimitacao|Limiares e delimitação]], [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]]
-- **Família de ideias**: Artefatos de limiar e enquadramento
-- **Parentes**: [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Tela de Login|Tela de Login]], fachada, vitrine, capa de livro, abertura de série, onboarding, hall de entrada
-- **Hipótese central**: A hero section funciona como abertura: produz uma primeira moldura interpretativa antes que o visitante conheça o restante do sistema
-- **Princípio de design revelado**: Reduzir a incerteza no limiar prepara interações de maior complexidade depois dele
-- **Destino do artefato**: Padronizado, ainda dominante, mas tensionado por interfaces conversacionais e outras formas de entrada
-- **Perguntas em aberto**: Interfaces conversacionais conseguem orientar descoberta sem algum equivalente visual ao catálogo de possibilidades que a hero oferece?
+| Campo | Registro |
+|---|---|
+| **Artefato** | Hero section |
+| **Período** | Emergência gradual na web comercial; consolidação ampla nas décadas de 2000 e 2010 |
+| **Autoria** | Sem inventor único; padrão coletivo de web design, marketing digital e arquitetura da informação |
+| **Produto ou contexto** | Homepages, landing pages, portfólios, produtos SaaS e páginas institucionais Categoria: Interface digital / arquitetura da informação / enquadramento |
+| **Problema original** | Orientar rapidamente visitantes que chegam a uma página com pouco contexto |
+| **Mundo antes** | Homepages mais próximas de documentos, diretórios e índices, com maior concorrência entre navegação e conteúdo inicial |
+| **Invenção** | Emergência distribuída, sem primeira implementação suficientemente documentada para atribuição individual |
+| **Refinamento** | Combinação recorrente de headline, texto de apoio, mídia visual e CTA em uma unidade de apresentação |
+| **Popularização** | Expansão de landing pages, sites comerciais e templates de web design |
+| **Padronização** | Tornou-se composição esperada em grande parte da web institucional e comercial |
+| **Hipótese de design** | A hero section funciona como abertura: produz uma primeira moldura interpretativa antes que o visitante conheça o restante do sistema Hipótese sobre o comportamento humano: Visitantes precisam de uma interpretação inicial de baixo custo antes de investir atenção em um ambiente desconhecido |
+| **Comportamento aproveitado** | Escaneamento visual, atenção privilegiada à região inicial e busca rápida por sinais de relevância |
+| **Comportamento produzido** | Expectativa de que páginas expliquem rapidamente seu propósito e ofereçam um próximo passo reconhecível |
+| **Relação de poder** | Dá ao projetista forte poder de enquadrar qual promessa, problema e ação aparecem primeiro |
+| **Consequências inesperadas** | Transformação de uma solução de orientação em fórmula estética repetitiva Capacidade ampliada: Orientação e decisão inicial rápida Capacidade reduzida ou deslocada: Pode diminuir a disposição para explorar páginas que não oferecem imediatamente uma moldura reconhecível Custo invisível: Homogeneização visual e possibilidade de substituir informação concreta por promessas genéricas |
+| **Destino ou transformação posterior** | Padronizado, ainda dominante, mas tensionado por interfaces conversacionais e outras formas de entrada Legado: Consolidou um ritual de entrada para páginas digitais |
+| **Conceitos relacionados** | [[01 conceitos/Limiares|Limiares]], [[01 conceitos/Affordance|Affordance]], [[01 conceitos/Economia da Atencao|Economia da Atenção]], [[01 conceitos/Redução de Inferências|Redução de Inferências]] |
+| **Variáveis relacionadas** | [[02 variaveis/Atrito Decisorio|Atrito Decisório]], [[02 variaveis/Custo de Busca|Custo de Busca]], [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]], [[02 variaveis/Atencao|Atenção]] |
+| **Genealogia** | [[04 genealogias/Limiares e Delimitacao|Limiares e delimitação]], [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] Família de ideias: Artefatos de limiar e enquadramento |
+| **Parentes** | [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Tela de Login|Tela de Login]], fachada, vitrine, capa de livro, abertura de série, onboarding, hall de entrada |
+| **Princípio de design revelado** | Reduzir a incerteza no limiar prepara interações de maior complexidade depois dele Por que funcionou: Concentra os sinais de orientação de maior prioridade na região de menor custo de descoberta |
+| **Questão em aberto** | Interfaces conversacionais conseguem orientar descoberta sem algum equivalente visual ao catálogo de possibilidades que a hero oferece? |

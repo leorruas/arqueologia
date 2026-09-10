@@ -85,34 +85,27 @@ Isso sugere uma hipótese importante para o projeto: **algumas restrições mate
 4. Registros históricos de adoção de whiteboards em escolas e escritórios nas décadas de 1980 e 1990.
 
 ## Ficha arqueológica
-
-- **Nome do artefato**: Quadro branco
-- **Categoria**: Produto / superfície de escrita / cognição distribuída
-- **Período aproximado**: Whiteboards comerciais a partir dos anos 1960; difusão muito maior nas décadas de 1980 e 1990
-- **Pessoas ou equipes envolvidas**: Martin Heit e Albert Stallion são nomes frequentemente associados à comercialização inicial, mas a autoria é disputada e existem alegações de precedentes anteriores
-- **Produto ou contexto onde apareceu**: Escolas, escritórios, salas de reunião, laboratórios e posteriormente softwares colaborativos
-- **Problema original**: Criar uma superfície vertical reutilizável para escrita e desenho com limpeza mais simples e materiais diferentes do giz
-- **Mundo antes da inovação**: Lousas de giz, ardósia, papel, flipcharts e outras superfícies já permitiam escrita pública e, em alguns casos, apagável
-- **Invenção**: Autoria não estabelecida com segurança; desenvolvimento distribuído de superfícies brancas apagáveis
-- **Refinamento**: Superfícies esmaltadas e laminadas, marcadores dry-erase e materiais com menor ghosting
-- **Popularização**: Escritórios e escolas nas décadas de 1980 e 1990
-- **Padronização**: Tornou-se equipamento comum de salas de aula, reunião e projeto e metáfora recorrente em software colaborativo
-- **Hipótese sobre o comportamento humano**: Pessoas exploram mais livremente quando o suporte comunica que marcas podem ser corrigidas sem grande custo
-- **Relação de poder**: Uma superfície compartilhada pode distribuir visibilidade e autoria, mas quem controla a caneta, o espaço e o apagamento também controla parte da representação coletiva
-- **Comportamento aproveitado**: Esboço, gesticulação, apontamento e pensamento visual externo
-- **Comportamento criado**: Diagramar coletivamente ideias provisórias numa superfície comum
-- **Capacidade ampliada**: Reversibilidade, memória externa, visibilidade coletiva e edição rápida
-- **Capacidade reduzida ou deslocada**: Menor compromisso com a permanência do registro físico; em whiteboards digitais, essa característica pode inverter-se
-- **Custo invisível**: Informação apagada sem registro no físico; acúmulo e dificuldade de síntese em superfícies digitais praticamente infinitas
-- **Por que funcionou**: Combina grande visibilidade coletiva com baixo custo material de corrigir e redesenhar
-- **Consequências inesperadas**: A metáfora da superfície provisória foi transformada por softwares em espaço potencialmente permanente e ilimitado
-- **Legado**: Whiteboards digitais, Miro, FigJam, Mural e ambientes visuais colaborativos
-- **Conceitos relacionados**: [[01 conceitos/Memoria Distribuida|Memória Distribuída]], [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção Boa vs Fricção Ruim]]
-- **Variáveis relacionadas**: [[02 variaveis/Reversibilidade|Reversibilidade]], [[02 variaveis/Custo do Erro|Custo do Erro]], [[02 variaveis/Permanencia|Permanência]]
-- **Genealogias**: [[04 genealogias/Reversibilidade e Custo do Erro|Reversibilidade e custo do erro]], [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]]
-- **Família de ideias**: Superfícies de pensamento provisório
-- **Parentes**: Quadro de giz, flipchart, [[03 artefatos/Post-it|Post-it]], [[03 artefatos/Undo|Undo]] e whiteboards digitais
-- **Hipótese central**: O quadro branco transforma o espaço coletivo em memória provisória, permitindo que um grupo veja e altere o próprio raciocínio
-- **Princípio de design revelado**: Tornar uma representação fácil de apagar pode torná-la mais fácil de criar
-- **Destino do artefato**: Continua físico e foi abstraído em softwares que ampliaram escala, permanência e colaboração remota
-- **Perguntas em aberto**: O que se perde quando uma superfície criada para ser apagada se transforma num arquivo digital que nunca precisa acabar?
+| Campo | Registro |
+|---|---|
+| **Artefato** | Quadro branco |
+| **Período** | Whiteboards comerciais a partir dos anos 1960; difusão muito maior nas décadas de 1980 e 1990 |
+| **Autoria** | Martin Heit e Albert Stallion são nomes frequentemente associados à comercialização inicial, mas a autoria é disputada e existem alegações de precedentes anteriores |
+| **Produto ou contexto** | Escolas, escritórios, salas de reunião, laboratórios e posteriormente softwares colaborativos Categoria: Produto / superfície de escrita / cognição distribuída |
+| **Problema original** | Criar uma superfície vertical reutilizável para escrita e desenho com limpeza mais simples e materiais diferentes do giz |
+| **Mundo antes** | Lousas de giz, ardósia, papel, flipcharts e outras superfícies já permitiam escrita pública e, em alguns casos, apagável |
+| **Invenção** | Autoria não estabelecida com segurança; desenvolvimento distribuído de superfícies brancas apagáveis |
+| **Refinamento** | Superfícies esmaltadas e laminadas, marcadores dry-erase e materiais com menor ghosting |
+| **Popularização** | Escritórios e escolas nas décadas de 1980 e 1990 |
+| **Padronização** | Tornou-se equipamento comum de salas de aula, reunião e projeto e metáfora recorrente em software colaborativo |
+| **Hipótese de design** | O quadro branco transforma o espaço coletivo em memória provisória, permitindo que um grupo veja e altere o próprio raciocínio Hipótese sobre o comportamento humano: Pessoas exploram mais livremente quando o suporte comunica que marcas podem ser corrigidas sem grande custo |
+| **Comportamento aproveitado** | Esboço, gesticulação, apontamento e pensamento visual externo |
+| **Comportamento produzido** | Diagramar coletivamente ideias provisórias numa superfície comum |
+| **Relação de poder** | Uma superfície compartilhada pode distribuir visibilidade e autoria, mas quem controla a caneta, o espaço e o apagamento também controla parte da representação coletiva |
+| **Consequências inesperadas** | A metáfora da superfície provisória foi transformada por softwares em espaço potencialmente permanente e ilimitado Capacidade ampliada: Reversibilidade, memória externa, visibilidade coletiva e edição rápida Capacidade reduzida ou deslocada: Menor compromisso com a permanência do registro físico; em whiteboards digitais, essa característica pode inverter-se Custo invisível: Informação apagada sem registro no físico; acúmulo e dificuldade de síntese em superfícies digitais praticamente infinitas |
+| **Destino ou transformação posterior** | Continua físico e foi abstraído em softwares que ampliaram escala, permanência e colaboração remota Legado: Whiteboards digitais, Miro, FigJam, Mural e ambientes visuais colaborativos |
+| **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória Distribuída]], [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção Boa vs Fricção Ruim]] |
+| **Variáveis relacionadas** | [[02 variaveis/Reversibilidade|Reversibilidade]], [[02 variaveis/Custo do Erro|Custo do Erro]], [[02 variaveis/Permanencia|Permanência]] |
+| **Genealogia** | [[04 genealogias/Reversibilidade e Custo do Erro|Reversibilidade e custo do erro]], [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] Família de ideias: Superfícies de pensamento provisório |
+| **Parentes** | Quadro de giz, flipchart, [[03 artefatos/Post-it|Post-it]], [[03 artefatos/Undo|Undo]] e whiteboards digitais |
+| **Princípio de design revelado** | Tornar uma representação fácil de apagar pode torná-la mais fácil de criar Por que funcionou: Combina grande visibilidade coletiva com baixo custo material de corrigir e redesenhar |
+| **Questão em aberto** | O que se perde quando uma superfície criada para ser apagada se transforma num arquivo digital que nunca precisa acabar? |

@@ -79,34 +79,27 @@ Essa talvez seja sua principal contribuição histórica: transformar restriçã
 4. Estudos e acervos de design gráfico suíço sobre Emil Ruder, Karl Gerstner, Josef Müller-Brockmann e a revista *Neue Grafik*.
 
 ## Ficha arqueológica
-
-- **Nome do artefato**: Grid
-- **Categoria**: Design gráfico / sistema espacial
-- **Período aproximado**: Precedentes muito antigos; sistematização modernista especialmente nas décadas de 1950 e 1960
-- **Pessoas ou equipes envolvidas**: Sem inventor único; [[autores/Josef Muller Brockmann|Josef Müller-Brockmann]], Emil Ruder, Karl Gerstner e outros designers foram importantes na sistematização moderna
-- **Produto ou contexto onde apareceu**: Livros, revistas, cartazes, identidades visuais, sinalização e interfaces digitais
-- **Problema original**: Organizar relações espaciais de modo consistente e reutilizável em superfícies com múltiplos elementos
-- **Mundo antes da inovação**: Páginas e outras superfícies já possuíam estruturas e proporções; faltava, em muitos contextos modernos, um método explicitado e facilmente compartilhável para séries complexas
-- **Invenção**: Não há primeira invenção identificável da organização em grade
-- **Refinamento**: Modernismo e Estilo Tipográfico Internacional transformaram o grid em método sistemático de projeto
-- **Popularização**: Ensino de design, comunicação corporativa, editorial e obras de autores suíços difundiram o método internacionalmente
-- **Padronização**: Grids tornaram-se parte comum da formação em design e foram formalizados em sistemas editoriais e digitais
-- **Hipótese sobre o comportamento humano**: Repetição, proximidade e alinhamento tornam relações mais previsíveis e reduzem esforço de orientação
-- **Relação de poder**: Transfere decisões de cada compositor individual para regras compartilhadas que podem coordenar equipes e séries extensas
-- **Comportamento aproveitado**: Reconhecimento de regularidades espaciais e alinhamentos
-- **Comportamento criado**: Projetar e ler sistemas esperando eixos, ritmos e módulos consistentes
-- **Capacidade ampliada**: Consistência, velocidade de composição, coordenação entre profissionais e variação dentro de regras
-- **Capacidade reduzida ou deslocada**: Algumas decisões locais passam a ser condicionadas pelo sistema definido anteriormente
-- **Custo invisível**: Rigidez e homogeneização quando o método é tratado como estilo universal em vez de ferramenta
-- **Por que funcionou**: Converte repetidas decisões espaciais em relações reutilizáveis e comunicáveis
-- **Consequências inesperadas**: A estrutura criada para gerar variedade pode ser reproduzida como fórmula estética
-- **Legado**: Sistemas editoriais, identidades, design systems e layouts digitais baseados em regras espaciais
-- **Conceitos relacionados**: [[01 conceitos/Design Systems|Design Systems]], [[01 conceitos/Redução de Inferências|Redução de Inferências]], [[01 conceitos/Compressao do Esforco|Compressão do Esforço]]
-- **Variáveis relacionadas**: [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]], [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Custo Transacional|Custo Transacional]]
-- **Genealogias**: [[04 genealogias/Compressao do Esforco|Compressão do esforço]], [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]]
-- **Família de ideias**: Tecnologias de diagramação e regras espaciais
-- **Parentes**: [[03 artefatos/Fila|Fila]], [[03 artefatos/Pôster|Pôster]], malhas de pintura, planos urbanos ortogonais, sistemas de layout digital
-- **Hipótese central**: O grid muda o design porque transforma decisões espaciais recorrentes em uma infraestrutura compartilhada para decisões futuras
-- **Princípio de design revelado**: Restrições bem escolhidas podem reduzir o custo de coordenação sem determinar uma única solução
-- **Destino do artefato**: Tornou-se tão incorporado à prática editorial e digital que frequentemente permanece invisível sob o conteúdo
-- **Perguntas em aberto**: Quando uma regra estrutural deixa de ampliar possibilidades e passa a reproduzir automaticamente uma estética?
+| Campo | Registro |
+|---|---|
+| **Artefato** | Grid |
+| **Período** | Precedentes muito antigos; sistematização modernista especialmente nas décadas de 1950 e 1960 |
+| **Autoria** | Sem inventor único; [[autores/Josef Muller Brockmann|Josef Müller-Brockmann]], Emil Ruder, Karl Gerstner e outros designers foram importantes na sistematização moderna |
+| **Produto ou contexto** | Livros, revistas, cartazes, identidades visuais, sinalização e interfaces digitais Categoria: Design gráfico / sistema espacial |
+| **Problema original** | Organizar relações espaciais de modo consistente e reutilizável em superfícies com múltiplos elementos |
+| **Mundo antes** | Páginas e outras superfícies já possuíam estruturas e proporções; faltava, em muitos contextos modernos, um método explicitado e facilmente compartilhável para séries complexas |
+| **Invenção** | Não há primeira invenção identificável da organização em grade |
+| **Refinamento** | Modernismo e Estilo Tipográfico Internacional transformaram o grid em método sistemático de projeto |
+| **Popularização** | Ensino de design, comunicação corporativa, editorial e obras de autores suíços difundiram o método internacionalmente |
+| **Padronização** | Grids tornaram-se parte comum da formação em design e foram formalizados em sistemas editoriais e digitais |
+| **Hipótese de design** | O grid muda o design porque transforma decisões espaciais recorrentes em uma infraestrutura compartilhada para decisões futuras Hipótese sobre o comportamento humano: Repetição, proximidade e alinhamento tornam relações mais previsíveis e reduzem esforço de orientação |
+| **Comportamento aproveitado** | Reconhecimento de regularidades espaciais e alinhamentos |
+| **Comportamento produzido** | Projetar e ler sistemas esperando eixos, ritmos e módulos consistentes |
+| **Relação de poder** | Transfere decisões de cada compositor individual para regras compartilhadas que podem coordenar equipes e séries extensas |
+| **Consequências inesperadas** | A estrutura criada para gerar variedade pode ser reproduzida como fórmula estética Capacidade ampliada: Consistência, velocidade de composição, coordenação entre profissionais e variação dentro de regras Capacidade reduzida ou deslocada: Algumas decisões locais passam a ser condicionadas pelo sistema definido anteriormente Custo invisível: Rigidez e homogeneização quando o método é tratado como estilo universal em vez de ferramenta |
+| **Destino ou transformação posterior** | Tornou-se tão incorporado à prática editorial e digital que frequentemente permanece invisível sob o conteúdo Legado: Sistemas editoriais, identidades, design systems e layouts digitais baseados em regras espaciais |
+| **Conceitos relacionados** | [[01 conceitos/Design Systems|Design Systems]], [[01 conceitos/Redução de Inferências|Redução de Inferências]], [[01 conceitos/Compressao do Esforco|Compressão do Esforço]] |
+| **Variáveis relacionadas** | [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]], [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Custo Transacional|Custo Transacional]] |
+| **Genealogia** | [[04 genealogias/Compressao do Esforco|Compressão do esforço]], [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]] Família de ideias: Tecnologias de diagramação e regras espaciais |
+| **Parentes** | [[03 artefatos/Fila|Fila]], [[03 artefatos/Pôster|Pôster]], malhas de pintura, planos urbanos ortogonais, sistemas de layout digital |
+| **Princípio de design revelado** | Restrições bem escolhidas podem reduzir o custo de coordenação sem determinar uma única solução Por que funcionou: Converte repetidas decisões espaciais em relações reutilizáveis e comunicáveis |
+| **Questão em aberto** | Quando uma regra estrutural deixa de ampliar possibilidades e passa a reproduzir automaticamente uma estética? |

@@ -100,36 +100,27 @@ Essa é uma lição de design de serviços importante. Um artefato de coordenaç
 5. David J. Anderson. *Kanban: Successful Evolutionary Change for Your Technology Business*. Referência para a adaptação a trabalho do conhecimento.
 
 ## Ficha arqueológica
-
-- **Nome do artefato**: Kanban
-- **Categoria**: Coordenação / sinalização / gestão visual
-- **Período aproximado**: Desenvolvimento no Sistema Toyota de Produção durante os anos 1950; expansão industrial nos anos 1960; adaptações posteriores para trabalho do conhecimento
-- **Pessoas ou equipes envolvidas**: Taiichi Ohno e equipes da Toyota; posteriormente David J. Anderson e comunidades de software e gestão
-- **Produto ou contexto onde apareceu**: Sistema Toyota de Produção; posteriormente quadros físicos e digitais de gestão de trabalho
-- **Problema original**: Coordenar produção e reposição sem produzir ou transportar continuamente itens que o processo seguinte ainda não precisava
-- **Mundo antes da inovação**: Produção podia empurrar peças adiante e acumular estoque independentemente do consumo real do processo seguinte
-- **Invenção**: Desenvolvimento distribuído dentro do TPS; Ohno é figura central, mas a narrativa exata sobre inspiração e primeira formulação possui versões corporativas divergentes
-- **Refinamento**: Uso de cartões de informação para sinalizar item, quantidade e necessidade dentro do sistema puxado
-- **Popularização**: Expansão do TPS para plantas e fornecedores e posterior difusão internacional da produção enxuta
-- **Padronização**: Na Toyota, adoção em todas as plantas em 1963 e fornecedores a partir de 1965; posteriormente adaptação ampla do termo Kanban em gestão e software
-- **Hipótese sobre o comportamento humano**: Pessoas conseguem coordenar ações locais com menor dependência de ordens centrais quando o estado e as necessidades do sistema estão visíveis
-- **Relação de poder**: Pode distribuir capacidade de decisão para equipes ou ampliar vigilância quando a visibilidade do fluxo é convertida em monitoramento individual
-- **Comportamento aproveitado**: Leitura de sinais visuais, reconhecimento de estados e resposta local a mudanças de disponibilidade
-- **Comportamento criado**: Atualizar e mover representações do trabalho como parte do próprio processo de coordenação
-- **Capacidade ampliada**: Visibilidade de fluxo, identificação de gargalos, reposição puxada pela necessidade e autorregulação coletiva
-- **Capacidade reduzida ou deslocada**: Menor liberdade para iniciar trabalho além dos limites do sistema; menor dependência de supervisão verbal contínua
-- **Custo invisível**: Manutenção de quadros desatualizados, simplificação de tarefas complexas e possibilidade de microvigilância
-- **O que simplifica**: Estado, prioridade, fluxo e capacidade tornam-se parcialmente visíveis numa representação comum
-- **O que esconde**: Complexidade interna, qualidade e esforço de tarefas podem permanecer invisíveis atrás de cartões aparentemente equivalentes
-- **Por que funcionou**: Converte necessidade e estado em sinais que podem circular junto ao processo, reduzindo coordenação abstrata e excesso de trabalho iniciado
-- **Consequências inesperadas**: Um mecanismo industrial de produção puxada tornou-se uma das interfaces mais reconhecíveis da gestão de trabalho digital
-- **Legado**: Sistemas puxados, quadros Kanban de software, Trello, Jira e outras visualizações de fluxo
-- **Conceitos relacionados**: [[01 conceitos/Sincronizacao|Sincronização]], [[01 conceitos/Memoria Distribuida|Memória Distribuída]], [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção Boa vs Fricção Ruim]], [[01 conceitos/Autodeterminação|Autodeterminação]]
-- **Variáveis relacionadas**: [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]], [[02 variaveis/Custo Transacional|Custo Transacional]], [[02 variaveis/Friccao|Fricção]]
-- **Genealogias**: [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]], [[04 genealogias/Compressao do Esforco|Compressão do esforço]]
-- **Família de ideias**: Artefatos de coordenação e visualização do fluxo
-- **Parentes**: [[03 artefatos/Quadro Branco|Quadro branco]], backlog, Scrum board, painel de produção
-- **Hipótese central**: Kanban torna o sistema parcialmente capaz de coordenar a si mesmo ao transformar necessidade e estado em sinais visíveis que circulam com o trabalho
-- **Princípio de design revelado**: Tornar limites e estados visíveis permite distribuir decisões sem eliminar regras
-- **Destino do artefato**: Continua como mecanismo do TPS e foi reinterpretado globalmente como método e interface de gestão de trabalho
-- **Perguntas em aberto**: Em que momento tornar o trabalho visível para a equipe se transforma em tornar o trabalhador visível para controle externo?
+| Campo | Registro |
+|---|---|
+| **Artefato** | Kanban |
+| **Período** | Desenvolvimento no Sistema Toyota de Produção durante os anos 1950; expansão industrial nos anos 1960; adaptações posteriores para trabalho do conhecimento |
+| **Autoria** | Taiichi Ohno e equipes da Toyota; posteriormente David J. Anderson e comunidades de software e gestão |
+| **Produto ou contexto** | Sistema Toyota de Produção; posteriormente quadros físicos e digitais de gestão de trabalho Categoria: Coordenação / sinalização / gestão visual |
+| **Problema original** | Coordenar produção e reposição sem produzir ou transportar continuamente itens que o processo seguinte ainda não precisava |
+| **Mundo antes** | Produção podia empurrar peças adiante e acumular estoque independentemente do consumo real do processo seguinte |
+| **Invenção** | Desenvolvimento distribuído dentro do TPS; Ohno é figura central, mas a narrativa exata sobre inspiração e primeira formulação possui versões corporativas divergentes |
+| **Refinamento** | Uso de cartões de informação para sinalizar item, quantidade e necessidade dentro do sistema puxado |
+| **Popularização** | Expansão do TPS para plantas e fornecedores e posterior difusão internacional da produção enxuta |
+| **Padronização** | Na Toyota, adoção em todas as plantas em 1963 e fornecedores a partir de 1965; posteriormente adaptação ampla do termo Kanban em gestão e software |
+| **Hipótese de design** | Kanban torna o sistema parcialmente capaz de coordenar a si mesmo ao transformar necessidade e estado em sinais visíveis que circulam com o trabalho Hipótese sobre o comportamento humano: Pessoas conseguem coordenar ações locais com menor dependência de ordens centrais quando o estado e as necessidades do sistema estão visíveis |
+| **Comportamento aproveitado** | Leitura de sinais visuais, reconhecimento de estados e resposta local a mudanças de disponibilidade |
+| **Comportamento produzido** | Atualizar e mover representações do trabalho como parte do próprio processo de coordenação |
+| **Relação de poder** | Pode distribuir capacidade de decisão para equipes ou ampliar vigilância quando a visibilidade do fluxo é convertida em monitoramento individual |
+| **Consequências inesperadas** | Um mecanismo industrial de produção puxada tornou-se uma das interfaces mais reconhecíveis da gestão de trabalho digital Capacidade ampliada: Visibilidade de fluxo, identificação de gargalos, reposição puxada pela necessidade e autorregulação coletiva Capacidade reduzida ou deslocada: Menor liberdade para iniciar trabalho além dos limites do sistema; menor dependência de supervisão verbal contínua Custo invisível: Manutenção de quadros desatualizados, simplificação de tarefas complexas e possibilidade de microvigilância Registros adicionais preservados da ficha anterior: o que simplifica: Estado, prioridade, fluxo e capacidade tornam-se parcialmente visíveis numa representação comum; o que esconde: Complexidade interna, qualidade e esforço de tarefas podem permanecer invisíveis atrás de cartões aparentemente equivalentes |
+| **Destino ou transformação posterior** | Continua como mecanismo do TPS e foi reinterpretado globalmente como método e interface de gestão de trabalho Legado: Sistemas puxados, quadros Kanban de software, Trello, Jira e outras visualizações de fluxo |
+| **Conceitos relacionados** | [[01 conceitos/Sincronizacao|Sincronização]], [[01 conceitos/Memoria Distribuida|Memória Distribuída]], [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção Boa vs Fricção Ruim]], [[01 conceitos/Autodeterminação|Autodeterminação]] |
+| **Variáveis relacionadas** | [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]], [[02 variaveis/Custo Transacional|Custo Transacional]], [[02 variaveis/Friccao|Fricção]] |
+| **Genealogia** | [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]], [[04 genealogias/Compressao do Esforco|Compressão do esforço]] Família de ideias: Artefatos de coordenação e visualização do fluxo |
+| **Parentes** | [[03 artefatos/Quadro Branco|Quadro branco]], backlog, Scrum board, painel de produção |
+| **Princípio de design revelado** | Tornar limites e estados visíveis permite distribuir decisões sem eliminar regras Por que funcionou: Converte necessidade e estado em sinais que podem circular junto ao processo, reduzindo coordenação abstrata e excesso de trabalho iniciado |
+| **Questão em aberto** | Em que momento tornar o trabalho visível para a equipe se transforma em tornar o trabalhador visível para controle externo? |

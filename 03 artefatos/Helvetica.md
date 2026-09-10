@@ -88,34 +88,27 @@ Talvez esse seja o paradoxo mais forte da Helvetica: sua permanência depende de
 6. Lars Müller. *Helvetica: Homage to a Typeface*.
 
 ## Ficha arqueológica
-
-- **Nome do artefato**: Helvetica
-- **Categoria**: Tipografia / sistema visual
-- **Período aproximado**: 1957 aos dias atuais
-- **Pessoas ou equipes envolvidas**: [[autores/Max Miedinger|Max Miedinger]], Eduard Hoffmann, equipes da [[empresas/Haas Type Foundry|Haas Type Foundry]], Stempel e [[empresas/Linotype|Linotype]]; equipes posteriores da Monotype
-- **Produto ou contexto onde apareceu**: Neue Haas Grotesk, depois Helvetica; identidades, sinalização, publicidade, embalagens, impressos e sistemas digitais
-- **Problema original**: Criar para a Haas uma nova grotesca contemporânea capaz de competir no mercado de sans serifs e atender ao ambiente gráfico suíço do período
-- **Mundo antes da inovação**: Grotescas do século XIX e início do XX, especialmente Akzidenz-Grotesk e outras famílias já amplamente utilizadas
-- **Invenção**: Neue Haas Grotesk, desenvolvida por Miedinger e Hoffmann e apresentada em 1957
-- **Refinamento**: Adaptações e expansão por Stempel/Linotype; Neue Helvetica em 1983; Helvetica Now em 2019
-- **Popularização**: Distribuição internacional, adoção por designers modernistas, corporações e sistemas de sinalização
-- **Padronização**: Tornou-se uma das sans serifs mais reconhecidas e recorrentes do design moderno e contemporâneo
-- **Hipótese sobre o comportamento humano**: Formas muito familiares podem reduzir sua própria saliência e ser percebidas como neutras mesmo continuando a carregar associações culturais
-- **Relação de poder**: Facilita a unificação de linguagens institucionais em grande escala e pode deslocar escolhas locais em favor de um padrão central
-- **Comportamento aproveitado**: Reconhecimento de formas tipográficas consistentes e leitura dentro de sistemas visuais repetidos
-- **Comportamento criado**: Expectativa de uma linguagem sans serif regular e sistemática em comunicação corporativa e institucional
-- **Capacidade ampliada**: Consistência tipográfica entre muitos suportes, pesos e aplicações
-- **Capacidade reduzida ou deslocada**: A repetição de uma mesma família pode reduzir variedade formal em sistemas que a adotam como padrão
-- **Custo invisível**: Homogeneização quando a fonte é escolhida automaticamente como sinônimo de neutralidade ou modernidade
-- **Por que funcionou**: Qualidade do desenho combinada a um ambiente modernista favorável, expansão de família, adaptação técnica e forte infraestrutura de distribuição
-- **Consequências inesperadas**: A fonte associada à ausência de estilo tornou-se um dos estilos mais reconhecíveis do século XX
-- **Legado**: Consolidou a sans serif neo-grotesca como linguagem recorrente de identidades, sinalização e sistemas de informação
-- **Conceitos relacionados**: [[01 conceitos/Design Systems|Design Systems]], [[01 conceitos/Redução de Inferências|Redução de Inferências]]
-- **Variáveis relacionadas**: [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]], [[02 variaveis/Atencao|Atenção]]
-- **Genealogias**: [[04 genealogias/Compressao do Esforco|Compressão do esforço]]
-- **Família de ideias**: Artefatos de padronização e neutralização visual
-- **Parentes**: Akzidenz-Grotesk, [[03 artefatos/Grid|Grid]], Arial como parente funcional e métrico, outras grotescas e neo-grotescas
-- **Hipótese central**: Parte da aparente neutralidade da Helvetica pode ter sido construída pela repetição: quanto mais a fonte se tornou infraestrutura, menos sua presença foi percebida como escolha
-- **Princípio de design revelado**: Uma convenção visual pode ganhar poder justamente quando deixa de ser percebida como decisão
-- **Destino do artefato**: Altamente difundido, continuamente redesenhado e adaptado a novas tecnologias
-- **Perguntas em aberto**: Quando uma forma se torna tão familiar que deixa de ser percebida como estilo, quem ganha poder para definir o que parece “neutro”?
+| Campo | Registro |
+|---|---|
+| **Artefato** | Helvetica |
+| **Período** | 1957 aos dias atuais |
+| **Autoria** | [[autores/Max Miedinger|Max Miedinger]], Eduard Hoffmann, equipes da [[empresas/Haas Type Foundry|Haas Type Foundry]], Stempel e [[empresas/Linotype|Linotype]]; equipes posteriores da Monotype |
+| **Produto ou contexto** | Neue Haas Grotesk, depois Helvetica; identidades, sinalização, publicidade, embalagens, impressos e sistemas digitais Categoria: Tipografia / sistema visual |
+| **Problema original** | Criar para a Haas uma nova grotesca contemporânea capaz de competir no mercado de sans serifs e atender ao ambiente gráfico suíço do período |
+| **Mundo antes** | Grotescas do século XIX e início do XX, especialmente Akzidenz-Grotesk e outras famílias já amplamente utilizadas |
+| **Invenção** | Neue Haas Grotesk, desenvolvida por Miedinger e Hoffmann e apresentada em 1957 |
+| **Refinamento** | Adaptações e expansão por Stempel/Linotype; Neue Helvetica em 1983; Helvetica Now em 2019 |
+| **Popularização** | Distribuição internacional, adoção por designers modernistas, corporações e sistemas de sinalização |
+| **Padronização** | Tornou-se uma das sans serifs mais reconhecidas e recorrentes do design moderno e contemporâneo |
+| **Hipótese de design** | Parte da aparente neutralidade da Helvetica pode ter sido construída pela repetição: quanto mais a fonte se tornou infraestrutura, menos sua presença foi percebida como escolha Hipótese sobre o comportamento humano: Formas muito familiares podem reduzir sua própria saliência e ser percebidas como neutras mesmo continuando a carregar associações culturais |
+| **Comportamento aproveitado** | Reconhecimento de formas tipográficas consistentes e leitura dentro de sistemas visuais repetidos |
+| **Comportamento produzido** | Expectativa de uma linguagem sans serif regular e sistemática em comunicação corporativa e institucional |
+| **Relação de poder** | Facilita a unificação de linguagens institucionais em grande escala e pode deslocar escolhas locais em favor de um padrão central |
+| **Consequências inesperadas** | A fonte associada à ausência de estilo tornou-se um dos estilos mais reconhecíveis do século XX Capacidade ampliada: Consistência tipográfica entre muitos suportes, pesos e aplicações Capacidade reduzida ou deslocada: A repetição de uma mesma família pode reduzir variedade formal em sistemas que a adotam como padrão Custo invisível: Homogeneização quando a fonte é escolhida automaticamente como sinônimo de neutralidade ou modernidade |
+| **Destino ou transformação posterior** | Altamente difundido, continuamente redesenhado e adaptado a novas tecnologias Legado: Consolidou a sans serif neo-grotesca como linguagem recorrente de identidades, sinalização e sistemas de informação |
+| **Conceitos relacionados** | [[01 conceitos/Design Systems|Design Systems]], [[01 conceitos/Redução de Inferências|Redução de Inferências]] |
+| **Variáveis relacionadas** | [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]], [[02 variaveis/Atencao|Atenção]] |
+| **Genealogia** | [[04 genealogias/Compressao do Esforco|Compressão do esforço]] Família de ideias: Artefatos de padronização e neutralização visual |
+| **Parentes** | Akzidenz-Grotesk, [[03 artefatos/Grid|Grid]], Arial como parente funcional e métrico, outras grotescas e neo-grotescas |
+| **Princípio de design revelado** | Uma convenção visual pode ganhar poder justamente quando deixa de ser percebida como decisão Por que funcionou: Qualidade do desenho combinada a um ambiente modernista favorável, expansão de família, adaptação técnica e forte infraestrutura de distribuição |
+| **Questão em aberto** | Quando uma forma se torna tão familiar que deixa de ser percebida como estilo, quem ganha poder para definir o que parece “neutro”? |
