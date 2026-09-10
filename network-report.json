@@ -1,0 +1,1699 @@
+{
+  "generatedAt": "2026-09-10T23:18:31.871Z",
+  "scope": "Integração do grafo: índices, home, reciprocidade explícita, tipos de design e nós órfãos.",
+  "issueCount": 281,
+  "countsByKind": {
+    "missing-from-index": 12,
+    "missing-from-home": 1,
+    "missing-reciprocal-link": 259,
+    "orphan-node": 9
+  },
+  "issues": [
+    {
+      "kind": "missing-from-index",
+      "sourcePath": "03 artefatos/Camera Fotografica.md",
+      "targetPath": "00 índices/Indice de Artefatos.md",
+      "detail": "Arquivo não aparece em 00 índices/Indice de Artefatos.md."
+    },
+    {
+      "kind": "missing-from-index",
+      "sourcePath": "03 artefatos/Cigarro.md",
+      "targetPath": "00 índices/Indice de Artefatos.md",
+      "detail": "Arquivo não aparece em 00 índices/Indice de Artefatos.md."
+    },
+    {
+      "kind": "missing-from-index",
+      "sourcePath": "03 artefatos/Cursor.md",
+      "targetPath": "00 índices/Indice de Artefatos.md",
+      "detail": "Arquivo não aparece em 00 índices/Indice de Artefatos.md."
+    },
+    {
+      "kind": "missing-from-index",
+      "sourcePath": "03 artefatos/Espaço entre Palavras.md",
+      "targetPath": "00 índices/Indice de Artefatos.md",
+      "detail": "Arquivo não aparece em 00 índices/Indice de Artefatos.md."
+    },
+    {
+      "kind": "missing-from-index",
+      "sourcePath": "03 artefatos/Luminaria.md",
+      "targetPath": "00 índices/Indice de Artefatos.md",
+      "detail": "Arquivo não aparece em 00 índices/Indice de Artefatos.md."
+    },
+    {
+      "kind": "missing-from-index",
+      "sourcePath": "03 artefatos/Portfólio.md",
+      "targetPath": "00 índices/Indice de Artefatos.md",
+      "detail": "Arquivo não aparece em 00 índices/Indice de Artefatos.md."
+    },
+    {
+      "kind": "missing-from-index",
+      "sourcePath": "03 artefatos/Projetor.md",
+      "targetPath": "00 índices/Indice de Artefatos.md",
+      "detail": "Arquivo não aparece em 00 índices/Indice de Artefatos.md."
+    },
+    {
+      "kind": "missing-from-index",
+      "sourcePath": "03 artefatos/QR Code.md",
+      "targetPath": "00 índices/Indice de Artefatos.md",
+      "detail": "Arquivo não aparece em 00 índices/Indice de Artefatos.md."
+    },
+    {
+      "kind": "missing-from-index",
+      "sourcePath": "autores/Barry Schwartz.md",
+      "targetPath": "00 índices/Indice de Autores.md",
+      "detail": "Arquivo não aparece em 00 índices/Indice de Autores.md."
+    },
+    {
+      "kind": "missing-from-index",
+      "sourcePath": "autores/Robert Adler.md",
+      "targetPath": "00 índices/Indice de Autores.md",
+      "detail": "Arquivo não aparece em 00 índices/Indice de Autores.md."
+    },
+    {
+      "kind": "missing-from-index",
+      "sourcePath": "empresas/3M.md",
+      "targetPath": "00 índices/Indice de Empresas.md",
+      "detail": "Arquivo não aparece em 00 índices/Indice de Empresas.md."
+    },
+    {
+      "kind": "missing-from-index",
+      "sourcePath": "empresas/Zenith.md",
+      "targetPath": "00 índices/Indice de Empresas.md",
+      "detail": "Arquivo não aparece em 00 índices/Indice de Empresas.md."
+    },
+    {
+      "kind": "missing-from-home",
+      "sourcePath": "05 percursos/Da Parede ao Interlocutor.md",
+      "targetPath": "index.md",
+      "detail": "Genealogia ou percurso publicado não aparece no index.md."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Agendamento.md",
+      "targetPath": "01 conceitos/Tecnologia de Acesso.md",
+      "detail": "A ficha liga para 01 conceitos/Tecnologia de Acesso.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Agendamento.md",
+      "targetPath": "02 variaveis/Atrito Decisorio.md",
+      "detail": "A ficha liga para 02 variaveis/Atrito Decisorio.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Agendamento.md",
+      "targetPath": "02 variaveis/Custo Transacional.md",
+      "detail": "A ficha liga para 02 variaveis/Custo Transacional.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/App de tracking de gastos.md",
+      "targetPath": "01 conceitos/Servico de Reflexao.md",
+      "detail": "A ficha liga para 01 conceitos/Servico de Reflexao.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/App de tracking de gastos.md",
+      "targetPath": "01 conceitos/Memoria Distribuida.md",
+      "detail": "A ficha liga para 01 conceitos/Memoria Distribuida.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/App de tracking de gastos.md",
+      "targetPath": "01 conceitos/Compressao do Esforco.md",
+      "detail": "A ficha liga para 01 conceitos/Compressao do Esforco.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/App de tracking de gastos.md",
+      "targetPath": "02 variaveis/Permanencia.md",
+      "detail": "A ficha liga para 02 variaveis/Permanencia.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/App de tracking de gastos.md",
+      "targetPath": "02 variaveis/Custo de Busca.md",
+      "detail": "A ficha liga para 02 variaveis/Custo de Busca.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/App de tracking de gastos.md",
+      "targetPath": "02 variaveis/Custo Transacional.md",
+      "detail": "A ficha liga para 02 variaveis/Custo Transacional.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/App de tracking de gastos.md",
+      "targetPath": "02 variaveis/Atrito Decisorio.md",
+      "detail": "A ficha liga para 02 variaveis/Atrito Decisorio.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/App de tracking de gastos.md",
+      "targetPath": "04 genealogias/Permanencia e Memoria Externa.md",
+      "detail": "A ficha liga para 04 genealogias/Permanencia e Memoria Externa.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Archive.md",
+      "targetPath": "01 conceitos/Memoria Distribuida.md",
+      "detail": "A ficha liga para 01 conceitos/Memoria Distribuida.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Arquivo em nuvem.md",
+      "targetPath": "01 conceitos/Continuidade de Acesso.md",
+      "detail": "A ficha liga para 01 conceitos/Continuidade de Acesso.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Arquivo em nuvem.md",
+      "targetPath": "01 conceitos/Redução de Inferências.md",
+      "detail": "A ficha liga para 01 conceitos/Redução de Inferências.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Arquivo em nuvem.md",
+      "targetPath": "01 conceitos/Memoria Distribuida.md",
+      "detail": "A ficha liga para 01 conceitos/Memoria Distribuida.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Arquivo em nuvem.md",
+      "targetPath": "01 conceitos/Tecnologia de Acesso.md",
+      "detail": "A ficha liga para 01 conceitos/Tecnologia de Acesso.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Arquivo em nuvem.md",
+      "targetPath": "02 variaveis/Permanencia.md",
+      "detail": "A ficha liga para 02 variaveis/Permanencia.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Arquivo em nuvem.md",
+      "targetPath": "02 variaveis/Expectativa de Disponibilidade.md",
+      "detail": "A ficha liga para 02 variaveis/Expectativa de Disponibilidade.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Arquivo em nuvem.md",
+      "targetPath": "02 variaveis/Custo Transacional.md",
+      "detail": "A ficha liga para 02 variaveis/Custo Transacional.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Arquivo em nuvem.md",
+      "targetPath": "02 variaveis/Custo de Busca.md",
+      "detail": "A ficha liga para 02 variaveis/Custo de Busca.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Assinatura.md",
+      "targetPath": "01 conceitos/Limiares.md",
+      "detail": "A ficha liga para 01 conceitos/Limiares.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Assinatura.md",
+      "targetPath": "01 conceitos/Justificabilidade.md",
+      "detail": "A ficha liga para 01 conceitos/Justificabilidade.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Assinatura.md",
+      "targetPath": "01 conceitos/Redução de Inferências.md",
+      "detail": "A ficha liga para 01 conceitos/Redução de Inferências.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Assinatura.md",
+      "targetPath": "02 variaveis/Reversibilidade.md",
+      "detail": "A ficha liga para 02 variaveis/Reversibilidade.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Assinatura.md",
+      "targetPath": "02 variaveis/Legitimidade Decisoria.md",
+      "detail": "A ficha liga para 02 variaveis/Legitimidade Decisoria.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Assinatura.md",
+      "targetPath": "04 genealogias/Limiares e Delimitacao.md",
+      "detail": "A ficha liga para 04 genealogias/Limiares e Delimitacao.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Atalhos de Teclado.md",
+      "targetPath": "01 conceitos/Manipulacao Direta.md",
+      "detail": "A ficha liga para 01 conceitos/Manipulacao Direta.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Atalhos de Teclado.md",
+      "targetPath": "01 conceitos/Affordance.md",
+      "detail": "A ficha liga para 01 conceitos/Affordance.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Banco de dados.md",
+      "targetPath": "01 conceitos/Memoria Distribuida.md",
+      "detail": "A ficha liga para 01 conceitos/Memoria Distribuida.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Banco de dados.md",
+      "targetPath": "01 conceitos/Redução de Inferências.md",
+      "detail": "A ficha liga para 01 conceitos/Redução de Inferências.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Banco de dados.md",
+      "targetPath": "01 conceitos/Compressao do Esforco.md",
+      "detail": "A ficha liga para 01 conceitos/Compressao do Esforco.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Banco de dados.md",
+      "targetPath": "01 conceitos/Justificabilidade.md",
+      "detail": "A ficha liga para 01 conceitos/Justificabilidade.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Banco de dados.md",
+      "targetPath": "02 variaveis/Custo de Busca.md",
+      "detail": "A ficha liga para 02 variaveis/Custo de Busca.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Banco de dados.md",
+      "targetPath": "02 variaveis/Permanencia.md",
+      "detail": "A ficha liga para 02 variaveis/Permanencia.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Banco de dados.md",
+      "targetPath": "02 variaveis/Custo Transacional.md",
+      "detail": "A ficha liga para 02 variaveis/Custo Transacional.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Banco de dados.md",
+      "targetPath": "02 variaveis/Previsibilidade Visual.md",
+      "detail": "A ficha liga para 02 variaveis/Previsibilidade Visual.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Baú.md",
+      "targetPath": "01 conceitos/Memoria Distribuida.md",
+      "detail": "A ficha liga para 01 conceitos/Memoria Distribuida.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Baú.md",
+      "targetPath": "01 conceitos/Tecnologias de Delimitacao.md",
+      "detail": "A ficha liga para 01 conceitos/Tecnologias de Delimitacao.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Baú.md",
+      "targetPath": "01 conceitos/Continuidade de Acesso.md",
+      "detail": "A ficha liga para 01 conceitos/Continuidade de Acesso.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Baú.md",
+      "targetPath": "02 variaveis/Permanencia.md",
+      "detail": "A ficha liga para 02 variaveis/Permanencia.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Baú.md",
+      "targetPath": "02 variaveis/Custo de Busca.md",
+      "detail": "A ficha liga para 02 variaveis/Custo de Busca.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Baú.md",
+      "targetPath": "02 variaveis/Custo Transacional.md",
+      "detail": "A ficha liga para 02 variaveis/Custo Transacional.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Bolso.md",
+      "targetPath": "01 conceitos/Continuidade de Acesso.md",
+      "detail": "A ficha liga para 01 conceitos/Continuidade de Acesso.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Bolso.md",
+      "targetPath": "01 conceitos/Tecnologias de Delimitacao.md",
+      "detail": "A ficha liga para 01 conceitos/Tecnologias de Delimitacao.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Bolso.md",
+      "targetPath": "01 conceitos/Compressao do Esforco.md",
+      "detail": "A ficha liga para 01 conceitos/Compressao do Esforco.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Bolso.md",
+      "targetPath": "02 variaveis/Custo de Busca.md",
+      "detail": "A ficha liga para 02 variaveis/Custo de Busca.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Bolso.md",
+      "targetPath": "02 variaveis/Custo Transacional.md",
+      "detail": "A ficha liga para 02 variaveis/Custo Transacional.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Bolso.md",
+      "targetPath": "02 variaveis/Expectativa de Disponibilidade.md",
+      "detail": "A ficha liga para 02 variaveis/Expectativa de Disponibilidade.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Botao Like.md",
+      "targetPath": "01 conceitos/Compressao do Esforco.md",
+      "detail": "A ficha liga para 01 conceitos/Compressao do Esforco.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Botao Like.md",
+      "targetPath": "01 conceitos/Redução de Inferências.md",
+      "detail": "A ficha liga para 01 conceitos/Redução de Inferências.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Botao Like.md",
+      "targetPath": "04 genealogias/Compressao do Esforco.md",
+      "detail": "A ficha liga para 04 genealogias/Compressao do Esforco.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Botao Salvar.md",
+      "targetPath": "01 conceitos/Memoria Distribuida.md",
+      "detail": "A ficha liga para 01 conceitos/Memoria Distribuida.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Botao Salvar.md",
+      "targetPath": "01 conceitos/Continuidade de Acesso.md",
+      "detail": "A ficha liga para 01 conceitos/Continuidade de Acesso.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Botao Salvar.md",
+      "targetPath": "02 variaveis/Custo do Erro.md",
+      "detail": "A ficha liga para 02 variaveis/Custo do Erro.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Botao Salvar.md",
+      "targetPath": "02 variaveis/Reversibilidade.md",
+      "detail": "A ficha liga para 02 variaveis/Reversibilidade.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Braun T3.md",
+      "targetPath": "01 conceitos/Compressao do Esforco.md",
+      "detail": "A ficha liga para 01 conceitos/Compressao do Esforco.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Calendário.md",
+      "targetPath": "01 conceitos/Tecnologia de Acesso.md",
+      "detail": "A ficha liga para 01 conceitos/Tecnologia de Acesso.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Calendário.md",
+      "targetPath": "01 conceitos/Continuidade de Acesso.md",
+      "detail": "A ficha liga para 01 conceitos/Continuidade de Acesso.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Calendário.md",
+      "targetPath": "02 variaveis/Expectativa de Disponibilidade.md",
+      "detail": "A ficha liga para 02 variaveis/Expectativa de Disponibilidade.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Calendário.md",
+      "targetPath": "02 variaveis/Custo Transacional.md",
+      "detail": "A ficha liga para 02 variaveis/Custo Transacional.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Calendário.md",
+      "targetPath": "02 variaveis/Permanencia.md",
+      "detail": "A ficha liga para 02 variaveis/Permanencia.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Calendário.md",
+      "targetPath": "04 genealogias/Permanencia e Memoria Externa.md",
+      "detail": "A ficha liga para 04 genealogias/Permanencia e Memoria Externa.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Carimbo.md",
+      "targetPath": "01 conceitos/Compressao do Esforco.md",
+      "detail": "A ficha liga para 01 conceitos/Compressao do Esforco.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Carimbo.md",
+      "targetPath": "01 conceitos/Redução de Inferências.md",
+      "detail": "A ficha liga para 01 conceitos/Redução de Inferências.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Carimbo.md",
+      "targetPath": "01 conceitos/Justificabilidade.md",
+      "detail": "A ficha liga para 01 conceitos/Justificabilidade.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Carimbo.md",
+      "targetPath": "02 variaveis/Previsibilidade Visual.md",
+      "detail": "A ficha liga para 02 variaveis/Previsibilidade Visual.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Carimbo.md",
+      "targetPath": "02 variaveis/Friccao.md",
+      "detail": "A ficha liga para 02 variaveis/Friccao.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Carimbo.md",
+      "targetPath": "02 variaveis/Legitimidade Decisoria.md",
+      "detail": "A ficha liga para 02 variaveis/Legitimidade Decisoria.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Carimbo.md",
+      "targetPath": "02 variaveis/Custo Transacional.md",
+      "detail": "A ficha liga para 02 variaveis/Custo Transacional.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Carimbo.md",
+      "targetPath": "04 genealogias/Compressao do Esforco.md",
+      "detail": "A ficha liga para 04 genealogias/Compressao do Esforco.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Carimbo.md",
+      "targetPath": "04 genealogias/Coordenacao e Sincronizacao.md",
+      "detail": "A ficha liga para 04 genealogias/Coordenacao e Sincronizacao.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Carrinho de Compras.md",
+      "targetPath": "01 conceitos/Memoria Distribuida.md",
+      "detail": "A ficha liga para 01 conceitos/Memoria Distribuida.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Carrinho de Compras.md",
+      "targetPath": "02 variaveis/Reversibilidade.md",
+      "detail": "A ficha liga para 02 variaveis/Reversibilidade.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Carrinho de Compras.md",
+      "targetPath": "02 variaveis/Atrito Decisorio.md",
+      "detail": "A ficha liga para 02 variaveis/Atrito Decisorio.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Cartao de Embarque.md",
+      "targetPath": "02 variaveis/Custo Transacional.md",
+      "detail": "A ficha liga para 02 variaveis/Custo Transacional.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Cartao de Embarque.md",
+      "targetPath": "02 variaveis/Previsibilidade Visual.md",
+      "detail": "A ficha liga para 02 variaveis/Previsibilidade Visual.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Carteira.md",
+      "targetPath": "01 conceitos/Continuidade de Acesso.md",
+      "detail": "A ficha liga para 01 conceitos/Continuidade de Acesso.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Carteira.md",
+      "targetPath": "01 conceitos/Compressao do Esforco.md",
+      "detail": "A ficha liga para 01 conceitos/Compressao do Esforco.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Carteira.md",
+      "targetPath": "01 conceitos/Tecnologias de Delimitacao.md",
+      "detail": "A ficha liga para 01 conceitos/Tecnologias de Delimitacao.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Carteira.md",
+      "targetPath": "02 variaveis/Custo Transacional.md",
+      "detail": "A ficha liga para 02 variaveis/Custo Transacional.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Carteira.md",
+      "targetPath": "02 variaveis/Expectativa de Disponibilidade.md",
+      "detail": "A ficha liga para 02 variaveis/Expectativa de Disponibilidade.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Carteira.md",
+      "targetPath": "02 variaveis/Custo do Erro.md",
+      "detail": "A ficha liga para 02 variaveis/Custo do Erro.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Checklist.md",
+      "targetPath": "01 conceitos/Memoria Distribuida.md",
+      "detail": "A ficha liga para 01 conceitos/Memoria Distribuida.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Checklist.md",
+      "targetPath": "01 conceitos/Justificabilidade.md",
+      "detail": "A ficha liga para 01 conceitos/Justificabilidade.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Checklist.md",
+      "targetPath": "02 variaveis/Custo do Erro.md",
+      "detail": "A ficha liga para 02 variaveis/Custo do Erro.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Checklist.md",
+      "targetPath": "02 variaveis/Friccao.md",
+      "detail": "A ficha liga para 02 variaveis/Friccao.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Checklist.md",
+      "targetPath": "02 variaveis/Previsibilidade Visual.md",
+      "detail": "A ficha liga para 02 variaveis/Previsibilidade Visual.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Checklist.md",
+      "targetPath": "04 genealogias/Permanencia e Memoria Externa.md",
+      "detail": "A ficha liga para 04 genealogias/Permanencia e Memoria Externa.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Checklist.md",
+      "targetPath": "04 genealogias/Reversibilidade e Custo do Erro.md",
+      "detail": "A ficha liga para 04 genealogias/Reversibilidade e Custo do Erro.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Cofre.md",
+      "targetPath": "01 conceitos/Tecnologias de Delimitacao.md",
+      "detail": "A ficha liga para 01 conceitos/Tecnologias de Delimitacao.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Cofre.md",
+      "targetPath": "01 conceitos/Continuidade de Acesso.md",
+      "detail": "A ficha liga para 01 conceitos/Continuidade de Acesso.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Cofre.md",
+      "targetPath": "01 conceitos/Friccao Boa vs Friccao Ruim.md",
+      "detail": "A ficha liga para 01 conceitos/Friccao Boa vs Friccao Ruim.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Cofre.md",
+      "targetPath": "02 variaveis/Permanencia.md",
+      "detail": "A ficha liga para 02 variaveis/Permanencia.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Cofre.md",
+      "targetPath": "02 variaveis/Friccao.md",
+      "detail": "A ficha liga para 02 variaveis/Friccao.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Cofre.md",
+      "targetPath": "02 variaveis/Custo Transacional.md",
+      "detail": "A ficha liga para 02 variaveis/Custo Transacional.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Cofre.md",
+      "targetPath": "02 variaveis/Custo do Erro.md",
+      "detail": "A ficha liga para 02 variaveis/Custo do Erro.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Cofre.md",
+      "targetPath": "04 genealogias/Limiares e Delimitacao.md",
+      "detail": "A ficha liga para 04 genealogias/Limiares e Delimitacao.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Controle Remoto.md",
+      "targetPath": "02 variaveis/Friccao.md",
+      "detail": "A ficha liga para 02 variaveis/Friccao.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Controle Remoto.md",
+      "targetPath": "02 variaveis/Atencao.md",
+      "detail": "A ficha liga para 02 variaveis/Atencao.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Controle Remoto.md",
+      "targetPath": "04 genealogias/Compressao do Esforco.md",
+      "detail": "A ficha liga para 04 genealogias/Compressao do Esforco.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Crachá.md",
+      "targetPath": "01 conceitos/Limiares.md",
+      "detail": "A ficha liga para 01 conceitos/Limiares.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Customer Journey Map.md",
+      "targetPath": "01 conceitos/Compressao do Esforco.md",
+      "detail": "A ficha liga para 01 conceitos/Compressao do Esforco.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Customer Journey Map.md",
+      "targetPath": "01 conceitos/Redução de Inferências.md",
+      "detail": "A ficha liga para 01 conceitos/Redução de Inferências.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Customer Journey Map.md",
+      "targetPath": "01 conceitos/Investigação.md",
+      "detail": "A ficha liga para 01 conceitos/Investigação.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Customer Journey Map.md",
+      "targetPath": "01 conceitos/Formulação.md",
+      "detail": "A ficha liga para 01 conceitos/Formulação.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Customer Journey Map.md",
+      "targetPath": "02 variaveis/Custo de Busca.md",
+      "detail": "A ficha liga para 02 variaveis/Custo de Busca.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Customer Journey Map.md",
+      "targetPath": "02 variaveis/Atrito Decisorio.md",
+      "detail": "A ficha liga para 02 variaveis/Atrito Decisorio.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Customer Journey Map.md",
+      "targetPath": "02 variaveis/Previsibilidade Visual.md",
+      "detail": "A ficha liga para 02 variaveis/Previsibilidade Visual.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Diário.md",
+      "targetPath": "01 conceitos/Memoria Distribuida.md",
+      "detail": "A ficha liga para 01 conceitos/Memoria Distribuida.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Diário.md",
+      "targetPath": "01 conceitos/Servico de Reflexao.md",
+      "detail": "A ficha liga para 01 conceitos/Servico de Reflexao.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Diário.md",
+      "targetPath": "01 conceitos/Investigação.md",
+      "detail": "A ficha liga para 01 conceitos/Investigação.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Diário.md",
+      "targetPath": "02 variaveis/Permanencia.md",
+      "detail": "A ficha liga para 02 variaveis/Permanencia.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Diário.md",
+      "targetPath": "02 variaveis/Custo de Busca.md",
+      "detail": "A ficha liga para 02 variaveis/Custo de Busca.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Diário.md",
+      "targetPath": "02 variaveis/Reversibilidade.md",
+      "detail": "A ficha liga para 02 variaveis/Reversibilidade.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Entrevista Qualitativa.md",
+      "targetPath": "01 conceitos/Investigação.md",
+      "detail": "A ficha liga para 01 conceitos/Investigação.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Entrevista Qualitativa.md",
+      "targetPath": "01 conceitos/Formulação.md",
+      "detail": "A ficha liga para 01 conceitos/Formulação.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Entrevista Qualitativa.md",
+      "targetPath": "01 conceitos/Justificabilidade.md",
+      "detail": "A ficha liga para 01 conceitos/Justificabilidade.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Entrevista Qualitativa.md",
+      "targetPath": "01 conceitos/Memoria Distribuida.md",
+      "detail": "A ficha liga para 01 conceitos/Memoria Distribuida.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Entrevista Qualitativa.md",
+      "targetPath": "02 variaveis/Custo de Busca.md",
+      "detail": "A ficha liga para 02 variaveis/Custo de Busca.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Entrevista Qualitativa.md",
+      "targetPath": "02 variaveis/Atrito Decisorio.md",
+      "detail": "A ficha liga para 02 variaveis/Atrito Decisorio.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Espaço entre Palavras.md",
+      "targetPath": "01 conceitos/Redução de Inferências.md",
+      "detail": "A ficha liga para 01 conceitos/Redução de Inferências.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Espelho.md",
+      "targetPath": "01 conceitos/Tecnologia de Acesso.md",
+      "detail": "A ficha liga para 01 conceitos/Tecnologia de Acesso.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Espelho.md",
+      "targetPath": "01 conceitos/Autodeterminação.md",
+      "detail": "A ficha liga para 01 conceitos/Autodeterminação.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Espelho.md",
+      "targetPath": "01 conceitos/Redução de Inferências.md",
+      "detail": "A ficha liga para 01 conceitos/Redução de Inferências.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Espelho.md",
+      "targetPath": "02 variaveis/Atencao.md",
+      "detail": "A ficha liga para 02 variaveis/Atencao.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Espelho.md",
+      "targetPath": "02 variaveis/Expectativa de Disponibilidade.md",
+      "detail": "A ficha liga para 02 variaveis/Expectativa de Disponibilidade.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Espelho.md",
+      "targetPath": "02 variaveis/Previsibilidade Visual.md",
+      "detail": "A ficha liga para 02 variaveis/Previsibilidade Visual.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Fila.md",
+      "targetPath": "02 variaveis/Legitimidade Decisoria.md",
+      "detail": "A ficha liga para 02 variaveis/Legitimidade Decisoria.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Fila.md",
+      "targetPath": "02 variaveis/Custo Transacional.md",
+      "detail": "A ficha liga para 02 variaveis/Custo Transacional.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Garrafa de Agua.md",
+      "targetPath": "01 conceitos/Tecnologia de Acesso.md",
+      "detail": "A ficha liga para 01 conceitos/Tecnologia de Acesso.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Garrafa de Agua.md",
+      "targetPath": "02 variaveis/Expectativa de Disponibilidade.md",
+      "detail": "A ficha liga para 02 variaveis/Expectativa de Disponibilidade.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Garrafa de Agua.md",
+      "targetPath": "02 variaveis/Friccao.md",
+      "detail": "A ficha liga para 02 variaveis/Friccao.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Grid.md",
+      "targetPath": "01 conceitos/Compressao do Esforco.md",
+      "detail": "A ficha liga para 01 conceitos/Compressao do Esforco.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Grid.md",
+      "targetPath": "02 variaveis/Custo Transacional.md",
+      "detail": "A ficha liga para 02 variaveis/Custo Transacional.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Grid.md",
+      "targetPath": "04 genealogias/Compressao do Esforco.md",
+      "detail": "A ficha liga para 04 genealogias/Compressao do Esforco.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Grid.md",
+      "targetPath": "04 genealogias/Coordenacao e Sincronizacao.md",
+      "detail": "A ficha liga para 04 genealogias/Coordenacao e Sincronizacao.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Guarda-roupa.md",
+      "targetPath": "01 conceitos/Memoria Distribuida.md",
+      "detail": "A ficha liga para 01 conceitos/Memoria Distribuida.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Guarda-roupa.md",
+      "targetPath": "01 conceitos/Redução de Inferências.md",
+      "detail": "A ficha liga para 01 conceitos/Redução de Inferências.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Guarda-roupa.md",
+      "targetPath": "01 conceitos/Tecnologias de Delimitacao.md",
+      "detail": "A ficha liga para 01 conceitos/Tecnologias de Delimitacao.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Guarda-roupa.md",
+      "targetPath": "02 variaveis/Custo de Busca.md",
+      "detail": "A ficha liga para 02 variaveis/Custo de Busca.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Guarda-roupa.md",
+      "targetPath": "02 variaveis/Previsibilidade Visual.md",
+      "detail": "A ficha liga para 02 variaveis/Previsibilidade Visual.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Guarda-roupa.md",
+      "targetPath": "02 variaveis/Permanencia.md",
+      "detail": "A ficha liga para 02 variaveis/Permanencia.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Helvetica.md",
+      "targetPath": "01 conceitos/Design Systems.md",
+      "detail": "A ficha liga para 01 conceitos/Design Systems.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Helvetica.md",
+      "targetPath": "01 conceitos/Redução de Inferências.md",
+      "detail": "A ficha liga para 01 conceitos/Redução de Inferências.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Helvetica.md",
+      "targetPath": "02 variaveis/Previsibilidade Visual.md",
+      "detail": "A ficha liga para 02 variaveis/Previsibilidade Visual.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Helvetica.md",
+      "targetPath": "02 variaveis/Atencao.md",
+      "detail": "A ficha liga para 02 variaveis/Atencao.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Helvetica.md",
+      "targetPath": "04 genealogias/Compressao do Esforco.md",
+      "detail": "A ficha liga para 04 genealogias/Compressao do Esforco.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Hero Section.md",
+      "targetPath": "01 conceitos/Affordance.md",
+      "detail": "A ficha liga para 01 conceitos/Affordance.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Hero Section.md",
+      "targetPath": "01 conceitos/Economia da Atencao.md",
+      "detail": "A ficha liga para 01 conceitos/Economia da Atencao.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Hero Section.md",
+      "targetPath": "01 conceitos/Redução de Inferências.md",
+      "detail": "A ficha liga para 01 conceitos/Redução de Inferências.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Hero Section.md",
+      "targetPath": "02 variaveis/Atrito Decisorio.md",
+      "detail": "A ficha liga para 02 variaveis/Atrito Decisorio.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Hero Section.md",
+      "targetPath": "02 variaveis/Custo de Busca.md",
+      "detail": "A ficha liga para 02 variaveis/Custo de Busca.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Hero Section.md",
+      "targetPath": "02 variaveis/Previsibilidade Visual.md",
+      "detail": "A ficha liga para 02 variaveis/Previsibilidade Visual.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Hero Section.md",
+      "targetPath": "02 variaveis/Atencao.md",
+      "detail": "A ficha liga para 02 variaveis/Atencao.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Hero Section.md",
+      "targetPath": "04 genealogias/Limiares e Delimitacao.md",
+      "detail": "A ficha liga para 04 genealogias/Limiares e Delimitacao.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Infinite Scroll.md",
+      "targetPath": "04 genealogias/Compressao do Esforco.md",
+      "detail": "A ficha liga para 04 genealogias/Compressao do Esforco.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Jobs to Be Done.md",
+      "targetPath": "01 conceitos/Formulação.md",
+      "detail": "A ficha liga para 01 conceitos/Formulação.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Jobs to Be Done.md",
+      "targetPath": "01 conceitos/Investigação.md",
+      "detail": "A ficha liga para 01 conceitos/Investigação.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Jobs to Be Done.md",
+      "targetPath": "01 conceitos/Justificabilidade.md",
+      "detail": "A ficha liga para 01 conceitos/Justificabilidade.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Jobs to Be Done.md",
+      "targetPath": "02 variaveis/Atrito Decisorio.md",
+      "detail": "A ficha liga para 02 variaveis/Atrito Decisorio.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Jobs to Be Done.md",
+      "targetPath": "02 variaveis/Custo de Busca.md",
+      "detail": "A ficha liga para 02 variaveis/Custo de Busca.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Jobs to Be Done.md",
+      "targetPath": "02 variaveis/Legitimidade Decisoria.md",
+      "detail": "A ficha liga para 02 variaveis/Legitimidade Decisoria.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Justificativa de Valor Público.md",
+      "targetPath": "01 conceitos/Formulação.md",
+      "detail": "A ficha liga para 01 conceitos/Formulação.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Justificativa de Valor Público.md",
+      "targetPath": "01 conceitos/Intenção.md",
+      "detail": "A ficha liga para 01 conceitos/Intenção.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Justificativa de Valor Público.md",
+      "targetPath": "01 conceitos/Justica Procedimental.md",
+      "detail": "A ficha liga para 01 conceitos/Justica Procedimental.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Justificativa de Valor Público.md",
+      "targetPath": "01 conceitos/Servico de Reflexao.md",
+      "detail": "A ficha liga para 01 conceitos/Servico de Reflexao.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Kanban.md",
+      "targetPath": "01 conceitos/Sincronizacao.md",
+      "detail": "A ficha liga para 01 conceitos/Sincronizacao.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Kanban.md",
+      "targetPath": "01 conceitos/Memoria Distribuida.md",
+      "detail": "A ficha liga para 01 conceitos/Memoria Distribuida.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Kanban.md",
+      "targetPath": "01 conceitos/Friccao Boa vs Friccao Ruim.md",
+      "detail": "A ficha liga para 01 conceitos/Friccao Boa vs Friccao Ruim.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Kanban.md",
+      "targetPath": "01 conceitos/Autodeterminação.md",
+      "detail": "A ficha liga para 01 conceitos/Autodeterminação.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Kanban.md",
+      "targetPath": "02 variaveis/Previsibilidade Visual.md",
+      "detail": "A ficha liga para 02 variaveis/Previsibilidade Visual.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Kanban.md",
+      "targetPath": "02 variaveis/Custo Transacional.md",
+      "detail": "A ficha liga para 02 variaveis/Custo Transacional.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Kanban.md",
+      "targetPath": "02 variaveis/Friccao.md",
+      "detail": "A ficha liga para 02 variaveis/Friccao.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/LLM Wiki.md",
+      "targetPath": "01 conceitos/Investigação.md",
+      "detail": "A ficha liga para 01 conceitos/Investigação.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/LLM Wiki.md",
+      "targetPath": "01 conceitos/Justificabilidade.md",
+      "detail": "A ficha liga para 01 conceitos/Justificabilidade.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/LLM Wiki.md",
+      "targetPath": "02 variaveis/Permanencia.md",
+      "detail": "A ficha liga para 02 variaveis/Permanencia.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/LLM Wiki.md",
+      "targetPath": "02 variaveis/Custo de Busca.md",
+      "detail": "A ficha liga para 02 variaveis/Custo de Busca.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/LLM Wiki.md",
+      "targetPath": "02 variaveis/Custo Transacional.md",
+      "detail": "A ficha liga para 02 variaveis/Custo Transacional.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/LLM Wiki.md",
+      "targetPath": "02 variaveis/Reversibilidade.md",
+      "detail": "A ficha liga para 02 variaveis/Reversibilidade.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Login.md",
+      "targetPath": "01 conceitos/Limiares.md",
+      "detail": "A ficha liga para 01 conceitos/Limiares.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Login.md",
+      "targetPath": "01 conceitos/Tecnologias de Delimitacao.md",
+      "detail": "A ficha liga para 01 conceitos/Tecnologias de Delimitacao.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Manifesto.md",
+      "targetPath": "01 conceitos/Intenção.md",
+      "detail": "A ficha liga para 01 conceitos/Intenção.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Mascote.md",
+      "targetPath": "01 conceitos/Design Systems.md",
+      "detail": "A ficha liga para 01 conceitos/Design Systems.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Mascote.md",
+      "targetPath": "01 conceitos/Esqueuomorfismo.md",
+      "detail": "A ficha liga para 01 conceitos/Esqueuomorfismo.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Mochila.md",
+      "targetPath": "01 conceitos/Continuidade de Acesso.md",
+      "detail": "A ficha liga para 01 conceitos/Continuidade de Acesso.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Mochila.md",
+      "targetPath": "01 conceitos/Compressao do Esforco.md",
+      "detail": "A ficha liga para 01 conceitos/Compressao do Esforco.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Mochila.md",
+      "targetPath": "01 conceitos/Redução de Inferências.md",
+      "detail": "A ficha liga para 01 conceitos/Redução de Inferências.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Mochila.md",
+      "targetPath": "02 variaveis/Custo Transacional.md",
+      "detail": "A ficha liga para 02 variaveis/Custo Transacional.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Mochila.md",
+      "targetPath": "02 variaveis/Custo de Busca.md",
+      "detail": "A ficha liga para 02 variaveis/Custo de Busca.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Mochila.md",
+      "targetPath": "02 variaveis/Expectativa de Disponibilidade.md",
+      "detail": "A ficha liga para 02 variaveis/Expectativa de Disponibilidade.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Número de Protocolo.md",
+      "targetPath": "01 conceitos/Redução de Inferências.md",
+      "detail": "A ficha liga para 01 conceitos/Redução de Inferências.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Número de Protocolo.md",
+      "targetPath": "01 conceitos/Justificabilidade.md",
+      "detail": "A ficha liga para 01 conceitos/Justificabilidade.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Número de Protocolo.md",
+      "targetPath": "02 variaveis/Custo Transacional.md",
+      "detail": "A ficha liga para 02 variaveis/Custo Transacional.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Número de Protocolo.md",
+      "targetPath": "02 variaveis/Previsibilidade Visual.md",
+      "detail": "A ficha liga para 02 variaveis/Previsibilidade Visual.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Pergunta.md",
+      "targetPath": "01 conceitos/Autodeterminação.md",
+      "detail": "A ficha liga para 01 conceitos/Autodeterminação.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Pergunta.md",
+      "targetPath": "01 conceitos/Intenção.md",
+      "detail": "A ficha liga para 01 conceitos/Intenção.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Pesquisa Quantitativa.md",
+      "targetPath": "01 conceitos/Investigação.md",
+      "detail": "A ficha liga para 01 conceitos/Investigação.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Pesquisa Quantitativa.md",
+      "targetPath": "01 conceitos/Justificabilidade.md",
+      "detail": "A ficha liga para 01 conceitos/Justificabilidade.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Pesquisa Quantitativa.md",
+      "targetPath": "01 conceitos/Formulação.md",
+      "detail": "A ficha liga para 01 conceitos/Formulação.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Pesquisa Quantitativa.md",
+      "targetPath": "01 conceitos/Distribuicao de Escassez.md",
+      "detail": "A ficha liga para 01 conceitos/Distribuicao de Escassez.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Pesquisa Quantitativa.md",
+      "targetPath": "02 variaveis/Variabilidade.md",
+      "detail": "A ficha liga para 02 variaveis/Variabilidade.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Pesquisa Quantitativa.md",
+      "targetPath": "02 variaveis/Justica.md",
+      "detail": "A ficha liga para 02 variaveis/Justica.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Pesquisa Quantitativa.md",
+      "targetPath": "02 variaveis/Legitimidade Decisoria.md",
+      "detail": "A ficha liga para 02 variaveis/Legitimidade Decisoria.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Pinch to Zoom.md",
+      "targetPath": "01 conceitos/Redução de Inferências.md",
+      "detail": "A ficha liga para 01 conceitos/Redução de Inferências.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Pinch to Zoom.md",
+      "targetPath": "02 variaveis/Friccao.md",
+      "detail": "A ficha liga para 02 variaveis/Friccao.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Pinch to Zoom.md",
+      "targetPath": "02 variaveis/Previsibilidade Visual.md",
+      "detail": "A ficha liga para 02 variaveis/Previsibilidade Visual.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Pinch to Zoom.md",
+      "targetPath": "04 genealogias/Compressao do Esforco.md",
+      "detail": "A ficha liga para 04 genealogias/Compressao do Esforco.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Post-it.md",
+      "targetPath": "04 genealogias/Reversibilidade e Custo do Erro.md",
+      "detail": "A ficha liga para 04 genealogias/Reversibilidade e Custo do Erro.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Projeto Piloto.md",
+      "targetPath": "02 variaveis/Friccao.md",
+      "detail": "A ficha liga para 02 variaveis/Friccao.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Prompt Conversacional.md",
+      "targetPath": "01 conceitos/Friccao Boa vs Friccao Ruim.md",
+      "detail": "A ficha liga para 01 conceitos/Friccao Boa vs Friccao Ruim.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Prompt Conversacional.md",
+      "targetPath": "01 conceitos/Compressao do Esforco.md",
+      "detail": "A ficha liga para 01 conceitos/Compressao do Esforco.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Pull to Refresh.md",
+      "targetPath": "01 conceitos/Affordance.md",
+      "detail": "A ficha liga para 01 conceitos/Affordance.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Pôster.md",
+      "targetPath": "01 conceitos/Limiares.md",
+      "detail": "A ficha liga para 01 conceitos/Limiares.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Pôster.md",
+      "targetPath": "02 variaveis/Atencao.md",
+      "detail": "A ficha liga para 02 variaveis/Atencao.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Pôster.md",
+      "targetPath": "02 variaveis/Previsibilidade Visual.md",
+      "detail": "A ficha liga para 02 variaveis/Previsibilidade Visual.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Pôster.md",
+      "targetPath": "02 variaveis/Permanencia.md",
+      "detail": "A ficha liga para 02 variaveis/Permanencia.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Pôster.md",
+      "targetPath": "04 genealogias/Permanencia e Memoria Externa.md",
+      "detail": "A ficha liga para 04 genealogias/Permanencia e Memoria Externa.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Quadro Branco.md",
+      "targetPath": "01 conceitos/Memoria Distribuida.md",
+      "detail": "A ficha liga para 01 conceitos/Memoria Distribuida.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Quadro Branco.md",
+      "targetPath": "02 variaveis/Reversibilidade.md",
+      "detail": "A ficha liga para 02 variaveis/Reversibilidade.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Quadro Branco.md",
+      "targetPath": "02 variaveis/Custo do Erro.md",
+      "detail": "A ficha liga para 02 variaveis/Custo do Erro.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Quadro Branco.md",
+      "targetPath": "02 variaveis/Permanencia.md",
+      "detail": "A ficha liga para 02 variaveis/Permanencia.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Quadro Branco.md",
+      "targetPath": "04 genealogias/Permanencia e Memoria Externa.md",
+      "detail": "A ficha liga para 04 genealogias/Permanencia e Memoria Externa.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Retrospectiva.md",
+      "targetPath": "01 conceitos/Memoria Distribuida.md",
+      "detail": "A ficha liga para 01 conceitos/Memoria Distribuida.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Retrospectiva.md",
+      "targetPath": "01 conceitos/Justica Procedimental.md",
+      "detail": "A ficha liga para 01 conceitos/Justica Procedimental.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Retrospectiva.md",
+      "targetPath": "02 variaveis/Custo do Erro.md",
+      "detail": "A ficha liga para 02 variaveis/Custo do Erro.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Retrospectiva.md",
+      "targetPath": "02 variaveis/Legitimidade Decisoria.md",
+      "detail": "A ficha liga para 02 variaveis/Legitimidade Decisoria.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Retrospectiva.md",
+      "targetPath": "02 variaveis/Custo Transacional.md",
+      "detail": "A ficha liga para 02 variaveis/Custo Transacional.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Retrospectiva.md",
+      "targetPath": "04 genealogias/Reversibilidade e Custo do Erro.md",
+      "detail": "A ficha liga para 04 genealogias/Reversibilidade e Custo do Erro.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Retrospectiva.md",
+      "targetPath": "04 genealogias/Coordenacao e Sincronizacao.md",
+      "detail": "A ficha liga para 04 genealogias/Coordenacao e Sincronizacao.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Retrospectiva.md",
+      "targetPath": "04 genealogias/Permanencia e Memoria Externa.md",
+      "detail": "A ficha liga para 04 genealogias/Permanencia e Memoria Externa.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Service Blueprint.md",
+      "targetPath": "01 conceitos/Memoria Distribuida.md",
+      "detail": "A ficha liga para 01 conceitos/Memoria Distribuida.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Service Blueprint.md",
+      "targetPath": "02 variaveis/Custo de Busca.md",
+      "detail": "A ficha liga para 02 variaveis/Custo de Busca.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Service Blueprint.md",
+      "targetPath": "02 variaveis/Custo Transacional.md",
+      "detail": "A ficha liga para 02 variaveis/Custo Transacional.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Service Blueprint.md",
+      "targetPath": "02 variaveis/Previsibilidade Visual.md",
+      "detail": "A ficha liga para 02 variaveis/Previsibilidade Visual.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Service Blueprint.md",
+      "targetPath": "02 variaveis/Friccao.md",
+      "detail": "A ficha liga para 02 variaveis/Friccao.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Service Blueprint.md",
+      "targetPath": "04 genealogias/Coordenacao e Sincronizacao.md",
+      "detail": "A ficha liga para 04 genealogias/Coordenacao e Sincronizacao.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Slide to Unlock.md",
+      "targetPath": "02 variaveis/Custo do Erro.md",
+      "detail": "A ficha liga para 02 variaveis/Custo do Erro.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Slide to Unlock.md",
+      "targetPath": "02 variaveis/Previsibilidade Visual.md",
+      "detail": "A ficha liga para 02 variaveis/Previsibilidade Visual.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Slide to Unlock.md",
+      "targetPath": "04 genealogias/Compressao do Esforco.md",
+      "detail": "A ficha liga para 04 genealogias/Compressao do Esforco.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Tapete.md",
+      "targetPath": "01 conceitos/Affordance.md",
+      "detail": "A ficha liga para 01 conceitos/Affordance.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Tapete.md",
+      "targetPath": "02 variaveis/Previsibilidade Visual.md",
+      "detail": "A ficha liga para 02 variaveis/Previsibilidade Visual.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Tapete.md",
+      "targetPath": "02 variaveis/Friccao.md",
+      "detail": "A ficha liga para 02 variaveis/Friccao.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Tela de Login.md",
+      "targetPath": "01 conceitos/Friccao Boa vs Friccao Ruim.md",
+      "detail": "A ficha liga para 01 conceitos/Friccao Boa vs Friccao Ruim.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Tela de Login.md",
+      "targetPath": "02 variaveis/Custo do Erro.md",
+      "detail": "A ficha liga para 02 variaveis/Custo do Erro.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Undo Send.md",
+      "targetPath": "01 conceitos/Limiares.md",
+      "detail": "A ficha liga para 01 conceitos/Limiares.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Undo Send.md",
+      "targetPath": "02 variaveis/Permanencia.md",
+      "detail": "A ficha liga para 02 variaveis/Permanencia.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Undo.md",
+      "targetPath": "01 conceitos/Friccao Boa vs Friccao Ruim.md",
+      "detail": "A ficha liga para 01 conceitos/Friccao Boa vs Friccao Ruim.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Undo.md",
+      "targetPath": "01 conceitos/Justica Procedimental.md",
+      "detail": "A ficha liga para 01 conceitos/Justica Procedimental.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Value Proposition Ad Lib.md",
+      "targetPath": "01 conceitos/Formulação.md",
+      "detail": "A ficha liga para 01 conceitos/Formulação.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Value Proposition Ad Lib.md",
+      "targetPath": "01 conceitos/Intenção.md",
+      "detail": "A ficha liga para 01 conceitos/Intenção.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Value Proposition Ad Lib.md",
+      "targetPath": "01 conceitos/Servico de Reflexao.md",
+      "detail": "A ficha liga para 01 conceitos/Servico de Reflexao.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Workshop.md",
+      "targetPath": "01 conceitos/Memoria Distribuida.md",
+      "detail": "A ficha liga para 01 conceitos/Memoria Distribuida.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Workshop.md",
+      "targetPath": "01 conceitos/Sincronizacao.md",
+      "detail": "A ficha liga para 01 conceitos/Sincronizacao.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Workshop.md",
+      "targetPath": "01 conceitos/Justica Procedimental.md",
+      "detail": "A ficha liga para 01 conceitos/Justica Procedimental.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Workshop.md",
+      "targetPath": "02 variaveis/Custo Transacional.md",
+      "detail": "A ficha liga para 02 variaveis/Custo Transacional.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Workshop.md",
+      "targetPath": "02 variaveis/Legitimidade Decisoria.md",
+      "detail": "A ficha liga para 02 variaveis/Legitimidade Decisoria.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Workshop.md",
+      "targetPath": "02 variaveis/Atencao.md",
+      "detail": "A ficha liga para 02 variaveis/Atencao.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Workshop.md",
+      "targetPath": "04 genealogias/Coordenacao e Sincronizacao.md",
+      "detail": "A ficha liga para 04 genealogias/Coordenacao e Sincronizacao.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Workshop.md",
+      "targetPath": "04 genealogias/Permanencia e Memoria Externa.md",
+      "detail": "A ficha liga para 04 genealogias/Permanencia e Memoria Externa.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "orphan-node",
+      "sourcePath": "03 artefatos/Cigarro.md",
+      "targetPath": null,
+      "detail": "Nota sem links de entrada a partir do acervo auditado."
+    },
+    {
+      "kind": "orphan-node",
+      "sourcePath": "03 artefatos/Cursor.md",
+      "targetPath": null,
+      "detail": "Nota sem links de entrada a partir do acervo auditado."
+    },
+    {
+      "kind": "orphan-node",
+      "sourcePath": "03 artefatos/Espaço entre Palavras.md",
+      "targetPath": null,
+      "detail": "Nota sem links de entrada a partir do acervo auditado."
+    },
+    {
+      "kind": "orphan-node",
+      "sourcePath": "03 artefatos/Portfólio.md",
+      "targetPath": null,
+      "detail": "Nota sem links de entrada a partir do acervo auditado."
+    },
+    {
+      "kind": "orphan-node",
+      "sourcePath": "03 artefatos/QR Code.md",
+      "targetPath": null,
+      "detail": "Nota sem links de entrada a partir do acervo auditado."
+    },
+    {
+      "kind": "orphan-node",
+      "sourcePath": "05 percursos/Como Projetamos Fronteiras.md",
+      "targetPath": null,
+      "detail": "Nota sem links de entrada a partir do acervo auditado."
+    },
+    {
+      "kind": "orphan-node",
+      "sourcePath": "05 percursos/Da Espera a Sincronizacao.md",
+      "targetPath": null,
+      "detail": "Nota sem links de entrada a partir do acervo auditado."
+    },
+    {
+      "kind": "orphan-node",
+      "sourcePath": "05 percursos/Da Parede ao Interlocutor.md",
+      "targetPath": null,
+      "detail": "Nota sem links de entrada a partir do acervo auditado."
+    },
+    {
+      "kind": "orphan-node",
+      "sourcePath": "autores/Barry Schwartz.md",
+      "targetPath": null,
+      "detail": "Nota sem links de entrada a partir do acervo auditado."
+    }
+  ]
+}
