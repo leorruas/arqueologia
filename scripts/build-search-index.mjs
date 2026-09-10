@@ -118,16 +118,16 @@ function limparHeading(texto) {
 }
 
 function limparReferenciaWiki(valor) {
-  return String(valor || "")
+  let referencia = String(valor || "")
     .replace(/^\[\[/, "")
     .replace(/\]\]$/, "")
     .split("|")[0]
     .split("#")[0]
     .replace(/^\.\//, "")
-    .replace(/\.md$/i, "")
-    .trim()
-    .replace(/\\+$/g, "")
     .trim();
+
+  while (referencia.endsWith("\\")) referencia = referencia.slice(0, -1).trimEnd();
+  return referencia.replace(/\.md$/i, "").trim();
 }
 
 function extrairWikiLinks(markdown) {
