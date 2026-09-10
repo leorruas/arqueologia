@@ -27,6 +27,16 @@ O [[03 artefatos/Infinite Scroll|infinite scroll]] leva a redução do intervalo
 
 Esses artefatos não formam uma descendência histórica conhecida. Eles são parentes porque reorganizam funcionalmente a mesma variável: o custo de passar de uma intenção ao recurso desejado.
 
+## Portabilidade é uma estratégia de acesso — não o acesso inteiro
+
+Algumas soluções reduzem o intervalo entre intenção e recurso porque fazem o recurso acompanhar a pessoa. Outras conseguem o mesmo resultado sem transportar o recurso em si.
+
+Essa diferença é explorada na genealogia [[04 genealogias/Portabilidade e Desancoragem|Portabilidade e desancoragem]]. Uma garrafa carrega água; um bolso carrega objetos; um cartão de embarque carrega autorização. Já um arquivo em nuvem pode continuar disponível porque o arquivo permanece em outra infraestrutura enquanto a identidade e a possibilidade de acesso acompanham o usuário.
+
+Portabilidade, portanto, é uma das maneiras de produzir continuidade. Ela responde “o que precisa viajar comigo?”. Acesso e disponibilidade respondem uma pergunta mais ampla: “quanto custa chegar ao recurso quando eu preciso dele?”.
+
+Essa distinção evita tratar mobilidade, ubiquidade e disponibilidade como sinônimos.
+
 ## Quando disponibilidade muda comportamento
 
 A disponibilidade parece uma qualidade neutra até percebermos que ela pode alterar a frequência do comportamento. Uma garrafa ao alcance da mão permite beber sem procurar uma fonte. Um feed sem fim permite continuar consumindo conteúdo sem formular uma nova escolha. Uma agenda reduz a necessidade de disputar atendimento no momento em que ele ocorre.
@@ -57,5 +67,5 @@ Essa leitura permite comparar artefatos sem fingir que eles têm a mesma histór
 | **Relação de poder** | Quem define a arquitetura de acesso pode definir prioridade, ritmo e critérios de entrada |
 | **Conceitos relacionados** | [[01 conceitos/Tecnologia de Acesso|Tecnologia de acesso]], [[01 conceitos/Continuidade de Acesso|Continuidade de acesso]], [[01 conceitos/Distribuicao de Escassez|Distribuição de escassez]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Expectativa de Disponibilidade|Expectativa de disponibilidade]] |
-| **Cuidado histórico** | Os artefatos são aproximados por mecanismo de acesso, não por uma linhagem histórica direta |
+| **Cuidado histórico** | Os artefatos são aproximados por mecanismo de acesso, não por uma linhagem histórica direta; portabilidade é apenas uma estratégia dentro do problema mais amplo de disponibilidade |
 | **Hipótese em aberto** | Conveniência pode ser descrita com mais precisão como redução ou redistribuição do intervalo entre intenção e acesso; resta investigar quais intervalos não deveriam ser eliminados |
