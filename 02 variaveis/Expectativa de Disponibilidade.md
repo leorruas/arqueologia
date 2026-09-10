@@ -1,6 +1,8 @@
 ---
 title: "Expectativa de disponibilidade"
 type: "variavel"
+status: "publicado"
+eixo: "baixa ↔ alta expectativa de acesso imediato ou contínuo"
 tags:
   - design/variavel
   - arqueologia
@@ -8,28 +10,66 @@ tags:
 
 # Expectativa de disponibilidade
 
-A **Expectativa de Disponibilidade** mede a norma social, a cobrança cultural e a pressão cognitiva de prontidão contínua para responder a estímulos, interagir com outras pessoas ou dispor de recursos de forma instantânea. 
+Um recurso pode tornar-se tecnicamente acessível antes de se tornar socialmente esperado. Quando mensagens chegam ao bolso, arquivos permanecem na nuvem ou conteúdo nunca termina, a conveniência pode mudar de estatuto: aquilo que antes era excepcional começa a parecer obrigação ou padrão mínimo.
 
-Essa variável é diretamente influenciada pelas decisões de design que reduzem barreiras de acesso espacial ou temporal. Quando um sistema de design torna um recurso permanentemente acessível, a sociedade tende a elevar o padrão comportamental de aceitação, transformando o que antes era uma **possibilidade tecnológica conveniente** em uma **expectativa social mandatória**.
+**Expectativa de disponibilidade** mede quanto usuários passam a esperar que pessoas, serviços, informação ou recursos estejam acessíveis de forma imediata ou contínua.
 
-## Impacto nos artefatos
+**Eixo:** baixa ↔ alta expectativa de acesso imediato ou contínuo.
 
-Esta variável é ativamente modificada nos seguintes artefatos:
+## Disponibilidade real e expectativa não são a mesma coisa
 
-### Aumentada / maximizada
-- [[03 artefatos/Botao Like|Botão Like]] — Eleva a expectativa social de aprovação e engajamento contínuo em postagens de redes sociais.
-- [[03 artefatos/Infinite Scroll|Infinite Scroll]] — Maximiza a expectativa de consumo contínuo e a percepção de que sempre há novas informações disponíveis sem limite de término.
-- Dispositivos de comunicação móvel (como smartphones) — Aumentam drasticamente a expectativa de que um indivíduo esteja sempre contatável e pronto para responder a mensagens e chamados em tempo real.
+[[01 conceitos/Continuidade de Acesso|Continuidade de acesso]] descreve a transformação de um recurso episódico em algo mais continuamente acessível. Esta variável observa uma consequência possível: **o quanto essa capacidade vira expectativa**.
 
-### Diminuída / minimizada
-- [[03 artefatos/Agendamento|Agendamento]] — Delimita com precisão os momentos em que um recurso ou serviço estará acessível, reduzindo a necessidade de prontidão geral fora dos horários demarcados.
-- [[03 artefatos/Undo Send|Undo Send]] — Concede um buffer temporário que suspende ligeiramente a entrega imediata, diminuindo a urgência imediata do envio acidental.
+Um serviço pode operar 24 horas sem que todos esperem resposta instantânea. O inverso também ocorre: pessoas podem esperar prontidão contínua de um canal que tecnicamente não garante atendimento permanente.
 
----
+Por isso, o eixo é cultural e relacional, não apenas técnico.
 
-### Ficha resumo da variável
+## O design pode deslocar o “normal”
 
-- **Nome da variável**: Expectativa de Disponibilidade
-- **Definição**: Nível de exigência social e prontidão cognitiva para interagir ou dispor de um recurso de forma contínua e imediata.
-- **Objetivos de design relacionados**: Equilibrar a urgência de fluxos de comunicação, gerenciar atrito de engajamento social.
-- **Artefatos chave relacionados**: [[03 artefatos/Botao Like|Botão Like]], [[03 artefatos/Infinite Scroll|Infinite Scroll]]
+[[03 artefatos/Infinite Scroll|Infinite Scroll]] sustenta a percepção de que sempre existe mais conteúdo logo abaixo. O fim deixa de ser uma condição visual recorrente e a continuidade passa a parecer normal.
+
+O [[03 artefatos/Botao Like|Botão Like]] torna reações sociais baratas e mensuráveis. Isso pode elevar a expectativa de que publicações recebam sinais rápidos de reconhecimento, embora o efeito varie fortemente entre contextos e pessoas.
+
+Dispositivos móveis e notificações ampliaram historicamente a possibilidade de contato em movimento. A hipótese do projeto é que, quando custo temporal e espacial de contato cai, normas de resposta podem se tornar mais exigentes. Essa relação precisa ser investigada caso a caso, não presumida.
+
+## Delimitar disponibilidade também é design
+
+[[03 artefatos/Agendamento|Agendamento]] faz o movimento inverso: ele estabelece quando o recurso estará disponível. A janela definida pode reduzir incerteza e também legitimar indisponibilidade fora dela.
+
+Férias, horários de atendimento, status de presença e modos de não perturbe operam de forma semelhante. Eles não eliminam acesso; desenham seus limites temporais.
+
+Isso conecta a variável a [[01 conceitos/Tecnologias de Delimitacao|Tecnologias de delimitação]]. Uma fronteira temporal pode ser tão importante quanto uma porta física.
+
+[[03 artefatos/Undo Send|Undo Send]], por outro lado, não é um bom exemplo central de redução da expectativa de disponibilidade. Ele altera reversibilidade temporal do envio, não a norma de prontidão do destinatário. A associação anterior foi removida por falta de relação direta.
+
+## Alta disponibilidade pode criar dependência de infraestrutura
+
+Quando algo se torna esperado como permanentemente acessível, interrupções ganham novo peso. Uma queda que antes seria inconveniente pode parecer falha grave porque o padrão cultural mudou.
+
+Isso é especialmente visível em serviços que se tornam infraestrutura cotidiana. O design não cria sozinho essa dependência, mas participa da transformação ao reduzir repetidamente intervalos, espera e necessidade de planejamento.
+
+A pergunta arqueológica é: **em que momento “posso acessar” virou “deveria estar disponível agora”?**
+
+## Como observar
+
+Indícios incluem tolerância à espera, expectativa de resposta, reação a indisponibilidade, necessidade percebida de atualizações contínuas, frequência de checagem e reclamações quando um recurso não está imediatamente acessível.
+
+O eixo não mede disponibilidade objetiva, SLA ou uptime. Mede a norma esperada pelo usuário e pelo sistema social em torno do acesso.
+
+## Ficha da variável
+
+| Campo | Registro |
+|---|---|
+| **Variável** | Expectativa de disponibilidade |
+| **Eixo** | Baixa ↔ alta expectativa de acesso imediato ou contínuo |
+| **Definição operacional** | Grau em que acesso contínuo, resposta rápida ou prontidão passam a ser percebidos como condição normal |
+| **Como observar** | Tolerância à espera, reação a interrupções, expectativa de resposta e frequência de checagem |
+| **O que não mede sozinho** | Disponibilidade técnica real, qualidade do serviço ou valor do recurso |
+| **Trade-offs principais** | Mais disponibilidade reduz espera; também pode elevar normas de prontidão e dependência da infraestrutura |
+| **Artefatos-chave** | [[03 artefatos/Infinite Scroll|Infinite Scroll]], [[03 artefatos/Botao Like|Botão Like]], [[03 artefatos/Agendamento|Agendamento]] |
+| **Conceitos relacionados** | [[01 conceitos/Continuidade de Acesso|Continuidade de acesso]], [[01 conceitos/Tecnologia de Acesso|Tecnologia de acesso]] |
+| **Genealogias relacionadas** | [[04 genealogias/Acesso e Disponibilidade|Acesso e disponibilidade]] |
+
+## Referências
+
+Esta variável é uma operacionalização do projeto. Relações entre tecnologias de comunicação e normas sociais de prontidão devem ser sustentadas por estudos específicos sempre que forem afirmadas historicamente.
