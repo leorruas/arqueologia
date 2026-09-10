@@ -23,6 +23,7 @@ on:
       - "scripts/build-search-index.mjs"
       - "scripts/normalize-sentence-case.mjs"
       - "scripts/audit-editorial.mjs"
+      - "scripts/consolidate-unresolved-links.mjs"
       - ".github/workflows/build-search-index.yml"
   workflow_dispatch:
 
@@ -55,14 +56,21 @@ jobs:
           node --check scripts/build-search-index.mjs
           node --check scripts/normalize-sentence-case.mjs
           node --check scripts/audit-editorial.mjs
+          node --check scripts/consolidate-unresolved-links.mjs
 
       - name: Normalizar headings estruturais em sentence case
         run: node scripts/normalize-sentence-case.mjs
 
+      - name: Mapear wikilinks sem destino
+        run: node scripts/build-search-index.mjs
+
+      - name: Consolidar referências futuras como pistas
+        run: node scripts/consolidate-unresolved-links.mjs
+
       - name: Auditar sentence case restante
         run: node scripts/audit-editorial.mjs
 
-      - name: Gerar índice e relatório de links
+      - name: Gerar índice e relatório final de links
         run: node scripts/build-search-index.mjs
 
       - name: Salvar normalização, índice e auditorias
@@ -78,11 +86,14 @@ jobs:
             "05 percursos" \
             autores empresas \
             search-index.json link-report.json editorial-report.json
+          if [ -f "Pistas de pesquisa.md" ]; then
+            git add "Pistas de pesquisa.md"
+          fi
           if git diff --cached --quiet; then
             echo "Conteúdo e relatórios já estão atualizados."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "chore: aplica sentence case e atualiza auditorias [skip ci]"
+          git commit -m "chore: normaliza acervo e atualiza auditorias [skip ci]"
           git push
