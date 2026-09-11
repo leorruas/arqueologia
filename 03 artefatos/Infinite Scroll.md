@@ -63,6 +63,18 @@ Isso o coloca na genealogia [[04 genealogias/Atencao e Recompensa|Atenção e re
 
 A tensão central do artefato é justamente essa: **nem toda fricção é desperdício**. Um clique em “próxima página” pode ser inconveniente durante uma busca. Também pode funcionar como uma pausa mínima em que a continuidade volta a depender de uma decisão explícita.
 
+## Genealogia de futuros: quando continuar deixa de precisar de decisão
+
+Aplicando [[01 conceitos/Genealogia de Futuros|Genealogia de Futuros]], o Infinite Scroll importa menos como técnica de carregamento e mais como mudança de expectativa. Ele tornou normal a ideia de que **o sistema deve continuar antes que o usuário precise pedir**.
+
+A cadeia possível é:
+
+**rolagem contínua → desaparecimento do ponto de decisão → expectativa de fluxo permanente → recomendação automática → interfaces que antecipam a próxima ação → ambientes em que continuar é o estado padrão**.
+
+Esse futuro não precisa assumir a forma de uma lista infinita. Pode aparecer em autoplay, feeds preditivos, interfaces conversacionais que sugerem próximos passos ou agentes que mantêm tarefas em movimento sem comandos sucessivos.
+
+O novo problema produzido pelo sucesso é quase o inverso do original. Se antes o atrito era “preciso pedir para continuar”, depois a questão passa a ser **“como interrompo algo que continua por padrão?”**. O descendente necessário pode não ser mais uma tecnologia de fluidez, mas um artefato de encerramento, pausa, limite ou devolução de agência.
+
 ## Referências
 
 1. US Patent Application 20070198476 / família relacionada. “Object search UI and dragging object results”, depositada em 14 fev. 2006. Inventores incluem Julia Farago, Hugh Williams, James Walsh, Nicholas Whyte e outros.
@@ -92,7 +104,10 @@ A tensão central do artefato é justamente essa: **nem toda fricção é desper
 | **Relação de poder** | Reduz esforço do usuário, mas também permite que a plataforma controle quando e quanto conteúdo aparece sem devolver pontos naturais de decisão |
 | **Consequências inesperadas** | Em feeds continuamente atualizados, participa de sistemas que reduzem sinais de parada e podem favorecer sessões prolongadas Capacidade ampliada: Navegação contínua e rápida por grandes conjuntos de conteúdo Capacidade reduzida ou deslocada: Perda de marcos de posição, extensão e parada presentes na paginação Custo invisível: Dificuldade de perceber encerramento e, em alguns contextos, de recuperar posição ou estimar quantidade restante |
 | **Destino ou transformação posterior** | Amplamente incorporado, hoje também objeto de crítica e de alternativas que reintroduzem limites ou pausas Legado: Transformou o “fim da página” de fronteira explícita em evento técnico invisível |
-| **Conceitos relacionados** | [[01 conceitos/Economia da Atencao|Economia da Atenção]], [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção Boa vs Fricção Ruim]], [[01 conceitos/Compressao do Esforco|Compressão do Esforço]], [[01 conceitos/Recompensa Variavel|Recompensa Variável]] |
+| **Futuro tornado mais provável** | Interfaces em que continuidade e recomendação acontecem por padrão, antes de uma nova decisão explícita do usuário |
+| **Descendentes possíveis** | Autoplay, feeds preditivos, interfaces que antecipam próximos passos e agentes que mantêm fluxos em andamento |
+| **Novo problema produzido pelo sucesso** | Se continuar vira padrão, encerramento, pausa e recuperação de agência precisam voltar a ser projetados explicitamente |
+| **Conceitos relacionados** | [[01 conceitos/Economia da Atencao|Economia da Atenção]], [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção Boa vs Fricção Ruim]], [[01 conceitos/Compressao do Esforco|Compressão do Esforço]], [[01 conceitos/Recompensa Variavel|Recompensa Variável]], [[01 conceitos/Genealogia de Futuros|Genealogia de Futuros]] |
 | **Variáveis relacionadas** | [[02 variaveis/Atrito Decisorio|Atrito Decisório]], [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Custo de Busca|Custo de Busca]], [[02 variaveis/Friccao|Fricção]] |
 | **Genealogia** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]], [[04 genealogias/Compressao do Esforco|Compressão do esforço]] Família de ideias: Tecnologias de continuidade |
 | **Percurso(s)** | [[05 percursos/Da Parede ao Feed|Da Parede ao Feed]] |
