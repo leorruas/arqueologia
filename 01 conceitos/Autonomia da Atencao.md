@@ -101,7 +101,7 @@ Isso não permite classificar automaticamente uma interface como ética ou manip
 | **Conceito** | Autonomia da atenção |
 | **Origem** | Literatura + adaptação de design |
 | **Grau de consolidação** | Debatido; há formulação filosófica explícita de *autonomy of attention*, mas a operacionalização usada neste projeto é própria |
-| **Formulação associada a** | [[autores/Kaisa Kärki|Kaisa Kärki]]; diálogo com Richard Ryan e Edward Deci, Wayne Wu, Sebastian Watzl, James Williams e estudos de interrupção em IHC |
+| **Formulação associada a** | Kaisa Kärki; diálogo com Richard Ryan e Edward Deci, Wayne Wu, Sebastian Watzl, James Williams e estudos de interrupção em IHC |
 | **Área principal** | Filosofia da atenção / design de interação / psicologia da atenção / ética da tecnologia |
 | **Distinção central** | Demanda de atenção, agência atencional, autonomia atencional e liberdade da atenção não são a mesma coisa |
 | **O que ajuda a explicar** | Quem inicia, sustenta e encerra deslocamentos de foco; se o ambiente favorece objetivos endossados pelo usuário ou prioridades de outros atores |

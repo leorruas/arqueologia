@@ -98,8 +98,8 @@ Quando uma pista ganha nota própria, ela deixa de funcionar como promessa futur
 
 Esta seção é regenerada pelo workflow a partir de wikilinks sem destino. As seções manuais acima nunca devem ser substituídas por esta rotina.
 
-### Artefatos
+### Autores
 
-- **JTBD**: citado em `03 artefatos/Mentoria.md`
+- **Kaisa Kärki**: citado em `01 conceitos/Autonomia da Atencao.md`
 
 <!-- PISTAS-AUTOMATICAS:FIM -->
