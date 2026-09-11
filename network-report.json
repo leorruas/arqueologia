@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-11T00:41:29.703Z",
+  "generatedAt": "2026-09-11T00:41:53.489Z",
   "scope": "Integração do grafo: títulos duplicados dentro da mesma camada, índices, home, reciprocidade estrutural, tipos de design e nós órfãos. Conceitos e variáveis não exigem backlink exaustivo.",
-  "issueCount": 12,
+  "issueCount": 10,
   "countsByKind": {
     "missing-from-index": 2,
-    "missing-reciprocal-link": 8,
+    "missing-reciprocal-link": 6,
     "design-type-drift": 2
   },
   "issues": [
@@ -41,12 +41,6 @@
     {
       "kind": "missing-reciprocal-link",
       "sourcePath": "03 artefatos/Badge de notificacao.md",
-      "targetPath": "04 genealogias/Permanencia e Memoria Externa.md",
-      "detail": "A ficha liga para 04 genealogias/Permanencia e Memoria Externa.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "missing-reciprocal-link",
-      "sourcePath": "03 artefatos/Badge de notificacao.md",
       "targetPath": "05 percursos/Da Parede ao Feed.md",
       "detail": "A ficha liga para 05 percursos/Da Parede ao Feed.md, mas a nota relacionada não devolve o vínculo."
     },
@@ -55,12 +49,6 @@
       "sourcePath": "03 artefatos/Favorito Bookmark.md",
       "targetPath": "00 tipos de design/Design de Interface.md",
       "detail": "A ficha liga para 00 tipos de design/Design de Interface.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "missing-reciprocal-link",
-      "sourcePath": "03 artefatos/Favorito Bookmark.md",
-      "targetPath": "04 genealogias/Permanencia e Memoria Externa.md",
-      "detail": "A ficha liga para 04 genealogias/Permanencia e Memoria Externa.md, mas a nota relacionada não devolve o vínculo."
     },
     {
       "kind": "missing-reciprocal-link",
