@@ -50,17 +50,19 @@ Critério de conclusão: cada caso deve mostrar qual operação de design torna 
 Objetivo: testar Ricoeur em artefatos que respondem a “quem?”, “é a mesma pessoa?” e “quem responde por este ato depois?”.
 
 - [x] `Espelho`: mesmidade, ipseidade e limites da auto-observação visual.
-- [ ] `Fotografia`: persistência de uma aparência passada e continuidade narrativa.
-- [ ] `Diário`: identidade construída narrativamente através da mudança.
-- [ ] `Portfólio`: seleção retrospectiva de ações para produzir uma narrativa de competência.
-- [ ] `Login`: redução operacional da identidade à continuidade verificável.
-- [ ] `Crachá`: reconhecimento institucional de uma identidade e de suas permissões.
-- [ ] `Assinatura`: ligação entre agente, ato, compromisso e imputabilidade futura.
-- [ ] `Número de protocolo`: sobrevivência institucional de uma demanda e possibilidade de atribuir continuidade ao processo.
-- [ ] `App de tracking de gastos`: identidade comportamental produzida por séries de registros.
+- [x] `Câmera fotográfica`: vestígio visual, representação do passado e limites da continuidade pela aparência.
+- [x] `Diário`: identidade construída narrativamente através da mudança.
+- [x] `Portfólio`: seleção retrospectiva de ações para produzir uma narrativa de competência.
+- [x] `Login`: redução operacional da identidade à continuidade verificável.
+- [x] `Crachá`: reconhecimento institucional de uma identidade e de suas permissões.
+- [x] `Assinatura`: ligação entre agente, ato, compromisso e imputabilidade futura.
+- [x] `Número de protocolo`: persistência da referência sem garantia de continuidade de sentido.
+- [x] `App de tracking de gastos`: identidade comportamental produzida por séries de registros e limite entre padrão e pessoa.
 - [x] `Permanência e memória externa`: testemunho, documento, arquivo e representação do passado.
 
 Critério de conclusão: distinguir claramente mesmidade, ipseidade, identidade narrativa, autenticação, autoria, responsabilidade e registro.
+
+**Estado:** concluída. A propagação produziu quatro operações distintas: narrar quem alguém é, reconhecer a mesma entidade operacional, manter um agente ligado a um ato e manter uma entidade/caso ligada a um histórico. Fotografia e tracking funcionam como casos intermediários em que traços persistentes podem ser confundidos com uma representação total do sujeito.
 
 ## Fase 4 — Síntese e novas estruturas
 
@@ -69,7 +71,7 @@ Objetivo: só criar novas formulações gerais depois de verificar se elas sobre
 - [ ] Avaliar uma genealogia sobre estabilização: como artefatos tornam tempo, identidade, compromisso e vestígios suficientemente estáveis para ação.
 - [ ] Criar, se os casos sustentarem, o percurso `Do reflexo ao perfil`.
 - [ ] Avaliar a formulação: “todo artefato torna alguma coisa suficientemente estável para que possamos agir sobre ela”.
-- [ ] Conectar Bergson, Ricoeur e Merlin Donald sem fundir suas teorias: experiência e duração; identidade, narrativa e vestígio; externalização e cognição distribuída.
+- [x] Conectar Bergson, Ricoeur e Merlin Donald sem fundir suas teorias: experiência e duração; identidade, narrativa e vestígio; externalização e cognição distribuída. A conexão foi testada em `Memória distribuída` e `Permanência e memória externa`.
 - [ ] Revisar o vocabulário do vault para impedir equivalências fáceis entre armazenamento e memória, dado e experiência, autenticação e identidade, registro e passado.
 
 Critério de conclusão: a síntese deve emergir dos artefatos estudados, não ser imposta a eles.
