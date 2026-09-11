@@ -26,20 +26,24 @@ Objetivo: criar os autores como nós estáveis e consolidar as distinções que 
 
 Critério de conclusão: o vault deve conseguir usar “memória”, “atenção”, “promessa”, “identidade” e “permanência” sem tratar esses termos como sinônimos de armazenamento, foco, marketing, autenticação ou registro.
 
+**Estado:** concluída.
+
 ## Fase 2 — Tempo, atenção e quantificação
 
 Objetivo: testar Bergson em artefatos que recortam fluxo, espacializam tempo ou transformam experiência em estados mensuráveis.
 
-- [ ] `Calendário`: duração vivida versus tempo espacializado e diagramável.
-- [ ] `Agendamento`: transformação do futuro em slots equivalentes e alocáveis.
-- [ ] `App de tracking de gastos`: fluxo vivido versus estados discretos e comparáveis.
-- [ ] `Badge de notificação`: interrupção, retorno e convocação da atenção.
-- [ ] `Infinite Scroll`: continuidade, ausência de marcos e dificuldade de perceber duração.
-- [ ] `Fila`: tempo vivido de espera versus posição observável numa ordem.
-- [ ] `Coordenação e sincronização`: distinguir tempo administrável de duração.
-- [ ] `Da espera à sincronização`: usar a tensão entre experiência temporal e infraestrutura de coordenação.
+- [x] `Calendário`: duração vivida versus tempo espacializado e diagramável.
+- [x] `Agendamento`: transformação do futuro em slots equivalentes e alocáveis.
+- [x] `App de tracking de gastos`: fluxo vivido versus estados discretos e comparáveis.
+- [x] `Badge de notificação`: revisado; a contribuição de Bergson já chega de modo suficiente via `Atenção`. Sem citação direta para evitar bibliografia decorativa.
+- [x] `Infinite Scroll`: revisado; a conexão com Bergson é possível via hábito e continuidade, mas ainda não altera o artigo o suficiente para justificar propagação direta. Manter via `Atenção`.
+- [x] `Fila`: tempo mensurável de espera versus custo e duração vividos.
+- [x] `Coordenação e sincronização`: sincronização operacional não equivale a experiência temporal comum.
+- [x] `Da espera à sincronização`: explicitar que infraestruturas sincronizam marcos, não durações vividas.
 
 Critério de conclusão: cada caso deve mostrar qual operação de design torna o tempo representável, comparável, dividível ou administrável, e o que essa operação deixa de representar.
+
+**Estado:** concluída. O teste também estabeleceu um critério negativo: propagação pode terminar em “não citar diretamente” quando o ganho conceitual já está presente por meio de uma nota intermediária.
 
 ## Fase 3 — Identidade, compromisso e responsabilidade
 
@@ -77,3 +81,4 @@ Critério de conclusão: a síntese deve emergir dos artefatos estudados, não s
 3. Evitar transformar Bergson numa crítica genérica da medição ou Ricoeur numa teoria genérica de identidade digital.
 4. Quando uma referência apenas tensiona um conceito do vault, registrar explicitamente que se trata de uma lente comparativa.
 5. Toda nova síntese deve devolver links aos artefatos que a sustentam.
+6. Uma revisão pode concluir legitimamente que não há motivo para citar o autor diretamente. Propagação não é maximização de links; é aumento de precisão conceitual.
