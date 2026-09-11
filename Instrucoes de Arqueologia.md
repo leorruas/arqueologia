@@ -15,6 +15,14 @@ O projeto investiga como pequenas decisões de projeto mudam a forma como as pes
 > [!IMPORTANT]
 > O projeto estuda ideias. Artefatos são evidências concretas dessas ideias; autores, empresas e tecnologias entram como contexto histórico.
 
+Duas hipóteses orientam a leitura:
+
+> **Toda interface, produto ou sistema é uma hipótese sobre o comportamento humano.**
+
+> **Todo artefato é também uma promessa sobre como o mundo poderia funcionar.**
+
+A primeira pergunta qual humano o artefato pressupõe. A segunda pergunta qual futuro ele torna imaginável e, quando se difunde, ajuda a tornar normal.
+
 ## Protocolo de investigação
 
 Toda análise parte de um artefato específico. A pergunta recorrente é: **por que isso é assim e não de outra forma?**
@@ -33,7 +41,11 @@ Procure reconstruir:
 - que capacidades ampliou ou enfraqueceu;
 - que custos invisíveis criou;
 - quem ganhou ou perdeu poder;
-- que descendentes e parentes conceituais surgiram depois.
+- que transformação de mundo o artefato prometia;
+- quando essa promessa deixou de parecer benefício e virou expectativa, norma ou infraestrutura;
+- que futuro foi efetivamente produzido e como ele divergiu do prometido;
+- que problema surgiu justamente porque a solução funcionou;
+- que descendentes e parentes conceituais se tornaram possíveis depois.
 
 ## Regimes de afirmação
 
@@ -45,13 +57,13 @@ Afirmações sobre data, autoria, produto, contexto, decisão ou difusão susten
 
 ### Interpretação arqueológica
 
-Leitura produzida pelo projeto sobre a lógica do design: que hipótese sobre comportamento parece estar embutida no artefato, que capacidade ele reorganiza, qual relação de poder estabelece e por que pode ter funcionado.
+Leitura produzida pelo projeto sobre a lógica do design: que hipótese sobre comportamento parece estar embutida no artefato, que capacidade ele reorganiza, qual relação de poder estabelece, que [[01 conceitos/Promessa|promessa]] de transformação pode ser lida nele e por que pode ter funcionado.
 
-Interpretações devem ser formuladas como interpretações, sem serem apresentadas como intenção comprovada do criador quando não há evidência disso.
+Uma promessa reconstruída pelo projeto é interpretação arqueológica. Só deve ser tratada como promessa histórica explicitamente comunicada quando houver evidência documental. Interpretações não devem ser apresentadas como intenção comprovada do criador quando não há evidência disso.
 
 ### Hipótese em aberto
 
-Relações plausíveis, genealogias especulativas ou perguntas ainda não verificadas. Elas são desejáveis porque movem a investigação, mas devem permanecer claramente marcadas como hipóteses.
+Relações plausíveis, genealogias especulativas ou perguntas ainda não verificadas. Elas são desejáveis porque movem a investigação, mas devem permanecer claramente marcadas como hipóteses. Descendentes possíveis e futuros produzidos projetados para além da evidência disponível pertencem a este regime.
 
 ## Quatro níveis de história
 
@@ -62,6 +74,8 @@ Nunca trate automaticamente o inventor como o responsável pela mudança histór
 3. **Popularização**: momento em que a solução alcança grande número de pessoas.
 4. **Padronização**: momento em que deixa de parecer uma escolha e passa a ser expectativa.
 
+A padronização é especialmente importante para a investigação da promessa: uma capacidade pode começar como benefício e terminar como condição que pessoas e sistemas pressupõem.
+
 Quando houver disputa de autoria, registre as interpretações concorrentes e a razão da disputa.
 
 ## Quatro camadas críticas
@@ -71,9 +85,25 @@ Toda análise profunda deve atravessar quatro dimensões:
 1. **Problema**: o que o artefato tenta resolver ou coordenar.
 2. **Hipótese**: o que ele pressupõe sobre comportamento humano.
 3. **Poder**: quem é fortalecido, enfraquecido, visibilizado ou submetido por sua existência.
-4. **Legado**: quais novos comportamentos, artefatos e expectativas se tornam possíveis.
+4. **Legado**: quais novos comportamentos, artefatos, expectativas e futuros se tornam possíveis.
 
-Perguntas auxiliares: o que ele simplifica? O que esconde? Que inferências elimina? Que responsabilidade transfere? Que comportamento passa a parecer normal depois dele?
+Perguntas auxiliares: o que ele simplifica? O que esconde? Que inferências elimina? Que responsabilidade transfere? Que comportamento passa a parecer normal depois dele? Que futuro prometia? Que futuro produziu? Que obrigação surgiu quando a promessa virou expectativa?
+
+## Genealogia de futuros
+
+Quando houver material suficiente, aplique [[01 conceitos/Genealogia de Futuros|Genealogia de Futuros]]. O objetivo não é prever tecnologias, mas investigar como o sucesso de um artefato altera as condições de possibilidade para os seguintes.
+
+Use como cadeia investigativa:
+
+**problema → promessa → artefato → adoção → hábito → expectativa → norma → infraestrutura → novo problema → nova promessa**
+
+Diferencie **futuro prometido**, a transformação que torna a adoção compreensível, de **futuro produzido**, o mundo que emerge quando práticas e sistemas se reorganizam ao redor da capacidade.
+
+Uma pergunta particularmente fértil é:
+
+> **Se este artefato resolver muito bem seu problema, que novo problema aparecerá justamente por causa desse sucesso?**
+
+Descendência futura deve permanecer explicitamente hipotética quando não houver evidência histórica. O método investiga condições de possibilidade, não destinos inevitáveis.
 
 ## Conceitos e procedência
 
@@ -210,17 +240,18 @@ A estrutura pode variar para preservar a narrativa, mas normalmente deve conter:
 3. tentativas e alternativas;
 4. história documentada da solução;
 5. invenção, refinamento, popularização e padronização;
-6. leitura arqueológica: problema, hipótese, poder e legado;
+6. leitura arqueológica: problema, hipótese, poder e promessa;
 7. consequências inesperadas;
-8. parentes e descendentes;
-9. hipóteses e perguntas em aberto;
-10. ficha arqueológica e referências.
+8. futuro prometido e futuro produzido, quando houver base para a comparação;
+9. parentes, descendentes e novo problema produzido pelo sucesso;
+10. hipóteses e perguntas em aberto;
+11. ficha arqueológica e referências.
 
 ## Regras de escrita
 
 A escrita deve ser formal, clara e investigativa. Parágrafos completos são a unidade principal. Listas entram quando ajudam a comparar, sequenciar ou consultar informação, sem substituir a narrativa por fragmentos.
 
-No português do Brasil, títulos editoriais, headings, rótulos, tabs e nomes genéricos de seção usam sentence case. Isso significa usar maiúscula no início e onde a ortografia exigir, preservando nomes próprios, siglas e grafias oficiais. Exemplos corretos: `História e contexto de criação`, `Ficha arqueológica`, `Conceitos relacionados`. Exemplos a evitar: `História e Contexto de Criação`, `Ficha Arqueológica`, `Conceitos Relacionados`.
+No português do Brasil, títulos editoriais, headings, rótulos, tabs e nomes genéricos de seção usam sentence case. Isso significa usar maiúscula no início e onde a ortografia exigir, preservando nomes próprios, siglas e grafias oficiais.
 
 Nomes próprios e nomes oficiais não devem ser forçados para minúsculas: `Xerox PARC`, `GitHub`, `Jobs to Be Done`, `Value Proposition Ad Lib`, `iPhone` e `Bauhaus` mantêm suas grafias.
 
