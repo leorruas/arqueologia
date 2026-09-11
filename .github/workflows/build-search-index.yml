@@ -32,6 +32,7 @@ on:
       - "scripts/audit-editorial.mjs"
       - "scripts/audit-network.mjs"
       - "scripts/consolidate-unresolved-links.mjs"
+      - "scripts/patch-foucault-genealogy.mjs"
       - ".github/workflows/build-search-index.yml"
   workflow_dispatch:
 
@@ -67,6 +68,10 @@ jobs:
           node --check scripts/audit-editorial.mjs
           node --check scripts/audit-network.mjs
           node --check scripts/consolidate-unresolved-links.mjs
+          node --check scripts/patch-foucault-genealogy.mjs
+
+      - name: Aplicar referência foucaultiana às genealogias
+        run: node scripts/patch-foucault-genealogy.mjs
 
       - name: Normalizar headings estruturais em sentence case
         run: node scripts/normalize-sentence-case.mjs
@@ -101,6 +106,7 @@ jobs:
             "04 genealogias" \
             "05 percursos" \
             autores empresas \
+            me.md "Instrucoes de Arqueologia.md" templates log.md \
             search-index.json link-report.json editorial-report.json network-report.json
           if [ -f "Pistas de pesquisa.md" ]; then
             git add "Pistas de pesquisa.md"
@@ -111,5 +117,5 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "chore: normaliza acervo e atualiza auditorias [skip ci]"
+          git commit -m "chore: propaga referência foucaultiana e atualiza auditorias [skip ci]"
           git push
