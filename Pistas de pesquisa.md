@@ -22,6 +22,15 @@ A presença aqui não obriga a criação de uma nota. Cada pista deve ser avalia
 - **Rascunho**: estudar como uma representação pode existir sem adquirir ainda o estatuto de versão final. É parente tanto de permanência quanto de reversibilidade.
 - **Autosave**: aprofundar a passagem do ritual explícito de salvar para uma infraestrutura que assume continuamente a responsabilidade pela permanência.
 
+## Coleção, anotação e retorno
+
+- **Marcador de página**: investigar a forma física elementar de preservar posição sem alterar o texto; parente direto da metáfora de bookmark, mas não prova por si só uma linhagem histórica contínua até os navegadores.
+- **Sublinhado e marginalia**: estudar a intervenção no próprio suporte como tecnologia de releitura, seleção e diálogo com um texto; distinguir marcar, comentar e reinterpretar.
+- **Marca-texto**: investigar a transformação do destaque em ferramenta dedicada, especialmente a passagem do sublinhado linear para uma camada cromática sobre o texto e sua popularização com highlighters fluorescentes no século XX.
+- **Commonplace book / caderno de lugares-comuns**: estudar a prática de extrair passagens, ideias e observações para uma coleção pessoal organizada para recuperação e reutilização; possível antecedente funcional para sistemas contemporâneos de clipping, bookmarking e personal knowledge management.
+- **Ficha bibliográfica / cartão de índice**: investigar quando uma informação extraída ganha unidade própria, podendo ser classificada, embaralhada e recombinada independentemente da fonte original.
+- **Coleção e curadoria**: hipótese de família conceitual para investigar o momento em que guardar deixa de significar preservar tudo e passa a significar selecionar o que merece voltar à atenção. Pode conectar bookmark, Post-it, diário, portfólio, commonplace books, fichas e práticas de anotação.
+
 ## Portabilidade e desancoragem
 
 - **Chave**: investigar como um objeto pequeno pode transportar capacidade de acesso sem transportar o recurso acessado. Também funciona como artefato de limiar.
