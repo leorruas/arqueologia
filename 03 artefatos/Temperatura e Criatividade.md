@@ -51,6 +51,24 @@ Há também uma simplificação perigosa. Criatividade humana envolve repertóri
 
 Por isso, “criatividade” deve ser entendida aqui como **metáfora de interface**, não como descrição técnica exata nem prova de um estado mental da máquina.
 
+## Quando a metáfora vira mito
+
+[[01 conceitos/Mitologias da IA|Mitologias da IA]] oferece uma lente mais precisa para entender o que acontece quando “criatividade” deixa de soar como tradução e começa a soar como descrição natural da máquina.
+
+Em *Mitologias*, Roland Barthes investiga como construções históricas e culturais podem ser apresentadas como evidentes, naturais, quase sem origem.[^3] O ponto não é simplesmente que existe uma metáfora. É que a metáfora pode se estabilizar a ponto de esconder o trabalho de tradução que a produziu.
+
+No caso da temperatura, a cadeia pode ser lida assim:
+
+**operação probabilística → variabilidade de saída → criatividade → personalidade percebida da máquina**
+
+Cada etapa acrescenta significado. A operação técnica não desaparece, mas passa a sustentar uma leitura cultural muito mais familiar. O usuário deixa de pensar “a distribuição foi tornada mais dispersa” e passa a pensar “a IA está mais criativa”.
+
+Essa naturalização é especialmente poderosa porque resolve um problema real de design: torna uma mecânica abstrata imediatamente operável. Mas, ao mesmo tempo, ela produz uma teoria silenciosa sobre a máquina. O sistema parece possuir uma faculdade psicológica cuja intensidade pode ser regulada.
+
+A leitura barthesiana, portanto, vai além de dizer que a interface antropomorfiza. Ela pergunta: **como o design faz essa antropomorfização parecer apenas uma descrição normal do produto?**
+
+Esse é o ponto em que a interface não apenas representa o sistema. Ela participa da construção cultural do que imaginamos que o sistema é.
+
 ## O parentesco com regenerar
 
 [[03 artefatos/Botao Regenerar|Regenerar]] e temperatura tornam a mesma ruptura perceptível por lados diferentes.
@@ -66,6 +84,8 @@ Juntos, os dois artefatos ensinam uma expectativa historicamente incomum sobre c
 Essa mudança é especialmente importante porque desloca o critério de qualidade. Em computação determinística, previsibilidade costuma ser desejável. Em tarefas generativas, alguma variação pode ser justamente a propriedade procurada.
 
 A interface passa, portanto, a desenhar não apenas ações, mas **graus de indeterminação aceitável**.
+
+Há ainda uma afinidade semiótica. No botão regenerar, uma nova amostragem pode ser lida como “reconsideração”. Na temperatura, uma distribuição mais dispersa pode ser lida como “criatividade”. Em ambos os casos, operações probabilísticas passam a caber dentro de categorias cognitivas humanas.
 
 ## Ficha arqueológica
 | Campo | Registro |
@@ -85,20 +105,22 @@ A interface passa, portanto, a desenhar não apenas ações, mas **graus de inde
 | **Hipótese de design** | Usuários podem controlar uma propriedade estatística complexa por meio de uma escala semântica ligada ao resultado que desejam |
 | **Comportamento aproveitado** | Regular intensidade, escolher entre segurança e exploração e trabalhar com variações |
 | **Comportamento produzido** | Pensar a máquina como mais ou menos “criativa” e configurar deliberadamente graus de imprevisibilidade |
-| **Relação de poder** | Simplifica acesso à configuração, mas a metáfora pode ocultar a mecânica e impor uma interpretação antropomórfica do que o controle realmente faz |
-| **Consequências inesperadas** | Confusão entre diversidade estatística e criatividade humana; percepção de personalidade produzida por parâmetros de geração |
+| **Relação de poder** | Simplifica acesso à configuração, mas a metáfora pode ocultar a mecânica, impor uma interpretação antropomórfica e naturalizar uma teoria sobre o que a máquina “é” |
+| **Consequências inesperadas** | Confusão entre diversidade estatística e criatividade humana; percepção de personalidade produzida por parâmetros de geração; naturalização cultural da criatividade como propriedade regulável da máquina |
 | **Destino ou transformação posterior** | Tendência a substituir parâmetros técnicos por controles semânticos, presets e escolhas automáticas feitas pelo próprio sistema |
-| **Conceitos relacionados** | [[01 conceitos/Antropomorfismo|Antropomorfismo]], probabilidade, amostragem, diversidade, metáfora de interface |
+| **Conceitos relacionados** | [[01 conceitos/Antropomorfismo|Antropomorfismo]], [[01 conceitos/Mitologias da IA|Mitologias da IA]], probabilidade, amostragem, diversidade, metáfora de interface, naturalização |
 | **Variáveis relacionadas** | previsibilidade, diversidade de saída, transparência do mecanismo |
 | **Genealogia** | controles de intensidade, sliders, presets, instrumentos que traduzem mecanismos técnicos em escalas operáveis |
 | **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | [[03 artefatos/Botao Regenerar|Botão regenerar]], controle de volume, termostato, presets |
-| **Leituras-chave** | Holtzman et al. (2020); Zhang et al. (2020) |
-| **Princípio de design revelado** | Interfaces tornam mecanismos abstratos operáveis ao traduzi-los em categorias humanas, mas toda tradução também enquadra como o mecanismo será compreendido |
-| **Questão em aberto** | Como oferecer controle sobre variabilidade sem fazer diversidade estatística parecer equivalente a criatividade humana? |
+| **Leituras-chave** | Holtzman et al. (2020); Zhang et al. (2020); Barthes (1957) |
+| **Princípio de design revelado** | Interfaces tornam mecanismos abstratos operáveis ao traduzi-los em categorias humanas; quando essa tradução se naturaliza, ela também ensina uma teoria cultural sobre a máquina |
+| **Questão em aberto** | Como oferecer controle sobre variabilidade sem fazer diversidade estatística parecer equivalente a criatividade humana — ou a metáfora parecer uma descrição literal da máquina? |
 
 ## Referências
 
 [^1]: Holtzman, Ari et al. “The Curious Case of Neural Text Degeneration”. *ICLR*, 2020. O estudo demonstra que a estratégia de decodificação altera fortemente diversidade, repetição e qualidade e apresenta nucleus sampling como alternativa a estratégias determinísticas de máxima probabilidade.
 
 [^2]: Zhang, Hugh et al. “Trading Off Diversity and Quality in Natural Language Generation”. 2020. O trabalho analisa geração como equilíbrio entre qualidade e diversidade e compara procedimentos de decodificação ao longo desse espectro.
+
+[^3]: Barthes, Roland. *Mythologies*. Paris: Éditions du Seuil, 1957. A conexão aqui usa a análise do mito como sistema de significação que naturaliza construções históricas e culturais.
