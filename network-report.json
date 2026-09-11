@@ -1,11 +1,10 @@
 {
-  "generatedAt": "2026-09-11T00:39:56.156Z",
+  "generatedAt": "2026-09-11T00:41:29.703Z",
   "scope": "Integração do grafo: títulos duplicados dentro da mesma camada, índices, home, reciprocidade estrutural, tipos de design e nós órfãos. Conceitos e variáveis não exigem backlink exaustivo.",
-  "issueCount": 14,
+  "issueCount": 12,
   "countsByKind": {
     "missing-from-index": 2,
-    "missing-reciprocal-link": 9,
-    "orphan-node": 1,
+    "missing-reciprocal-link": 8,
     "design-type-drift": 2
   },
   "issues": [
@@ -42,12 +41,6 @@
     {
       "kind": "missing-reciprocal-link",
       "sourcePath": "03 artefatos/Badge de notificacao.md",
-      "targetPath": "04 genealogias/Atencao e Recompensa.md",
-      "detail": "A ficha liga para 04 genealogias/Atencao e Recompensa.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "missing-reciprocal-link",
-      "sourcePath": "03 artefatos/Badge de notificacao.md",
       "targetPath": "04 genealogias/Permanencia e Memoria Externa.md",
       "detail": "A ficha liga para 04 genealogias/Permanencia e Memoria Externa.md, mas a nota relacionada não devolve o vínculo."
     },
@@ -74,12 +67,6 @@
       "sourcePath": "03 artefatos/Favorito Bookmark.md",
       "targetPath": "05 percursos/Como o Design Aprendeu a Guardar.md",
       "detail": "A ficha liga para 05 percursos/Como o Design Aprendeu a Guardar.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "orphan-node",
-      "sourcePath": "03 artefatos/Badge de notificacao.md",
-      "targetPath": null,
-      "detail": "Nota sem links de entrada a partir do acervo auditado."
     },
     {
       "kind": "design-type-drift",
