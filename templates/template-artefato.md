@@ -11,7 +11,7 @@ tags:
 
 [Abra com uma cena, tensão, gesto ou problema concreto. O primeiro movimento deve criar uma pergunta, não apresentar uma ficha ou definição enciclopédica.]
 
-[Desenvolva o estudo como uma investigação contínua. Use de três a cinco seções editoriais com títulos próprios em sentence case. Os títulos devem avançar o argumento, não nomear campos metodológicos. Evite transformar “problema”, “hipótese”, “poder”, “legado”, “invenção”, “refinamento”, “popularização” e “padronização” em subtítulos automáticos. Essas dimensões continuam obrigatórias quando relevantes, mas devem aparecer dentro da narrativa.]
+[Desenvolva o estudo como uma investigação contínua. Use de três a cinco seções editoriais com títulos próprios em sentence case. Os títulos devem avançar o argumento, não nomear campos metodológicos. Evite transformar “problema”, “hipótese”, “poder”, “legado”, “invenção”, “refinamento”, “popularização” e “padronização” em subtítulos automáticos.]
 
 ## [Título editorial que revela a primeira mudança]
 
@@ -23,13 +23,13 @@ tags:
 
 [Explique a mudança de design com exemplos concretos. Compare alternativas contemporâneas quando isso ajudar a entender por que uma solução venceu, desapareceu ou mudou de função.]
 
-[Integre a hipótese sobre comportamento humano à narrativa. Discuta também quem ganhou ou perdeu capacidade de agir, decidir, acessar, interpretar, controlar ou evitar erros.]
+[Integre a hipótese sobre comportamento humano à narrativa. Discuta também quem ganhou ou perdeu capacidade de agir, decidir, acessar, interpretar, controlar ou evitar erros. Quando útil, diferencie função de [[01 conceitos/Promessa|promessa]]: o que o artefato faz e que transformação de mundo torna imaginável.]
 
 ## [Título editorial que revela a transformação posterior]
 
 [Mostre popularização e padronização sem assumir que quem inventou foi quem mudou a história. Explore novos hábitos, consequências inesperadas, descendentes e o destino atual do artefato.]
 
-[Quando fizer sentido, aplique [[01 conceitos/Genealogia de Futuros|Genealogia de Futuros]]: que comportamento ficou mais barato, que expectativa nova surgiu, que problema foi produzido pelo próprio sucesso do artefato e que descendentes se tornaram possíveis. Não trate isso como previsão; descreva cadeias plausíveis de condição de possibilidade.]
+[Quando fizer sentido, aplique [[01 conceitos/Genealogia de Futuros|Genealogia de Futuros]]. Compare futuro prometido e futuro produzido; investigue quando uma promessa virou expectativa, que norma ou obrigação apareceu e que problema foi produzido pelo próprio sucesso. Não trate isso como previsão; descreva cadeias plausíveis de condição de possibilidade.]
 
 [Conecte parentes históricos, funcionais, semióticos ou comportamentais em prosa. Quando a relação for apenas uma hipótese comparativa do projeto, diga isso explicitamente.]
 
@@ -52,11 +52,15 @@ tags:
 | **Popularização** | [Quem ampliou a exposição ou o uso] |
 | **Padronização** | [Como virou convenção, expectativa ou norma] |
 | **Hipótese de design** | [Pressuposto sobre comportamento humano] |
+| **Promessa** | [Que transformação de mundo o artefato oferecia ou tornava imaginável; marque como interpretação quando não for promessa histórica documentada] |
 | **Comportamento aproveitado** | [Comportamento preexistente] |
 | **Comportamento produzido** | [Novo hábito ou expectativa] |
 | **Relação de poder** | [O que redistribui entre pessoas, instituições e sistemas] |
 | **Consequências inesperadas** | [Efeitos posteriores] |
 | **Destino ou transformação posterior** | [Desapareceu, foi incorporado, automatizado, coexiste etc.] |
+| **Futuro prometido** | [Estado de mundo que justificava ou tornava compreensível a adoção] |
+| **Futuro produzido** | [Condições que emergiram quando práticas e sistemas se reorganizaram ao redor da capacidade] |
+| **Quando a promessa virou expectativa** | [Momento, processo ou evidência de normalização; não preencher como fato sem base] |
 | **Futuro tornado mais provável** | [Que condição futura ganhou plausibilidade porque este artefato se tornou comum] |
 | **Descendentes possíveis** | [Artefatos, serviços, sistemas ou comportamentos que dependem das capacidades/expectativas criadas aqui] |
 | **Novo problema produzido pelo sucesso** | [Que tensão aparece quando a hipótese deste artefato vence] |
