@@ -23,7 +23,9 @@ O **Google** (Alphabet Inc.) é uma empresa multinacional de tecnologia especial
 - **Google Search (1998)**: Página inicial icônica por sua extrema simplicidade e eficiência na indexação da web.
 - **Gmail (2004)**: Redefiniu o e-mail online ao introduzir o conceito de armazenamento em massa e a substituição das pastas pelo botão [[Archive|Archive (Arquivar)]] e busca inteligente.
 - **Google Maps (2005)**: Revolucionou a cartografia digital e a navegação interativa na web.
+- **Android 8.0 (2017)**: incorporou suporte de plataforma a *notification dots* nos ícones de aplicativos, um refinamento da família do [[03 artefatos/Badge de notificacao|Badge de notificação]] que sinaliza presença de notificações sem exigir um contador numérico.
 
 ## Referências e leituras
 - **Site oficial**: https://www.google.com
 - **Diretrizes de Design**: https://material.io
+- **Android 8.0 — notification dots**: https://developer.android.com/about/versions/oreo/android-8.0
