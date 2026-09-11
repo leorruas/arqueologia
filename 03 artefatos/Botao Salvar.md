@@ -136,11 +136,8 @@ O sucesso, porém, produz outro problema. Se tudo pode ser preservado automatica
 | **Comportamento aproveitado** | Externalizar memória e preservar objetos importantes |
 | **Comportamento produzido** | Ritual recorrente de salvar durante o trabalho |
 | **Relação de poder** | Oferece controle explícito, mas transfere ao usuário a responsabilidade por lembrar de preservar |
-| **Consequências inesperadas** | O disquete sobrevive como signo depois do desaparecimento cotidiano do suporte físico |
+| **Consequências inesperadas** | O disquete sobrevive como signo depois do desaparecimento cotidiano do suporte físico Registros adicionais preservados da ficha anterior: futuro tornado mais provavel: Sistemas em que processos inteiros, e não apenas resultados finais, permanecem recuperáveis; descendentes possiveis: Autosave, histórico de versões, versionamento, recuperação contínua e sistemas com memória contextual persistente; novo problema produzido pelo sucesso: Quando tudo permanece, torna-se necessário redesenhar fechamento, esquecimento, autoria e fronteiras entre versões |
 | **Destino ou transformação posterior** | Autosave e histórico de versões transferem parte da responsabilidade para a infraestrutura |
-| **Futuro tornado mais provável** | Sistemas em que processos inteiros, e não apenas resultados finais, permanecem recuperáveis |
-| **Descendentes possíveis** | Autosave, histórico de versões, versionamento, recuperação contínua e sistemas com memória contextual persistente |
-| **Novo problema produzido pelo sucesso** | Quando tudo permanece, torna-se necessário redesenhar fechamento, esquecimento, autoria e fronteiras entre versões |
 | **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Continuidade de Acesso|Continuidade de acesso]], [[01 conceitos/Genealogia de Futuros|Genealogia de Futuros]] |
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Custo do Erro|Custo do erro]], [[02 variaveis/Reversibilidade|Reversibilidade]] |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] |
