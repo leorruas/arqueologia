@@ -114,11 +114,10 @@ A assinatura gráfica pode permanecer como símbolo cultural da vontade. A prova
 | **Comportamento aproveitado** | Reconhecimento de marcas pessoais e uso social de rituais de compromisso |
 | **Comportamento produzido** | Assinar e rubricar como gesto convencional de concluir ou validar determinados atos |
 | **Relação de poder** | Permite que instituições atribuam atos e obrigações a agentes ausentes; também dá ao indivíduo uma forma portátil de manifestar adoção ou consentimento |
-| **Consequências inesperadas** | A assinatura pode tornar-se ritual automático e ser confundida com prova de leitura ou compreensão; sistemas podem concentrar excessiva confiança na autenticidade do sinal |
+| **Consequências inesperadas** | A assinatura pode tornar-se ritual automático e ser confundida com prova de leitura ou compreensão; sistemas podem concentrar excessiva confiança na autenticidade do sinal Registros adicionais preservados da ficha anterior: autores relacionados: [[autores/Paul Ricoeur|Paul Ricoeur]]: ipseidade, promessa e responsabilidade através do tempo |
 | **Destino ou transformação posterior** | A forma manuscrita continua ativa, mas coexiste com mecanismos eletrônicos e criptográficos que deslocam parte da confiança para infraestrutura invisível |
 | **Conceitos relacionados** | [[01 conceitos/Limiares|Limiares]], [[01 conceitos/Justificabilidade|Justificabilidade]], [[01 conceitos/Redução de Inferências|Redução de Inferências]], [[01 conceitos/Promessa|Promessa]] |
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Reversibilidade|Reversibilidade]], [[02 variaveis/Legitimidade Decisoria|Legitimidade Decisória]] |
-| **Autores relacionados** | [[autores/Paul Ricoeur|Paul Ricoeur]]: ipseidade, promessa e responsabilidade através do tempo |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]], [[04 genealogias/Limiares e Delimitacao|Limiares e delimitação]]. Família de ideias: artefatos de identidade, autoria e compromisso |
 | **Percurso(s)** | [[05 percursos/Como o Design Aprendeu a Guardar|Como o Design Aprendeu a Guardar]] |
 | **Parentes** | [[03 artefatos/Carimbo|Carimbo]], [[03 artefatos/Login|Login]], [[03 artefatos/Tela de Login|Tela de Login]], selo, sinete e assinatura digital |
