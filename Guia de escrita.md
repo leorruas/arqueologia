@@ -142,9 +142,13 @@ Semelhança funcional não implica descendência histórica.
 
 Criar `[[wikilink]]` apenas quando a nota de destino existir. Um link comunica ao leitor e ao grafo que há conteúdo disponível naquele destino; portanto, não deve funcionar como marcador de uma intenção futura.
 
-Quando uma pessoa, empresa, conceito ou artefato ainda não tiver nota, manter a expressão como texto simples. Se ela tiver valor potencial para investigações futuras, registrá-la em `Pistas de pesquisa.md`.
+Quando uma pessoa, empresa, conceito, relação ou artefato ainda não tiver nota, manter a expressão como texto simples. Se ela tiver valor potencial para investigações futuras, registrá-la em `Pistas de pesquisa.md`.
 
-Uma pista não é uma promessa de estudo. Ela é apenas uma possibilidade preservada para avaliação posterior.
+`Pistas de pesquisa.md` é uma memória editorial acumulativa, não um relatório descartável de links quebrados. Uma pista registrada permanece até que exista uma decisão explícita sobre seu destino. Ela pode ser promovida a estudo, fundida com uma pista mais adequada ou descartada com justificativa; não deve desaparecer porque uma automação foi executada, porque o link de origem deixou de existir ou porque o grafo atual está limpo.
+
+A automação pode acrescentar candidatos detectados mecanicamente, mas deve mantê-los numa seção separada e nunca substituir as pistas curadas. Pistas manuais registram **perguntas que queremos continuar capazes de fazer**, mesmo quando ainda não sabemos que tipo de nota elas poderão se tornar.
+
+Uma pista não é uma promessa de estudo. Ela é uma possibilidade preservada para avaliação posterior.
 
 ## Propagação de governança
 
@@ -185,4 +189,5 @@ Antes de considerar um estudo publicado, verificar:
 - ficha padronizada quando o tipo de nota possuir ficha;
 - tipos de design escritos como ensaios disciplinares, sem estrutura enciclopédica de pioneiros/marcos/empresas;
 - percursos escritos como argumentos entre estudos, sem sequência de resumos isolados;
+- perguntas e relações promissoras ainda sem nota preservadas em `Pistas de pesquisa.md`;
 - comparação com o inventário da versão anterior para evitar perda de conteúdo.
