@@ -123,11 +123,8 @@ O novo problema produzido pelo sucesso é de legibilidade e confiança. Se qualq
 | **Comportamento aproveitado** | Apresentar um marcador a um dispositivo de leitura; posteriormente, apontar a câmera do celular |
 | **Comportamento produzido** | Esperar que superfícies físicas possam abrir ações e conteúdos digitais |
 | **Relação de poder** | Ainda não explicitado. |
-| **Consequências inesperadas** | Registros adicionais preservados da ficha anterior: produto/contexto inicial: Identificação automática e rastreamento em contexto industrial |
+| **Consequências inesperadas** | Registros adicionais preservados da ficha anterior: produto/contexto inicial: Identificação automática e rastreamento em contexto industrial Registros adicionais preservados da ficha anterior: futuro tornado mais provavel: Ambientes em que objetos e superfícies físicas funcionam como índices para camadas digitais acessadas por percepção computacional; descendentes possiveis: Reconhecimento visual sem marcador, interfaces espaciais, câmera como interface universal e objetos físicos com serviços digitais contextuais; novo problema produzido pelo sucesso: Quanto mais invisível a ponte físico-digital, maior a necessidade de indicar ação, destino, consentimento e responsabilidade |
 | **Destino ou transformação posterior** | Em aberto: amplamente padronizado, mas potencialmente incorporável a sistemas mais gerais de visão computacional Legado: Ajudou a transformar objetos impressos e espaços físicos em pontos de entrada para sistemas digitais |
-| **Futuro tornado mais provável** | Ambientes em que objetos e superfícies físicas funcionam como índices para camadas digitais acessadas por percepção computacional |
-| **Descendentes possíveis** | Reconhecimento visual sem marcador, interfaces espaciais, câmera como interface universal e objetos físicos com serviços digitais contextuais |
-| **Novo problema produzido pelo sucesso** | Quanto mais invisível a ponte físico-digital, maior a necessidade de indicar ação, destino, consentimento e responsabilidade |
 | **Conceitos relacionados** | identificação automática, correção de erros, mediação, continuidade entre físico e digital, legibilidade computacional, [[01 conceitos/Genealogia de Futuros|Genealogia de Futuros]] |
 | **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | Ainda não explicitado. |
