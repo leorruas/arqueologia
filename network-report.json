@@ -1,7 +1,49 @@
 {
-  "generatedAt": "2026-09-11T00:20:22.983Z",
+  "generatedAt": "2026-09-11T00:39:11.469Z",
   "scope": "Integração do grafo: títulos duplicados dentro da mesma camada, índices, home, reciprocidade estrutural, tipos de design e nós órfãos. Conceitos e variáveis não exigem backlink exaustivo.",
-  "issueCount": 0,
-  "countsByKind": {},
-  "issues": []
+  "issueCount": 6,
+  "countsByKind": {
+    "missing-from-index": 1,
+    "missing-reciprocal-link": 3,
+    "orphan-node": 1,
+    "design-type-drift": 1
+  },
+  "issues": [
+    {
+      "kind": "missing-from-index",
+      "sourcePath": "03 artefatos/Favorito Bookmark.md",
+      "targetPath": "00 índices/Indice de Artefatos.md",
+      "detail": "Arquivo não aparece em 00 índices/Indice de Artefatos.md."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Favorito Bookmark.md",
+      "targetPath": "00 tipos de design/Design de Interface.md",
+      "detail": "A ficha liga para 00 tipos de design/Design de Interface.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Favorito Bookmark.md",
+      "targetPath": "04 genealogias/Permanencia e Memoria Externa.md",
+      "detail": "A ficha liga para 04 genealogias/Permanencia e Memoria Externa.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Favorito Bookmark.md",
+      "targetPath": "05 percursos/Como o Design Aprendeu a Guardar.md",
+      "detail": "A ficha liga para 05 percursos/Como o Design Aprendeu a Guardar.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "orphan-node",
+      "sourcePath": "03 artefatos/Favorito Bookmark.md",
+      "targetPath": null,
+      "detail": "Nota sem links de entrada a partir do acervo auditado."
+    },
+    {
+      "kind": "design-type-drift",
+      "sourcePath": "03 artefatos/Favorito Bookmark.md",
+      "targetPath": "00 tipos de design/Design de Interface.md",
+      "detail": "Artefato declara 00 tipos de design/Design de Interface.md, mas o tipo de design não o referencia."
+    }
+  ]
 }
