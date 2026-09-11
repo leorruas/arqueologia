@@ -33,6 +33,10 @@ O Post-it cria uma relação diferente entre informação e lugar. A nota pode s
 
 Essa é uma forma simples de [[01 conceitos/Memoria Distribuida|memória distribuída]]. Parte da tarefa de lembrar sai da mente e passa para o ambiente. O produto aproveita um comportamento muito antigo, externalizar memória por marcas e objetos, mas reduz o custo de mover essa memória de lugar.
 
+O parentesco com [[03 artefatos/Favorito Bookmark|favorito / bookmark]] ajuda a tornar a operação mais precisa. Ambos selecionam algo presente para que possa voltar à atenção no futuro, mas fazem isso de maneiras diferentes. O bookmark preserva principalmente **um caminho de retorno** a algo externo; o Post-it pode preservar **uma camada de comentário junto da coisa**, acrescentando pergunta, interpretação, instrução ou aviso ao próprio contexto de reencontro.
+
+Essa diferença o aproxima também de práticas como sublinhado, marginalia e marca-texto. Sublinhado e destaque modificam perceptivamente o próprio suporte. O Post-it mantém a anotação separada e removível. O que muda não é apenas permanência, mas **onde a seleção e a interpretação passam a morar**.
+
 A [[02 variaveis/Permanencia|permanência]] é particularmente interessante porque o Post-it funciona em um intervalo intermediário. Ele é mais persistente que uma lembrança mental e menos definitivo que escrever diretamente sobre a superfície. A [[02 variaveis/Reversibilidade|reversibilidade]] também é alta: a nota pode mudar de posição, ordem ou agrupamento sem que seu conteúdo precise ser refeito.
 
 Essa combinação ajuda a explicar por que o produto saiu do domínio do lembrete individual e entrou em práticas coletivas. Equipes passaram a usar notas reposicionáveis para agrupar ideias, reorganizar sequências, mapear fluxos e visualizar trabalho. Kanbans físicos, oficinas e práticas posteriormente associadas ao design thinking encontraram no Post-it um material conveniente porque pensar e reorganizar podiam acontecer no mesmo suporte.
@@ -65,8 +69,8 @@ Talvez a decisão mais importante do Post-it seja esta: ele tornou barato tratar
 | **Popularização** | Introdução comercial ampla em 1980 e expansão posterior do produto |
 | **Padronização** | A nota adesiva reposicionável tornou-se uma categoria reconhecível de material de escritório e organização |
 | **Hipótese de design** | Uma informação temporária se torna mais útil quando pode ocupar o próprio ambiente em que será necessária |
-| **Comportamento aproveitado** | Externalizar lembranças e usar o espaço físico como apoio cognitivo |
-| **Comportamento produzido** | Reposicionar, agrupar e mapear visualmente pequenas unidades de informação individual e coletivamente |
+| **Comportamento aproveitado** | Externalizar lembranças, marcar passagens e usar o espaço físico como apoio cognitivo |
+| **Comportamento produzido** | Reposicionar, agrupar, comentar e mapear visualmente pequenas unidades de informação individual e coletivamente |
 | **Relação de poder** | Amplia capacidade de reorganizar informação sem ferramentas especializadas; em grupos, também pode favorecer quem controla a superfície e a síntese final |
 | **Consequências inesperadas** | Uso em brainstorming, Kanban e oficinas; possível fragmentação do pensamento em unidades pequenas; riscos de conservação em alguns materiais |
 | **Destino ou transformação posterior** | Continua como produto físico e foi reinterpretado em cartões e notas móveis de ferramentas digitais |
@@ -74,7 +78,7 @@ Talvez a decisão mais importante do Post-it seja esta: ele tornou barato tratar
 | **Variáveis relacionadas** | [[02 variaveis/Reversibilidade|Reversibilidade]], [[02 variaveis/Permanencia|Permanência]] |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]], [[04 genealogias/Reversibilidade e Custo do Erro|Reversibilidade e custo do erro]] |
 | **Percurso(s)** | [[05 percursos/Como o Design Aprendeu a Guardar|Como o Design Aprendeu a Guardar]] |
-| **Parentes** | [[03 artefatos/Quadro Branco|Quadro branco]], Kanban físico; parentes digitais comparativos incluem Miro, FigJam e Trello |
+| **Parentes** | [[03 artefatos/Quadro Branco|Quadro branco]], [[03 artefatos/Favorito Bookmark|Favorito / bookmark]], Kanban físico; sublinhado, marginalia e marca-texto como parentes de anotação ainda sem estudo próprio; parentes digitais comparativos incluem Miro, FigJam e Trello |
 | **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Um suporte pode mudar a forma do pensamento ao tornar registro e reorganização parte da mesma operação |
 | **Questão em aberto** | Quanto a popularidade das notas móveis influenciou a tendência de decompor problemas complexos em unidades curtas e rearranjáveis? |
