@@ -29,6 +29,8 @@ tags:
 
 [Mostre popularização e padronização sem assumir que quem inventou foi quem mudou a história. Explore novos hábitos, consequências inesperadas, descendentes e o destino atual do artefato.]
 
+[Quando fizer sentido, aplique [[01 conceitos/Genealogia de Futuros|Genealogia de Futuros]]: que comportamento ficou mais barato, que expectativa nova surgiu, que problema foi produzido pelo próprio sucesso do artefato e que descendentes se tornaram possíveis. Não trate isso como previsão; descreva cadeias plausíveis de condição de possibilidade.]
+
 [Conecte parentes históricos, funcionais, semióticos ou comportamentais em prosa. Quando a relação for apenas uma hipótese comparativa do projeto, diga isso explicitamente.]
 
 [Termine a narrativa com uma pergunta ou tensão que permaneça produtiva.]
@@ -55,6 +57,9 @@ tags:
 | **Relação de poder** | [O que redistribui entre pessoas, instituições e sistemas] |
 | **Consequências inesperadas** | [Efeitos posteriores] |
 | **Destino ou transformação posterior** | [Desapareceu, foi incorporado, automatizado, coexiste etc.] |
+| **Futuro tornado mais provável** | [Que condição futura ganhou plausibilidade porque este artefato se tornou comum] |
+| **Descendentes possíveis** | [Artefatos, serviços, sistemas ou comportamentos que dependem das capacidades/expectativas criadas aqui] |
+| **Novo problema produzido pelo sucesso** | [Que tensão aparece quando a hipótese deste artefato vence] |
 | **Conceitos relacionados** | [[01 conceitos/|Conceito]] |
 | **Variáveis relacionadas** | [[02 variaveis/|Variável]] |
 | **Genealogia** | [[04 genealogias/|Genealogia]] |
