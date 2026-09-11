@@ -56,6 +56,18 @@ O ganho também contém risco. Uma narrativa escrita pode adquirir uma autoridad
 
 Assim, permanência pode estabilizar uma interpretação provisória.
 
+## Continuar sendo alguém sem continuar igual
+
+[[autores/Paul Ricoeur|Paul Ricoeur]] permite dar um passo além da memória e tratar o diário como artefato de **identidade narrativa**. Em *Temps et récit* e *Soi-même comme un autre*, ele investiga como a identidade de uma pessoa pode permanecer inteligível através de mudanças sem depender da ideia de que ela continua sempre igual.[^3][^4]
+
+Essa distinção muda a leitura do diário. Uma sequência de entradas não prova que existe um “eu” imóvel por trás delas. Pelo contrário: ela pode tornar visível que a pessoa muda de desejos, interpretações, relações e projetos. A continuidade aparece porque esses acontecimentos podem ser configurados como pertencentes a uma mesma história.
+
+O diário, então, faz algo diferente de um documento de identidade ou de um [[03 artefatos/Login|login]]. Esses artefatos precisam reconhecer **o mesmo agente** por sinais suficientemente estáveis. O diário pode permitir reconhecer **quem alguém foi se tornando** justamente através das diferenças entre uma entrada e outra.
+
+Isso ajuda a formular uma hipótese de design mais precisa: **o diário não estabiliza a pessoa; estabiliza rastros suficientes para que a mudança possa ser narrada como continuidade**.
+
+A consequência é ambivalente. Reler entradas antigas pode ampliar autoconhecimento ao revelar descontinuidades que a memória atual apagou. Mas também pode produzir uma narrativa excessivamente coerente, como se cada acontecimento tivesse conduzido inevitavelmente ao presente. A configuração narrativa torna a vida legível e, ao fazer isso, também edita sua contingência.
+
 ## Do registro voluntário ao rastreamento automático
 
 O diário exige um gesto explícito: parar e registrar.
@@ -65,6 +77,8 @@ Aplicativos de tracking transformam essa relação. Gastos, passos, localizaçã
 O parentesco é funcional, não histórico. Nos dois casos, comportamento passado retorna como representação. Mas o diário preserva grande parte da autoria do registro: a pessoa escolhe o que merece virar entrada. No tracking automático, a infraestrutura escolhe ou pré-define o que será medido.
 
 Essa diferença muda a relação de poder. **Quem escolhe as categorias decide qual passado será visível depois.**
+
+Ela também muda a forma da identidade produzida. O diário tende a devolver episódios em linguagem narrativa. O tracker devolve séries, frequências e padrões. Um pergunta “o que aconteceu comigo e o que isso significou?”. O outro frequentemente pergunta “o que se repete no meu comportamento?”.
 
 É por isso que o diário merece estar no percurso [[05 percursos/Como o Design Aprendeu a Guardar|Como o design aprendeu a guardar]]. Ele marca uma transformação importante: guardar deixa de ser apenas conservar objetos e passa a significar **preservar experiência em forma consultável**.
 
@@ -89,15 +103,16 @@ A pergunta que sobra é: quando registramos para não esquecer, quanto daquilo q
 | **Comportamento aproveitado** | Narrar acontecimentos, selecionar experiências e usar escrita para memória e reflexão |
 | **Comportamento produzido** | Registrar rotineiramente, reler a própria experiência, formar coleções pessoais de registros e reconhecer padrões retrospectivos |
 | **Relação de poder** | O autor escolhe o que registrar e omitir; quando o diário é publicado, arquivado ou apreendido, um objeto privado pode tornar-se fonte para outros |
-| **Consequências inesperadas** | A versão escrita pode estabilizar interpretações provisórias e influenciar memórias futuras; registros privados podem ganhar vida pública |
+| **Consequências inesperadas** | A versão escrita pode estabilizar interpretações provisórias, influenciar memórias futuras e produzir uma coerência retrospectiva que o vivido não possuía |
 | **Destino ou transformação posterior** | Coexiste com blogs, apps de journaling e sistemas automáticos de tracking |
-| **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Servico de Reflexao|Serviço de reflexão]], [[01 conceitos/Investigação|Investigação]] |
+| **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Servico de Reflexao|Serviço de reflexão]], [[01 conceitos/Investigação|Investigação]]; identidade narrativa como lente comparativa |
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Reversibilidade|Reversibilidade]] |
+| **Autores relacionados** | [[autores/Paul Ricoeur|Paul Ricoeur]]: identidade narrativa, mesmidade e ipseidade |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] |
 | **Percurso(s)** | [[05 percursos/Como o Design Aprendeu a Guardar|Como o Design Aprendeu a Guardar]] |
-| **Parentes** | [[03 artefatos/Calendário|Calendário]], [[03 artefatos/Post-it|Post-it]], [[03 artefatos/Favorito Bookmark|Favorito / bookmark]]; commonplace book, ficha bibliográfica e cartão de índice como parentes comparativos ainda sem estudo próprio; tracker financeiro e log como parentes em outras formas de registro |
-| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
-| **Princípio de design revelado** | Externalizar experiência não apenas preserva memória; cria uma superfície sobre a qual a própria experiência pode ser reinterpretada |
+| **Parentes** | [[03 artefatos/Calendário|Calendário]], [[03 artefatos/Post-it|Post-it]], [[03 artefatos/Favorito Bookmark|Favorito / bookmark]], [[03 artefatos/Portfólio|Portfólio]]; commonplace book, ficha bibliográfica e cartão de índice como parentes comparativos ainda sem estudo próprio; tracker financeiro e log como parentes em outras formas de registro |
+| **Leituras-chave** | [[00 índices/Livros Indicados|Time and Narrative]], [[00 índices/Livros Indicados|Oneself as Another]] |
+| **Princípio de design revelado** | Externalizar experiência não apenas preserva memória; cria uma superfície sobre a qual mudança pode ser reorganizada como continuidade narrativa |
 | **Questão em aberto** | Quanto do passado recuperado por um diário pertence ao acontecimento e quanto pertence à forma como o registro ensinou o autor a narrá-lo? |
 
 ## Referências
@@ -105,3 +120,7 @@ A pergunta que sobra é: quando registramos para não esquecer, quanto daquilo q
 [^1]: Library of Congress. “H 1538 Diaries”. Define diários como registros de experiências, observações, pensamentos ou sentimentos mantidos diária ou frequentemente, em geral como auxílio à memória ou reflexão. https://www.loc.gov/aba/publications/FreeSHM/H1538.pdf
 
 [^2]: Library of Congress. “Personal Narrative”, exposição *Collecting Memories: Treasures from the Library of Congress*. Discute diários como registros íntimos que preservam escolhas do que lembrar e omitir e que podem posteriormente servir para interpretar o passado. https://www.loc.gov/exhibitions/treasures-from-the-library-of-congress/about-this-exhibition/personal-narrative/
+
+[^3]: Ricoeur, Paul. *Temps et récit*. 3 vols. Paris: Seuil, 1983–1985. Tradução inglesa: *Time and Narrative*. Chicago: University of Chicago Press, 1984–1988. Usado aqui como referência para a relação entre temporalidade, configuração narrativa e inteligibilidade da experiência.
+
+[^4]: Ricoeur, Paul. *Soi-même comme un autre*. Paris: Seuil, 1990. Tradução inglesa: *Oneself as Another*, trad. Kathleen Blamey. Chicago: University of Chicago Press, 1992. Usado aqui para distinguir mesmidade, ipseidade e identidade narrativa.
