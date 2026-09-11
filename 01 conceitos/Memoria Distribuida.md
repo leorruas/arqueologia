@@ -23,6 +23,10 @@ Um [[03 artefatos/Post-it|Post-it]] reduz a necessidade de manter uma intenção
 
 O [[03 artefatos/Calendário|Calendário]] faz algo ainda maior: permite que compromissos futuros existam numa estrutura externa compartilhada. Não é preciso que todos mantenham mentalmente as mesmas datas; precisam saber consultar a mesma referência.
 
+O [[03 artefatos/Favorito Bookmark|Favorito / bookmark]] torna literal outra forma de memória distribuída: não é preciso recordar o endereço nem reconstruir a sequência de links se o navegador preserva uma referência de retorno. O sistema não guarda necessariamente aquilo de que queremos lembrar; pode guardar apenas **onde procurar de novo**.
+
+O [[03 artefatos/Badge de notificacao|Badge de notificação]] distribui memória em outra direção. Em vez de o usuário registrar deliberadamente uma intenção futura, o sistema preserva um sinal de que existe algo ainda não tratado. Isso mostra que externalizar memória também levanta uma pergunta de agência: **quem decidiu o que deveria continuar sendo lembrado?**
+
 Na [[03 artefatos/Fila|Fila]], a posição dos corpos preserva a ordem de chegada. Não existe necessariamente um indivíduo central memorizando toda a sequência. A configuração espacial carrega parte da informação necessária para o sistema funcionar.
 
 Esses casos são diferentes, mas revelam a mesma mudança de unidade: para explicar comportamento, pode ser insuficiente olhar apenas para aquilo que existe “na cabeça” de cada pessoa.
@@ -45,6 +49,8 @@ Isso conecta memória distribuída à [[02 variaveis/Permanencia|Permanência]] 
 
 O [[03 artefatos/Numero de Protocolo|Número de protocolo]] é um exemplo institucional. A demanda deixa de depender da lembrança de um atendente porque o sistema guarda sua identidade. Mas isso também significa que o cidadão passa a depender da infraestrutura capaz de reconhecer aquele identificador.
 
+Bookmark e badge mostram duas falhas complementares. Uma referência pode sobreviver enquanto seu destino desaparece. Uma pendência pode continuar visível mesmo depois de perder relevância. Externalizar memória não elimina a necessidade de atualizar, descartar e interpretar aquilo que o ambiente decidiu conservar.
+
 Externalizar memória não elimina vulnerabilidade. Desloca onde a vulnerabilidade mora.
 
 ## A cognição pode pertencer ao sistema
@@ -57,7 +63,7 @@ A [[03 artefatos/LLM Wiki|LLM Wiki]] oferece um caso contemporâneo particularme
 
 Esse deslocamento torna ainda mais importante observar a unidade de análise. Se uma resposta futura depende simultaneamente de fontes brutas, páginas sintetizadas, regras do agente, histórico de edições e julgamento humano, atribuir o resultado apenas ao modelo ou apenas ao usuário esconde o sistema que tornou aquela resposta possível.
 
-A pergunta de design deixa então de ser apenas “como ajudar o usuário a lembrar?” e passa a ser: **onde a informação precisa permanecer — e quem pode transformá-la — para que o sistema inteiro consiga continuar agindo?**
+A pergunta de design deixa então de ser apenas “como ajudar o usuário a lembrar?” e passa a ser: **onde a informação precisa permanecer — quem decidiu que ela deveria permanecer e quem pode transformá-la — para que o sistema inteiro consiga continuar agindo?**
 
 ## Ficha do conceito
 
@@ -71,7 +77,7 @@ A pergunta de design deixa então de ser apenas “como ajudar o usuário a lemb
 | **Distinção central** | Informação necessária para agir pode estar distribuída entre pessoas, objetos, representações e ambiente, não apenas armazenada internamente por um indivíduo |
 | **O que ajuda a explicar** | Como artefatos preservam estados, intenções e referências que sustentam ação coletiva e individual |
 | **O que não explica sozinho** | Qualidade da memória individual, embodied cognition, se externalização sempre melhora desempenho ou se sistemas artificiais possuem memória/cognição no mesmo sentido humano |
-| **Artefatos-chave** | [[03 artefatos/Post-it|Post-it]], [[03 artefatos/Fila|Fila]], [[03 artefatos/Calendário|Calendário]], [[03 artefatos/Numero de Protocolo|Número de protocolo]], [[03 artefatos/LLM Wiki|LLM Wiki]] |
+| **Artefatos-chave** | [[03 artefatos/Post-it|Post-it]], [[03 artefatos/Calendário|Calendário]], [[03 artefatos/Favorito Bookmark|Favorito / bookmark]], [[03 artefatos/Badge de notificacao|Badge de notificação]], [[03 artefatos/Fila|Fila]], [[03 artefatos/Numero de Protocolo|Número de protocolo]], [[03 artefatos/LLM Wiki|LLM Wiki]] |
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]] |
 | **Genealogias relacionadas** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]], [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]] |
 
