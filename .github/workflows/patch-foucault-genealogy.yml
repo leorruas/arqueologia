@@ -1,0 +1,135 @@
+name: Aplicar referência foucaultiana às genealogias
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/patch-foucault-genealogy.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - name: Aplicar propagação metodológica
+        shell: bash
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+
+          function replaceRequired(path, from, to) {
+            let text = fs.readFileSync(path, 'utf8');
+            if (text.includes(to)) return;
+            if (!text.includes(from)) throw new Error(`Trecho esperado não encontrado em ${path}`);
+            text = text.replace(from, to);
+            fs.writeFileSync(path, text);
+          }
+
+          replaceRequired(
+            'Instrucoes de Arqueologia.md',
+            `## Genealogias\n\nA pasta \`04 genealogias/\` organiza parentescos entre artefatos de áreas diferentes. Genealogia aqui não significa necessariamente descendência histórica direta. Cada relação deve indicar se é histórica/documentada, funcional, semiótica, comportamental ou hipótese comparativa.\n\nIsso evita transformar analogias interessantes em afirmações históricas falsas.`,
+            `## Genealogias\n\nA pasta \`04 genealogias/\` organiza parentescos entre artefatos de áreas diferentes. Genealogia aqui não significa necessariamente descendência histórica direta. Cada relação deve indicar se é histórica/documentada, funcional, semiótica, comportamental ou hipótese comparativa.\n\nO uso do termo tem uma inspiração metodológica explícita em [[autores/Michel Foucault|Michel Foucault]], sobretudo em seu ensaio *Nietzsche, a genealogia e a história* (1971). Na genealogia foucaultiana, a investigação não procura uma origem pura capaz de explicar todo o desenvolvimento posterior. Ela procura emergências, acidentes, disputas, descontinuidades e condições contingentes pelas quais uma prática, uma norma ou um regime se tornou possível e depois pôde parecer natural.\n\nEssa referência interessa diretamente à Arqueologia do Design. Em vez de perguntar apenas quem inventou uma solução, uma genealogia histórica deve investigar que práticas anteriores, restrições, instituições, conflitos, interesses, convenções e decisões permitiram que aquela solução emergisse e se estabilizasse. Isso reforça a distinção entre invenção, refinamento, popularização e padronização: nenhuma dessas etapas precisa formar uma progressão inevitável.\n\nO uso do termo neste vault, porém, é deliberadamente mais amplo que o método foucaultiano em sentido estrito. Algumas genealogias são históricas e podem assumir fortemente essa inspiração; outras aproximam artefatos por parentesco funcional, semiótico, comportamental, institucional ou comparativo. Nesses casos, a nota deve declarar que está propondo uma relação analítica, e não demonstrando uma linhagem histórica.\n\nIsso evita transformar analogias interessantes em afirmações históricas falsas e impede que uma genealogia se torne apenas uma lista elegante de coisas parecidas. Quando houver material histórico suficiente, procure também as contingências e disputas que explicam por que uma solução venceu, desapareceu ou foi naturalizada.`
+          );
+
+          replaceRequired(
+            'me.md',
+            `31. **Pistas como memória acumulativa**: \`Pistas de pesquisa.md\` preserva perguntas, artefatos, relações e hipóteses que ainda não justificam nota própria. Uma pista registrada não deve desaparecer por regeneração automática, limpeza de links ou ausência temporária de referência no grafo. Ela só sai do backlog por decisão explícita: promoção a estudo, fusão com outra pista ou descarte justificado. Automação pode acrescentar pistas detectadas, mas nunca substituir silenciosamente o conteúdo curado.`,
+            `31. **Pistas como memória acumulativa**: \`Pistas de pesquisa.md\` preserva perguntas, artefatos, relações e hipóteses que ainda não justificam nota própria. Uma pista registrada não deve desaparecer por regeneração automática, limpeza de links ou ausência temporária de referência no grafo. Ela só sai do backlog por decisão explícita: promoção a estudo, fusão com outra pista ou descarte justificado. Automação pode acrescentar pistas detectadas, mas nunca substituir silenciosamente o conteúdo curado.\n32. **Genealogia e contingência**: quando uma genealogia fizer afirmações históricas sobre emergência, formação ou naturalização de práticas, usar explicitamente a inspiração de [[autores/Michel Foucault|Michel Foucault]]: evitar origem pura, causalidade linear e progresso inevitável; procurar contingências, disputas, descontinuidades e condições de possibilidade. Genealogias funcionais, semióticas, comportamentais, institucionais ou comparativas continuam válidas, mas devem ser nomeadas como parentescos analíticos quando não houver evidência de linhagem histórica.`
+          );
+
+          replaceRequired(
+            'templates/template-genealogia.md',
+            `[Abra pela pergunta que aproxima artefatos aparentemente diferentes. Mostre por que vale compará-los e qual comportamento, custo, fronteira, responsabilidade ou relação eles parecem reorganizar.]`,
+            `[Abra pela pergunta que aproxima artefatos aparentemente diferentes. Mostre por que vale compará-los e qual comportamento, custo, fronteira, responsabilidade ou relação eles parecem reorganizar.]\n\n[Quando houver base histórica, trate a genealogia também no sentido inspirado por [[autores/Michel Foucault|Michel Foucault]]: procure emergência, contingência, disputa, descontinuidade, condições de possibilidade e processos de naturalização, em vez de buscar uma origem pura ou narrar progresso inevitável. Se a relação for apenas funcional, semiótica, comportamental, institucional ou comparativa, diga isso explicitamente.]`
+          );
+
+          replaceRequired(
+            'templates/template-genealogia.md',
+            `| **Natureza das relações** | [Histórica, funcional, semiótica, comportamental, institucional, comparativa] |`,
+            `| **Natureza das relações** | [Histórica/documentada, histórica com inspiração foucaultiana, funcional, semiótica, comportamental, institucional, comparativa] |`
+          );
+
+          replaceRequired(
+            'templates/template-genealogia.md',
+            `| **Cuidado histórico** | [Limite da comparação ou risco de falsa descendência] |`,
+            `| **Cuidado histórico** | [Limite da comparação, risco de falsa descendência e, quando histórica, quais contingências impedem uma narrativa de origem pura ou progresso inevitável] |`
+          );
+
+          replaceRequired(
+            '00 índices/Sobre o projeto.md',
+            `Genealogias aproximam artefatos de áreas e épocas diferentes a partir de uma ideia recorrente. Esse parentesco pode ser histórico, funcional, semiótico, comportamental ou apenas uma hipótese comparativa. O projeto evita tratar toda semelhança como descendência direta. A pergunta típica de uma genealogia é: **por que esses artefatos podem ser parentes?**`,
+            `Genealogias aproximam artefatos de áreas e épocas diferentes a partir de uma ideia recorrente. Esse parentesco pode ser histórico, funcional, semiótico, comportamental ou apenas uma hipótese comparativa. O projeto evita tratar toda semelhança como descendência direta. A pergunta típica de uma genealogia é: **por que esses artefatos podem ser parentes?**\n\nHá aqui uma inspiração explícita em [[autores/Michel Foucault|Michel Foucault]]: quando a relação é histórica, interessa menos encontrar uma origem pura do que reconstruir emergências, contingências, disputas e processos pelos quais certas práticas se estabilizam e passam a parecer naturais. O projeto amplia esse uso ao admitir também genealogias comparativas, desde que elas não sejam apresentadas como descendência histórica comprovada.`
+          );
+
+          fs.writeFileSync('autores/Michel Foucault.md', `---
+title: "Michel Foucault"
+type: "autor"
+status: "publicado"
+tags:
+  - design/autor
+  - arqueologia
+---
+
+# Michel Foucault
+
+Michel Foucault importa para este projeto menos como um autor de design do que como uma referência para investigar como práticas, normas, instituições e formas de poder se tornam possíveis e depois podem parecer naturais. Seu trabalho ajuda a deslocar a pergunta de “quem inventou isto?” para “que condições, disputas e acidentes fizeram isto emergir e adquirir estabilidade?”.
+
+## Papel no projeto
+
+A contribuição metodológica mais direta está na genealogia. Em *Nietzsche, a genealogia e a história* (1971), Foucault desenvolve, a partir de Nietzsche, uma investigação que desconfia da busca por uma origem pura e de narrativas em que o presente aparece como resultado necessário de um desenvolvimento contínuo.[^1]
+
+Para a Arqueologia do Design, essa posição funciona como disciplina histórica. Uma solução pode ter inventor identificável e ainda assim depender de práticas anteriores, restrições materiais, instituições, concorrentes, hábitos e processos de difusão que o inventor não controla. Por isso, [[Instrucoes de Arqueologia#Quatro níveis de história|invenção, refinamento, popularização e padronização]] precisam ser reconstruídos separadamente.
+
+## O que sua contribuição mudou
+
+Uma genealogia inspirada por Foucault procura emergência, contingência, disputa e descontinuidade. Isso muda a forma de contar a história de um artefato: a pergunta deixa de buscar uma linha contínua que liga uma origem ao presente e passa a investigar por que, entre várias possibilidades, determinada configuração conseguiu existir, circular, vencer concorrentes e finalmente parecer normal.
+
+Essa perspectiva também torna a naturalização um problema de design. Quando uma convenção deixa de parecer uma escolha, ela passa a organizar comportamento sem precisar ser constantemente justificada. A camada de **poder** do método do vault se beneficia dessa leitura: interessa observar quem ganha capacidade de agir, quem passa a ser classificado, observado ou restringido e quais relações são incorporadas à infraestrutura.
+
+Em *Vigiar e Punir* (1975), Foucault mostra como disciplina, vigilância, distribuição espacial e organização temporal podem operar juntas na produção de comportamentos.[^2] Para este projeto, o valor está em perceber que objetos, espaços e procedimentos podem participar de relações de poder sem que isso os transforme automaticamente em “artefatos foucaultianos”. A conexão é interpretativa e precisa ser demonstrada caso a caso.
+
+## Obras, projetos e relações
+
+*Nietzsche, a genealogia e a história* (1971) é a referência metodológica central para a camada [[04 genealogias/|Genealogias]]. *A arqueologia do saber* (1969) ajuda a compreender a investigação de formações discursivas e descontinuidades. [[00 índices/Livros Indicados|*Vigiar e Punir*]] (1975) é particularmente útil quando uma investigação envolve disciplina, vigilância, normalização, classificação, espaço ou distribuição do tempo.
+
+No vault, Foucault funciona como referência para [[Instrucoes de Arqueologia#Genealogias|genealogias]] e para a análise das relações de poder nos artefatos. Seu método não transforma todo parentesco funcional ou semiótico em genealogia histórica: essas extensões pertencem à metodologia própria da Arqueologia do Design e devem permanecer identificadas como comparações.
+
+## Cuidado histórico
+
+Foucault não formulou uma teoria do design, e seus conceitos não devem ser usados para atribuir intenção política automática a designers ou objetos. A inspiração genealógica serve para reconstruir condições históricas, contingências e relações de poder, não para substituir documentação específica do artefato.
+
+Também é importante não usar “genealogia” como sinônimo de origem. No sentido forte que interessa aqui, a genealogia é justamente uma crítica à ideia de que o presente possa ser explicado por uma origem essencial e por uma evolução inevitável.
+
+## Referências
+
+[^1]: Foucault, Michel. “Nietzsche, la généalogie, l'histoire”. 1971. Traduções posteriores circulam como “Nietzsche, Genealogy, History” e “Nietzsche, a genealogia e a história”.
+[^2]: Foucault, Michel. *Surveiller et punir: Naissance de la prison*. Gallimard, 1975.
+
+> [!IMPORTANT]
+> Ao usar Foucault numa investigação, diferencie referência metodológica de evidência histórica sobre o artefato. O autor pode orientar a pergunta; a história concreta ainda precisa de fontes próprias.
+`);
+
+          let log = fs.readFileSync('log.md', 'utf8');
+          const entry = `- **Genealogia e Foucault**: Explicitação de [[autores/Michel Foucault|Michel Foucault]] como referência metodológica para a camada \`04 genealogias/\`, sobretudo a partir de *Nietzsche, a genealogia e a história* (1971). O método passa a distinguir genealogia histórica inspirada por emergência, contingência, disputa e descontinuidade de parentescos funcionais, semióticos, comportamentais, institucionais ou comparativos. Atualização de [[Instrucoes de Arqueologia|Instruções de arqueologia]], [[me|me.md]], [[templates/template-genealogia|template de genealogia]], [[00 índices/Sobre o projeto|Sobre o projeto]] e do perfil de Foucault.\n`;
+          if (!log.includes('**Genealogia e Foucault**')) {
+            log = log.replace('## [2026-09-11]\n', `## [2026-09-11]\n${entry}`);
+            fs.writeFileSync('log.md', log);
+          }
+          NODE
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "Instrucoes de Arqueologia.md" me.md templates/template-genealogia.md "00 índices/Sobre o projeto.md" "autores/Michel Foucault.md" log.md
+          git commit -m "docs: explicita inspiração foucaultiana das genealogias"
+          git push
