@@ -54,3 +54,13 @@ O interesse está em não reduzir tudo ao verbo “guardar”. Diferentes artefa
 **Próximas escavações possíveis:** papiro; pergaminho; caderno; rascunho; fotografia; gravação sonora.
 
 **Cuidado histórico:** não tratar essa lista como sequência evolutiva. Cada artefato deve ser investigado em seu próprio problema histórico antes de qualquer genealogia ser ampliada.
+
+## Artefatos de design de IA
+
+**Pistas para escavações futuras:** chatbot; resposta em streaming; indicador de “pensando”; interromper geração; memória; histórico de conversas; nova conversa; janela de contexto; system prompt; persona da IA; feedback positivo/negativo; edição de mensagem anterior; ramificação da conversa; citações e fontes; upload e anexos; uso de ferramentas; permissão antes da ação; plano do agente; human in the loop; confirmação; desfazer ações de agentes; sugestões de prompt; alucinação como artefato conceitual; aviso de que a IA pode cometer erros; avatar e voz; interrupção por voz; agente; autonomia; artefatos ausentes e invisibilidade das regras do sistema.
+
+**Eixo provisório:** comando → busca → prompt → conversa → memória → delegação → agência → autonomia. A sequência não deve ser tratada como evolução linear, mas como deslocamentos possíveis na divisão do trabalho entre humano e sistema.
+
+**Pergunta transversal:** em cada artefato, o que permanece sob decisão humana e o que é delegado à interpretação, ao planejamento ou à ação da máquina?
+
+**Separar para estudo próprio:** temperatura/criatividade e botão regenerar parecem formar um par especialmente fértil porque ambos tornam perceptível uma propriedade historicamente estranha da IA generativa: uma mesma intenção não determina necessariamente uma única resposta. Investigar como interfaces transformam variabilidade probabilística em categorias compreensíveis como “criatividade”, “outra resposta” e “tentar novamente”, e como isso ensina o usuário a tratar uma saída como amostra de um espaço de possibilidades, não como resultado definitivo.
