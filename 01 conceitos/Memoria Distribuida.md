@@ -31,6 +31,28 @@ Na [[03 artefatos/Fila|Fila]], a posição dos corpos preserva a ordem de chegad
 
 Esses casos são diferentes, mas revelam a mesma mudança de unidade: para explicar comportamento, pode ser insuficiente olhar apenas para aquilo que existe “na cabeça” de cada pessoa.
 
+## Persistir não é lembrar
+
+A linguagem cotidiana faz parecer que qualquer infraestrutura que conserva dados “tem memória”. Para esta arqueologia, vale separar duas operações.
+
+Um calendário, banco de dados ou arquivo pode **preservar uma inscrição**. Isso significa que alguma configuração material ou digital sobrevive e pode ser consultada depois. Mas a presença persistente do traço não garante que ele volte a participar da ação de modo relevante, correto ou sequer inteligível.
+
+[[autores/Henri Bergson|Henri Bergson]] ajuda a tornar essa diferença visível. Em *Matière et mémoire*, o passado não funciona simplesmente como um estoque de representações aguardando consulta. A memória interessa justamente porque o passado pode atualizar-se no presente conforme percepção, reconhecimento e ação o solicitam.[^2] Um suporte externo pode conservar condições para essa atualização, mas não é equivalente ao ato de lembrar.
+
+Isso torna mais precisa a expressão “memória externa” usada no projeto. Em muitos artefatos, o que foi externalizado não é a experiência de lembrar, mas alguma combinação de **traço, referência, estado, sequência ou condição de recuperação**.
+
+A distinção é importante porque dois sistemas podem armazenar exatamente a mesma quantidade de informação e produzir capacidades de lembrança muito diferentes. Um arquivo sem índice preserva e esconde. Um calendário preserva e reposiciona o compromisso no momento relevante. Um badge preserva quase nada do conteúdo, mas mantém uma pendência perceptivamente ativa. O design da recuperação participa tanto da memória distribuída quanto o design da permanência.
+
+## Vestígio não é passado
+
+[[autores/Paul Ricoeur|Paul Ricoeur]] acrescenta uma segunda precaução. Em *La mémoire, l'histoire, l'oubli*, a passagem entre testemunho, documento, arquivo e representação histórica não é tratada como uma equivalência simples.[^3] Um arquivo pode preservar vestígios do que aconteceu sem preservar automaticamente o sentido daquele passado.
+
+Essa diferença importa especialmente em sistemas institucionais. Um log pode registrar que um evento ocorreu; um protocolo pode preservar sua existência; um banco de dados pode recuperar campos e datas. Ainda assim, reconstruir **o que aconteceu**, **por que aconteceu** e **como aquilo foi vivido** exige interpretação, contexto e relação entre fontes.
+
+Assim, a memória distribuída não deve ser confundida com uma promessa de memória total. Quanto mais um sistema preserva, mais importante pode se tornar distinguir o vestígio do acontecimento e o registro da interpretação.
+
+Bergson e Ricoeur entram aqui por lados diferentes. Bergson impede que armazenamento seja tratado como lembrança. Ricoeur impede que vestígio seja tratado como passado autossuficiente. Hutchins, por sua vez, ajuda a observar como pessoas, inscrições e artefatos podem formar juntos um sistema que consegue agir. As três lentes são complementares, mas não equivalentes.
+
 ## Externalizar memória não enfraquece automaticamente a memória interna
 
 A nota anterior afirmava que artefatos como Post-it enfraquecem hábitos de memorização. Isso pode acontecer em situações específicas, mas não é consequência necessária.
@@ -75,8 +97,10 @@ A pergunta de design deixa então de ser apenas “como ajudar o usuário a lemb
 | **Formulação associada a** | Edwin Hutchins / cognição distribuída |
 | **Área principal** | Ciência cognitiva / antropologia cognitiva / IHC |
 | **Distinção central** | Informação necessária para agir pode estar distribuída entre pessoas, objetos, representações e ambiente, não apenas armazenada internamente por um indivíduo |
+| **Distinções auxiliares** | Persistência não equivale a lembrança; vestígio não equivale ao passado; armazenamento não garante recuperação significativa |
 | **O que ajuda a explicar** | Como artefatos preservam estados, intenções e referências que sustentam ação coletiva e individual |
 | **O que não explica sozinho** | Qualidade da memória individual, embodied cognition, se externalização sempre melhora desempenho ou se sistemas artificiais possuem memória/cognição no mesmo sentido humano |
+| **Autores relacionados** | [[autores/Henri Bergson|Henri Bergson]], [[autores/Paul Ricoeur|Paul Ricoeur]] como lentes complementares sobre lembrança, vestígio e interpretação |
 | **Artefatos-chave** | [[03 artefatos/Post-it|Post-it]], [[03 artefatos/Calendário|Calendário]], [[03 artefatos/Favorito Bookmark|Favorito / bookmark]], [[03 artefatos/Badge de notificacao|Badge de notificação]], [[03 artefatos/Fila|Fila]], [[03 artefatos/Numero de Protocolo|Número de protocolo]], [[03 artefatos/LLM Wiki|LLM Wiki]] |
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]] |
 | **Genealogias relacionadas** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]], [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]] |
@@ -84,3 +108,7 @@ A pergunta de design deixa então de ser apenas “como ajudar o usuário a lemb
 ## Referências
 
 [^1]: Hutchins, Edwin. *Cognition in the Wild*. MIT Press, 1995. A obra analisa navegação como sistema cognitivo distribuído entre pessoas, práticas, artefatos e representações e propõe deslocar a unidade de análise além do indivíduo.
+
+[^2]: Bergson, Henri. *Matière et mémoire: essai sur la relation du corps à l'esprit*. Paris: Félix Alcan, 1896. Tradução inglesa: *Matter and Memory*, trad. Nancy Margaret Paul e W. Scott Palmer. London: George Allen & Co., 1911.
+
+[^3]: Ricoeur, Paul. *La mémoire, l'histoire, l'oubli*. Paris: Seuil, 2000. Tradução inglesa: *Memory, History, Forgetting*, trad. Kathleen Blamey e David Pellauer. Chicago: University of Chicago Press, 2004.
