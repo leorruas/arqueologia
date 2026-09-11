@@ -11,7 +11,7 @@ tags:
 
 # Autonomia da atenção
 
-Duas interfaces podem exigir a mesma quantidade total de atenção e ainda assim produzir experiências muito diferentes. Em uma, a pessoa decide quando procurar a informação. Na outra, o sistema decide quando interrompê-la.
+Duas interfaces podem exigir a mesma quantidade total de atenção e ainda assim produzir experiências muito diferentes. Em uma, a pessoa decide quando procurar a informação. Na outra, o sistema decide quando interrompê-la — ou mantém um sinal presente até que ela volte.
 
 **Autonomia da atenção** é uma adaptação conceitual deste projeto para estudar essa diferença. Ela combina discussões já existentes sobre atenção, autonomia, interrupção e economia da atenção numa lente específica de design: o grau de poder que uma pessoa conserva sobre **quando, por quê e por quanto tempo seu foco será deslocado**.
 
@@ -25,7 +25,9 @@ No [[03 artefatos/Archive|Archive]], uma mensagem pode sair do campo visual sem 
 
 No [[03 artefatos/Post-it|Post-it]], ocorre quase o contrário. A nota é posicionada no ambiente justamente para interceptar o olhar futuro. Mas isso não significa automaticamente baixa autonomia: foi o próprio usuário quem pode ter desenhado aquela interrupção para si mesmo.
 
-Essa diferença mostra por que `pull = autonomia` e `push = captura` é simples demais. Uma notificação pode ser desejada; uma busca pode ser compulsiva. O conceito precisa observar **quem configurou o gatilho, quem pode recusá-lo e qual o custo de fazê-lo**.
+O [[03 artefatos/Badge de notificacao|Badge de notificação]] cria um terceiro caso. Ele não precisa interromper como som ou banner. Pode apenas permanecer sobre o ícone depois que o evento ocorreu, mantendo a existência de uma pendência perceptível fora do aplicativo. Essa persistência torna visível que **intensidade e duração da convocação são dimensões diferentes**: algo pode ser discreto e ainda assim ocupar a atenção repetidamente porque não desaparece.
+
+Essa diferença mostra por que `pull = autonomia` e `push = captura` é simples demais. Uma notificação pode ser desejada; uma busca pode ser compulsiva; um badge pode ser útil como memória ou incômodo como cobrança. O conceito precisa observar **quem configurou o gatilho, quem pode recusá-lo e qual o custo de fazê-lo**.
 
 ## O fim da página também é uma decisão sobre atenção
 
@@ -33,17 +35,17 @@ Essa diferença mostra por que `pull = autonomia` e `push = captura` é simples 
 
 Isso não “prende” mecanicamente a atenção, mas altera a arquitetura de decisão. O sistema elimina um momento explícito em que seria necessário escolher continuar.
 
-A genealogia [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] amplia essa investigação mostrando como pôster, controle remoto, Like, Pull to Refresh e feeds reorganizam diferentes momentos da relação entre atenção, novidade e continuação.
+A genealogia [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] amplia essa investigação mostrando como pôster, controle remoto, Like, Pull to Refresh, feeds e badges reorganizam diferentes momentos da relação entre atenção, novidade, continuação e retorno.
 
 Autonomia da atenção pergunta algo ligeiramente diferente da variável [[02 variaveis/Atencao|Atenção]]. A variável pode registrar quanto foco uma situação exige ou captura. O conceito pergunta **quem governa a transição desse foco**.
 
 ## Autonomia pode ser projetada como capacidade de recusa
 
-Uma interface que respeita atenção não precisa necessariamente ser silenciosa. Ela pode oferecer instrumentos para modular interrupção: silenciar, adiar, agrupar, escolher frequência, desligar recomendações ou estabelecer horários.
+Uma interface que respeita atenção não precisa necessariamente ser silenciosa. Ela pode oferecer instrumentos para modular interrupção: silenciar, adiar, agrupar, escolher frequência, desligar recomendações, ocultar badges ou estabelecer horários.
 
 Por isso, autonomia da atenção se aproxima de poder mais do que de estética minimalista. Uma interface visualmente calma pode continuar decidindo tudo pelo usuário. Uma interface movimentada pode oferecer controle significativo.
 
-A hipótese interpretativa do projeto é que uma boa medida qualitativa de autonomia atencional não é “há poucas notificações?”, mas: **a pessoa consegue determinar as condições sob as quais sua atenção será convocada?**
+A hipótese interpretativa do projeto é que uma boa medida qualitativa de autonomia atencional não é “há poucas notificações?”, mas: **a pessoa consegue determinar as condições sob as quais sua atenção será convocada e quando uma pendência deixa de permanecer no seu campo perceptivo?**
 
 Isso torna o conceito especialmente útil para analisar sistemas cujo modelo econômico depende de permanência e retorno frequente. O objetivo não é presumir manipulação em toda interface engajante, mas tornar visível quando interesses do sistema e do usuário entram em tensão pelo mesmo recurso cognitivo.
 
@@ -56,10 +58,10 @@ Isso torna o conceito especialmente útil para analisar sistemas cujo modelo eco
 | **Grau de consolidação** | Debatido; a formulação específica é do projeto, apoiada em tradições externas |
 | **Formulação associada a** | Arqueologia do Design; estudos de atenção, interrupção, economia da atenção e autonomia |
 | **Área principal** | Design de interação / psicologia da atenção / ética do design |
-| **Distinção central** | Quantidade de atenção exigida não é a mesma coisa que poder sobre quando o foco será deslocado |
-| **O que ajuda a explicar** | Quem inicia, modula e encerra interrupções ou ciclos de busca por informação |
+| **Distinção central** | Quantidade de atenção exigida não é a mesma coisa que poder sobre quando o foco será deslocado ou por quanto tempo uma convocação permanecerá perceptível |
+| **O que ajuda a explicar** | Quem inicia, modula e encerra interrupções, sinais persistentes ou ciclos de busca por informação |
 | **O que não explica sozinho** | Qualidade, valor ou efeito psicológico de um conteúdo; não classifica automaticamente push como ruim ou pull como bom |
-| **Artefatos-chave** | [[03 artefatos/Archive|Archive]], [[03 artefatos/Infinite Scroll|Infinite Scroll]], [[03 artefatos/Post-it|Post-it]] |
+| **Artefatos-chave** | [[03 artefatos/Archive|Archive]], [[03 artefatos/Infinite Scroll|Infinite Scroll]], [[03 artefatos/Post-it|Post-it]], [[03 artefatos/Badge de notificacao|Badge de notificação]] |
 | **Variáveis relacionadas** | [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Atrito Decisorio|Atrito decisório]] |
 | **Genealogias relacionadas** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] |
 
