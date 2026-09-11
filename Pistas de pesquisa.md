@@ -7,7 +7,11 @@ publicar: false
 
 # Pistas de pesquisa
 
-Este arquivo reúne referências que apareceram no vault, mas ainda não possuem uma nota correspondente. Elas foram convertidas de wikilinks para texto simples nos estudos de origem para evitar que uma possibilidade futura pareça conteúdo já publicado.
+Este arquivo é a **memória acumulativa das perguntas ainda não escavadas do projeto**. Ele preserva artefatos possíveis, relações, hipóteses, conceitos imaturos e perguntas que apareceram durante uma investigação, mas ainda não justificam uma nota própria.
+
+Pistas permanecem como texto simples para não fingir que já existem como nós publicados no grafo. A ausência de um wikilink não torna uma pista descartável: ela permanece aqui até uma decisão explícita sobre seu destino.
+
+Uma pista só sai do backlog por **promoção** a estudo ou outra nota própria, **fusão** com uma pista que represente melhor a mesma investigação ou **descarte justificado**. Rotinas automáticas podem acrescentar candidatos numa seção própria, mas não podem substituir, apagar ou reconstruir as pistas curadas a partir do estado atual dos links.
 
 A presença aqui não obriga a criação de uma nota. Cada pista deve ser avaliada pelo valor que acrescenta à rede de ideias. As pistas abaixo são organizadas pelo problema de design que ajudam a investigar, não por uma taxonomia definitiva.
 
