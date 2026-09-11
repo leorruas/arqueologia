@@ -133,7 +133,8 @@ Depois de escrever ou revisar um artefato, procure ativamente relações com:
 - `05 percursos/`: sequências de leitura cuja argumentação fica mais clara com o novo estudo;
 - `autores/`: pessoas ou equipes com papel material em invenção, refinamento, popularização, padronização ou formulação teórica;
 - `empresas/`: organizações cujo papel histórico ajuda a explicar a circulação ou transformação da ideia;
-- `00 índices/Livros Indicados.md`: obras realmente úteis para sustentar a história, a interpretação ou a investigação futura.
+- `00 índices/Livros Indicados.md`: obras realmente úteis para sustentar a história, a interpretação ou a investigação futura;
+- `Pistas de pesquisa.md`: perguntas, artefatos, relações ou hipóteses que surgiram na investigação, têm valor futuro, mas ainda não justificam nota própria.
 
 A varredura deve considerar tanto relações já nomeadas no artigo quanto relações descobertas ao comparar o novo estudo com o acervo existente.
 
@@ -156,6 +157,16 @@ Crie uma nova nota secundária quando ela tiver utilidade própria além do arti
 - **Percurso**: criar quando houver uma pergunta editorial que peça uma sequência de estudos. Um percurso não deve existir apenas para agrupar artigos do mesmo assunto.
 - **Tipo de design**: criar uma nova área apenas quando houver um domínio reconhecível de prática ou uma lente disciplinar estável que não esteja representada no mapa atual.
 
+### Pistas como memória da investigação
+
+`Pistas de pesquisa.md` é uma memória acumulativa do que a investigação ainda não resolveu. Uma pista pode ser um artefato possível, uma relação entre estudos, uma hipótese, uma pergunta histórica, um conceito ainda imaturo ou uma genealogia que ainda não reuniu casos suficientes.
+
+Registrar uma pista não cria obrigação de estudo e não equivale a criar um nó no grafo. Justamente por isso, pistas devem permanecer como texto simples até que exista uma nota correspondente. A função do arquivo é impedir que uma ideia útil desapareça apenas porque ainda não está pronta para entrar na arquitetura publicada.
+
+Pistas curadas não devem ser reconstruídas a partir do estado atual dos wikilinks. A ausência de um link quebrado não significa que a pergunta deixou de existir. Rotinas automáticas podem detectar e acrescentar candidatos numa seção separada, mas não podem substituir, reordenar destrutivamente ou apagar o conteúdo manual acumulado.
+
+Uma pista só deixa o backlog por decisão explícita: **promoção** para uma nota própria; **fusão** com outra pista que represente melhor a mesma investigação; ou **descarte justificado** quando deixou de ter valor, foi demonstrada como redundante ou partia de uma premissa incorreta. Quando uma pista for promovida, o histórico pode permanecer na seção de estudos promovidos se ajudar a reconstruir a evolução do projeto.
+
 ### Critério para genealogias e percursos existentes
 
 Antes de criar uma nova genealogia ou percurso, verifique os arquivos existentes. Se o novo artigo fortalece, tensiona ou contradiz a tese de uma estrutura já presente, atualize essa estrutura. Uma genealogia deve explicar o tipo de parentesco; um percurso deve explicar por que a nova etapa altera a leitura.
@@ -166,9 +177,9 @@ Autores, empresas e livros são contexto para ideias. Ao propagá-los, registre 
 
 ### Fechamento da operação
 
-Depois da propagação, atualize os índices afetados e `log.md`. O log deve registrar não apenas a criação da nota principal, mas também as mudanças relevantes que ela provocou na rede. Antes de encerrar, verifique wikilinks sem destino e confirme que as relações novas aparecem nas duas pontas quando a arquitetura das notas pedir reciprocidade.
+Depois da propagação, atualize os índices afetados e `log.md`. O log deve registrar não apenas a criação da nota principal, mas também as mudanças relevantes que ela provocou na rede. Antes de encerrar, verifique wikilinks sem destino, confirme que as relações novas aparecem nas duas pontas quando a arquitetura das notas pedir reciprocidade e preserve em `Pistas de pesquisa.md` as perguntas úteis que ainda não tenham destino próprio.
 
-Uma criação pode ser considerada completa quando o artigo está integrado ao acervo, e não apenas quando o arquivo existe.
+Uma criação pode ser considerada completa quando o artigo está integrado ao acervo e suas perguntas residuais relevantes foram preservadas, e não apenas quando o arquivo existe.
 
 ## Protocolo de propagação de governança
 
