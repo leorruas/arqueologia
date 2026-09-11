@@ -67,7 +67,7 @@ Autonomia da atenção pergunta algo diferente da variável [[02 variaveis/Atenc
 
 Uma interface que respeita atenção pode oferecer instrumentos para silenciar, adiar, agrupar, escolher frequência, desligar recomendações, ocultar badges ou estabelecer horários. Esses mecanismos podem aumentar capacidade de recusa e de autogoverno.
 
-Mas há um limite importante nessa leitura. Marin e colaboradores criticam abordagens da economia da atenção que tratam atenção apenas como um recurso individual que cada pessoa deveria controlar melhor. Eles propõem compreendê-la também como prática situada e socialmente moldada.[^7] Essa crítica impede que autonomia da atenção vire uma versão sofisticada de “o usuário que configure direito”.
+Mas há um limite importante nessa leitura. Bombaerts e colaboradores criticam abordagens da economia da atenção que tratam atenção apenas como um recurso individual que cada pessoa deveria controlar melhor. Eles propõem compreendê-la também como prática situada e socialmente moldada.[^7] Essa crítica impede que autonomia da atenção vire uma versão sofisticada de “o usuário que configure direito”.
 
 O ambiente, os padrões sociais, as obrigações de trabalho, os defaults e o modelo econômico do serviço também estruturam aquilo que é realisticamente recusável. Em trabalhos posteriores, Kärki e Visa Kurki defendem justamente que a proteção da atenção frequentemente passa pela regulação do ambiente em que uma tarefa acontece, e não apenas pela força de vontade do indivíduo.[^8]
 
@@ -101,7 +101,7 @@ Isso não permite classificar automaticamente uma interface como ética ou manip
 | **Conceito** | Autonomia da atenção |
 | **Origem** | Literatura + adaptação de design |
 | **Grau de consolidação** | Debatido; há formulação filosófica explícita de *autonomy of attention*, mas a operacionalização usada neste projeto é própria |
-| **Formulação associada a** | Kaisa Kärki; diálogo com Richard Ryan e Edward Deci, Wayne Wu, Sebastian Watzl, James Williams e estudos de interrupção em IHC |
+| **Formulação associada a** | [[autores/Kaisa Kärki|Kaisa Kärki]]; diálogo com Richard Ryan e Edward Deci, Wayne Wu, Sebastian Watzl, James Williams e estudos de interrupção em IHC |
 | **Área principal** | Filosofia da atenção / design de interação / psicologia da atenção / ética da tecnologia |
 | **Distinção central** | Demanda de atenção, agência atencional, autonomia atencional e liberdade da atenção não são a mesma coisa |
 | **O que ajuda a explicar** | Quem inicia, sustenta e encerra deslocamentos de foco; se o ambiente favorece objetivos endossados pelo usuário ou prioridades de outros atores |
@@ -126,7 +126,7 @@ Isso não permite classificar automaticamente uma interface como ética ou manip
 
 [^6]: Mark, Gloria; Gudith, Daniela; Klocke, Ulrich. “The Cost of Interrupted Work: More Speed and Stress”. *CHI 2008*, pp. 107–110. DOI: 10.1145/1357054.1357072.
 
-[^7]: Marin, Lavinia et al. “Attention as Practice”. *Global Philosophy*, 2023. O artigo critica a redução da atenção a recurso individual controlável e propõe tratá-la como prática ética, situada e social.
+[^7]: Bombaerts, Gunter et al. “Attention as Practice: Buddhist Ethics Responses to Persuasive Technologies”. *Global Philosophy*, 33, 25, 2023. DOI: 10.1007/s10516-023-09680-4. O artigo critica a redução da atenção a recurso individual controlável e propõe tratá-la como prática ética, situada e social.
 
 [^8]: Kärki, Kaisa; Kurki, Visa. “Does a Person Have a Right to Attention? Depends on What She is Doing”. *Philosophy & Technology*, 36, 86, 2023. DOI: 10.1007/s13347-023-00673-0. Os autores argumentam que proteger atenção frequentemente requer regular o ambiente da tarefa. Ver também Kärki e Kurki, “The Right to Concentrate”, *Neuroethics*, 19, 4, 2026.
 
