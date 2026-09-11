@@ -21,6 +21,14 @@ A **Genealogia de Futuros** inverte parcialmente a direção da investigação. 
 
 O objetivo não é futurologia. É investigar futuros latentes em um artefato presente: novas capacidades, comportamentos, expectativas e problemas que podem surgir quando sua hipótese de design se torna suficientemente barata, difundida ou normal.
 
+## O que esta ideia herda da genealogia foucaultiana
+
+O nome não é neutro. A Genealogia de Futuros preserva uma inspiração metodológica em [[autores/Michel Foucault|Michel Foucault]], sobretudo na recusa de tratar o presente como resultado inevitável de uma origem pura. Na genealogia foucaultiana, interessam emergências, contingências, disputas e condições históricas que tornam certas práticas possíveis.
+
+A hipótese deste projeto desloca essa sensibilidade para a outra direção temporal. Se a genealogia histórica pergunta **quais contingências tornaram o presente possível?**, a Genealogia de Futuros pergunta **que novas condições de possibilidade o presente está produzindo?** O parentesco é metodológico, não autoral: Foucault não formulou “Genealogia de Futuros”, e o conceito continua registrado como `hipótese-do-projeto`.
+
+Isso impõe uma cautela adicional. Um futuro possível não deve ser narrado como consequência inevitável do artefato. A investigação deve procurar bifurcações, alternativas, resistências e condições que precisariam se estabilizar para que determinado descendente se tornasse plausível.
+
 ## O futuro começa como promessa
 
 Um artefato não entra no mundo acompanhado do conhecimento de todas as suas consequências. Ele oferece uma transformação mais próxima: uma [[01 conceitos/Promessa|promessa]] sobre como alguma relação com o mundo poderá funcionar.
@@ -156,6 +164,7 @@ Artefatos podem fazer algo semelhante culturalmente. Um produto ou sistema bem-s
 |---|---|
 | **Conceito** | Genealogia de Futuros |
 | **Origem** | Hipótese do projeto |
+| **Referência metodológica** | [[autores/Michel Foucault|Michel Foucault]], especialmente *Nietzsche, a genealogia e a história* (1971); inspiração em contingência e condições de possibilidade, sem atribuir a ele a autoria do conceito |
 | **Grau de consolidação** | Experimental |
 | **Tipo** | Método de investigação da Arqueologia do Design |
 | **Problema** | Estudos históricos explicam de onde artefatos vieram, mas frequentemente encerram a investigação no presente ou tratam futuros como previsões tecnológicas |
