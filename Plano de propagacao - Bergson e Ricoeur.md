@@ -1,7 +1,7 @@
 ---
 title: "Plano de propagação — Bergson e Ricoeur"
 type: "governanca"
-status: "ativo"
+status: "concluido"
 publicar: false
 ---
 
@@ -68,13 +68,16 @@ Critério de conclusão: distinguir claramente mesmidade, ipseidade, identidade 
 
 Objetivo: só criar novas formulações gerais depois de verificar se elas sobrevivem aos casos concretos.
 
-- [ ] Avaliar uma genealogia sobre estabilização: como artefatos tornam tempo, identidade, compromisso e vestígios suficientemente estáveis para ação.
-- [ ] Criar, se os casos sustentarem, o percurso `Do reflexo ao perfil`.
-- [ ] Avaliar a formulação: “todo artefato torna alguma coisa suficientemente estável para que possamos agir sobre ela”.
-- [x] Conectar Bergson, Ricoeur e Merlin Donald sem fundir suas teorias: experiência e duração; identidade, narrativa e vestígio; externalização e cognição distribuída. A conexão foi testada em `Memória distribuída` e `Permanência e memória externa`.
-- [ ] Revisar o vocabulário do vault para impedir equivalências fáceis entre armazenamento e memória, dado e experiência, autenticação e identidade, registro e passado.
+- [x] Avaliar uma genealogia sobre estabilização: criada `Estabilização para ação` como rascunho e hipótese transversal em teste.
+- [x] Criar, se os casos sustentarem, o percurso `Do reflexo ao perfil`: criado como percurso editorial em rascunho.
+- [x] Avaliar a formulação “todo artefato torna alguma coisa suficientemente estável para que possamos agir sobre ela”: rejeitada na forma universal e refinada para “muitos artefatos tornam alguma propriedade suficientemente estável para que uma ação antes difícil possa acontecer”.
+- [x] Conectar Bergson, Ricoeur e Merlin Donald sem fundir suas teorias: experiência e duração; identidade, narrativa e vestígio; externalização e cognição distribuída.
+- [x] Revisar o vocabulário do vault para impedir equivalências fáceis entre armazenamento e memória, dado e experiência, autenticação e identidade, registro e passado: guardrails adicionados ao `Guia de escrita`.
+- [x] Conectar a nova genealogia e o novo percurso ao `index.md`, mantendo ambos explicitamente marcados como rascunho.
 
 Critério de conclusão: a síntese deve emergir dos artefatos estudados, não ser imposta a eles.
+
+**Estado:** concluída como propagação. `Estabilização para ação` e `Do reflexo ao perfil` continuam em rascunho por decisão metodológica: precisam amadurecer por novos casos antes de serem tratados como estruturas consolidadas.
 
 ## Princípios de propagação
 
@@ -84,3 +87,4 @@ Critério de conclusão: a síntese deve emergir dos artefatos estudados, não s
 4. Quando uma referência apenas tensiona um conceito do vault, registrar explicitamente que se trata de uma lente comparativa.
 5. Toda nova síntese deve devolver links aos artefatos que a sustentam.
 6. Uma revisão pode concluir legitimamente que não há motivo para citar o autor diretamente. Propagação não é maximização de links; é aumento de precisão conceitual.
+7. Uma formulação transversal deve poder falhar. Se explicar qualquer artefato sem produzir contraste, deve ser restringida ou abandonada.
