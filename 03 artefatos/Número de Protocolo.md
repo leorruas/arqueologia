@@ -33,6 +33,20 @@ Essa distinção dá ao artefato enorme capacidade de coordenação. Um atendent
 
 O número passa a funcionar como uma âncora de [[01 conceitos/Memoria Distribuida|memória institucional]].
 
+## O mesmo código não garante a mesma história
+
+A noção de identidade narrativa de [[autores/Paul Ricoeur|Paul Ricoeur]] é formulada para pessoas, não para processos administrativos. Ainda assim, ela ajuda por contraste a entender o que o protocolo faz e o que ele não faz.[^5]
+
+O número estabiliza **referência**. Ele permite que muitos eventos continuem sendo tratados como pertencentes ao mesmo caso. Mas o sentido do caso pode mudar conforme novos documentos, respostas, recursos, decisões e interpretações são incorporados. O código continua igual enquanto a história cresce.
+
+Isso torna o protocolo quase o inverso de uma narrativa. A narrativa precisa organizar acontecimentos para explicar como eles formam uma continuidade. O identificador não precisa explicar nada: basta apontar consistentemente para a entidade à qual esses acontecimentos serão anexados.
+
+A distinção é preciosa para design de serviços. Um sistema pode ser excelente em manter o mesmo ID e péssimo em preservar **o sentido** da demanda. Se cada novo atendente vê apenas campos isolados, status e códigos, a continuidade técnica existe enquanto a continuidade narrativa se perde. O cidadão então precisa contar de novo a história que o sistema afirma já possuir.
+
+Ricoeur ajuda também pelo trabalho sobre memória, documento e arquivo: o conjunto de registros ligados a um protocolo constitui vestígios e documentos capazes de sustentar reconstrução, mas não é automaticamente uma interpretação suficiente do que aconteceu.[^6]
+
+Assim, **identidade persistente não é continuidade de sentido**. O protocolo resolve a primeira. O design do histórico, dos documentos e da leitura institucional precisa resolver a segunda.
+
 ## O exemplo brasileiro do NUP
 
 A Administração Pública Federal brasileira oferece um caso contemporâneo especialmente claro de padronização. O **Número Único de Protocolo, NUP**, é atribuído a documentos avulsos ou processos quando são recebidos ou autuados por órgãos e entidades federais abrangidos pela norma.
@@ -89,6 +103,8 @@ Quando essa infraestrutura funciona bem, o identificador pode desaparecer da int
 2. Portaria Interministerial MJSP/ME nº 11, de 25 de novembro de 2019, e Instrução Normativa Interministerial nº 13, de 27 de fevereiro de 2020, com alterações posteriores.
 3. Literatura de arquivologia, diplomática e história administrativa sobre registros, índices e protocolos documentais.
 4. Literatura de arquitetura da informação e bancos de dados sobre identificadores persistentes, como referência comparativa e não como origem histórica do protocolo administrativo.
+5. [[autores/Paul Ricoeur|Paul Ricoeur]]. *Soi-même comme un autre* / *Oneself as Another*. A noção de identidade narrativa é usada apenas por contraste para separar continuidade narrativa humana de persistência referencial de um caso.
+6. [[autores/Paul Ricoeur|Paul Ricoeur]]. *La mémoire, l'histoire, l'oubli* / *Memory, History, Forgetting*. Referência para distinguir traço, documento, arquivo e reconstrução do passado.
 
 ## Ficha arqueológica
 | Campo | Registro |
@@ -105,17 +121,18 @@ Quando essa infraestrutura funciona bem, o identificador pode desaparecer da int
 | **Refinamento** | Numeração sequencial, códigos estruturados, dígitos verificadores e integração com bancos de dados |
 | **Popularização** | Serviços de massa, burocracias estatais, comércio, logística e atendimento ao consumidor |
 | **Padronização** | Sistemas como o NUP brasileiro demonstram a transformação do protocolo em padrão interoperável entre órgãos |
-| **Hipótese de design** | O protocolo permite que uma demanda continue sendo reconhecida como a mesma mesmo quando todas as pessoas que lidam com ela mudam Hipótese sobre o comportamento humano: Pessoas e instituições conseguem coordenar melhor objetos complexos quando possuem uma referência curta e compartilhada para apontar para eles |
+| **Hipótese de design** | O protocolo permite que uma demanda continue sendo reconhecida como a mesma mesmo quando pessoas e contextos mudam; a persistência da referência reduz o custo de coordenar seu histórico |
 | **Comportamento aproveitado** | Uso de índices e rótulos para reencontrar informação |
 | **Comportamento produzido** | Solicitar, guardar e informar números de protocolo como parte normal da relação com serviços |
 | **Relação de poder** | Dá à organização capacidade de classificar e rastrear casos, mas também oferece ao usuário uma referência persistente para cobrar o que foi registrado |
-| **Consequências inesperadas** | O número pode virar símbolo de burocratização ou, ao contrário, instrumento de controle social quando permite provar que a demanda existe e continua sem resposta Capacidade ampliada: Rastreabilidade, continuidade entre atendentes e recuperação de histórico Capacidade reduzida ou deslocada: Parte da identidade narrativa do caso é substituída por uma chave abstrata no funcionamento interno Custo invisível: Atrito quando o identificador se perde e risco de transformar formalização do registro em substituto para resolução |
-| **Destino ou transformação posterior** | Permanece visível em serviços formais, mas sua lógica também foi incorporada a identificadores digitais que usuários muitas vezes nunca veem Legado: Números de pedido, tickets, códigos de rastreamento, IDs de transação e identificadores invisíveis de sistemas digitais |
-| **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória Distribuída]], [[01 conceitos/Redução de Inferências|Redução de Inferências]], [[01 conceitos/Justificabilidade|Justificabilidade]] |
-| **Variáveis relacionadas** | [[02 variaveis/Custo Transacional|Custo Transacional]], [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]] |
-| **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]], [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]] Família de ideias: Artefatos de identificação e rastreabilidade |
+| **Consequências inesperadas** | O número pode virar símbolo de burocratização, ser confundido com resolução ou preservar continuidade técnica enquanto contexto e sentido se perdem entre setores |
+| **Destino ou transformação posterior** | Permanece visível em serviços formais, mas sua lógica também foi incorporada a identificadores digitais que usuários muitas vezes nunca veem |
+| **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Redução de Inferências|Redução de inferências]], [[01 conceitos/Justificabilidade|Justificabilidade]] |
+| **Variáveis relacionadas** | [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]] |
+| **Autores relacionados** | [[autores/Paul Ricoeur|Paul Ricoeur]] como lente para distinguir referência persistente, narrativa, documento e interpretação |
+| **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]], [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]]. Família de ideias: artefatos de identificação e rastreabilidade |
 | **Percurso(s)** | [[05 percursos/Como o Design Aprendeu a Guardar|Como o Design Aprendeu a Guardar]] |
 | **Parentes** | [[03 artefatos/Carimbo|Carimbo]], [[03 artefatos/Login|Login]], número de pedido, código de rastreamento, ticket de suporte |
-| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
-| **Princípio de design revelado** | Para coordenar entidades através de sistemas extensos, é preciso criar uma referência persistente que sobreviva às interações locais Por que funcionou: Permite que muitos atores se refiram ao mesmo caso sem depender de memória pessoal ou descrição integral |
-| **Questão em aberto** | Quanto um identificador deve carregar de significado legível para o usuário e quanto pode permanecer como chave puramente interna sem reduzir sua capacidade de cobrar o sistema? |
+| **Leituras-chave** | [[00 índices/Livros Indicados|Memory, History, Forgetting]]; [[00 índices/Livros Indicados|Oneself as Another]] como contraste conceitual |
+| **Princípio de design revelado** | Uma referência persistente pode manter uma entidade coordenável através de muitas interações sem preservar automaticamente sua história ou seu sentido |
+| **Questão em aberto** | Como fazer o histórico institucional preservar não apenas a identidade técnica de um caso, mas contexto suficiente para que a pessoa não precise reconstruir sua narrativa a cada novo contato? |
