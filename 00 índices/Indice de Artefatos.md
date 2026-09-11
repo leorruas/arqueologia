@@ -76,6 +76,7 @@ Este índice organiza estudos publicados por campo de design. A classificação 
 - [[03 artefatos/Value Proposition Ad Lib|Value Proposition Ad Lib]]: estrutura lacunada para explicitar hipótese de valor.
 - [[03 artefatos/Justificativa de Valor Público|Justificativa de valor público]]: adaptação experimental do projeto para tornar escolhas públicas justificáveis.
 - [[03 artefatos/Portfólio|Portfólio]]: seleção e ordenação de evidências para tornar capacidade e trajetória avaliáveis.
+- [[03 artefatos/Mentoria|Mentoria]]: tecnologia social de acesso a experiência contextualizada que pode ampliar capacidade de interpretação e ação.
 
 ## Interfaces digitais e software
 
