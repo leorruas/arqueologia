@@ -139,6 +139,19 @@
         document.documentElement.className += " legacy-ios12";
         carregarCss("compat-ios12.css?v=ipad-mini-v2");
         carregarScript("legacy-ios12.js?v=ipad-mini-v2");
+
+        document.addEventListener("click", function (evento) {
+          var alvo = evento.target;
+          var href;
+          var destino;
+          while (alvo && alvo.tagName !== "A") alvo = alvo.parentNode;
+          if (!alvo) return;
+          href = alvo.getAttribute("href") || "";
+          if (href.indexOf("#referencia-legado-") !== 0) return;
+          evento.preventDefault();
+          destino = document.getElementById(href.substring(1));
+          if (destino) window.scrollTo(0, Math.max(0, destino.offsetTop - 80));
+        }, false);
       }
     }());
   </script>
