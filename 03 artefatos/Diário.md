@@ -38,6 +38,10 @@ A sequência também transforma eventos isolados em padrão. Uma ansiedade anota
 
 É aqui que o diário começa a se aproximar de artefatos contemporâneos de tracking. O que muda não é apenas o suporte. Muda o grau em que registrar depende de decisão consciente ou acontece automaticamente.
 
+Mas o diário também pertence a outra família: a das coleções pessoais produzidas por seleção. Ele se aproxima funcionalmente de commonplace books, fichas bibliográficas e cartões de índice porque todos transformam encontros dispersos em material que pode voltar a participar do pensamento. A diferença está na regra de organização. O diário tende a preservar **sequência temporal**; o commonplace book organiza excertos e ideias para recuperação por tema; a ficha transforma um fragmento em unidade independente; o [[03 artefatos/Favorito Bookmark|favorito / bookmark]] preserva apenas o caminho de retorno a algo que continua fora da coleção material do usuário.
+
+Essas práticas não formam uma linhagem histórica única. O parentesco está na hipótese de que **selecionar algo agora pode reduzir o custo de pensar ou reencontrar depois**.
+
 ## Escrever também modifica aquilo que será lembrado
 
 O diário costuma ser tratado como recipiente da memória, mas ele participa de sua construção.
@@ -45,6 +49,8 @@ O diário costuma ser tratado como recipiente da memória, mas ele participa de 
 Ao escrever, a pessoa precisa nomear, ordenar e escolher. Uma experiência confusa pode receber começo, meio, causa, personagem e consequência. O registro não apenas captura uma interpretação; ajuda a produzi-la.
 
 Isso aproxima o diário de [[01 conceitos/Servico de Reflexao|serviço de reflexão]] e [[01 conceitos/Memoria Distribuida|memória distribuída]]. A página externaliza uma parte da experiência para que ela possa ser examinada de fora.
+
+O contraste com o bookmark ajuda a distinguir duas formas de coleção. No diário, algo do encontro é **incorporado** ao suporte pessoal e pode ser reescrito, resumido ou reinterpretado. No bookmark, o objeto permanece fora e a coleção guarda sobretudo uma referência. Um guarda conteúdo transformado; o outro guarda acesso potencial.
 
 O ganho também contém risco. Uma narrativa escrita pode adquirir uma autoridade que a lembrança fluida não tinha. Quando voltamos ao diário, podemos lembrar não apenas o que aconteceu, mas **a versão que registramos quando aconteceu**.
 
@@ -80,8 +86,8 @@ A pergunta que sobra é: quando registramos para não esquecer, quanto daquilo q
 | **Popularização** | Expansão da alfabetização, disponibilidade de papel e cultura moderna de escrita pessoal |
 | **Padronização** | Formato de entradas cronológicas tornou-se convenção reconhecível, embora existam muitas variações |
 | **Hipótese de design** | Se experiências forem externalizadas em sequência, o autor poderá reconstruir e reinterpretar seu próprio passado |
-| **Comportamento aproveitado** | Narrar acontecimentos e usar escrita para memória e reflexão |
-| **Comportamento produzido** | Registrar rotineiramente, reler a própria experiência e reconhecer padrões retrospectivos |
+| **Comportamento aproveitado** | Narrar acontecimentos, selecionar experiências e usar escrita para memória e reflexão |
+| **Comportamento produzido** | Registrar rotineiramente, reler a própria experiência, formar coleções pessoais de registros e reconhecer padrões retrospectivos |
 | **Relação de poder** | O autor escolhe o que registrar e omitir; quando o diário é publicado, arquivado ou apreendido, um objeto privado pode tornar-se fonte para outros |
 | **Consequências inesperadas** | A versão escrita pode estabilizar interpretações provisórias e influenciar memórias futuras; registros privados podem ganhar vida pública |
 | **Destino ou transformação posterior** | Coexiste com blogs, apps de journaling e sistemas automáticos de tracking |
@@ -89,7 +95,7 @@ A pergunta que sobra é: quando registramos para não esquecer, quanto daquilo q
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Reversibilidade|Reversibilidade]] |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] |
 | **Percurso(s)** | [[05 percursos/Como o Design Aprendeu a Guardar|Como o Design Aprendeu a Guardar]] |
-| **Parentes** | [[03 artefatos/Calendário|Calendário]], [[03 artefatos/Post-it|Post-it]]; tracker financeiro e log como parentes ainda em estudo |
+| **Parentes** | [[03 artefatos/Calendário|Calendário]], [[03 artefatos/Post-it|Post-it]], [[03 artefatos/Favorito Bookmark|Favorito / bookmark]]; commonplace book, ficha bibliográfica e cartão de índice como parentes comparativos ainda sem estudo próprio; tracker financeiro e log como parentes em outras formas de registro |
 | **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Externalizar experiência não apenas preserva memória; cria uma superfície sobre a qual a própria experiência pode ser reinterpretada |
 | **Questão em aberto** | Quanto do passado recuperado por um diário pertence ao acontecimento e quanto pertence à forma como o registro ensinou o autor a narrá-lo? |
