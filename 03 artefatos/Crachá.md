@@ -84,11 +84,10 @@ Ricoeur acrescenta um cuidado: verificabilidade institucional não deve ser conf
 | **Comportamento aproveitado** | Reconhecer sinais visuais de filiação e apresentar credenciais em fronteiras controladas |
 | **Comportamento produzido** | Portar identidade institucional visível e validar o próprio corpo em catracas e portarias |
 | **Relação de poder** | Facilita autonomia de circulação autorizada, mas torna classificação, exclusão e vigilância operacionalmente simples |
-| **Consequências inesperadas** | Dependência do objeto, clonagem, extravio, hierarquias visuais de vínculo ou acesso e tendência a confundir classificação institucional com identidade da pessoa |
+| **Consequências inesperadas** | Dependência do objeto, clonagem, extravio, hierarquias visuais de vínculo ou acesso e tendência a confundir classificação institucional com identidade da pessoa Registros adicionais preservados da ficha anterior: autores relacionados: [[autores/Paul Ricoeur|Paul Ricoeur]] como lente para distinguir identidade humana de mesmidade operacional |
 | **Destino ou transformação posterior** | Credenciais digitais, smartphones e biometria deslocam a prova para suportes menos visíveis sem eliminar a lógica de identidade operacional |
 | **Conceitos relacionados** | [[01 conceitos/Limiares|Limiares]], [[01 conceitos/Tecnologias de Delimitacao|Tecnologias de delimitação]], identidade operacional, mesmidade e ipseidade |
 | **Variáveis relacionadas** | [[02 variaveis/Legitimidade Decisoria|Legitimidade decisória]], [[02 variaveis/Friccao|Fricção]] |
-| **Autores relacionados** | [[autores/Paul Ricoeur|Paul Ricoeur]] como lente para distinguir identidade humana de mesmidade operacional |
 | **Genealogia** | [[04 genealogias/Limiares e Delimitacao|Limiares e delimitação]] |
 | **Percurso(s)** | [[05 percursos/Como Projetamos Fronteiras|Como Projetamos Fronteiras]] |
 | **Parentes** | [[03 artefatos/Login|Login]], [[03 artefatos/Tela de Login|Tela de login]], passaporte, chave, uniforme, [[03 artefatos/Portfólio|Portfólio]] por contraste entre classificação e narrativa |
