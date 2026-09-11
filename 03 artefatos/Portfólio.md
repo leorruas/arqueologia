@@ -105,7 +105,7 @@ Ricoeur torna essa pergunta ainda mais precisa: uma narrativa pode tornar açõe
 | **Conceitos relacionados** | Identidade narrativa, evidência, curadoria, autoria e [[01 conceitos/Memoria Distribuida|Memória distribuída]] |
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Legitimidade Decisoria|Legitimidade decisória]] |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] como parentesco secundário |
-| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
+| **Percurso(s)** | [[05 percursos/Do Reflexo ao Perfil|Do Reflexo ao Perfil]] |
 | **Parentes** | [[03 artefatos/Diário|Diário]], currículo, diário de projeto, repositório de código, histórico de versões, case study |
 | **Leituras-chave** | [[00 índices/Livros Indicados|Time and Narrative]], [[00 índices/Livros Indicados|Oneself as Another]] |
 | **Princípio de design revelado** | Selecionar rastros de ações passadas permite produzir uma representação portátil de continuidade profissional, mas toda evidência de trajetória é também uma edição dela |

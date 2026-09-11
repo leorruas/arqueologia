@@ -109,7 +109,7 @@ A pergunta que fica para esta escavação é talvez essa: **o que acontece quand
 | **Conceitos relacionados** | [[01 conceitos/Tecnologia de Acesso|Tecnologia de acesso]], [[01 conceitos/Autodeterminação|Autodeterminação]], [[01 conceitos/Redução de Inferências|Redução de inferências]], [[01 conceitos/Promessa|Promessa]] |
 | **Variáveis relacionadas** | [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Expectativa de Disponibilidade|Expectativa de disponibilidade]], [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]] |
 | **Genealogia** | Possível genealogia futura de auto-observação e feedback |
-| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
+| **Percurso(s)** | [[05 percursos/Do Reflexo ao Perfil|Do Reflexo ao Perfil]] |
 | **Parentes** | [[03 artefatos/Camera Fotografica|Câmera fotográfica]], [[03 artefatos/Quadro Branco|Quadro branco]] por feedback imediato sobre uma superfície manipulável, e sistemas de tracking como hipótese comparativa futura |
 | **Leituras-chave** | Henri Bergson, *Matière et mémoire*; Paul Ricoeur, *Soi-même comme un autre* |
 | **Princípio de design revelado** | Reduzir o custo do feedback pode transformar uma verificação ocasional em rotina de autocorreção |
