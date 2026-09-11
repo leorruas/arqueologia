@@ -85,6 +85,14 @@ Para funcionar como sistema compartilhável, o calendário precisa tratar unidad
 
 A nota anterior descrevia isso como “homogeneização do tempo vivido”. A formulação é útil como interpretação, desde que não confundamos representação com experiência. O calendário não torna os dias subjetivamente iguais; ele oferece uma grade comum na qual eles podem ser administrados como unidades equivalentes.
 
+[[autores/Henri Bergson|Henri Bergson]] torna essa diferença mais precisa. Em *Essai sur les données immédiates de la conscience*, ele distingue a duração vivida da representação espacial do tempo em unidades justapostas.[^6] A duração não é simplesmente uma fila de instantes idênticos: estados se interpenetram e cada momento carrega a transformação produzida pelos anteriores.
+
+O calendário realiza justamente uma operação de design que Bergson ajuda a enxergar: **para tornar o tempo coordenável, ele o traduz em posições exteriores umas às outras**. Segunda pode ocupar uma célula, terça a próxima; 14h pode ser separado de 15h; um mês pode caber numa grade. A tradução não é um erro. É o que torna comparação, cálculo e coordenação possíveis.
+
+Mas ela tem custo representacional. Duas horas ocupam a mesma extensão na agenda mesmo quando uma passa como espera insuportável e outra como conversa que parece breve. A interface preserva duração quantitativa e deixa quase toda a duração qualitativa fora do desenho.
+
+Isso muda a pergunta arqueológica. Em vez de dizer que o calendário “homogeneíza a experiência”, é mais preciso perguntar: **o que ganhamos quando tratamos intervalos como equivalentes e o que se torna invisível para o sistema quando fazemos isso?**
+
 Essa abstração é o que permite coordenação em larga escala. Também é o que permite preencher uma agenda até que todo intervalo pareça potencialmente disponível para alguma obrigação.
 
 Em calendários digitais, notificações e convites adicionam outra tensão. O futuro individual torna-se superfície sobre a qual outras pessoas e sistemas podem solicitar espaço. A pergunta deixa de ser apenas “como lembro do meu tempo?” e passa a incluir “quem pode escrever nele?”.
@@ -96,6 +104,7 @@ Em calendários digitais, notificações e convites adicionam outra tensão. O f
 3. Encyclopaedia Britannica e fontes históricas sobre a reforma gregoriana de 1582, Aloysius Lilius e Christopher Clavius.
 4. [[autores/Norbert Elias|Norbert Elias]]. *Sobre o Tempo*. Referência teórica sobre tempo como meio social de orientação e coordenação.
 5. [[autores/Richard H. Thaler|Richard H. Thaler]] e [[autores/Cass R. Sunstein|Cass R. Sunstein]]. *Nudge*. Referência comparativa para estruturas que organizam escolhas e comportamento, não fonte para a história do calendário.
+6. [[autores/Henri Bergson|Henri Bergson]]. *Essai sur les données immédiates de la conscience* (1889), traduzido como *Time and Free Will*. Referência comparativa para a distinção entre duração vivida e representação espacializada do tempo.
 
 ## Ficha arqueológica
 | Campo | Registro |
@@ -112,17 +121,18 @@ Em calendários digitais, notificações e convites adicionam outra tensão. O f
 | **Refinamento** | Ajustes astronômicos, sistemas de intercalação, padronizações religiosas e civis e novas formas gráficas |
 | **Popularização** | Expansão de administrações, religiões, comércio e meios impressos tornou calendários parte cotidiana da coordenação social |
 | **Padronização** | O calendário gregoriano tornou-se uma referência civil internacional por adoção gradual, não instantânea em 1582 |
-| **Hipótese de design** | O calendário transforma tempo observado e convenções coletivas em uma arquitetura externa na qual o futuro pode ser coordenado Hipótese sobre o comportamento humano: Pessoas conseguem coordenar futuros complexos quando ciclos e compromissos são externalizados em unidades compartilhadas |
+| **Hipótese de design** | O calendário transforma tempo observado e convenções coletivas em uma arquitetura externa na qual o futuro pode ser coordenado. Pessoas conseguem coordenar futuros complexos quando ciclos e compromissos são externalizados em unidades compartilhadas |
 | **Comportamento aproveitado** | Reconhecimento humano de ciclos e capacidade de antecipar eventos |
 | **Comportamento produzido** | Marcar datas, cumprir prazos, agendar compromissos, celebrar efemérides e tratar partes do futuro como posições negociáveis |
 | **Relação de poder** | Quem define calendários, feriados, prazos e disponibilidade também participa da organização social do tempo de outras pessoas |
-| **Consequências inesperadas** | Calendários digitais transformam representação em infraestrutura ativa de convites, notificações, recorrências e automação Capacidade ampliada: Planejamento de longo prazo, memória externa e sincronização entre pessoas distantes Capacidade reduzida ou deslocada: Parte da orientação temporal passa a depender de convenções e sistemas externos em vez de observação direta dos ciclos Custo invisível: Possibilidade de transformar todo intervalo futuro em unidade administrável, ocupável e sujeita a obrigações externas Registros adicionais preservados da ficha anterior: o que simplifica: Comparação de datas, previsão convencional e coordenação de eventos sem recalcular fenômenos naturais; o que esconde: Diferenças qualitativas do tempo vivido e a história política das convenções que fazem uma data parecer natural |
-| **Destino ou transformação posterior** | Evoluiu de sistemas inscritos e impressos para infraestruturas digitais conectadas a bancos de dados, notificações e automações Legado: Agenda, cronograma, Gantt, roadmap, calendários escolares, fiscais, editoriais e sistemas digitais de agendamento |
+| **Consequências inesperadas** | Calendários digitais transformam representação em infraestrutura ativa de convites, notificações, recorrências e automação. A mesma abstração que facilita coordenação também permite tratar quase todo intervalo futuro como unidade ocupável |
+| **Destino ou transformação posterior** | Evoluiu de sistemas inscritos e impressos para infraestruturas digitais conectadas a bancos de dados, notificações e automações. Legado: agenda, cronograma, Gantt, roadmap, calendários escolares, fiscais, editoriais e sistemas digitais de agendamento |
 | **Conceitos relacionados** | [[01 conceitos/Sincronizacao|Sincronização]], [[01 conceitos/Memoria Distribuida|Memória Distribuída]], [[01 conceitos/Tecnologia de Acesso|Tecnologia de Acesso]], [[01 conceitos/Continuidade de Acesso|Continuidade de Acesso]] |
 | **Variáveis relacionadas** | [[02 variaveis/Expectativa de Disponibilidade|Expectativa de Disponibilidade]], [[02 variaveis/Custo Transacional|Custo Transacional]], [[02 variaveis/Permanencia|Permanência]] |
-| **Genealogia** | [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]], [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] Família de ideias: Artefatos de sincronização e externalização do futuro |
-| **Percurso(s)** | [[05 percursos/Da Espera a Sincronizacao|Da Espera a Sincronizacao]] |
+| **Autores relacionados** | [[autores/Norbert Elias|Norbert Elias]], [[autores/Henri Bergson|Henri Bergson]] |
+| **Genealogia** | [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]], [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]]. Família de ideias: artefatos de sincronização e externalização do futuro |
+| **Percurso(s)** | [[05 percursos/Da Espera a Sincronizacao|Da Espera a Sincronização]] |
 | **Parentes** | [[03 artefatos/Agendamento|Agendamento]], [[03 artefatos/Fila|Fila]], [[03 artefatos/Checklist|Checklist]], [[03 artefatos/Post-it|Post-it]], agenda, cronograma e diagrama de Gantt |
-| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
-| **Princípio de design revelado** | Representar uma variável abstrata em posições compartilhadas permite que grupos coordenem ações sem precisar compartilhar continuamente memória, presença ou observação Por que funcionou: Converte fenômenos temporais e acordos sociais em uma linguagem externa, repetível e compartilhável |
+| **Leituras-chave** | [[00 índices/Livros Indicados|Time and Free Will]], [[00 índices/Livros Indicados|Sobre o Tempo]] |
+| **Princípio de design revelado** | Representar uma variável abstrata em posições compartilhadas permite que grupos coordenem ações sem compartilhar continuamente memória, presença ou observação; toda representação temporal também seleciona quais propriedades do tempo continuarão visíveis |
 | **Questão em aberto** | Quando calendários digitais deixam de apenas ajudar uma pessoa a organizar seu tempo e passam a permitir que outras pessoas e sistemas administrem parcelas dele? |
