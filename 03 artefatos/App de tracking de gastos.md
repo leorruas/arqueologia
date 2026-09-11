@@ -98,11 +98,10 @@ A pergunta arqueológica é incômoda: **quando um sistema nos ajuda a enxergar 
 | **Comportamento aproveitado** | Registrar gastos, comparar saldos e revisar decisões passadas |
 | **Comportamento produzido** | Consultar dashboards financeiros, acompanhar categorias, reagir a alertas e usar histórico como feedback comportamental |
 | **Relação de poder** | A plataforma decide categorias, métricas e destaques e pode concentrar dados íntimos sobre comportamento econômico; o usuário ganha visão agregada, mas delega parte da interpretação |
-| **Consequências inesperadas** | Automação pode reduzir reflexão no momento do registro, naturalizar categorias inadequadas, aumentar ansiedade financeira e criar infraestrutura de vigilância comportamental |
+| **Consequências inesperadas** | Automação pode reduzir reflexão no momento do registro, naturalizar categorias inadequadas, aumentar ansiedade financeira e criar infraestrutura de vigilância comportamental Registros adicionais preservados da ficha anterior: autores relacionados: [[autores/Henri Bergson|Henri Bergson]] como lente sobre duração e discretização da experiência |
 | **Destino ou transformação posterior** | Funções de tracking foram incorporadas a bancos digitais, carteiras, fintechs e sistemas de gestão financeira mais amplos |
 | **Conceitos relacionados** | [[01 conceitos/Servico de Reflexao|Serviço de reflexão]], [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]] |
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Atrito Decisorio|Atrito decisório]] |
-| **Autores relacionados** | [[autores/Henri Bergson|Henri Bergson]] como lente sobre duração e discretização da experiência |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]]; possível futura genealogia de registro e auto-observação |
 | **Percurso(s)** | [[05 percursos/Como o Design Aprendeu a Guardar|Como o Design Aprendeu a Guardar]] |
 | **Parentes** | [[03 artefatos/Diário|Diário]], [[03 artefatos/Calendário|Calendário]], [[03 artefatos/Checklist|Checklist]] |
