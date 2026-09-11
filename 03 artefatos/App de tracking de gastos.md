@@ -51,6 +51,20 @@ A escolha “restaurante” versus “alimentação”, por exemplo, já interpr
 
 O tracker não apenas revela o comportamento. **Ele enquadra o comportamento para que possa ser julgado.**
 
+## O gráfico precisa cortar o fluxo
+
+[[autores/Henri Bergson|Henri Bergson]] oferece uma lente útil para perguntar o que acontece nessa transformação. Sua noção de duração chama atenção para a continuidade qualitativa da experiência: um momento não é simplesmente uma unidade isolada ao lado de outras, porque carrega aquilo que o precedeu e modifica o sentido do que vem depois.[^5]
+
+O tracker precisa fazer outra operação para produzir uma interface administrável. Ele recorta o fluxo econômico em transações, atribui categorias, escolhe períodos e agrega valores. Uma compra vira uma linha; várias linhas viram “alimentação em setembro”; meses viram barras comparáveis.
+
+Essa discretização não é defeito do sistema. **É a condição para que o comportamento se torne calculável e visualizável.** Sem cortes, categorias e intervalos, não haveria total mensal, tendência ou orçamento automático.
+
+Mas o recorte também elimina propriedades da experiência. Duas compras de R$ 50 entram como grandezas equivalentes mesmo que uma tenha sido uma urgência, outra uma celebração e outra um hábito repetido com culpa. O gráfico consegue preservar valor, data e categoria; não preserva automaticamente o modo como aquela despesa participou da duração da vida.
+
+Isso produz uma distinção importante para esta arqueologia: **dado financeiro não é experiência financeira**. A métrica pode revelar algo que a experiência imediata escondia e, ao mesmo tempo, ocultar aquilo que não coube em seus campos.
+
+Bergson não serve aqui para dizer que medir é falso. Serve para perguntar qual tradução foi necessária para que o vivido se tornasse comparável e quais dimensões deixaram de participar da representação.
+
 ## Autoconhecimento também pode virar vigilância
 
 Quanto mais automático o tracking, menos o usuário controla quais acontecimentos entram no registro.
@@ -88,11 +102,12 @@ A pergunta arqueológica é incômoda: **quando um sistema nos ajuda a enxergar 
 | **Destino ou transformação posterior** | Funções de tracking foram incorporadas a bancos digitais, carteiras, fintechs e sistemas de gestão financeira mais amplos |
 | **Conceitos relacionados** | [[01 conceitos/Servico de Reflexao|Serviço de reflexão]], [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]] |
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Atrito Decisorio|Atrito decisório]] |
+| **Autores relacionados** | [[autores/Henri Bergson|Henri Bergson]] como lente sobre duração e discretização da experiência |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]]; possível futura genealogia de registro e auto-observação |
 | **Percurso(s)** | [[05 percursos/Como o Design Aprendeu a Guardar|Como o Design Aprendeu a Guardar]] |
 | **Parentes** | [[03 artefatos/Diário|Diário]], [[03 artefatos/Calendário|Calendário]], [[03 artefatos/Checklist|Checklist]] |
-| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
-| **Princípio de design revelado** | Um registro ganha força comportamental quando não apenas preserva o passado, mas o devolve em uma forma que pode alterar a próxima decisão |
+| **Leituras-chave** | [[00 índices/Livros Indicados|Time and Free Will]] como referência comparativa para duração e discretização |
+| **Princípio de design revelado** | Um registro ganha força comportamental quando não apenas preserva o passado, mas o devolve em uma forma que pode alterar a próxima decisão; para isso, precisa decidir quais partes do fluxo vivido se tornam dados comparáveis |
 | **Questão em aberto** | Como projetar auto-observação financeira sem transformar categorias e métricas do sistema em julgamentos normativos invisíveis sobre a vida do usuário? |
 
 ## Referências
@@ -104,3 +119,5 @@ A pergunta arqueológica é incômoda: **quando um sistema nos ajuda a enxergar 
 [^3]: TechCrunch. “Mint Wins TechCrunch40 Top Company Award; Takes $50,000 Prize”. 18 set. 2007. Relato contemporâneo da agregação de contas e cartões, categorização automática de transações e alertas do Mint. https://techcrunch.com/2007/09/18/mint-wins-techcrunch40-50000-award/
 
 [^4]: TechCrunch. “Mint Leaves Beta, Brings A Bunch Of New Features With It”. 14 out. 2008. Registra a introdução de categorias personalizadas e regras definidas por usuários, em contraste com o conjunto anteriormente imposto pelo serviço. https://techcrunch.com/2008/10/14/mint-leaves-beta-brings-a-bunch-of-new-features-with-it/
+
+[^5]: [[autores/Henri Bergson|Bergson, Henri]]. *Essai sur les données immédiates de la conscience*. Paris: Félix Alcan, 1889. Tradução inglesa: *Time and Free Will*, trad. F. L. Pogson. London: George Allen & Unwin, 1910. Usado aqui como lente comparativa sobre duração e representação discreta do fluxo.
