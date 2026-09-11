@@ -54,6 +54,7 @@ Catálogo de designers, pesquisadores, teóricos e pioneiros da história do des
 ### Filosofia, sociologia e relações de poder
 - [[autores/Francis Bacon|Francis Bacon]]: método científico indutivo.
 - [[autores/Henri Bergson|Henri Bergson]]: duração, percepção, reconhecimento atento e memória; referência para investigar o que artefatos discretizam, estabilizam ou deixam escapar da experiência.
+- [[autores/Kaisa Kärki|Kaisa Kärki]]: agência, autonomia e liberdade da atenção; referência central para investigar autogoverno atencional e regulação ambiental do foco.
 - [[autores/Paul Ricoeur|Paul Ricoeur]]: identidade narrativa, mesmidade e ipseidade, promessa, responsabilidade, memória, testemunho e arquivo.
 - [[autores/Michel Foucault|Michel Foucault]]: arqueologia do saber, dispositivos e relações de poder.
 - [[autores/Norbert Elias|Norbert Elias]]: processo civilizador, tempo e interdependência.
