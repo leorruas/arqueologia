@@ -75,6 +75,7 @@ A interface passa, portanto, a desenhar não apenas ações, mas **graus de inde
 | **Autoria** | Atribuição difusa; distinguir o parâmetro técnico das metáforas adotadas por diferentes produtos |
 | **Produto ou contexto** | Interfaces e configurações de sistemas generativos |
 | **Tipo(s) de design** | Design de interface, design de IA |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Tornar controlável o grau de variação de saídas probabilísticas |
 | **Mundo antes** | Interfaces computacionais privilegiavam resultados previsíveis e controles cujo efeito esperado era relativamente estável |
 | **Invenção** | Uso técnico de temperatura em procedimentos probabilísticos antecede sua apresentação como controle de IA generativa |
@@ -90,7 +91,7 @@ A interface passa, portanto, a desenhar não apenas ações, mas **graus de inde
 | **Conceitos relacionados** | [[01 conceitos/Antropomorfismo|Antropomorfismo]], probabilidade, amostragem, diversidade, metáfora de interface |
 | **Variáveis relacionadas** | previsibilidade, diversidade de saída, transparência do mecanismo |
 | **Genealogia** | controles de intensidade, sliders, presets, instrumentos que traduzem mecanismos técnicos em escalas operáveis |
-| **Percurso(s)** | Ainda não explicitado. |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | [[03 artefatos/Botao Regenerar|Botão regenerar]], controle de volume, termostato, presets |
 | **Leituras-chave** | Holtzman et al. (2020); Zhang et al. (2020) |
 | **Princípio de design revelado** | Interfaces tornam mecanismos abstratos operáveis ao traduzi-los em categorias humanas, mas toda tradução também enquadra como o mecanismo será compreendido |

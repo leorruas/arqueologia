@@ -96,11 +96,10 @@ A câmera, assim, não apenas oferece memória externa. Ela introduz no presente
 | **Comportamento aproveitado** | Desejo de preservar rostos, acontecimentos, lugares, evidências e experiências |
 | **Comportamento produzido** | Documentar o cotidiano, construir álbuns, fotografar viagens, produzir provas, selfies e compartilhar imagens continuamente |
 | **Relação de poder** | Fotografar significa também selecionar, classificar e enquadrar; controle do registro, da legenda e do arquivo produz autoridade sobre a narrativa |
-| **Consequências inesperadas** | Vigilância, cultura da selfie, turismo orientado à imagem, manipulação fotográfica e tendência a tratar vestígios visuais como se contivessem o acontecimento inteiro |
+| **Consequências inesperadas** | Vigilância, cultura da selfie, turismo orientado à imagem, manipulação fotográfica e tendência a tratar vestígios visuais como se contivessem o acontecimento inteiro Registros adicionais preservados da ficha anterior: autores relacionados: [[autores/Paul Ricoeur|Paul Ricoeur]]: vestígio, representação do passado, mesmidade e ipseidade |
 | **Destino ou transformação posterior** | Câmera digital, smartphone, fotografia computacional, câmeras conectadas e sistemas de visão computacional |
 | **Conceitos relacionados** | enquadramento, focalização, [[01 conceitos/Memoria Distribuida|memória distribuída]], prova, representação, atenção, figura e fundo, documentação e mediação |
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], custo de captura, tempo de exposição, portabilidade, quantidade de registros e campo visual |
-| **Autores relacionados** | [[autores/Paul Ricoeur|Paul Ricoeur]]: vestígio, representação do passado, mesmidade e ipseidade |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]]; história técnica: câmera obscura → processos fotossensíveis → fotografia em placa → filme → câmera portátil → digital → smartphone |
 | **Percurso(s)** | Candidata ao percurso futuro `Do reflexo ao perfil` |
 | **Parentes** | [[03 artefatos/Luminaria|Luminária]], moldura, cursor, Post-it, projetor, [[03 artefatos/Espelho|Espelho]], scanner e câmera de vídeo |
