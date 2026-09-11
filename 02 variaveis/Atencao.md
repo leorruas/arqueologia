@@ -38,7 +38,7 @@ O [[03 artefatos/Grid|Grid]] é interessante porque pode tornar certas relaçõe
 
 Isso não significa que os artefatos “limpem a mente”. Eles redistribuem trabalho atencional. O usuário pode gastar menos foco organizando e mais procurando depois; pode prestar menos atenção à estrutura e mais ao conteúdo.
 
-Essa ideia conecta a variável à [[01 conceitos/Autonomia da Atencao|Autonomia da atenção]]. As duas não são equivalentes. **Atenção** pergunta quanto foco é exigido ou mobilizado. **Autonomia da atenção** pergunta quem controla quando esse foco será convocado.
+Essa ideia conecta a variável à [[01 conceitos/Autonomia da Atencao|Autonomia da atenção]]. As duas não são equivalentes. **Atenção** pergunta quanto foco é exigido ou mobilizado. **Autonomia da atenção** investiga como agência, autonomia e liberdade se distribuem na orientação, manutenção e mudança desse foco, apoiando-se especialmente na distinção formulada por [[autores/Kaisa Kärki|Kaisa Kärki]].
 
 ## Alta atenção pode ser desejável
 
