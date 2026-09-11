@@ -90,10 +90,57 @@
     <p>arqueologia do design • um acervo em construção</p>
   </footer>
 
-  <script type="module" src="script.js?v=arqueologia-v5"></script>
-  <script type="module" src="enhancements.js?v=arqueologia-v5"></script>
-  <script type="module" src="footnotes.js?v=arqueologia-v1"></script>
-  <script type="module" src="puc-parity.js?v=arqueologia-v4"></script>
-  <script type="module" src="callouts.js?v=arqueologia-v1"></script>
+  <script>
+    (function () {
+      function suportaLeitorModerno() {
+        try {
+          new Function("var item = { filho: { valor: 1 } }; return item?.filho?.valor;");
+          new Function("return /(?<!a)b/.test('b');");
+          return true;
+        } catch (erro) {
+          return false;
+        }
+      }
+
+      function carregarScript(src, tipo, aoTerminar) {
+        var script = document.createElement("script");
+        script.src = src;
+        if (tipo) script.type = tipo;
+        if (aoTerminar) {
+          script.onload = aoTerminar;
+          script.onerror = aoTerminar;
+        }
+        document.body.appendChild(script);
+      }
+
+      function carregarCss(href) {
+        var link = document.createElement("link");
+        link.rel = "stylesheet";
+        link.href = href;
+        document.head.appendChild(link);
+      }
+
+      function carregarModulosEmSerie(modulos, indice) {
+        if (indice >= modulos.length) return;
+        carregarScript(modulos[indice], "module", function () {
+          carregarModulosEmSerie(modulos, indice + 1);
+        });
+      }
+
+      if (suportaLeitorModerno()) {
+        carregarModulosEmSerie([
+          "script.js?v=arqueologia-v5",
+          "enhancements.js?v=arqueologia-v5",
+          "footnotes.js?v=arqueologia-v1",
+          "puc-parity.js?v=arqueologia-v4",
+          "callouts.js?v=arqueologia-v1"
+        ], 0);
+      } else {
+        document.documentElement.className += " legacy-ios12";
+        carregarCss("compat-ios12.css?v=ipad-mini-v1");
+        carregarScript("legacy-ios12.js?v=ipad-mini-v1");
+      }
+    }());
+  </script>
 </body>
 </html>
