@@ -103,11 +103,10 @@ A pergunta que sobra é: quando registramos para não esquecer, quanto daquilo q
 | **Comportamento aproveitado** | Narrar acontecimentos, selecionar experiências e usar escrita para memória e reflexão |
 | **Comportamento produzido** | Registrar rotineiramente, reler a própria experiência, formar coleções pessoais de registros e reconhecer padrões retrospectivos |
 | **Relação de poder** | O autor escolhe o que registrar e omitir; quando o diário é publicado, arquivado ou apreendido, um objeto privado pode tornar-se fonte para outros |
-| **Consequências inesperadas** | A versão escrita pode estabilizar interpretações provisórias, influenciar memórias futuras e produzir uma coerência retrospectiva que o vivido não possuía |
+| **Consequências inesperadas** | A versão escrita pode estabilizar interpretações provisórias, influenciar memórias futuras e produzir uma coerência retrospectiva que o vivido não possuía Registros adicionais preservados da ficha anterior: autores relacionados: [[autores/Paul Ricoeur|Paul Ricoeur]]: identidade narrativa, mesmidade e ipseidade |
 | **Destino ou transformação posterior** | Coexiste com blogs, apps de journaling e sistemas automáticos de tracking |
 | **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Servico de Reflexao|Serviço de reflexão]], [[01 conceitos/Investigação|Investigação]]; identidade narrativa como lente comparativa |
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Reversibilidade|Reversibilidade]] |
-| **Autores relacionados** | [[autores/Paul Ricoeur|Paul Ricoeur]]: identidade narrativa, mesmidade e ipseidade |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] |
 | **Percurso(s)** | [[05 percursos/Como o Design Aprendeu a Guardar|Como o Design Aprendeu a Guardar]] |
 | **Parentes** | [[03 artefatos/Calendário|Calendário]], [[03 artefatos/Post-it|Post-it]], [[03 artefatos/Favorito Bookmark|Favorito / bookmark]], [[03 artefatos/Portfólio|Portfólio]]; commonplace book, ficha bibliográfica e cartão de índice como parentes comparativos ainda sem estudo próprio; tracker financeiro e log como parentes em outras formas de registro |

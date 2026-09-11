@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-11T08:06:44.658Z",
+  "generatedAt": "2026-09-11T08:09:57.634Z",
   "scope": "Integração do grafo: títulos duplicados dentro da mesma camada, índices, home, reciprocidade estrutural, tipos de design e nós órfãos. Conceitos e variáveis não exigem backlink exaustivo.",
-  "issueCount": 2,
+  "issueCount": 3,
   "countsByKind": {
-    "missing-reciprocal-link": 2
+    "missing-reciprocal-link": 3
   },
   "issues": [
     {
@@ -17,6 +17,12 @@
       "sourcePath": "03 artefatos/Fila.md",
       "targetPath": "autores/Henri Bergson.md",
       "detail": "A ficha liga para autores/Henri Bergson.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Portfólio.md",
+      "targetPath": "04 genealogias/Permanencia e Memoria Externa.md",
+      "detail": "A ficha liga para 04 genealogias/Permanencia e Memoria Externa.md, mas a nota relacionada não devolve o vínculo."
     }
   ]
 }

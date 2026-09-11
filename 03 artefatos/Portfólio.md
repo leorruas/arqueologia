@@ -100,11 +100,10 @@ Ricoeur torna essa pergunta ainda mais precisa: uma narrativa pode tornar açõe
 | **Comportamento aproveitado** | Julgar capacidade por exemplos observáveis e construir continuidade por narrativa |
 | **Comportamento produzido** | Documentar, selecionar e narrar o próprio trabalho como parte da vida profissional |
 | **Relação de poder** | Pode reduzir dependência de credenciais formais, mas transfere ao indivíduo a obrigação de curar e promover continuamente sua própria produção |
-| **Consequências inesperadas** | Autopromoção permanente, ocultação de fracassos, simplificação de autoria coletiva e incentivo a privilegiar projetos fáceis de representar |
+| **Consequências inesperadas** | Autopromoção permanente, ocultação de fracassos, simplificação de autoria coletiva e incentivo a privilegiar projetos fáceis de representar Registros adicionais preservados da ficha anterior: autores relacionados: [[autores/Paul Ricoeur|Paul Ricoeur]]: identidade narrativa e continuidade através da mudança |
 | **Destino ou transformação posterior** | Do estojo e pasta física a websites, plataformas de portfólio, repositórios e narrativas multimídia de projeto |
 | **Conceitos relacionados** | Identidade narrativa, evidência, curadoria, autoria e [[01 conceitos/Memoria Distribuida|Memória distribuída]] |
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Legitimidade Decisoria|Legitimidade decisória]] |
-| **Autores relacionados** | [[autores/Paul Ricoeur|Paul Ricoeur]]: identidade narrativa e continuidade através da mudança |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] como parentesco secundário |
 | **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | [[03 artefatos/Diário|Diário]], currículo, diário de projeto, repositório de código, histórico de versões, case study |
