@@ -81,6 +81,26 @@ Não usar uma obra teórica como prova de um fato histórico apenas porque ela �
 
 Se uma fonte existente não sustentar a afirmação à qual parece associada, manter a informação apenas se houver outra evidência adequada. Caso contrário, sinalizar a incerteza em vez de completar a lacuna por plausibilidade.
 
+## Distinções conceituais que não devem colapsar
+
+Alguns termos do vault são próximos o bastante para parecerem intercambiáveis, mas representam operações diferentes. Revisões futuras devem preservar essas diferenças quando elas forem materialmente relevantes ao argumento.
+
+**Persistência não é lembrança.** Um suporte pode conservar uma inscrição, um estado ou uma referência sem que aquilo volte a participar de uma ação presente de modo significativo. [[autores/Henri Bergson|Henri Bergson]] funciona como lente para lembrar que memória não deve ser reduzida a um estoque passivo. Em textos sobre arquivo, banco de dados, botão salvar, calendário e memória externa, explicitar se o artefato preserva um traço, facilita recuperação ou participa efetivamente de uma situação de lembrança.
+
+**Vestígio não é passado.** Documento, fotografia, log e arquivo preservam traços que podem sustentar reconstrução. Não contêm automaticamente o acontecimento nem seu sentido. [[autores/Paul Ricoeur|Paul Ricoeur]] é uma referência útil para distinguir memória, testemunho, documento, arquivo e representação histórica.
+
+**Dado não é experiência.** Sistemas de tracking, métricas, dashboards e calendários precisam discretizar fluxos para torná-los comparáveis. A representação pode ser operacionalmente correta e ainda deixar de fora qualidades da duração vivida. Usar [[autores/Henri Bergson|Bergson]] quando essa diferença efetivamente alterar a leitura, sem convertê-lo numa crítica genérica da medição.
+
+**Autenticação não é identidade.** Login, crachá, biometria e credenciais estabelecem uma identidade operacional suficiente para determinada decisão. Isso não equivale a responder integralmente quem uma pessoa é. A distinção ricoeuriana entre mesmidade e ipseidade pode ser usada como lente quando ajuda a separar reconhecimento do mesmo agente, continuidade narrativa e responsabilidade.
+
+**Identidade operacional não é identidade narrativa.** Um número, uma conta ou uma credencial preserva referência. Diário e portfólio podem produzir continuidade por seleção e narrativa. Não descrever um identificador persistente como se ele carregasse por si só a história ou o sentido da entidade identificada.
+
+**Autoria, autenticação, consentimento e responsabilidade não são equivalentes.** Um sistema pode autenticar uma conta sem provar intenção; uma assinatura pode vincular um agente a um ato sem provar leitura integral; um registro pode indicar autoria técnica sem resolver responsabilidade ética ou institucional. Explicitar qual relação o artefato torna verificável.
+
+**Sincronização não é experiência temporal comum.** Calendário, fila e agendamento constroem referências compartilhadas para pessoas que continuam vivendo o tempo de maneiras diferentes. Quando relevante, distinguir tempo mensurável, tempo coordenado e duração vivida.
+
+Essas distinções são guardrails editoriais, não um checklist obrigatório em todo texto. Uma referência teórica só deve aparecer quando mudar a pergunta, impedir uma equivalência enganosa ou tornar uma operação de design mais precisa. Se o trabalho conceitual já estiver feito por uma nota intermediária, preferir wikilink a repetir bibliografia.
+
 ## Fichas
 
 Notas que possuem ficha definida em seu template devem ter uma única ficha de consulta, posicionada depois da narrativa e antes das referências. Artefatos usam `Ficha arqueológica`. Genealogias usam `Ficha da genealogia`. Conceitos e variáveis seguem seus próprios templates. Tipos de design e percursos não precisam de ficha: neles, a síntese deve permanecer incorporada ao argumento e às conexões finais.
