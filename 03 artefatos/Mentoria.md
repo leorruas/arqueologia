@@ -85,7 +85,7 @@ Um mentor pode ajudar alguém a perceber caminhos que não conhecia. Também pod
 
 A partir daqui entramos numa **interpretação arqueológica do projeto**, não numa conclusão direta das pesquisas citadas. Podemos ler a mentoria como uma tecnologia que tenta usar o passado de uma pessoa para alterar os futuros possíveis de outra. Seu problema de design é impedir que essa transferência transforme experiência em destino.
 
-É nesse sentido que a mentoria se aproxima de [[03 artefatos/JTBD|JTBD]] e de outros artefatos que preservam intenção sem determinar completamente a solução. Uma mentoria prescritiva reduz a incerteza dizendo o que fazer. Uma mentoria orientada à autodeterminação pode reduzir a incerteza ajudando a pessoa a construir critérios melhores para decidir.
+É nesse sentido que a mentoria se aproxima de JTBD e de outros artefatos que preservam intenção sem determinar completamente a solução. Uma mentoria prescritiva reduz a incerteza dizendo o que fazer. Uma mentoria orientada à autodeterminação pode reduzir a incerteza ajudando a pessoa a construir critérios melhores para decidir.
 
 A diferença não é meramente de tom. É uma distribuição diferente de agência.
 
@@ -112,14 +112,15 @@ A cada etapa, algo fica mais visível e administrável.
 E alguma coisa corre o risco de desaparecer justamente porque foi transformada em processo.
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Mentoria |
 | **Período** | O nome deriva da tradição homérica; o sentido moderno se consolida a partir da releitura de Mentor por Fénelon em 1699 e ganha formulação organizacional moderna sobretudo no fim dos anos 1970 e nos anos 1980 |
-| **Pessoas ou equipes envolvidas** | Homero como origem literária do nome; François Fénelon na construção do Mentor moderno; Daniel Levinson, Gerard Roche, Sharan Merriam e Kathy Kram na formulação contemporânea da mentoria como relação desenvolvimental e profissional |
+| **Autoria** | Homero como origem literária do nome; François Fénelon na construção do Mentor moderno; Daniel Levinson, Gerard Roche, Sharan Merriam e Kathy Kram na formulação contemporânea da mentoria como relação desenvolvimental e profissional |
 | **Produto ou contexto** | Relações pessoais de orientação; educação; carreira; organizações; programas formais e plataformas digitais |
-| **Problema que resolvia** | Permitir que experiência, interpretação, acesso social e orientação acumulados por uma pessoa possam alterar as possibilidades de ação de outra |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
+| **Problema original** | Permitir que experiência, interpretação, acesso social e orientação acumulados por uma pessoa possam alterar as possibilidades de ação de outra |
 | **Mundo antes** | Relações de aprendizagem, tutoria, patronagem, aconselhamento, relações mestre-aprendiz e orientação informal existiam sem uma categoria única que as reunisse como mentoria |
 | **Invenção** | Não há inventor da prática; o nome vem de Mentor na *Odisseia*, mas o papel moderno é em grande medida uma construção posterior |
 | **Refinamento** | Fénelon transforma Mentor em figura pedagógica muito mais próxima do sentido moderno; no século XX, a literatura de desenvolvimento adulto e organizacional decompõe a relação em funções e fases |
@@ -127,12 +128,16 @@ E alguma coisa corre o risco de desaparecer justamente porque foi transformada e
 | **Padronização** | Programas formais transformam a relação em critérios de participação, matching, objetivos, agendas, ciclos, registros e avaliações; plataformas digitais ampliam essa operacionalização |
 | **Hipótese de design** | Experiência e recursos sociais de uma pessoa podem ampliar a capacidade de outra agir sem que esta precise reproduzir integralmente a trajetória anterior |
 | **Comportamento aproveitado** | Busca de orientação, aprendizagem social, confiança, identificação, aconselhamento e formação de relações assimétricas de desenvolvimento |
-| **Comportamento criado** | Buscar deliberadamente mentores, participar de programas de matching, formular objetivos de desenvolvimento, agendar encontros e avaliar relações de orientação |
+| **Comportamento produzido** | Buscar deliberadamente mentores, participar de programas de matching, formular objetivos de desenvolvimento, agendar encontros e avaliar relações de orientação |
 | **Relação de poder** | Experiência, reputação e posição institucional podem ser usadas para ampliar oportunidades, mas também para produzir dependência, manipulação ou reprodução de normas |
 | **Consequências inesperadas** | Ao formalizar e escalar a relação, sistemas podem ampliar acesso e ao mesmo tempo reduzir espontaneidade, afinidade e outras condições difíceis de capturar em critérios operacionais |
-| **Impacto histórico** | A categoria transformou uma família difusa de relações de orientação em objeto reconhecível de pesquisa, gestão e desenho de serviços |
+| **Destino ou transformação posterior** | Legado: A categoria transformou uma família difusa de relações de orientação em objeto reconhecível de pesquisa, gestão e desenho de serviços |
 | **Conceitos relacionados** | [[01 conceitos/Tecnologia de Acesso|Tecnologia de Acesso]], autodeterminação, aprendizagem social, confiança, desenvolvimento e capital social |
-| **Artefatos relacionados para estudos futuros** | [[03 artefatos/Agendamento|Agendamento]], [[03 artefatos/JTBD|JTBD]], tutoria, coaching, patrocínio profissional, comunidade de prática, matching e sistemas de reputação |
+| **Variáveis relacionadas** | Ainda não explicitado. |
+| **Genealogia** | Ainda não explicitado. |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
+| **Parentes** | [[03 artefatos/Agendamento|Agendamento]], JTBD, tutoria, coaching, patrocínio profissional, comunidade de prática, matching e sistemas de reputação |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Tornar uma relação administrável pode ampliar seu acesso, mas a padronização pode eliminar condições relacionais que não são facilmente formalizáveis |
 | **Questão em aberto** | Quais funções da mentoria dependem de uma relação humana prolongada e quais podem ser separadas e exercidas por pares, plataformas ou sistemas de IA? |
 
