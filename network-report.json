@@ -1,16 +1,7 @@
 {
-  "generatedAt": "2026-09-11T02:05:56.584Z",
+  "generatedAt": "2026-09-11T02:06:13.999Z",
   "scope": "Integração do grafo: títulos duplicados dentro da mesma camada, índices, home, reciprocidade estrutural, tipos de design e nós órfãos. Conceitos e variáveis não exigem backlink exaustivo.",
-  "issueCount": 1,
-  "countsByKind": {
-    "missing-from-index": 1
-  },
-  "issues": [
-    {
-      "kind": "missing-from-index",
-      "sourcePath": "01 conceitos/Promessa.md",
-      "targetPath": "00 índices/Indice de Conceitos.md",
-      "detail": "Arquivo não aparece em 00 índices/Indice de Conceitos.md."
-    }
-  ]
+  "issueCount": 0,
+  "countsByKind": {},
+  "issues": []
 }
