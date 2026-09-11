@@ -1,6 +1,7 @@
 ---
 title: "Michel Foucault"
 type: "autor"
+status: "publicado"
 tags:
   - design/autor
   - arqueologia
@@ -8,26 +9,38 @@ tags:
 
 # Michel Foucault
 
-Filósofo, historiador das ideias, crítico literário e teórico social francês, célebre por suas investigações sobre a genealogia do poder, a arqueologia do saber e como as instituições e seus arranjos espaciais e materiais (dispositivos) disciplinam e produzem subjetividades humanas.
+Michel Foucault importa para este projeto menos como um autor de design do que como uma referência para investigar como práticas, normas, instituições e formas de poder se tornam possíveis e depois podem parecer naturais. Seu trabalho ajuda a deslocar a pergunta de “quem inventou isto?” para “que condições, disputas e acidentes fizeram isto emergir e adquirir estabilidade?”.
 
-## Perfil biográfico
-- **Nascimento/Morte**: 15 de outubro de 1926 (Poitiers, França) – 25 de junho de 1984 (Paris, França)
-- **Formação & Influências**: Estudou Filosofia e Psicologia na École Normale Supérieure (ENS) de Paris. Suas influências fundamentais englobam Friedrich Nietzsche, Gaston Bachelard, Karl Marx e os estudos sobre psicanálise.
-- **Movimentos Associados**: Pós-Estruturalismo, Filosofia Continental, Crítica Social e Institucional.
+## Papel no projeto
 
-## Contribuições e filosofia de design
-- **Filosofia**: O poder não é exercido apenas por forças coercitivas explícitas de cima para baixo, mas está difuso e materializado na organização do espaço, na arquitetura e na própria concepção de artefatos cotidianos (dispositivos). A concepção material de ambientes (como o Panóptico) serve para criar corpos dóceis e internalizar o autocontrole (autovigilância), moldando ativamente o sujeito.
-- **Principais Invenções/Técnicas**: Métodos de investigação arqueológica e genealógica do discurso e do saber, formulação dos conceitos de Biopolítica, Poder Disciplinar e Dispositivo.
+A contribuição metodológica mais direta está na genealogia. Em *Nietzsche, a genealogia e a história* (1971), Foucault desenvolve, a partir de Nietzsche, uma investigação que desconfia da busca por uma origem pura e de narrativas em que o presente aparece como resultado necessário de um desenvolvimento contínuo.[^1]
 
-## Projetos e obras marcantes
-- Livro: Vigiar e Punir (1975): Investigação histórica sobre o nascimento da prisão, onde analisa o Panóptico de Jeremy Bentham como um artefato de design espacial voltado para o controle social e autovigilância.
-- Livro: A Arqueologia do Saber (1969): Obra metodológica onde detalha os critérios de escavação dos sistemas de pensamento histórico.
+Para a Arqueologia do Design, essa posição funciona como disciplina histórica. Uma solução pode ter inventor identificável e ainda assim depender de práticas anteriores, restrições materiais, instituições, concorrentes, hábitos e processos de difusão que o inventor não controla. Por isso, [[Instrucoes de Arqueologia#Quatro níveis de história|invenção, refinamento, popularização e padronização]] precisam ser reconstruídos separadamente.
 
-## Parcerias e empresas
-- **Colaborações**: Collège de France, Université de Vincennes (Paris VIII).
+## O que sua contribuição mudou
 
-## Conexões e referências
-- [[00 tipos de design/Design de Interface|Design de Interface]]
-- **Fontes bibliográficas**:
-  - [[00 índices/Livros Indicados|*Vigiar e Punir*]] (1975) - Analisa o nascimento das instituições disciplinares e como o design do espaço físico (como o Panóptico) e do tempo atua como tecnologia de vigilância e poder.
----
+Uma genealogia inspirada por Foucault procura emergência, contingência, disputa e descontinuidade. Isso muda a forma de contar a história de um artefato: a pergunta deixa de buscar uma linha contínua que liga uma origem ao presente e passa a investigar por que, entre várias possibilidades, determinada configuração conseguiu existir, circular, vencer concorrentes e finalmente parecer normal.
+
+Essa perspectiva também torna a naturalização um problema de design. Quando uma convenção deixa de parecer uma escolha, ela passa a organizar comportamento sem precisar ser constantemente justificada. A camada de **poder** do método do vault se beneficia dessa leitura: interessa observar quem ganha capacidade de agir, quem passa a ser classificado, observado ou restringido e quais relações são incorporadas à infraestrutura.
+
+Em *Vigiar e Punir* (1975), Foucault mostra como disciplina, vigilância, distribuição espacial e organização temporal podem operar juntas na produção de comportamentos.[^2] Para este projeto, o valor está em perceber que objetos, espaços e procedimentos podem participar de relações de poder sem que isso os transforme automaticamente em “artefatos foucaultianos”. A conexão é interpretativa e precisa ser demonstrada caso a caso.
+
+## Obras, projetos e relações
+
+*Nietzsche, a genealogia e a história* (1971) é a referência metodológica central para a camada Genealogias. *A arqueologia do saber* (1969) ajuda a compreender a investigação de formações discursivas e descontinuidades. [[00 índices/Livros Indicados|*Vigiar e Punir*]] (1975) é particularmente útil quando uma investigação envolve disciplina, vigilância, normalização, classificação, espaço ou distribuição do tempo.
+
+No vault, Foucault funciona como referência para [[Instrucoes de Arqueologia#Genealogias|genealogias]] e para a análise das relações de poder nos artefatos. Seu método não transforma todo parentesco funcional ou semiótico em genealogia histórica: essas extensões pertencem à metodologia própria da Arqueologia do Design e devem permanecer identificadas como comparações.
+
+## Cuidado histórico
+
+Foucault não formulou uma teoria do design, e seus conceitos não devem ser usados para atribuir intenção política automática a designers ou objetos. A inspiração genealógica serve para reconstruir condições históricas, contingências e relações de poder, não para substituir documentação específica do artefato.
+
+Também é importante não usar “genealogia” como sinônimo de origem. No sentido forte que interessa aqui, a genealogia é justamente uma crítica à ideia de que o presente possa ser explicado por uma origem essencial e por uma evolução inevitável.
+
+## Referências
+
+[^1]: Foucault, Michel. “Nietzsche, la généalogie, l'histoire”. 1971. Traduções posteriores circulam como “Nietzsche, Genealogy, History” e “Nietzsche, a genealogia e a história”.
+[^2]: Foucault, Michel. *Surveiller et punir: Naissance de la prison*. Gallimard, 1975.
+
+> [!IMPORTANT]
+> Ao usar Foucault numa investigação, diferencie referência metodológica de evidência histórica sobre o artefato. O autor pode orientar a pergunta; a história concreta ainda precisa de fontes próprias.

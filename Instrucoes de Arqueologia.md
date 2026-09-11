@@ -135,7 +135,13 @@ Um tipo de design deve usar os artefatos do vault como **evidência de modos de 
 
 A pasta `04 genealogias/` organiza parentescos entre artefatos de áreas diferentes. Genealogia aqui não significa necessariamente descendência histórica direta. Cada relação deve indicar se é histórica/documentada, funcional, semiótica, comportamental ou hipótese comparativa.
 
-Isso evita transformar analogias interessantes em afirmações históricas falsas.
+O uso do termo tem uma inspiração metodológica explícita em [[autores/Michel Foucault|Michel Foucault]], sobretudo em seu ensaio *Nietzsche, a genealogia e a história* (1971). Na genealogia foucaultiana, a investigação não procura uma origem pura capaz de explicar todo o desenvolvimento posterior. Ela procura emergências, acidentes, disputas, descontinuidades e condições contingentes pelas quais uma prática, uma norma ou um regime se tornou possível e depois pôde parecer natural.
+
+Essa referência interessa diretamente à Arqueologia do Design. Em vez de perguntar apenas quem inventou uma solução, uma genealogia histórica deve investigar que práticas anteriores, restrições, instituições, conflitos, interesses, convenções e decisões permitiram que aquela solução emergisse e se estabilizasse. Isso reforça a distinção entre invenção, refinamento, popularização e padronização: nenhuma dessas etapas precisa formar uma progressão inevitável.
+
+O uso do termo neste vault, porém, é deliberadamente mais amplo que o método foucaultiano em sentido estrito. Algumas genealogias são históricas e podem assumir fortemente essa inspiração; outras aproximam artefatos por parentesco funcional, semiótico, comportamental, institucional ou comparativo. Nesses casos, a nota deve declarar que está propondo uma relação analítica, e não demonstrando uma linhagem histórica.
+
+Isso evita transformar analogias interessantes em afirmações históricas falsas e impede que uma genealogia se torne apenas uma lista elegante de coisas parecidas. Quando houver material histórico suficiente, procure também as contingências e disputas que explicam por que uma solução venceu, desapareceu ou foi naturalizada.
 
 ## Percursos
 

@@ -38,6 +38,8 @@ A diferença para um conceito é operacional: um conceito ajuda a explicar; uma 
 
 Genealogias aproximam artefatos de áreas e épocas diferentes a partir de uma ideia recorrente. Esse parentesco pode ser histórico, funcional, semiótico, comportamental ou apenas uma hipótese comparativa. O projeto evita tratar toda semelhança como descendência direta. A pergunta típica de uma genealogia é: **por que esses artefatos podem ser parentes?**
 
+Há aqui uma inspiração explícita em [[autores/Michel Foucault|Michel Foucault]]: quando a relação é histórica, interessa menos encontrar uma origem pura do que reconstruir emergências, contingências, disputas e processos pelos quais certas práticas se estabilizam e passam a parecer naturais. O projeto amplia esse uso ao admitir também genealogias comparativas, desde que elas não sejam apresentadas como descendência histórica comprovada.
+
 Percursos montam argumentos de leitura. Eles escolhem uma pergunta e colocam estudos em determinada sequência para observar como o problema muda quando atravessa artefatos diferentes. Portanto, não são índices temáticos nem listas numeradas de resumos. A pergunta típica de um percurso é: **o que se torna visível quando lemos estes estudos nesta ordem?**
 
 ## Como as escavações são feitas

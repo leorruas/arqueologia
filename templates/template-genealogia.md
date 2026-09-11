@@ -11,6 +11,8 @@ tags:
 
 [Abra pela pergunta que aproxima artefatos aparentemente diferentes. Mostre por que vale compará-los e qual comportamento, custo, fronteira, responsabilidade ou relação eles parecem reorganizar.]
 
+[Quando houver base histórica, trate a genealogia também no sentido inspirado por [[autores/Michel Foucault|Michel Foucault]]: procure emergência, contingência, disputa, descontinuidade, condições de possibilidade e processos de naturalização, em vez de buscar uma origem pura ou narrar progresso inevitável. Se a relação for apenas funcional, semiótica, comportamental, institucional ou comparativa, diga isso explicitamente.]
+
 ## [Título editorial para o mecanismo recorrente]
 
 [Explique em prosa o parentesco proposto. Introduza os artefatos como casos de um mesmo mecanismo, sem transformar a seção em lista de links. Diga se as relações são funcionais, comportamentais, semióticas, institucionais ou historicamente documentadas.]
@@ -34,14 +36,14 @@ tags:
 | **Genealogia** | {{title}} |
 | **Pergunta central** | [Pergunta que organiza a comparação] |
 | **Hipótese de parentesco** | [Mecanismo recorrente proposto] |
-| **Natureza das relações** | [Histórica, funcional, semiótica, comportamental, institucional, comparativa] |
+| **Natureza das relações** | [Histórica/documentada, histórica com inspiração foucaultiana, funcional, semiótica, comportamental, institucional, comparativa] |
 | **Artefatos principais** | [[03 artefatos/|Artefato 1]], [[03 artefatos/|Artefato 2]] |
 | **Comportamento recorrente** | [Comportamento aproveitado ou produzido] |
 | **O que o design redistribui** | [Esforço, atenção, memória, acesso, risco, responsabilidade etc.] |
 | **Relação de poder** | [Quem ganha ou perde capacidade de agir] |
 | **Conceitos relacionados** | [[01 conceitos/|Conceito]] |
 | **Variáveis relacionadas** | [[02 variaveis/|Variável]] |
-| **Cuidado histórico** | [Limite da comparação ou risco de falsa descendência] |
+| **Cuidado histórico** | [Limite da comparação, risco de falsa descendência e, quando histórica, quais contingências impedem uma narrativa de origem pura ou progresso inevitável] |
 | **Hipótese em aberto** | [Questão futura] |
 
 ## Referências
