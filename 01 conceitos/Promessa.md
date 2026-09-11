@@ -66,6 +66,16 @@ Por isso, a pergunta política não é apenas “o artefato cumpriu sua promessa
 
 Essa passagem aproxima Promessa de [[02 variaveis/Expectativa de Disponibilidade|Expectativa de disponibilidade]], [[01 conceitos/Continuidade de Acesso|Continuidade de acesso]] e das análises de poder do projeto.
 
+## Uma promessa que diz quem continua sendo
+
+Paul Ricoeur usa **promessa** em um sentido diferente e mais ético. Em *Soi-même comme un autre*, ele distingue duas formas de permanência da identidade: a mesmidade, ou *idem*, ligada àquilo que reconhecemos como relativamente estável, e a ipseidade, ou *ipse*, ligada à constância de si mesmo através da mudança. Manter a palavra dada é seu caso exemplar: a pessoa pode mudar de desejo, opinião ou circunstância e, ainda assim, permanecer responsável diante de outro pela promessa feita.[^1]
+
+Esse uso não é a origem do conceito empregado pela Arqueologia do Design. Aqui, “promessa” continua significando uma transformação de mundo oferecida por um artefato como horizonte de adoção. Em Ricoeur, a promessa é uma relação entre um sujeito, outro sujeito e um futuro pelo qual o primeiro se torna responsável. Misturar os dois sentidos faria o conceito parecer filosoficamente derivado quando ele não é.
+
+O parentesco, porém, é produtivo. Uma promessa de design começa a adquirir força social justamente quando outras pessoas podem **contar com** aquela capacidade no futuro. Quando autosave, disponibilidade móvel ou acesso sob demanda deixam de ser surpresa e passam a organizar condutas, surge uma pergunta que Ricoeur ajuda a tornar visível: **quem é esperado para sustentar essa continuidade e perante quem responde quando ela falha?** Um artefato não é um sujeito moral e não “mantém a palavra” no sentido ricoeuriano, mas a infraestrutura que estabiliza uma promessa pode distribuir responsabilidade, confiança e dependência entre pessoas e instituições.
+
+Isso acrescenta uma tensão à sequência proposta pelo projeto. Entre expectativa e infraestrutura talvez exista também uma forma de confiança: passamos a agir hoje porque presumimos que uma capacidade continuará existindo amanhã. A promessa deixa então de ser apenas imagem de futuro e começa a organizar relações presentes.
+
 ## Uma tecnologia de produção de expectativas
 
 A hipótese mais ampla é que design participa da produção de expectativas sobre o futuro.
@@ -91,7 +101,12 @@ A primeira formulação investiga o humano pressuposto pelo artefato. A segunda 
 | **Dinâmica proposta** | promessa → adoção → hábito → expectativa → norma → infraestrutura |
 | **Pergunta central** | Que futuro este artefato prometia? |
 | **Pergunta crítica** | Quando a promessa deixou de ser benefício e passou a ser expectativa ou obrigação? |
+| **Referência filosófica relacionada** | Paul Ricoeur: promessa como constância de si e responsabilidade diante de outro; referência vizinha, não origem deste conceito |
 | **Conceitos relacionados** | [[01 conceitos/Genealogia de Futuros|Genealogia de Futuros]], [[01 conceitos/Continuidade de Acesso|Continuidade de acesso]], [[01 conceitos/Intenção|Intenção]] |
 | **Variáveis relacionadas** | [[02 variaveis/Expectativa de Disponibilidade|Expectativa de disponibilidade]] |
 | **Artefatos-chave** | [[03 artefatos/Controle Remoto|Controle remoto]], [[03 artefatos/Botao Salvar|Botão salvar]], [[03 artefatos/Infinite Scroll|Infinite Scroll]], [[03 artefatos/Calendário|Calendário]] |
 | **Questão em aberto** | Como distinguir uma promessa interpretada retrospectivamente pelo projeto da promessa explicitamente comunicada na adoção histórica do artefato? |
+
+## Referências
+
+[^1]: Ricoeur, Paul. *Soi-même comme un autre*. Paris: Seuil, 1990. Na tradução inglesa de Kathleen Blamey, *Oneself as Another* (Chicago: University of Chicago Press, 1992), ver especialmente pp. 123–124, sobre a constância de si em manter a palavra dada, e p. 165, sobre responsabilidade diante daquele que conta conosco.
