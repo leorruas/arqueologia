@@ -125,11 +125,10 @@ Quando essa infraestrutura funciona bem, o identificador pode desaparecer da int
 | **Comportamento aproveitado** | Uso de índices e rótulos para reencontrar informação |
 | **Comportamento produzido** | Solicitar, guardar e informar números de protocolo como parte normal da relação com serviços |
 | **Relação de poder** | Dá à organização capacidade de classificar e rastrear casos, mas também oferece ao usuário uma referência persistente para cobrar o que foi registrado |
-| **Consequências inesperadas** | O número pode virar símbolo de burocratização, ser confundido com resolução ou preservar continuidade técnica enquanto contexto e sentido se perdem entre setores |
+| **Consequências inesperadas** | O número pode virar símbolo de burocratização, ser confundido com resolução ou preservar continuidade técnica enquanto contexto e sentido se perdem entre setores Registros adicionais preservados da ficha anterior: autores relacionados: [[autores/Paul Ricoeur|Paul Ricoeur]] como lente para distinguir referência persistente, narrativa, documento e interpretação |
 | **Destino ou transformação posterior** | Permanece visível em serviços formais, mas sua lógica também foi incorporada a identificadores digitais que usuários muitas vezes nunca veem |
 | **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Redução de Inferências|Redução de inferências]], [[01 conceitos/Justificabilidade|Justificabilidade]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]] |
-| **Autores relacionados** | [[autores/Paul Ricoeur|Paul Ricoeur]] como lente para distinguir referência persistente, narrativa, documento e interpretação |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]], [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]]. Família de ideias: artefatos de identificação e rastreabilidade |
 | **Percurso(s)** | [[05 percursos/Como o Design Aprendeu a Guardar|Como o Design Aprendeu a Guardar]] |
 | **Parentes** | [[03 artefatos/Carimbo|Carimbo]], [[03 artefatos/Login|Login]], número de pedido, código de rastreamento, ticket de suporte |
