@@ -53,6 +53,18 @@ Em termos de design de serviços, há uma transformação conceitual importante:
 
 Essa estrutura aumenta [[02 variaveis/Expectativa de Disponibilidade|Expectativa de Disponibilidade]]. O usuário não precisa apenas esperar que o serviço possa atendê-lo; recebe uma indicação de quando essa capacidade deverá existir.
 
+## O slot é um corte no tempo
+
+[[autores/Henri Bergson|Henri Bergson]] ajuda a perceber o custo e a potência dessa operação. Em sua discussão da duração, o tempo vivido não aparece como uma sequência de unidades homogêneas colocadas lado a lado. Estados se prolongam uns nos outros; o que veio antes altera qualitativamente aquilo que está sendo vivido agora.[^4]
+
+O agendamento precisa fazer quase o contrário para funcionar. Ele corta o futuro em intervalos exteriores uns aos outros e atribui a eles durações previamente definidas: 15, 30, 45 ou 60 minutos. O slot é uma unidade de tempo projetada para ser **comparável, reservável e intercambiável**.
+
+Essa tradução é o que torna capacidade administrável. Sem ela, seria muito mais difícil oferecer ao usuário uma lista de possibilidades, calcular ocupação, criar buffers ou redistribuir cancelamentos. Mas o slot também formula uma hipótese silenciosa sobre a experiência: supõe que determinado tipo de encontro cabe razoavelmente naquela extensão temporal.
+
+É aí que uma decisão aparentemente administrativa vira decisão de design. Uma consulta de 20 minutos não afirma apenas quando alguém será atendido; afirma também **quanto tempo aquele sistema considera suficiente para aquele tipo de situação**.
+
+Bergson não fornece uma teoria de agendamento, e não faria sentido tratá-lo como crítico antecipado dos appointments. A lente serve para separar o tempo que o serviço precisa discretizar para coordenar capacidade da duração que a pessoa efetivamente vive dentro daquele intervalo.
+
 ## Previsibilidade para quem?
 
 O agendamento é frequentemente apresentado como benefício mútuo. Ele pode reduzir espera presencial para usuários e suavizar demanda para prestadores. Mas a distribuição de poder depende das regras concretas.
@@ -98,7 +110,8 @@ Aqui reaparece uma regra recorrente do projeto: **reduzir fricção não reduz n
 1. Michelle-Linh T. Nguyen, Samuel V. Schotland e Joel D. Howell. “From Individualized Interactions to Standardized Schedules: A History of Time Organization in U.S. Outpatient Medicine”. *Annals of Internal Medicine*, 2022.
 2. Martin D. Moore. “Waiting for the Doctor: Managing Time and Emotion in the British National Health Service, 1948–80”. *Twentieth Century British History*, 2022.
 3. Smithsonian National Museum of American History. Coleções de livros de compromissos profissionais e odontológicos, como documentação material de práticas de agendamento.
-4. Literatura de teoria das filas, gestão de capacidade e design de serviços como referência para os trade-offs contemporâneos.
+4. [[autores/Henri Bergson|Henri Bergson]]. *Essai sur les données immédiates de la conscience* (1889), traduzido como *Time and Free Will*. Usado aqui como lente comparativa sobre duração e espacialização do tempo, não como fonte histórica do agendamento.
+5. Literatura de teoria das filas, gestão de capacidade e design de serviços como referência para os trade-offs contemporâneos.
 
 ## Ficha arqueológica
 | Campo | Registro |
@@ -115,17 +128,18 @@ Aqui reaparece uma regra recorrente do projeto: **reduzir fricção não reduz n
 | **Refinamento** | Livros de appointment, telefonia, recepção especializada, slots padronizados, confirmação, lembretes e regras de reagendamento |
 | **Popularização** | Expansão dos serviços profissionais e de saúde e crescimento de sistemas administrativos no século XX |
 | **Padronização** | Agendas eletrônicas e plataformas de reserva transformaram slots em unidade operacional comum de muitos serviços |
-| **Hipótese de design** | O agendamento substitui parte da espera presente por uma promessa sobre capacidade futura Hipótese sobre o comportamento humano: Pessoas aceitam compromissos futuros quando recebem uma expectativa suficientemente confiável de acesso em troca |
+| **Hipótese de design** | O agendamento substitui parte da espera presente por uma promessa sobre capacidade futura. Pessoas aceitam compromissos futuros quando recebem uma expectativa suficientemente confiável de acesso em troca |
 | **Comportamento aproveitado** | Capacidade de planejar e cumprir compromissos usando referências temporais compartilhadas |
 | **Comportamento produzido** | Reservar serviços antecipadamente, confirmar presença, reagendar e organizar atividades em torno de slots |
 | **Relação de poder** | Quem define duração, disponibilidade, tolerância a atraso e regras de cancelamento controla parte importante do acesso ao serviço |
-| **Consequências inesperadas** | Quanto mais fácil reservar tempo, maior pode ser a densidade de compromissos disputando a agenda Capacidade ampliada: Previsibilidade para usuário e prestador e distribuição antecipada da demanda Capacidade reduzida ou deslocada: Menor espontaneidade e necessidade de assumir compromisso temporal antes da necessidade ser atendida Custo invisível: Slots ociosos por no-show, rigidez, padronização inadequada de durações e transferência de risco temporal entre usuário e prestador |
-| **Destino ou transformação posterior** | De negociação humana e livros físicos a plataformas digitais que expõem e alocam disponibilidade automaticamente Legado: Sistemas de reserva, calendários compartilhados, self-scheduling, Calendly e automações de reuniões |
+| **Consequências inesperadas** | Quanto mais fácil reservar tempo, maior pode ser a densidade de compromissos disputando a agenda. Slots ociosos, rigidez e padronização inadequada também redistribuem risco temporal entre usuário e prestador |
+| **Destino ou transformação posterior** | De negociação humana e livros físicos a plataformas digitais que expõem e alocam disponibilidade automaticamente. Legado: sistemas de reserva, calendários compartilhados, self-scheduling, Calendly e automações de reuniões |
 | **Conceitos relacionados** | [[01 conceitos/Sincronizacao|Sincronização]], [[01 conceitos/Tecnologia de Acesso|Tecnologia de Acesso]], [[01 conceitos/Distribuicao de Escassez|Distribuição de Escassez]] |
 | **Variáveis relacionadas** | [[02 variaveis/Atrito Decisorio|Atrito Decisório]], [[02 variaveis/Justica|Justiça]], [[02 variaveis/Expectativa de Disponibilidade|Expectativa de Disponibilidade]], [[02 variaveis/Custo Transacional|Custo Transacional]] |
-| **Genealogia** | [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]], [[04 genealogias/Acesso e Disponibilidade|Acesso e disponibilidade]] Família de ideias: Tecnologias de pré-alocação de capacidade |
-| **Percurso(s)** | [[05 percursos/Da Espera a Sincronizacao|Da Espera a Sincronizacao]] |
+| **Autores relacionados** | [[autores/Henri Bergson|Henri Bergson]] como lente sobre duração e discretização do tempo |
+| **Genealogia** | [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]], [[04 genealogias/Acesso e Disponibilidade|Acesso e disponibilidade]]. Família de ideias: tecnologias de pré-alocação de capacidade |
+| **Percurso(s)** | [[05 percursos/Da Espera a Sincronizacao|Da Espera a Sincronização]] |
 | **Parentes** | [[03 artefatos/Fila|Fila]], [[03 artefatos/Calendário|Calendário]] |
-| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
-| **Princípio de design revelado** | Escassez pode ser coordenada antes do encontro quando o sistema consegue representar capacidade futura como unidades reserváveis Por que funcionou: Converte capacidade futura em unidades reserváveis e desloca parte da espera do espaço físico para a organização antecipada |
+| **Leituras-chave** | [[00 índices/Livros Indicados|Time and Free Will]] |
+| **Princípio de design revelado** | Escassez pode ser coordenada antes do encontro quando o sistema consegue representar capacidade futura como unidades reserváveis; o tamanho dessas unidades é também uma hipótese sobre quanto tempo a experiência deveria exigir |
 | **Questão em aberto** | Quando automatizar o agendamento aumenta autonomia e quando apenas torna mais eficiente a ocupação do tempo de uma pessoa por demandas externas? |
