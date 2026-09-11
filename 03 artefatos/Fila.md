@@ -96,11 +96,10 @@ Há, portanto, uma diferença entre **desenhar a fila** e **resolver o gargalo**
 | **Comportamento aproveitado** | Reconhecimento de precedência temporal e disposição para seguir normas compartilhadas |
 | **Comportamento produzido** | Espera ordenada, proteção moral do “lugar na fila” e vigilância mútua da sequência |
 | **Relação de poder** | Organiza corpos em relação a quem controla o recurso; também dá aos participantes uma regra comum para contestar violações como o fura-fila |
-| **Consequências inesperadas** | Naturalização da espera como parte do serviço, transformação do lugar na fila em posse temporária e transferência para o usuário de parte do custo de capacidade insuficiente |
+| **Consequências inesperadas** | Naturalização da espera como parte do serviço, transformação do lugar na fila em posse temporária e transferência para o usuário de parte do custo de capacidade insuficiente Registros adicionais preservados da ficha anterior: autores relacionados: [[autores/Henri Bergson|Henri Bergson]] como lente comparativa sobre tempo mensurado e duração vivida |
 | **Destino ou transformação posterior** | Persiste fisicamente e foi abstraído em senhas, sistemas digitais e algoritmos de prioridade. Legado: senhas, filas virtuais, algoritmos de atendimento, agendamento e modelos FIFO |
 | **Conceitos relacionados** | [[01 conceitos/Justica Procedimental|Justiça Procedimental]], [[01 conceitos/Distribuicao de Escassez|Distribuição de Escassez]], [[01 conceitos/Limiares|Limiares]], [[01 conceitos/Tecnologia de Acesso|Tecnologia de Acesso]] |
 | **Variáveis relacionadas** | [[02 variaveis/Justica|Justiça]], [[02 variaveis/Legitimidade Decisoria|Legitimidade Decisória]], [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Custo Transacional|Custo Transacional]] |
-| **Autores relacionados** | [[autores/Henri Bergson|Henri Bergson]] como lente comparativa sobre tempo mensurado e duração vivida |
 | **Genealogia** | [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]], [[04 genealogias/Acesso e Disponibilidade|Acesso e disponibilidade]]. Família de ideias: tecnologias de distribuição de escassez |
 | **Percurso(s)** | [[05 percursos/Da Espera a Sincronizacao|Da Espera a Sincronização]] |
 | **Parentes** | Senha numerada, [[03 artefatos/Agendamento|Agendamento]], [[03 artefatos/Tela de Login|Tela de Login]], FIFO em computação; [[03 artefatos/Pôster|Pôster]] como comparação entre diagramação de corpos e diagramação do olhar |
