@@ -65,6 +65,20 @@ Os dois artefatos podem então ser entendidos como controles sobre dimensões di
 
 O primeiro pergunta: “quer percorrer novamente este espaço?”. O segundo ajuda a determinar: “com que grau de concentração ou dispersão esse percurso será feito?”. Para a arqueologia completa dessa tradução estatística em categoria humana, ver [[03 artefatos/Temperatura e Criatividade|Temperatura e criatividade]].
 
+## Quando nova amostragem vira reconsideração
+
+Há ainda uma camada semiótica nesse gesto. Em termos técnicos, regenerar solicita outra geração. Na experiência da interface, porém, o gesto pode ser lido como **“tente pensar de novo”**.
+
+É aqui que [[01 conceitos/Mitologias da IA|Mitologias da IA]], a partir de Roland Barthes, ajuda a separar operação técnica e significado cultural. Em *Mitologias*, Barthes investiga como construções históricas podem ser naturalizadas até parecerem evidentes.[^4] Aplicado à IA, o interesse não está apenas em dizer que o sistema foi antropomorfizado, mas em perguntar **quais decisões de design fazem essa antropomorfização parecer natural**.
+
+No botão regenerar, a cadeia pode ser lida assim:
+
+**nova amostragem → nova tentativa → reconsideração**
+
+A interface não precisa afirmar que a máquina refletiu sobre a resposta anterior. O repertório humano ligado a “tentar novamente” já permite essa leitura. Uma operação probabilística passa a caber dentro de uma narrativa cognitiva familiar.
+
+Por isso, o botão não apenas torna a variabilidade utilizável. Ele ajuda a contar uma história sobre o que a máquina estaria fazendo. A pergunta arqueológica passa a ser também: **que história sobre a máquina este botão precisa fazer parecer natural para que saibamos usá-lo?**
+
 ## Ficha arqueológica
 | Campo | Registro |
 |---|---|
@@ -84,16 +98,16 @@ O primeiro pergunta: “quer percorrer novamente este espaço?”. O segundo aju
 | **Comportamento aproveitado** | Pedir outra tentativa, comparar alternativas e explorar soluções |
 | **Comportamento produzido** | Tratar respostas computacionais como versões possíveis e iterar sem alterar necessariamente a solicitação |
 | **Relação de poder** | Dá ao usuário poder de rejeitar uma saída sem justificar a rejeição, mas mantém opaco o espaço de alternativas e os mecanismos que produzem cada versão |
-| **Consequências inesperadas** | Answer shopping, procura por confirmação, proliferação de versões e necessidade de critérios para escolher entre respostas plausíveis |
+| **Consequências inesperadas** | Answer shopping, procura por confirmação, proliferação de versões e naturalização da ideia de que a máquina “reconsidera” |
 | **Destino ou transformação posterior** | Pode evoluir para interfaces explícitas de variação, branching e comparação entre alternativas |
-| **Conceitos relacionados** | probabilidade, amostragem, divergência, exploração, validação, reversibilidade |
+| **Conceitos relacionados** | probabilidade, amostragem, divergência, exploração, validação, reversibilidade, [[01 conceitos/Mitologias da IA|Mitologias da IA]] |
 | **Variáveis relacionadas** | previsibilidade, diversidade de saída, custo de iteração |
 | **Genealogia** | Nova tentativa; sorteio; variação; processos divergentes de projeto |
 | **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | [[03 artefatos/Temperatura e Criatividade|Temperatura e criatividade]], [[03 artefatos/Undo|Undo]], refresh, nova tentativa |
-| **Leituras-chave** | Holtzman et al. (2020); Zhang et al. (2020) |
-| **Princípio de design revelado** | Em sistemas probabilísticos, variabilidade pode deixar de ser falha e tornar-se matéria de interação |
-| **Questão em aberto** | Como permitir exploração de alternativas sem incentivar o usuário a regenerar até encontrar apenas aquilo que desejava ouvir? |
+| **Leituras-chave** | Holtzman et al. (2020); Zhang et al. (2020); Barthes (1957) |
+| **Princípio de design revelado** | Em sistemas probabilísticos, variabilidade pode deixar de ser falha e tornar-se matéria de interação; sua apresentação também produz uma narrativa sobre o comportamento da máquina |
+| **Questão em aberto** | Como permitir exploração de alternativas sem incentivar o usuário a regenerar até encontrar apenas aquilo que desejava ouvir — ou a interpretar nova amostragem como reflexão da máquina? |
 
 ## Referências
 
@@ -102,3 +116,5 @@ O primeiro pergunta: “quer percorrer novamente este espaço?”. O segundo aju
 [^2]: Zhang, Hugh et al. “Trading Off Diversity and Quality in Natural Language Generation”. 2020. O estudo trata a decodificação como problema de equilíbrio entre qualidade e diversidade.
 
 [^3]: OpenAI Help Center. “Troubleshooting ChatGPT Error Messages”. Documentação de suporte que registra o uso de Regenerate/Try again para repetir uma geração após falha.
+
+[^4]: Barthes, Roland. *Mythologies*. Paris: Éditions du Seuil, 1957. A conexão aqui usa especialmente a formulação do mito como sistema de significação que naturaliza construções históricas.
