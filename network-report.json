@@ -1,24 +1,11 @@
 {
-  "generatedAt": "2026-09-11T00:45:09.319Z",
+  "generatedAt": "2026-09-11T00:45:42.846Z",
   "scope": "Integração do grafo: títulos duplicados dentro da mesma camada, índices, home, reciprocidade estrutural, tipos de design e nós órfãos. Conceitos e variáveis não exigem backlink exaustivo.",
-  "issueCount": 4,
+  "issueCount": 2,
   "countsByKind": {
-    "missing-from-index": 2,
     "missing-reciprocal-link": 2
   },
   "issues": [
-    {
-      "kind": "missing-from-index",
-      "sourcePath": "03 artefatos/Badge de notificacao.md",
-      "targetPath": "00 índices/Indice de Artefatos.md",
-      "detail": "Arquivo não aparece em 00 índices/Indice de Artefatos.md."
-    },
-    {
-      "kind": "missing-from-index",
-      "sourcePath": "03 artefatos/Favorito Bookmark.md",
-      "targetPath": "00 índices/Indice de Artefatos.md",
-      "detail": "Arquivo não aparece em 00 índices/Indice de Artefatos.md."
-    },
     {
       "kind": "missing-reciprocal-link",
       "sourcePath": "03 artefatos/Badge de notificacao.md",
