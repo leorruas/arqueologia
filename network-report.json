@@ -1,11 +1,10 @@
 {
-  "generatedAt": "2026-09-11T00:43:09.839Z",
+  "generatedAt": "2026-09-11T00:43:49.510Z",
   "scope": "Integração do grafo: títulos duplicados dentro da mesma camada, índices, home, reciprocidade estrutural, tipos de design e nós órfãos. Conceitos e variáveis não exigem backlink exaustivo.",
-  "issueCount": 8,
+  "issueCount": 4,
   "countsByKind": {
     "missing-from-index": 2,
-    "missing-reciprocal-link": 4,
-    "design-type-drift": 2
+    "missing-reciprocal-link": 2
   },
   "issues": [
     {
@@ -23,12 +22,6 @@
     {
       "kind": "missing-reciprocal-link",
       "sourcePath": "03 artefatos/Badge de notificacao.md",
-      "targetPath": "00 tipos de design/Design de Interface.md",
-      "detail": "A ficha liga para 00 tipos de design/Design de Interface.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "missing-reciprocal-link",
-      "sourcePath": "03 artefatos/Badge de notificacao.md",
       "targetPath": "empresas/Apple.md",
       "detail": "A ficha liga para empresas/Apple.md, mas a nota relacionada não devolve o vínculo."
     },
@@ -37,24 +30,6 @@
       "sourcePath": "03 artefatos/Badge de notificacao.md",
       "targetPath": "empresas/Google.md",
       "detail": "A ficha liga para empresas/Google.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "missing-reciprocal-link",
-      "sourcePath": "03 artefatos/Favorito Bookmark.md",
-      "targetPath": "00 tipos de design/Design de Interface.md",
-      "detail": "A ficha liga para 00 tipos de design/Design de Interface.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "design-type-drift",
-      "sourcePath": "03 artefatos/Badge de notificacao.md",
-      "targetPath": "00 tipos de design/Design de Interface.md",
-      "detail": "Artefato declara 00 tipos de design/Design de Interface.md, mas o tipo de design não o referencia."
-    },
-    {
-      "kind": "design-type-drift",
-      "sourcePath": "03 artefatos/Favorito Bookmark.md",
-      "targetPath": "00 tipos de design/Design de Interface.md",
-      "detail": "Artefato declara 00 tipos de design/Design de Interface.md, mas o tipo de design não o referencia."
     }
   ]
 }
