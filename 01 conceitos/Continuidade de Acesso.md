@@ -27,7 +27,7 @@ O [[03 artefatos/Favorito Bookmark|Favorito / bookmark]] oferece um caso diferen
 
 A genealogia [[04 genealogias/Acesso e Disponibilidade|Acesso e disponibilidade]] amplia essa comparação. O interesse não está em dizer que uma garrafa “é como um aplicativo” ou um bookmark, mas em observar uma operação recorrente: **infraestruturas fixas podem ser parcialmente transformadas em disponibilidade portátil, referenciável ou contínua**.
 
-A genealogia [[04 genealogias/Portabilidade e Desancoragem|Portabilidade e desancoragem]] permite fazer uma distinção adicional. Continuidade de acesso é o efeito mais amplo: diminuir interrupções entre pessoa e recurso. Portabilidade é apenas uma das estratégias possíveis para produzi-lo. Uma garrafa leva o recurso consigo; um bolso ou mochila leva objetos; já um arquivo em nuvem pode continuar acessível justamente porque **não precisa viajar fisicamente com a pessoa**. Nesse caso, o que se torna portátil é a condição de acesso. No bookmark, nem recurso nem condição completa de acesso são carregados: preserva-se uma referência que tenta reconstituir a ligação futura.
+A genealogia [[04 genealogias/Portabilidade e Desancoragem|Portabilidade e desancoragem]] permite fazer uma distinção adicional. Continuidade de acesso é o efeito mais amplo: diminuir interrupções entre pessoa e recurso. Portabilidade é apenas uma das estratégias possíveis para produzi-lo.
 
 ## Continuidade não significa permanência
 
@@ -35,9 +35,7 @@ O conceito se aproxima de [[02 variaveis/Permanencia|Permanência]], mas não é
 
 Uma coisa pode permanecer e continuar difícil de acessar. Um documento guardado num arquivo físico durante cinquenta anos é persistente, mas talvez exija viagem, autorização e busca demorada. Inversamente, um conteúdo efêmero pode estar imediatamente disponível enquanto dura.
 
-[[03 artefatos/Archive|Archive]] mostra essa diferença. Arquivar preserva uma mensagem e a retira do campo de atenção, apostando que ela poderá ser recuperada depois. O bookmark mostra a diferença pelo lado oposto: a referência pode permanecer mesmo quando o conteúdo deixou de existir. A continuidade de acesso depende tanto da persistência do recurso quanto do custo e da validade do caminho usado para reencontrá-lo.
-
-É por isso que o conceito dialoga também com [[02 variaveis/Custo de Busca|Custo de busca]] e [[02 variaveis/Expectativa de Disponibilidade|Expectativa de disponibilidade]].
+[[03 artefatos/Archive|Archive]] mostra essa diferença. Arquivar preserva uma mensagem e a retira do campo de atenção, apostando que ela poderá ser recuperada depois. O bookmark mostra a diferença pelo lado oposto: a referência pode permanecer mesmo quando o conteúdo deixou de existir.
 
 ## Tornar algo sempre disponível muda expectativa
 
@@ -47,17 +45,31 @@ Depois que mapas estão sempre no bolso, perder-se passa a ser vivido de outro m
 
 A hipótese do projeto é que continuidade de acesso produz uma espécie de **normalização da disponibilidade**. O que antes era conveniência vira expectativa; o que era intervalo normal pode começar a parecer falha.
 
+[[01 conceitos/Promessa|Promessa]] ajuda a descrever a passagem. Tecnologias de acesso frequentemente entram no cotidiano oferecendo uma possibilidade — “isto poderá estar disponível quando você precisar”. Quando a possibilidade se cumpre repetidamente, ela pode deixar de ser percebida como vantagem e tornar-se condição esperada.
+
+Assim, continuidade de acesso pode ser lida como uma das rotas pelas quais:
+
+**possibilidade → promessa de disponibilidade → hábito → [[02 variaveis/Expectativa de Disponibilidade|expectativa de disponibilidade]] → norma**
+
 Isso torna o conceito politicamente interessante. Disponibilidade permanente pode ampliar autonomia, mas também criar novas obrigações de presença e resposta.
+
+## Quando a promessa vence
+
+A [[01 conceitos/Genealogia de Futuros|Genealogia de Futuros]] permite seguir a transformação além da disponibilidade. Se o problema ancestral é não conseguir acessar algo quando necessário, o sucesso das tecnologias de acesso pode produzir o problema inverso: recursos, pessoas e conteúdos disponíveis demais.
+
+Nesse ponto, os descendentes relevantes talvez sejam artefatos de delimitação: modo não perturbe, filtros, horários, limites, curadoria, mecanismos de pausa e outras formas de recuperar a capacidade de ficar indisponível.
+
+> **O sucesso da promessa de acesso pode criar uma nova demanda por direito à inacessibilidade.**
+
+Essa inversão é uma hipótese do projeto, não uma lei geral. Ela oferece uma pergunta comparativa para diferentes artefatos.
 
 ## Fluxo contínuo não é necessariamente acesso melhor
 
 [[03 artefatos/Infinite Scroll|Infinite Scroll]] oferece um caso limite. Ele reduz a interrupção entre blocos de conteúdo, mas isso não significa que aumenta acesso a informação relevante. Pode apenas aumentar continuidade do fluxo.
 
-Essa distinção é importante. Continuidade de acesso não deve virar elogio automático ao “sempre disponível”. O projeto precisa perguntar: **acesso a quê, para quem, com qual custo e com qual possibilidade de interrupção?**
+Continuidade de acesso não deve virar elogio automático ao “sempre disponível”. O projeto precisa perguntar: **acesso a quê, para quem, com qual custo e com qual possibilidade de interrupção?**
 
 Às vezes, uma boa interface aumenta continuidade. Em outros casos, projeta deliberadamente pausas, horários e limites.
-
-O conceito serve justamente para perceber que disponibilidade também é uma decisão de design.
 
 ## Ficha do conceito
 
@@ -72,6 +84,7 @@ O conceito serve justamente para perceber que disponibilidade também é uma dec
 | **O que ajuda a explicar** | Como artefatos reduzem interrupções espaciais, temporais ou operacionais entre intenção e recurso |
 | **O que não explica sozinho** | Qualidade do recurso, justiça de acesso ou conveniência de disponibilidade permanente |
 | **Artefatos-chave** | [[03 artefatos/Garrafa de Agua|Garrafa de água]], [[03 artefatos/Archive|Archive]], [[03 artefatos/Favorito Bookmark|Favorito / bookmark]], [[03 artefatos/Infinite Scroll|Infinite Scroll]] |
+| **Conceitos relacionados** | [[01 conceitos/Promessa|Promessa]], [[01 conceitos/Genealogia de Futuros|Genealogia de Futuros]] |
 | **Variáveis relacionadas** | [[02 variaveis/Expectativa de Disponibilidade|Expectativa de disponibilidade]], [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Permanencia|Permanência]] |
 | **Genealogias relacionadas** | [[04 genealogias/Acesso e Disponibilidade|Acesso e disponibilidade]], [[04 genealogias/Portabilidade e Desancoragem|Portabilidade e desancoragem]] |
 
