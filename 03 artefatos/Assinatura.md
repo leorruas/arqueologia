@@ -41,6 +41,18 @@ A assinatura também participa da [[02 variaveis/Permanencia|Permanência]]. Uma
 
 Essa característica foi decisiva para contratos, procurações, acordos, tratados e outras relações em que pessoas ausentes precisam confiar que determinado ato foi assumido anteriormente.
 
+## A marca não estabiliza a pessoa. Estabiliza a relação com o ato
+
+[[autores/Paul Ricoeur|Paul Ricoeur]] oferece uma lente particularmente forte para esta operação. Em *Soi-même comme un autre*, manter a palavra dada aparece como figura da **ipseidade**: alguém pode mudar com o tempo e ainda assim permanecer responsável diante daquele que conta com sua promessa.[^5]
+
+Uma assinatura não é uma promessa no sentido ricoeuriano, e nem todo documento assinado contém uma promessa. O parentesco está em outro ponto: ambos enfrentam a dificuldade de manter **imputabilidade através do tempo**. O agente de amanhã não precisa ser psicologicamente idêntico ao agente de hoje para que um ato assumido hoje continue podendo ser atribuído a ele.
+
+Isso permite reformular o que a assinatura estabiliza. Ela não congela a identidade do signatário. Não garante que suas opiniões, desejos ou circunstâncias permaneçam iguais. **Ela estabiliza uma relação entre agente, documento e ato suficientemente bem para que essa relação possa ser invocada depois.**
+
+A conexão com [[01 conceitos/Promessa|Promessa]] fica então mais precisa. A promessa estudada pelo projeto pergunta que futuro um artefato torna imaginável. A promessa em Ricoeur pergunta como alguém permanece responsável por uma palavra dirigida a outro. A assinatura pode funcionar como infraestrutura que registra compromissos, mas não deve ser confundida com a própria relação ética de prometer.
+
+Essa distinção também ajuda a separar identidade de responsabilidade. Um sistema pode autenticar corretamente quem assinou e ainda precisar interpretar o que aquela assinatura significa juridicamente, se houve consentimento, se o documento corresponde à versão apresentada e em quais condições o ato ocorreu.
+
 ## O ritual também importa
 
 Assinar é uma operação gráfica, mas frequentemente também um ritual. O local marcado com uma linha, a caneta oferecida, o ato de rubricar páginas, a presença de testemunhas e a entrega de cópias sinalizam que a ação possui peso diferente de uma anotação casual.
@@ -65,7 +77,7 @@ A transição para o digital revela que o princípio sobrevive mesmo quando a ca
 
 Por isso, chaves criptográficas não são descendentes formais da assinatura manuscrita. Elas são parentes funcionais dentro do problema de autenticação e compromisso. O mesmo vale para [[03 artefatos/Tela de Login|Tela de Login]] e biometria: identificam ou autenticam um agente, mas não equivalem automaticamente ao ato de assinar uma declaração.
 
-Essa distinção é crucial. **Identidade, autenticação e consentimento são problemas relacionados, mas não idênticos.** Um login pode provar que alguém entrou em uma conta sem provar que essa pessoa adotou um contrato específico; uma assinatura tenta vincular justamente o agente ao ato.
+Essa distinção é crucial. **Identidade, autenticação, autoria, consentimento e imputabilidade são problemas relacionados, mas não idênticos.** Um login pode provar que alguém entrou em uma conta sem provar que essa pessoa adotou um contrato específico; uma assinatura tenta vincular justamente o agente ao ato.
 
 ## O que a IA torna instável
 
@@ -81,6 +93,7 @@ A assinatura gráfica pode permanecer como símbolo cultural da vontade. A prova
 2. University of Nottingham Manuscripts and Special Collections. “Authentication of legal and administrative documents”. Discussão sobre selos e adoção posterior de assinaturas em escrituras.
 3. Stephen Mason. *The Signature in Law: From the Thirteenth Century to the Facsimile*. University of London Press, 2022.
 4. Estudos de diplomática, história do direito e história da escrita sobre autenticação documental.
+5. [[autores/Paul Ricoeur|Paul Ricoeur]]. *Soi-même comme un autre* (1990), traduzido como *Oneself as Another*. Referência comparativa para ipseidade, manutenção da palavra e responsabilidade; não fonte histórica da assinatura.
 
 ## Ficha arqueológica
 | Campo | Registro |
@@ -97,17 +110,18 @@ A assinatura gráfica pode permanecer como símbolo cultural da vontade. A prova
 | **Refinamento** | Consolidação de convenções manuscritas, reconhecimento jurídico de múltiplas formas de assinatura e mecanismos de verificação |
 | **Popularização** | Expansão da escrita administrativa, do comércio, dos contratos e da alfabetização |
 | **Padronização** | Tornou-se etapa esperada em inúmeros atos jurídicos e administrativos, embora sua forma válida continue dependente do contexto |
-| **Hipótese de design** | A assinatura permite que uma manifestação momentânea de intenção continue representando uma pessoa quando ela já não está presente Hipótese sobre o comportamento humano: Uma pessoa aceita que um sinal produzido por ela continue representando sua intenção depois que o momento da decisão passou |
+| **Hipótese de design** | A assinatura permite que uma manifestação momentânea continue vinculada a um agente depois que o momento da decisão passou |
 | **Comportamento aproveitado** | Reconhecimento de marcas pessoais e uso social de rituais de compromisso |
 | **Comportamento produzido** | Assinar e rubricar como gesto convencional de concluir ou validar determinados atos |
 | **Relação de poder** | Permite que instituições atribuam atos e obrigações a agentes ausentes; também dá ao indivíduo uma forma portátil de manifestar adoção ou consentimento |
-| **Consequências inesperadas** | A assinatura pode tornar-se ritual automático e ser confundida com prova de leitura ou compreensão do conteúdo Capacidade ampliada: Formalização persistente de compromissos à distância e em momentos diferentes Capacidade reduzida ou deslocada: Testemunho presencial deixa de ser necessário em muitos casos; parte da confiança passa para o documento e sua infraestrutura de autenticação Custo invisível: Falsificação, formalismo, perícia e barreiras quando sistemas assumem uma forma específica de escrita como universal |
-| **Destino ou transformação posterior** | A forma manuscrita continua ativa, mas coexiste com mecanismos eletrônicos e criptográficos que deslocam parte da confiança para infraestrutura invisível Legado: Assinaturas eletrônicas, assinaturas digitais e novas infraestruturas de registro de autoria e consentimento |
-| **Conceitos relacionados** | [[01 conceitos/Limiares|Limiares]], [[01 conceitos/Justificabilidade|Justificabilidade]], [[01 conceitos/Redução de Inferências|Redução de Inferências]] |
+| **Consequências inesperadas** | A assinatura pode tornar-se ritual automático e ser confundida com prova de leitura ou compreensão; sistemas podem concentrar excessiva confiança na autenticidade do sinal |
+| **Destino ou transformação posterior** | A forma manuscrita continua ativa, mas coexiste com mecanismos eletrônicos e criptográficos que deslocam parte da confiança para infraestrutura invisível |
+| **Conceitos relacionados** | [[01 conceitos/Limiares|Limiares]], [[01 conceitos/Justificabilidade|Justificabilidade]], [[01 conceitos/Redução de Inferências|Redução de Inferências]], [[01 conceitos/Promessa|Promessa]] |
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Reversibilidade|Reversibilidade]], [[02 variaveis/Legitimidade Decisoria|Legitimidade Decisória]] |
-| **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]], [[04 genealogias/Limiares e Delimitacao|Limiares e delimitação]] Família de ideias: Artefatos de identidade, autoria e compromisso |
+| **Autores relacionados** | [[autores/Paul Ricoeur|Paul Ricoeur]]: ipseidade, promessa e responsabilidade através do tempo |
+| **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]], [[04 genealogias/Limiares e Delimitacao|Limiares e delimitação]]. Família de ideias: artefatos de identidade, autoria e compromisso |
 | **Percurso(s)** | [[05 percursos/Como o Design Aprendeu a Guardar|Como o Design Aprendeu a Guardar]] |
-| **Parentes** | [[03 artefatos/Carimbo|Carimbo]], [[03 artefatos/Tela de Login|Tela de Login]], selo, sinete e assinatura digital |
-| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
-| **Princípio de design revelado** | Sistemas conseguem coordenar agentes ausentes quando criam representações persistentes de quem assumiu determinada ação Por que funcionou: Condensa agente e intenção em uma marca barata, portátil e incorporada ao próprio documento |
+| **Parentes** | [[03 artefatos/Carimbo|Carimbo]], [[03 artefatos/Login|Login]], [[03 artefatos/Tela de Login|Tela de Login]], selo, sinete e assinatura digital |
+| **Leituras-chave** | [[00 índices/Livros Indicados|Oneself as Another]] |
+| **Princípio de design revelado** | Uma representação persistente pode manter imputável a relação entre agente e ato sem exigir que o agente permaneça presente ou permaneça igual |
 | **Questão em aberto** | Em sistemas capazes de sintetizar marcas, vozes e identidades convincentes, qual parte da assinatura continuará visível ao usuário e qual parte precisará ser provada por infraestrutura? |
