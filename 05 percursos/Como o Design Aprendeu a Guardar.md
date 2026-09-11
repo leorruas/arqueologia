@@ -11,9 +11,9 @@ tags:
 
 Guardar parece um verbo simples até perguntarmos o que exatamente ele quer dizer. Guardamos uma moeda num cofre, uma camisa num guarda-roupa, uma lembrança num diário, uma despesa num aplicativo, um lugar da Web nos favoritos, um registro num banco de dados e um documento na nuvem. Em cada caso, “guardar” realiza uma operação diferente.
 
-Este percurso não propõe uma cronologia universal do armazenamento. A sequência é editorial: aproxima artefatos de épocas e meios diferentes para acompanhar uma transformação mais ampla — **como o design deslocou o problema de guardar da contenção física para a proteção, classificação, portabilidade, registro, preservação de referências, recuperação e, mais recentemente, reorganização automática daquilo que foi preservado**.
+Este percurso não propõe uma cronologia universal do armazenamento. A sequência é editorial: aproxima artefatos de épocas e meios diferentes para acompanhar uma transformação mais ampla — **como o design deslocou o problema de guardar da contenção física para a proteção, classificação, portabilidade, registro, seleção, preservação de referências, recuperação e, mais recentemente, reorganização automática daquilo que foi preservado**.
 
-A pergunta deixa de ser apenas “como fazer algo sobreviver?”. Passa a incluir: onde isso fica, quem pode acessar, como será reencontrado, o que viaja conosco, o que fica para trás, quando basta preservar um caminho e que tipo de passado o sistema consegue devolver.
+A pergunta deixa de ser apenas “como fazer algo sobreviver?”. Passa a incluir: onde isso fica, quem pode acessar, como será reencontrado, o que viaja conosco, o que fica para trás, o que merece ser selecionado, quando basta preservar um caminho e que tipo de passado o sistema consegue devolver.
 
 ## Guardar começou como uma relação com o espaço
 
@@ -57,15 +57,25 @@ Uma despesa não é preservada apenas para prova. Ela pode reaparecer como gráf
 
 Isso abre uma família futura particularmente interessante para o projeto: diário, contador de passos, registro de sono, app de gastos e histórico de navegação são formas diferentes de fazer comportamento passado voltar como interface.
 
-## Às vezes guardar significa preservar apenas o caminho
+## Guardar também pode significar selecionar
 
-O [[03 artefatos/Favorito Bookmark|favorito / bookmark]] introduz uma mutação que é fácil perder porque sua interface parece banal. Ao favoritar uma página, normalmente não copiamos a página para dentro de um recipiente nosso. Guardamos uma referência que permitirá tentar voltar até ela.
+Existe outra transformação que não depende de guardar mais, e sim de **escolher melhor o que merece voltar**.
+
+Sublinhar uma passagem, escrever à margem ou usar um marca-texto não preserva um livro que já não estivesse preservado. Essas práticas alteram a distribuição de atenção dentro dele. O leitor deixa marcas para que certas partes tenham maior chance de reaparecer numa leitura futura.
+
+Commonplace books e fichas bibliográficas fazem algo diferente. Em vez de modificar o objeto original, extraem trechos, ideias e referências para uma coleção pessoal. Richard Yeo mostra que commonplace books foram usados como repositórios de material para consulta e que, na modernidade inicial, passaram a ser tratados cada vez mais como fontes externas das quais a informação poderia ser recuperada quando necessária.[^7] A coleção não conserva tudo: **ela transforma seleção em infraestrutura**.
+
+O [[03 artefatos/Post-it|Post-it]] ocupa uma posição intermediária. Pode funcionar como marcador, mas também acrescentar uma interpretação removível junto da coisa. A informação selecionada continua ligada ao contexto original, sem precisar ser inscrita permanentemente nele.
+
+O [[03 artefatos/Diário|diário]] também seleciona, embora sua lógica dominante seja temporal: uma vida inteira acontece, mas apenas parte dela ganha entrada. O suporte transforma experiência escolhida em coleção sequencial para um eu futuro.
+
+O [[03 artefatos/Favorito Bookmark|favorito / bookmark]] leva essa operação para a Web e introduz uma economia radical. Ao favoritar uma página, normalmente não copiamos a página para dentro de um recipiente nosso. Guardamos uma referência que permitirá tentar voltar até ela.
 
 Já em 1993, o NCSA Mosaic mantinha uma *hotlist* privada de lugares interessantes salva entre sessões.[^6] O que persiste é sobretudo uma relação entre usuário e endereço. O conteúdo continua vivendo em outro servidor e sob controle de outra pessoa ou instituição.
 
-Isso separa **preservação de conteúdo** de **preservação de acesso potencial**. Um botão salvar tenta estabilizar um estado do objeto; um bookmark pode deixar o objeto intacto e preservar apenas a possibilidade de retorno. A operação se aproxima de [[01 conceitos/Continuidade de Acesso|continuidade de acesso]] porque reduz o trabalho futuro de reconstruir a navegação.
+Isso permite distinguir pelo menos quatro maneiras de guardar uma seleção: **marcar no próprio objeto**, **anexar uma camada ao objeto**, **extrair algo para uma coleção própria** ou **guardar apenas uma referência para reencontro**.
 
-Mas a economia tem um limite: um caminho pode sobreviver ao desaparecimento do destino. O bookmark revela, portanto, que memória externa não precisa conter aquilo que queremos lembrar. Às vezes ela guarda apenas a instrução de onde procurar depois.
+A consequência é conceitualmente importante: coleção não é armazenamento neutro. **Toda coleção é também uma decisão sobre o que não será guardado.** O design da memória começa antes do recipiente; começa na escolha do que merece sobreviver à abundância.
 
 ## O banco de dados separou guardar de saber onde a coisa está
 
@@ -113,6 +123,8 @@ Nesse ponto, a história de guardar deixa de ser apenas a história de recipient
 
 **Como registrar o que aconteceu?**
 
+**Como selecionar o que merece voltar?**
+
 **Como guardar um caminho sem guardar a coisa?**
 
 **Como reencontrar sem saber onde está?**
@@ -121,9 +133,9 @@ Nesse ponto, a história de guardar deixa de ser apenas a história de recipient
 
 **Como fazer aquilo que foi guardado trabalhar sobre o próximo momento?**
 
-A transformação mais ampla talvez seja esta: o design não apenas aprendeu a fazer coisas permanecerem. Aprendeu a desenhar **relações diferentes entre passado, espaço, referência, acesso e ação futura**.
+A transformação mais ampla talvez seja esta: o design não apenas aprendeu a fazer coisas permanecerem. Aprendeu a desenhar **relações diferentes entre passado, seleção, espaço, referência, acesso e ação futura**.
 
-O que chamamos genericamente de “guardar” pode ser contenção, proteção, classificação, portabilidade, inscrição, rastreamento, referência, endereçamento, desancoragem ou manutenção ativa de memória. A palavra permaneceu; a operação mudou várias vezes.
+O que chamamos genericamente de “guardar” pode ser contenção, proteção, classificação, portabilidade, inscrição, rastreamento, seleção, referência, endereçamento, desancoragem ou manutenção ativa de memória. A palavra permaneceu; a operação mudou várias vezes.
 
 Continue em [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] e [[04 genealogias/Portabilidade e Desancoragem|Portabilidade e desancoragem]].
 
@@ -140,3 +152,5 @@ Continue em [[04 genealogias/Permanencia e Memoria Externa|Permanência e memór
 [^5]: Mell, Peter; Grance, Timothy. *The NIST Definition of Cloud Computing*. NIST Special Publication 800-145, 2011. https://doi.org/10.6028/NIST.SP.800-145
 
 [^6]: W3C. “NCSA Mosaic for X 1.0”. Maio de 1993. A nota descreve a lista de bookmarks chamada *hotlist* como uma lista privada de lugares interessantes salva entre sessões. https://www.w3.org/News/9305.html
+
+[^7]: Yeo, Richard. “Notebooks as memory aids: Precepts and practices in early modern England”. *Memory Studies*, v. 1, n. 1, 2008. O artigo discute commonplace books como repositórios de material literário e a passagem de auxiliares de memória para fontes externas de recuperação. https://doi.org/10.1177/1750698007083894
