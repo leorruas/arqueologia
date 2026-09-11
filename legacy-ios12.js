@@ -33,6 +33,7 @@
   var categoriaAtual = null;
   var artigoAtual = null;
   var carregamentoAtual = 0;
+  var referenciasPendentes = [];
 
   function el(id) { return document.getElementById(id); }
 
@@ -86,6 +87,10 @@
       .replace(/>/g, "&gt;")
       .replace(/\"/g, "&quot;")
       .replace(/'/g, "&#39;");
+  }
+
+  function escaparRegex(valor) {
+    return String(valor || "").replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
   }
 
   function rawUrl(path) {
@@ -334,8 +339,41 @@
     return String(markdown || "").replace(/^---\s*\n[\s\S]*?\n---\s*\n/, "");
   }
 
+  function extrairReferencias(markdown) {
+    var linhas = String(markdown || "").split("\n");
+    var corpo = [];
+    var referencias = [];
+    var mapa = {};
+    var i, match, rotulo, indice, regex;
+
+    for (i = 0; i < linhas.length; i += 1) {
+      match = /^\s*\[\^([^\]]+)\]:\s*(.*)$/.exec(linhas[i]);
+      if (match) {
+        rotulo = match[1].trim();
+        if (mapa[rotulo] === undefined) {
+          mapa[rotulo] = referencias.length;
+          referencias.push({ rotulo: rotulo, texto: match[2] });
+        } else {
+          referencias[mapa[rotulo]].texto += " " + match[2];
+        }
+      } else {
+        corpo.push(linhas[i]);
+      }
+    }
+
+    markdown = corpo.join("\n");
+    for (i = 0; i < referencias.length; i += 1) {
+      indice = i + 1;
+      regex = new RegExp("\\[\\^" + escaparRegex(referencias[i].rotulo) + "\\]", "g");
+      markdown = markdown.replace(regex, '<sup class="referencia-chamada"><a href="#referencia-legado-' + indice + '">' + indice + "</a></sup>");
+    }
+
+    referenciasPendentes = referencias;
+    return markdown;
+  }
+
   function prepararMarkdown(markdown) {
-    return limparFrontmatter(markdown)
+    return extrairReferencias(limparFrontmatter(markdown))
       .replace(/!\[\[([^\]]+)\]\]/g, function (_texto, alvo) {
         return "`anexo: " + alvo + "`";
       })
@@ -359,6 +397,50 @@
       } catch (erro) {}
     }
     return "<pre>" + escaparHtml(texto) + "</pre>";
+  }
+
+  function renderizarInline(markdown) {
+    if (window.marked && typeof window.marked.parseInline === "function") {
+      try { return window.marked.parseInline(String(markdown || "")); } catch (erro) {}
+    }
+    return escaparHtml(markdown);
+  }
+
+  function montarReferenciasLegado() {
+    var i, paragrafo, numero;
+    if (!referenciasPendentes.length) return;
+
+    for (i = 0; i < referenciasPendentes.length; i += 1) {
+      numero = i + 1;
+      paragrafo = document.createElement("p");
+      paragrafo.id = "referencia-legado-" + numero;
+      paragrafo.className = "referencia-definicao";
+      paragrafo.innerHTML = "<strong>" + numero + ". </strong>" + renderizarInline(referenciasPendentes[i].texto) + ' <a class="referencia-voltar" href="#" data-voltar-referencia="' + numero + '">↩</a>';
+      corpoArtigo.appendChild(paragrafo);
+    }
+
+    var voltas = corpoArtigo.querySelectorAll("a[data-voltar-referencia]");
+    for (i = 0; i < voltas.length; i += 1) {
+      voltas[i].onclick = function (evento) {
+        var alvo;
+        if (evento) evento.preventDefault();
+        alvo = corpoArtigo.querySelector('sup.referencia-chamada a[href="#referencia-legado-' + this.getAttribute("data-voltar-referencia") + '"]');
+        if (alvo) window.scrollTo(0, Math.max(0, alvo.offsetTop - 100));
+        return false;
+      };
+    }
+  }
+
+  function envolverTabelasLegado() {
+    var tabelas = corpoArtigo.querySelectorAll("table"), i, tabela, wrapper;
+    for (i = 0; i < tabelas.length; i += 1) {
+      tabela = tabelas[i];
+      if (tabela.parentNode && tabela.parentNode.className && String(tabela.parentNode.className).indexOf("table-scroll") !== -1) continue;
+      wrapper = document.createElement("div");
+      wrapper.className = "table-scroll";
+      tabela.parentNode.insertBefore(wrapper, tabela);
+      wrapper.appendChild(tabela);
+    }
   }
 
   function marcarMermaidLegado() {
@@ -398,6 +480,8 @@
       .then(function (markdown) {
         if (idCarregamento !== carregamentoAtual || artigoAtual !== artigo) return;
         corpoArtigo.innerHTML = renderizarMarkdown(markdown);
+        envolverTabelasLegado();
+        montarReferenciasLegado();
         marcarMermaidLegado();
         rolarTopo();
       })
