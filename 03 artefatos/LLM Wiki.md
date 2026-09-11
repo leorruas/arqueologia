@@ -48,6 +48,16 @@ A palavra usada por Karpathy para essa transformação é particularmente revela
 
 Isso aproxima o artefato de [[01 conceitos/Compressao do Esforco|compressão do esforço]]. O sistema tenta evitar que a mesma operação de localizar, cruzar e sintetizar seja repetida integralmente. Também amplia a [[02 variaveis/Permanencia|permanência]]: não apenas os documentos, mas relações e interpretações podem continuar disponíveis depois da interação.
 
+## Bergson muda a pergunta: persistir não é lembrar
+
+A leitura por [[autores/Henri Bergson|Henri Bergson]] complica justamente a metáfora que torna o artefato atraente. Em *Matière et mémoire*, memória não é simplesmente um estoque de representações conservadas à espera de consulta. O passado torna-se relevante ao se atualizar no presente em função da percepção e da ação.[^8] Isso impede uma equivalência fácil entre base persistente e memória.
+
+Lida assim, a LLM Wiki talvez seja menos interessante como “memória que acumulou conhecimento” e mais como um dispositivo que mantém vestígios e sínteses disponíveis para serem reativados por uma nova pergunta. A página salva não é a lembrança. O que se aproxima funcionalmente de uma operação de lembrar é o momento em que o sistema recupera partes do acervo, as põe em relação com a situação atual e produz uma nova organização.
+
+Isso também desloca a metáfora de compilação. Compilar sugere converter matéria-prima em uma representação intermediária mais pronta para uso. Bergson torna visível que, para uma memória viva, o valor do passado não reside apenas em ter sido estabilizado, mas na forma como ele pode ser atualizado diferentemente conforme o presente. Nesse sentido, as operações de revisão, ligação e reescrita da LLM Wiki talvez sejam conceitualmente mais importantes que o simples fato de as páginas permanecerem.
+
+Mas parentesco não é equivalência. Uma wiki continua discretizando o passado em arquivos, títulos, relações e versões. Ela pode imitar funcionalmente parte do movimento de reativar e reorganizar registros sem reproduzir a experiência humana de duração ou lembrança. A pergunta de design muda então de **“como fazer a IA guardar o que já pensou?”** para **“como projetar um passado externo que possa ser reativado e reorganizado sem confundir persistência com memória?”**
+
 ## O humano deixa de manter a wiki — mas não deixa de governá-la
 
 A formulação de Karpathy redistribui trabalho de maneira muito específica. O humano seleciona fontes, explora o acervo, faz perguntas e decide o que merece atenção. O LLM assume grande parte do trabalho de resumir, classificar, cruzar referências e atualizar arquivos.[^2]
@@ -130,7 +140,7 @@ A pergunta deixa de ser apenas “como guardar conhecimento?”. Passa a ser: **
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] |
 | **Percurso(s)** | [[05 percursos/Como o Design Aprendeu a Guardar|Como o Design Aprendeu a Guardar]] |
 | **Parentes** | [[03 artefatos/Prompt Conversacional|Prompt conversacional]], [[03 artefatos/Botao Salvar|Botão salvar]], [[03 artefatos/Archive|Archive]], [[03 artefatos/Checklist|Checklist]], [[03 artefatos/Pergunta|Pergunta]]; Memex, WikiWikiWeb, RAG, Gemini Enterprise Projects e Gemini Notebook Enterprise como antecedentes ou parentes ainda sem estudo próprio no vault |
-| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
+| **Leituras-chave** | [[autores/Henri Bergson|Henri Bergson]], *Matter and Memory* (1896), como lente teórica para distinguir persistência de memória e pensar a atualização do passado no presente |
 | **Princípio de design revelado** | Persistir a síntese pode reduzir o custo da próxima investigação, mas transforma manutenção da memória em uma questão de governança |
 | **Questão em aberto** | Como impedir que uma interpretação probabilística, depois de incorporada à memória persistente, se fossilize como fato para todas as consultas seguintes? |
 
@@ -149,3 +159,5 @@ A pergunta deixa de ser apenas “como guardar conhecimento?”. Passa a ser: **
 [^6]: Google Cloud. “Create and manage projects”. *Gemini Enterprise Documentation*, consultado em setembro de 2026. https://docs.cloud.google.com/gemini/enterprise/docs/projects. Fonte para Projects como bases de conhecimento dedicadas a trabalho individual ou colaborativo, alimentadas por arquivos, Drive, notas e conectores externos e usadas em conversas fundamentadas no acervo.
 
 [^7]: Google Cloud. “Gemini Notebook for enterprise” e “What is Gemini Notebook Enterprise?”. Consultados em setembro de 2026. https://cloud.google.com/gemini-enterprise/gemini-notebook e https://docs.cloud.google.com/gemini/enterprise/notebooklm-enterprise/docs/overview. Fontes para notebooks empresariais, compartilhamento organizacional, fontes persistentes, guias e help centers.
+
+[^8]: Bergson, Henri. *Matière et mémoire: essai sur la relation du corps à l'esprit*. Paris: Félix Alcan, 1896. Tradução inglesa: *Matter and Memory*, trad. Nancy Margaret Paul e W. Scott Palmer. London: George Allen & Co., 1911. A referência é usada aqui como lente teórica para distinguir conservação de registros da atualização do passado na percepção e na ação; não como descrição antecipada de sistemas digitais.
