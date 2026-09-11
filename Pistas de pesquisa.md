@@ -42,7 +42,6 @@ A presença aqui não obriga a criação de uma nota. Cada pista deve ser avalia
 - **Paginação**: investigar o ponto explícito de decisão que existia antes do infinite scroll. Pode funcionar como fóssil útil para entender o que significa apagar uma pausa.
 - **Autoplay**: estudar a transferência da decisão de iniciar o próximo conteúdo do usuário para o sistema.
 - **Notificação**: investigar o artefato que leva uma demanda de atenção até a pessoa em vez de esperar que ela retorne ao sistema.
-- **Badge de notificação**: estudar como um pequeno sinal persistente transforma ausência, novidade ou dívida de atenção em estado visível.
 - **Stories**: investigar combinação de efemeridade, sequência automática, navegação gestual e pressão temporal de disponibilidade.
 
 ## Reversibilidade e custo do erro
@@ -65,7 +64,6 @@ A presença aqui não obriga a criação de uma nota. Cada pista deve ser avalia
 - **Etiqueta**: estudar como um objeto passa a carregar informação sobre si mesmo e como classificação, preço, origem ou instrução podem viajar junto com ele.
 - **Recibo**: investigar a transformação de uma transação passada em prova portátil e memória compartilhável.
 - **Índice**: estudar o momento em que guardar demais cria um novo problema: reencontrar. Pode abrir uma genealogia de classificação, indexação, busca, recomendação e recuperação semântica.
-- **Favorito / bookmark**: investigar permanência aplicada a algo que o usuário não controla. O objeto guardado continua fora do recipiente, enquanto o sistema preserva um caminho de retorno.
 - **Senha**: estudar a transformação de conhecimento privado em capacidade de passagem, separando o artefato senha da interface de login que o solicita.
 
 ## Pistas já promovidas a estudo
@@ -83,3 +81,5 @@ Quando uma pista ganha nota própria, ela deixa de funcionar como promessa futur
 - **App de tracking de gastos**: promovido a `03 artefatos/App de tracking de gastos.md` para investigar registro automático que retorna como feedback comportamental.
 - **Banco de dados**: promovido a `03 artefatos/Banco de dados.md` para investigar armazenamento por relações e consulta.
 - **Arquivo em nuvem**: promovido a `03 artefatos/Arquivo em nuvem.md` para investigar desancoragem entre armazenamento físico e acesso.
+- **Badge de notificação**: promovido a `03 artefatos/Badge de notificacao.md` para investigar como um estado pendente se torna sinal persistente fora do aplicativo.
+- **Favorito / bookmark**: promovido a `03 artefatos/Favorito Bookmark.md` para investigar a preservação de um caminho de retorno a conteúdo externo.
