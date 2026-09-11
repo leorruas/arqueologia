@@ -49,13 +49,21 @@ A nova competência, portanto, não é apenas gerar alternativas. É saber **por
 
 ## A afinidade com temperatura
 
-O botão regenerar torna a variabilidade visível depois da geração. Controles de temperatura e criatividade tentam governá-la antes.
+O botão regenerar torna a variabilidade visível depois da geração. [[03 artefatos/Temperatura e Criatividade|Temperatura e criatividade]] tenta governar essa variabilidade antes.
 
 Os dois artefatos pertencem à mesma mudança histórica: sistemas computacionais passam a apresentar a não determinação do resultado como propriedade utilizável, em vez de tratá-la apenas como ruído ou defeito.
 
-Regenerar pergunta quantas vezes queremos percorrer o espaço de possibilidades. Temperatura tenta influenciar quão disperso esse percurso poderá ser.
+Para entender o parentesco, é importante separar duas operações. **Regenerar significa realizar uma nova amostragem.** Mantida aproximadamente a mesma solicitação, o sistema percorre novamente possibilidades de saída. **Temperatura é um dos parâmetros que podem alterar a distribuição da qual essa amostragem é feita**, tornando-a, de modo simplificado, mais concentrada ou mais dispersa entre alternativas possíveis.
 
-Um controla a **repetição da amostragem**; o outro, a **distribuição da amostragem**.
+Assim, regenerar não é um botão de “mais criatividade”. Ele apenas pede outra realização. A nova resposta pode ser melhor, pior, mais convencional, mais surpreendente ou apenas diferente. Do mesmo modo, aumentar a temperatura não injeta criatividade no sistema: altera condições probabilísticas de seleção.
+
+Essa distinção é central porque **variabilidade não é sinônimo de criatividade**. Criatividade envolve critérios de novidade e valor, além de contexto, intenção e julgamento. Uma saída estatisticamente menos provável pode ser inventiva, mas também pode ser incoerente, inadequada ou simplesmente rara. O design corre o risco de esconder essa diferença quando traduz controles probabilísticos por palavras psicológicas como “criativo”.
+
+Os dois artefatos podem então ser entendidos como controles sobre dimensões diferentes do mesmo fenômeno:
+
+**Regenerar controla a repetição da amostragem. Temperatura influencia a distribuição da amostragem.**
+
+O primeiro pergunta: “quer percorrer novamente este espaço?”. O segundo ajuda a determinar: “com que grau de concentração ou dispersão esse percurso será feito?”. Para a arqueologia completa dessa tradução estatística em categoria humana, ver [[03 artefatos/Temperatura e Criatividade|Temperatura e criatividade]].
 
 ## Ficha arqueológica
 | Campo | Registro |
@@ -82,7 +90,7 @@ Um controla a **repetição da amostragem**; o outro, a **distribuição da amos
 | **Variáveis relacionadas** | previsibilidade, diversidade de saída, custo de iteração |
 | **Genealogia** | Nova tentativa; sorteio; variação; processos divergentes de projeto |
 | **Percurso(s)** | Ainda não integrado a um percurso editorial. |
-| **Parentes** | Temperatura e criatividade, [[03 artefatos/Undo|Undo]], refresh, nova tentativa |
+| **Parentes** | [[03 artefatos/Temperatura e Criatividade|Temperatura e criatividade]], [[03 artefatos/Undo|Undo]], refresh, nova tentativa |
 | **Leituras-chave** | Holtzman et al. (2020); Zhang et al. (2020) |
 | **Princípio de design revelado** | Em sistemas probabilísticos, variabilidade pode deixar de ser falha e tornar-se matéria de interação |
 | **Questão em aberto** | Como permitir exploração de alternativas sem incentivar o usuário a regenerar até encontrar apenas aquilo que desejava ouvir? |
