@@ -57,6 +57,20 @@ Preservar nunca é neutro. Quem controla a infraestrutura pode decidir o que per
 
 Um sistema pode preservar bem e recuperar mal. Pode registrar tudo e classificar de modo inadequado. Pode guardar uma referência cujo destino já desapareceu. Pode manter uma pendência visível muito depois de ela deixar de ser importante. Pode selecionar tanto que produz uma memória enviesada do que existia. Pode manter sínteses atualizadas e, justamente por isso, tornar um erro persistente mais influente. A pergunta passa a ser qual propriedade da permanência está sendo projetada e qual custo ela produz.
 
+## O que exatamente sobrevive?
+
+Essa genealogia fica mais precisa quando “memória externa” deixa de funcionar como nome genérico para qualquer coisa preservada.
+
+[[autores/Henri Bergson|Henri Bergson]] ajuda a separar **persistência** de **lembrança**. Em *Matière et mémoire*, memória não é apenas um depósito imóvel de representações. O passado pode atualizar-se no presente conforme uma situação o solicita.[^1] Um artefato pode preservar um traço, uma inscrição ou um estado sem realizar essa atualização. O botão salvar conserva um estado; o arquivo mantém um documento; o banco de dados conserva registros. O ato de lembrar envolve uma relação posterior entre aquilo que persiste e uma situação presente.
+
+[[autores/Paul Ricoeur|Paul Ricoeur]] acrescenta outra diferença ao investigar memória, testemunho, documento, arquivo e representação histórica em *La mémoire, l'histoire, l'oubli*.[^2] Um documento pode sobreviver sem que o passado sobreviva dentro dele como conteúdo transparente. O vestígio exige interpretação; o arquivo é uma condição para reconstrução, não uma cápsula intacta do acontecimento.
+
+Isso permite distinguir pelo menos quatro coisas que esta genealogia antes aproximava rápido demais: **o que permanece materialmente**, **o que pode ser recuperado**, **o que volta a ser lembrado** e **o que pode ser interpretado sobre o passado**. Um mesmo artefato pode ser excelente numa dessas operações e fraco nas outras.
+
+A consequência para o design é importante. O problema não termina quando algo foi armazenado. É possível projetar uma infraestrutura que conserva muito e lembra mal, que recupera rapidamente e contextualiza pouco, ou que mantém vestígios tão bem que uma interpretação antiga passa a parecer o próprio acontecimento.
+
+Essa distinção também torna mais interessante a relação com [[autores/Merlin Donald|Merlin Donald]]. Donald ajuda a explicar a externalização de capacidades de memória em sistemas simbólicos e materiais; Bergson tensiona a experiência de lembrar; Ricoeur tensiona a passagem entre traço, documento e representação do passado. Os três autores não descrevem o mesmo fenômeno, mas juntos impedem que “memória externa” vire uma metáfora indiferenciada.
+
 ## Ficha da genealogia
 
 | Campo | Registro |
@@ -68,8 +82,16 @@ Um sistema pode preservar bem e recuperar mal. Pode registrar tudo e classificar
 | **Artefatos principais** | [[03 artefatos/Baú|Baú]], [[03 artefatos/Cofre|Cofre]], [[03 artefatos/Guarda-roupa|Guarda-roupa]], [[03 artefatos/Post-it|Post-it]], [[03 artefatos/Diário|Diário]], [[03 artefatos/Botao Salvar|Botão salvar]], [[03 artefatos/Archive|Archive]], [[03 artefatos/Favorito Bookmark|Favorito / bookmark]], [[03 artefatos/Banco de dados|Banco de dados]], [[03 artefatos/Arquivo em nuvem|Arquivo em nuvem]], [[03 artefatos/Número de Protocolo|Número de protocolo]], [[03 artefatos/Assinatura|Assinatura]], [[03 artefatos/LLM Wiki|LLM Wiki]], [[03 artefatos/Calendário|Calendário]], [[03 artefatos/Checklist|Checklist]], [[03 artefatos/Quadro Branco|Quadro branco]], [[03 artefatos/Retrospectiva|Retrospectiva]], [[03 artefatos/Workshop|Workshop]], [[03 artefatos/App de tracking de gastos|App de tracking de gastos]], [[03 artefatos/Badge de notificacao|Badge de notificação]], [[03 artefatos/Pôster|Pôster]] |
 | **Comportamento recorrente** | Conter, proteger, selecionar, registrar, classificar, recuperar e externalizar estados, referências ou memórias para uso futuro |
 | **O que o design redistribui** | Memória, responsabilidade pela preservação, seleção, organização, acesso, busca, segurança, continuidade e poder editorial sobre a memória externa |
+| **Distinções críticas** | Persistir ≠ lembrar; recuperar ≠ compreender; vestígio ≠ passado; armazenamento ≠ memória total |
+| **Autores relacionados** | [[autores/Henri Bergson|Henri Bergson]], [[autores/Paul Ricoeur|Paul Ricoeur]], [[autores/Merlin Donald|Merlin Donald]] |
 | **Relação de poder** | Quem controla a infraestrutura de permanência pode definir o que persiste, quem acessa, como é classificado e em quais condições pode ser recuperado, revisado ou mantido perceptivamente presente |
 | **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Continuidade de Acesso|Continuidade de acesso]], [[01 conceitos/Tecnologias de Delimitacao|Tecnologias de delimitação]], [[01 conceitos/Justificabilidade|Justificabilidade]] |
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Custo do Erro|Custo do erro]], [[02 variaveis/Reversibilidade|Reversibilidade]], [[02 variaveis/Custo de Busca|Custo de busca]] |
 | **Cuidado histórico** | Os artefatos são aproximados pelas operações de permanência, seleção e recuperação; não constituem etapas de uma linha evolutiva única |
 | **Hipótese em aberto** | A história do design pode ser lida em parte como transferência de tarefas de preservação e seleção para o ambiente; resta investigar como diferentes infraestruturas decidem a forma pela qual o passado, uma referência ou uma pendência poderá voltar a agir no presente |
+
+## Referências
+
+[^1]: Bergson, Henri. *Matière et mémoire: essai sur la relation du corps à l'esprit*. Paris: Félix Alcan, 1896. Tradução inglesa: *Matter and Memory*, trad. Nancy Margaret Paul e W. Scott Palmer. London: George Allen & Co., 1911.
+
+[^2]: Ricoeur, Paul. *La mémoire, l'histoire, l'oubli*. Paris: Seuil, 2000. Tradução inglesa: *Memory, History, Forgetting*, trad. Kathleen Blamey e David Pellauer. Chicago: University of Chicago Press, 2004.
