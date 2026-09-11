@@ -90,11 +90,10 @@ A pergunta contemporânea não é se o login vai desaparecer. É quanto de seu r
 | **Comportamento aproveitado** | Provar identidade por segredo, posse ou característica pessoal para atravessar um limite |
 | **Comportamento produzido** | Entrar e sair de identidades digitais e administrar credenciais como parte da vida cotidiana |
 | **Relação de poder** | Protege privacidade e individualiza responsabilidade, mas dá ao sistema poder de admitir, excluir e registrar ações por identidade |
-| **Consequências inesperadas** | Fadiga de senhas, perda de acesso, roubo de credenciais, dependência de provedores de identidade e tendência a confundir autenticação da conta com autoria ou intenção da pessoa |
+| **Consequências inesperadas** | Fadiga de senhas, perda de acesso, roubo de credenciais, dependência de provedores de identidade e tendência a confundir autenticação da conta com autoria ou intenção da pessoa Registros adicionais preservados da ficha anterior: autores relacionados: [[autores/Paul Ricoeur|Paul Ricoeur]] como lente comparativa para distinguir mesmidade, ipseidade e identidade narrativa |
 | **Destino ou transformação posterior** | O ritual visível tende a diminuir com biometria, passkeys, sessões persistentes e identidade federada, enquanto a operação de autenticação permanece na infraestrutura |
 | **Conceitos relacionados** | [[01 conceitos/Limiares|Limiares]], [[01 conceitos/Tecnologias de Delimitacao|Tecnologias de delimitação]], identidade operacional, mesmidade e ipseidade |
 | **Variáveis relacionadas** | [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Legitimidade Decisoria|Legitimidade decisória]] |
-| **Autores relacionados** | [[autores/Paul Ricoeur|Paul Ricoeur]] como lente comparativa para distinguir mesmidade, ipseidade e identidade narrativa |
 | **Genealogia** | [[04 genealogias/Limiares e Delimitacao|Limiares e delimitação]] |
 | **Percurso(s)** | [[05 percursos/Como Projetamos Fronteiras|Como Projetamos Fronteiras]] |
 | **Parentes** | [[03 artefatos/Tela de Login|Tela de login]], [[03 artefatos/Crachá|Crachá]], chave, passaporte, biometria |
