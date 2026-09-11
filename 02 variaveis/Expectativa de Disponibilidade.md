@@ -24,6 +24,16 @@ Um serviço pode operar 24 horas sem que todos esperem resposta instantânea. O 
 
 Por isso, o eixo é cultural e relacional, não apenas técnico.
 
+## Da promessa à norma
+
+[[01 conceitos/Promessa|Promessa]] acrescenta uma camada temporal a esta variável. Um artefato pode inicialmente oferecer disponibilidade como benefício: acessar algo onde antes era difícil, encontrar algo mais rápido, responder sem estar num lugar específico. Se essa promessa é cumprida repetidamente, a possibilidade pode virar hábito e o hábito pode deslocar aquilo que parece normal.
+
+A cadeia investigativa proposta é:
+
+**promessa de disponibilidade → adoção → hábito → expectativa de disponibilidade → norma de prontidão**
+
+Isso não significa que todo aumento técnico de acesso produzirá automaticamente uma obrigação social. A passagem precisa ser demonstrada caso a caso. A variável ajuda justamente a observar **quando “posso acessar” começa a virar “deveria estar disponível agora”**.
+
 ## O design pode deslocar o “normal”
 
 [[03 artefatos/Infinite Scroll|Infinite Scroll]] sustenta a percepção de que sempre existe mais conteúdo logo abaixo. O fim deixa de ser uma condição visual recorrente e a continuidade passa a parecer normal.
@@ -40,15 +50,13 @@ Férias, horários de atendimento, status de presença e modos de não perturbe 
 
 Isso conecta a variável a [[01 conceitos/Tecnologias de Delimitacao|Tecnologias de delimitação]]. Uma fronteira temporal pode ser tão importante quanto uma porta física.
 
-[[03 artefatos/Undo Send|Undo Send]], por outro lado, não é um bom exemplo central de redução da expectativa de disponibilidade. Ele altera reversibilidade temporal do envio, não a norma de prontidão do destinatário. A associação anterior foi removida por falta de relação direta.
-
 ## Alta disponibilidade pode criar dependência de infraestrutura
 
 Quando algo se torna esperado como permanentemente acessível, interrupções ganham novo peso. Uma queda que antes seria inconveniente pode parecer falha grave porque o padrão cultural mudou.
 
 Isso é especialmente visível em serviços que se tornam infraestrutura cotidiana. O design não cria sozinho essa dependência, mas participa da transformação ao reduzir repetidamente intervalos, espera e necessidade de planejamento.
 
-A pergunta arqueológica é: **em que momento “posso acessar” virou “deveria estar disponível agora”?**
+Pela lente de [[01 conceitos/Genealogia de Futuros|Genealogia de Futuros]], a pergunta seguinte é o que acontece **depois** que a expectativa se estabiliza: que obrigação ela cria, que infraestrutura passa a pressupô-la e que novo problema surge quando a disponibilidade funciona bem demais?
 
 ## Como observar
 
@@ -67,7 +75,7 @@ O eixo não mede disponibilidade objetiva, SLA ou uptime. Mede a norma esperada 
 | **O que não mede sozinho** | Disponibilidade técnica real, qualidade do serviço ou valor do recurso |
 | **Trade-offs principais** | Mais disponibilidade reduz espera; também pode elevar normas de prontidão e dependência da infraestrutura |
 | **Artefatos-chave** | [[03 artefatos/Infinite Scroll|Infinite Scroll]], [[03 artefatos/Botao Like|Botão Like]], [[03 artefatos/Agendamento|Agendamento]] |
-| **Conceitos relacionados** | [[01 conceitos/Continuidade de Acesso|Continuidade de acesso]], [[01 conceitos/Tecnologia de Acesso|Tecnologia de acesso]] |
+| **Conceitos relacionados** | [[01 conceitos/Continuidade de Acesso|Continuidade de acesso]], [[01 conceitos/Tecnologia de Acesso|Tecnologia de acesso]], [[01 conceitos/Promessa|Promessa]], [[01 conceitos/Genealogia de Futuros|Genealogia de Futuros]] |
 | **Genealogias relacionadas** | [[04 genealogias/Acesso e Disponibilidade|Acesso e disponibilidade]] |
 
 ## Referências
