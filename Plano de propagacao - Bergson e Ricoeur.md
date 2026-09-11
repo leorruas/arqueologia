@@ -21,8 +21,8 @@ Objetivo: criar os autores como nós estáveis e consolidar as distinções que 
 - [x] Registrar obras-chave em Livros indicados.
 - [x] Consolidar Bergson em `Atenção` como lente sobre reconhecimento atento, hábito e percepção.
 - [x] Consolidar Ricoeur em `Promessa`, distinguindo a hipótese do projeto da promessa como constância de si e responsabilidade.
-- [ ] Revisar `Memória distribuída` para distinguir suporte persistente, lembrança e atualização do passado no presente.
-- [ ] Revisar `Permanência e memória externa` para distinguir armazenamento, vestígio, memória e interpretação histórica.
+- [x] Revisar `Memória distribuída` para distinguir suporte persistente, lembrança e atualização do passado no presente.
+- [x] Revisar `Permanência e memória externa` para distinguir armazenamento, vestígio, memória e interpretação histórica.
 
 Critério de conclusão: o vault deve conseguir usar “memória”, “atenção”, “promessa”, “identidade” e “permanência” sem tratar esses termos como sinônimos de armazenamento, foco, marketing, autenticação ou registro.
 
@@ -54,7 +54,7 @@ Objetivo: testar Ricoeur em artefatos que respondem a “quem?”, “é a mesma
 - [ ] `Assinatura`: ligação entre agente, ato, compromisso e imputabilidade futura.
 - [ ] `Número de protocolo`: sobrevivência institucional de uma demanda e possibilidade de atribuir continuidade ao processo.
 - [ ] `App de tracking de gastos`: identidade comportamental produzida por séries de registros.
-- [ ] `Permanência e memória externa`: testemunho, documento, arquivo e representação do passado.
+- [x] `Permanência e memória externa`: testemunho, documento, arquivo e representação do passado.
 
 Critério de conclusão: distinguir claramente mesmidade, ipseidade, identidade narrativa, autenticação, autoria, responsabilidade e registro.
 
