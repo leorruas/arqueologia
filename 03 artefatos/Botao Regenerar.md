@@ -49,7 +49,7 @@ A nova competência, portanto, não é apenas gerar alternativas. É saber **por
 
 ## A afinidade com temperatura
 
-O botão regenerar torna a variabilidade visível depois da geração. Controles de [[03 artefatos/Temperatura e Criatividade|temperatura e criatividade]] tentam governá-la antes.
+O botão regenerar torna a variabilidade visível depois da geração. Controles de temperatura e criatividade tentam governá-la antes.
 
 Os dois artefatos pertencem à mesma mudança histórica: sistemas computacionais passam a apresentar a não determinação do resultado como propriedade utilizável, em vez de tratá-la apenas como ruído ou defeito.
 
@@ -65,6 +65,7 @@ Um controla a **repetição da amostragem**; o outro, a **distribuição da amos
 | **Autoria** | Atribuição difusa; a operação deriva de práticas anteriores de nova tentativa, mas ganha hipótese própria em interfaces generativas |
 | **Produto ou contexto** | Chatbots e outras interfaces de geração probabilística |
 | **Tipo(s) de design** | [[00 tipos de design/Design de Interface|Design de interface]], design de IA |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Permitir solicitar outra saída sem reconstruir a solicitação |
 | **Mundo antes** | Repetição de comandos era associada principalmente a reiterar uma operação ou recuperar-se de falha |
 | **Invenção** | Não há primeira ocorrência estabelecida neste estudo |
@@ -80,8 +81,8 @@ Um controla a **repetição da amostragem**; o outro, a **distribuição da amos
 | **Conceitos relacionados** | probabilidade, amostragem, divergência, exploração, validação, reversibilidade |
 | **Variáveis relacionadas** | previsibilidade, diversidade de saída, custo de iteração |
 | **Genealogia** | Nova tentativa; sorteio; variação; processos divergentes de projeto |
-| **Percurso(s)** | Ainda não explicitado. |
-| **Parentes** | [[03 artefatos/Temperatura e Criatividade|Temperatura e criatividade]], [[03 artefatos/Undo|Undo]], refresh, nova tentativa |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
+| **Parentes** | Temperatura e criatividade, [[03 artefatos/Undo|Undo]], refresh, nova tentativa |
 | **Leituras-chave** | Holtzman et al. (2020); Zhang et al. (2020) |
 | **Princípio de design revelado** | Em sistemas probabilísticos, variabilidade pode deixar de ser falha e tornar-se matéria de interação |
 | **Questão em aberto** | Como permitir exploração de alternativas sem incentivar o usuário a regenerar até encontrar apenas aquilo que desejava ouvir? |
