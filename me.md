@@ -55,6 +55,7 @@ leitura: "mandatória: ler antes de qualquer operação no vault"
 28. **Percursos como argumentos de leitura**: notas em `05 percursos/` não devem ser listas numeradas de artigos. Organizar por mudanças de ideia, comparar estudos dentro da mesma seção e fazer a pergunta inicial se transformar ao longo da leitura.
 29. **Propagação semântica**: uma correção factual ou conceitual também precisa atravessar a rede. Ao mudar autoria, data, papel histórico, procedência, grau de certeza, interpretação central ou estatuto de uma hipótese, procure notas que dependam dessa afirmação e corrija versões incompatíveis. Um grafo pode ter links corretos e ainda contar histórias contraditórias.
 30. **Propagação de governança**: uma mudança de modelo editorial, schema, regra de escrita ou função de uma camada não termina no arquivo em que foi proposta. Antes de concluir, verifique e atualize, quando afetados, `me.md`, `Instrucoes de Arqueologia.md`, `Guia de escrita.md`, templates correspondentes, scripts de auditoria, `README.md`, `index.md` e `00 índices/Sobre o projeto.md`. A documentação pública, os modelos de criação e os testes automáticos devem descrever o mesmo sistema editorial.
+31. **Pistas como memória acumulativa**: `Pistas de pesquisa.md` preserva perguntas, artefatos, relações e hipóteses que ainda não justificam nota própria. Uma pista registrada não deve desaparecer por regeneração automática, limpeza de links ou ausência temporária de referência no grafo. Ela só sai do backlog por decisão explícita: promoção a estudo, fusão com outra pista ou descarte justificado. Automação pode acrescentar pistas detectadas, mas nunca substituir silenciosamente o conteúdo curado.
 
 ## Regras editoriais
 
@@ -110,6 +111,7 @@ Uma operação que cria ou altera materialmente um estudo só termina depois de:
 - criar ou atualizar autores e empresas apenas quando tiverem papel histórico ou intelectual relevante;
 - registrar livros úteis em [[00 índices/Livros Indicados|Livros indicados]] e associá-los aos autores correspondentes;
 - procurar afirmações dependentes quando uma correção alterar autoria, data, papel, procedência ou grau de certeza;
+- registrar em `Pistas de pesquisa.md` perguntas e nós potenciais que tenham valor futuro, mas ainda não justifiquem criação de nota;
 - atualizar os índices afetados;
 - registrar a mudança significativa em `log.md`;
 - verificar wikilinks sem destino e vínculos que deveriam ser recíprocos.
