@@ -26,6 +26,8 @@ Em [[02 variaveis/Atencao|Atenção]], Bergson acrescenta a distinção entre re
 
 Em [[01 conceitos/Memoria Distribuida|Memória distribuída]] e [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]], sua teoria impede uma equivalência simples entre armazenar e lembrar. Um suporte pode conservar inscrições sem realizar aquilo que Bergson descreve como atualização do passado na ação presente. O artefato preserva condições para uma lembrança futura; não é automaticamente a lembrança.
 
+Em [[03 artefatos/LLM Wiki|LLM Wiki]], essa distinção desloca a leitura do artefato. A persistência de páginas, relações e sínteses não constitui por si só memória no sentido bergsoniano. O ponto conceitualmente mais próximo está na reativação situada: uma nova pergunta faz partes do passado preservado voltarem a participar da ação presente e serem reorganizadas. Mesmo assim, trata-se de parentesco funcional, não de equivalência com memória humana.
+
 Em [[03 artefatos/Calendário|Calendário]], [[03 artefatos/Agendamento|Agendamento]] e sistemas de tracking, a noção de duração oferece outra diferença central: o tempo pode ser representado como unidades equivalentes sem que a experiência dessas unidades seja equivalente. Essa tensão ajuda a investigar a transformação de tempo vivido em tempo diagramável, comparável e administrável.
 
 ## Obras, projetos e relações
@@ -34,7 +36,7 @@ Em [[03 artefatos/Calendário|Calendário]], [[03 artefatos/Agendamento|Agendame
 - *Matière et mémoire* (1896), traduzido como *Matter and Memory*: investiga percepção, corpo, memória, reconhecimento e atenção.
 - *L'Évolution créatrice* (1907), traduzido como *Creative Evolution*: amplia a noção de duração e mudança, embora não seja uma referência central desta propagação no vault.
 
-No projeto, Bergson se conecta especialmente a [[02 variaveis/Atencao|Atenção]], [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[02 variaveis/Permanencia|Permanência]], [[03 artefatos/Calendário|Calendário]], [[03 artefatos/Espelho|Espelho]] e [[03 artefatos/App de tracking de gastos|App de tracking de gastos]].
+No projeto, Bergson se conecta especialmente a [[02 variaveis/Atencao|Atenção]], [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[02 variaveis/Permanencia|Permanência]], [[03 artefatos/Calendário|Calendário]], [[03 artefatos/Espelho|Espelho]], [[03 artefatos/App de tracking de gastos|App de tracking de gastos]] e [[03 artefatos/LLM Wiki|LLM Wiki]].
 
 ## Cuidado histórico
 
