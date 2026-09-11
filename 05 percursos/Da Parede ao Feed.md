@@ -9,9 +9,9 @@ tags:
 
 # Da parede ao feed
 
-Uma mensagem pública já teve um problema dominante: **conseguir ser percebida por alguém que não estava procurando por ela**. A cidade obrigava o cartaz a competir com arquitetura, movimento, vitrines, ruído e outras mensagens. No feed, a situação parece invertida. A pessoa já chegou à superfície informacional; o problema passa a ser como fazer sua atenção continuar ali.
+Uma mensagem pública já teve um problema dominante: **conseguir ser percebida por alguém que não estava procurando por ela**. A cidade obrigava o cartaz a competir com arquitetura, movimento, vitrines, ruído e outras mensagens. No feed, a situação parece invertida. A pessoa já chegou à superfície informacional; o problema passa a ser como fazer sua atenção continuar ali — e, depois que ela sai, como criar um motivo visível para que volte.
 
-Este percurso não propõe que [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Hero Section|Hero section]], [[03 artefatos/Botao Like|Botão Like]], [[03 artefatos/Pull to Refresh|Pull to Refresh]] e [[03 artefatos/Infinite Scroll|Infinite Scroll]] formem uma linhagem histórica direta. A sequência é editorial. Ela acompanha uma mudança na própria infraestrutura da atenção: de superfícies que apenas disputam o olhar para sistemas capazes de observar comportamento, receber sinais e reorganizar continuamente o que vem depois.
+Este percurso não propõe que [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Hero Section|Hero section]], [[03 artefatos/Botao Like|Botão Like]], [[03 artefatos/Pull to Refresh|Pull to Refresh]], [[03 artefatos/Infinite Scroll|Infinite Scroll]] e [[03 artefatos/Badge de notificacao|Badge de notificação]] formem uma linhagem histórica direta. A sequência é editorial. Ela acompanha uma mudança na própria infraestrutura da atenção: de superfícies que apenas disputam o olhar para sistemas capazes de observar comportamento, receber sinais, reorganizar continuamente o que vem depois e manter estados pendentes perceptíveis fora da própria sessão.
 
 ## Antes de prolongar atenção, era preciso interromper
 
@@ -57,9 +57,19 @@ Os dois artefatos são parentes comportamentais, não uma mesma técnica. Pull t
 
 A ausência de pausa passa a ser uma decisão de design.
 
+## A superfície aprende a chamar de volta
+
+O [[03 artefatos/Badge de notificacao|badge de notificação]] desloca o problema para depois da sessão. Se Pull to Refresh exige que a pessoa pergunte “há algo novo?”, o badge pode responder antes que essa pergunta seja formulada: um número ou ponto sobre o ícone anuncia que existe algo esperando.
+
+É uma mudança pequena na superfície e grande na relação temporal. O feed já não precisa estar aberto para que seu estado atue sobre a atenção. Uma pendência interna torna-se sinal persistente na tela inicial, no Dock ou no launcher. O sistema passa a conseguir deixar um vestígio de si no caminho cotidiano do usuário.
+
+Isso não é o mesmo que uma notificação com som ou banner. Um alerta interrompe. O badge pode simplesmente permanecer. Sua força está menos na intensidade do primeiro contato e mais na duração: ele transforma ausência de interação em um estado continuamente legível.
+
+Aqui a arquitetura da atenção ganha uma nova pergunta. Antes era preciso conseguir um olhar; depois, prolongá-lo; agora também é possível **preservar um motivo para o próximo olhar**.
+
 ## O feed pode trabalhar sobre aquilo que o pôster não sabia
 
-Lidos em sequência, esses artefatos mostram que a grande transformação não é simplesmente “do impresso para o digital”. É a passagem de uma superfície que disputa atenção **sem observar individualmente sua consequência** para uma superfície que pode incorporar a consequência da atenção à próxima decisão de apresentação.
+Lidos em sequência, esses artefatos mostram que a grande transformação não é simplesmente “do impresso para o digital”. É a passagem de uma superfície que disputa atenção **sem observar individualmente sua consequência** para uma superfície que pode incorporar a consequência da atenção à próxima decisão de apresentação — e manter um estado pendente visível quando a pessoa já não está nela.
 
 O pôster pergunta: **como faço alguém parar?**
 
@@ -71,16 +81,18 @@ Pull to Refresh pergunta: **como torno a expectativa de novidade acionável?**
 
 Infinite Scroll pergunta: **o que acontece se continuar exigir menos decisão do que parar?**
 
-Essa transformação altera também a relação de poder. Na rua, o observador pode desviar o olhar e desaparecer para o emissor. Num sistema digital, olhar, tocar, rolar e reagir podem deixar rastros. A arquitetura da atenção deixa de ser apenas composição e passa a incluir medição, inferência e adaptação.
+O badge pergunta: **como mantenho perceptível uma razão para voltar depois que a pessoa saiu?**
 
-Isso não torna todo feed manipulativo por definição. Torna necessário perguntar **quem usa os sinais produzidos pela atenção e com qual objetivo**. Reduzir uma pausa pode tornar navegação mais fluida; também pode retirar um momento em que a pessoa teria percebido que precisava decidir se queria continuar.
+Essa transformação altera também a relação de poder. Na rua, o observador pode desviar o olhar e desaparecer para o emissor. Num sistema digital, olhar, tocar, rolar e reagir podem deixar rastros. A arquitetura da atenção deixa de ser apenas composição e passa a incluir medição, inferência, adaptação e convocação de retorno.
+
+Isso não torna todo feed manipulativo por definição. Torna necessário perguntar **quem usa os sinais produzidos pela atenção e com qual objetivo**. Reduzir uma pausa pode tornar navegação mais fluida; também pode retirar um momento em que a pessoa teria percebido que precisava decidir se queria continuar. Manter uma pendência visível pode ser memória útil; também pode prolongar uma obrigação que o usuário não escolheu manter no campo perceptivo.
 
 ## O que aparece quando lemos em sequência
 
-O percurso revela uma mudança de regime: **capturar atenção e prolongar atenção são problemas diferentes**.
+O percurso revela uma mudança de regime: **capturar atenção, prolongar atenção e reconvocá-la são problemas diferentes**.
 
-O pôster precisa transformar um transeunte em observador. O feed já começa com alguém dentro da superfície e pode operar sobre sinais produzidos pela própria interação. Quanto mais a mídia observa, mais a atenção pode deixar de ser apenas destinatária do design e passar a funcionar como entrada para o próximo ciclo de design automatizado.
+O pôster precisa transformar um transeunte em observador. O feed já começa com alguém dentro da superfície e pode operar sobre sinais produzidos pela própria interação. O badge mostra que essa relação pode continuar agindo mesmo quando a sessão acabou. Quanto mais a mídia observa e preserva estados, mais a atenção pode deixar de ser apenas destinatária do design e passar a funcionar como entrada para o próximo ciclo de design automatizado.
 
-A pergunta final, então, não é apenas “como as interfaces ficaram mais viciantes?”. Essa formulação seria ampla demais. A pergunta mais precisa é: **o que muda quando a superfície que busca nossa atenção também consegue registrar como respondemos e usar essa resposta para decidir o que veremos depois?**
+A pergunta final, então, não é apenas “como as interfaces ficaram mais viciantes?”. Essa formulação seria ampla demais. A pergunta mais precisa é: **o que muda quando a superfície que busca nossa atenção também consegue registrar como respondemos, usar essa resposta para decidir o que veremos depois e deixar sinais persistentes para nos trazer de volta?**
 
 Continue em [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] e [[05 percursos/Da Parede ao Interlocutor|Da parede ao interlocutor]].
