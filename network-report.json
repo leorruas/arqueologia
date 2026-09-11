@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-09-11T08:01:47.209Z",
+  "generatedAt": "2026-09-11T08:03:40.961Z",
   "scope": "Integração do grafo: títulos duplicados dentro da mesma camada, índices, home, reciprocidade estrutural, tipos de design e nós órfãos. Conceitos e variáveis não exigem backlink exaustivo.",
-  "issueCount": 0,
-  "countsByKind": {},
-  "issues": []
+  "issueCount": 1,
+  "countsByKind": {
+    "missing-reciprocal-link": 1
+  },
+  "issues": [
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Calendário.md",
+      "targetPath": "autores/Norbert Elias.md",
+      "detail": "A ficha liga para autores/Norbert Elias.md, mas a nota relacionada não devolve o vínculo."
+    }
+  ]
 }
