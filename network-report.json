@@ -1,17 +1,11 @@
 {
-  "generatedAt": "2026-09-11T00:46:11.938Z",
+  "generatedAt": "2026-09-11T00:49:44.829Z",
   "scope": "Integração do grafo: títulos duplicados dentro da mesma camada, índices, home, reciprocidade estrutural, tipos de design e nós órfãos. Conceitos e variáveis não exigem backlink exaustivo.",
-  "issueCount": 2,
+  "issueCount": 1,
   "countsByKind": {
-    "missing-reciprocal-link": 2
+    "missing-reciprocal-link": 1
   },
   "issues": [
-    {
-      "kind": "missing-reciprocal-link",
-      "sourcePath": "03 artefatos/Badge de notificacao.md",
-      "targetPath": "empresas/Apple.md",
-      "detail": "A ficha liga para empresas/Apple.md, mas a nota relacionada não devolve o vínculo."
-    },
     {
       "kind": "missing-reciprocal-link",
       "sourcePath": "03 artefatos/Badge de notificacao.md",
