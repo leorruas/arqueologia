@@ -1,0 +1,128 @@
+/* Callouts do Obsidian: especiais sem quebrar o sistema editorial da Pages. */
+
+.artigo-corpo blockquote.obsidian-callout {
+  --callout-color: var(--accent);
+  max-width: 720px;
+  margin: 1.85rem 0;
+  padding: 15px 18px 16px 19px;
+  border: 0;
+  border-left: 3px solid var(--callout-color);
+  background: color-mix(in srgb, var(--callout-color) 8%, var(--surface));
+  color: var(--text);
+  font-size: 1rem;
+  font-style: normal;
+}
+
+.artigo-corpo .obsidian-callout .callout-cabecalho {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 7px 9px;
+  margin: 0 0 8px;
+  color: var(--callout-color);
+}
+
+.artigo-corpo .obsidian-callout .callout-sinal {
+  width: 7px;
+  height: 7px;
+  flex: 0 0 7px;
+  background: var(--callout-color);
+}
+
+.artigo-corpo .obsidian-callout .callout-rotulo {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: .67rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: .055em;
+  text-transform: lowercase;
+}
+
+.artigo-corpo .obsidian-callout .callout-titulo {
+  flex-basis: 100%;
+  margin-top: 3px;
+  color: var(--text);
+  font-size: 1rem;
+  font-weight: 680;
+  line-height: 1.35;
+  letter-spacing: -.012em;
+}
+
+.artigo-corpo .obsidian-callout p,
+.artigo-corpo .obsidian-callout ul,
+.artigo-corpo .obsidian-callout ol {
+  max-width: none;
+}
+
+.artigo-corpo .obsidian-callout p {
+  margin: 0 0 10px;
+  color: var(--text);
+  font-size: .96rem;
+  line-height: 1.58;
+}
+
+.artigo-corpo .obsidian-callout p:last-child,
+.artigo-corpo .obsidian-callout ul:last-child,
+.artigo-corpo .obsidian-callout ol:last-child {
+  margin-bottom: 0;
+}
+
+.artigo-corpo .obsidian-callout .callout-texto-principal {
+  margin-top: 2px;
+}
+
+.artigo-corpo .obsidian-callout strong { color: var(--text); }
+.artigo-corpo .obsidian-callout em { color: color-mix(in srgb, var(--text) 75%, var(--muted)); }
+
+/* Famílias semânticas próximas do Obsidian, com cor usada só como sinal. */
+.artigo-corpo .callout-note,
+.artigo-corpo .callout-info,
+.artigo-corpo .callout-abstract,
+.artigo-corpo .callout-summary,
+.artigo-corpo .callout-tldr,
+.artigo-corpo .callout-todo {
+  --callout-color: #5b8def;
+}
+
+.artigo-corpo .callout-tip,
+.artigo-corpo .callout-hint,
+.artigo-corpo .callout-success,
+.artigo-corpo .callout-check,
+.artigo-corpo .callout-done {
+  --callout-color: #43a66b;
+}
+
+.artigo-corpo .callout-question,
+.artigo-corpo .callout-help,
+.artigo-corpo .callout-faq {
+  --callout-color: #9b79d1;
+}
+
+.artigo-corpo .callout-warning,
+.artigo-corpo .callout-caution,
+.artigo-corpo .callout-attention,
+.artigo-corpo .callout-example {
+  --callout-color: #d68a32;
+}
+
+.artigo-corpo .callout-important,
+.artigo-corpo .callout-danger,
+.artigo-corpo .callout-error,
+.artigo-corpo .callout-failure,
+.artigo-corpo .callout-fail,
+.artigo-corpo .callout-missing,
+.artigo-corpo .callout-bug {
+  --callout-color: var(--accent);
+}
+
+.artigo-corpo .callout-quote,
+.artigo-corpo .callout-cite {
+  --callout-color: var(--muted);
+}
+
+@media (max-width: 760px) {
+  .artigo-corpo blockquote.obsidian-callout {
+    padding: 14px 15px 15px 16px;
+    margin: 1.55rem 0;
+  }
+}
