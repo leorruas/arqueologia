@@ -33,11 +33,13 @@ Sistemas digitais estão cheios de estados que não possuem existência física 
 
 O [[03 artefatos/Botao Salvar|Botão salvar]] materializa a passagem entre trabalho temporário e persistência. [[03 artefatos/Undo|Undo]] transforma história recente em possibilidade de retorno. [[03 artefatos/Undo Send|Undo Send]] explicita que essa reversibilidade pode ser parcial: muitas vezes o sistema não recupera algo já enviado, apenas cria uma pequena janela antes que o envio se torne efetivo. [[03 artefatos/Login|Login]] estabelece uma operação de autenticação; a [[03 artefatos/Tela de Login|Tela de login]] transforma essa regra lógica em uma cena reconhecível de passagem. [[03 artefatos/Archive|Archive]] permite que algo deixe o primeiro plano sem deixar de existir.
 
-Esses artefatos mostram que interface é também **design de estados legíveis**. O usuário não precisa conhecer bits, processos ou bancos de dados; precisa reconhecer sinais suficientes para decidir o próximo gesto.
+O [[03 artefatos/Favorito Bookmark|Favorito / bookmark]] acrescenta um estado relacional: o conteúdo continua fora da coleção, mas a interface registra que aquele destino deve permanecer recuperável para este usuário. O [[03 artefatos/Badge de notificacao|Badge de notificação]] faz o movimento inverso em termos de agência: um estado interno do aplicativo atravessa sua fronteira e aparece sobre o próprio ícone, permitindo que “há algo pendente” seja percebido antes de abrir o sistema.
+
+Esses artefatos mostram que interface é também **design de estados legíveis**. O usuário não precisa conhecer bits, processos ou bancos de dados; precisa reconhecer sinais suficientes para decidir o próximo gesto. E esses estados podem descrever não apenas o sistema, mas relações entre usuário e conteúdo: salvo, favorito, não lido, pendente, arquivado.
 
 É por isso que [[01 conceitos/Redução de Inferências|redução de inferências]] e [[01 conceitos/Affordance|affordance]] aparecem tanto aqui. Quando a superfície mostra o que pode ser feito e o que acabou de acontecer, parte da interpretação deixa de depender de adivinhação.
 
-Mas essa tradução tem custo. Quanto mais uma interface esconde a infraestrutura, mais fácil pode ser confundir a representação com o sistema real. O ícone de arquivo não é o arquivo; a barra de progresso não é o processo; o botão “enviar” pode esconder filas, redes, permissões e estados intermediários.
+Mas essa tradução tem custo. Quanto mais uma interface esconde a infraestrutura, mais fácil pode ser confundir a representação com o sistema real. O ícone de arquivo não é o arquivo; a barra de progresso não é o processo; um bookmark não garante que seu destino ainda exista; um badge numérico não garante que dez itens sejam mais importantes que um; o botão “enviar” pode esconder filas, redes, permissões e estados intermediários.
 
 ## O gesto tornou o controle corporal novamente
 
@@ -54,6 +56,8 @@ O design de interface administra, portanto, um equilíbrio entre **mostrar possi
 ## A entrada também é uma decisão de interface
 
 A [[03 artefatos/Hero Section|hero section]] mostra que a interface começa antes do primeiro comando. A parte inicial de uma página organiza atenção, contexto e expectativa para que a pessoa reconheça onde chegou e o que pode fazer. Seu parentesco com telas de login e outros limiares é menos técnico do que semiótico: todos precisam transformar chegada em orientação suficiente para a próxima ação.
+
+O badge mostra que essa borda também pode funcionar no sentido contrário. O usuário ainda não entrou no aplicativo, mas o aplicativo já consegue projetar um estado para fora de si. A fronteira da interface deixa de coincidir perfeitamente com a fronteira da aplicação.
 
 Isso aproxima interface de design gráfico. Hierarquia, escala e composição não servem apenas para embelezar uma superfície, mas para reduzir o custo de descobrir o que aquela superfície espera do usuário.
 
@@ -73,7 +77,7 @@ A [[03 artefatos/LLM Wiki|LLM Wiki]] leva isso para além da conversa: a interfa
 
 A hipótese recorrente do design de interface é que uma pessoa não deveria precisar compreender toda a máquina para conseguir usá-la. Isso ampliou dramaticamente quem consegue operar sistemas complexos.
 
-Mas esconder complexidade também redistribui poder. Quem projeta a interface decide que estados serão visíveis, quais ações parecerão possíveis, que alternativas serão omitidas e que erros poderão ser desfeitos. O [[03 artefatos/Botao Like|Botão Like]] reduz uma reação social a um sinal simples e quantificável. Um [[03 artefatos/App de tracking de gastos|App de tracking de gastos]] transforma comportamento financeiro em categorias e gráficos. Um [[03 artefatos/Banco de dados|Banco de dados]] pode permanecer completamente invisível enquanto determina o que a interface consegue recuperar. Um [[03 artefatos/Arquivo em nuvem|Arquivo em nuvem]] faz o armazenamento físico desaparecer da experiência cotidiana enquanto aumenta dependência de autenticação e infraestrutura remota.
+Mas esconder complexidade também redistribui poder. Quem projeta a interface decide que estados serão visíveis, quais ações parecerão possíveis, que alternativas serão omitidas e que erros poderão ser desfeitos. O [[03 artefatos/Botao Like|Botão Like]] reduz uma reação social a um sinal simples e quantificável. O [[03 artefatos/Favorito Bookmark|Favorito / bookmark]] permite construir uma memória privada de retorno, mas essa marca também pode funcionar como dado de interesse para a plataforma. O [[03 artefatos/Badge de notificacao|Badge de notificação]] reduz uma coleção de eventos a um número ou ponto que pode permanecer disputando retorno. Um [[03 artefatos/App de tracking de gastos|App de tracking de gastos]] transforma comportamento financeiro em categorias e gráficos. Um [[03 artefatos/Banco de dados|Banco de dados]] pode permanecer completamente invisível enquanto determina o que a interface consegue recuperar. Um [[03 artefatos/Arquivo em nuvem|Arquivo em nuvem]] faz o armazenamento físico desaparecer da experiência cotidiana enquanto aumenta dependência de autenticação e infraestrutura remota.
 
 Por isso, design de interface não é apenas “deixar fácil”. É decidir **qual parte do sistema precisa permanecer compreensível para que facilidade não se transforme em submissão opaca**.
 
@@ -81,9 +85,11 @@ Essa questão atravessa [[01 conceitos/Manipulacao Direta|manipulação direta]]
 
 ## Leituras no vault
 
-Para observar a passagem de comando para ação visível, leia [[03 artefatos/Cursor|Cursor]], [[03 artefatos/Atalhos de Teclado|atalhos de teclado]], [[03 artefatos/Undo|Undo]], [[03 artefatos/Undo Send|Undo Send]] e [[03 artefatos/Botao Salvar|Botão salvar]]. Para interfaces gestuais, [[03 artefatos/Pinch to Zoom|Pinch to Zoom]], [[03 artefatos/Slide to Unlock|Slide to Unlock]] e [[03 artefatos/Pull to Refresh|Pull to Refresh]] mostram como convenções podem desaparecer dentro do corpo. [[03 artefatos/Hero Section|Hero section]] ajuda a observar a interface como limiar e enquadramento antes da ação.
+Para observar a passagem de comando para ação visível, leia [[03 artefatos/Cursor|Cursor]], [[03 artefatos/Atalhos de Teclado|atalhos de teclado]], [[03 artefatos/Undo|Undo]], [[03 artefatos/Undo Send|Undo Send]] e [[03 artefatos/Botao Salvar|Botão salvar]]. Para observar como interfaces preservam relações e estados fora do conteúdo principal, [[03 artefatos/Favorito Bookmark|Favorito / bookmark]], [[03 artefatos/Archive|Archive]] e [[03 artefatos/Badge de notificacao|Badge de notificação]] mostram três operações diferentes: marcar para voltar, retirar sem destruir e tornar uma pendência visível antes de entrar.
 
-[[03 artefatos/Prompt Conversacional|Prompt conversacional]] e [[05 percursos/Da Parede ao Interlocutor|Da parede ao interlocutor]] ajudam a enxergar a mudança atual de superfície operável para superfície que parece interlocutora. [[04 genealogias/Reversibilidade e Custo do Erro|Reversibilidade e custo do erro]] e [[04 genealogias/Limiares e Delimitacao|Limiares e delimitação]] mostram duas famílias de problemas que atravessam a história da interface sem depender de uma tecnologia específica.
+Para interfaces gestuais, [[03 artefatos/Pinch to Zoom|Pinch to Zoom]], [[03 artefatos/Slide to Unlock|Slide to Unlock]] e [[03 artefatos/Pull to Refresh|Pull to Refresh]] mostram como convenções podem desaparecer dentro do corpo. [[03 artefatos/Hero Section|Hero section]] ajuda a observar a interface como limiar e enquadramento antes da ação.
+
+[[03 artefatos/Prompt Conversacional|Prompt conversacional]] e [[05 percursos/Da Parede ao Interlocutor|Da parede ao interlocutor]] ajudam a enxergar a mudança atual de superfície operável para superfície que parece interlocutora. [[04 genealogias/Reversibilidade e Custo do Erro|Reversibilidade e custo do erro]], [[04 genealogias/Limiares e Delimitacao|Limiares e delimitação]], [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] e [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] mostram famílias de problemas que atravessam a história da interface sem depender de uma tecnologia específica.
 
 ## Referências
 
