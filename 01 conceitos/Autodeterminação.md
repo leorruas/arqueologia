@@ -45,6 +45,8 @@ Não existe um componente de interface chamado “autonomia”. Sistemas podem d
 
 Isso faz o conceito dialogar com [[02 variaveis/Reversibilidade|Reversibilidade]] e [[02 variaveis/Atencao|Atenção]], mas sem se reduzir a elas. Um sistema reversível pode tornar exploração mais segura; não garante pertencimento. Uma interface pouco intrusiva pode respeitar atenção; não garante competência.
 
+[[01 conceitos/Autonomia da Atencao|Autonomia da atenção]] é uma aplicação mais estreita desse problema ao governo do foco. A aproximação é útil porque Ryan e Deci definem autonomia por volição e endosso, não por simples quantidade de escolhas. Mas a nota de autonomia da atenção também se apoia em uma literatura própria, especialmente na distinção de [[autores/Kaisa Kärki|Kaisa Kärki]] entre agência, autonomia e liberdade da atenção. Portanto, uma não deve ser apresentada como mera derivação da outra.[^2]
+
 A teoria é mais útil quando obriga a perguntar não apenas “o usuário consegue fazer?”, mas também: **ele sente que está agindo por vontade própria, consegue desenvolver domínio e mantém relações significativas nesse sistema?**
 
 ## Ficha do conceito
@@ -60,8 +62,11 @@ A teoria é mais útil quando obriga a perguntar não apenas “o usuário conse
 | **O que ajuda a explicar** | Como contextos podem apoiar ou frustrar autonomia, competência e pertencimento |
 | **O que não explica sozinho** | Qualidade de uma interface ou eficácia de qualquer artefato específico |
 | **Artefatos-chave** | [[03 artefatos/Visão|Visão]], [[03 artefatos/Princípio|Princípio]], [[03 artefatos/Retrospectiva|Retrospectiva]], [[03 artefatos/Workshop|Workshop]], [[03 artefatos/Jobs to Be Done|Jobs to Be Done]] |
+| **Conceitos relacionados** | [[01 conceitos/Autonomia da Atencao|Autonomia da atenção]] |
 | **Variáveis relacionadas** | [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Reversibilidade|Reversibilidade]] |
 
 ## Referências
 
 [^1]: Deci, Edward L.; Ryan, Richard M. e colaboradores. Self-Determination Theory e Basic Psychological Needs Theory. A tradição formula autonomia, competência e pertencimento como necessidades psicológicas básicas e investiga condições sociais que apoiam ou frustram sua satisfação.
+
+[^2]: Ryan, Richard M.; Deci, Edward L. “Self-Regulation and the Problem of Human Autonomy: Does Psychology Need Choice, Self-Determination, and Will?”. *Journal of Personality*, 74(6), 2006. DOI: 10.1111/j.1467-6494.2006.00420.x. Para a literatura especificamente atencional, ver Kärki, Kaisa. “Autonomy of Attention”. Springer, 2022.
