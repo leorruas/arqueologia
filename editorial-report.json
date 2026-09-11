@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-11T01:20:06.364Z",
+  "generatedAt": "2026-09-11T01:38:46.999Z",
   "rule": "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
   "typeDesignRule": "Tipos de design devem funcionar como ensaios disciplinares. Headings do template atual são permitidos; permanecem suspeitos apenas headings enciclopédicos legados.",
   "pathRule": "Percursos devem funcionar como argumentos de leitura e não usar sequência numerada de resumos de artefatos.",
   "artifactSheetRule": "Cada artefato deve conter uma única Ficha arqueológica em tabela Campo/Registro com os 26 campos definidos no template atual.",
-  "candidateCount": 34,
-  "fileCount": 27,
+  "candidateCount": 37,
+  "fileCount": 28,
   "files": [
     {
       "sourcePath": "00 índices/Indice de Autores.md",
@@ -25,6 +25,28 @@
           "sourcePath": "01 conceitos/Design Systems.md",
           "kind": "frontmatter-title",
           "text": "Design Systems"
+        }
+      ]
+    },
+    {
+      "sourcePath": "01 conceitos/Genealogia de Futuros.md",
+      "items": [
+        {
+          "sourcePath": "01 conceitos/Genealogia de Futuros.md",
+          "kind": "frontmatter-title",
+          "text": "Genealogia de Futuros"
+        },
+        {
+          "sourcePath": "01 conceitos/Genealogia de Futuros.md",
+          "kind": "h2",
+          "line": 49,
+          "text": "Exemplo: o botão Salvar"
+        },
+        {
+          "sourcePath": "01 conceitos/Genealogia de Futuros.md",
+          "kind": "h2",
+          "line": 139,
+          "text": "Relação com a Arqueologia do Design"
         }
       ]
     },
@@ -340,8 +362,16 @@
   "legacyConceptStructureCount": 0,
   "legacyConceptFileCount": 0,
   "legacyConceptFiles": [],
-  "conceptMetadataMissingCount": 0,
-  "conceptMetadataMissingFiles": [],
+  "conceptMetadataMissingCount": 1,
+  "conceptMetadataMissingFiles": [
+    {
+      "sourcePath": "01 conceitos/Genealogia de Futuros.md",
+      "fields": [
+        "origem",
+        "grau"
+      ]
+    }
+  ],
   "legacyVariableStructureCount": 0,
   "legacyVariableFileCount": 0,
   "legacyVariableFiles": [],
