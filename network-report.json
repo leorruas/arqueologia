@@ -1,35 +1,7 @@
 {
-  "generatedAt": "2026-09-11T07:59:58.455Z",
+  "generatedAt": "2026-09-11T08:00:13.983Z",
   "scope": "Integração do grafo: títulos duplicados dentro da mesma camada, índices, home, reciprocidade estrutural, tipos de design e nós órfãos. Conceitos e variáveis não exigem backlink exaustivo.",
-  "issueCount": 4,
-  "countsByKind": {
-    "missing-from-index": 2,
-    "orphan-node": 2
-  },
-  "issues": [
-    {
-      "kind": "missing-from-index",
-      "sourcePath": "autores/Henri Bergson.md",
-      "targetPath": "00 índices/Indice de Autores.md",
-      "detail": "Arquivo não aparece em 00 índices/Indice de Autores.md."
-    },
-    {
-      "kind": "missing-from-index",
-      "sourcePath": "autores/Paul Ricoeur.md",
-      "targetPath": "00 índices/Indice de Autores.md",
-      "detail": "Arquivo não aparece em 00 índices/Indice de Autores.md."
-    },
-    {
-      "kind": "orphan-node",
-      "sourcePath": "autores/Henri Bergson.md",
-      "targetPath": null,
-      "detail": "Nota sem links de entrada a partir do acervo auditado."
-    },
-    {
-      "kind": "orphan-node",
-      "sourcePath": "autores/Paul Ricoeur.md",
-      "targetPath": null,
-      "detail": "Nota sem links de entrada a partir do acervo auditado."
-    }
-  ]
+  "issueCount": 0,
+  "countsByKind": {},
+  "issues": []
 }
