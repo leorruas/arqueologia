@@ -1,0 +1,238 @@
+/* Compatibilidade progressiva para Safari/iOS 12 (iPad mini 2).
+   O site moderno continua sendo a fonte principal; este arquivo apenas recompõe
+   recursos de CSS que o Safari antigo não entende e ajusta a leitura no tablet. */
+
+.legacy-ios12 body {
+  font-size: 20px;
+  min-height: 100%;
+}
+
+.legacy-ios12 .sticky-nav {
+  background-color: rgba(5, 5, 5, .98);
+  -webkit-backdrop-filter: none;
+  backdrop-filter: none;
+  border-bottom: 1px solid rgba(245, 245, 247, .18);
+  transform: translateY(0);
+}
+
+.legacy-ios12[data-theme="light"] .sticky-nav {
+  background-color: rgba(248, 250, 252, .98);
+  border-bottom-color: rgba(15, 23, 42, .18);
+}
+
+.legacy-ios12 .nav-search-container input {
+  border-bottom: 1px solid rgba(245, 245, 247, .36);
+}
+
+.legacy-ios12[data-theme="light"] .nav-search-container input {
+  border-bottom-color: rgba(15, 23, 42, .32);
+}
+
+.legacy-ios12 .busca-campo {
+  border-bottom: 2px solid rgba(245, 245, 247, .45);
+}
+
+.legacy-ios12[data-theme="light"] .busca-campo {
+  border-bottom-color: rgba(15, 23, 42, .40);
+}
+
+.legacy-ios12 .masthead-copy h1 {
+  font-size: 5rem;
+}
+
+.legacy-ios12 .resultados h2,
+.legacy-ios12 .disciplina-cabecalho h2 {
+  font-size: 3rem;
+}
+
+.legacy-ios12 #artigo-titulo {
+  font-size: 2.6rem;
+}
+
+.legacy-ios12 .pastas-container,
+.legacy-ios12 .cards-container,
+.legacy-ios12 .disciplina-acoes,
+.legacy-ios12 .artigo-nav-cards,
+.legacy-ios12 .site-footer {
+  border-top: 1px solid rgba(245, 245, 247, .28);
+}
+
+.legacy-ios12[data-theme="light"] .pastas-container,
+.legacy-ios12[data-theme="light"] .cards-container,
+.legacy-ios12[data-theme="light"] .disciplina-acoes,
+.legacy-ios12[data-theme="light"] .artigo-nav-cards,
+.legacy-ios12[data-theme="light"] .site-footer {
+  border-top-color: rgba(15, 23, 42, .24);
+}
+
+.legacy-ios12 .disciplina-card,
+.legacy-ios12 .resultado-card,
+.legacy-ios12 .disciplina-acao,
+.legacy-ios12 .artigo-nav-card {
+  border-bottom: 1px solid rgba(245, 245, 247, .24);
+}
+
+.legacy-ios12[data-theme="light"] .disciplina-card,
+.legacy-ios12[data-theme="light"] .resultado-card,
+.legacy-ios12[data-theme="light"] .disciplina-acao,
+.legacy-ios12[data-theme="light"] .artigo-nav-card {
+  border-bottom-color: rgba(15, 23, 42, .22);
+}
+
+.legacy-ios12 .artigo-toc-sidebar {
+  border-right: 1px solid rgba(245, 245, 247, .18);
+}
+
+.legacy-ios12 .toc-header,
+.legacy-ios12 #artigo-titulo,
+.legacy-ios12 .artigo-corpo h2,
+.legacy-ios12 .artigo-corpo th,
+.legacy-ios12 .artigo-corpo td {
+  border-bottom: 1px solid rgba(245, 245, 247, .20);
+}
+
+.legacy-ios12[data-theme="light"] .artigo-toc-sidebar {
+  border-right-color: rgba(15, 23, 42, .18);
+}
+
+.legacy-ios12[data-theme="light"] .toc-header,
+.legacy-ios12[data-theme="light"] #artigo-titulo,
+.legacy-ios12[data-theme="light"] .artigo-corpo h2,
+.legacy-ios12[data-theme="light"] .artigo-corpo th,
+.legacy-ios12[data-theme="light"] .artigo-corpo td {
+  border-bottom-color: rgba(15, 23, 42, .18);
+}
+
+.legacy-ios12 .artigo-corpo hr {
+  border-top: 1px solid rgba(245, 245, 247, .20);
+}
+
+.legacy-ios12[data-theme="light"] .artigo-corpo hr {
+  border-top-color: rgba(15, 23, 42, .18);
+}
+
+.legacy-ios12 .artigo-corpo pre,
+.legacy-ios12 .legacy-mermaid-fallback {
+  overflow-x: auto;
+  white-space: pre;
+  word-break: normal;
+  -webkit-overflow-scrolling: touch;
+}
+
+.legacy-ios12 .artigo-corpo pre {
+  border: 1px solid rgba(245, 245, 247, .20);
+}
+
+.legacy-ios12[data-theme="light"] .artigo-corpo pre {
+  border-color: rgba(15, 23, 42, .18);
+}
+
+.legacy-ios12 .artigo-corpo table {
+  width: 100%;
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.legacy-ios12 .legacy-status {
+  margin: 18px 0;
+  padding: 10px 12px;
+  border-left: 2px solid var(--accent);
+  color: var(--muted);
+  font-size: .84rem;
+  line-height: 1.5;
+}
+
+.legacy-ios12 .legacy-lista {
+  width: 100%;
+  margin-top: 20px;
+  border-top: 1px solid rgba(245, 245, 247, .28);
+}
+
+.legacy-ios12[data-theme="light"] .legacy-lista {
+  border-top-color: rgba(15, 23, 42, .24);
+}
+
+.legacy-ios12 .legacy-lista button {
+  display: block;
+  width: 100%;
+  padding: 15px 0;
+  border: 0;
+  border-bottom: 1px solid rgba(245, 245, 247, .22);
+  border-radius: 0;
+  color: var(--text);
+  background: transparent;
+  text-align: left;
+  font: inherit;
+  font-size: .98rem;
+  line-height: 1.3;
+}
+
+.legacy-ios12[data-theme="light"] .legacy-lista button {
+  border-bottom-color: rgba(15, 23, 42, .20);
+}
+
+.legacy-ios12 .legacy-lista button:active,
+.legacy-ios12 .legacy-lista button:focus {
+  color: var(--accent);
+  outline: none;
+}
+
+.legacy-ios12 .legacy-mermaid-fallback {
+  margin: 24px 0;
+  padding: 14px;
+  border: 1px solid var(--accent-30);
+  border-radius: 6px;
+  background: var(--surface);
+}
+
+.legacy-ios12 .legacy-mermaid-fallback::before {
+  content: "Diagrama Mermaid: código disponível no modo de compatibilidade";
+  display: block;
+  margin-bottom: 10px;
+  color: var(--accent);
+  font-size: .78rem;
+  font-weight: 600;
+}
+
+.legacy-ios12 .legacy-mermaid-fallback code {
+  display: block;
+  min-width: 420px;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: .72rem;
+  line-height: 1.5;
+}
+
+@media (min-width: 700px) and (max-width: 850px) {
+  .legacy-ios12 body { font-size: 22px; }
+  .legacy-ios12 header,
+  .legacy-ios12 main,
+  .legacy-ios12 .site-footer { max-width: 760px; padding-left: 24px; padding-right: 24px; }
+  .legacy-ios12 .sticky-nav { padding: 9px 18px; }
+  .legacy-ios12 .nav-logo { max-width: 32%; font-size: .7rem; }
+  .legacy-ios12 .nav-search-container { width: auto; -webkit-box-flex: 1; flex: 1; }
+  .legacy-ios12 .nav-search-container input,
+  .legacy-ios12 #main-search-input { font-size: 16px; }
+  .legacy-ios12 .masthead-copy h1 { font-size: 4.6rem; }
+  .legacy-ios12 .artigo-layout-container { display: block; }
+  .legacy-ios12 .artigo-toc-sidebar { display: none !important; }
+  .legacy-ios12 .leitor-artigo { font-size: .88em; padding: 20px 0 80px; }
+  .legacy-ios12 #artigo-titulo { font-size: 2.2em; line-height: 1.04; letter-spacing: -.035em; }
+  .legacy-ios12 .artigo-corpo h2 { font-size: 1.72em; line-height: 1.12; letter-spacing: -.025em; }
+  .legacy-ios12 .artigo-corpo h3 { font-size: 1.4em; line-height: 1.18; }
+  .legacy-ios12 .artigo-corpo p,
+  .legacy-ios12 .artigo-corpo li { font-size: 1.08rem; line-height: 1.75; }
+}
+
+@media (min-width: 851px) and (max-width: 1100px) {
+  .legacy-ios12 body { font-size: 21px; }
+  .legacy-ios12 header,
+  .legacy-ios12 main,
+  .legacy-ios12 .site-footer { max-width: 960px; padding-left: 28px; padding-right: 28px; }
+  .legacy-ios12 .artigo-toc-sidebar { display: none !important; }
+  .legacy-ios12 .artigo-layout-container { display: block; }
+  .legacy-ios12 .artigo-corpo { max-width: 820px; }
+  .legacy-ios12 .leitor-artigo { font-size: .86em; }
+  .legacy-ios12 #artigo-titulo { font-size: 2.25em; line-height: 1.04; letter-spacing: -.035em; }
+  .legacy-ios12 .artigo-corpo h2 { font-size: 1.7em; line-height: 1.12; letter-spacing: -.025em; }
+}
