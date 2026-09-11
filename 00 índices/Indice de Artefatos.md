@@ -88,8 +88,10 @@ Este índice organiza estudos publicados por campo de design. A classificação 
 - [[03 artefatos/Cursor|Cursor]]: representação visível do ponto de ação dentro de uma superfície computacional.
 - [[03 artefatos/Undo|Undo]]: reversibilidade explícita de ações.
 - [[03 artefatos/Botao Salvar|Botão salvar]]: decisão explícita de persistência do trabalho digital.
+- [[03 artefatos/Favorito Bookmark|Favorito / bookmark]]: marca persistente que preserva um caminho de retorno a conteúdo mantido fora da coleção.
 - [[03 artefatos/Hero Section|Hero section]]: enquadramento inicial e hierarquia de atenção em páginas web.
 - [[03 artefatos/Archive|Archive]]: preservação sem permanência no primeiro plano.
+- [[03 artefatos/Badge de notificacao|Badge de notificação]]: sinal persistente que torna uma pendência perceptível antes de abrir o aplicativo.
 - [[03 artefatos/Infinite Scroll|Infinite Scroll]]: continuidade de conteúdo sem paginação explícita.
 - [[03 artefatos/Slide to Unlock|Slide to Unlock]]: gesto deliberado de travessia entre estados do dispositivo.
 - [[03 artefatos/Pinch to Zoom|Pinch to Zoom]]: gesto contínuo de manipulação de escala.
