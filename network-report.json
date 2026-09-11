@@ -1,26 +1,12 @@
 {
-  "generatedAt": "2026-09-11T08:12:39.492Z",
+  "generatedAt": "2026-09-11T08:12:52.885Z",
   "scope": "Integração do grafo: títulos duplicados dentro da mesma camada, índices, home, reciprocidade estrutural, tipos de design e nós órfãos. Conceitos e variáveis não exigem backlink exaustivo.",
-  "issueCount": 10,
+  "issueCount": 7,
   "countsByKind": {
-    "missing-from-index": 2,
     "missing-reciprocal-link": 6,
-    "orphan-node": 1,
     "design-type-drift": 1
   },
   "issues": [
-    {
-      "kind": "missing-from-index",
-      "sourcePath": "03 artefatos/Botao Regenerar.md",
-      "targetPath": "00 índices/Indice de Artefatos.md",
-      "detail": "Arquivo não aparece em 00 índices/Indice de Artefatos.md."
-    },
-    {
-      "kind": "missing-from-index",
-      "sourcePath": "03 artefatos/Temperatura e Criatividade.md",
-      "targetPath": "00 índices/Indice de Artefatos.md",
-      "detail": "Arquivo não aparece em 00 índices/Indice de Artefatos.md."
-    },
     {
       "kind": "missing-reciprocal-link",
       "sourcePath": "03 artefatos/Botao Regenerar.md",
@@ -56,12 +42,6 @@
       "sourcePath": "03 artefatos/Portfólio.md",
       "targetPath": "04 genealogias/Permanencia e Memoria Externa.md",
       "detail": "A ficha liga para 04 genealogias/Permanencia e Memoria Externa.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "orphan-node",
-      "sourcePath": "03 artefatos/Temperatura e Criatividade.md",
-      "targetPath": null,
-      "detail": "Nota sem links de entrada a partir do acervo auditado."
     },
     {
       "kind": "design-type-drift",
