@@ -35,6 +35,20 @@ Fila e agendamento não são versões sucessivas de uma mesma invenção. Um org
 
 Essa posição também produz poder. Quem define a regra pode escolher chegada, prioridade clínica, categoria, preço, urgência, senha, reserva ou exceção como critério. A ordem parece uma propriedade do artefato, mas sempre materializa alguma decisão anterior sobre o que conta como prioridade legítima.
 
+## Sincronizar relógios não sincroniza experiências
+
+Há uma diferença que essas estruturas tornam fácil esquecer. Quando um calendário, uma fila ou um agendamento converte tempo em posição, ele cria uma referência comum; não cria uma experiência comum daquele tempo.
+
+[[autores/Henri Bergson|Henri Bergson]] chama atenção para a duração como continuidade qualitativa, distinta da representação do tempo em unidades homogêneas e justapostas.[^1] Essa distinção permite ler os três primeiros artefatos do percurso como traduções diferentes do fluxo temporal.
+
+O calendário transforma duração em posições numa grade. A fila transforma precedência temporal em posição entre corpos. O agendamento transforma capacidade futura em slots. Essas operações são poderosas justamente porque **fazem diferenças vividas caberem numa linguagem comum de coordenação**.
+
+Uma hora reservada continua tendo sessenta minutos para o sistema, mesmo se for vivida como breve, insuportável, urgente ou vazia. Quinze minutos de fila são comparáveis numa métrica operacional, mesmo quando têm custos profundamente diferentes para pessoas diferentes.
+
+O design, portanto, não precisa fazer todos viverem o mesmo tempo. Precisa produzir marcas compartilhadas suficientes para que suas ações consigam se encontrar. A sincronização é uma camada construída sobre durações heterogêneas.
+
+Essa distinção protege o percurso de uma conclusão fácil. O problema não é que calendários e agendas “distorcem” um tempo verdadeiro. É que toda infraestrutura de coordenação precisa decidir **quais propriedades do tempo continuarão legíveis quando a experiência for traduzida para uma forma compartilhável**.
+
 ## A posição pode viajar antes da pessoa
 
 O [[03 artefatos/Cartao de Embarque|cartão de embarque]] acrescenta uma mutação importante. Uma posição dentro de um serviço complexo vira documento portátil.
@@ -70,3 +84,7 @@ Esse é o movimento maior do percurso: da espera como experiência aparentemente
 A pergunta que sobra é: **quando uma ordem compartilhada se torna suficientemente legível para parecer natural, como continuamos capazes de enxergar e contestar a regra que a organizou?**
 
 Continue em [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]] e [[04 genealogias/Acesso e Disponibilidade|Acesso e disponibilidade]].
+
+## Referências
+
+[^1]: [[autores/Henri Bergson|Bergson, Henri]]. *Essai sur les données immédiates de la conscience*. Paris: Félix Alcan, 1889. Tradução inglesa: *Time and Free Will*, trad. F. L. Pogson. London: George Allen & Unwin, 1910. Usado como lente comparativa para distinguir duração vivida e tempo espacializado em unidades de coordenação.
