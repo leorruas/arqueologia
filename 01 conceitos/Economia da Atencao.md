@@ -33,7 +33,7 @@ Um produto pode competir por atenção para ensinar, alertar, vender, entreter o
 
 Por isso, o conceito não classifica automaticamente toda retenção como manipulação. Ele permite perguntar **quem se beneficia quando a atenção permanece ali** e se os interesses do usuário e do sistema estão alinhados.
 
-Essa distinção se conecta ao conceito experimental de [[01 conceitos/Autonomia da Atencao|Autonomia da atenção]]. Economia da atenção descreve a condição de escassez e disputa; autonomia da atenção pergunta quanto poder o usuário conserva sobre essa disputa.
+Essa distinção se conecta a [[01 conceitos/Autonomia da Atencao|Autonomia da atenção]]. Economia da atenção descreve a condição de escassez e disputa; autonomia da atenção investiga como agência, autonomia e liberdade se distribuem dentro dessa disputa. A conexão deixou de ser apenas hipotética no vault: [[autores/Kaisa Kärki|Kaisa Kärki]] formulou explicitamente uma teoria de *autonomy of attention* e a distinguiu de agência e liberdade da atenção.[^4]
 
 ## O feed tornou a disputa mensurável
 
@@ -66,6 +66,7 @@ Essa tensão torna o conceito útil para interfaces contemporâneas: toda escolh
 | **O que ajuda a explicar** | Competição por foco, mecanismos de filtragem, retenção, visibilidade e monetização da atenção |
 | **O que não explica sozinho** | Se um mecanismo de engajamento é manipulativo, benéfico ou desejado pelo usuário |
 | **Artefatos-chave** | [[03 artefatos/Infinite Scroll|Infinite Scroll]], [[03 artefatos/Botao Like|Botão Like]], [[03 artefatos/Pull to Refresh|Pull to Refresh]], [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Controle Remoto|Controle remoto]] |
+| **Conceitos relacionados** | [[01 conceitos/Autonomia da Atencao|Autonomia da atenção]] |
 | **Variáveis relacionadas** | [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Atrito Decisorio|Atrito decisório]] |
 | **Genealogias relacionadas** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] |
 
@@ -76,3 +77,5 @@ Essa tensão torna o conceito útil para interfaces contemporâneas: toda escolh
 [^2]: Goldhaber, Michael H. “The Attention Economy and the Net”. 1997. Entre as formulações que popularizam explicitamente a ideia de uma economia organizada pela disputa de atenção.
 
 [^3]: Simon também desenvolveu o problema da atenção como recurso escasso na discussão sobre racionalidade procedimental e desenho de sistemas de informação organizacional.
+
+[^4]: Kärki, Kaisa. “Autonomy of Attention”. In Vincent C. Müller (ed.), *Philosophy and Theory of Artificial Intelligence 2021*. Springer, 2022, pp. 39–55. DOI: 10.1007/978-3-031-09153-7_4.
