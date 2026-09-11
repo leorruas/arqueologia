@@ -43,6 +43,16 @@ Essa diferença revela um limite importante da fila como tecnologia de justiça.
 
 A comparação da nota anterior entre esperar meses por um concurso e vinte minutos em um banco continua útil. A tolerância à espera depende menos da duração absoluta do que da interpretação sobre sua necessidade, previsibilidade e legitimidade. Uma espera longa pode parecer aceitável se o processo parece inevitável e justificável; uma espera curta pode parecer ofensiva quando parece resultado de desorganização.
 
+## O relógio mede a espera, mas não esgota a experiência
+
+[[autores/Henri Bergson|Henri Bergson]] ajuda a distinguir duas coisas que a fila normalmente aproxima. O sistema precisa de tempo mensurável: quinze minutos de espera podem ser comparados com trinta, metas de atendimento podem ser calculadas e estimativas podem ser exibidas. Mas a duração vivida não é simplesmente essa quantidade dividida em unidades homogêneas.[^5]
+
+Esperar torna essa diferença especialmente perceptível. Dois intervalos cronometricamente iguais podem adquirir qualidades muito diferentes conforme incerteza, dor, expectativa, distração, urgência ou sensação de injustiça. A fila não produz sozinha essas diferenças, mas cria uma situação em que **tempo administrado e tempo vivido ficam lado a lado**.
+
+Isso torna mais precisa a crítica ao “tempo como preço”. O sistema cobra minutos mensuráveis, porém o custo humano não é completamente representado pela quantidade de minutos. Uma interface pode informar “12 minutos restantes” e ainda assim não saber o que esses doze minutos significam para aquela pessoa.
+
+A contribuição de Bergson aqui não é negar a utilidade da medição. É mostrar por que uma métrica de espera pode ser operacionalmente correta e experiencialmente incompleta.
+
 ## Da linha física à abstração
 
 A fila física gerou ou compartilha lógica com muitos outros artefatos de coordenação. Senhas numeradas retiram a ordem dos corpos e a colocam em um símbolo portátil. [[03 artefatos/Agendamento|Agendamento]] antecipa a distribuição do tempo e tenta impedir que a espera precise acontecer presencialmente. Filas digitais mantêm uma posição sem exigir proximidade física. Sistemas FIFO em computação formalizam uma regra parecida para itens de processamento.
@@ -65,6 +75,7 @@ Há, portanto, uma diferença entre **desenhar a fila** e **resolver o gargalo**
 2. Barry Schwartz. *Queuing and Waiting: Studies in the Social Organization of Access and Delay*. University of Chicago Press, 1975.
 3. Joe Moran. “Queuing up in Post-War Britain”. *Twentieth Century British History*, v. 16, n. 3, 2005, p. 283–305.
 4. Estudos históricos recentes sobre filas em teatros e estações ferroviárias na Paris do século XIX, incluindo discussão das descrições de Thomas Carlyle em 1837.
+5. [[autores/Henri Bergson|Henri Bergson]]. *Essai sur les données immédiates de la conscience* (1889), traduzido como *Time and Free Will*. Usado como lente comparativa para distinguir duração mensurável e duração vivida.
 
 ## Ficha arqueológica
 | Campo | Registro |
@@ -81,17 +92,18 @@ Há, portanto, uma diferença entre **desenhar a fila** e **resolver o gargalo**
 | **Refinamento** | Barreiras físicas, fila única, múltiplas filas, prioridades, senhas e estimativas de espera |
 | **Popularização** | Expansão urbana de serviços de massa e forte visibilidade em situações de escassez e racionamento |
 | **Padronização** | “Primeiro a chegar, primeiro a ser atendido” tornou-se uma regra amplamente reconhecida em muitos contextos |
-| **Hipótese de design** | A fila transforma tempo de chegada em ordem espacial para tornar uma regra de prioridade visível e socialmente fiscalizável Hipótese sobre o comportamento humano: Pessoas toleram melhor a escassez quando conseguem compreender e fiscalizar uma regra de distribuição percebida como legítima |
+| **Hipótese de design** | A fila transforma tempo de chegada em ordem espacial para tornar uma regra de prioridade visível e socialmente fiscalizável. Pessoas toleram melhor a escassez quando conseguem compreender e fiscalizar uma regra de distribuição percebida como legítima |
 | **Comportamento aproveitado** | Reconhecimento de precedência temporal e disposição para seguir normas compartilhadas |
 | **Comportamento produzido** | Espera ordenada, proteção moral do “lugar na fila” e vigilância mútua da sequência |
 | **Relação de poder** | Organiza corpos em relação a quem controla o recurso; também dá aos participantes uma regra comum para contestar violações como o fura-fila |
-| **Consequências inesperadas** | Naturalização da espera como parte do serviço e transformação do lugar na fila em posse temporária socialmente defendida Capacidade ampliada: Coordenação de grande número de pessoas com baixa infraestrutura informacional Capacidade reduzida ou deslocada: Imobiliza tempo e corpo enquanto preserva a ordem; pode transferir para o usuário o custo de uma capacidade insuficiente Custo invisível: Tempo perdido, desigualdade do custo de esperar e possibilidade de normalizar gargalos institucionais |
-| **Destino ou transformação posterior** | Persiste fisicamente e foi abstraído em senhas, sistemas digitais e algoritmos de prioridade Legado: Senhas, filas virtuais, algoritmos de atendimento, agendamento e modelos FIFO |
+| **Consequências inesperadas** | Naturalização da espera como parte do serviço, transformação do lugar na fila em posse temporária e transferência para o usuário de parte do custo de capacidade insuficiente |
+| **Destino ou transformação posterior** | Persiste fisicamente e foi abstraído em senhas, sistemas digitais e algoritmos de prioridade. Legado: senhas, filas virtuais, algoritmos de atendimento, agendamento e modelos FIFO |
 | **Conceitos relacionados** | [[01 conceitos/Justica Procedimental|Justiça Procedimental]], [[01 conceitos/Distribuicao de Escassez|Distribuição de Escassez]], [[01 conceitos/Limiares|Limiares]], [[01 conceitos/Tecnologia de Acesso|Tecnologia de Acesso]] |
 | **Variáveis relacionadas** | [[02 variaveis/Justica|Justiça]], [[02 variaveis/Legitimidade Decisoria|Legitimidade Decisória]], [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Custo Transacional|Custo Transacional]] |
-| **Genealogia** | [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]], [[04 genealogias/Acesso e Disponibilidade|Acesso e disponibilidade]] Família de ideias: Tecnologias de distribuição de escassez |
-| **Percurso(s)** | [[05 percursos/Da Espera a Sincronizacao|Da Espera a Sincronizacao]] |
+| **Autores relacionados** | [[autores/Henri Bergson|Henri Bergson]] como lente comparativa sobre tempo mensurado e duração vivida |
+| **Genealogia** | [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]], [[04 genealogias/Acesso e Disponibilidade|Acesso e disponibilidade]]. Família de ideias: tecnologias de distribuição de escassez |
+| **Percurso(s)** | [[05 percursos/Da Espera a Sincronizacao|Da Espera a Sincronização]] |
 | **Parentes** | Senha numerada, [[03 artefatos/Agendamento|Agendamento]], [[03 artefatos/Tela de Login|Tela de Login]], FIFO em computação; [[03 artefatos/Pôster|Pôster]] como comparação entre diagramação de corpos e diagramação do olhar |
-| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
-| **Princípio de design revelado** | Tornar uma regra de distribuição legível pode aumentar sua legitimidade mesmo sem aumentar a quantidade do recurso distribuído Por que funcionou: Converte uma regra abstrata de prioridade em uma ordem espacial imediatamente legível |
+| **Leituras-chave** | [[00 índices/Livros Indicados|Time and Free Will]] como lente sobre duração |
+| **Princípio de design revelado** | Tornar uma regra de distribuição legível pode aumentar sua legitimidade mesmo sem aumentar a quantidade do recurso; medir a espera torna-a administrável sem representar integralmente seu custo vivido |
 | **Questão em aberto** | Quando melhorar a experiência da fila deixa de ser cuidado com o usuário e passa a mascarar um problema de capacidade que deveria ser resolvido? |
