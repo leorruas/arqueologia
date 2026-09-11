@@ -105,6 +105,18 @@ Ele se tornou tão natural que ensinou milhões de pessoas a cuidar da permanên
 
 A pergunta que sobra é mais estranha: quando uma interface absorve uma responsabilidade que antes era nossa, o que acontece com a nossa percepção de controle, autoria e fechamento?
 
+## Genealogia de futuros: quando guardar torna experimentar barato
+
+Aplicando [[01 conceitos/Genealogia de Futuros|Genealogia de Futuros]], o botão salvar produz uma cadeia que ultrapassa seu problema original. Salvar torna barato preservar estados intermediários. Quando múltiplos estados podem sobreviver, versões deixam de ser acidentes e passam a ser recurso. Quando versões podem ser recuperadas, errar se torna menos definitivo; quando errar custa menos, experimentar fica mais fácil.
+
+A cadeia possível é:
+
+**salvar → múltiplos estados preserváveis → histórico de versões → reversibilidade → maior liberdade para experimentar → persistência contínua → memória contextual de processos**.
+
+O futuro tornado mais provável pelo Save não é apenas “mais armazenamento”. É um mundo em que sistemas conhecem não só resultados, mas trajetórias: como um documento, código, desenho ou decisão chegou ao estado atual. Sistemas de IA persistentes podem aproveitar justamente essa camada de contexto acumulado.
+
+O sucesso, porém, produz outro problema. Se tudo pode ser preservado automaticamente, **o que conta como versão, conclusão ou esquecimento?** O artefato que resolveu a perda pode contribuir para um mundo em que nada desaparece por padrão.
+
 ## Ficha arqueológica
 | Campo | Registro |
 |---|---|
@@ -126,13 +138,16 @@ A pergunta que sobra é mais estranha: quando uma interface absorve uma responsa
 | **Relação de poder** | Oferece controle explícito, mas transfere ao usuário a responsabilidade por lembrar de preservar |
 | **Consequências inesperadas** | O disquete sobrevive como signo depois do desaparecimento cotidiano do suporte físico |
 | **Destino ou transformação posterior** | Autosave e histórico de versões transferem parte da responsabilidade para a infraestrutura |
-| **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Continuidade de Acesso|Continuidade de acesso]] |
+| **Futuro tornado mais provável** | Sistemas em que processos inteiros, e não apenas resultados finais, permanecem recuperáveis |
+| **Descendentes possíveis** | Autosave, histórico de versões, versionamento, recuperação contínua e sistemas com memória contextual persistente |
+| **Novo problema produzido pelo sucesso** | Quando tudo permanece, torna-se necessário redesenhar fechamento, esquecimento, autoria e fronteiras entre versões |
+| **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Continuidade de Acesso|Continuidade de acesso]], [[01 conceitos/Genealogia de Futuros|Genealogia de Futuros]] |
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Custo do Erro|Custo do erro]], [[02 variaveis/Reversibilidade|Reversibilidade]] |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] |
 | **Percurso(s)** | [[05 percursos/Como o Design Aprendeu a Guardar|Como o Design Aprendeu a Guardar]] |
 | **Parentes** | [[03 artefatos/Post-it|Post-it]], [[03 artefatos/Archive|Archive]], [[03 artefatos/Número de Protocolo|Número de protocolo]] |
 | **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
-| **Princípio de design revelado** | Ainda não explicitado. |
+| **Princípio de design revelado** | Tornar estados recuperáveis pode transformar permanência em reversibilidade e, indiretamente, reduzir o custo de experimentar |
 | **Questão em aberto** | O que acontece com a percepção de versão e fechamento quando preservar deixa de ser uma ação consciente? |
 
 ## Referências
