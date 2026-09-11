@@ -59,7 +59,7 @@ A mentoria pertence à família dos artefatos de transformação porque tenta pr
 
 Mas ela tem uma característica especial. O mentor não precisa determinar a solução.
 
-Isso aproxima mentoria de [[03 artefatos/JTBD|JTBD]] e de outros artefatos de intenção: ela pode preservar uma direção sem prescrever completamente o caminho.
+Isso aproxima mentoria de JTBD e de outros artefatos de intenção: ela pode preservar uma direção sem prescrever completamente o caminho.
 
 Uma mentoria autoritária diz: “faça isso”.
 
@@ -166,7 +166,6 @@ Entre os dois existe interpretação.
 E interpretação pode ser projetada como serviço.
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Mentoria |
@@ -174,22 +173,24 @@ E interpretação pode ser projetada como serviço.
 | **Autoria** | Sem inventor único; evolução distribuída entre relações mestre–aprendiz, educação, profissões e organizações |
 | **Produto ou contexto** | Educação, carreira, organizações, comunidades profissionais e plataformas digitais |
 | **Tipo(s) de design** | Design de serviços; design organizacional; design de interação quando mediada por plataformas |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Permitir que uma pessoa use experiência acumulada por outra para reduzir incerteza e ampliar sua capacidade de agir sem precisar primeiro viver todos os mesmos erros e situações |
 | **Mundo antes** | Aprendizagem por tentativa própria, observação, relações informais, redes familiares e profissionais, ensino e aprendizagem de ofício |
 | **Invenção** | Não há ponto único; orientação entre pessoas precede amplamente a categoria moderna de mentoring |
 | **Refinamento** | Tutoria, orientação acadêmica e profissional, programas estruturados, definição de objetivos, registros e acompanhamento |
 | **Popularização** | Programas educacionais e corporativos e, posteriormente, comunidades e plataformas digitais |
 | **Padronização** | Perfis de mentor, matching, agendas, sessões, feedback, histórico e métricas tornam a relação operacionalizável como serviço |
-| **Hipótese de design** | Experiência contextualizada de outra pessoa pode aumentar a capacidade de interpretação e ação do mentorado |
-| **Hipótese sobre o comportamento humano** | Pessoas não precisam apenas de informação; precisam relacionar informação às condições particulares de sua própria trajetória |
+| **Hipótese de design** | Experiência contextualizada de outra pessoa pode aumentar a capacidade de interpretação e ação do mentorado Hipótese sobre o comportamento humano: Pessoas não precisam apenas de informação; precisam relacionar informação às condições particulares de sua própria trajetória |
 | **Comportamento aproveitado** | Aprendizagem social, imitação, diálogo, confiança, busca de orientação e capacidade de refletir sobre experiências alheias |
 | **Comportamento produzido** | Buscar orientação deliberadamente, formular objetivos, pedir feedback, registrar progresso e construir relações profissionais de aprendizagem |
 | **Relação de poder** | O mentor possui autoridade derivada de experiência e reputação; o desenho da relação pode ampliar autonomia ou produzir dependência e reprodução normativa |
-| **Consequências inesperadas** | Democratização de redes; profissionalização da orientação; sistemas de reputação; concentração de atenção em mentores populares; reprodução de trajetórias dominantes; possível competição ou complementaridade com IA |
-| **Recurso invisível reorganizado** | Experiência contextualizada, confiança, atenção, repertório e acesso |
+| **Consequências inesperadas** | Democratização de redes; profissionalização da orientação; sistemas de reputação; concentração de atenção em mentores populares; reprodução de trajetórias dominantes; possível competição ou complementaridade com IA Registros adicionais preservados da ficha anterior: recurso invisivel reorganizado: Experiência contextualizada, confiança, atenção, repertório e acesso |
 | **Destino ou transformação posterior** | De relações pessoais e institucionais para plataformas de matching, comunidades distribuídas e orientação mediada por IA |
 | **Conceitos relacionados** | [[01 conceitos/Tecnologia de Acesso|Tecnologia de Acesso]], autodeterminação, aprendizagem social, confiança, transformação, experiência situada |
+| **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | Tecnologias de acesso à experiência; serviços de transformação; transmissão intergeracional de conhecimento |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | [[03 artefatos/Agendamento|Agendamento]], professor, tutoria, orientação, consultoria, coaching, comunidade profissional, sistemas de IA |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Informação só se torna capacidade quando pode ser interpretada em relação a uma situação concreta |
 | **Questão em aberto** | Quando a mentoria amplia os futuros possíveis do mentorado e quando apenas o ensina a reproduzir o passado do mentor? |

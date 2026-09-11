@@ -92,3 +92,14 @@ Quando uma pista ganha nota própria, ela deixa de funcionar como promessa futur
 - **Arquivo em nuvem**: promovido a `03 artefatos/Arquivo em nuvem.md` para investigar desancoragem entre armazenamento físico e acesso.
 - **Badge de notificação**: promovido a `03 artefatos/Badge de notificacao.md` para investigar como um estado pendente se torna sinal persistente fora do aplicativo.
 - **Favorito / bookmark**: promovido a `03 artefatos/Favorito Bookmark.md` para investigar a preservação de um caminho de retorno a conteúdo externo.
+
+<!-- PISTAS-AUTOMATICAS:INICIO -->
+## Pistas detectadas automaticamente
+
+Esta seção é regenerada pelo workflow a partir de wikilinks sem destino. As seções manuais acima nunca devem ser substituídas por esta rotina.
+
+### Artefatos
+
+- **JTBD**: citado em `03 artefatos/Mentoria.md`
+
+<!-- PISTAS-AUTOMATICAS:FIM -->
