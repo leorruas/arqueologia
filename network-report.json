@@ -1,11 +1,10 @@
 {
-  "generatedAt": "2026-09-11T10:13:05.334Z",
+  "generatedAt": "2026-09-11T10:13:21.987Z",
   "scope": "Integração do grafo: títulos duplicados dentro da mesma camada, índices, home, reciprocidade estrutural, tipos de design e nós órfãos. Conceitos e variáveis não exigem backlink exaustivo.",
-  "issueCount": 11,
+  "issueCount": 9,
   "countsByKind": {
-    "missing-from-index": 2,
+    "missing-from-index": 1,
     "missing-reciprocal-link": 7,
-    "orphan-node": 1,
     "design-type-drift": 1
   },
   "issues": [
@@ -14,12 +13,6 @@
       "sourcePath": "01 conceitos/Mitologias da IA.md",
       "targetPath": "00 índices/Indice de Conceitos.md",
       "detail": "Arquivo não aparece em 00 índices/Indice de Conceitos.md."
-    },
-    {
-      "kind": "missing-from-index",
-      "sourcePath": "autores/Kaisa Kärki.md",
-      "targetPath": "00 índices/Indice de Autores.md",
-      "detail": "Arquivo não aparece em 00 índices/Indice de Autores.md."
     },
     {
       "kind": "missing-reciprocal-link",
@@ -62,12 +55,6 @@
       "sourcePath": "03 artefatos/Portfólio.md",
       "targetPath": "04 genealogias/Permanencia e Memoria Externa.md",
       "detail": "A ficha liga para 04 genealogias/Permanencia e Memoria Externa.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "orphan-node",
-      "sourcePath": "autores/Kaisa Kärki.md",
-      "targetPath": null,
-      "detail": "Nota sem links de entrada a partir do acervo auditado."
     },
     {
       "kind": "design-type-drift",
