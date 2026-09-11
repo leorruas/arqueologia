@@ -22,6 +22,10 @@ Um alerta sonoro pode capturar o foco por um instante. Um formulário complexo p
 
 A literatura psicológica há muito trata atenção como capacidade limitada de processamento. Kahneman, por exemplo, modelou atenção como esforço distribuído entre atividades concorrentes.[^1] Aqui, usamos essa tradição apenas como antecedente para um eixo de comparação entre artefatos.
 
+Henri Bergson oferece uma lente diferente. Em *Matière et mémoire* (1896), sobretudo na discussão do reconhecimento atento, atenção não aparece apenas como aumento de intensidade perceptiva. Bergson distingue o reconhecimento automático, que prolonga rapidamente a percepção em uma resposta útil, do reconhecimento atento, no qual a ação deixa de seguir imediatamente o hábito, retorna ao objeto e permite que imagens de memória enriqueçam aquilo que está sendo percebido.[^2] Essa diferença ajuda a perguntar não apenas **quanto** foco uma situação exige, mas **o que passa a aparecer quando interrompemos uma resposta automática para examinar de novo**.
+
+Para o design, isso sugere uma segunda dimensão de investigação. Um artefato pode mudar a quantidade de atenção exigida e também mudar aquilo que se torna disponível à atenção. O [[03 artefatos/Espelho|espelho]], por exemplo, transforma o próprio corpo em objeto continuamente reinspecionável: olhar, corrigir e olhar outra vez. Essa leitura bergsoniana não substitui o eixo operacional desta variável; ela acrescenta uma lente sobre percepção, memória, hábito e possibilidade de ação.
+
 [[03 artefatos/Infinite Scroll|Infinite Scroll]] pode prolongar uma sequência de atenção ao reduzir pontos explícitos de parada, mas isso não significa que “maximize atenção” de maneira automática. O efeito depende do conteúdo, do contexto e do comportamento do usuário.
 
 O [[03 artefatos/Botao Like|Botão Like]] pode direcionar atenção para métricas sociais quando essas métricas se tornam relevantes para a pessoa. Já [[03 artefatos/Pull to Refresh|Pull to Refresh]] concentra momentaneamente o foco na atualização e no resultado que aparece, mas a relação com retenção prolongada é uma hipótese comportamental, não propriedade inevitável do gesto.
@@ -64,10 +68,12 @@ A pergunta arqueológica mais útil é: **o que deixa de funcionar quando a pess
 | **Como observar** | Monitoramento necessário, interrupções, competição entre estímulos, erros sob atenção dividida e custo de retomada |
 | **O que não mede sozinho** | Engajamento, satisfação, valor do conteúdo ou autonomia sobre o foco |
 | **Trade-offs principais** | Reduzir demanda pode liberar capacidade; também pode ocultar processos que mereciam atenção |
-| **Artefatos-chave** | [[03 artefatos/Infinite Scroll|Infinite Scroll]], [[03 artefatos/Botao Like|Botão Like]], [[03 artefatos/Archive|Archive]], [[03 artefatos/Grid|Grid]] |
+| **Artefatos-chave** | [[03 artefatos/Infinite Scroll|Infinite Scroll]], [[03 artefatos/Botao Like|Botão Like]], [[03 artefatos/Archive|Archive]], [[03 artefatos/Grid|Grid]], [[03 artefatos/Espelho|Espelho]] |
 | **Conceitos relacionados** | [[01 conceitos/Autonomia da Atencao|Autonomia da atenção]], [[01 conceitos/Economia da Atencao|Economia da atenção]] |
 | **Genealogias relacionadas** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] |
 
 ## Referências
 
 [^1]: Kahneman, Daniel. *Attention and Effort*. Prentice-Hall, 1973. Usado como antecedente para a ideia de capacidade atencional limitada, não como origem desta operacionalização.
+
+[^2]: Bergson, Henri. *Matière et mémoire: essai sur la relation du corps à l'esprit*. Paris: Félix Alcan, 1896. Ver especialmente o capítulo II, sobre reconhecimento das imagens e reconhecimento atento. Na tradução inglesa de Nancy Margaret Paul e W. Scott Palmer, *Matter and Memory* (London: George Allen & Co., 1911), a discussão de reconhecimento e atenção aparece especialmente nas pp. 118–125.
