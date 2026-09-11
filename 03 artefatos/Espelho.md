@@ -51,6 +51,10 @@ Isso sugere uma conexão forte com [[02 variaveis/Expectativa de Disponibilidade
 
 Também muda a [[02 variaveis/Atencao|atenção]]. O espelho transforma o próprio corpo em estímulo visual disponível. Ele pode ser consultado rapidamente e abandonado, ou pode sustentar longos ciclos de correção. Cada ajuste oferece feedback imediato. O custo de testar outra versão de cabelo, roupa, maquiagem ou postura é baixo porque o resultado aparece sem espera.
 
+Henri Bergson permite tornar essa relação mais precisa. Em *Matière et mémoire*, o reconhecimento atento não é apenas uma percepção mais intensa. Bergson o distingue do reconhecimento automático, no qual a percepção se prolonga rapidamente em uma resposta útil. Quando há atenção, o movimento deixa de apenas seguir adiante, retorna ao objeto, demora-se sobre seus contornos e permite que a memória enriqueça aquilo que está sendo percebido.[^9] O espelho pode ser lido como uma superfície especialmente adequada a esse circuito: olhar, interromper a resposta habitual, reenquadrar um detalhe, corrigir e olhar outra vez. Ele não apenas captura atenção. Ele torna o próprio corpo continuamente disponível para uma atenção que pode produzir nova ação.
+
+Essa leitura também complica a ideia de que o espelho simplesmente mostra “o que está lá”. Se percepção e memória participam juntas do reconhecimento atento, a pessoa diante do espelho não encontra um corpo neutro. Ela o vê junto de expectativas, hábitos, lembranças, comparações e possibilidades de ação. O reflexo oferece informação óptica; aquilo que se torna relevante nessa informação depende de um campo de atenção já organizado.
+
 Uma pesquisa histórica de Rebecca Shrum sobre espelhos e identidade nos Estados Unidos mostra que espelhos não foram socialmente neutros. A autora os relaciona à formação de identidade e também à construção de hierarquias raciais e de gênero, especialmente quando determinados grupos passaram a apresentar formas específicas de auto-observação como sinais de racionalidade, modernidade ou civilização.[^8] Isso complica uma leitura puramente emancipadora do artefato.
 
 O espelho pode diminuir dependência do olhar alheio e, ao mesmo tempo, internalizar esse olhar. Uma pessoa já não precisa esperar que alguém diga que sua roupa está desalinhada; pode antecipar o julgamento e corrigi-la sozinha. O ganho de autonomia pode, portanto, vir acompanhado de uma nova obrigação de autopoliciamento.
@@ -67,11 +71,17 @@ O Smithsonian observa essa diferença ao comparar espelhos e selfies: o espelho 
 
 É possível ler essa passagem como uma transformação em três etapas funcionais, sem afirmar uma descendência histórica simples. O espelho torna o eu **visível para si**. A câmera torna essa visão **persistente**. A rede torna essa imagem **circulável**.
 
+Paul Ricoeur introduz aqui um limite importante para a metáfora do espelho como conhecimento do eu. Em *Soi-même comme un autre*, ele distingue a identidade como mesmidade, *idem*, da identidade como ipseidade, *ipse*. A primeira ajuda a responder o que permanece reconhecivelmente o mesmo; a segunda permite pensar uma constância de si que atravessa mudanças. Ricoeur usa a promessa, mais precisamente a fidelidade à palavra dada, como figura exemplar dessa segunda forma: posso mudar de aparência, disposição ou desejo e ainda assim continuar responsável por algo que prometi a outro.[^10]
+
+O espelho trabalha sobretudo no terreno da mesmidade perceptível. Ele pode mostrar que o rosto envelheceu, que o cabelo mudou ou que o corpo se transformou. Não pode mostrar se alguém manteve uma promessa. Essa diferença é decisiva porque impede que auto-observação seja confundida com conhecimento total de si. Uma imagem pode responder muito bem à pergunta “como estou?”, mas permanece limitada diante da pergunta “quem sou eu através do que mudou?”. A [[01 conceitos/Promessa|promessa]], no sentido específico desenvolvido pela Arqueologia do Design, é outro conceito; o parentesco com Ricoeur aqui está na relação entre futuro, continuidade e responsabilidade, não numa identidade entre as duas definições.
+
 O que muda então não é apenas a fidelidade da representação. Muda quem pode vê-la, por quanto tempo ela existe e que comportamento ela pode produzir depois. O espelho corrige o presente. A fotografia cria comparação com o passado. A imagem em rede cria também antecipação do olhar futuro de outras pessoas.
 
 Por isso, talvez o espelho seja um parente distante de interfaces contemporâneas de monitoramento pessoal. Um dashboard, uma câmera frontal ou um app de tracking não precisam parecer com um espelho para repetir parte da sua lógica: transformar alguma dimensão de si em informação externa, devolvê-la rapidamente e permitir que a pessoa ajuste o comportamento com base no retorno.
 
 A diferença é que o espelho não interpreta. Ele devolve luz. Sistemas contemporâneos medem, classificam, destacam, comparam e sugerem. Quando a superfície de auto-observação começa também a dizer o que significa aquilo que mostra, o problema muda de natureza.
+
+Ricoeur torna essa passagem ainda mais incômoda. Quanto mais um sistema tenta descrever uma pessoa por métricas estáveis, mais corre o risco de tratar identidade como se fosse apenas mesmidade: peso, frequência cardíaca, produtividade, gasto, aparência, padrões de uso. Essas medidas podem dizer algo verdadeiro sobre alguém sem esgotar a continuidade de quem essa pessoa é. A promessa mostra justamente uma forma de permanência que não cabe numa fotografia nem num dashboard: continuar respondendo por uma relação através do tempo.
 
 A pergunta que fica para esta escavação é talvez essa: **o que acontece quando o artefato que nos deixa observar a nós mesmos deixa de apenas refletir e passa também a julgar, ordenar ou recomendar como devemos mudar?**
 
@@ -96,12 +106,12 @@ A pergunta que fica para esta escavação é talvez essa: **o que acontece quand
 | **Relação de poder** | Pode ampliar autonomia sobre a própria apresentação e simultaneamente internalizar normas sociais de aparência e autocontrole |
 | **Consequências inesperadas** | Intensificação da auto-observação; associação a vaidade e disciplina corporal; base funcional para práticas posteriores de autorrepresentação |
 | **Destino ou transformação posterior** | Coexiste com câmera frontal, selfie, fotografia, vídeo e sistemas digitais de monitoramento pessoal |
-| **Conceitos relacionados** | [[01 conceitos/Tecnologia de Acesso|Tecnologia de acesso]], [[01 conceitos/Autodeterminação|Autodeterminação]], [[01 conceitos/Redução de Inferências|Redução de inferências]] |
+| **Conceitos relacionados** | [[01 conceitos/Tecnologia de Acesso|Tecnologia de acesso]], [[01 conceitos/Autodeterminação|Autodeterminação]], [[01 conceitos/Redução de Inferências|Redução de inferências]], [[01 conceitos/Promessa|Promessa]] |
 | **Variáveis relacionadas** | [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Expectativa de Disponibilidade|Expectativa de disponibilidade]], [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]] |
 | **Genealogia** | Possível genealogia futura de auto-observação e feedback |
 | **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | [[03 artefatos/Camera Fotografica|Câmera fotográfica]], [[03 artefatos/Quadro Branco|Quadro branco]] por feedback imediato sobre uma superfície manipulável, e sistemas de tracking como hipótese comparativa futura |
-| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
+| **Leituras-chave** | Henri Bergson, *Matière et mémoire*; Paul Ricoeur, *Soi-même comme un autre* |
 | **Princípio de design revelado** | Reduzir o custo do feedback pode transformar uma verificação ocasional em rotina de autocorreção |
 | **Questão em aberto** | O que muda quando uma superfície de auto-observação deixa de refletir e passa também a interpretar, comparar ou recomendar? |
 
@@ -122,3 +132,7 @@ A pergunta que fica para esta escavação é talvez essa: **o que acontece quand
 [^7]: Thompson, Clive. “The Original Selfie Craze Was the Mirror”. *Smithsonian Magazine*, novembro de 2020. O artigo sintetiza a expansão técnica e social dos espelhos, incluindo industrialização no século XIX e comparação entre espelho e selfie. https://www.smithsonianmag.com/innovation/history-mirror-selfie-culture-180976038/
 
 [^8]: Shrum, Rebecca K. *In the Looking Glass: Mirrors and Identity in Early America*. Johns Hopkins University Press, 2017. Registro e resumo bibliográfico no Smithsonian Libraries and Archives. https://www.si.edu/object/looking-glass-mirrors-and-identity-early-america-rebecca-k-shrum:siris_sil_1084234
+
+[^9]: Bergson, Henri. *Matière et mémoire: essai sur la relation du corps à l'esprit*. Paris: Félix Alcan, 1896. Ver especialmente o capítulo II, sobre reconhecimento e atenção. Na tradução inglesa de Nancy Margaret Paul e W. Scott Palmer, *Matter and Memory* (London: George Allen & Co., 1911), a passagem do reconhecimento automático ao reconhecimento atento aparece especialmente nas pp. 118–125.
+
+[^10]: Ricoeur, Paul. *Soi-même comme un autre*. Paris: Seuil, 1990. Na tradução inglesa de Kathleen Blamey, *Oneself as Another* (Chicago: University of Chicago Press, 1992), ver especialmente pp. 123–124, em que manter a palavra dada aparece como figura de constância de si distinta da permanência do caráter, e p. 165, sobre responsabilidade diante daquele que conta conosco.
