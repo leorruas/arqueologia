@@ -20,7 +20,8 @@ const referenciasDeGovernanca = new Set([
   "log",
   "instrucoes de arqueologia",
   "guia de escrita",
-  "futuras refatoracoes"
+  "futuras refatoracoes",
+  "pistas de pesquisa"
 ]);
 
 function listarMarkdowns(diretorio, acumulador = []) {
