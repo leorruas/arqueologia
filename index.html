@@ -6,6 +6,16 @@
   <meta name="theme-color" content="#101010">
   <title>arqueologia • do design</title>
   <meta name="description" content="Uma investigação sobre como pequenas decisões de design mudaram comportamentos, sistemas e cultura.">
+  <script>
+    (function () {
+      try {
+        new Function("var item = { filho: { valor: 1 } }; return item?.filho?.valor;");
+        new Function("return /(?<!a)b/.test('b');");
+      } catch (erro) {
+        window.location.replace("legacy.html" + window.location.search + window.location.hash);
+      }
+    }());
+  </script>
   <link rel="stylesheet" href="style.css?v=arqueologia-v2">
   <link rel="stylesheet" href="enhancements.css?v=arqueologia-v5">
   <link rel="stylesheet" href="puc-parity.css?v=arqueologia-v4">
@@ -90,70 +100,10 @@
     <p>arqueologia do design • um acervo em construção</p>
   </footer>
 
-  <script>
-    (function () {
-      function suportaLeitorModerno() {
-        try {
-          new Function("var item = { filho: { valor: 1 } }; return item?.filho?.valor;");
-          new Function("return /(?<!a)b/.test('b');");
-          return true;
-        } catch (erro) {
-          return false;
-        }
-      }
-
-      function carregarScript(src, tipo, aoTerminar) {
-        var script = document.createElement("script");
-        script.src = src;
-        if (tipo) script.type = tipo;
-        if (aoTerminar) {
-          script.onload = aoTerminar;
-          script.onerror = aoTerminar;
-        }
-        document.body.appendChild(script);
-      }
-
-      function carregarCss(href) {
-        var link = document.createElement("link");
-        link.rel = "stylesheet";
-        link.href = href;
-        document.head.appendChild(link);
-      }
-
-      function carregarModulosEmSerie(modulos, indice) {
-        if (indice >= modulos.length) return;
-        carregarScript(modulos[indice], "module", function () {
-          carregarModulosEmSerie(modulos, indice + 1);
-        });
-      }
-
-      if (suportaLeitorModerno()) {
-        carregarModulosEmSerie([
-          "script.js?v=arqueologia-v5",
-          "enhancements.js?v=arqueologia-v5",
-          "footnotes.js?v=arqueologia-v1",
-          "puc-parity.js?v=arqueologia-v4",
-          "callouts.js?v=arqueologia-v1"
-        ], 0);
-      } else {
-        document.documentElement.className += " legacy-ios12";
-        carregarCss("compat-ios12.css?v=ipad-mini-v2");
-        carregarScript("legacy-ios12.js?v=ipad-mini-v2");
-
-        document.addEventListener("click", function (evento) {
-          var alvo = evento.target;
-          var href;
-          var destino;
-          while (alvo && alvo.tagName !== "A") alvo = alvo.parentNode;
-          if (!alvo) return;
-          href = alvo.getAttribute("href") || "";
-          if (href.indexOf("#referencia-legado-") !== 0) return;
-          evento.preventDefault();
-          destino = document.getElementById(href.substring(1));
-          if (destino) window.scrollTo(0, Math.max(0, destino.offsetTop - 80));
-        }, false);
-      }
-    }());
-  </script>
+  <script type="module" src="script.js?v=arqueologia-v5"></script>
+  <script type="module" src="enhancements.js?v=arqueologia-v5"></script>
+  <script type="module" src="footnotes.js?v=arqueologia-v1"></script>
+  <script type="module" src="puc-parity.js?v=arqueologia-v4"></script>
+  <script type="module" src="callouts.js?v=arqueologia-v1"></script>
 </body>
 </html>
