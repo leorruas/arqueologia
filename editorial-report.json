@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-11T08:35:49.694Z",
+  "generatedAt": "2026-09-11T08:40:12.905Z",
   "rule": "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
   "typeDesignRule": "Tipos de design devem funcionar como ensaios disciplinares. Headings do template atual são permitidos; permanecem suspeitos apenas headings enciclopédicos legados.",
   "pathRule": "Percursos devem funcionar como argumentos de leitura e não usar sequência numerada de resumos de artefatos.",
   "artifactSheetRule": "Cada artefato deve conter uma única Ficha arqueológica em tabela Campo/Registro com os 26 campos definidos no template atual.",
-  "candidateCount": 38,
-  "fileCount": 29,
+  "candidateCount": 39,
+  "fileCount": 30,
   "files": [
     {
       "sourcePath": "00 índices/Indice de Autores.md",
@@ -47,6 +47,17 @@
           "kind": "h2",
           "line": 137,
           "text": "Relação com a Arqueologia do Design"
+        }
+      ]
+    },
+    {
+      "sourcePath": "01 conceitos/Mitologias da IA.md",
+      "items": [
+        {
+          "sourcePath": "01 conceitos/Mitologias da IA.md",
+          "kind": "h2",
+          "line": 73,
+          "text": "Relação com a Esfinge"
         }
       ]
     },
@@ -373,8 +384,16 @@
   "legacyConceptStructureCount": 0,
   "legacyConceptFileCount": 0,
   "legacyConceptFiles": [],
-  "conceptMetadataMissingCount": 0,
-  "conceptMetadataMissingFiles": [],
+  "conceptMetadataMissingCount": 1,
+  "conceptMetadataMissingFiles": [
+    {
+      "sourcePath": "01 conceitos/Mitologias da IA.md",
+      "fields": [
+        "origem",
+        "grau"
+      ]
+    }
+  ],
   "legacyVariableStructureCount": 0,
   "legacyVariableFileCount": 0,
   "legacyVariableFiles": [],

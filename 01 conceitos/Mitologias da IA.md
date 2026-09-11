@@ -72,7 +72,7 @@ A arqueologia do design de IA passa, assim, a investigar uma segunda interface: 
 
 ## Relação com a Esfinge
 
-A [[03 artefatos/Esfinge|Esfinge]], quando usada como lente para pensar a IA, pertence a outro nível do problema. A criatura mitológica transforma inteligência em prova de passagem: pergunta, interpretação e acesso ficam ligados. Barthes ajuda a perceber que a IA contemporânea também produz suas próprias mitologias de inteligência.
+A Esfinge, quando usada como lente para pensar a IA, pertence a outro nível do problema. A criatura mitológica transforma inteligência em prova de passagem: pergunta, interpretação e acesso ficam ligados. Barthes ajuda a perceber que a IA contemporânea também produz suas próprias mitologias de inteligência.
 
 A diferença é produtiva. A Esfinge é um mito antigo que podemos usar para interpretar um artefato contemporâneo. As “mitologias da IA”, em sentido barthesiano, são significados contemporâneos sendo naturalizados diante de nós.
 
