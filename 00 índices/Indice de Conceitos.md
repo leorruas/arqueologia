@@ -45,8 +45,9 @@ Estas formulações nasceram ou ganharam sua forma atual dentro desta investiga�
 - [[01 conceitos/Continuidade de Acesso|Continuidade de Acesso]]: hipótese sobre a transformação de acesso episódico em disponibilidade contínua.
 - [[01 conceitos/Ecologia de Artefatos|Ecologia de Artefatos]]: modelo que relaciona artefatos organizacionais pelo recurso invisível que cada um reorganiza.
 - [[01 conceitos/Eras da Economia|Eras da Economia e Design]]: estrutura interpretativa do projeto para comparar mudanças no foco de produção, acesso e decisão.
-- [[01 conceitos/Genealogia de Futuros|Genealogia de Futuros]]: método para investigar que capacidades, expectativas, problemas e descendentes se tornam possíveis quando a hipótese de um artefato vence.
+- [[01 conceitos/Genealogia de Futuros|Genealogia de Futuros]]: método para investigar como promessas se tornam expectativas e que capacidades, problemas e descendentes surgem quando a hipótese de um artefato vence.
 - [[01 conceitos/Peles Temporarias da Arquitetura|Peles Temporárias da Arquitetura]]: leitura de intervenções efêmeras que alteram a camada simbólica de espaços estáveis.
+- [[01 conceitos/Promessa|Promessa]]: hipótese que distingue a função de um artefato da transformação de mundo que ele oferece e investiga a passagem de benefício a expectativa, norma e infraestrutura.
 - [[01 conceitos/Redução de Inferências|Redução de Inferências]]: hipótese de que certas decisões vencem ao retirar adivinhações necessárias para agir.
 - [[01 conceitos/Servico de Reflexao|Serviço de Reflexão]]: formulação para serviços cujo principal resultado é produzir compreensão compartilhada.
 - [[01 conceitos/Tecnologia de Acesso|Tecnologia de Acesso]]: lente que trata filas, agendas e interfaces como mecanismos de circulação de recursos.
