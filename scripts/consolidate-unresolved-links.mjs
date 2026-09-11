@@ -4,6 +4,8 @@ import path from "node:path";
 const raiz = process.cwd();
 const relatorioPath = path.join(raiz, "link-report.json");
 const pistasPath = path.join(raiz, "Pistas de pesquisa.md");
+const inicioAutomatico = "<!-- PISTAS-AUTOMATICAS:INICIO -->";
+const fimAutomatico = "<!-- PISTAS-AUTOMATICAS:FIM -->";
 
 if (!fs.existsSync(relatorioPath)) {
   console.log("Relatório de links ainda não existe; nenhuma pista consolidada.");
@@ -15,6 +17,14 @@ const porArquivo = new Map((relatorio.files || []).map(item => [item.sourcePath,
 const pistas = new Map();
 let arquivosAlterados = 0;
 let linksConvertidos = 0;
+
+function normalizar(valor = "") {
+  return String(valor)
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .trim();
+}
 
 function limparReferenciaWiki(valor) {
   let referencia = String(valor || "")
@@ -47,6 +57,12 @@ for (const [sourcePath, naoResolvidos] of porArquivo.entries()) {
   const novo = original.replace(/\[\[([^\]]+)\]\]/g, (wikiCompleto, conteudo) => {
     const destino = limparReferenciaWiki(conteudo);
     if (!naoResolvidos.has(destino)) return wikiCompleto;
+
+    // Pistas de pesquisa é um arquivo de governança na raiz. Mesmo que um
+    // relatório antigo o marque como não resolvido, ele nunca deve virar
+    // uma pista sobre si próprio.
+    if (normalizar(destino.split("/").pop()) === "pistas de pesquisa") return wikiCompleto;
+
     registrarPista(destino, sourcePath);
     linksConvertidos += 1;
     return rotuloDoWiki(conteudo);
@@ -74,15 +90,29 @@ for (const [destino, origens] of [...pistas.entries()].sort((a, b) => a[0].local
   grupos.get(nomeGrupo).push({ destino, origens: [...origens].sort() });
 }
 
-let conteudo = `---\ntitle: "Pistas de pesquisa"\ntype: "governanca"\nstatus: "ativo"\npublicar: false\n---\n\n# Pistas de pesquisa\n\nEste arquivo reúne referências que apareceram no vault, mas ainda não possuem uma nota correspondente. Elas foram convertidas de wikilinks para texto simples nos estudos de origem para evitar que uma possibilidade futura pareça conteúdo já publicado.\n\nA presença aqui não obriga a criação de uma nota. Cada pista deve ser avaliada pelo valor que acrescenta à rede de ideias.\n`;
+const conteudoBase = fs.existsSync(pistasPath)
+  ? fs.readFileSync(pistasPath, "utf8")
+  : `---\ntitle: "Pistas de pesquisa"\ntype: "governanca"\nstatus: "ativo"\npublicar: false\n---\n\n# Pistas de pesquisa\n\nEste arquivo preserva possibilidades de investigação que ainda não possuem estudo próprio.\n`;
 
-for (const [nomeGrupo, itens] of grupos.entries()) {
-  conteudo += `\n## ${nomeGrupo}\n\n`;
-  for (const item of itens) {
-    const nome = item.destino.split("/").pop();
-    conteudo += `- **${nome}**: citado em ${item.origens.map(origem => `\`${origem}\``).join(", ")}\n`;
+const padraoAutomatico = new RegExp(`\\n?${inicioAutomatico}[\\s\\S]*?${fimAutomatico}\\n?`, "m");
+let conteudo = conteudoBase.replace(padraoAutomatico, "\n").trimEnd();
+
+if (pistas.size) {
+  let bloco = `\n\n${inicioAutomatico}\n## Pistas detectadas automaticamente\n\nEsta seção é regenerada pelo workflow a partir de wikilinks sem destino. As seções manuais acima nunca devem ser substituídas por esta rotina.\n`;
+
+  for (const [nomeGrupo, itens] of grupos.entries()) {
+    bloco += `\n### ${nomeGrupo}\n\n`;
+    for (const item of itens) {
+      const nome = item.destino.split("/").pop();
+      bloco += `- **${nome}**: citado em ${item.origens.map(origem => `\`${origem}\``).join(", ")}\n`;
+    }
   }
+
+  bloco += `\n${fimAutomatico}\n`;
+  conteudo += bloco;
+} else {
+  conteudo += "\n";
 }
 
-if (pistas.size) fs.writeFileSync(pistasPath, conteudo);
-console.log(`Pistas: ${linksConvertidos} wikilinks convertidos em texto em ${arquivosAlterados} arquivos; ${pistas.size} destinos registrados.`);
+if (conteudo !== conteudoBase) fs.writeFileSync(pistasPath, conteudo);
+console.log(`Pistas: ${linksConvertidos} wikilinks convertidos em texto em ${arquivosAlterados} arquivos; ${pistas.size} destinos automáticos registrados sem substituir pistas manuais.`);
