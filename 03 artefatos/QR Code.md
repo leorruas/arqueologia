@@ -92,6 +92,18 @@ Outra hipótese é que sua importância histórica não esteja em armazenar info
 
 Essa hipótese precisa ser comparada com código de barras, RFID, NFC, marcas fiduciais, reconhecimento visual e hyperlinks antes de se transformar em uma genealogia própria.
 
+## Genealogia de futuros: quando o mundo físico vira interface
+
+Aplicando [[01 conceitos/Genealogia de Futuros|Genealogia de Futuros]], o QR Code pode ser menos importante por aquilo que codifica do que pela expectativa que ajudou a naturalizar. Ele ensinou milhões de pessoas que **apontar uma câmera para uma superfície pode revelar uma ação escondida**.
+
+A cadeia possível é:
+
+**marcador visual → câmera como leitor → superfície física como ponto de entrada → expectativa de camada digital sobre objetos → reconhecimento visual geral → interfaces em que o próprio mundo funciona como índice para serviços digitais**.
+
+Nesse futuro, o descendente do QR Code pode justamente não parecer um QR Code. Se câmeras e sistemas conseguirem reconhecer objetos, lugares e contextos diretamente, o marcador explícito pode desaparecer enquanto sua hipótese sobrevive: olhar para algo com uma máquina deve ser suficiente para acessar informação ou ação relacionada.
+
+O novo problema produzido pelo sucesso é de legibilidade e confiança. Se qualquer superfície pode acionar uma camada invisível, **como o usuário sabe o que é clicável, quem controla o destino e o que acontecerá antes de agir?** O QR Code resolve a passagem tornando o marcador visível; seus descendentes podem tornar a passagem tão invisível que precisaremos redesenhar sinais de intenção, consentimento e autoria.
+
 ## Ficha arqueológica
 | Campo | Registro |
 |---|---|
@@ -113,7 +125,10 @@ Essa hipótese precisa ser comparada com código de barras, RFID, NFC, marcas fi
 | **Relação de poder** | Ainda não explicitado. |
 | **Consequências inesperadas** | Registros adicionais preservados da ficha anterior: produto/contexto inicial: Identificação automática e rastreamento em contexto industrial |
 | **Destino ou transformação posterior** | Em aberto: amplamente padronizado, mas potencialmente incorporável a sistemas mais gerais de visão computacional Legado: Ajudou a transformar objetos impressos e espaços físicos em pontos de entrada para sistemas digitais |
-| **Conceitos relacionados** | identificação automática, correção de erros, mediação, continuidade entre físico e digital, legibilidade computacional |
+| **Futuro tornado mais provável** | Ambientes em que objetos e superfícies físicas funcionam como índices para camadas digitais acessadas por percepção computacional |
+| **Descendentes possíveis** | Reconhecimento visual sem marcador, interfaces espaciais, câmera como interface universal e objetos físicos com serviços digitais contextuais |
+| **Novo problema produzido pelo sucesso** | Quanto mais invisível a ponte físico-digital, maior a necessidade de indicar ação, destino, consentimento e responsabilidade |
+| **Conceitos relacionados** | identificação automática, correção de erros, mediação, continuidade entre físico e digital, legibilidade computacional, [[01 conceitos/Genealogia de Futuros|Genealogia de Futuros]] |
 | **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | Ainda não explicitado. |
 | **Percurso(s)** | Ainda não integrado a um percurso editorial. |
