@@ -33,7 +33,7 @@ O vaso, portanto, reduz parte da autonomia ecológica da planta ao mesmo tempo q
 
 Há também uma operação semiótica. Uma planta espontânea crescendo num terreno pode ser percebida como vegetação, mato, recurso, obstáculo ou simplesmente parte do ambiente. Quando a mesma espécie aparece num vaso escolhido e cuidadosamente posicionada dentro de uma sala, ela pode adquirir outro estatuto: decoração, coleção, presença, lembrança ou símbolo de cuidado. O vaso, nesse sentido, funciona parcialmente como uma moldura.
 
-A moldura pede que uma imagem seja percebida como unidade; o pedestal separa um objeto do ambiente e o apresenta como algo especial; o vaso pode fazer algo semelhante com uma planta, individualizando aquilo que antes faria parte de um campo vegetal contínuo. Isso também o aproxima do tapete: ambos delimitam contexto sem precisar erguer uma barreira física. O vaso desenha uma fronteira entre aquela pequena natureza administrada e o restante do ambiente.
+A moldura pede que uma imagem seja percebida como unidade; o pedestal separa um objeto do ambiente e o apresenta como algo especial; o vaso pode fazer algo semelhante com uma planta, individualizando aquilo que antes faria parte de um campo vegetal contínuo. Isso também o aproxima do [[03 artefatos/Tapete|tapete]]: ambos delimitam contexto sem precisar erguer uma barreira física. O vaso desenha uma fronteira entre aquela pequena natureza administrada e o restante do ambiente.
 
 ## A planta torna-se móvel
 
@@ -45,11 +45,11 @@ O artefato, portanto, não torna apenas a planta portátil. Ele torna possível 
 
 A relação com a garrafa é particularmente forte. A garrafa separa uma quantidade de água de uma fonte maior e permite que ela acompanhe o corpo; o vaso separa uma quantidade de ambiente terrestre do solo contínuo e permite que uma planta acompanhe a arquitetura humana. Nos dois casos, o design reduz a dependência de um lugar específico ao recortar e transportar algo que antes fazia parte de uma infraestrutura maior.
 
-Essa operação aparece repetidamente na história dos artefatos: a garrafa torna água portátil; o vaso torna um microambiente portátil; a câmera torna uma cena portátil; o livro torna discurso e memória portáteis; o celular torna comunicação e relações acessíveis fora de lugares fixos. O padrão sugere um conceito maior, que podemos chamar de **portabilização de contexto**. Portabilidade, nesse sentido, não significa apenas diminuir um objeto para carregá-lo, mas reconstruir em pequena escala as condições que antes obrigavam uma atividade, organismo ou recurso a permanecer em determinado lugar.
+Essa operação aparece repetidamente na história dos artefatos: a garrafa torna água portátil; o vaso torna um microambiente portátil; a [[03 artefatos/Camera Fotografica|câmera fotográfica]] torna uma cena portátil; o livro torna discurso e memória portáteis; o celular torna comunicação e relações acessíveis fora de lugares fixos. O padrão sugere um conceito maior, que podemos chamar de **portabilização de contexto**. Portabilidade, nesse sentido, não significa apenas diminuir um objeto para carregá-lo, mas reconstruir em pequena escala as condições que antes obrigavam uma atividade, organismo ou recurso a permanecer em determinado lugar.
 
 ## Parente da câmera
 
-O parentesco com a câmera fotográfica é ainda mais estranho — e talvez mais fértil. A câmera recorta uma parte do campo visual e a transforma numa unidade transportável; o vaso recorta uma parte do campo ecológico e faz algo semelhante. Existe, porém, uma diferença fundamental: a câmera transporta uma **representação** do mundo, enquanto o vaso transporta uma **condição material** do mundo.
+O parentesco com a [[03 artefatos/Camera Fotografica|câmera fotográfica]] é ainda mais estranho — e talvez mais fértil. A câmera recorta uma parte do campo visual e a transforma numa unidade transportável; o vaso recorta uma parte do campo ecológico e faz algo semelhante. Existe, porém, uma diferença fundamental: a câmera transporta uma **representação** do mundo, enquanto o vaso transporta uma **condição material** do mundo.
 
 Uma fotografia de floresta continua sendo imagem, mas uma planta num vaso continua metabolicamente viva. Isso faz do vaso uma espécie de enquadramento vivo. A moldura delimita aquilo que merece ser visto; a câmera delimita aquilo que merece ser registrado; o vaso delimita aquilo que precisa continuar sendo cuidado. O parentesco entre esses artefatos não está na forma, mas na operação de recortar uma parte de um campo contínuo e transformá-la numa unidade manejável.
 
@@ -67,7 +67,7 @@ Essa troca aparece em muitos produtos portáteis. Quando o design remove um recu
 | **Período** | Antiguidade; desenvolvimento distribuído em diferentes culturas, sem inventor único |
 | **Autoria** | Invenção coletiva e gradual ligada à cerâmica, horticultura, jardinagem e domesticação de plantas |
 | **Produto ou contexto** | Recipientes de cultivo, jardins, pátios, interiores, estufas, viveiros e horticultura urbana |
-| **Tipo(s) de design** | Design de produto, design de interiores, paisagismo e sistemas de cultivo |
+| **Tipo(s) de design** | [[00 tipos de design/Design de Produto|Design de Produto]], design de interiores, paisagismo e sistemas de cultivo |
 | **Empresas ou instituições relacionadas** | Nenhuma organização é materialmente necessária para explicar a origem do artefato |
 | **Problema original** | Cultivar e deslocar plantas independentemente do solo contínuo onde poderiam crescer |
 | **Mundo antes** | A planta dependia mais diretamente do lugar, do solo e das condições ambientais disponíveis naquele ponto |
@@ -85,7 +85,7 @@ Essa troca aparece em muitos produtos portáteis. Quando o design remove um recu
 | **Variáveis relacionadas** | volume de substrato, drenagem, umidade, luz, mobilidade, crescimento radicular e frequência de manutenção |
 | **Genealogia** | recipiente → recipiente de cultivo → vaso com drenagem → vaso ornamental → sistemas especializados de cultivo |
 | **Percurso(s)** | Portabilidade; microambientes; domesticação; artefatos de cuidado |
-| **Parentes** | aquário, terrário, estufa, incubadora, garrafa, moldura, pedestal, câmera fotográfica, Tamagotchi |
+| **Parentes** | aquário, terrário, estufa, incubadora, garrafa, moldura, pedestal, [[03 artefatos/Camera Fotografica|câmera fotográfica]], Tamagotchi, [[03 artefatos/Tapete|tapete]] |
 | **Leituras-chave** | A desenvolver no índice bibliográfico |
 | **Princípio de design revelado** | Um artefato pode tornar portátil não apenas uma coisa, mas parte das condições necessárias para que essa coisa continue existindo |
 | **Questão em aberto** | Quanto mais um ambiente é miniaturizado e controlado, mais manutenção precisa ser transferida para quem o controla? |
