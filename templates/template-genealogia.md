@@ -11,6 +11,8 @@ tags:
 
 [Abra pela pergunta que aproxima artefatos aparentemente diferentes. Mostre por que vale compará-los e qual comportamento, custo, fronteira, responsabilidade ou relação eles parecem reorganizar.]
 
+[Desenvolva a genealogia em poucos movimentos amplos. Cada heading deve marcar uma mudança real da comparação e normalmente reunir vários parágrafos. Evite microseções, parágrafos curtos em série e antíteses formulaicas do tipo `não é X, é Y` usadas apenas para produzir efeito; formule a tese diretamente e explique as diferenças.]
+
 [Quando houver base histórica, trate a genealogia também no sentido inspirado por [[autores/Michel Foucault|Michel Foucault]]: procure emergência, contingência, disputa, descontinuidade, condições de possibilidade e processos de naturalização, em vez de buscar uma origem pura ou narrar progresso inevitável. Se a relação for apenas funcional, semiótica, comportamental, institucional ou comparativa, diga isso explicitamente.]
 
 ## [Título editorial para o mecanismo recorrente]
