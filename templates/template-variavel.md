@@ -14,6 +14,8 @@ tags:
 
 [Defina a variável como algo que pode aumentar, diminuir ou ser redistribuído por decisões de design. Se não houver um eixo observável razoável, considere mover a ideia para `01 conceitos/`.]
 
+[Organize a explicação em poucos blocos argumentativos desenvolvidos. Um heading deve sustentar mais de uma observação e normalmente conter vários parágrafos; evite microseções e parágrafos curtos em série. Evite a antítese automática `não é X, é Y` como recurso de estilo. Quando dois polos ou conceitos precisarem ser distinguidos, explique a diferença de forma específica.]
+
 ## [Título editorial: o que realmente muda]
 
 Explique os polos do eixo em narrativa. Evite tratar um deles como universalmente desejável.
