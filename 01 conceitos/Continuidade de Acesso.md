@@ -27,7 +27,7 @@ O [[03 artefatos/Favorito Bookmark|Favorito / bookmark]] oferece um caso diferen
 
 A genealogia [[04 genealogias/Acesso e Disponibilidade|Acesso e disponibilidade]] amplia essa comparação. O interesse não está em dizer que uma garrafa “é como um aplicativo” ou um bookmark, mas em observar uma operação recorrente: **infraestruturas fixas podem ser parcialmente transformadas em disponibilidade portátil, referenciável ou contínua**.
 
-A genealogia [[04 genealogias/Portabilidade e Desancoragem|Portabilidade e desancoragem]] permite fazer uma distinção adicional. Continuidade de acesso é o efeito mais amplo: diminuir interrupções entre pessoa e recurso. Portabilidade é apenas uma das estratégias possíveis para produzi-lo.
+A genealogia [[04 genealogias/Portabilidade e Desancoragem|Portabilidade e desancoragem]] permite fazer uma distinção adicional. Continuidade de acesso é o efeito mais amplo: diminuir interrupções entre pessoa e recurso. Portabilidade é apenas uma das estratégias possíveis para produzi-lo. [[01 conceitos/Portabilizacao de contexto|Portabilização de contexto]] nomeia um caso mais específico dessa estratégia: quando o design não apenas move o recurso, mas recorta, encapsula ou reconstrói parte das condições que antes o prendiam a um lugar. A garrafa leva a água consigo; o [[03 artefatos/Vaso de Plantas|vaso de plantas]] leva consigo uma pequena infraestrutura de cultivo.
 
 ## Continuidade não significa permanência
 
@@ -84,7 +84,7 @@ Continuidade de acesso não deve virar elogio automático ao “sempre disponív
 | **O que ajuda a explicar** | Como artefatos reduzem interrupções espaciais, temporais ou operacionais entre intenção e recurso |
 | **O que não explica sozinho** | Qualidade do recurso, justiça de acesso ou conveniência de disponibilidade permanente |
 | **Artefatos-chave** | [[03 artefatos/Garrafa de Agua|Garrafa de água]], [[03 artefatos/Archive|Archive]], [[03 artefatos/Favorito Bookmark|Favorito / bookmark]], [[03 artefatos/Infinite Scroll|Infinite Scroll]] |
-| **Conceitos relacionados** | [[01 conceitos/Promessa|Promessa]], [[01 conceitos/Genealogia de Futuros|Genealogia de Futuros]] |
+| **Conceitos relacionados** | [[01 conceitos/Portabilizacao de contexto|Portabilização de contexto]], [[01 conceitos/Promessa|Promessa]], [[01 conceitos/Genealogia de Futuros|Genealogia de Futuros]] |
 | **Variáveis relacionadas** | [[02 variaveis/Expectativa de Disponibilidade|Expectativa de disponibilidade]], [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Permanencia|Permanência]] |
 | **Genealogias relacionadas** | [[04 genealogias/Acesso e Disponibilidade|Acesso e disponibilidade]], [[04 genealogias/Portabilidade e Desancoragem|Portabilidade e desancoragem]] |
 
