@@ -29,7 +29,7 @@ A luminária diz: **olhe aqui**.
 
 A câmera acrescenta: **isto merece permanecer**.
 
-Ela recorta uma parte de um campo contínuo e a transforma numa unidade transportável. Nesse sentido, também é parente do vaso: o vaso recorta e transporta uma pequena condição de natureza; a câmera recorta e transporta uma pequena condição visual do mundo.
+Ela recorta uma parte de um campo contínuo e a transforma numa unidade transportável. Nesse sentido, também é parente do [[03 artefatos/Vaso de Plantas|vaso de plantas]]: o vaso recorta e transporta uma pequena condição de natureza; a câmera recorta e transporta uma pequena condição visual do mundo. Os dois ajudam a explicitar [[01 conceitos/Portabilizacao de contexto|portabilização de contexto]], porque permitem que algo antes dependente de um lugar circule como unidade relativamente autônoma.
 
 O enquadramento produz figura e fundo. Tudo que entra na fotografia ganha possibilidade de permanência. Tudo que permanece fora dela desaparece daquele registro.
 
@@ -98,11 +98,11 @@ A câmera, assim, não apenas oferece memória externa. Ela introduz no presente
 | **Relação de poder** | Fotografar significa também selecionar, classificar e enquadrar; controle do registro, da legenda e do arquivo produz autoridade sobre a narrativa |
 | **Consequências inesperadas** | Vigilância, cultura da selfie, turismo orientado à imagem, manipulação fotográfica e tendência a tratar vestígios visuais como se contivessem o acontecimento inteiro Registros adicionais preservados da ficha anterior: autores relacionados: [[autores/Paul Ricoeur|Paul Ricoeur]]: vestígio, representação do passado, mesmidade e ipseidade |
 | **Destino ou transformação posterior** | Câmera digital, smartphone, fotografia computacional, câmeras conectadas e sistemas de visão computacional |
-| **Conceitos relacionados** | enquadramento, focalização, [[01 conceitos/Memoria Distribuida|memória distribuída]], prova, representação, atenção, figura e fundo, documentação e mediação |
+| **Conceitos relacionados** | [[01 conceitos/Portabilizacao de contexto|Portabilização de contexto]], enquadramento, focalização, [[01 conceitos/Memoria Distribuida|memória distribuída]], prova, representação, atenção, figura e fundo, documentação e mediação |
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], custo de captura, tempo de exposição, portabilidade, quantidade de registros e campo visual |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]]; história técnica: câmera obscura → processos fotossensíveis → fotografia em placa → filme → câmera portátil → digital → smartphone |
 | **Percurso(s)** | Candidata ao percurso futuro `Do reflexo ao perfil` |
-| **Parentes** | [[03 artefatos/Luminaria|Luminária]], moldura, cursor, Post-it, projetor, [[03 artefatos/Espelho|Espelho]], scanner e câmera de vídeo |
+| **Parentes** | [[03 artefatos/Luminaria|Luminária]], [[03 artefatos/Vaso de Plantas|Vaso de plantas]], moldura, cursor, Post-it, projetor, [[03 artefatos/Espelho|Espelho]], scanner e câmera de vídeo |
 | **Leituras-chave** | [[00 índices/Livros Indicados|Memory, History, Forgetting]], [[00 índices/Livros Indicados|Oneself as Another]] |
 | **Princípio de design revelado** | Registrar é selecionar e estabilizar um vestígio; permanência aumenta a capacidade de lembrar e provar, mas não elimina a necessidade de contexto e interpretação |
 | **Questão em aberto** | O que acontece com a memória quando registrar praticamente tudo custa menos do que escolher o que merece ser lembrado? |
