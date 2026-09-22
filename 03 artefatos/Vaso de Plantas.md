@@ -45,7 +45,7 @@ O artefato, portanto, não torna apenas a planta portátil. Ele torna possível 
 
 A relação com a garrafa é particularmente forte. A garrafa separa uma quantidade de água de uma fonte maior e permite que ela acompanhe o corpo; o vaso separa uma quantidade de ambiente terrestre do solo contínuo e permite que uma planta acompanhe a arquitetura humana. Nos dois casos, o design reduz a dependência de um lugar específico ao recortar e transportar algo que antes fazia parte de uma infraestrutura maior.
 
-Essa operação aparece repetidamente na história dos artefatos: a garrafa torna água portátil; o vaso torna um microambiente portátil; a [[03 artefatos/Camera Fotografica|câmera fotográfica]] torna uma cena portátil; o livro torna discurso e memória portáteis; o celular torna comunicação e relações acessíveis fora de lugares fixos. O padrão sugere um conceito maior, que podemos chamar de **portabilização de contexto**. Portabilidade, nesse sentido, não significa apenas diminuir um objeto para carregá-lo, mas reconstruir em pequena escala as condições que antes obrigavam uma atividade, organismo ou recurso a permanecer em determinado lugar.
+Essa operação aparece repetidamente na história dos artefatos: a garrafa torna água portátil; o vaso torna um microambiente portátil; a [[03 artefatos/Camera Fotografica|câmera fotográfica]] torna uma cena portátil; o livro torna discurso e memória portáteis; o celular torna comunicação e relações acessíveis fora de lugares fixos. O padrão sugere um conceito maior, que podemos chamar de [[01 conceitos/Portabilizacao de contexto|**portabilização de contexto**]]. Portabilidade, nesse sentido, não significa apenas diminuir um objeto para carregá-lo, mas reconstruir em pequena escala as condições que antes obrigavam uma atividade, organismo ou recurso a permanecer em determinado lugar.
 
 ## Parente da câmera
 
@@ -81,7 +81,7 @@ Essa troca aparece em muitos produtos portáteis. Quando o design remove um recu
 | **Relação de poder** | O humano passa a controlar localização, água, nutrientes, reprodução e condições de existência da planta |
 | **Consequências inesperadas** | Dependência de manutenção, transformação de plantas em mercadorias e objetos decorativos, circulação de espécies e novas relações afetivas com plantas |
 | **Destino ou transformação posterior** | Vasos autoirrigáveis, cultivo hidropônico, jardins verticais, sistemas inteligentes de cultivo e horticultura indoor |
-| **Conceitos relacionados** | microambiente, domesticação, cuidado, portabilidade, enquadramento, controle ambiental, infraestrutura e manutenção |
+| **Conceitos relacionados** | [[01 conceitos/Portabilizacao de contexto|Portabilização de contexto]], microambiente, domesticação, cuidado, portabilidade, enquadramento, controle ambiental, infraestrutura e manutenção |
 | **Variáveis relacionadas** | volume de substrato, drenagem, umidade, luz, mobilidade, crescimento radicular e frequência de manutenção |
 | **Genealogia** | recipiente → recipiente de cultivo → vaso com drenagem → vaso ornamental → sistemas especializados de cultivo |
 | **Percurso(s)** | Portabilidade; microambientes; domesticação; artefatos de cuidado |
@@ -92,4 +92,4 @@ Essa troca aparece em muitos produtos portáteis. Quando o design remove um recu
 
 ## Princípio para a rede
 
-**Portabilização de contexto** é a operação de design pela qual um artefato reconstrói em pequena escala condições antes vinculadas a um lugar, permitindo que um recurso, organismo ou atividade se desloque. O vaso é um caso especialmente claro porque torna visível o preço dessa operação: **autonomia espacial costuma produzir dependência de manutenção**.
+[[01 conceitos/Portabilizacao de contexto|**Portabilização de contexto**]] é a operação de design pela qual um artefato reconstrói em pequena escala condições antes vinculadas a um lugar, permitindo que um recurso, organismo ou atividade se desloque. O vaso é um caso especialmente claro porque torna visível o preço dessa operação: **autonomia espacial costuma produzir dependência de manutenção**.
