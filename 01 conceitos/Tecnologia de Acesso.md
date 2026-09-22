@@ -43,6 +43,8 @@ Por isso, tecnologias de acesso podem atuar sobre dimensões diferentes:
 
 Essa taxonomia é uma ferramenta do projeto, não uma classificação universal.
 
+Na dimensão espacial, [[01 conceitos/Portabilizacao de contexto|Portabilização de contexto]] descreve uma estratégia específica: em vez de apenas aproximar a pessoa de um recurso, o artefato recorta, encapsula ou reconstrói parte das condições que permitiam ao recurso existir em outro lugar. O [[03 artefatos/Vaso de Plantas|vaso de plantas]], por exemplo, não apenas aproxima uma planta; ele leva consigo parte da infraestrutura de cultivo necessária para que ela possa existir fora do solo contínuo.
+
 Ela ajuda a perceber por que [[01 conceitos/Continuidade de Acesso|Continuidade de acesso]], [[01 conceitos/Distribuicao de Escassez|Distribuição de escassez]] e [[01 conceitos/Tecnologias de Delimitacao|Tecnologias de delimitação]] são parentes, mas não equivalentes. Uma trata da persistência da disponibilidade; outra, de prioridade sob escassez; a terceira, das fronteiras que separam contextos e permissões.
 
 ## Facilitar acesso também pode criar nova demanda
@@ -89,7 +91,8 @@ A pequena decisão de reduzir uma distância pode, quando padronizada, criar uma
 | **Distinção central** | Produzir um recurso não é o mesmo que reorganizar a possibilidade de alcançá-lo |
 | **O que ajuda a explicar** | Artefatos que alteram distância espacial, temporal, informacional, institucional ou distributiva em relação a recursos |
 | **O que não explica sozinho** | Toda a operação econômica ou social de plataformas e serviços que também reorganizam acesso |
-| **Artefatos-chave** | [[03 artefatos/Controle Remoto|Controle remoto]], [[03 artefatos/Fila|Fila]], [[03 artefatos/Archive|Archive]], [[03 artefatos/Cartao de Embarque|Cartão de embarque]] |
+| **Artefatos-chave** | [[03 artefatos/Controle Remoto|Controle remoto]], [[03 artefatos/Fila|Fila]], [[03 artefatos/Archive|Archive]], [[03 artefatos/Cartao de Embarque|Cartão de embarque]], [[03 artefatos/Vaso de Plantas|Vaso de plantas]] |
+| **Conceitos relacionados** | [[01 conceitos/Continuidade de Acesso|Continuidade de acesso]], [[01 conceitos/Portabilizacao de contexto|Portabilização de contexto]], [[01 conceitos/Distribuicao de Escassez|Distribuição de escassez]], [[01 conceitos/Tecnologias de Delimitacao|Tecnologias de delimitação]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Justica|Justiça]], [[02 variaveis/Expectativa de Disponibilidade|Expectativa de disponibilidade]] |
 | **Genealogias relacionadas** | [[04 genealogias/Acesso e Disponibilidade|Acesso e disponibilidade]] |
 
