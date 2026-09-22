@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-11T10:15:33.418Z",
+  "generatedAt": "2026-09-22T10:43:39.364Z",
   "rule": "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
   "typeDesignRule": "Tipos de design devem funcionar como ensaios disciplinares. Headings do template atual são permitidos; permanecem suspeitos apenas headings enciclopédicos legados.",
   "pathRule": "Percursos devem funcionar como argumentos de leitura e não usar sequência numerada de resumos de artefatos.",
   "artifactSheetRule": "Cada artefato deve conter uma única Ficha arqueológica em tabela Campo/Registro com os 26 campos definidos no template atual.",
-  "candidateCount": 40,
-  "fileCount": 31,
+  "candidateCount": 41,
+  "fileCount": 32,
   "files": [
     {
       "sourcePath": "00 índices/Indice de Autores.md",
@@ -361,6 +361,16 @@
           "sourcePath": "03 artefatos/Value Proposition Ad Lib.md",
           "kind": "frontmatter-title",
           "text": "Value Proposition Ad Lib"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Vaso de Plantas.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Vaso de Plantas.md",
+          "kind": "frontmatter-title",
+          "text": "Vaso de Plantas"
         }
       ]
     },

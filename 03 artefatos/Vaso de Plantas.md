@@ -164,13 +164,14 @@ Portabilidade cria autonomia em relação ao lugar e dependência em relação �
 Essa talvez seja a principal descoberta arqueológica do vaso.
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Vaso de plantas |
 | **Período** | Antiguidade; desenvolvimento distribuído em diferentes culturas, sem inventor único |
 | **Autoria** | Invenção coletiva e gradual ligada à cerâmica, horticultura, jardinagem e domesticação de plantas |
 | **Produto ou contexto** | Recipientes de cultivo, jardins, pátios, interiores, estufas, viveiros e horticultura urbana |
+| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
 | **Problema original** | Cultivar e deslocar plantas independentemente do solo contínuo onde poderiam crescer |
 | **Mundo antes** | A planta dependia mais diretamente do lugar, do solo e das condições ambientais disponíveis naquele ponto |
 | **Invenção** | Conter uma porção de substrato e raízes num recipiente deslocável |
@@ -186,7 +187,9 @@ Essa talvez seja a principal descoberta arqueológica do vaso.
 | **Conceitos relacionados** | microambiente, domesticação, cuidado, portabilidade, enquadramento, controle ambiental, infraestrutura e manutenção |
 | **Variáveis relacionadas** | volume de substrato, drenagem, umidade, luz, mobilidade, crescimento radicular e frequência de manutenção |
 | **Genealogia** | recipiente → recipiente de cultivo → vaso com drenagem → vaso ornamental → sistemas especializados de cultivo |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | aquário, terrário, estufa, incubadora, garrafa, moldura, pedestal, câmera fotográfica, Tamagotchi |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Um artefato pode tornar portátil não apenas uma coisa, mas parte das condições necessárias para que essa coisa continue existindo |
 | **Questão em aberto** | Quanto mais um ambiente é miniaturizado e controlado, mais manutenção precisa ser transferida para quem o controla? |
 
