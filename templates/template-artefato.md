@@ -11,7 +11,9 @@ tags:
 
 [Abra com uma cena, tensão, gesto ou problema concreto. O primeiro movimento deve criar uma pergunta, não apresentar uma ficha ou definição enciclopédica.]
 
-[Desenvolva o estudo como uma investigação contínua. Use de três a cinco seções editoriais com títulos próprios em sentence case. Os títulos devem avançar o argumento, não nomear campos metodológicos. Evite transformar “problema”, “hipótese”, “poder”, “legado”, “invenção”, “refinamento”, “popularização” e “padronização” em subtítulos automáticos.]
+[Desenvolva o estudo como uma investigação contínua em poucos movimentos amplos. Três a cinco seções podem servir como referência, sem virar meta mecânica. Cada seção deve normalmente conter vários parágrafos desenvolvidos e sustentar uma mudança real do argumento. Evite microseções, headings para cada observação e sequências de parágrafos de uma ou duas frases. Os títulos devem avançar o argumento, não nomear campos metodológicos. Evite transformar “problema”, “hipótese”, “poder”, “legado”, “invenção”, “refinamento”, “popularização” e “padronização” em subtítulos automáticos.]
+
+[Escreva a tese de cada passagem diretamente. Evite moldes retóricos como `não é X, é Y`, `não se trata de X, mas de Y`, `menos X e mais Y` ou `não apenas X, mas Y` quando servirem apenas para criar efeito. Contrastes conceituais necessários continuam válidos, desde que sejam específicos e explicados.]
 
 ## [Título editorial que revela a primeira mudança]
 
