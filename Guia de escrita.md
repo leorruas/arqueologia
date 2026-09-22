@@ -44,9 +44,25 @@ A abertura deve começar por um problema, uma cena, um conflito, um gesto ou uma
 
 A estrutura metodológica orienta a pesquisa, mas não precisa aparecer como estrutura visível do texto. Problema, mundo anterior, invenção, refinamento, popularização, padronização, hipótese sobre comportamento, poder, impacto e legado são dimensões a investigar. Elas não são headings obrigatórios.
 
-Em artefatos, preferir de três a cinco seções editoriais com títulos próprios que avancem o argumento. Um heading deve marcar uma mudança real de raciocínio. Evitar microseções como `Problema`, `Hipótese`, `Poder`, `Legado` ou quatro seções separadas para invenção, refinamento, popularização e padronização quando essas distinções puderem ser explicadas naturalmente em prosa.
+Em artefatos, preferir poucos movimentos editoriais com títulos próprios que avancem o argumento. Três a cinco seções continuam sendo uma referência útil para muitos estudos, mas não uma meta mecânica. Um heading deve marcar uma mudança real de raciocínio e normalmente conter vários parágrafos desenvolvidos. Evitar microseções como `Problema`, `Hipótese`, `Poder`, `Legado` ou quatro seções separadas para invenção, refinamento, popularização e padronização quando essas distinções puderem ser explicadas naturalmente em prosa.
+
+### Ritmo de parágrafos e seções
+
+O texto deve avançar por blocos argumentativos suficientemente longos para que uma ideia ganhe contexto, evidência, interpretação e consequência antes da próxima quebra. Parágrafo não é unidade de efeito visual: é unidade de desenvolvimento. Evitar a cadência típica de textos gerados por LLM em que quase toda frase recebe um parágrafo próprio ou em que uma seção termina depois de uma única observação.
+
+Parágrafos de uma ou duas frases são permitidos quando cumprem uma função deliberada de transição, contraste, suspensão ou ênfase. Eles devem ser exceção perceptível, não o ritmo dominante. Quando dois ou três parágrafos curtos tratam do mesmo movimento lógico, preferir fundi-los e desenvolver a relação entre as ideias.
+
+Seções devem operar como fases maiores da investigação. Antes de criar um novo heading, verificar se houve realmente mudança de problema, período, mecanismo, escala ou tese. Se a ideia apenas aprofunda, exemplifica ou tensiona o que veio antes, ela provavelmente pertence à mesma seção.
 
 Listas são adequadas para comparação, sequência, inventário, ficha, etapas ou consulta rápida. Quando uma sequência de tópicos puder ser transformada em argumento contínuo sem perda de clareza, preferir parágrafos.
+
+### Evitar antítese automática
+
+Evitar como recurso estilístico recorrente as fórmulas `não é X, é Y`, `não se trata de X, mas de Y`, `menos X e mais Y`, `não apenas X, mas Y`, `o ponto não é X; é Y` e variações semelhantes. Esse molde costuma produzir uma falsa sensação de descoberta, fragmenta o raciocínio e faz textos diferentes adquirirem a mesma voz.
+
+A preferência editorial é formular a tese diretamente e depois explicar a distinção, o deslocamento ou a ressalva em prosa. Em vez de construir uma oposição para dar impacto à frase, mostrar qual propriedade muda, por que muda e que consequência isso produz.
+
+A regra não proíbe negações nem contrastes necessários. Distinções como `persistência não é lembrança` ou `autenticação não é identidade` continuam válidas quando duas operações realmente precisam ser separadas. O que deve desaparecer é o molde retórico automático usado onde uma afirmação positiva seria mais precisa.
 
 ## Afirmação e incerteza
 
