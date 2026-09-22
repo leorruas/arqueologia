@@ -239,7 +239,7 @@ Escave uma decisão específica. Levante hipóteses, compare alternativas e proc
 
 ## Estrutura sugerida para artefatos
 
-A estrutura pode variar para preservar a narrativa, mas normalmente deve conter:
+A estrutura pode variar para preservar a narrativa, mas normalmente deve conter os movimentos investigativos abaixo. Eles orientam a pesquisa e não devem ser convertidos automaticamente em onze headings. O texto final deve reuni-los em poucas fases narrativas amplas, combinando dimensões quando pertencem ao mesmo movimento do argumento:
 
 1. abertura pelo problema ou por uma cena concreta;
 2. mundo antes da solução;
@@ -255,7 +255,13 @@ A estrutura pode variar para preservar a narrativa, mas normalmente deve conter:
 
 ## Regras de escrita
 
-A escrita deve ser formal, clara e investigativa. Parágrafos completos são a unidade principal. Listas entram quando ajudam a comparar, sequenciar ou consultar informação, sem substituir a narrativa por fragmentos.
+A escrita deve ser formal, clara e investigativa. Parágrafos completos e desenvolvidos são a unidade principal. Um parágrafo deve sustentar uma ideia por tempo suficiente para contextualizá-la, explicá-la, testá-la ou mostrar sua consequência. Evite sequências em que quase toda frase recebe uma quebra própria.
+
+Seções funcionam como fases maiores da investigação. Um heading deve marcar uma mudança real de problema, período, mecanismo, escala ou tese e, em textos narrativos, normalmente deve abrigar vários parágrafos. Não criar um novo subtítulo apenas porque apareceu um exemplo, uma ressalva ou uma nova frase de efeito. Parágrafos muito curtos podem ser usados deliberadamente para transição ou ênfase, mas não devem formar a cadência dominante.
+
+Listas entram quando ajudam a comparar, sequenciar ou consultar informação, sem substituir a narrativa por fragmentos.
+
+Evite a antítese automática como vício de redação: `não é X, é Y`, `não se trata de X, mas de Y`, `menos X e mais Y`, `não apenas X, mas Y`, `o ponto não é X; é Y` e variações semelhantes. Prefira formular a tese afirmativamente e desenvolver a diferença em prosa. Contrastes continuam apropriados quando separam operações realmente distintas, corrigem uma equivalência enganosa ou são materialmente necessários ao argumento; nesses casos, a oposição deve ser específica, explicada e não repetida como molde estilístico.
 
 No português do Brasil, títulos editoriais, headings, rótulos, tabs e nomes genéricos de seção usam sentence case. Isso significa usar maiúscula no início e onde a ortografia exigir, preservando nomes próprios, siglas e grafias oficiais.
 
