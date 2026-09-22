@@ -11,7 +11,7 @@ tags:
 
 [Abra com um problema que esta área aprendeu a tornar projetável. Não comece por uma definição escolar da disciplina. Mostre uma situação concreta em que alguma relação — linguagem, objeto, interface, serviço, sistema probabilístico etc. — precisava ganhar forma para poder ser manipulada deliberadamente.]
 
-[Desenvolva como ensaio disciplinar em três a cinco seções editoriais. Os títulos devem avançar a ideia; não use `Origens e surgimento`, `Evolução e desenvolvimento`, `Pioneiros`, `Autores de destaque`, `Empresas e estúdios` ou equivalentes como estrutura automática.]
+[Desenvolva como ensaio disciplinar em poucos movimentos editoriais amplos; três a cinco seções costumam bastar, sem serem uma meta rígida. Cada seção deve normalmente desenvolver vários parágrafos e uma transformação real da tese. Os títulos devem avançar a ideia; não use `Origens e surgimento`, `Evolução e desenvolvimento`, `Pioneiros`, `Autores de destaque`, `Empresas e estúdios` ou equivalentes como estrutura automática. Evite microseções e a antítese formulaica `não é X, é Y` quando ela funcionar apenas como efeito de estilo.]
 
 ## [Título sobre o problema que ganhou forma]
 
