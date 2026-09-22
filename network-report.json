@@ -1,11 +1,10 @@
 {
-  "generatedAt": "2026-09-22T11:34:44.115Z",
+  "generatedAt": "2026-09-22T11:35:13.560Z",
   "scope": "Integração do grafo: títulos duplicados dentro da mesma camada, índices, home, reciprocidade estrutural, tipos de design e nós órfãos. Conceitos e variáveis não exigem backlink exaustivo.",
-  "issueCount": 14,
+  "issueCount": 13,
   "countsByKind": {
     "missing-from-index": 3,
     "missing-reciprocal-link": 8,
-    "orphan-node": 1,
     "design-type-drift": 2
   },
   "issues": [
@@ -74,12 +73,6 @@
       "sourcePath": "03 artefatos/Vaso de Plantas.md",
       "targetPath": "00 tipos de design/Design de Produto.md",
       "detail": "A ficha liga para 00 tipos de design/Design de Produto.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "orphan-node",
-      "sourcePath": "01 conceitos/Portabilizacao de contexto.md",
-      "targetPath": null,
-      "detail": "Nota sem links de entrada a partir do acervo auditado."
     },
     {
       "kind": "design-type-drift",
