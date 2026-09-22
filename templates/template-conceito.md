@@ -15,6 +15,8 @@ tags:
 
 [Explique a procedência em prosa: autor, tradição ou disciplina associada; quando a formulação apareceu; como foi refinada; e se o termo usado no projeto é literatura consolidada, adaptação ou hipótese própria. Não transforme procedência numa ficha no meio do texto.]
 
+[Prefira poucos movimentos amplos, com vários parágrafos por seção quando o argumento exigir. Evite fragmentar uma distinção em sucessivos parágrafos de uma ou duas frases. Evite também a fórmula retórica `não é X, é Y` quando ela apenas dramatiza a definição; contraste conceitos diretamente quando a distinção for material.]
+
 ## [Heading editorial que avance o argumento]
 
 [Mostre o mecanismo que o conceito torna visível em artefatos concretos. Integre exemplos ao raciocínio. Use wikilinks apenas para notas existentes.]
