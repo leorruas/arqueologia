@@ -57,6 +57,8 @@ leitura: "mandatória: ler antes de qualquer operação no vault"
 30. **Propagação de governança**: uma mudança de modelo editorial, schema, regra de escrita ou função de uma camada não termina no arquivo em que foi proposta. Antes de concluir, verifique e atualize, quando afetados, `me.md`, `Instrucoes de Arqueologia.md`, `Guia de escrita.md`, templates correspondentes, scripts de auditoria, `README.md`, `index.md` e `00 índices/Sobre o projeto.md`. A documentação pública, os modelos de criação e os testes automáticos devem descrever o mesmo sistema editorial.
 31. **Pistas como memória acumulativa**: `Pistas de pesquisa.md` preserva perguntas, artefatos, relações e hipóteses que ainda não justificam nota própria. Uma pista registrada não deve desaparecer por regeneração automática, limpeza de links ou ausência temporária de referência no grafo. Ela só sai do backlog por decisão explícita: promoção a estudo, fusão com outra pista ou descarte justificado. Automação pode acrescentar pistas detectadas, mas nunca substituir silenciosamente o conteúdo curado.
 32. **Genealogia e contingência**: quando uma genealogia fizer afirmações históricas sobre emergência, formação ou naturalização de práticas, usar explicitamente a inspiração de [[autores/Michel Foucault|Michel Foucault]]: evitar origem pura, causalidade linear e progresso inevitável; procurar contingências, disputas, descontinuidades e condições de possibilidade. Genealogias funcionais, semióticas, comportamentais, institucionais ou comparativas continuam válidas, mas devem ser nomeadas como parentescos analíticos quando não houver evidência de linhagem histórica.
+33. **Movimentos argumentativos amplos**: parágrafos são unidades de desenvolvimento, não frases isoladas com quebra visual. Cada seção deve sustentar um movimento inteiro do argumento e, em textos narrativos, normalmente reunir vários parágrafos desenvolvidos. Evitar microseções, headings para cada ideia e sequências recorrentes de parágrafos de uma ou duas frases. Quebras curtas podem existir quando tiverem função deliberada de ritmo, transição ou ênfase.
+34. **Sem antítese automática**: evitar como vício retórico as fórmulas `não é X, é Y`, `não se trata de X, mas de Y`, `menos X e mais Y`, `não apenas X, mas Y` e equivalentes. Formular primeiro a tese afirmativa e explicar a diferença em prosa. O contraste permanece permitido quando houver uma distinção conceitual material, uma equivalência enganosa a corrigir ou uma oposição historicamente relevante; nesse caso, deve ser específico e argumentado.
 
 ## Regras editoriais
 
@@ -76,7 +78,10 @@ Os nomes de arquivo são identificadores e podem permanecer estáveis mesmo quan
 ### Estrutura da escrita
 
 - Abrir estudos com problema, cena, conflito ou pergunta concreta, antes da ficha.
-- Preferir parágrafos completos a sequências de tópicos fragmentados.
+- Preferir parágrafos completos e desenvolvidos a sequências de fragmentos. Um parágrafo deve carregar uma ideia até que ela esteja suficientemente contextualizada, explicada ou tensionada.
+- Organizar textos narrativos em poucos movimentos amplos. Um heading deve marcar uma mudança real de argumento e normalmente abrir espaço para vários parágrafos, não para uma única observação.
+- Evitar a cadência automática de parágrafos muito curtos. Usar uma ou duas frases apenas quando houver uma função clara de ritmo, transição ou ênfase.
+- Evitar construções retóricas formulaicas do tipo `não é X, é Y` e variantes. Preferir afirmações diretas seguidas de explicação; preservar oposições apenas quando forem conceitualmente necessárias.
 - Evitar repetir na narrativa o que já está resumido na ficha.
 - Separar explicitamente fato documentado, interpretação e hipótese quando houver risco de confusão.
 - Tratar citações, datas, autoria e origem de padrões como pontos a verificar, não como preenchimento automático.
@@ -140,4 +145,4 @@ Usar `status` quando fizer sentido:
 
 ---
 
-*Última atualização: 2026-09-10*
+*Última atualização: 2026-09-22*
