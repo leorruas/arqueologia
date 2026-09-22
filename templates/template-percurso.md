@@ -11,7 +11,9 @@ tags:
 
 [Abra com uma pergunta que só ganha força quando vários estudos são lidos em sequência. Explique se a ordem é editorial, histórica ou apenas comparativa. Não transforme proximidade conceitual em descendência sem evidência.]
 
-[O percurso deve funcionar como capítulo, não como playlist de links. Evite headings do tipo `1. Artefato`, `2. Artefato`. A unidade visível é a transformação de ideia entre casos.]
+[O percurso deve funcionar como capítulo, não como playlist de links. Evite headings do tipo `1. Artefato`, `2. Artefato`. A unidade visível é a transformação de ideia entre casos. Cada movimento deve ser desenvolvido em vários parágrafos sempre que houver material; não quebre a leitura em microfases para acomodar cada observação.]
+
+[Evite como cadência retórica `não é X, é Y`, `não se trata de X, mas de Y` e variações equivalentes. Diga diretamente o que mudou entre os casos e desenvolva a relação em prosa. Use contraste explícito apenas quando a oposição for conceitualmente necessária.]
 
 ## [Título do primeiro movimento]
 
