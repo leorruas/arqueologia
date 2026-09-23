@@ -260,6 +260,64 @@ Este inventário sugere que objetos formalmente parecidos podem sustentar contin
 
 A hipótese de **Arquiteturas de continuidade** só será útil se conseguir relacionar esses campos **sem colapsá-los numa explicação única**.
 
+### 8. Sistemas de recomendação: exploration, exploitation e descoberta
+
+A literatura de sistemas de recomendação fornece uma base mais específica para a ideia de **continuidade preditiva**. Um sistema personalizado não precisa apenas reduzir o custo de chegar ao próximo item; ele precisa decidir o que mostrar quando ainda existe incerteza sobre as preferências da pessoa.
+
+Um enquadramento clássico é o dilema **exploration–exploitation**. *Exploitation* privilegia opções que, com base nos dados disponíveis, já parecem promissoras. *Exploration* apresenta opções mais incertas para produzir informação sobre interesses ainda pouco conhecidos. Métodos de *multi-armed bandits* formalizam versões desse problema e são aplicados a sistemas de recomendação.
+
+Para Arquiteturas de continuidade, isso produz uma pergunta mais precisa:
+
+> **quanto da continuidade o sistema está disposto a arriscar para descobrir algo novo sobre o usuário?**
+
+A continuidade preditiva contém, portanto, um paradoxo: **para continuar acertando no futuro, o sistema precisa explorar; mas toda exploração arrisca interromper a continuidade que ele procura sustentar no presente.**
+
+### 9. Beyond accuracy: diversidade, novidade e serendipidade
+
+A literatura de recomendação também questiona a ideia de que uma boa recomendação possa ser medida apenas pela precisão com que prevê preferência. Trabalhos sobre métricas *beyond accuracy* discutem propriedades como **diversidade, novidade, cobertura e serendipidade**.
+
+Essa distinção é importante porque “personalização” pode esconder objetivos diferentes. Um sistema pode tentar maximizar probabilidade de consumo, apresentar itens diversos, revelar conteúdos desconhecidos ou produzir encontros simultaneamente relevantes e inesperados.
+
+Uma recomendação pode ser:
+
+**relevante + previsível:** algo muito próximo do que a pessoa já costuma consumir;
+
+**relevante + inesperada:** algo que a pessoa dificilmente procuraria, mas que ainda assim considera valioso.
+
+O segundo caso torna a **serendipidade** especialmente importante para a Arqueologia do Design. Um sistema excessivamente conservador pode sustentar relevância imediata sacrificando encontros improváveis. Um sistema excessivamente exploratório pode ampliar novidade sacrificando relevância percebida.
+
+Por isso, “o algoritmo cria uma bolha” não deve aparecer como consequência automática da personalização. A questão precisa permanecer empírica: **que diversidade o sistema produz, para quem, em qual período e segundo qual métrica?**
+
+### 10. Preference elicitation: o sistema também produz as condições de sua aprendizagem
+
+Há uma complicação adicional. Sistemas de recomendação não observam preferências a partir de uma posição neutra. Eles escolhem quais alternativas serão apresentadas e depois aprendem com as respostas produzidas diante dessas alternativas.
+
+Assim, o circuito pode ser descrito com maior precisão:
+
+**seleção → experiência → comportamento → dados → inferência → nova seleção.**
+
+Pesquisas sobre *preference elicitation* mostram por que a composição das opções apresentadas durante a aprendizagem importa. Se a amostra oferecida é estreita ou enviesada, o sistema também restringe aquilo que terá oportunidade de descobrir sobre a pessoa.
+
+Isso sustenta uma hipótese importante para o projeto:
+
+> **um sistema de recomendação não apenas responde às preferências do usuário. Ele participa da construção do conjunto de preferências que conseguirá observar.**
+
+Isso não significa que o sistema “crie” sozinho as preferências humanas. Significa que **observação depende de exposição**: para descobrir que alguém se interessa por algo, esse algo precisa em algum momento tornar-se experimentável.
+
+Surge, assim, um **loop epistemológico**: o modelo orienta experiências; as experiências produzem dados; os dados atualizam o modelo que orientará experiências posteriores.
+
+### 11. Filter bubbles: hipótese, não conclusão automática
+
+A discussão sobre *filter bubbles* deve ser mantida separada da simples existência de personalização. A literatura apresenta resultados heterogêneos, dependendo da plataforma, população, definição de diversidade, comportamento do usuário e método de pesquisa.
+
+Uma distinção útil é entre **diversidade intrausuário** — quão variado é o conjunto de conteúdos recebido por uma mesma pessoa — e **diversidade interusuários** — quão diferentes são os conjuntos recebidos por pessoas diferentes.
+
+Por isso, a pergunta “vou receber sempre variações do mesmo conteúdo?” é legítima, mas não deve ser respondida antecipadamente pelo conceito de Arquiteturas de continuidade.
+
+A formulação arqueológica mais produtiva é:
+
+> **que diferenças conseguem entrar na sequência, e quais deixam de alcançar probabilidade suficiente para serem experimentadas?**
+
 ### Leituras prioritárias
 
 1. Natasha Dow Schüll — _Addiction by Design_ (2012): continuidade, “machine zone” e _time on device_.
@@ -270,5 +328,9 @@ A hipótese de **Arquiteturas de continuidade** só será útil se conseguir rel
 6. Herbert Simon — _Designing Organizations for an Information-Rich World_ (1971): escassez de atenção.
 7. Tim Wu — _The Attention Merchants_ (2016): economia política da atenção.
 8. Fazzino, Rohde & Sullivan — _Hyper-Palatable Foods_ (2019): hiperpalatabilidade e cessação do consumo.
+9. Castells, Hurley & Vargas — _Novelty and Diversity in Recommender Systems_ (2015): métricas além de precisão e o papel de novidade/diversidade.
+10. Kaminskas & Bridge — trabalhos sobre diversidade, novidade, serendipidade e cobertura em recomendação: avaliação *beyond accuracy*.
+11. Literatura de *multi-armed bandits* aplicada a recomendação: formalização do dilema exploration–exploitation.
+12. Literatura sobre *preference elicitation* diversificada: como as opções apresentadas condicionam o que o sistema consegue aprender sobre preferências.
 
 
