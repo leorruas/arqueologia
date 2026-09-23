@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-22T11:41:18.762Z",
+  "generatedAt": "2026-09-23T19:12:16.315Z",
   "rule": "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
   "typeDesignRule": "Tipos de design devem funcionar como ensaios disciplinares. Headings do template atual são permitidos; permanecem suspeitos apenas headings enciclopédicos legados.",
   "pathRule": "Percursos devem funcionar como argumentos de leitura e não usar sequência numerada de resumos de artefatos.",
   "artifactSheetRule": "Cada artefato deve conter uma única Ficha arqueológica em tabela Campo/Registro com os 26 campos definidos no template atual.",
-  "candidateCount": 41,
-  "fileCount": 32,
+  "candidateCount": 42,
+  "fileCount": 33,
   "files": [
     {
       "sourcePath": "00 índices/Indice de Autores.md",
@@ -58,6 +58,17 @@
           "kind": "h2",
           "line": 73,
           "text": "Relação com a Esfinge"
+        }
+      ]
+    },
+    {
+      "sourcePath": "01 conceitos/Padroes Enganosos.md",
+      "items": [
+        {
+          "sourcePath": "01 conceitos/Padroes Enganosos.md",
+          "kind": "h2",
+          "line": 69,
+          "text": "Infinite Scroll: caso-limite"
         }
       ]
     },
@@ -402,13 +413,31 @@
   "legacyArtifactStructureCount": 0,
   "legacyArtifactFileCount": 0,
   "legacyArtifactFiles": [],
-  "legacyConceptStructureCount": 0,
-  "legacyConceptFileCount": 0,
-  "legacyConceptFiles": [],
-  "conceptMetadataMissingCount": 1,
+  "legacyConceptStructureCount": 1,
+  "legacyConceptFileCount": 1,
+  "legacyConceptFiles": [
+    {
+      "sourcePath": "01 conceitos/Padroes Enganosos.md",
+      "items": [
+        {
+          "sourcePath": "01 conceitos/Padroes Enganosos.md",
+          "line": 107,
+          "text": "Procedência"
+        }
+      ]
+    }
+  ],
+  "conceptMetadataMissingCount": 2,
   "conceptMetadataMissingFiles": [
     {
       "sourcePath": "01 conceitos/Mitologias da IA.md",
+      "fields": [
+        "origem",
+        "grau"
+      ]
+    },
+    {
+      "sourcePath": "01 conceitos/Padroes Enganosos.md",
       "fields": [
         "origem",
         "grau"
