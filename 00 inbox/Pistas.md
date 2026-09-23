@@ -79,3 +79,16 @@ O conceito [[01 conceitos/Padroes Enganosos|Padrões enganosos]] já possui nota
 **Pergunta transversal:** quem se beneficia da distribuição de fricção desta interface?
 
 **Pista histórica:** investigar também predecessores não digitais — contratos, malas-diretas, clubes de assinatura, embalagens, supermercados e outros sistemas que já usavam defaults, ocultação, urgência ou dificuldade de saída antes da web. O digital pode ter alterado sobretudo escala, mensuração e capacidade de testar experimentalmente quais arranjos produzem mais conversão.
+
+
+## Arquiteturas de continuidade: escavações necessárias
+
+O conceito [[01 conceitos/Arquiteturas de Continuidade|Arquiteturas de continuidade]] foi criado como hipótese experimental. Antes de qualquer genealogia, testar a formulação em artefatos historicamente independentes.
+
+**Prioridade de escavação:** autoplay; máquina caça-níqueis; cigarro e maço; snack e embalagem multiporção; feed de vídeos curtos; paginação; “você ainda está assistindo?”.
+
+**Comparações fortes:** paginação / [[03 artefatos/Infinite Scroll|Infinite Scroll]]; reprodução manual / autoplay; unidade individual / multiporção; continuidade automática / confirmação de continuidade.
+
+**Cuidado:** não explicar dependência química, compulsão ou hiperpalatabilidade apenas pela arquitetura formal. A hipótese observa onde o design coloca oportunidades de parar e repetir; mecanismos farmacológicos, psicológicos e fisiológicos precisam de investigação própria.
+
+**Pergunta central:** quem projeta o momento em que uma atividade termina?
