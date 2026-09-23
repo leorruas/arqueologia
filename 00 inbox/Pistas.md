@@ -64,3 +64,18 @@ O interesse está em não reduzir tudo ao verbo “guardar”. Diferentes artefa
 **Pergunta transversal:** em cada artefato, o que permanece sob decisão humana e o que é delegado à interpretação, ao planejamento ou à ação da máquina?
 
 **Separar para estudo próprio:** temperatura/criatividade e botão regenerar parecem formar um par especialmente fértil porque ambos tornam perceptível uma propriedade historicamente estranha da IA generativa: uma mesma intenção não determina necessariamente uma única resposta. Investigar como interfaces transformam variabilidade probabilística em categorias compreensíveis como “criatividade”, “outra resposta” e “tentar novamente”, e como isso ensina o usuário a tratar uma saída como amostra de um espaço de possibilidades, não como resultado definitivo.
+
+
+## Padrões enganosos: artefatos para escavação
+
+O conceito [[01 conceitos/Padroes Enganosos|Padrões enganosos]] já possui nota própria, mas precisa ser tensionado por estudos concretos antes de qualquer genealogia.
+
+**Candidatos prioritários:** checkbox pré-marcado; banner de cookies e assimetria entre aceitar/recusar; fluxo de cancelamento de assinatura / *roach motel*; confirmshaming; contador regressivo e escassez artificial; botão × de fechar anúncio; autoplay.
+
+**Artefatos existentes a reler:** [[03 artefatos/Infinite Scroll|Infinite Scroll]], [[03 artefatos/Badge de notificacao|Badge de notificação]], [[03 artefatos/Botao Like|Botão Like]] e [[03 artefatos/Assinatura|Assinatura]]. O objetivo não é classificá-los automaticamente como manipulativos, mas perguntar em quais configurações passam a participar de sistemas que redistribuem fricção, atenção, consentimento ou capacidade de saída.
+
+**Pista de variável:** simetria de esforço — comparar o custo de realizar ações que interessam ao sistema com o custo das ações de recusa, saída ou reversão. Não promover a variável antes de testar se ela é observável e comparável em vários artefatos.
+
+**Pergunta transversal:** quem se beneficia da distribuição de fricção desta interface?
+
+**Pista histórica:** investigar também predecessores não digitais — contratos, malas-diretas, clubes de assinatura, embalagens, supermercados e outros sistemas que já usavam defaults, ocultação, urgência ou dificuldade de saída antes da web. O digital pode ter alterado sobretudo escala, mensuração e capacidade de testar experimentalmente quais arranjos produzem mais conversão.
