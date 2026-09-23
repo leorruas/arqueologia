@@ -94,6 +94,8 @@ Este índice organiza estudos publicados por campo de design. A classificação 
 - [[03 artefatos/Archive|Archive]]: preservação sem permanência no primeiro plano.
 - [[03 artefatos/Badge de notificacao|Badge de notificação]]: sinal persistente que torna uma pendência perceptível antes de abrir o aplicativo.
 - [[03 artefatos/Infinite Scroll|Infinite Scroll]]: continuidade de conteúdo sem paginação explícita.
+- [[03 artefatos/Autoplay|Autoplay]]: transforma a continuidade de mídia em default e desloca a ação explícita de continuar para a ação de interromper.
+- [[03 artefatos/Feed de Videos Curtos|Feed de vídeos curtos]]: fluxo vertical que integra consumo, descoberta e feedback, reduzindo o custo de experimentar e descartar o próximo vídeo.
 - [[03 artefatos/Slide to Unlock|Slide to Unlock]]: gesto deliberado de travessia entre estados do dispositivo.
 - [[03 artefatos/Pinch to Zoom|Pinch to Zoom]]: gesto contínuo de manipulação de escala.
 - [[03 artefatos/Pull to Refresh|Pull to Refresh]]: gesto de atualização incorporado à lista móvel.
