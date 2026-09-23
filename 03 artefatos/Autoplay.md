@@ -97,25 +97,34 @@ Lembretes de horário, limites, controles de autoplay e “você ainda está ass
 Talvez esse seja o legado mais interessante do autoplay: ele mostra que **o ponto de parada não desaparece sem consequências; quando retirado da estrutura da mídia, pode precisar reaparecer como interface**.
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
-| **Nome do artefato** | Autoplay / reprodução automática |
-| **Categoria** | Interface digital / reprodução de mídia |
-| **Período aproximado** | Anterior à web contemporânea; integração ampla a plataformas de vídeo nos anos 2000–2010 |
-| **Pessoas ou equipes envolvidas** | Múltiplas; não há inventor único estabelecido nesta nota |
-| **Produtos/contextos documentados** | YouTube, Netflix, players e playlists digitais |
-| **Problema que resolvia** | Repetição da ação de iniciar a próxima unidade quando continuidade já era desejada |
+| **Artefato** | Autoplay / reprodução automática |
+| **Período** | Anterior à web contemporânea; integração ampla a plataformas de vídeo nos anos 2000–2010 |
+| **Autoria** | Múltiplas; não há inventor único estabelecido nesta nota |
+| **Produto ou contexto** | Categoria: Interface digital / reprodução de mídia |
+| **Tipo(s) de design** | [[00 tipos de design/Design de Interface|Design de interface]] |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
+| **Problema original** | Repetição da ação de iniciar a próxima unidade quando continuidade já era desejada |
 | **Mundo antes** | O término de uma unidade devolvia explicitamente a decisão de iniciar outra |
-| **Ideia que mudou tudo** | Transformar continuidade em default e interrupção em ação |
+| **Invenção** | Ainda não explicitado. |
+| **Refinamento** | Ainda não explicitado. |
+| **Popularização** | Ainda não explicitado. |
+| **Padronização** | Ainda não explicitado. |
+| **Hipótese de design** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Consumo sequencial de mídia |
-| **Comportamento criado/reforçado** | Continuidade sem renovação explícita da intenção a cada unidade |
-| **Por que funcionou** | Reduz esforço e tempo entre conteúdos |
-| **Consequência inesperada** | A remoção do ponto de parada cria necessidade de controles e interrupções posteriores |
-| **Legado** | Continuidade automática como convenção de players e plataformas |
+| **Comportamento produzido** | Ainda não explicitado. |
+| **Relação de poder** | Ainda não explicitado. |
+| **Consequências inesperadas** | A remoção do ponto de parada cria necessidade de controles e interrupções posteriores Registros adicionais preservados da ficha anterior: produtos/contextos documentados: YouTube, Netflix, players e playlists digitais; ideia que mudou tudo: Transformar continuidade em default e interrupção em ação; comportamento criado/reforcado: Continuidade sem renovação explícita da intenção a cada unidade |
+| **Destino ou transformação posterior** | Pode tornar-se invisível como default ou ser limitado por controles de bem-estar e preferência Legado: Continuidade automática como convenção de players e plataformas |
 | **Conceitos relacionados** | [[01 conceitos/Arquiteturas de Continuidade|Arquiteturas de continuidade]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Padroes Enganosos|Padrões enganosos]] |
+| **Variáveis relacionadas** | Ainda não explicitado. |
+| **Genealogia** | Ainda não explicitado. |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
+| **Parentes** | Ainda não explicitado. |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
+| **Princípio de design revelado** | Por que funcionou: Reduz esforço e tempo entre conteúdos |
 | **Questão em aberto** | Quando renovar explicitamente a intenção é fricção inútil e quando é infraestrutura de agência? |
-| **Destino do artefato** | Pode tornar-se invisível como default ou ser limitado por controles de bem-estar e preferência |
 
 ## Referências
 

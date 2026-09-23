@@ -138,27 +138,34 @@ Isso tende a aumentar a importância do início do vídeo, da legibilidade imedi
 Outra consequência é que a interface de distribuição começa a influenciar a gramática do conteúdo produzido para ela. O feed deixa de ser apenas recipiente.
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
-| **Nome do artefato** | Feed de vídeos curtos |
-| **Categoria** | Interface digital / distribuição de mídia |
-| **Período aproximado** | Consolidação na segunda metade dos anos 2010 |
-| **Pessoas ou equipes envolvidas** | Múltiplas; musical.ly, Douyin/TikTok e plataformas posteriores |
-| **Produtos/contextos documentados** | TikTok / For You, YouTube Shorts |
-| **Problema que resolvia** | Reduzir custo de descobrir, experimentar e avançar entre vídeos móveis |
+| **Artefato** | Feed de vídeos curtos |
+| **Período** | Consolidação na segunda metade dos anos 2010 |
+| **Autoria** | Múltiplas; musical.ly, Douyin/TikTok e plataformas posteriores |
+| **Produto ou contexto** | Categoria: Interface digital / distribuição de mídia |
+| **Tipo(s) de design** | [[00 tipos de design/Design de Interface|Design de interface]] |
+| **Empresas ou instituições relacionadas** | Nenhuma organização materialmente necessária para explicar este estudo até o momento. |
+| **Problema original** | Reduzir custo de descobrir, experimentar e avançar entre vídeos móveis |
 | **Mundo antes** | Catálogos, páginas, thumbnails e escolhas explícitas antes de abrir cada vídeo |
-| **Ideia que mudou tudo** | Tornar consumo, descoberta e feedback partes do mesmo fluxo vertical |
+| **Invenção** | Ainda não explicitado. |
+| **Refinamento** | Ainda não explicitado. |
+| **Popularização** | Ainda não explicitado. |
+| **Padronização** | Ainda não explicitado. |
+| **Hipótese de design** | O feed curto não elimina toda decisão: elimina sobretudo a necessidade de escolher previamente qual será o próximo conteúdo |
 | **Comportamento aproveitado** | Julgamento rápido de interesse e gesto de descarte |
-| **Comportamento criado/reforçado** | Avaliar conteúdo durante o consumo em vez de selecionar tudo previamente |
-| **Por que funcionou** | Baixo custo de experimentar e abandonar; adequação ao smartphone vertical; personalização |
-| **Consequência inesperada** | O gesto de rejeitar também pode alimentar a seleção futura; a interface de distribuição passa a pressionar a forma do conteúdo |
-| **Legado** | Feed vertical curto torna-se padrão replicado entre grandes plataformas |
+| **Comportamento produzido** | Ainda não explicitado. |
+| **Relação de poder** | Ainda não explicitado. |
+| **Consequências inesperadas** | O gesto de rejeitar também pode alimentar a seleção futura; a interface de distribuição passa a pressionar a forma do conteúdo Registros adicionais preservados da ficha anterior: produtos/contextos documentados: TikTok / For You, YouTube Shorts; ideia que mudou tudo: Tornar consumo, descoberta e feedback partes do mesmo fluxo vertical; comportamento criado/reforcado: Avaliar conteúdo durante o consumo em vez de selecionar tudo previamente |
+| **Destino ou transformação posterior** | Pode tornar-se uma gramática geral de distribuição de mídia para além do smartphone Legado: Feed vertical curto torna-se padrão replicado entre grandes plataformas |
 | **Conceitos relacionados** | [[01 conceitos/Arquiteturas de Continuidade|Arquiteturas de continuidade]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Padroes Enganosos|Padrões enganosos]] |
+| **Variáveis relacionadas** | Ainda não explicitado. |
+| **Genealogia** | Ainda não explicitado. |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | [[03 artefatos/Infinite Scroll|Infinite Scroll]], [[03 artefatos/Controle Remoto|Controle remoto]], autoplay, playlist, televisão linear |
-| **Hipótese central** | O feed curto não elimina toda decisão: elimina sobretudo a necessidade de escolher previamente qual será o próximo conteúdo |
+| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
+| **Princípio de design revelado** | Por que funcionou: Baixo custo de experimentar e abandonar; adequação ao smartphone vertical; personalização |
 | **Questão em aberto** | Como a interface de distribuição altera a gramática dos vídeos produzidos para sobreviver ao swipe? |
-| **Destino do artefato** | Pode tornar-se uma gramática geral de distribuição de mídia para além do smartphone |
 
 ## Referências
 
