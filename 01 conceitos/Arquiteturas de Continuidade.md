@@ -43,6 +43,58 @@ Essas unidades fazem mais do que organizar conteúdo ou matéria. Elas podem fun
 
 Isso sugere que embalagem, paginação, duração e sequenciamento podem ser investigados como decisões sobre continuidade. O artefato não controla sozinho o comportamento, mas participa da definição de quando a pergunta “mais um?” reaparece.
 
+## Continuidade mecânica e continuidade preditiva
+
+Em sistemas personalizados, remover o ponto de parada é apenas metade do problema. A continuidade também depende de o próximo item parecer suficientemente promissor. Se as escolhas seguintes forem repetidamente irrelevantes, uma interface sem fricção não sustenta a sessão por muito tempo.
+
+Isso sugere duas operações complementares:
+
+**Continuidade mecânica:** reduz o custo de chegar ao próximo — [[03 artefatos/Autoplay|Autoplay]], swipe, [[03 artefatos/Infinite Scroll|Infinite Scroll]].
+
+**Continuidade preditiva:** aumenta a probabilidade de o próximo parecer relevante — recomendação, ranking e personalização baseados em dados sobre comportamento.
+
+Quando as duas se combinam, a arquitetura não apenas abre uma estrada sem cruzamentos: **ela pode reconstruir continuamente o próximo trecho a partir dos rastros deixados pelo próprio percurso**.
+
+## Dados como matéria de continuidade
+
+Num feed personalizado, consumir também produz dados. Permanecer, avançar, curtir, compartilhar, seguir, pesquisar ou abandonar podem funcionar como sinais para sistemas que estimam preferências e reorganizam ofertas futuras.
+
+Surge um circuito:
+
+**comportamento → dados → inferência de preferência → seleção → novo comportamento → novos dados.**
+
+A continuidade deixa, portanto, de depender apenas da forma da interface. Ela pode depender da capacidade do sistema de aprender quais conteúdos mantêm relevância para aquela pessoa.
+
+Isso também torna personalização ambígua. Ela pode funcionar como serviço — reduzir o esforço de encontrar algo interessante num universo enorme — e simultaneamente como infraestrutura de permanência.
+
+A pergunta crítica passa a ser: **qual objetivo define uma boa recomendação?**
+
+Algo parecido com o que a pessoa já gostou? Algo que provavelmente será consumido até o fim? Algo que amplia seus interesses? Algo importante mesmo que não produza engajamento imediato? Algo que maximiza permanência?
+
+Todos podem ser apresentados como “personalização”, mas produzem arquiteturas de experiência diferentes.
+
+## Continuidade versus descoberta
+
+A personalização introduz outra tensão: **explorar o conhecido ou introduzir o novo**.
+
+Um sistema que oferece apenas variações de padrões já observados pode aumentar previsibilidade, mas reduzir encontros improváveis. Um sistema que introduz novidade demais corre o risco de diminuir relevância percebida e interromper a continuidade.
+
+Por isso, uma arquitetura de continuidade personalizada precisa administrar alguma relação entre familiaridade e surpresa. A pergunta arqueológica torna-se:
+
+> **quanto de surpresa uma arquitetura de continuidade consegue suportar sem perder a pessoa?**
+
+O problema não é apenas aquilo que o algoritmo mostra. Também importa aquilo que deixa de alcançar probabilidade suficiente para ser mostrado.
+
+Essa dimensão amplia a análise de poder. Sistemas de recomendação não distribuem somente atenção entre conteúdos disponíveis; participam da definição de quais diferenças chegam a ser experimentadas pelo usuário.
+
+## Produzir razões para continuar
+
+Nas primeiras formulações desta hipótese, arquiteturas de continuidade apareciam principalmente como sistemas que removiam ou deslocavam pontos de parada. Personalização exige uma ampliação.
+
+Em sistemas adaptativos, a arquitetura pode atuar em duas frentes: **reduzir a necessidade de decidir continuar e aumentar continuamente a atratividade estimada daquilo que vem depois**.
+
+Portanto, arquiteturas de continuidade não dizem respeito apenas à remoção dos momentos em que alguém poderia parar. Em sistemas personalizados, dizem respeito também à **produção contínua de razões para não usar esses pontos de parada**.
+
 ## Relação com compressão do esforço
 
 [[01 conceitos/Compressao do Esforco|Compressão do esforço]] ajuda a explicar um dos mecanismos possíveis. Quando o custo de repetir uma ação cai, a frequência possível dessa ação pode aumentar.
@@ -112,6 +164,11 @@ Isso sugere que a ausência de fricção não é sempre a condição mais neutra
 - Existe um sinal de parada?
 - Como o usuário recupera a possibilidade de interromper?
 - O artefato facilita continuidade desejada ou torna a interrupção mais difícil de exercer?
+- O próximo item é escolhido pela pessoa, por um editor ou por um sistema de recomendação?
+- Que comportamentos viram dados para selecionar o próximo item?
+- O que o sistema entende por relevância?
+- Quanto de novidade consegue introduzir sem romper a continuidade?
+- Que conteúdos deixam de aparecer porque não se parecem suficientemente com o comportamento passado?
 
 ## Ficha do conceito
 
@@ -123,13 +180,13 @@ Isso sugere que a ausência de fricção não é sempre a condição mais neutra
 | **Formulação associada a** | Arqueologia do Design |
 | **Área principal** | IHC / design de interação / design de produto / economia comportamental |
 | **Hipótese central** | Artefatos podem alterar comportamento ao projetar onde aparecem, desaparecem ou são automatizados os pontos em que continuar exige nova decisão |
-| **Unidade de análise** | Relação entre repetição, segmentação, ponto de parada e custo de continuidade |
+| **Unidade de análise** | Relação entre repetição, segmentação, ponto de parada, custo de continuidade e seleção do próximo estímulo |
 | **O que ajuda a explicar** | Por que paginação, autoplay, porções, embalagens e feeds podem alterar a frequência ou duração de comportamentos sem necessariamente criar um desejo novo |
 | **O que não explica sozinho** | Dependência química, compulsão, preferência, intenção manipulativa ou efeitos psicológicos de um artefato |
 | **Conceitos relacionados** | [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção Boa vs Fricção Ruim]], [[01 conceitos/Recompensa Variavel|Recompensa variável]], [[01 conceitos/Padroes Enganosos|Padrões enganosos]] |
 | **Variáveis relacionadas** | [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Atrito Decisorio|Atrito decisório]], [[02 variaveis/Atencao|Atenção]] |
 | **Artefatos-chave iniciais** | [[03 artefatos/Infinite Scroll|Infinite Scroll]], [[03 artefatos/Autoplay|Autoplay]], [[03 artefatos/Feed de Videos Curtos|Feed de vídeos curtos]], máquina caça-níqueis, cigarro/maço, snack/embalagem, paginação |
-| **Questão em aberto** | Quando um ponto de parada é fricção inútil e quando funciona como infraestrutura de agência? |
+| **Questão em aberto** | Quando um ponto de parada é fricção inútil e quando funciona como infraestrutura de agência? Em sistemas personalizados, quanto de novidade pode ser introduzido sem romper a continuidade? |
 
 ## Referências a investigar
 
