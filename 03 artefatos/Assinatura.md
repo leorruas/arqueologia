@@ -95,6 +95,16 @@ A assinatura gráfica pode permanecer como símbolo cultural da vontade. A prova
 4. Estudos de diplomática, história do direito e história da escrita sobre autenticação documental.
 5. [[autores/Paul Ricoeur|Paul Ricoeur]]. *Soi-même comme un autre* (1990), traduzido como *Oneself as Another*. Referência comparativa para ipseidade, manutenção da palavra e responsabilidade; não fonte histórica da assinatura.
 
+## Quando consentimento vira cerimônia
+
+A assinatura é um parente histórico importante para [[01 conceitos/Padroes Enganosos|Padrões enganosos]] porque mostra que manipulação de consentimento não começa na interface digital. O gesto de assinar pode formalizar uma decisão, mas a existência da marca não demonstra, por si só, leitura, compreensão ou liberdade de escolha.
+
+Isso cria uma tensão entre **registrar consentimento** e **produzir as condições para consentir**. Um documento pode destacar a linha de assinatura e tornar quase invisíveis cláusulas, custos ou consequências que deveriam informar a decisão. Nesse caso, o sistema é excelente em capturar prova de adesão e muito pior em sustentar compreensão.
+
+Interfaces digitais herdam esse problema quando transformam “aceito”, checkboxes e botões de confirmação em equivalentes funcionais do ritual documental. A arqueologia da assinatura ajuda a evitar um erro: confundir a facilidade de registrar uma manifestação com a qualidade do processo que a produziu.
+
+Sob a lente dos padrões enganosos, a pergunta é: **o artefato está tornando a vontade legível ou apenas tornando a adesão registrável?** Essa diferença conecta assinatura, termos de uso, consentimento de cookies, contratos de adesão e fluxos de autorização sem tratá-los como o mesmo artefato.
+
 ## Ficha arqueológica
 | Campo | Registro |
 |---|---|
