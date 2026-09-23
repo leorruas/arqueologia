@@ -109,7 +109,27 @@ jobs:
             echo "Conteúdo e relatórios já estão atualizados."
             exit 0
           fi
+
+          # Uma propagação pode produzir vários commits em poucos segundos.
+          # Se a main avançou durante esta execução, este resultado foi calculado
+          # sobre um estado antigo do vault. A execução mais nova é responsável
+          # por recalcular e salvar os artefatos derivados.
+          git fetch origin main
+          REMOTE_SHA="$(git rev-parse origin/main)"
+          if [ "$REMOTE_SHA" != "$GITHUB_SHA" ]; then
+            echo "A main avançou de $GITHUB_SHA para $REMOTE_SHA; ignorando execução obsoleta."
+            exit 0
+          fi
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -m "chore: normaliza acervo e atualiza auditorias [skip ci]"
-          git push
+
+          # Fecha a pequena janela de corrida entre o fetch acima e o push.
+          # Um non-fast-forward aqui significa apenas que chegou um commit mais novo;
+          # não é erro de build e a execução correspondente fará a atualização.
+          if ! git push; then
+            git fetch origin main
+            echo "A main avançou antes do push; deixando a execução mais nova atualizar o índice."
+            exit 0
+          fi
