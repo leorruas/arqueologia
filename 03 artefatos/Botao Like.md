@@ -80,6 +80,16 @@ Essa estrutura aparece hoje em corações, estrelas, upvotes, reações, favorit
 5. Registros históricos de Vimeo e FriendFeed sobre implementações anteriores de botões de Like, 2005 e 2007.
 6. David Kirkpatrick. *The Facebook Effect*.
 
+## Quando expressão vira mecanismo de captura
+
+O Botão Like também deve ser relido ao lado de [[01 conceitos/Padroes Enganosos|Padrões enganosos]], mas não porque gostar de algo ou oferecer uma reação seja manipulativo por natureza. O artefato resolve um problema real: comprime uma resposta social de baixo custo e permite reconhecer algo sem escrever uma mensagem.
+
+A ambiguidade aparece porque o mesmo gesto pode servir simultaneamente a três agentes. Para quem clica, é expressão; para quem recebe, é feedback social; para a plataforma, é dado comportamental que pode alimentar ranking, recomendação, perfil e métricas de engajamento. A simplicidade percebida pelo usuário pode esconder uma complexidade operacional muito maior no sistema.
+
+A pergunta relevante não é “o Like é um dark pattern?”, mas **quanto da consequência do clique permanece legível para quem clica?** Se uma ação apresentada como comunicação social também funciona como sinal para sistemas de recomendação ou otimização, surge uma assimetria entre o significado vivido do gesto e seu valor infraestrutural.
+
+Isso conecta o Like à investigação sobre consentimento e transparência: uma interface pode tornar uma ação extremamente fácil justamente porque cada repetição produz valor para outras camadas do sistema. O custo de agir é mínimo; compreender todas as consequências do gesto pode ser muito maior.
+
 ## Ficha arqueológica
 | Campo | Registro |
 |---|---|
