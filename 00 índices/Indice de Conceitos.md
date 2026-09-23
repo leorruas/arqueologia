@@ -20,6 +20,7 @@ Este índice separa conceitos pela procedência intelectual. A distinção não 
 - [[01 conceitos/Manipulacao Direta|Manipulação Direta]]: formulação clássica de interação associada a Ben Shneiderman.
 - [[01 conceitos/Memoria Distribuida|Memória Distribuída]]: família de ideias ligada à cognição distribuída e à externalização de memória.
 - [[01 conceitos/Paradoxo da Escolha|Paradoxo da Escolha]]: formulação popularizada por Barry Schwartz sobre efeitos de conjuntos amplos de alternativas.
+- [[01 conceitos/Padroes Enganosos|Padrões enganosos]]: tradição de HCI e proteção do consumidor, originada no termo *dark patterns* cunhado por Harry Brignull, para interfaces que manipulam, enganam ou constrangem escolhas.
 - [[01 conceitos/Recompensa Variavel|Recompensa Variável]]: princípio derivado de tradições de aprendizagem e reforço comportamental.
 
 ## Adaptações para a arqueologia do design
