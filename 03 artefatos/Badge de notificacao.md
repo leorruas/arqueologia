@@ -70,6 +70,16 @@ Essa diferença pequena expõe uma diferença de poder enorme.
 
 A pergunta arqueológica não é, portanto, se badges são bons ou ruins. É mais específica: **quando um estado externo merece ganhar permanência no campo de atenção de alguém — e quem deve poder decidir quando essa pendência acabou?**
 
+## Quando lembrar vira pressionar
+
+O badge também é um bom caso-limite para [[01 conceitos/Padroes Enganosos|Padrões enganosos]]. Sua função básica é informacional: tornar visível, fora do aplicativo, que existe algo pendente. Isso pode reduzir custo de busca e funcionar como memória externa legítima.
+
+A tensão aparece quando a pendência visual é usada para produzir retorno independentemente da importância do conteúdo. Um contador não explica urgência, valor ou contexto; ele transforma eventos heterogêneos numa dívida quantificada de atenção. Se qualquer novidade consegue produzir o mesmo sinal vermelho persistente, a interface pode explorar a tendência de querer “zerar” estados incompletos.
+
+Isso não torna badges manipulativos por definição. A pergunta arqueológica mais precisa é: **o badge representa uma pendência que o usuário reconheceria como sua ou fabrica uma pendência porque a plataforma se beneficia de fazê-lo voltar?**
+
+Sob a lente da [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção Boa vs Fricção Ruim]], o badge reduz a fricção de descobrir novidade, mas também pode reduzir a fricção que existia entre um serviço e a atenção de alguém que não pretendia abri-lo. A relação de poder depende, portanto, de quem define o que merece permanecer visível.
+
 ## Ficha arqueológica
 
 | Campo | Registro |
