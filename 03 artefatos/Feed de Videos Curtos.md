@@ -97,6 +97,28 @@ O feed não é apenas uma fila de conteúdo. É uma interface de consumo acoplad
 
 Essa propriedade distingue o feed personalizado de uma programação linear de televisão. Na televisão, continuar assistindo não reorganizava imediatamente a programação para aquele espectador. No feed algorítmico, comportamento e seleção podem formar um ciclo de feedback.
 
+## Continuidade mecânica e continuidade preditiva
+
+O feed curto mostra que uma sessão não se sustenta apenas porque avançar é fácil. Se o sistema errar repetidamente o que oferece, o baixo custo do swipe também torna baixo o custo de rejeitar — e eventualmente abandonar.
+
+A continuidade depende, portanto, de duas camadas. A **continuidade mecânica** torna barato chegar ao próximo vídeo. A **continuidade preditiva** tenta tornar esse próximo vídeo suficientemente relevante para merecer atenção.
+
+A personalização pode ser entendida como serviço e como infraestrutura de continuidade ao mesmo tempo. Ela reduz o trabalho de procurar num catálogo enorme, mas também permite que a sequência seja recalibrada a partir dos rastros produzidos durante o próprio consumo.
+
+## O problema da novidade
+
+Se dados passados ajudam a escolher o próximo vídeo, surge uma tensão inevitável entre repetir padrões conhecidos e testar possibilidades novas.
+
+Entregar apenas variações do que já funcionou pode tornar o feed previsível. Introduzir conteúdos muito distantes pode produzir descoberta, mas também aumentar rejeição. O sistema precisa decidir quanto explorar preferências conhecidas e quanto experimentar regiões ainda incertas.
+
+Para a arqueologia do design, isso desloca a pergunta de “o algoritmo sabe do que eu gosto?” para outra:
+
+> **que tipo de diferença o sistema considera segura o bastante para experimentar comigo?**
+
+A consequência cultural pode estar tanto no que aparece quanto no que não aparece. Conteúdos que não se encaixam nos sinais disponíveis podem ter menos oportunidades de entrar na sequência, enquanto pequenas variações de padrões já bem-sucedidos podem ser continuamente reforçadas.
+
+Essa é uma hipótese a investigar, não uma consequência necessária de todo sistema de recomendação. Algoritmos podem deliberadamente incorporar diversidade, novidade ou exploração. O ponto é que essas escolhas passam a fazer parte do design da continuidade.
+
 ## Dark pattern?
 
 Assim como [[03 artefatos/Infinite Scroll|Infinite Scroll]], o feed de vídeos curtos não deve ser classificado automaticamente como [[01 conceitos/Padroes Enganosos|Padrão enganoso]].
