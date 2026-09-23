@@ -188,6 +188,87 @@ Isso sugere que a ausência de fricção não é sempre a condição mais neutra
 | **Artefatos-chave iniciais** | [[03 artefatos/Infinite Scroll|Infinite Scroll]], [[03 artefatos/Autoplay|Autoplay]], [[03 artefatos/Feed de Videos Curtos|Feed de vídeos curtos]], máquina caça-níqueis, cigarro/maço, snack/embalagem, paginação |
 | **Questão em aberto** | Quando um ponto de parada é fricção inútil e quando funciona como infraestrutura de agência? Em sistemas personalizados, quanto de novidade pode ser introduzido sem romper a continuidade? |
 
-## Referências a investigar
+## Inventário de literatura para testar a hipótese
 
-Esta formulação é uma hipótese do projeto. Antes de promovê-la, deve ser confrontada com literatura sobre *stopping cues*, segmentação de consumo, autorregulação, design persuasivo, economia da atenção, dependência e interação humano-computador. Os mecanismos farmacológicos de dependência e os efeitos de alimentos hiperpalatáveis devem permanecer separados de explicações puramente formais de interface.
+Arquiteturas de continuidade é uma formulação do projeto. A literatura abaixo não deve ser tratada como se já utilizasse esse conceito. Ela oferece mecanismos, evidências e contraexemplos com os quais a hipótese pode ser confrontada.
+
+### 1. Pontos de parada, segmentação e unidades
+
+**Geier, Rozin & Doros (2006), _Unit Bias: A New Heuristic That Helps Explain the Effect of Portion Size on Food Intake_.** Mostra que a unidade apresentada pode funcionar como referência para quanto parece apropriado consumir. É importante porque sustenta a ideia de que a unidade não é apenas recipiente: sua segmentação participa do comportamento.
+
+**Geier, Wansink & Rozin (2012), _Red potato chips: segmentation cues can substantially decrease food intake_.** Inserir marcadores visuais periódicos em tubos de batata chips reduziu substancialmente o consumo nos experimentos relatados. Os autores propõem mecanismos como aumento do monitoramento, normas de porção e interrupção de sequências automatizadas. É uma aproximação especialmente direta da nossa noção de **artefato de interrupção**.
+
+**Wansink, Painter & North (2005), _Bottomless Bowls_.** O experimento da tigela que se reabastecia encontrou maior consumo quando o sinal visual de quanto havia sido consumido era removido. É conceitualmente muito próximo de Infinite Scroll: o recipiente deixa de fornecer seu próprio fim. Deve ser usado com cautela e acompanhado por literatura posterior, dado o histórico de problemas de pesquisa associado a Brian Wansink.
+
+**Pergunta para o projeto:** uma unidade material ou visual funciona também como unidade comportamental? E o que acontece quando seu término deixa de ser perceptível?
+
+### 2. Autorregulação e HCI
+
+**Lyngs et al. (2019), _Self-Control in Cyberspace_.** Revisou 367 aplicativos e extensões de autocontrole digital e organizou mecanismos pelos quais interfaces podem apoiar autorregulação. É importante porque oferece a contraparte da continuidade: sistemas deliberadamente projetados para ajudar alguém a interromper, restringir ou reconsiderar um comportamento.
+
+Esse campo permite estudar limites de tempo, bloqueadores, lembretes, confirmação de continuidade e outros **artefatos de interrupção** sem pressupor que toda fricção seja indesejável.
+
+**Pergunta para o projeto:** quando a interrupção funciona como custo inútil e quando funciona como infraestrutura de agência?
+
+### 3. Tecnologia persuasiva
+
+**B. J. Fogg (1998; 2003), _Persuasive Computers_ e _Persuasive Technology_.** A captologia investiga tecnologias computacionais deliberadamente projetadas para mudar atitudes ou comportamentos. É fundamental para distinguir uma arquitetura que simplesmente possui efeitos comportamentais de outra criada com intenção persuasiva.
+
+A distinção de intencionalidade é especialmente útil para evitar chamar qualquer continuidade de manipulação. Uma consequência emergente de um artefato não é automaticamente equivalente a um efeito persuasivo planejado.
+
+**Pergunta para o projeto:** a continuidade é efeito colateral, conveniência deliberada, objetivo comportamental ou meio para outro objetivo?
+
+### 4. Economia da atenção
+
+**Herbert Simon (1971), _Designing Organizations for an Information-Rich World_.** Formula a relação entre abundância de informação e escassez da atenção necessária para consumi-la. É uma base conceitual importante para compreender por que sistemas de seleção, filtragem e recomendação ganham valor quando o conteúdo disponível ultrapassa radicalmente a capacidade humana de examiná-lo.
+
+**Tim Wu (2016), _The Attention Merchants_.** Reconstrói historicamente modelos de negócio que capturam atenção para revendê-la a anunciantes. Ajuda a separar a mecânica da continuidade de sua economia: permanecer pode adquirir valor comercial.
+
+**Pergunta para o projeto:** quem obtém valor quando a atividade continua, e como esse valor altera os critérios usados para projetar a continuidade?
+
+### 5. Continuidade, jogo e dependência comportamental
+
+**Natasha Dow Schüll (2012), _Addiction by Design: Machine Gambling in Las Vegas_.** É provavelmente a leitura mais próxima do problema geral. Sua etnografia das máquinas de jogo examina ritmo contínuo, algoritmos, ergonomia, arquitetura de cassino, rastreamento de jogadores e o objetivo industrial de ampliar _time on device_. A “machine zone” descrita no livro permite investigar continuidade não como sequência de decisões isoladas, mas como estado sustentado pela relação entre pessoa e sistema.
+
+Ela também oferece um cuidado importante: não reduzir dependência exclusivamente ao indivíduo nem exclusivamente ao artefato, mas investigar a interação entre os dois.
+
+**Pergunta para o projeto:** quando continuar deixa de ser principalmente busca por uma recompensa externa e passa a ser manutenção do próprio estado de continuidade?
+
+### 6. Alimentos, hiperpalatabilidade e mecanismos fisiológicos
+
+**Fazzino, Rohde & Sullivan (2019), _Hyper-Palatable Foods_.** Propõe uma definição quantitativa de alimentos hiperpalatáveis baseada em combinações específicas de gordura, açúcares, carboidratos e sódio. A literatura discutida pelos autores também trata de saciedade sensorial específica e recompensa alimentar.
+
+Essa frente deve permanecer **analiticamente separada** das interfaces. Um feed não é equivalente a um alimento hiperpalatável, e hiperpalatabilidade não é simplesmente um “dark pattern químico”. Aqui existem mecanismos fisiológicos e neurobiológicos próprios.
+
+O parentesco útil está em outra escala: produtos materiais também podem ser projetados de maneiras que alteram recompensa, unidade, porção e condições de cessação do consumo.
+
+**Pergunta para o projeto:** quais efeitos pertencem à composição do alimento, quais pertencem à porção/embalagem e quais pertencem à interação entre ambos?
+
+### 7. A fronteira mais importante: mecanismos diferentes, forma semelhante
+
+Este inventário sugere que objetos formalmente parecidos podem sustentar continuidade por mecanismos diferentes:
+
+- **segmentação e sinais externos:** tornam o fim perceptível;
+- **compressão do esforço:** reduz o custo de repetir;
+- **persuasão:** procura deliberadamente alterar comportamento;
+- **recomendação e personalização:** tentam aumentar a relevância prevista do próximo item;
+- **recompensa e incerteza:** podem tornar a próxima unidade atraente;
+- **mecanismos farmacológicos:** podem produzir dependência por vias que não pertencem ao design de interface;
+- **hiperpalatabilidade e saciedade:** alteram a experiência alimentar por mecanismos fisiológicos e sensoriais;
+- **economia da atenção:** explica por que prolongar permanência pode adquirir valor econômico;
+- **autorregulação:** mostra como design também pode devolver pontos de decisão e interrupção.
+
+A hipótese de **Arquiteturas de continuidade** só será útil se conseguir relacionar esses campos **sem colapsá-los numa explicação única**.
+
+### Leituras prioritárias
+
+1. Natasha Dow Schüll — _Addiction by Design_ (2012): continuidade, “machine zone” e _time on device_.
+2. Geier, Rozin & Doros — _Unit Bias_ (2006): unidade e segmentação.
+3. Geier, Wansink & Rozin — _Red Potato Chips_ (2012): sinais de segmentação como interrupção.
+4. Lyngs et al. — _Self-Control in Cyberspace_ (2019): design para autorregulação e interrupção.
+5. B. J. Fogg — _Persuasive Technology_ (2003): intencionalidade e mudança comportamental.
+6. Herbert Simon — _Designing Organizations for an Information-Rich World_ (1971): escassez de atenção.
+7. Tim Wu — _The Attention Merchants_ (2016): economia política da atenção.
+8. Fazzino, Rohde & Sullivan — _Hyper-Palatable Foods_ (2019): hiperpalatabilidade e cessação do consumo.
+
+
