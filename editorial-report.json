@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-23T23:10:08.754Z",
+  "generatedAt": "2026-09-23T23:13:45.434Z",
   "rule": "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
   "typeDesignRule": "Tipos de design devem funcionar como ensaios disciplinares. Headings do template atual são permitidos; permanecem suspeitos apenas headings enciclopédicos legados.",
   "pathRule": "Percursos devem funcionar como argumentos de leitura e não usar sequência numerada de resumos de artefatos.",
   "artifactSheetRule": "Cada artefato deve conter uma única Ficha arqueológica em tabela Campo/Registro com os 26 campos definidos no template atual.",
-  "candidateCount": 42,
-  "fileCount": 33,
+  "candidateCount": 48,
+  "fileCount": 34,
   "files": [
     {
       "sourcePath": "00 índices/Indice de Autores.md",
@@ -15,6 +15,47 @@
           "kind": "h3",
           "line": 13,
           "text": "Século XIX e início do século XX (pioneiros e Bauhaus)"
+        }
+      ]
+    },
+    {
+      "sourcePath": "01 conceitos/Arquiteturas de Continuidade.md",
+      "items": [
+        {
+          "sourcePath": "01 conceitos/Arquiteturas de Continuidade.md",
+          "kind": "h3",
+          "line": 195,
+          "text": "1. Pontos de parada, segmentação e unidades"
+        },
+        {
+          "sourcePath": "01 conceitos/Arquiteturas de Continuidade.md",
+          "kind": "h3",
+          "line": 205,
+          "text": "2. Autorregulação e HCI"
+        },
+        {
+          "sourcePath": "01 conceitos/Arquiteturas de Continuidade.md",
+          "kind": "h3",
+          "line": 213,
+          "text": "3. Tecnologia persuasiva"
+        },
+        {
+          "sourcePath": "01 conceitos/Arquiteturas de Continuidade.md",
+          "kind": "h3",
+          "line": 221,
+          "text": "4. Economia da atenção"
+        },
+        {
+          "sourcePath": "01 conceitos/Arquiteturas de Continuidade.md",
+          "kind": "h3",
+          "line": 229,
+          "text": "5. Continuidade, jogo e dependência comportamental"
+        },
+        {
+          "sourcePath": "01 conceitos/Arquiteturas de Continuidade.md",
+          "kind": "h3",
+          "line": 237,
+          "text": "6. Alimentos, hiperpalatabilidade e mecanismos fisiológicos"
         }
       ]
     },
