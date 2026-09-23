@@ -43,6 +43,7 @@ Estas notas reaproveitam ideias existentes, mas lhes dão uma função específi
 Estas formulações nasceram ou ganharam sua forma atual dentro desta investigação. Devem permanecer abertas a revisão e não ser apresentadas como teorias externas consolidadas:
 
 - [[01 conceitos/Compressao do Esforco|Compressão do Esforço]]: hipótese de que muitas inovações vencem ao incorporar passos de um comportamento já existente.
+- [[01 conceitos/Arquiteturas de Continuidade|Arquiteturas de continuidade]]: hipótese sobre como artefatos projetam pontos de parada, repetição e a necessidade — ou não — de uma nova decisão para continuar.
 - [[01 conceitos/Continuidade de Acesso|Continuidade de Acesso]]: hipótese sobre a transformação de acesso episódico em disponibilidade contínua.
 - [[01 conceitos/Ecologia de Artefatos|Ecologia de Artefatos]]: modelo que relaciona artefatos organizacionais pelo recurso invisível que cada um reorganiza.
 - [[01 conceitos/Eras da Economia|Eras da Economia e Design]]: estrutura interpretativa do projeto para comparar mudanças no foco de produção, acesso e decisão.
