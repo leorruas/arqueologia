@@ -78,11 +78,11 @@ Essa distinção permite analisar Infinite Scroll, autoplay, cancelamento, notif
 A hipótese precisa ser testada por escavações independentes. Candidatos:
 
 - [[03 artefatos/Infinite Scroll|Infinite Scroll]];
-- autoplay;
+- [[03 artefatos/Autoplay|Autoplay]];
 - máquina caça-níqueis;
 - cigarro e maço de cigarros;
 - snack e embalagem multiporção;
-- feed de vídeos curtos;
+- [[03 artefatos/Feed de Videos Curtos|Feed de vídeos curtos]];
 - créditos finais;
 - paginação;
 - ficha de fliperama;
@@ -128,7 +128,7 @@ Isso sugere que a ausência de fricção não é sempre a condição mais neutra
 | **O que não explica sozinho** | Dependência química, compulsão, preferência, intenção manipulativa ou efeitos psicológicos de um artefato |
 | **Conceitos relacionados** | [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção Boa vs Fricção Ruim]], [[01 conceitos/Recompensa Variavel|Recompensa variável]], [[01 conceitos/Padroes Enganosos|Padrões enganosos]] |
 | **Variáveis relacionadas** | [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Atrito Decisorio|Atrito decisório]], [[02 variaveis/Atencao|Atenção]] |
-| **Artefatos-chave iniciais** | [[03 artefatos/Infinite Scroll|Infinite Scroll]], autoplay, máquina caça-níqueis, cigarro/maço, snack/embalagem, paginação |
+| **Artefatos-chave iniciais** | [[03 artefatos/Infinite Scroll|Infinite Scroll]], [[03 artefatos/Autoplay|Autoplay]], [[03 artefatos/Feed de Videos Curtos|Feed de vídeos curtos]], máquina caça-níqueis, cigarro/maço, snack/embalagem, paginação |
 | **Questão em aberto** | Quando um ponto de parada é fricção inútil e quando funciona como infraestrutura de agência? |
 
 ## Referências a investigar
