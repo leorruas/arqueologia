@@ -18,9 +18,11 @@ A variável é especialmente importante em sistemas em que o valor informacional
 
 ## O relógio pode ser regra ou sinal
 
-Num feed cronológico, recência é a regra principal de ordenação. No [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], ela continua existindo, mas passa a competir com relações, comportamento passado e outras previsões. Isso transforma o tempo de critério dominante em um sinal entre vários.
+Num feed cronológico, recência é a regra principal de ordenação. No [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], [[03 artefatos/Feed algoritmico do X Twitter|Feed algorítmico do X/Twitter]], ela continua existindo, mas passa a competir com relações, comportamento passado e outras previsões. Isso transforma o tempo de critério dominante em um sinal entre vários.
 
 Essa mudança é arqueologicamente importante. Quando a ordem deixa de ser “mais novo primeiro”, conteúdo antigo pode continuar visível se outros sinais compensarem sua idade. Ao mesmo tempo, conteúdo recente pode receber oportunidades iniciais de exposição antes de acumular histórico.
+
+No X/Twitter, recência é especialmente estrutural porque a timeline histórica se organizava pelo tempo e a aba Following continua em ordem cronológica inversa. No For You, porém, o X declara buscar conteúdo recente e relevante, fazendo o tempo competir com sinais de interesse e rede.
 
 Recência também deve ser separada de [[02 variaveis/Momentum de atenção|momentum de atenção]]. Um post pode ser muito recente e receber pouca interação; outro pode ser um pouco mais antigo e estar acumulando respostas rapidamente.
 
