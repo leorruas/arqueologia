@@ -95,7 +95,7 @@ pode gerar:
 
 Outro mapa poderia produzir uma pergunta completamente diferente porque parte de outros valores, outras definições e outros conflitos.
 
-Essa pergunta pode então alimentar uma [[03 artefatos/Voting Advice Application|Voting Advice Application]] orientada pela questão do eleitor.
+Essa pergunta pode então alimentar uma [[03 artefatos/Jobs to Be Done eleitoral|formulação de progresso eleitoral]] ou uma [[03 artefatos/Voting Advice Application|Voting Advice Application]] orientada pela questão do eleitor. O primeiro transforma valores em uma vontade política relativamente independente da solução; a segunda compara alternativas a partir dessa estrutura.
 
 ## O mapa não deveria dizer quem você é
 
@@ -158,7 +158,7 @@ A pergunta final é:
 | **Variáveis relacionadas** | [[02 variaveis/Agencia Inferencial|Agência inferencial]], [[02 variaveis/Atrito Decisorio|Atrito decisório]], [[02 variaveis/Reversibilidade representacional|Reversibilidade representacional]] |
 | **Genealogia** | [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]] |
 | **Percurso(s)** | Ainda não integrado a percurso específico |
-| **Parentes** | [[03 artefatos/Biografia política|Biografia política]], [[03 artefatos/Pergunta|Pergunta]], [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Voting Advice Application|Voting Advice Application]] |
+| **Parentes** | [[03 artefatos/Biografia política|Biografia política]], [[03 artefatos/Pergunta|Pergunta]], [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Jobs to Be Done eleitoral|Jobs to Be Done eleitoral]], [[03 artefatos/Teste de simetria eleitoral|Teste de simetria eleitoral]], [[03 artefatos/Voting Advice Application|Voting Advice Application]] |
 | **Leituras-chave** | Schwartz sobre valores básicos; Schwartz, Caprara & Vecchione sobre valores políticos e voto |
 | **Princípio de design revelado** | Um critério eleitoral pode ser produzido a partir de um valor explicitado antes de o candidato entrar na cena |
 | **Questão em aberto** | Quanto explicitar conflitos entre valores altera a forma como uma pessoa avalia candidatos que representam combinações imperfeitas desses valores? |
