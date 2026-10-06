@@ -93,6 +93,7 @@ O mesmo cuidado vale para [[03 artefatos/Legenda e texto sobreposto|legenda e te
 | Artefato ou família | Instagram | TikTok | X/Twitter | Mecanismo mais defensável |
 |---|---|---|---|---|
 | [[03 artefatos/Gancho de abertura|Gancho de abertura]] | retenção, average watch time, possível redução de abandono | watch time, full watch, skip | leitura inicial, clique, reply ou permanência; sem sinal de hook publicado | conquistar o próximo instante |
+| [[03 artefatos/Capa e Thumbnail|Capa e thumbnail]] | entrada a partir de grid/perfil/busca; separada da retenção após abertura | preview/capa em superfícies de escolha; efeito depende da superfície | imagem/mídia de entrada em posts e perfis | representar o conteúdo antes do consumo e reduzir custo de escolha |
 | [[03 artefatos/Pergunta|Pergunta]] | comentário/resposta | comentário/resposta | reply e conversa | reduzir custo de formular resposta |
 | [[03 artefatos/Meme|Meme]] / remix | sends, shares, reutilização; transformação material pode preservar elegibilidade como original | share, uso de repertório, remix | repost, quote-post, reply | tornar conteúdo transportável e recontextualizável |
 | [[03 artefatos/Fotografia|Fotografia]] / visual | atenção, saves, sends; efeito depende do tipo de peça | imagem/Photo Mode dentro da infraestrutura de recomendação | image expand, click, repost, like | oferecer uma superfície perceptiva rápida ou informativa |
