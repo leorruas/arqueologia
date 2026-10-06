@@ -33,3 +33,8 @@ Seu trabalho também ajuda a investigar a ambiguidade entre testemunho e consumo
 ## Cuidado histórico
 
 As formulações de Sontag são ensaísticas e críticas, não uma teoria experimental universal sobre efeitos de imagens. O vault usa suas perguntas para investigar mecanismos e tensões culturais; afirmações causais específicas sobre memória, emoção ou comportamento precisam de literatura empírica própria.
+
+
+## Referências
+
+- Sontag, Susan. *On Photography*. New York: Farrar, Straus and Giroux, 1977. Descrição editorial: https://www.penguinrandomhouse.com/books/816241/sobre-la-fotografia--on-photography-by-susan-sontag/
