@@ -22,7 +22,7 @@ A formulação é uma hipótese operacional do vault. Ela se apoia em duas bases
 
 Essa separação ajuda a analisar “hot topics” sem transformar tendência em rótulo vago. Uma tendência pode envolver recência, volume absoluto, aceleração, concentração temporal e contexto. Momentum isola somente uma dessas dimensões.
 
-No [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], essa variável ajuda a interpretar sinais de crescimento rápido como informação distinta da contagem acumulada. O vault não afirma que exista internamente uma feature chamada “momentum”; trata a ideia como operacionalização para comparar ritmos de atenção.
+No [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], essa variável ajuda a interpretar sinais de crescimento rápido como informação distinta da contagem acumulada. No [[03 artefatos/Trending Topics do X Twitter|Trending Topics do X/Twitter]], a documentação atual oferece uma implementação ainda mais próxima da ideia: contagens são acompanhadas em diferentes durações em tempo real e usadas por algoritmos estatísticos para produzir scores de tendência. O vault não afirma que exista internamente uma feature chamada “momentum”; trata a ideia como operacionalização para comparar ritmos de atenção.
 
 ## Como observar
 
@@ -40,7 +40,7 @@ A variável não prova interesse coletivo espontâneo. Um pico pode resultar de 
 | **Como observar** | Interações por unidade de tempo, crescimento normalizado por exposição, variação recente da taxa |
 | **O que não mede sozinho** | Popularidade acumulada, relevância individual, qualidade, espontaneidade ou causa do crescimento |
 | **Trade-offs principais** | Detecta conteúdos emergentes, mas pode amplificar picos produzidos pelo próprio sistema ou por coordenação externa |
-| **Artefatos-chave** | [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]] |
+| **Artefatos-chave** | [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], [[03 artefatos/Trending Topics do X Twitter|Trending Topics do X/Twitter]] |
 | **Conceitos relacionados** | [[01 conceitos/Engajamento em plataformas digitais|Engajamento em plataformas digitais]], [[01 conceitos/Tendência em plataformas|Tendência em plataformas]], [[01 conceitos/Economia da Atencao|Economia da atenção]] |
 | **Genealogias relacionadas** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] |
 
