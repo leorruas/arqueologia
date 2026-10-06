@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-06T11:41:20.426Z",
+  "generatedAt": "2026-10-06T11:52:57.993Z",
   "rule": "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
   "typeDesignRule": "Tipos de design devem funcionar como ensaios disciplinares. Headings do template atual são permitidos; permanecem suspeitos apenas headings enciclopédicos legados.",
   "pathRule": "Percursos devem funcionar como argumentos de leitura e não usar sequência numerada de resumos de artefatos.",
   "artifactSheetRule": "Cada artefato deve conter uma única Ficha arqueológica em tabela Campo/Registro com os 26 campos definidos no template atual.",
-  "candidateCount": 53,
-  "fileCount": 35,
+  "candidateCount": 57,
+  "fileCount": 36,
   "files": [
     {
       "sourcePath": "00 índices/Indice de Autores.md",
@@ -243,6 +243,35 @@
           "sourcePath": "03 artefatos/Infinite Scroll.md",
           "kind": "frontmatter-title",
           "text": "Infinite Scroll"
+        }
+      ]
+    },
+    {
+      "sourcePath": "03 artefatos/Jobs to Be Done eleitoral.md",
+      "items": [
+        {
+          "sourcePath": "03 artefatos/Jobs to Be Done eleitoral.md",
+          "kind": "h2",
+          "line": 46,
+          "text": "O Job eleitoral nasce de valores, experiências e problemas"
+        },
+        {
+          "sourcePath": "03 artefatos/Jobs to Be Done eleitoral.md",
+          "kind": "h2",
+          "line": 60,
+          "text": "Um Job útil precisa restringir sem prescrever"
+        },
+        {
+          "sourcePath": "03 artefatos/Jobs to Be Done eleitoral.md",
+          "kind": "h2",
+          "line": 70,
+          "text": "O Job vira pergunta para a eleição"
+        },
+        {
+          "sourcePath": "03 artefatos/Jobs to Be Done eleitoral.md",
+          "kind": "h2",
+          "line": 85,
+          "text": "Um voto pode tentar realizar vários Jobs incompatíveis"
         }
       ]
     },
