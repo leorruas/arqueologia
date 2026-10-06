@@ -95,7 +95,7 @@ Talvez a pergunta seja um dos artefatos mais antigos que permanecem centrais jus
 | **Variáveis relacionadas** | [[02 variaveis/Agencia Inferencial|Agência inferencial]] |
 | **Genealogia** | Formulação e direção |
 | **Percurso(s)** | [[05 percursos/Do artefato ao sinal no X Twitter|Do artefato ao sinal no X/Twitter]] |
-| **Parentes**, [[03 artefatos/Gancho de abertura|Gancho de abertura]] | [[03 artefatos/Pergunta de Pesquisa|Pergunta de pesquisa]], [[03 artefatos/Problema de Design|Problema de design]], entrevista, mentoria, terapia, diálogo socrático |
+| **Parentes** | [[03 artefatos/Pergunta de Pesquisa|Pergunta de pesquisa]], [[03 artefatos/Problema de Design|Problema de design]], [[03 artefatos/Gancho de abertura|Gancho de abertura]], entrevista, mentoria, terapia, diálogo socrático |
 | **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Ainda não explicitado. |
 | **Questão em aberto** | Em ambientes com respostas quase instantâneas, a capacidade de formular perguntas passa a valer mais do que a capacidade de recuperar respostas? |
