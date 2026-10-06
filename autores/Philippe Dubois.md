@@ -32,3 +32,9 @@ Para a Arqueologia do Design, Dubois oferece uma ponte entre a materialidade do 
 ## Cuidado histórico
 
 A noção de ato fotográfico é uma formulação teórica sobre o meio. Ela não substitui a história técnica dos processos fotográficos nem prova, sozinha, intenções de fotógrafos específicos.
+
+
+## Referências
+
+- Dubois, Philippe. *L'Acte photographique*. Paris: Nathan, 1983. Registro bibliográfico: https://www.persee.fr/authority/158725
+- Chéroux, Clément. “Sur les traces de Rosalind Krauss”. *Études photographiques*. Discussão histórica da recepção de Dubois e da formulação da imagem-ato: https://journals.openedition.org/etudesphotographiques/pdf/2483
