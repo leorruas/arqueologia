@@ -26,7 +26,7 @@ Quando a rejeição se torna identitária, a compressão ganha outra função: o
 
 ## O que poderia significar reverter aversão
 
-A palavra **reverter** pode esconder resultados diferentes. Um dispositivo pode aumentar simpatia sem mudar voto; diminuir distância social sem alterar avaliação do partido; tornar o adversário menos ameaçador sem criar confiança; ou enfraquecer uma identidade negativa sem produzir adesão positiva. Experimentos de despolarização mostram que esses resultados precisam ser medidos separadamente.[^3]
+A palavra **reverter** pode esconder resultados diferentes. Um dispositivo pode aumentar simpatia sem mudar voto; diminuir distância social sem alterar avaliação do partido; reduzir [[02 variaveis/Ameaça percebida|ameaça percebida]] sem criar confiança; ou enfraquecer uma identidade negativa sem produzir adesão positiva. Experimentos de despolarização mostram que esses resultados precisam ser medidos separadamente.[^3]
 
 A literatura sobre redução de animosidade partidária organiza intervenções em três níveis: pensamentos, relações e instituições.[^4] Essa estrutura é fértil para o design porque cada nível corresponde a famílias diferentes de dispositivos.
 
@@ -79,7 +79,7 @@ A hipótese permanece aberta. Evidências de redução de [[01 conceitos/Polariz
 | **O que ajuda a explicar** | Como signos e sistemas tornam aversão recuperável, transmissível e operacional |
 | **O que não explica sozinho** | Origem causal de toda rejeição, mudança de voto ou qualidade democrática |
 | **Artefatos-chave** | [[03 artefatos/Apelido político|Apelido político]], [[03 artefatos/Clip político|Clip político]], [[03 artefatos/Entrevista longa|Entrevista longa]], [[03 artefatos/Tango|Tango]], [[03 artefatos/Meme|Meme]], [[03 artefatos/Pôster|Pôster]], post, carrossel, documentário, encontro facilitado, feed algorítmico |
-| **Variáveis relacionadas** | [[02 variaveis/Reversibilidade representacional|Reversibilidade representacional]], [[02 variaveis/Prototipicidade percebida|Prototipicidade percebida]], [[02 variaveis/Legibilidade da Mediacao Politica|Legibilidade da mediação política]]; saliência, exposição, distância social e ameaça permanecem parcialmente fora do mapa atual |
+| **Variáveis relacionadas** | [[02 variaveis/Ameaça percebida|Ameaça percebida]], [[02 variaveis/Reversibilidade representacional|Reversibilidade representacional]], [[02 variaveis/Prototipicidade percebida|Prototipicidade percebida]], [[02 variaveis/Legibilidade da Mediacao Politica|Legibilidade da mediação política]]; saliência, exposição e distância social permanecem parcialmente fora do mapa atual |
 | **Genealogias relacionadas** | [[04 genealogias/Compressao do Esforco|Compressão do esforço]], [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] |
 
 ## Referências
