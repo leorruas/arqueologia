@@ -31,6 +31,13 @@ Variáveis são eixos usados para comparar o efeito de decisões de design. Elas
 - [[02 variaveis/Reversibilidade representacional|Reversibilidade representacional]]: **representação rígida ↔ representação revisável** diante de informação nova, contraditória ou individuante.
 - [[02 variaveis/Variabilidade|Variabilidade]]: **estável ↔ altamente variável** nas condições ou resultados de operação.
 
+- [[02 variaveis/Afinidade inferida|Afinidade inferida]]: **baixa ↔ alta afinidade estimada pelo sistema** entre usuário e autor, item, tema ou conjunto de conteúdos.
+- [[02 variaveis/Momentum de atenção|Momentum de atenção]]: **baixo ↔ alto ritmo recente de acumulação de interações** sobre um item.
+- [[02 variaveis/Popularidade|Popularidade]]: **baixa ↔ alta acumulação de atenção social observável** em torno de um item.
+- [[02 variaveis/Propagação|Propagação]]: **baixa ↔ alta redistribuição entre pessoas** por compartilhamentos, envios ou mecanismos equivalentes.
+- [[02 variaveis/Recência|Recência]]: **antigo ↔ recente** na proximidade temporal entre item e momento de apresentação.
+- [[02 variaveis/Tempo de permanência|Tempo de permanência]]: **curto ↔ longo tempo de permanência** diante de item, superfície ou sequência.
+
 ## Como usar
 
 Uma variável só é útil quando ajuda a formular comparação. Em vez de escrever “o artefato tem fricção”, pergunte: **que fricção aumentou, qual diminuiu e para quem?** Em vez de escrever “o sistema melhora a justiça”, investigue qual regra ficou mais previsível e se diferentes atores perceberiam a mudança da mesma forma.

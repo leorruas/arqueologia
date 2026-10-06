@@ -37,6 +37,20 @@ Surge um circuito: **o sistema mostra → a pessoa reage → a reação vira dad
 
 A hipótese de design embutida nessa mudança parece ser simples: comportamento passado, relações sociais e propriedades do conteúdo conseguem prever o valor futuro de uma publicação melhor que a recência isolada. Essa hipótese pode funcionar muito bem sem que o sistema “saiba” o que alguém realmente quer. Ele precisa apenas ordenar candidatos de modo que suas previsões sejam suficientemente úteis para sustentar a experiência.
 
+## O que o sistema chama de engajamento
+
+A palavra “engajamento” tende a esconder diferenças que importam para o ranking. A literatura de mídias sociais trata engajamento como construto multidimensional e mostra que métricas comportamentais funcionam frequentemente como proxies para algo mais amplo do que o sistema consegue observar diretamente.[^9] Para este estudo, portanto, [[01 conceitos/Engajamento em plataformas digitais|engajamento em plataformas digitais]] funciona como conceito guarda-chuva, enquanto os sinais são analisados separadamente.
+
+[[02 variaveis/Tempo de permanência|Tempo de permanência]] registra duração sem provar satisfação. [[02 variaveis/Propagação|Propagação]] observa quando o conteúdo é redistribuído para outras pessoas. [[02 variaveis/Recência|Recência]] registra proximidade temporal. [[02 variaveis/Popularidade|Popularidade]] observa o volume já acumulado de atenção social. [[02 variaveis/Momentum de atenção|Momentum de atenção]] separa desse estoque o ritmo recente de novas interações. [[02 variaveis/Afinidade inferida|Afinidade inferida]] descreve a força da relação que o sistema estima entre usuário e autor, tema ou conteúdo.
+
+Essa decomposição ajuda a entender a mecânica do ranking. Um sistema pode estimar probabilidades diferentes para permanecer, curtir, comentar, compartilhar, salvar ou visitar um perfil e depois combinar essas previsões numa decisão de ordenação. Em sistemas de recomendação, feedback implícito é valioso justamente porque aparece em escala, mas permanece ruidoso e ambíguo: interação observada oferece evidência; ausência de interação não funciona automaticamente como rejeição.[^10]
+
+Podemos representar abstratamente essa transformação como uma coleção de previsões, e não como uma fórmula publicada do Instagram: P(permanecer), P(curtir), P(comentar), P(enviar), P(visitar perfil) e outras. Para produzir uma ordem única, essas previsões precisam ser combinadas segundo objetivos e pesos. Sistemas industriais de recomendação usam arquiteturas multiobjetivo e multitarefa porque diferentes comportamentos carregam informações e valores operacionais diferentes.[^11]
+
+A decisão de peso é uma decisão de design. Se enviar recebe mais importância do que curtir em determinada superfície, o sistema aumenta a oportunidade de conteúdos com maior probabilidade prevista de propagação. Se tempo de permanência pesa mais, outros conteúdos podem ganhar vantagem. O ranking não precisa possuir uma regra explícita sobre cada propriedade cultural do conteúdo para produzir efeitos culturais; basta que certas propriedades humanas aumentem comportamentos aos quais o sistema atribui valor.
+
+Isso também separa popularidade de tendência. Popularidade registra quanto já aconteceu. Momentum registra quão rapidamente está acontecendo agora. A literatura de recomendação trata dinâmica temporal, popularidade, recência e tendências como dimensões distintas porque o valor dos itens e as preferências dos usuários mudam com o tempo.[^12]
+
 ## De acompanhar pessoas a descobrir conteúdos
 
 A transformação seguinte aparece quando o feed deixa de ordenar apenas aquilo que vem das contas seguidas e começa também a inserir recomendações de contas desconhecidas. Em 2022, o Instagram reintroduziu as visualizações **Following** e **Favorites** em ordem cronológica, enquanto descrevia o feed principal como um espaço que receberia cada vez mais recomendações baseadas em interesses.[^4]
@@ -92,8 +106,8 @@ Talvez a consequência mais profunda do ranking personalizado apareça quando pr
 | **Futuro tornado mais provável** | Curadoria algorítmica como camada padrão entre produção abundante de conteúdo e atenção limitada |
 | **Descendentes possíveis** | Recomendações no Feed, Explore e Reels como desdobramentos internos da mesma capacidade de seleção preditiva; parentescos externos exigem estudo comparativo |
 | **Novo problema produzido pelo sucesso** | Como corrigir uma representação aprendida dos interesses quando ela envelhece, estreita a descoberta ou entra em conflito com o que a pessoa quer ver agora |
-| **Conceitos relacionados** | [[01 conceitos/Economia da Atencao|Economia da atenção]], [[01 conceitos/Autonomia da Atencao|Autonomia da atenção]] |
-| **Variáveis relacionadas** | [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Atencao|Atenção]] |
+| **Conceitos relacionados** | [[01 conceitos/Economia da Atencao|Economia da atenção]], [[01 conceitos/Autonomia da Atencao|Autonomia da atenção]], [[01 conceitos/Engajamento em plataformas digitais|Engajamento em plataformas digitais]] |
+| **Variáveis relacionadas** | [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Tempo de permanência|Tempo de permanência]], [[02 variaveis/Propagação|Propagação]], [[02 variaveis/Recência|Recência]], [[02 variaveis/Popularidade|Popularidade]], [[02 variaveis/Momentum de atenção|Momentum de atenção]], [[02 variaveis/Afinidade inferida|Afinidade inferida]] |
 | **Genealogia** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] |
 | **Percurso(s)** | [[05 percursos/Da Parede ao Feed|Da parede ao feed]] |
 | **Parentes** | [[03 artefatos/Botao Like|Botão Like]], [[03 artefatos/Infinite Scroll|Infinite Scroll]], [[03 artefatos/Feed de Videos Curtos|Feed de vídeos curtos]] |
@@ -118,3 +132,12 @@ Talvez a consequência mais profunda do ranking personalizado apareça quando pr
 [^7]: Meta. “2026: AI Drives Performance”. 28 jan. 2026. https://about.fb.com/news/2026/01/2026-ai-drives-performance/
 
 [^8]: Meta. “Reshape Your Instagram With a Recommendations Reset”. 19 nov. 2024, atualizado em 2025. https://about.fb.com/news/2024/11/introducing-recommendations-reset-instagram/
+
+
+[^9]: Trunfio, Mariapina; Rossi, Simona. “Conceptualising and measuring social media engagement: A systematic literature review”. *Italian Journal of Marketing*, 2021, 267–292. DOI: https://doi.org/10.1007/s43039-021-00035-8
+
+[^10]: Hu, Yifan; Koren, Yehuda; Volinsky, Chris. “Collaborative Filtering for Implicit Feedback Datasets”. *2008 Eighth IEEE International Conference on Data Mining*, 2008, pp. 263–272. DOI: https://doi.org/10.1109/ICDM.2008.22
+
+[^11]: Trabalhos de recomendação multiobjetivo e multi-behavior tratam clicks, shares, dwell time e outras respostas como sinais distintos que precisam ser combinados para ranking. Ver, por exemplo, os trabalhos industriais apresentados em ACM RecSys e KDD sobre multi-task ranking, watch-time prediction e long-term engagement.
+
+[^12]: Koren, Yehuda. “Collaborative Filtering with Temporal Dynamics”. *Proceedings of KDD 2009*, 2009. DOI: https://doi.org/10.1145/1557019.1557072. Ver também Karimi et al., “News recommender system: a review of recent progress, challenges, and opportunities”, *Artificial Intelligence Review*, 2021.
