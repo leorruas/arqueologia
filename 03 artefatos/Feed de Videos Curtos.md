@@ -103,6 +103,8 @@ O feed curto mostra que uma sessão não se sustenta apenas porque avançar é f
 
 A continuidade depende, portanto, de duas camadas. A **continuidade mecânica** torna barato chegar ao próximo vídeo. A **continuidade preditiva** tenta tornar esse próximo vídeo suficientemente relevante para merecer atenção.
 
+A própria duração da unidade também interfere naquilo que o sistema consegue aprender. [[01 conceitos/Viés de duração|Viés de duração]] descreve o problema de usar watch time ou conclusão como proxies de interesse quando o comprimento do vídeo altera essas medidas. No vídeo curto, portanto, duração não é apenas uma escolha narrativa: ela participa da régua comportamental pela qual a recomendação pode avaliar permanência e abandono.
+
 A personalização pode ser entendida como serviço e como infraestrutura de continuidade ao mesmo tempo. Ela reduz o trabalho de procurar num catálogo enorme, mas também permite que a sequência seja recalibrada a partir dos rastros produzidos durante o próprio consumo.
 
 O [[03 artefatos/Feed Para Voce do TikTok|Feed Para Você do TikTok]] permite separar ainda melhor as camadas do artefato. O feed de vídeos curtos descreve a gramática de unidade dominante, swipe e descarte rápido; o Para Você descreve a seleção personalizada que decide qual unidade ocupará essa superfície em seguida.
