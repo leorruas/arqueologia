@@ -46,7 +46,6 @@ Estas formulações nasceram ou ganharam sua forma atual dentro desta investiga�
 - [[01 conceitos/Arquiteturas de Continuidade|Arquiteturas de continuidade]]: hipótese sobre como artefatos projetam pontos de parada, repetição e a necessidade — ou não — de uma nova decisão para continuar.
 - [[01 conceitos/Continuidade de Acesso|Continuidade de Acesso]]: hipótese sobre a transformação de acesso episódico em disponibilidade contínua.
 - [[01 conceitos/Design do Voto|Design do voto]]: hipótese sobre como artefatos comunicacionais alteram as condições perceptivas, cognitivas e emocionais em que julgamentos políticos são formados.
-- [[01 conceitos/Design do Voto|Design do voto]]: hipótese sobre como artefatos comunicacionais alteram as condições perceptivas, cognitivas e emocionais em que julgamentos políticos são formados.
 - [[01 conceitos/Ecologia de Artefatos|Ecologia de Artefatos]]: modelo que relaciona artefatos organizacionais pelo recurso invisível que cada um reorganiza.
 - [[01 conceitos/Eras da Economia|Eras da Economia e Design]]: estrutura interpretativa do projeto para comparar mudanças no foco de produção, acesso e decisão.
 - [[01 conceitos/Genealogia de Futuros|Genealogia de Futuros]]: método para investigar como promessas se tornam expectativas e que capacidades, problemas e descendentes surgem quando a hipótese de um artefato vence.
