@@ -77,6 +77,12 @@ A presença aqui não obriga a criação de uma nota. Cada pista deve ser avalia
 - **Carrossel político**: estudar sequência, revelação progressiva e pequenos compromissos sucessivos de atenção em comunicação política. Perguntar como a ordem dos slides altera enquadramento, compreensão e possibilidade de verificação.
 - **Post político como objeto social**: investigar como autor, comentários, métricas, compartilhamentos e contexto de rede participam do significado de uma peça que, isolada como imagem, teria outra leitura.
 
+## Memória, imagem e temporalidade
+
+- **Convocação temporal da imagem**: investigar a capacidade de uma imagem presente mobilizar lembranças, valores e experiências anteriores do observador e fazê-los participar da interpretação atual. A pista deriva de *O refluir do tempo nas imagens de Claudia Andujar* (Santos, 2014), que articula Bergson e Maurício Lissovsky para pensar a fotografia como duração, expectação e vestígio do tempo. A hipótese do vault acrescenta o tempo do espectador ao circuito: fotógrafo → fotografado → imagem → espectador → memória → presente.
+- **Prompt imagético para a memória autobiográfica**: investigar imagens que não especificam uma conclusão, mas apresentam relações capazes de solicitar ao observador que recupere regiões do próprio passado. Comparar com [[03 artefatos/Prompt Conversacional|prompt conversacional]] e [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]] sem presumir equivalência entre linguagem verbal, imagem e geração computacional.
+- **Imagem como entrada para biografia política**: testar se fotografias, objetos ou cenas podem abrir lembranças autobiográficas antes da etapa verbal de reconstrução de políticas públicas e atribuição institucional. Separar intensidade emocional, disponibilidade da lembrança e [[02 variaveis/Legibilidade da Mediacao Politica|Legibilidade da mediação política]] de precisão histórica e mudança de voto.
+
 ## Aversão política e reabertura
 
 - **Caricatura política como dispositivo de aversão**: investigar quando exagero visual deixa de satirizar uma ação e passa a fixar um protótipo inteiro de candidato, partido ou grupo.
