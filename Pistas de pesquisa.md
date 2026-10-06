@@ -75,6 +75,13 @@ A presença aqui não obriga a criação de uma nota. Cada pista deve ser avalia
 - **Carrossel político**: estudar sequência, revelação progressiva e pequenos compromissos sucessivos de atenção em comunicação política. Perguntar como a ordem dos slides altera enquadramento, compreensão e possibilidade de verificação.
 - **Post político como objeto social**: investigar como autor, comentários, métricas, compartilhamentos e contexto de rede participam do significado de uma peça que, isolada como imagem, teria outra leitura.
 
+## Produção de sentido e participação
+
+- **Gramáticas produtivas**: investigar artefatos que não especificam apenas uma saída, mas definem uma estrutura estável dentro da qual outras pessoas produzem variações. A comparação pode atravessar meme, grid, design systems, prompts e métodos lacunados sem presumir descendência histórica.
+- **Autoria da conclusão**: investigar o que muda quando uma mensagem entrega evidências, relações ou perguntas e deixa parte da conclusão para o receptor. Comparar perguntas retóricas, humor, memes e design de investigação; evitar assumir que mais elaboração produz automaticamente mais persuasão.
+- **Carrossel político**: estudar sequência, revelação progressiva e pequenos compromissos sucessivos de atenção em comunicação política. Perguntar como a ordem dos slides altera enquadramento, compreensão e possibilidade de verificação.
+- **Post político como objeto social**: investigar como autor, comentários, métricas, compartilhamentos e contexto de rede participam do significado de uma peça que, isolada como imagem, teria outra leitura.
+
 ## Pistas transversais
 
 - **Etiqueta**: estudar como um objeto passa a carregar informação sobre si mesmo e como classificação, preço, origem ou instrução podem viajar junto com ele.
