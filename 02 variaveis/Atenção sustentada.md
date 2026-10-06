@@ -74,6 +74,6 @@ Em produtos digitais, métricas de sessão não substituem essas medidas. Tempo 
 
 [^1]: Mackworth, Norman H. “The Breakdown of Vigilance during Prolonged Visual Search”. *Quarterly Journal of Experimental Psychology*, 1(1), 1948, pp. 6–21. DOI: https://doi.org/10.1080/17470214808416738
 
-[^2]: Fortenbaugh, Francesca C. et al. “Mapping between Cognitive Theories and Psycho-physiological Models of Attention System Performance”. 2023. A revisão reconstrói o Mackworth Clock Test e registra queda aproximada de 10% nas detecções corretas durante os primeiros 30 minutos do teste original. https://pmc.ncbi.nlm.nih.gov/articles/PMC10502801/
+[^2]: Guidetti, Oliver A.; Speelman, Craig P.; Bouhlas, Peter. “Mapping between Cognitive Theories and Psycho-physiological Models of Attention System Performance”. *Cerebral Cortex*, 33(18), 2023, pp. 10122–10138. A revisão reconstrói o Mackworth Clock Test e registra queda aproximada de 10% nas detecções corretas durante os primeiros 30 minutos do teste original. DOI: https://doi.org/10.1093/cercor/bhad271
 
 [^3]: Robertson, Ian H.; Manly, Tom; Andrade, Jackie; Baddeley, Brian T.; Yiend, Jenny. “‘Oops!’: Performance Correlates of Everyday Attentional Failures in Traumatic Brain Injured and Normal Subjects”. *Neuropsychologia*, 35(6), 1997, pp. 747–758. DOI: https://doi.org/10.1016/S0028-3932(97)00015-8
