@@ -45,6 +45,12 @@ Essa propriedade torna especialmente fértil a relação com [[01 conceitos/Desi
 
 A hipótese precisa permanecer aberta. A literatura sobre perguntas retóricas oferece um antecedente relevante: Petty, Cacioppo e Heesacker mostraram que transformar argumentos em perguntas podia aumentar ou diminuir elaboração conforme a relevância pessoal e a qualidade dos argumentos. Em baixa relevância, perguntas aumentaram o processamento; argumentos fortes se beneficiaram e argumentos fracos puderam perder persuasão.[^7] Esse resultado não é um estudo de memes e não demonstra que mensagens políticas incompletas convencem mais. Ele sustenta uma pergunta de pesquisa: **o que acontece quando o design transfere ao receptor parte do trabalho de produzir a relação entre evidências e conclusão?**
 
+## No TikTok, a infraestrutura pode carregar parte do template
+
+No TikTok, a dinâmica memética pode ser incorporada diretamente às ferramentas de produção. “Use this Sound” permite transportar um áudio para uma nova gravação; Duet preserva um vídeo dentro de outra composição; challenges estabilizam gestos, regras e sequências que outras pessoas podem imitar e modificar. Zulli e Zulli descrevem essa arquitetura como incentivo tecnológico à mimesis e à formação de “imitation publics”.
+
+Isso cria um parentesco especialmente forte entre [[03 artefatos/Meme|meme]], [[01 conceitos/Tendência em plataformas|tendência]] e [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]]. Um padrão pode circular porque é reconhecível e, ao mesmo tempo, crescer porque a plataforma reduz o custo técnico de produzir a próxima versão. No [[03 artefatos/Feed Para Voce do TikTok|Feed Para Você do TikTok]], produção e distribuição passam a alimentar a mesma família de sinais.
+
 ## Quando a piada entra na política
 
 Humor altera algumas condições de circulação da informação política. Em dois estudos experimentais, Jason Coronel e colegas encontraram que informação política apresentada de forma humorística aumentou intenção de compartilhamento e memória em comparação com versões não humorísticas; o trabalho também encontrou maior resposta em regiões associadas a pensar sobre os estados mentais de outras pessoas.[^8] O resultado ajuda a explicar por que uma piada pode chegar acompanhada quase imediatamente da ideia de outra pessoa para quem queremos enviá-la.
