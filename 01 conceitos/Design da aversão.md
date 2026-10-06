@@ -48,7 +48,7 @@ A literatura disponível permite formular cinco famílias de dispositivos para i
 | **Identidade sobreposta** | símbolo ou narrativa de pertencimento compartilhado | fronteira entre “nós” e “eles” | resultados dependem de contexto e do significado do pertencimento comum |
 | **Rebalanceamento da exposição** | ranking, curadoria, redução de amplificação de extremos | percepção de normas e frequência aparente do conflito | mudar exposição não equivale automaticamente a mudar preferência política |
 
-Há ainda evidência de que interações públicas calorosas entre lideranças rivais e mensagens menos hostis vindas de elites podem reduzir medidas de polarização afetiva.[^3][^10] Isso sugere uma sexta operação possível: **modelagem de norma**. O artefato mostra que discordância e convivência podem coexistir, alterando aquilo que parece comportamento permitido ou esperado entre grupos.
+Há ainda evidência de que observar interações públicas calorosas entre lideranças rivais pode reduzir medidas de polarização afetiva.[^3] Em outra linha, tornar um pertencimento compartilhado mais saliente também reduziu polarização afetiva em experimentos conduzidos nos Estados Unidos.[^10] Esses resultados sugerem uma sexta operação possível: **modelagem de norma**. O artefato mostra que discordância e convivência podem coexistir, alterando aquilo que parece comportamento permitido ou esperado entre grupos. A generalização para outros contextos culturais permanece uma pergunta empírica.
 
 ## A reversão encontra a identidade
 
