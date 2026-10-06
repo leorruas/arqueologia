@@ -20,7 +20,7 @@ A variável pode ser observada por compartilhamentos, envios, reposts, retweets 
 
 No [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], compartilhar ou enviar pode funcionar ao mesmo tempo como ação social e como sinal para previsões futuras de ranking. Isso transforma parte da distribuição em comportamento medido pela própria plataforma.
 
-A literatura de difusão mostra que propriedades do conteúdo se associam a diferenças de propagação. Berger e Milkman encontraram relações entre emoção e compartilhamento de artigos, com destaque para estados de maior ativação.[^1] Em comunicação política, trabalhos de Brady e colegas encontraram associação entre linguagem moral-emocional e maior difusão; uma replicação e meta-análise posterior encontrou efeito positivo em múltiplos conjuntos de dados e plataformas.[^2]
+A literatura de difusão mostra que propriedades do conteúdo se associam a diferenças de propagação. Berger e Milkman encontraram que [[02 variaveis/Valência emocional|valência emocional]] se relacionava ao compartilhamento no conjunto estudado, mas também mostraram que positivo versus negativo não bastava para explicar circulação: estados de maior ativação tinham comportamento distinto mesmo dentro da mesma direção afetiva.[^1] Em comunicação política, trabalhos de Brady e colegas encontraram associação entre linguagem moral-emocional e maior difusão; uma replicação e meta-análise posterior encontrou efeito positivo em múltiplos conjuntos de dados e plataformas.[^2]
 
 Esses resultados não autorizam inferir que toda propagação resulta de emoção. Utilidade, identidade, rede, timing, exposição e desenho da plataforma também participam da circulação.
 
