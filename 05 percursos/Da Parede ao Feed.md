@@ -47,6 +47,8 @@ A superfície deixa de apenas tentar chamar o usuário. Começa a aprender algo 
 
 O [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]] transforma esse retorno em curadoria recorrente. A recepção registrada deixa de servir apenas como métrica e passa a participar da escolha da exposição seguinte. O sistema começa a projetar uma sequência diferente para cada pessoa a partir dos rastros que a própria sequência produz.
 
+O [[03 artefatos/Feed algoritmico do X Twitter|Feed algorítmico do X/Twitter]] acrescenta uma tensão própria do tempo real. Quando relevância prevista passa a disputar prioridade com recência, a infraestrutura deixa de apenas ordenar conteúdo e participa de qual recorte do presente parecerá mais importante para cada pessoa.
+
 ## A novidade deixa de ser página e vira condição permanente
 
 O [[03 artefatos/Pull to Refresh|Pull to Refresh]] introduz uma expectativa temporal: talvez exista alguma coisa nova **agora**. Atualizar deixa de exigir um botão visível e entra no próprio gesto de manipular a lista.

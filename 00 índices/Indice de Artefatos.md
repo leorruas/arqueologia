@@ -110,6 +110,7 @@ Este índice organiza estudos publicados por campo de design. A classificação 
 - [[03 artefatos/Autoplay|Autoplay]]: transforma a continuidade de mídia em default e desloca a ação explícita de continuar para a ação de interromper.
 - [[03 artefatos/Feed de Videos Curtos|Feed de vídeos curtos]]: fluxo vertical que integra consumo, descoberta e feedback, reduzindo o custo de experimentar e descartar o próximo vídeo.
 - [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]]: ranking personalizado que transforma rastros de interação em critérios de visibilidade e descoberta.
+- [[03 artefatos/Feed algoritmico do X Twitter|Feed algorítmico do X/Twitter]]: ranking que transforma um fluxo em tempo real em uma versão personalizada do presente e amplia descoberta para além das contas seguidas.
 - [[03 artefatos/Slide to Unlock|Slide to Unlock]]: gesto deliberado de travessia entre estados do dispositivo.
 - [[03 artefatos/Pinch to Zoom|Pinch to Zoom]]: gesto contínuo de manipulação de escala.
 - [[03 artefatos/Pull to Refresh|Pull to Refresh]]: gesto de atualização incorporado à lista móvel.
