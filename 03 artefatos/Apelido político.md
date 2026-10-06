@@ -1,7 +1,7 @@
 ---
 title: "Apelido político"
 type: "artefato"
-status: "rascunho"
+status: "publicado"
 tags:
   - design/artefato
   - arqueologia
@@ -82,7 +82,7 @@ A pergunta arqueológica que fica é: **quando um rótulo deixa de ser comentár
 | **Genealogia** | [[04 genealogias/Compressao do Esforco|Compressão do esforço]] por parentesco cognitivo e semiótico |
 | **Percurso(s)** | [[05 percursos/Da Parede ao Feed|Da parede ao feed]] como possível continuidade futura, ainda não integrado ao argumento principal |
 | **Parentes** | [[03 artefatos/Meme|Meme]], [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Tango|Tango]] como contraste funcional |
-| **Leituras-chave** | Kidron & Ish-Shalom (2025); Johnson (2021); Wong (2025) |
+| **Leituras-chave** | Kidron & Ish-Shalom (2025); Johnson (2021); Kwong (2025) |
 | **Princípio de design revelado** | Um identificador pode transportar uma interpretação quando referência e atributo são fundidos numa unidade repetível |
 | **Questão em aberto** | Que dispositivos conseguem separar novamente pessoa e rótulo depois que a associação se tornou automática? |
 
@@ -92,6 +92,6 @@ A pergunta arqueológica que fica é: **quando um rótulo deixa de ser comentár
 
 [^2]: Kidron, Uri; Ish-Shalom, Piki. “The Populist Name Game: About Populism and Naming.” *Political Studies Review*, 23(2), 2025. DOI: https://doi.org/10.1177/14789299241242259
 
-[^3]: Wong, Wai-Tim. “Political Satire and Collective Reproduction: The Power of Political Nicknames in Hong Kong.” *Signs and Society*, 2025. https://www.cambridge.org/core/journals/signs-and-society/article/political-satire-and-collective-reproduction-the-power-of-political-nicknames-in-hong-kong/8D74CB47615EDDD83F414229E927FB11
+[^3]: Kwong, Ying-ho. “Political Satire and Collective Reproduction: The Power of Political Nicknames in Hong Kong.” *Signs and Society*, 2025. https://www.cambridge.org/core/journals/signs-and-society/article/political-satire-and-collective-reproduction-the-power-of-political-nicknames-in-hong-kong/8D74CB47615EDDD83F414229E927FB11
 
-[^4]: “Crooked Hillary and Sleepy Joe: name-calling’s backfire effect on candidate evaluations.” *Journal of Elections, Public Opinion and Parties*, 34(2), 2024. DOI: https://doi.org/10.1080/17457289.2023.2168677
+[^4]: Dusso, Aaron; Perkins, Sydnee. “Crooked Hillary and Sleepy Joe: name-calling’s backfire effect on candidate evaluations.” *Journal of Elections, Public Opinion and Parties*, 34(2), 2024, pp. 298–318. DOI: https://doi.org/10.1080/17457289.2023.2168677
