@@ -25,6 +25,8 @@ O [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]],
 
 No X/Twitter, o snapshot aberto de 2023 torna essa tradução especialmente legível: o ranker previa separadamente favoritar, repostar, responder, abrir perfil, assistir vídeo, permanecer numa conversa e produzir feedback negativo, antes de combinar as probabilidades num score. Os coeficientes publicados pertencem à configuração de 2023 e não devem ser tratados como pesos atuais ou proporções simples de valor.
 
+No [[03 artefatos/Feed Para Voce do TikTok|Feed Para Você do TikTok]], essa separação aparece explicitamente na documentação do produto: interações do usuário formam uma família de sinais, enquanto sons, hashtags, legendas, visualizações e outras informações do conteúdo formam outra. Chamar todas essas entradas de “engajamento” apagaria a diferença entre **o que a pessoa fez** e **o que o item é ou em que contexto circula**.
+
 Esse processo conecta o conceito a variáveis mais precisas. [[02 variaveis/Tempo de permanência|Tempo de permanência]] observa duração; [[02 variaveis/Propagação|Propagação]] observa redistribuição; [[02 variaveis/Recência|Recência]] observa proximidade temporal; [[02 variaveis/Popularidade|Popularidade]] observa volume acumulado; [[02 variaveis/Momentum de atenção|Momentum de atenção]] observa ritmo recente de crescimento; [[02 variaveis/Afinidade inferida|Afinidade inferida]] observa a força estimada de uma relação entre usuário e conteúdo ou autor.
 
 Cada uma dessas variáveis contém uma definição operacional diferente de sucesso. Permanecer mais tempo sugere sucesso em retenção comportamental; redistribuir sugere sucesso em propagação; acumular interações sugere sucesso em popularidade; crescer rapidamente sugere sucesso em momentum. Recência e afinidade cumprem outra função: ajudam a explicar as condições em que um conteúdo pode receber oportunidade de distribuição, respectivamente pelo tempo e pela relação prevista com uma pessoa. Um mesmo post pode, portanto, ter alta performance numa dimensão e baixa em outra. A expressão “engajou bem” apaga justamente essa diferença.
@@ -51,7 +53,7 @@ Essa escolha também torna visível o poder do sistema de ranking. Se a platafor
 | **Distinção central** | Engajamento amplo ↔ sinais comportamentais observáveis usados como proxies |
 | **O que ajuda a explicar** | Como ações distintas são transformadas em métricas e entradas de sistemas de ranking |
 | **O que não explica sozinho** | Interesse real, satisfação, [[01 conceitos/Acesso consciente|acesso consciente]], [[02 variaveis/Atenção sustentada|atenção sustentada]], compreensão, valor percebido ou intenção do usuário |
-| **Artefatos-chave** | [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]] |
+| **Artefatos-chave** | [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], [[03 artefatos/Feed algoritmico do X Twitter|Feed algorítmico do X/Twitter]], [[03 artefatos/Feed Para Voce do TikTok|Feed Para Você do TikTok]] |
 | **Variáveis relacionadas** | [[02 variaveis/Tempo de permanência|Tempo de permanência]], [[02 variaveis/Propagação|Propagação]], [[02 variaveis/Recência|Recência]], [[02 variaveis/Popularidade|Popularidade]], [[02 variaveis/Momentum de atenção|Momentum de atenção]], [[02 variaveis/Afinidade inferida|Afinidade inferida]], [[02 variaveis/Atenção sustentada|Atenção sustentada]] |
 | **Genealogias relacionadas** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] |
 
