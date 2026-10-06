@@ -94,7 +94,7 @@ Talvez a pergunta seja um dos artefatos mais antigos que permanecem centrais jus
 | **Conceitos relacionados** | [[01 conceitos/Investigacao|Investigação]], [[01 conceitos/Autodeterminacao|Autodeterminação]], [[01 conceitos/Intencao|Intenção]] |
 | **Variáveis relacionadas** | [[02 variaveis/Agencia Inferencial|Agência inferencial]] |
 | **Genealogia** | Formulação e direção |
-| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
+| **Percurso(s)** | [[05 percursos/Do artefato ao sinal no X Twitter|Do artefato ao sinal no X/Twitter]] |
 | **Parentes** | [[03 artefatos/Pergunta de Pesquisa|Pergunta de pesquisa]], [[03 artefatos/Problema de Design|Problema de design]], entrevista, mentoria, terapia, diálogo socrático |
 | **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Ainda não explicitado. |
