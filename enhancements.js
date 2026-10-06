@@ -438,6 +438,8 @@ async function carregarIndiceEditorial() {
     renderizarRelacoesDoArtigo();
   } catch (erro) {
     console.warn("Camada editorial relacional indisponível.", erro);
+  } finally {
+    window.ARQUEOLOGIA_LOADER.pronto("editorial");
   }
 }
 

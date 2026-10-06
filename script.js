@@ -116,18 +116,20 @@ function rotaArtigo(artigo) {
 
 function aplicarTema(tema, persistir = true) {
   document.documentElement.dataset.theme = tema;
-  if (persistir) localStorage.setItem("tema-arqueologia", tema);
+  if (persistir) { try { localStorage.setItem("tema-arqueologia", tema); } catch (_) {} }
   themeToggle.textContent = tema === "dark" ? "modo claro" : "modo escuro";
   document.querySelector('meta[name="theme-color"]')?.setAttribute("content", tema === "dark" ? "#050505" : "#f8fafc");
 }
 
 function iniciarTema() {
-  const salvo = localStorage.getItem("tema-arqueologia");
+  let salvo = null;
+  try { salvo = localStorage.getItem("tema-arqueologia"); } catch (_) {}
   const sistema = window.matchMedia && window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark";
   aplicarTema(salvo || sistema, false);
 }
 
 function mostrarHome(atualizarRota = true) {
+  const carga = window.ARQUEOLOGIA_LOADER.iniciar("Abrindo início");
   document.body.classList.remove("viewing");
   leitorCampo.classList.add("escondido");
   leitorArtigo.classList.add("escondido");
@@ -142,6 +144,7 @@ function mostrarHome(atualizarRota = true) {
   if (atualizarRota && window.location.hash) history.pushState({}, "", window.location.pathname + window.location.search);
   window.scrollTo({ top: 0, behavior: "instant" });
   atualizarNav();
+  window.ARQUEOLOGIA_LOADER.finalizar(carga);
 }
 
 function esconderHome() {
@@ -238,7 +241,8 @@ async function carregarCatalogo() {
   });
 
   renderizarCategorias();
-  tratarRota();
+  await tratarRota();
+  window.ARQUEOLOGIA_LOADER.pronto("catalogo");
 }
 
 function renderizarCategorias() {
@@ -309,6 +313,7 @@ function criarBreadcrumb(container, categoria, titulo) {
 function abrirCampo(categoria, atualizarRota = true) {
   if (!categoriasPublicas[categoria]) return mostrarHome(false);
 
+  const carga = window.ARQUEOLOGIA_LOADER.iniciar("Abrindo índice");
   esconderHome();
   leitorArtigo.classList.add("escondido");
   leitorCampo.classList.remove("escondido");
@@ -342,6 +347,7 @@ function abrirCampo(categoria, atualizarRota = true) {
 
   document.title = `${nomeCategoria(categoria)} • arqueologia do design`;
   window.scrollTo({ top: 0, behavior: "instant" });
+  window.ARQUEOLOGIA_LOADER.finalizar(carga);
 }
 
 async function garantirConteudo(artigo) {
@@ -441,8 +447,12 @@ function montarNavegacaoArtigo(artigo) {
   });
 }
 
+let cargaArtigoAtual = 0;
+
 async function abrirArtigo(artigo, atualizarRota = true) {
   if (!artigo) return;
+  const carga = window.ARQUEOLOGIA_LOADER.iniciar("Abrindo artigo");
+  cargaArtigoAtual = carga;
   esconderHome();
   leitorCampo.classList.add("escondido");
   leitorArtigo.classList.remove("escondido");
@@ -460,11 +470,15 @@ async function abrirArtigo(artigo, atualizarRota = true) {
 
   try {
     const markdown = await garantirConteudo(artigo);
+    if (artigoAtual !== artigo || cargaArtigoAtual !== carga) return;
     corpoArtigo.innerHTML = marked.parse(prepararMarkdown(markdown), { gfm: true, breaks: false });
     montarToc();
   } catch (erro) {
+    if (artigoAtual !== artigo || cargaArtigoAtual !== carga) return;
     corpoArtigo.innerHTML = `<p>não foi possível abrir este estudo agora.</p><pre><code>${erro.message}</code></pre>`;
     el("artigo-toc-sidebar").classList.add("escondido");
+  } finally {
+    window.ARQUEOLOGIA_LOADER.finalizar(carga);
   }
 }
 
@@ -555,7 +569,7 @@ function tratarRota() {
     const categoria = decodeURIComponent(partes[0] || "");
     const titulo = decodeURIComponent(partes.slice(1).join("/") || "");
     const artigo = artigos.find(item => item.categoria === categoria && item.titulo === titulo);
-    if (artigo) abrirArtigo(artigo, false);
+    if (artigo) return abrirArtigo(artigo, false);
     else mostrarHome(false);
   }
 }
@@ -614,4 +628,7 @@ window.addEventListener("hashchange", tratarRota);
 window.addEventListener("scroll", atualizarNav, { passive: true });
 window.addEventListener("resize", atualizarNav);
 
-carregarCatalogo();
+carregarCatalogo().catch(erro => {
+  console.warn("Falha ao iniciar o acervo.", erro);
+  window.ARQUEOLOGIA_LOADER.pronto("catalogo");
+});

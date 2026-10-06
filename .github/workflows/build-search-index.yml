@@ -26,6 +26,12 @@ on:
       - "puc-parity.js"
       - "puc-parity.css"
       - "index.html"
+      - "legacy.html"
+      - "legacy-ios12.js"
+      - "footnotes.js"
+      - "callouts.js"
+      - "loader.js"
+      - "loader.css"
       - "scripts/build-search-index.mjs"
       - "scripts/normalize-sentence-case.mjs"
       - "scripts/migrate-artifact-sheets.mjs"
@@ -58,6 +64,10 @@ jobs:
 
       - name: Validar JavaScript
         run: |
+          node --check loader.js
+          node --check legacy-ios12.js
+          node --check footnotes.js
+          node --check callouts.js
           node --check script.js
           node --check enhancements.js
           node --check puc-parity.js
@@ -68,17 +78,8 @@ jobs:
           node --check scripts/audit-network.mjs
           node --check scripts/consolidate-unresolved-links.mjs
 
-      - name: Normalizar headings estruturais em sentence case
-        run: node scripts/normalize-sentence-case.mjs
-
       - name: Mapear wikilinks sem destino
         run: node scripts/build-search-index.mjs
-
-      - name: Consolidar referências futuras como pistas
-        run: node scripts/consolidate-unresolved-links.mjs
-
-      - name: Migrar e enriquecer fichas arqueológicas
-        run: node scripts/migrate-artifact-sheets.mjs
 
       - name: Auditar sentence case e fichas arqueológicas
         run: node scripts/audit-editorial.mjs

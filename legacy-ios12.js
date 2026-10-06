@@ -211,6 +211,7 @@
   }
 
   function mostrarHome(atualizarRota) {
+    var carga = window.ARQUEOLOGIA_LOADER.iniciar("Abrindo início");
     carregamentoAtual += 1;
     categoriaAtual = null;
     artigoAtual = null;
@@ -229,6 +230,7 @@
       else window.location.hash = "";
     }
     rolarTopo();
+    window.ARQUEOLOGIA_LOADER.finalizar(carga);
   }
 
   function esconderHome() {
@@ -253,6 +255,7 @@
     carregamentoAtual += 1;
     categoriaAtual = categoria;
     artigoAtual = null;
+    var carga = window.ARQUEOLOGIA_LOADER.iniciar("Abrindo índice");
     esconderHome();
     esconder(leitorArtigo);
     mostrar(leitorCampo);
@@ -297,6 +300,7 @@
 
     document.title = nomeCategoria(categoria) + " • arqueologia do design";
     rolarTopo();
+    window.ARQUEOLOGIA_LOADER.finalizar(carga);
   }
 
   function encontrarPorCaminho(caminho) {
@@ -451,9 +455,10 @@
   }
 
   function abrirArtigo(artigo, atualizarRota) {
-    var idCarregamento;
+    var idCarregamento, carga;
     if (!artigo) return;
 
+    carga = window.ARQUEOLOGIA_LOADER.iniciar("Abrindo artigo");
     carregamentoAtual += 1;
     idCarregamento = carregamentoAtual;
     categoriaAtual = artigo.categoria;
@@ -484,10 +489,14 @@
         montarReferenciasLegado();
         marcarMermaidLegado();
         rolarTopo();
+        window.ARQUEOLOGIA_LOADER.finalizar(carga);
+        window.ARQUEOLOGIA_LOADER.pronto("catalogo");
       })
       .catch(function () {
         if (idCarregamento !== carregamentoAtual) return;
         corpoArtigo.innerHTML = '<p class="legacy-status">Não foi possível carregar este estudo neste navegador.</p>';
+        window.ARQUEOLOGIA_LOADER.finalizar(carga);
+        window.ARQUEOLOGIA_LOADER.pronto("catalogo");
       });
   }
 
@@ -615,9 +624,11 @@
         agruparArtigos();
         renderizarCategorias();
         tratarRota();
+        if (!artigoAtual) window.ARQUEOLOGIA_LOADER.pronto("catalogo");
       })
       .catch(function () {
         if (pastas) pastas.innerHTML = '<p class="legacy-status">Não foi possível carregar o catálogo compatível.</p>';
+        window.ARQUEOLOGIA_LOADER.pronto("catalogo");
       });
   }
 

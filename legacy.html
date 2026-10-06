@@ -2,6 +2,8 @@
 <html lang="pt-BR" class="legacy-ios12">
 <head>
   <meta charset="UTF-8">
+  <link rel="stylesheet" href="loader.css?v=1">
+  <script src="loader.js?v=1"></script>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="theme-color" content="#101010">
   <title>arqueologia • do design</title>
@@ -14,6 +16,7 @@
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
+  <div id="initial-loader" class="app-loader" role="status" aria-label="Carregando conteúdo"><div class="app-loader__line" aria-hidden="true"></div></div>
   <nav class="sticky-nav" id="sticky-nav">
     <button class="nav-logo" id="nav-logo" type="button">arqueologia • design</button>
     <label class="nav-search-container" for="nav-search-input">
@@ -91,7 +94,7 @@
     <p>arqueologia do design • um acervo em construção</p>
   </footer>
 
-  <script src="legacy-ios12.js?v=ipad-mini-v2"></script>
+  <script src="legacy-ios12.js?v=loader-ipad-mini-v2"></script>
   <script>
     (function () {
       document.addEventListener("click", function (evento) {
