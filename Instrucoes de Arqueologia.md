@@ -294,6 +294,14 @@ Use commit direto em `main` somente quando a ferramenta conseguir produzir uma a
 
 O pull request não substitui o [[#Protocolo de propagação|Protocolo de propagação]]. Ele fornece o contêiner técnico para que a propagação seja concluída sem publicar estados intermediários inválidos. Se o gate falhar, corrija a branch e valide novamente; não reduza critérios de publicação apenas para obter um workflow verde.
 
+#### Antes de renomear, mover, consolidar ou apagar
+
+Trate mudanças de identidade ou existência de uma nota como operações de propagação antecipada. **Antes** de alterar ou remover o arquivo, procure todas as ocorrências do título e do caminho atuais no repositório e identifique quais notas dependem dele.
+
+Para cada referência encontrada, decida explicitamente entre três destinos: atualizar o link para a nova localização ou nome; redirecionar o vínculo para a nota que absorveu o conteúdo numa consolidação; ou remover a relação quando ela deixou de existir conceitualmente. Inclua índices, fichas arqueológicas, conceitos, variáveis, genealogias, percursos, tipos de design, autores, empresas, `Pistas de pesquisa.md` e `log.md` quando aplicável.
+
+Faça essas correções na mesma transação editorial da operação principal. Depois execute novamente a busca pelo título/caminho antigo e o gate de publicação. O gate confirma a integridade final; não deve ser usado como substituto da varredura preventiva de backlinks.
+
 Decisões aprovadas em 6 de outubro de 2026:
 
 - A ficha arqueológica usa os 33 campos do template atual. O schema compartilhado em `scripts/artifact-schema.mjs` deve permanecer alinhado ao template, ao migrador e à auditoria. Campos ainda não investigados podem registrar “Ainda não explicitado.”; a presença estrutural não autoriza inventar informação.
