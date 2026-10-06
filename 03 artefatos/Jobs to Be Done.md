@@ -127,7 +127,7 @@ A adaptação experimental [[03 artefatos/Jobs to Be Done eleitoral|Jobs to Be D
 | **Futuro tornado mais provável** | Ainda não explicitado. |
 | **Descendentes possíveis** | Ainda não explicitado. |
 | **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
-| **Conceitos relacionados** | [[01 conceitos/Autodeterminacao|Autodeterminação]], [[01 conceitos/Intencao|Intenção]], [[01 conceitos/Formulacao|Formulação]], [[01 conceitos/Investigação|Investigação]], [[01 conceitos/Justificabilidade|Justificabilidade]] |
+| **Conceitos relacionados** | [[01 conceitos/Autodeterminacao|Autodeterminação]], [[01 conceitos/Intenção|Intenção]], [[01 conceitos/Formulacao|Formulação]], [[01 conceitos/Investigação|Investigação]], [[01 conceitos/Justificabilidade|Justificabilidade]] |
 | **Variáveis relacionadas** | [[02 variaveis/Atrito Decisorio|Atrito decisório]], [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Legitimidade Decisoria|Legitimidade decisória]] |
 | **Genealogia** | [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]], por parentesco funcional e cognitivo; família de ideias: artefatos de intenção, formulação e investigação |
 | **Percurso(s)** | Ainda não integrado a um percurso editorial. |
