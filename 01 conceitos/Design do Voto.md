@@ -195,10 +195,4 @@ Na prática, os dois podem se misturar. Uma pergunta também enquadra; uma sele�
 
 [^12]: Cao, Xiaoxia. “The Impacts of Political Internet Memes on Opinions: The Moderating Role of Political Party Identification”. *Southern Communication Journal*, 89(3–4), 2024, pp. 167–177. DOI: https://doi.org/10.1080/1041794X.2024.2345095
 
-[^10]: Coronel, Jason C.; O’Donnell, Matthew B.; Pandey, Prateekshit; Delli Carpini, Michael X.; Falk, Emily B. “Political Humor, Sharing, and Remembering: Insights from Neuroimaging”. *Journal of Communication*, 71(1), 2021, pp. 129–161. DOI: https://doi.org/10.1093/joc/jqaa041
-
-[^11]: Galipeau, Thomas. “The Impact of Political Memes: A Longitudinal Field Experiment”. *Journal of Information Technology & Politics*, 20(4), 2023, pp. 437–453. DOI: https://doi.org/10.1080/19331681.2022.2150737
-
-[^12]: Cao, Xiaoxia. “The Impacts of Political Internet Memes on Opinions: The Moderating Role of Political Party Identification”. *Southern Communication Journal*, 89(3–4), 2024, pp. 167–177. DOI: https://doi.org/10.1080/1041794X.2024.2345095
-
 A literatura experimental sobre enquadramento visual e comunicação política deverá ser expandida nos estudos específicos de cada artefato.
