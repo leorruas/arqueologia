@@ -49,7 +49,7 @@ O sistema não precisa possuir uma variável chamada “CTA”. Basta que o pedi
 | **Período** | Antecedentes em publicidade de resposta direta do século XIX; ampla padronização em interfaces e marketing digital no século XXI |
 | **Autoria** | Atribuição difusa; sem inventor único documentado |
 | **Produto ou contexto** | Publicidade, mala direta, comércio eletrônico, interfaces digitais e plataformas sociais |
-| **Tipo(s) de design** | [[00 tipos de design/Design Grafico|Design gráfico]], [[00 tipos de design/Design de Interface|Design de interface]], [[00 tipos de design/Design de Serviços|Design de serviços]] |
+| **Tipo(s) de design** | [[00 tipos de design/Design Grafico|Design gráfico]], [[00 tipos de design/Design de Interface|Design de interface]], [[00 tipos de design/Design de Servicos|Design de serviços]] |
 | **Empresas ou instituições relacionadas** | Ainda não explicitado. |
 | **Problema original** | Transformar interesse ou exposição em uma resposta identificável |
 | **Mundo antes** | Mensagens podiam persuadir sem tornar explícita a ação esperada ou o caminho de resposta |
