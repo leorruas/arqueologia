@@ -109,7 +109,7 @@ Essas diferenças impedem que “conteúdo político em rede social” seja trat
 
 ## Quando a ferramenta organiza a própria escolha
 
-A [[03 artefatos/Voting Advice Application|Voting Advice Application]] torna explícita uma diferença importante entre participação e autoria da estrutura. O eleitor responde, atribui pesos e recebe um resultado personalizado, mas perguntas, categorias e algoritmo normalmente foram definidos antes de sua chegada.
+A [[03 artefatos/Voting Advice Application|Voting Advice Application]] torna explícita uma diferença importante entre participação e autoria da estrutura. Os artefatos experimentais [[03 artefatos/Biografia política|Biografia política]] e [[03 artefatos/Mapa pessoal de valores políticos|Mapa pessoal de valores políticos]] deslocam a origem dos critérios ainda mais para perto da experiência e das prioridades do eleitor. O eleitor responde, atribui pesos e recebe um resultado personalizado, mas perguntas, categorias e algoritmo normalmente foram definidos antes de sua chegada.
 
 Isso faz da VAA uma gramática produtiva de voto: a mesma estrutura produz recomendações diferentes conforme as respostas de cada pessoa. Ao mesmo tempo, ela mostra que [[02 variaveis/Agencia Inferencial|Agência inferencial]] pode aumentar sem que o eleitor passe a controlar a gramática.
 
@@ -177,7 +177,8 @@ Isso sugere um mecanismo ainda em investigação para o Design do voto: **convoc
 | Sequência | ordem de descoberta | O que muda quando a conclusão chega depois de pequenas etapas? |
 | Pergunta | [[02 variaveis/Agencia Inferencial|agência inferencial]] | Quem parece ter descoberto a conclusão? |
 | Repetição social | percepção de presença e consenso | A mensagem parece importante porque é verdadeira ou porque está em toda parte? |
-| Biografia política | relação entre experiência vivida e atribuição política | Que decisões públicas atravessaram minha vida antes de eu transformá-las em identidade política? |
+| [[03 artefatos/Biografia política|Biografia política]] | relação entre experiência vivida e atribuição política | Que decisões públicas atravessaram minha vida antes de eu transformá-las em identidade política? |
+| [[03 artefatos/Mapa pessoal de valores políticos|Mapa pessoal de valores políticos]] | explicitação de valores e conflitos antes da comparação eleitoral | O que quero proteger, transformar ou recusar antes de saber quem são os candidatos? |
 | Verificação | possibilidade de revisar uma atribuição | Que evidência sustentaria, corrigiria ou desmontaria a história que acabei de produzir? |
 | Convocação temporal | disponibilidade de lembranças autobiográficas durante o julgamento | Que passado esta imagem está tornando presente para quem a observa? |
 
@@ -197,7 +198,7 @@ Isso sugere um mecanismo ainda em investigação para o Design do voto: **convoc
 | **Risco** | Manipulação, insinuação, falsa neutralidade, pressupostos escondidos e confusão entre familiaridade, autoridade e verdade |
 | **Conceitos relacionados** | [[01 conceitos/Design da aversão|Design da aversão]], [[01 conceitos/Partidarismo negativo|Partidarismo negativo]], [[01 conceitos/Identidade política negativa|identidade política negativa]], [[01 conceitos/Polarização afetiva|polarização afetiva]], [[01 conceitos/Voto negativo|voto negativo]], atenção, heurísticas, framing, mere exposure, elaboração, cognição política, propaganda e retórica visual |
 | **Variáveis relacionadas** | [[02 variaveis/Agencia Inferencial|Agência inferencial]], [[02 variaveis/Reversibilidade representacional|Reversibilidade representacional]], [[02 variaveis/Prototipicidade percebida|Prototipicidade percebida]], [[02 variaveis/Legibilidade da Mediacao Politica|Legibilidade da mediação política]] |
-| **Artefatos relacionados** | [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Mascote|Mascote]], [[03 artefatos/Meme|Meme]], [[03 artefatos/Apelido político|Apelido político]], [[03 artefatos/Clip político|Clip político]], [[03 artefatos/Entrevista longa|Entrevista longa]], [[03 artefatos/Tango|Tango]], [[03 artefatos/Voting Advice Application|Voting Advice Application]], [[03 artefatos/Fotografia|fotografia política]], post, carrossel, vídeo curto |
+| **Artefatos relacionados** | [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Mascote|Mascote]], [[03 artefatos/Meme|Meme]], [[03 artefatos/Apelido político|Apelido político]], [[03 artefatos/Clip político|Clip político]], [[03 artefatos/Entrevista longa|Entrevista longa]], [[03 artefatos/Tango|Tango]], [[03 artefatos/Voting Advice Application|Voting Advice Application]], [[03 artefatos/Biografia política|Biografia política]], [[03 artefatos/Mapa pessoal de valores políticos|Mapa pessoal de valores políticos]], [[03 artefatos/Fotografia|fotografia política]], post, carrossel, vídeo curto |
 | **Percursos relacionados** | [[05 percursos/Da Parede ao Feed|Da parede ao feed]], [[05 percursos/Da Parede ao Interlocutor|Da parede ao interlocutor]] |
 | **Questão em aberto** | Quanto de uma escolha política acontece antes de percebermos que estamos escolhendo? |
 
