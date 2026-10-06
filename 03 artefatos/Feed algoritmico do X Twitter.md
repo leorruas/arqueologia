@@ -47,6 +47,8 @@ Também existe uma camada posterior ao score aprendido. O Home Mixer aberto docu
 
 Por enquanto, a hipótese de design central está suficientemente clara: **um fluxo em tempo real pode se tornar mais útil quando o sistema seleciona e ordena aquilo que merece representar o presente de cada pessoa**. A tensão aberta é igualmente clara: quanto mais o sistema seleciona o presente, mais a experiência do “que está acontecendo agora” depende de uma política invisível de relevância.
 
+Essa mediação acontece também em outra escala. O [[03 artefatos/Trending Topics do X Twitter|Trending Topics do X/Twitter]] não escolhe primeiro qual post merece aparecer, mas qual **conversa** merece receber o estatuto de assunto emergente. A documentação atual separa detecção de Trends de recomendação de Trends, mostrando que o X opera duas curadorias paralelas do presente: uma no nível das mensagens e outra no nível dos temas.
+
 ## Ficha arqueológica
 
 | Campo | Registro |
@@ -80,7 +82,7 @@ Por enquanto, a hipótese de design central está suficientemente clara: **um fl
 | **Variáveis relacionadas** | [[02 variaveis/Recência|Recência]], [[02 variaveis/Popularidade|Popularidade]], [[02 variaveis/Afinidade inferida|Afinidade inferida]], [[02 variaveis/Propagação|Propagação]], [[02 variaveis/Momentum de atenção|Momentum de atenção]], [[02 variaveis/Tempo de permanência|Tempo de permanência]] |
 | **Genealogia** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] |
 | **Percurso(s)** | [[05 percursos/Da Parede ao Feed|Da parede ao feed]] |
-| **Parentes** | [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], [[03 artefatos/Feed de Videos Curtos|Feed de vídeos curtos]], [[03 artefatos/Botao Like|Botão Like]] |
+| **Parentes** | [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], [[03 artefatos/Trending Topics do X Twitter|Trending Topics do X/Twitter]], [[03 artefatos/Feed de Videos Curtos|Feed de vídeos curtos]], [[03 artefatos/Botao Like|Botão Like]] |
 | **Leituras-chave** | Documentação oficial do Twitter/X sobre timeline ranking e repositório aberto do sistema de recomendação |
 | **Princípio de design revelado** | Quando o volume excede a capacidade de acompanhar o fluxo, ordenar o presente exige escolher uma teoria operacional de relevância |
 | **Questão em aberto** | O que muda socialmente quando cada pessoa recebe uma versão diferente do que parece estar acontecendo agora? |
