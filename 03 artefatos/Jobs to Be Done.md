@@ -97,6 +97,8 @@ Ele cria uma espécie de espaço negativo em torno do produto. Ao dizer o que pr
 
 Talvez seja por isso que uma boa formulação de Job se pareça tanto com uma vontade. Ela aponta para uma direção suficientemente concreta para orientar, mas suficientemente aberta para que ainda exista algo a ser projetado.
 
+A adaptação experimental [[03 artefatos/Jobs to Be Done eleitoral|Jobs to Be Done eleitoral]] testa esse princípio fora de produto e serviço: formular a transformação coletiva buscada antes de apresentar candidatos, partidos ou políticas específicas. O parentesco é metodológico e comparativo; não há aqui uma linhagem histórica documentada de JTBD aplicado a voto.
+
 ## Ficha arqueológica
 | Campo | Registro |
 |---|---|
@@ -129,7 +131,7 @@ Talvez seja por isso que uma boa formulação de Job se pareça tanto com uma vo
 | **Variáveis relacionadas** | [[02 variaveis/Atrito Decisorio|Atrito decisório]], [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Legitimidade Decisoria|Legitimidade decisória]] |
 | **Genealogia** | [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]], por parentesco funcional e cognitivo; família de ideias: artefatos de intenção, formulação e investigação |
 | **Percurso(s)** | Ainda não integrado a um percurso editorial. |
-| **Parentes** | [[03 artefatos/Brief|Brief]], [[03 artefatos/Pergunta de Pesquisa|Pergunta de pesquisa]], [[03 artefatos/Problema de Design|Problema de design]], [[03 artefatos/North Star|North Star]], [[03 artefatos/Hipótese Científica|Hipótese científica]], [[03 artefatos/Value Proposition Ad Lib|Value Proposition Ad Lib]], [[03 artefatos/Entrevista Qualitativa|Entrevista qualitativa]], [[03 artefatos/Pesquisa Quantitativa|Pesquisa quantitativa]], [[03 artefatos/Customer Journey Map|Customer Journey Map]] |
+| **Parentes** | [[03 artefatos/Brief|Brief]], [[03 artefatos/Pergunta de Pesquisa|Pergunta de pesquisa]], [[03 artefatos/Problema de Design|Problema de design]], [[03 artefatos/North Star|North Star]], [[03 artefatos/Hipótese Científica|Hipótese científica]], [[03 artefatos/Value Proposition Ad Lib|Value Proposition Ad Lib]], [[03 artefatos/Entrevista Qualitativa|Entrevista qualitativa]], [[03 artefatos/Pesquisa Quantitativa|Pesquisa quantitativa]], [[03 artefatos/Customer Journey Map|Customer Journey Map]], [[03 artefatos/Jobs to Be Done eleitoral|Jobs to Be Done eleitoral]] |
 | **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Uma formulação útil pode estabilizar o progresso desejado sem estabilizar prematuramente a solução; sua validade depende da cadeia de evidências que a sustenta |
 | **Questão em aberto** | Como integrar a riqueza causal das histórias de mudança com a comparabilidade de outcomes quantitativos sem reduzir uma tradição à outra? |
