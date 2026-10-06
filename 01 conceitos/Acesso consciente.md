@@ -45,6 +45,8 @@ Os experimentos permitem reconstruir algumas condições recorrentes. Elas não 
 
 **Disponibilidade perceptiva.** Um estímulo muito breve, degradado ou mascarado pode ser processado sem atingir o mesmo nível de acesso que uma apresentação mais forte e estável. O estudo de palavras mascaradas mostra que processamento e relato podem divergir.[^9]
 
+**Estado geral de alerta.** Acesso consciente a um conteúdo específico também precisa ser separado do nível geral de consciência. Sono profundo, anestesia e outros estados alteram a disponibilidade global para processamento consciente; estar acordado, porém, continua longe de garantir acesso a cada estímulo presente. Esta nota investiga principalmente o acesso a conteúdos em pessoas despertas, e não as condições clínicas ou neurais que sustentam o estado consciente como um todo.[^10]
+
 **Orientação da atenção.** Pistas, expectativas e objetivos podem preparar uma região, objeto ou característica para receber processamento prioritário. O paradigma de Posner mostra que orientar antecipadamente a atenção pode acelerar a detecção.[^4]
 
 **Competição.** Outros estímulos e tarefas disputam capacidade. A cegueira por desatenção mostra que uma tarefa dominante pode tornar um evento inesperado praticamente invisível para parte dos observadores, mesmo quando ele atravessa o campo visual.[^6]
