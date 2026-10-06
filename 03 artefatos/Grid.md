@@ -110,7 +110,7 @@ Essa talvez seja sua principal contribuição histórica: transformar restriçã
 | **Variáveis relacionadas** | [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]], [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Custo Transacional|Custo Transacional]] |
 | **Genealogia** | [[04 genealogias/Compressao do Esforco|Compressão do esforço]], [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]], [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]]; família de ideias: tecnologias de diagramação e regras espaciais |
 | **Percurso(s)** | Ainda não integrado a um percurso editorial. |
-| **Parentes** | [[03 artefatos/Fila|Fila]], [[03 artefatos/Pôster|Pôster]], malhas de pintura, planos urbanos ortogonais, sistemas de layout digital |
+| **Parentes** | [[03 artefatos/Fila|Fila]], [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Carrossel|Carrossel]], malhas de pintura, planos urbanos ortogonais, sistemas de layout digital |
 | **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Restrições bem escolhidas podem reduzir o custo de coordenação sem determinar uma única solução Por que funcionou: Converte repetidas decisões espaciais em relações reutilizáveis e comunicáveis |
 | **Questão em aberto** | Quando uma regra estrutural deixa de ampliar possibilidades e passa a reproduzir automaticamente uma estética? |
