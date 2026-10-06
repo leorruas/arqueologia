@@ -34,3 +34,9 @@ Esse enquadramento é especialmente útil para conectar a câmera analógica às
 ## Cuidado histórico
 
 Flusser oferece uma filosofia crítica da fotografia e das imagens técnicas. Seus conceitos de programa e aparelho não devem ser usados como descrição técnica literal de toda câmera nem como explicação histórica completa para a invenção do meio.
+
+
+## Referências
+
+- Flusser, Vilém. *Für eine Philosophie der Fotografie*. Göttingen: European Photography, 1983. Bibliografia: https://www.flusserstudies.net/vil%C3%A9m-flusser-selected-bibliography
+- Flusser, Vilém. *Towards a Philosophy of Photography*. London: Reaktion Books, 2000. https://reaktionbooks.co.uk/work/towards-a-philosophy-of-photography
