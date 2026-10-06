@@ -26,6 +26,8 @@ Já [[03 artefatos/Archive|Archive]] pode reduzir o atrito de uma escolha organi
 
 Esses exemplos mostram que design não elimina simplesmente decisões. Ele pode **pré-resolvê-las, adiá-las, agrupá-las ou devolvê-las ao usuário**.
 
+A [[03 artefatos/Voting Advice Application|Voting Advice Application]] reorganiza o atrito de uma decisão eleitoral complexa. Ela reduz o esforço de comparar programas inteiros ao pré-estruturar perguntas, escalas e cálculos. A hipótese de uma VAA orientada pela questão do eleitor devolve parte desse atrito de forma deliberada: a pessoa precisa formular o que quer descobrir, revisar critérios e decidir pesos antes de aceitar uma recomendação.
+
 ## Confirmação pode ser fricção protetora
 
 [[03 artefatos/Slide to Unlock|Slide to Unlock]] introduzia um gesto deliberado entre tocar o aparelho e entrar no estado de uso. O ganho não estava em tornar a escolha intelectualmente difícil, mas em elevar o custo de confirmação o bastante para separar intenção de acionamento acidental.
@@ -62,7 +64,7 @@ A pergunta central é: **que decisão o usuário ainda precisa tomar aqui, e qua
 | **Como observar** | Número e complexidade de escolhas, confirmações, tempo decisório, abandono e necessidade de formular restrições |
 | **O que não mede sozinho** | Esforço físico total, justiça da decisão ou qualidade das alternativas |
 | **Trade-offs principais** | Menos decisões explícitas pode aumentar fluidez e também transferir poder para defaults ou automação |
-| **Artefatos-chave** | [[03 artefatos/Infinite Scroll|Infinite Scroll]], [[03 artefatos/Prompt Conversacional|Prompt conversacional]], [[03 artefatos/Archive|Archive]], [[03 artefatos/Slide to Unlock|Slide to Unlock]] |
+| **Artefatos-chave** | [[03 artefatos/Voting Advice Application|Voting Advice Application]], [[03 artefatos/Infinite Scroll|Infinite Scroll]], [[03 artefatos/Prompt Conversacional|Prompt conversacional]], [[03 artefatos/Archive|Archive]], [[03 artefatos/Slide to Unlock|Slide to Unlock]] |
 | **Conceitos relacionados** | [[01 conceitos/Paradoxo da Escolha|Paradoxo da escolha]], [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção boa vs fricção ruim]] |
 
 ## Referências
