@@ -57,6 +57,8 @@ O design de interface administra, portanto, um equilíbrio entre **mostrar possi
 
 A [[03 artefatos/Hero Section|hero section]] mostra que a interface começa antes do primeiro comando. A parte inicial de uma página organiza atenção, contexto e expectativa para que a pessoa reconheça onde chegou e o que pode fazer. Seu parentesco com telas de login e outros limiares é menos técnico do que semiótico: todos precisam transformar chegada em orientação suficiente para a próxima ação.
 
+O [[03 artefatos/Gancho de abertura|gancho de abertura]] desloca o mesmo problema para interfaces em que sair custa um gesto. Em feeds, o primeiro frame ou primeira frase não precisa conter toda a mensagem; precisa produzir condições para que o próximo instante ainda aconteça. A interface participa desse problema ao tornar abandono barato, medir permanência e oferecer continuamente um concorrente seguinte.
+
 O badge mostra que essa borda também pode funcionar no sentido contrário. O usuário ainda não entrou no aplicativo, mas o aplicativo já consegue projetar um estado para fora de si. A fronteira da interface deixa de coincidir perfeitamente com a fronteira da aplicação.
 
 Isso aproxima interface de design gráfico. Hierarquia, escala e composição não servem apenas para embelezar uma superfície, mas para reduzir o custo de descobrir o que aquela superfície espera do usuário.
