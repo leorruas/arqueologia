@@ -34,6 +34,12 @@ Há ainda efeitos no lado de quem publica. Em um experimento com usuários de In
 
 Para o vault, a regra analítica fica: **emoções discretas devem ser ligadas ao comportamento específico observado**. Raiva associada a atenção não autoriza concluir raiva associada a compartilhamento; alegria associada a retweet não implica maior permanência; tristeza associada a menor viralidade em um conjunto não estabelece uma lei geral.
 
+## No Twitter, moralização e grupo importam tanto quanto emoção
+
+No Twitter, estudos políticos ajudam a mostrar por que “alta ativação” continua sendo uma explicação incompleta. Brady e colegas encontraram maior difusão de linguagem moral-emocional em debates sobre temas polarizados, enquanto Rathje e colegas encontraram que referências ao grupo político adversário previam compartilhamento ainda mais fortemente que linguagem emocional. O comportamento observado parece depender da combinação entre emoção, moralização, identidade social, audiência e ação disponível.
+
+Ao mesmo tempo, a direção da emoção varia por domínio. Em ciência relacionada à COVID-19, alegria esteve associada a mais retweets e raiva a menos. Isso reforça a regra do vault: ativação é uma dimensão útil de descrição, mas não funciona como proxy universal de performance.
+
 ## Do afeto ao ranking existe uma cadeia intermediária
 
 A documentação pública do [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]] descreve previsões comportamentais, histórico de interação e atributos do conteúdo, mas não declara ativação emocional como sinal de ranking.[^4]
