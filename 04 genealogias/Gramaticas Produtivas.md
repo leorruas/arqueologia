@@ -59,6 +59,12 @@ Isso não implica que a pessoa deva mudar de voto, simpatia ou julgamento. O res
 
 Esse caso amplia o alcance das gramáticas produtivas. Elas podem gerar não apenas objetos ou mensagens, mas também **percursos de reflexão**. O que permanece projetado é a estrutura; a conclusão continua aberta e precisa sobreviver ao encontro com evidências externas.
 
+Há ainda uma hipótese visual derivada da monografia *O refluir do tempo nas imagens de Claudia Andujar*, que lê a fotografia a partir de [[autores/Henri Bergson|Henri Bergson]] e Maurício Lissovsky. Nessa leitura, o instante fotográfico conserva vestígios de uma duração anterior ao clique, e a memória não funciona como estoque estático: lembranças se contraem em direção ao presente e participam da percepção atual.[^1] Isso permite imaginar um tipo particular de gramática produtiva em que a estrutura não organiza apenas respostas futuras, mas **solicita ao observador que atualize regiões do próprio passado**.
+
+Uma imagem pode, então, funcionar como **prompt imagético para a memória autobiográfica**. Certos elementos visuais apresentam relações suficientes para mobilizar lembranças, valores e experiências anteriores sem especificar integralmente o que deve ser lembrado. A hipótese é especialmente relevante para a biografia política: uma fotografia pode abrir a lembrança de uma experiência antes que uma pergunta verbal peça à pessoa que reconstrua política pública, atribuição, consequência e valor.
+
+Esse mecanismo acrescenta um terceiro tempo ao esquema fotográfico discutido na monografia. Além do tempo do fotógrafo e do fotografado que participa da formação da imagem, há o **tempo do espectador que retorna a ela**. A sequência proposta pelo projeto fica: fotógrafo → fotografado → imagem → espectador → memória → presente. Essa extensão é uma hipótese arqueológica do vault; o estudo específico de **Convocação temporal da imagem** permanece como pista de pesquisa antes de ganhar nota própria.
+
 ## O meme transforma estrutura em participação
 
 O [[03 artefatos/Meme|meme]] acrescenta uma mudança importante porque a produção deixa de acontecer apenas dentro de uma equipe ou disciplina profissional. Um template reconhecível pode circular por uma comunidade inteira. Pessoas que não criaram a estrutura inicial passam a utilizá-la para produzir piadas, comentários, ataques, respostas e inversões.
@@ -126,3 +132,8 @@ O princípio também sugere um critério para investigar esses sistemas: **quais
 | **Cuidado histórico** | Grid, JTBD, Ad Lib, meme e prompt emergem de histórias independentes. A genealogia compara uma operação de design compartilhada e não afirma que um artefato deu origem ao outro |
 | **Hipótese em aberto** | Quanto mais uma gramática amplia a capacidade de produzir variações — especialmente quando cada resultado também transporta a regra da próxima produção —, maior precisa ser a capacidade de perceber, questionar e alterar as regras que delimitam esse espaço? |
 
+
+
+## Referências
+
+[^1]: SANTOS, Leonardo Ruas. *O refluir do tempo nas imagens de Claudia Andujar*. Trabalho de Conclusão de Curso (Comunicação Social) — Universidade Federal de Minas Gerais, Belo Horizonte, 2014. A monografia articula Bergson e Maurício Lissovsky para tratar a fotografia como duração, expectação e vestígio do tempo, e é usada aqui como antecedente teórico para a hipótese de atualização da memória pelo observador.
