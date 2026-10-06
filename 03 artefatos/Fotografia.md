@@ -120,7 +120,7 @@ A questão arqueológica passa então a ser: **o que exatamente uma fotografia p
 | **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Design do Voto|Design do voto]], vestígio, enquadramento, evidência, representação e duração |
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Atencao|Atenção]]; [[02 variaveis/Legibilidade da Mediacao Politica|Legibilidade da mediação política]] em usos autobiográficos e políticos específicos |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] |
-| **Percurso(s)** | [[05 percursos/Do artefato ao sinal no X Twitter|Do artefato ao sinal no X/Twitter]] |
+| **Percurso(s)** | [[05 percursos/Do artefato ao sinal em feeds algoritmicos|Do artefato ao sinal em feeds algorítmicos]] |
 | **Parentes** | [[03 artefatos/Camera Fotografica|Câmera fotográfica]], [[03 artefatos/Espelho|Espelho]], [[03 artefatos/Projetor|Projetor]], [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Meme|Meme]], [[03 artefatos/Diário|Diário]] |
 | **Leituras-chave** | *On Photography*, *Camera Lucida*, *L'Acte photographique*, *Towards a Philosophy of Photography* e *O refluir do tempo nas imagens de Claudia Andujar* |
 | **Princípio de design revelado** | Fixar um vestígio altera tanto o passado disponível quanto o presente que sabe poder ser registrado |
