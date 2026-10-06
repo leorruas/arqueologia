@@ -52,6 +52,8 @@ As duas variáveis medem operações diferentes. Prototipicidade pergunta **quan
 
 A relação com [[02 variaveis/Ameaça percebida|ameaça percebida]] também é contingente. Um comportamento ameaçador atribuído a um membro altamente prototípico pode ser generalizado para o grupo com mais facilidade; um membro percebido como atípico pode ter o mesmo comportamento confinado ao caso individual. Representatividade e perigo continuam sendo julgamentos distintos.
 
+[[02 variaveis/Normatividade percebida da hostilidade|Normatividade percebida da hostilidade]] depende parcialmente dessa passagem do caso para o coletivo. Quando exemplos hostis parecem altamente prototípicos, tornam-se candidatos mais fortes a ensinar “como esse grupo normalmente age”; quando parecem excepcionais, sua capacidade de funcionar como evidência normativa tende a diminuir.
+
 ## Como observar
 
 A medida mais direta é pedir avaliações de representatividade: “quanto esta pessoa parece típica de X?”, “quanto ela representa pessoas desse grupo?” ou “quanto se parece com o membro típico da categoria?”. Também podem ser comparadas descrições antes e depois da exposição a um artefato, observando se atributos da pessoa passam a ser atribuídos ao grupo e vice-versa.
