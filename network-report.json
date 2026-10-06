@@ -1,17 +1,23 @@
 {
-  "generatedAt": "2026-10-06T11:52:58.126Z",
+  "generatedAt": "2026-10-06T11:53:42.098Z",
   "scope": "Integração do grafo: títulos duplicados dentro da mesma camada, índices, home, reciprocidade estrutural, tipos de design e nós órfãos. Conceitos e variáveis não exigem backlink exaustivo.",
-  "issueCount": 21,
+  "issueCount": 25,
   "countsByKind": {
-    "missing-from-index": 4,
-    "missing-reciprocal-link": 12,
+    "missing-from-index": 5,
+    "missing-reciprocal-link": 14,
     "orphan-node": 1,
-    "design-type-drift": 4
+    "design-type-drift": 5
   },
   "issues": [
     {
       "kind": "missing-from-index",
       "sourcePath": "03 artefatos/Jobs to Be Done eleitoral.md",
+      "targetPath": "00 índices/Indice de Artefatos.md",
+      "detail": "Arquivo não aparece em 00 índices/Indice de Artefatos.md."
+    },
+    {
+      "kind": "missing-from-index",
+      "sourcePath": "03 artefatos/Teste de simetria eleitoral.md",
       "targetPath": "00 índices/Indice de Artefatos.md",
       "detail": "Arquivo não aparece em 00 índices/Indice de Artefatos.md."
     },
@@ -106,8 +112,20 @@
       "detail": "A ficha liga para 04 genealogias/Permanencia e Memoria Externa.md, mas a nota relacionada não devolve o vínculo."
     },
     {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Teste de simetria eleitoral.md",
+      "targetPath": "00 tipos de design/Design de Interface.md",
+      "detail": "A ficha liga para 00 tipos de design/Design de Interface.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Teste de simetria eleitoral.md",
+      "targetPath": "04 genealogias/Gramaticas Produtivas.md",
+      "detail": "A ficha liga para 04 genealogias/Gramaticas Produtivas.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
       "kind": "orphan-node",
-      "sourcePath": "03 artefatos/Jobs to Be Done eleitoral.md",
+      "sourcePath": "03 artefatos/Teste de simetria eleitoral.md",
       "targetPath": null,
       "detail": "Nota sem links de entrada a partir do acervo auditado."
     },
@@ -126,6 +144,12 @@
     {
       "kind": "design-type-drift",
       "sourcePath": "03 artefatos/Feed de Videos Curtos.md",
+      "targetPath": "00 tipos de design/Design de Interface.md",
+      "detail": "Artefato declara 00 tipos de design/Design de Interface.md, mas o tipo de design não o referencia."
+    },
+    {
+      "kind": "design-type-drift",
+      "sourcePath": "03 artefatos/Teste de simetria eleitoral.md",
       "targetPath": "00 tipos de design/Design de Interface.md",
       "detail": "Artefato declara 00 tipos de design/Design de Interface.md, mas o tipo de design não o referencia."
     },
