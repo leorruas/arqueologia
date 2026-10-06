@@ -22,7 +22,7 @@ A hipótese central é que o design político pode ser especialmente poderoso **
 
 ## Persuasão não é a única variável
 
-Pesquisas experimentais sobre campanhas eleitorais sugerem cautela com a ideia de que uma mensagem isolada simplesmente “muda votos”. Meta-análises e grandes conjuntos de experimentos encontram efeitos persuasivos médios pequenos e bastante dependentes de contexto em eleições gerais.
+Pesquisas experimentais sobre campanhas eleitorais sugerem cautela com a ideia de que uma mensagem isolada simplesmente “muda votos”. Uma meta-análise de 40 experimentos de campo, acompanhada de nove novos experimentos, encontrou efeito médio próximo de zero sobre escolha de candidatos em eleições gerais.[^1] Outro estudo, com 59 experimentos randomizados e 49 anúncios políticos testados com cerca de 34 mil pessoas, encontrou efeitos médios pequenos sobre favorabilidade e voto.[^2] Já um arquivo de 146 experimentos conduzidos por 51 campanhas, com 617 anúncios e mais de 500 mil respondentes, encontrou variação pequena mas real entre anúncios e mostrou que características aparentemente intuitivas têm poder limitado e dependente do contexto para prever quais peças serão mais persuasivas.[^3]
 
 Isso desloca a investigação. Uma peça pode ter pouco efeito como argumento de conversão e ainda assim produzir outros efeitos:
 
@@ -39,7 +39,7 @@ Assim, **persuasão e presença não são a mesma coisa**.
 
 ## O rosto como heurística
 
-Experimentos de Alexander Todorov e colegas mostraram que pessoas formam julgamentos extremamente rápidos de competência a partir de rostos de candidatos e que esses julgamentos se relacionaram com resultados eleitorais. Estudos posteriores com cédulas contendo ou não fotografias ajudam a mostrar que a presença da imagem pode alterar escolhas em determinadas condições.
+Experimentos de Alexander Todorov e colegas mostraram que pessoas formam julgamentos extremamente rápidos de competência a partir de rostos de candidatos e que esses julgamentos se relacionaram com resultados eleitorais.[^4] Trabalhos posteriores mostraram que julgamentos feitos em exposições muito breves também se relacionavam com resultados eleitorais.[^5] Em experimentos randomizados, eleitores receberam cédulas com ou sem fotografias dos candidatos; mostrar as fotos aumentou o voto em candidatos favorecidos pela aparência em determinadas condições, reforçando a hipótese de que a imagem pode funcionar como heurística quando outras informações são escassas.[^6]
 
 A fotografia não acrescenta uma proposta política. Ela acrescenta uma pista a partir da qual o observador pode inferir características.
 
@@ -47,7 +47,7 @@ Isso transforma uma decisão aparentemente gráfica — usar ou não um rosto, q
 
 ## Familiaridade como presença política
 
-A repetição também merece ser tratada como dispositivo. Estudos experimentais indicam que exposição repetida a nomes políticos pode aumentar familiaridade e, em certas condições, preferência.
+A repetição também merece ser tratada como dispositivo. Em quatro experimentos online pré-registrados, participantes foram expostos incidentalmente, com frequências diferentes, a nomes de políticos fictícios em páginas de notícias. Em uma eleição simulada posterior, houve preferência consistente pelo nome apresentado com maior frequência, exceto quando as notícias eram claramente negativas.[^7]
 
 Isso conecta o [[03 artefatos/Pôster|Pôster]] ao feed contemporâneo. Uma única peça talvez não precise convencer. A repetição distribuída pode produzir a sensação de que uma pessoa, ideia ou tema está continuamente presente.
 
@@ -65,7 +65,7 @@ Como no [[03 artefatos/Mascote|Mascote]], o design pode importar associações p
 
 ## Emoção pode alterar o modo de processar
 
-Pesquisas em comunicação política, como os experimentos de Ted Brader, mostram que imagens e música podem alterar estados emocionais e, com eles, a maneira como informação política é processada.
+Pesquisas em comunicação política, como os experimentos de Ted Brader, mostram que imagens e música podem alterar estados emocionais e, com eles, a maneira como informação política é processada.[^8]
 
 Isso sugere um modelo diferente de persuasão:
 
@@ -75,7 +75,7 @@ O design não precisa carregar sozinho a conclusão política. Pode modificar as
 
 ## Quando posição vira comportamento
 
-Estudos sobre ordem de candidatos em cédulas fornecem um caso particularmente importante para a arqueologia da diagramação. Em determinados sistemas e contextos, ocupar a primeira posição pode produzir vantagem eleitoral.
+Estudos sobre ordem de candidatos em cédulas fornecem um caso particularmente importante para a arqueologia da diagramação. Um experimento natural recente, baseado em mais de 29 mil eleições locais da Califórnia entre 1995 e 2021 nas quais a ordem era randomizada, encontrou vantagem causal para candidatos listados primeiro, embora a magnitude variasse conforme candidato e contexto.[^9]
 
 O conteúdo político permanece igual; muda a posição relativa.
 
@@ -169,9 +169,22 @@ Na prática, os dois podem se misturar. Uma pergunta também enquadra; uma sele�
 
 ## Referências iniciais
 
-- Kalla, Joshua L.; Broockman, David E. “The Minimal Persuasive Effects of Campaign Contact in General Elections: Evidence from 49 Field Experiments.” *American Political Science Review*.
-- Coppock, Alexander; Hill, Seth J.; Vavreck, Lynn. “The Small Effects of Political Advertising Are Small Regardless of Context, Message, Sender, or Receiver.” *Science Advances*.
-- Todorov, Alexander et al. “Inferences of Competence from Faces Predict Election Outcomes.” *Science*, 2005.
-- Ballew, Charles C.; Todorov, Alexander. “Predicting Political Elections from Rapid and Unreflective Face Judgments.” *PNAS*, 2007.
-- Brader, Ted. “Striking a Responsive Chord: How Political Ads Motivate and Persuade Voters by Appealing to Emotions.” *American Journal of Political Science*, 2005.
-- Literatura experimental sobre mere exposure, ballot-order effects, visual framing e comunicação política deverá ser expandida em estudos específicos dos artefatos.
+[^1]: Kalla, Joshua L.; Broockman, David E. “The Minimal Persuasive Effects of Campaign Contact in General Elections: Evidence from 49 Field Experiments.” *American Political Science Review*, 112(1), 2018, pp. 148–166. DOI: https://doi.org/10.1017/S0003055417000363
+
+[^2]: Coppock, Alexander; Hill, Seth J.; Vavreck, Lynn. “The Small Effects of Political Advertising Are Small Regardless of Context, Message, Sender, or Receiver: Evidence from 59 Real-time Randomized Experiments.” *Science Advances*, 6(36), 2020, eabc4046. DOI: https://doi.org/10.1126/sciadv.abc4046
+
+[^3]: Hewitt, Luke; Broockman, David; Coppock, Alexander; Tappin, Ben M.; Slezak, James; Coffman, Valerie; Lubin, Nathaniel; Hamidian, Mohammad. “How Experiments Help Campaigns Persuade Voters: Evidence from a Large Archive of Campaigns’ Own Experiments.” *American Political Science Review*, 118(4), 2024, pp. 2021–2039. DOI: https://doi.org/10.1017/S0003055423001387
+
+[^4]: Todorov, Alexander; Mandisodza, Anesu N.; Goren, Amir; Hall, Crystal C. “Inferences of Competence from Faces Predict Election Outcomes.” *Science*, 308(5728), 2005, pp. 1623–1626. DOI: https://doi.org/10.1126/science.1110589
+
+[^5]: Ballew, Charles C.; Todorov, Alexander. “Predicting Political Elections from Rapid and Unreflective Face Judgments.” *Proceedings of the National Academy of Sciences*, 104(46), 2007, pp. 17948–17953. DOI: https://doi.org/10.1073/pnas.0705435104
+
+[^6]: Ahler, Douglas J.; Citrin, Jack; Dougal, Michael C.; Lenz, Gabriel S. “Face Value? Experimental Evidence that Candidate Appearance Influences Electoral Choice.” *Political Behavior*, 39, 2017. DOI: https://doi.org/10.1007/s11109-016-9348-6
+
+[^7]: Pfister, Roland; Schwarz, Katharina A.; Holzmann, Patricia; Reis, Moritz; Yogeeswaran, Kumar; Kunde, Wilfried. “Headlines Win Elections: Mere Exposure to Fictitious News Media Alters Voting Behavior.” *PLOS ONE*, 18(8), 2023, e0289341. DOI: https://doi.org/10.1371/journal.pone.0289341
+
+[^8]: Brader, Ted. “Striking a Responsive Chord: How Political Ads Motivate and Persuade Voters by Appealing to Emotions.” *American Journal of Political Science*, 49(2), 2005, pp. 388–405. DOI: https://doi.org/10.1111/j.0092-5853.2005.00130.x
+
+[^9]: Freeder, Sean; de Benedictis-Kessner, Justin; Bernhard, Rachel. “Alphabet Soup: Randomized Ballot Order and the Representation of Marginalized Candidates.” *Political Behavior*, 2026. DOI: https://doi.org/10.1007/s11109-026-10129-8
+
+A literatura experimental sobre enquadramento visual e comunicação política deverá ser expandida nos estudos específicos de cada artefato.
