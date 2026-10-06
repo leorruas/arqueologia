@@ -26,6 +26,8 @@ Já [[03 artefatos/Archive|Archive]] pode reduzir o atrito de uma escolha organi
 
 Esses exemplos mostram que design não elimina simplesmente decisões. Ele pode **pré-resolvê-las, adiá-las, agrupá-las ou devolvê-las ao usuário**.
 
+O [[03 artefatos/Mapa pessoal de valores políticos|Mapa pessoal de valores políticos]] devolve deliberadamente algum atrito à decisão: antes de comparar candidatos, a pessoa precisa nomear prioridades, reconhecer conflitos e transformar valores em critérios.
+
 A [[03 artefatos/Voting Advice Application|Voting Advice Application]] reorganiza o atrito de uma decisão eleitoral complexa. Ela reduz o esforço de comparar programas inteiros ao pré-estruturar perguntas, escalas e cálculos. A hipótese de uma VAA orientada pela questão do eleitor devolve parte desse atrito de forma deliberada: a pessoa precisa formular o que quer descobrir, revisar critérios e decidir pesos antes de aceitar uma recomendação.
 
 ## Confirmação pode ser fricção protetora
