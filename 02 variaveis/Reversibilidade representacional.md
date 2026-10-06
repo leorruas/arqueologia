@@ -63,6 +63,8 @@ Essa tensão também distingue reversibilidade representacional de [[02 variavei
 
 [[02 variaveis/Prototipicidade percebida|Prototipicidade percebida]] acrescenta outra dimensão. Ela pergunta quanto um indivíduo parece representar a categoria; reversibilidade representacional pergunta se a própria representação consegue mudar. Um caso pouco prototípico pode aumentar individuação e, ao mesmo tempo, ser descartado como exceção, preservando uma representação rígida.
 
+[[02 variaveis/Ameaça percebida|Ameaça percebida]] pode funcionar como condição que torna revisão mais custosa: informação sobre um grupo interpretado como perigoso pode ser processada defensivamente ou reenquadrada como nova evidência de risco. Essa relação permanece hipótese comparativa do projeto e não implica que toda representação rígida seja produzida por ameaça.
+
 ## Do fechamento à reabertura
 
 Dentro de [[01 conceitos/Design da aversão|Design da aversão]], a variável permite comparar dispositivos que operam em níveis diferentes. O [[03 artefatos/Apelido político|apelido político]] pode reduzir revisabilidade por compressão semântica; o [[03 artefatos/Clip político|clip político]], por compressão temporal. A [[03 artefatos/Entrevista longa|entrevista longa]] pode aumentar a quantidade de evidência disponível para revisão; o [[03 artefatos/Tango|Tango]] pode introduzir evidência relacional produzida durante a própria interação.
