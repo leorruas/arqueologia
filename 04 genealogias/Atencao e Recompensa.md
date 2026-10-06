@@ -47,6 +47,8 @@ Talvez a unidade crítica de investigação não seja apenas o conteúdo, e sim 
 
 O [[03 artefatos/Clip político|clip político]] acrescenta outra operação: reduzir a duração necessária para que uma pessoa, fala ou conflito entre na disputa por atenção. O ganho de portabilidade pode fazer um fragmento circular muito mais do que a sequência extensa da qual veio. A [[03 artefatos/Entrevista longa|entrevista longa]] expõe o trade-off inverso: oferece mais continuidade ao custo de exigir atenção sustentada. O parentesco aqui é comportamental e distributivo, não uma afirmação de que formatos curtos produzam necessariamente mais hostilidade.
 
+Essa arquitetura também pode afetar [[02 variaveis/Ameaça percebida|ameaça percebida]] quando torna episódios de perigo, perda ou conflito mais disponíveis e frequentes na experiência do usuário. A relação deve ser testada empiricamente: saliência não equivale automaticamente a percepção de ameaça.
+
 ## Ficha da genealogia
 
 | Campo | Registro |
@@ -60,6 +62,6 @@ O [[03 artefatos/Clip político|clip político]] acrescenta outra operação: re
 | **O que o design redistribui** | Atenção, fricção entre conteúdos, momentos explícitos de decisão e capacidade de convocar o retorno |
 | **Relação de poder** | Sistemas podem aumentar capacidade de escolher e, ao mesmo tempo, reduzir ocasiões em que uma nova escolha precisa ser formulada ou manter demandas perceptivamente presentes fora da sessão |
 | **Conceitos relacionados** | [[01 conceitos/Economia da Atencao|Economia da atenção]], [[01 conceitos/Recompensa Variavel|Recompensa variável]], [[01 conceitos/Autonomia da Atencao|Autonomia da atenção]], [[01 conceitos/Design da aversão|Design da aversão]], [[01 conceitos/Polarização afetiva|polarização afetiva]] |
-| **Variáveis relacionadas** | [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Expectativa de Disponibilidade|Expectativa de disponibilidade]] |
+| **Variáveis relacionadas** | [[02 variaveis/Ameaça percebida|Ameaça percebida]], [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Expectativa de Disponibilidade|Expectativa de disponibilidade]] |
 | **Cuidado histórico** | Semelhanças com mecanismos de recompensa são comparações comportamentais quando não houver evidência de influência direta |
 | **Hipótese em aberto** | A transição entre mensagens e sessões pode ser uma unidade de design tão importante quanto a mensagem; resta investigar quando reduzir pontos de parada ou preservar pendências começa a reduzir autonomia |
