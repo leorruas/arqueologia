@@ -72,7 +72,9 @@ O padrão que começa a aparecer é que “performance” não é uma propriedad
 
 Isso muda a pergunta prática. Em vez de procurar “o formato que o algoritmo gosta”, podemos perguntar **qual comportamento queremos tornar mais provável e que artefato historicamente aprendeu a reduzir o custo desse comportamento**.
 
-O [[03 artefatos/Gancho de abertura|gancho de abertura]] foi promovido a estudo próprio e passou a ligar retenção, acesso consciente e abandono inicial. [[03 artefatos/Pergunta|Pergunta]], [[03 artefatos/Fotografia|Fotografia]], [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Grid|Grid]], [[03 artefatos/Espaço entre Palavras|Espaço entre palavras]] e [[03 artefatos/Mascote|Mascote]] continuam como candidatos ou parentes para investigações específicas. Carrossel, CTA, legenda/texto sobreposto, capa/thumbnail e áudio reutilizável permanecem como lacunas registradas no percurso comparativo.
+O [[03 artefatos/Gancho de abertura|gancho de abertura]] foi promovido a estudo próprio e passou a ligar retenção, acesso consciente e abandono inicial. [[03 artefatos/Pergunta|Pergunta]], [[03 artefatos/Fotografia|Fotografia]], [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Grid|Grid]], [[03 artefatos/Espaço entre Palavras|Espaço entre palavras]] e [[03 artefatos/Mascote|Mascote]] continuam como candidatos ou parentes para investigações específicas.
+
+O inventário também precisa incluir os recursos nativos de participação e circulação do Instagram. Poll, quiz e emoji slider transformam resposta em gesto estruturado; Collabs distribui coautoria e audiência; Remix transforma conteúdo anterior em matéria-prima; Repost redistribui posts e Reels; carrossel organiza uma mensagem em sequência; hashtags e áudio ligam peças a repertórios recuperáveis; [[03 artefatos/Sua vez Add Yours|Sua vez (Add Yours)]] transforma prompt em produção derivada. O [[05 percursos/Do artefato ao sinal em feeds algoritmicos|percurso comparativo]] mantém esse mapa sem transformar todos esses candidatos em notas antes da investigação histórica.
 
 ## Referências
 

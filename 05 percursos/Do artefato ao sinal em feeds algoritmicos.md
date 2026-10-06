@@ -39,6 +39,37 @@ O futuro artefato **CTA** entra nessa mesma família, mas merece estudo separado
 
 [[03 artefatos/Sua vez Add Yours|Sua vez (Add Yours)]] vai além: transforma responder em produzir outro conteúdo. A regra acompanha cada nova peça. No Instagram, essa gramática produz participação derivada; no TikTok, duetos, stitches, templates e tendências cumprem funções parcialmente comparáveis. A semelhança é funcional e precisa ser testada caso a caso. No X, poll, quote-post e thread mostram outras maneiras de tornar participação parte da estrutura do post.
 
+## A plataforma também oferece artefatos prontos de participação
+
+Comparar apenas o formato do conteúdo deixa escapar uma camada decisiva: cada plataforma oferece **recursos nativos que já embutem uma gramática de ação**. Uma enquete reduz uma pergunta aberta a escolhas discretas; um quote post acopla redistribuição e comentário; uma thread transforma fragmentos em sequência; um Duet preserva dois vídeos simultaneamente; um Stitch transforma um trecho anterior em premissa para uma nova fala. Esses recursos funcionam como pequenos artefatos dentro do artefato maior que é a plataforma.
+
+A família das **enquetes** mostra por que equivalência funcional não significa identidade de design. No X, Poll é um tipo de post com até quatro opções, voto privado e duração configurável entre cinco minutos e sete dias.[^7] No Instagram, stickers de enquete, quiz e emoji slider passaram de Stories para Reels, permitindo que a resposta aconteça sobre a própria mídia.[^8] No TikTok, a Enquete nos Comentários, lançada globalmente em setembro de 2026, pode ser criada pelo autor ao comentar no próprio vídeo, admite até cinco opções e mantém a votação dentro da conversa que já se formou abaixo do conteúdo.[^9] Nos três casos, o recurso reduz o custo de responder, mas produz topologias diferentes: resposta como post, resposta como camada sobre a mídia ou resposta como objeto dentro dos comentários.
+
+A família de **redistribuição com ou sem reenquadramento** também se bifurca. O X separa Repost de Quote post: o primeiro redistribui; o segundo preserva o post anterior e acrescenta comentário ou mídia do novo autor.[^10] O Instagram lançou Reposts em 2025 para posts públicos e Reels, e a Meta afirma que um conteúdo repostado pode ser recomendado aos seguidores de quem repostou, mesmo quando essas pessoas não seguem o criador original.[^11] O TikTok usa Repost para recolocar vídeos encontrados pelo usuário no feed Para Você de amigos e comunidade.[^12] Remix, Duet e Stitch acrescentam outra operação: o conteúdo anterior vira matéria-prima para uma nova peça, por composição simultânea, sequência ou reação.[^13][^14]
+
+**Sequência** forma outra família. A thread do X liga vários posts e preserva um comando de “mostrar esta thread” quando um fragmento circula isoladamente.[^15] O carrossel do Instagram organiza várias fotos ou vídeos dentro de um único post e pode ser coassinado por Collabs; a Meta também permite música em carrosséis.[^16] No TikTok, posts de foto e slideshows já criavam sequência no conteúdo, e em setembro de 2026 a plataforma começou a levar a mesma lógica para os comentários com carrosséis de até nove fotos.[^9] Em todos esses casos, a mensagem pode ser parcelada, mas o custo de avançar e a relação entre parte e todo variam.
+
+Há ainda recursos de **indexação e repertório compartilhado**. A documentação do X define hashtag como mecanismo de indexação de palavras-chave e tópicos e vincula seu uso à busca e, em alguns casos, a Trends.[^17] O TikTok declara hashtags e sons como informações de conteúdo usadas tanto em recomendação quanto em busca.[^2] O Instagram mantém hashtags e trending audio em suas Best Practices, mas não publica uma regra segundo a qual simplesmente usar uma hashtag aumente alcance.[^1] Aqui a função mais segura é encontrabilidade e associação temática; ganho de distribuição permanece questão empírica.
+
+Finalmente, existem recursos de **coautoria e produção derivada**. No Instagram, Collabs faz um post, carrossel ou Reel aparecer nas grades e alcançar as audiências dos colaboradores, enquanto [[03 artefatos/Sua vez Add Yours|Sua vez (Add Yours)]] transforma um prompt em convite para novas peças e Remix usa conteúdo existente como estrutura para criação.[^16][^13] O TikTok possui Duet, Stitch e também seu próprio Add Yours, no qual um prompt pode receber respostas por novos posts.[^14][^18] No X, reply, quote post, poll e thread distribuem a participação em formas diferentes, mais orientadas a conversa, reenquadramento e sequência textual do que a coautoria formal.
+
+O primeiro inventário comparativo fica assim:
+
+| Operação projetada | Instagram | TikTok | X/Twitter | Comportamento tornado mais barato |
+|---|---|---|---|---|
+| Escolha discreta | poll, quiz, emoji slider | Enquete nos Comentários | Poll | votar sem formular resposta livre |
+| Redistribuição | Repost, send/share | Repost, share | Repost | transportar conteúdo para outra audiência |
+| Redistribuição + interpretação | Remix, reação | Duet, Stitch | Quote post | reutilizar conteúdo preservando referência ao anterior |
+| Produção por prompt | [[03 artefatos/Sua vez Add Yours|Sua vez (Add Yours)]] | Add Yours | pergunta/poll como parentes funcionais, sem equivalente idêntico | transformar resposta em nova contribuição |
+| Coautoria | Collabs | Duet como produção paralela, mas autoria permanece separada | sem equivalente direto no post comum | compartilhar autoria ou audiência |
+| Sequência | carrossel | post de fotos/slideshow; carrossel em comentários | thread | parcelar uma mensagem e preservar continuidade |
+| Indexação temática | hashtag; áudio/trend como repertório | hashtag e som | hashtag | associar conteúdo a tópico ou repertório recuperável |
+| Conversa | comentário, reply de Story/Reel, DM | comentários, voice comments, photo comments | reply | continuar a mensagem depois da publicação |
+| Revelação condicionada | Reveal em Stories exige DM para revelar | sem equivalente estável mapeado aqui | sem equivalente direto | transformar uma ação do público em condição de acesso |
+| Comentário multimídia | resposta visual em superfícies específicas | voz, foto, Live Photo e carrossel nos comentários | mídia em reply/quote | ampliar o repertório expressivo da resposta |
+
+Esse inventário muda o que “formato” significa. Carrossel, poll, thread, quote post e Duet organizam **ações disponíveis ao público**, não apenas aparência. Eles merecem arqueologia quando conseguirmos reconstruir sua história e distinguir invenção, refinamento, popularização e padronização. Até lá, permanecem mapeados como candidatos, sem wikilinks artificiais.
+
 ## Alguns artefatos foram feitos para viajar
 
 [[03 artefatos/Meme|Meme]] oferece um caso forte porque reconhecimento e recontextualização fazem parte de sua própria gramática. No Instagram, a política de recomendação distingue repost idêntico de transformação material e cita memes, paródias, nova narração e remix como exemplos de alterações que podem continuar elegíveis como conteúdo original.[^5] No X, repost e quote-post tornam a circulação e o reenquadramento operações nativas. No TikTok, sons, hashtags, compartilhamentos e formas de remix fazem conteúdo circular dentro de repertórios reconhecíveis, ainda que “meme” não seja um sinal declarado do ranking.
@@ -99,7 +130,7 @@ A pergunta “qual artefato performa melhor?” pode agora ser reescrita de form
 
 Essa mudança impede que performance vire estética algorítmica. Um gancho pode melhorar permanência e piorar confiança. Um meme pode ampliar propagação e reduzir contexto. Uma pergunta pode gerar replies sem produzir compreensão. Um carrossel pode prolongar interação porque distribui informação melhor ou porque retém uma conclusão até o último card. O sinal registra comportamento; o valor desse comportamento continua sendo uma decisão de design e de finalidade.
 
-Os próximos estudos mais úteis para fechar o mapa são **carrossel**, **CTA**, **legenda/texto sobreposto**, **capa/thumbnail**, **áudio reutilizável**, **thread**, **quote-post** e **poll**. Eles permanecem como pistas até que haja evidência suficiente para tratá-los como nós próprios.
+Os próximos estudos mais úteis para fechar o mapa agora se dividem em famílias. **Poll/enquete** permite comparar resposta discreta entre X, Instagram e TikTok; **repost, quote post, Remix, Duet e Stitch** permitem separar redistribuição de reenquadramento; **carrossel, thread e slideshow** permitem estudar sequência; **hashtag e som reutilizável** permitem estudar indexação e repertório; **Collab e Add Yours** permitem comparar coautoria e produção derivada. CTA, legenda/texto sobreposto e capa/thumbnail continuam como candidatos ligados ao conteúdo em si. Esses itens permanecem como pistas até que cada investigação tenha evidência suficiente para justificar nota própria.
 
 ## Referências
 
@@ -114,3 +145,28 @@ Os próximos estudos mais úteis para fechar o mapa são **carrossel**, **CTA**,
 [^5]: Meta Brasil. “Ajudando o criador de conteúdo a encontrar novos públicos”. 30 abr. 2024. Documenta distribuição progressiva de conteúdo recomendado, prioridade a conteúdo original e exceções para transformações materiais como memes, paródias, nova narração e remix. https://about.fb.com/br/news/2024/04/ajudando-o-criador-de-conteudo-a-encontrar-novos-publicos/
 
 [^6]: Twitter. “What fuels a Tweet’s engagement?”. 10 mar. 2014; Oska, Sophia et al. “A Picture Is Worth a Thousand Views: A Triple Crossover Trial of Visual Abstracts to Examine Their Impact on Research Dissemination”. *Journal of Medical Internet Research*, 22(12), 2020, e22327. A primeira é observacional; a segunda oferece evidência experimental num domínio específico.
+
+[^7]: X Help Center. “About X Polls”. Consultado em 6 out. 2026. Documenta enquetes com até quatro opções, voto privado e duração entre cinco minutos e sete dias. https://help.x.com/en/using-x/x-polls
+
+[^8]: Meta. “Updated Instagram Reels Features”. 3 jun. 2022. Documenta a expansão para Reels dos stickers de poll, quiz e emoji slider já usados em Stories. https://about.fb.com/ko/news/2022/06/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%EB%90%9C-instagram-%EB%A6%B4%EC%8A%A4reels-%EA%B8%B0%EB%8A%A5%EC%9D%84-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4/
+
+[^9]: TikTok Newsroom Brasil. “Diga mais nos comentários: TikTok apresenta comentários por voz, enquetes e carrosséis”. 3 set. 2026. Documenta Enquetes nos Comentários com até cinco opções, Voice Comments, Live Photo Comments e carrosséis de até nove fotos nos comentários. https://newsroom.tiktok.com/diga-mais-nos-comentrios-tiktok-apresenta-comentrios-por-voz-enquetes-e-carrossis?lang=pt-BR
+
+[^10]: X Help Center. “How to Repost”. Consultado em 6 out. 2026. Distingue Repost de Quote post e documenta a possibilidade de adicionar comentário ou mídia ao conteúdo referenciado. https://help.x.com/en/using-x/how-to-repost
+
+[^11]: Meta. “New Instagram Features to Help You Connect”. 6 ago. 2025. Documenta Reposts de posts públicos e Reels e afirma que o conteúdo pode ser recomendado aos seguidores da pessoa que repostou. https://about.fb.com/news/2025/08/new-instagram-features-help-you-connect/
+
+[^12]: TikTok Help Center. “Repost”. Consultado em 6 out. 2026. Define Repost como forma de compartilhar vídeos para amigos e comunidade no feed Para Você. https://support.tiktok.com/en/using-tiktok/exploring-videos/repost
+
+[^13]: Meta. “Introducing New Ways to Collaborate and Create With Reels”. 21 jul. 2022. Documenta Remix de fotos, layouts de reação, adição sequencial de clips e Templates. https://about.fb.com/news/2022/07/new-ways-to-create-instagram-reels-remix/
+
+[^14]: TikTok Help Center. “Duets” e “Stitch”. Consultado em 6 out. 2026. Duet coloca dois vídeos lado a lado; Stitch incorpora parte de um vídeo a uma nova criação. https://support.tiktok.com/en/using-tiktok/creating-videos/duets-settings ; https://support.tiktok.com/en/using-tiktok/creating-videos/stitch
+
+[^15]: X Help Center. “How to create a thread on X”. Consultado em 6 out. 2026. Documenta sequência de posts e o comando “Show this thread” quando um fragmento é compartilhado. https://help.x.com/en/using-x/create-a-thread
+
+[^16]: Meta. “New Ways to Create With Music and Collaborate With Friends on Instagram”. 11 ago. 2023. Documenta música em carrosséis, Collabs com até três coautores e Add Yours em Reels. https://about.fb.com/news/2023/08/music-and-collabs-on-instagram/
+
+[^17]: X Help Center. “How to use hashtags”. Consultado em 6 out. 2026. Define hashtag como mecanismo de indexação de palavras-chave e tópicos, ligado à busca e potencialmente a Trends. https://help.x.com/en/using-x/how-to-use-hashtags
+
+[^18]: TikTok Help Center. “Sua Vez”. Consultado em 6 out. 2026. Documenta prompts Add Yours aos quais outras pessoas respondem adicionando novos posts. https://support.tiktok.com/pt_BR/using-tiktok/creating-videos/add-yours
+
