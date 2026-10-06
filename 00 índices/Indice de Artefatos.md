@@ -103,6 +103,7 @@ Este índice organiza estudos publicados por campo de design. A classificação 
 - [[03 artefatos/Botao Like|Botão Like]]: compressão de aprovação social em um sinal quantificado.
 - [[03 artefatos/Undo Send|Undo Send]]: atraso tático antes da irreversibilidade percebida do envio.
 - [[03 artefatos/Prompt Conversacional|Prompt conversacional]]: instrução computacional por linguagem natural em sistemas generativos.
+- [[03 artefatos/Sua vez Add Yours|Sua vez (Add Yours)]]: sticker participativo que faz um prompt viajar junto com cada resposta e transforma cada contribuição em convite para a próxima.
 - [[03 artefatos/Botao Regenerar|Botão regenerar]]: transforma a variabilidade de uma geração probabilística em ação explícita de pedir outra possibilidade.
 - [[03 artefatos/Temperatura e Criatividade|Temperatura e criatividade]]: traduz controle estatístico de variabilidade em categorias semânticas manipuláveis pelo usuário.
 - [[03 artefatos/LLM Wiki|LLM Wiki]]: síntese persistente mantida por LLM entre fontes brutas e consultas futuras.
