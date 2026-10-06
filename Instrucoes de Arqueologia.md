@@ -47,6 +47,10 @@ Procure reconstruir:
 - que problema surgiu justamente porque a solução funcionou;
 - que descendentes e parentes conceituais se tornaram possíveis depois.
 
+### Nome editorial do projeto
+
+Na prosa dos estudos, conceitos, variáveis, genealogias, percursos e demais textos voltados à leitura, o projeto deve ser chamado de **Arqueologia do Design**. Evitar `neste vault` como autorreferência editorial; preferir `No Arqueologia do Design`. `Vault` permanece como termo técnico quando a documentação estiver descrevendo estrutura de arquivos, automação ou governança.
+
 ## Regimes de afirmação
 
 Toda nota deve distinguir, quando a distinção for relevante, três regimes.
