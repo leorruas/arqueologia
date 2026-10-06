@@ -55,6 +55,10 @@ Catálogo de designers, pesquisadores, teóricos e pioneiros da história do des
 - [[autores/Richard Dawkins|Richard Dawkins]]: origem do termo *meme* como hipótese de transmissão cultural; não inventor do meme de internet.
 - [[autores/Limor Shifman|Limor Shifman]]: formulação comunicacional do meme digital como família de itens relacionados por conteúdo, forma e posicionamento.
 
+### Comunicação e cultura digital
+- [[autores/Richard Dawkins|Richard Dawkins]]: origem do termo *meme* como hipótese de transmissão cultural; não inventor do meme de internet.
+- [[autores/Limor Shifman|Limor Shifman]]: formulação comunicacional do meme digital como família de itens relacionados por conteúdo, forma e posicionamento.
+
 ### Filosofia, sociologia e relações de poder
 - [[autores/Francis Bacon|Francis Bacon]]: método científico indutivo.
 - [[autores/Henri Bergson|Henri Bergson]]: duração, percepção, reconhecimento atento e memória; referência para investigar o que artefatos discretizam, estabilizam ou deixam escapar da experiência.
