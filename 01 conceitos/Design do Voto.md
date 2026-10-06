@@ -117,6 +117,8 @@ A hipótese experimental deste projeto é uma variante **orientada pela questão
 
 O ganho potencial está em aproximar a estrutura decisória daquilo que realmente importa para a pessoa. O risco é transformar uma pergunta estreita ou enviesada em máquina de recomendação. Por isso, a própria gramática precisa conseguir mostrar premissas ausentes, limites de competência do cargo e evidências que poderiam contrariar a conclusão.
 
+O [[03 artefatos/Jobs to Be Done eleitoral|Jobs to Be Done eleitoral]] adiciona uma camada anterior à comparação: formular que progresso coletivo a pessoa deseja produzir antes de escolher quem parece capaz de realizá-lo. Já o [[03 artefatos/Teste de simetria eleitoral|Teste de simetria eleitoral]] entra como contraprova posterior: reaplica o critério a um caso em que a identidade política do ator é trocada e pergunta que diferença factual justificaria eventual mudança de julgamento.
+
 ## A hipótese da pergunta
 
 Uma hipótese aberta deste projeto é particularmente importante: **uma peça que formula uma boa pergunta pode operar de maneira diferente de uma peça que apresenta uma conclusão pronta.**
@@ -179,6 +181,8 @@ Isso sugere um mecanismo ainda em investigação para o Design do voto: **convoc
 | Repetição social | percepção de presença e consenso | A mensagem parece importante porque é verdadeira ou porque está em toda parte? |
 | [[03 artefatos/Biografia política|Biografia política]] | relação entre experiência vivida e atribuição política | Que decisões públicas atravessaram minha vida antes de eu transformá-las em identidade política? |
 | [[03 artefatos/Mapa pessoal de valores políticos|Mapa pessoal de valores políticos]] | explicitação de valores e conflitos antes da comparação eleitoral | O que quero proteger, transformar ou recusar antes de saber quem são os candidatos? |
+| [[03 artefatos/Jobs to Be Done eleitoral|Jobs to Be Done eleitoral]] | transformação coletiva buscada | Que progresso espero tornar mais provável com meu voto antes de escolher o meio? |
+| [[03 artefatos/Teste de simetria eleitoral|Teste de simetria eleitoral]] | consistência do critério sob troca de identidade | Eu avaliaria o mesmo comportamento do mesmo modo se o ator fosse do outro campo político? |
 | Verificação | possibilidade de revisar uma atribuição | Que evidência sustentaria, corrigiria ou desmontaria a história que acabei de produzir? |
 | Convocação temporal | disponibilidade de lembranças autobiográficas durante o julgamento | Que passado esta imagem está tornando presente para quem a observa? |
 
@@ -198,7 +202,7 @@ Isso sugere um mecanismo ainda em investigação para o Design do voto: **convoc
 | **Risco** | Manipulação, insinuação, falsa neutralidade, pressupostos escondidos e confusão entre familiaridade, autoridade e verdade |
 | **Conceitos relacionados** | [[01 conceitos/Design da aversão|Design da aversão]], [[01 conceitos/Partidarismo negativo|Partidarismo negativo]], [[01 conceitos/Identidade política negativa|identidade política negativa]], [[01 conceitos/Polarização afetiva|polarização afetiva]], [[01 conceitos/Voto negativo|voto negativo]], atenção, heurísticas, framing, mere exposure, elaboração, cognição política, propaganda e retórica visual |
 | **Variáveis relacionadas** | [[02 variaveis/Agencia Inferencial|Agência inferencial]], [[02 variaveis/Reversibilidade representacional|Reversibilidade representacional]], [[02 variaveis/Prototipicidade percebida|Prototipicidade percebida]], [[02 variaveis/Legibilidade da Mediacao Politica|Legibilidade da mediação política]] |
-| **Artefatos relacionados** | [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Mascote|Mascote]], [[03 artefatos/Meme|Meme]], [[03 artefatos/Apelido político|Apelido político]], [[03 artefatos/Clip político|Clip político]], [[03 artefatos/Entrevista longa|Entrevista longa]], [[03 artefatos/Tango|Tango]], [[03 artefatos/Voting Advice Application|Voting Advice Application]], [[03 artefatos/Biografia política|Biografia política]], [[03 artefatos/Mapa pessoal de valores políticos|Mapa pessoal de valores políticos]], [[03 artefatos/Fotografia|fotografia política]], post, carrossel, vídeo curto |
+| **Artefatos relacionados** | [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Mascote|Mascote]], [[03 artefatos/Meme|Meme]], [[03 artefatos/Apelido político|Apelido político]], [[03 artefatos/Clip político|Clip político]], [[03 artefatos/Entrevista longa|Entrevista longa]], [[03 artefatos/Tango|Tango]], [[03 artefatos/Voting Advice Application|Voting Advice Application]], [[03 artefatos/Biografia política|Biografia política]], [[03 artefatos/Mapa pessoal de valores políticos|Mapa pessoal de valores políticos]], [[03 artefatos/Jobs to Be Done eleitoral|Jobs to Be Done eleitoral]], [[03 artefatos/Teste de simetria eleitoral|Teste de simetria eleitoral]], [[03 artefatos/Fotografia|fotografia política]], post, carrossel, vídeo curto |
 | **Percursos relacionados** | [[05 percursos/Da Parede ao Feed|Da parede ao feed]], [[05 percursos/Da Parede ao Interlocutor|Da parede ao interlocutor]] |
 | **Questão em aberto** | Quanto de uma escolha política acontece antes de percebermos que estamos escolhendo? |
 
