@@ -33,6 +33,8 @@ Cada uma dessas variáveis contém uma definição operacional diferente de suce
 
 Somar likes, comentários, compartilhamentos e tempo assistido pode ser útil operacionalmente, mas a soma sempre incorpora uma teoria sobre o que vale mais. Um comentário não é apenas um like mais forte; compartilhar redistribui conteúdo, salvar preserva possibilidade de retorno e permanecer pode ocorrer sem qualquer reação explícita.
 
+Há ainda uma fronteira entre comportamento observável e experiência. Uma visualização ou um tempo alto de permanência não demonstram, por si, [[01 conceitos/Acesso consciente|acesso consciente]] ao conteúdo; uma sessão longa também não prova [[02 variaveis/Atenção sustentada|atenção sustentada]]. A pessoa pode permanecer com a tela aberta, agir de modo automático, dividir o foco ou processar apenas parte do que foi exposto. Métricas de engajamento descrevem rastros úteis, mas não fecham a inferência sobre o estado mental que os produziu.
+
 Por isso, no Arqueologia do Design, engajamento não é usado como variável única do tipo baixo ↔ alto. A palavra funciona melhor como conceito guarda-chuva para uma família de comportamentos e métricas. Quando uma análise precisar comparar situações, deve escolher a variável correspondente ao mecanismo investigado.
 
 Essa escolha também torna visível o poder do sistema de ranking. Se a plataforma atribui pesos diferentes a ações diferentes, ela não apenas mede engajamento: participa da definição operacional de quais formas de resposta receberão mais oportunidade de produzir alcance.
@@ -48,9 +50,9 @@ Essa escolha também torna visível o poder do sistema de ranking. Se a platafor
 | **Área principal** | Estudos de mídias sociais / marketing / sistemas de recomendação / IHC |
 | **Distinção central** | Engajamento amplo ↔ sinais comportamentais observáveis usados como proxies |
 | **O que ajuda a explicar** | Como ações distintas são transformadas em métricas e entradas de sistemas de ranking |
-| **O que não explica sozinho** | Interesse real, satisfação, atenção consciente, valor percebido ou intenção do usuário |
+| **O que não explica sozinho** | Interesse real, satisfação, [[01 conceitos/Acesso consciente|acesso consciente]], [[02 variaveis/Atenção sustentada|atenção sustentada]], compreensão, valor percebido ou intenção do usuário |
 | **Artefatos-chave** | [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]] |
-| **Variáveis relacionadas** | [[02 variaveis/Tempo de permanência|Tempo de permanência]], [[02 variaveis/Propagação|Propagação]], [[02 variaveis/Recência|Recência]], [[02 variaveis/Popularidade|Popularidade]], [[02 variaveis/Momentum de atenção|Momentum de atenção]], [[02 variaveis/Afinidade inferida|Afinidade inferida]] |
+| **Variáveis relacionadas** | [[02 variaveis/Tempo de permanência|Tempo de permanência]], [[02 variaveis/Propagação|Propagação]], [[02 variaveis/Recência|Recência]], [[02 variaveis/Popularidade|Popularidade]], [[02 variaveis/Momentum de atenção|Momentum de atenção]], [[02 variaveis/Afinidade inferida|Afinidade inferida]], [[02 variaveis/Atenção sustentada|Atenção sustentada]] |
 | **Genealogias relacionadas** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] |
 
 ## Referências
