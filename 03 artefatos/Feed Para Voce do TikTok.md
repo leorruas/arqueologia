@@ -39,6 +39,18 @@ O circuito é:
 
 No [[03 artefatos/Feed de Videos Curtos|feed de vídeos curtos]], swipe reduz o custo de abandonar. No Para Você, o abandono também se torna informação.
 
+## Permanecer, terminar e repetir não são o mesmo sinal
+
+No TikTok, [[02 variaveis/Tempo de permanência|tempo de permanência]] ocupa posição especialmente importante porque a interface oferece um sinal contínuo mesmo quando a pessoa não curte, comenta nem compartilha. A documentação atual inclui entre as interações do Para Você conteúdo assistido integralmente ou pulado e afirma que, para a maioria das pessoas, sinais como tempo assistido costumam receber peso maior que vários outros fatores.[^6]
+
+Isso não significa que exista uma única métrica chamada “retenção” capaz de representar interesse. Pelo menos quatro observações precisam ser separadas: segundos assistidos, proporção do vídeo consumida, conclusão e repetição. Em 2020, o TikTok citava replays entre as primeiras interações que ajudavam a refinar um feed recém-inicializado; a documentação atual consultada enfatiza full watch, skip e watch time, sem listar replay como um sinal geral com peso conhecido.[^3][^6]
+
+A diferença importa porque cada medida carrega um problema estatístico diferente. Watch time bruto é influenciado pelo comprimento do vídeo. A literatura de recomendação chama essa distorção de [[01 conceitos/Viés de duração|viés de duração]]: vídeos mais longos têm mais oportunidade de acumular segundos mesmo quando o interesse não é maior.[^7] Em direção complementar, um estudo controlado de 2026 sobre TikTok encontrou que a própria duração do vídeo era a feature de metadata mais forte para prever conclusão, mostrando que “assistiu até o fim” também não pode ser interpretado sem considerar o tamanho do item.[^8]
+
+Pesquisadores da ByteDance publicaram em 2026 um método de debiasing que trata watch time como proxy importante de satisfação, mas corrige sua posição relativa segundo distribuições de referência de usuário e vídeo para reduzir efeitos de duração, popularidade e hábitos individuais.[^9] O trabalho mostra a maturidade desse problema em sistemas industriais; não é documentação de que o TikTok use exatamente esse modelo no Para Você.
+
+O ponto arqueológico é maior que a métrica. **A duração do conteúdo altera a forma como o comportamento do público se torna legível para a máquina.** Escolher fazer um vídeo de 12 segundos ou de dois minutos não muda apenas narrativa e ritmo; muda também as condições sob as quais permanência, conclusão e abandono poderão ser interpretados.
+
 ## Descoberta sem catálogo
 
 Serviços de mídia anteriores já usavam recomendação, playlists e sugestões. A mudança de interface do TikTok está em reduzir fortemente o intervalo entre **escolher** e **consumir**. O usuário não precisa necessariamente abrir um catálogo, ler títulos, comparar thumbnails ou decidir qual criador merece atenção. O próximo item já ocupa quase toda a tela e pode ser avaliado durante o próprio consumo.
@@ -88,7 +100,7 @@ Essa hipótese transforma o feed em algo maior que uma lista ordenada. Ele funci
 | **Futuro tornado mais provável** | Plataformas em que recomendação antecede relação social explícita e o conteúdo pode circular antes de o autor possuir grande audiência |
 | **Descendentes possíveis** | Feeds personalizados de vídeo curto em outras plataformas; vínculos históricos específicos precisam ser demonstrados caso a caso |
 | **Novo problema produzido pelo sucesso** | Como preservar exploração, diversidade, autonomia e segurança quando o sistema se torna muito eficiente em repetir padrões de atenção já observados |
-| **Conceitos relacionados** | [[01 conceitos/Engajamento em plataformas digitais|Engajamento em plataformas digitais]], [[01 conceitos/Autonomia da Atencao|Autonomia da atenção]], [[01 conceitos/Economia da Atencao|Economia da atenção]], [[01 conceitos/Feedback negativo em recomendação|Feedback negativo em recomendação]] |
+| **Conceitos relacionados** | [[01 conceitos/Engajamento em plataformas digitais|Engajamento em plataformas digitais]], [[01 conceitos/Autonomia da Atencao|Autonomia da atenção]], [[01 conceitos/Economia da Atencao|Economia da atenção]], [[01 conceitos/Feedback negativo em recomendação|Feedback negativo em recomendação]], [[01 conceitos/Viés de duração|Viés de duração]] |
 | **Variáveis relacionadas** | [[02 variaveis/Tempo de permanência|Tempo de permanência]], [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Afinidade inferida|Afinidade inferida]], [[02 variaveis/Propagação|Propagação]], [[02 variaveis/Popularidade|Popularidade]], [[02 variaveis/Recência|Recência]] |
 | **Genealogia** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] |
 | **Percurso(s)** | [[05 percursos/Da Parede ao Feed|Da parede ao feed]] |
@@ -108,3 +120,12 @@ Essa hipótese transforma o feed em algo maior que uma lista ordenada. Ele funci
 [^4]: TikTok Support. “Como o TikTok recomenda conteúdo”. Consultado em 6 out. 2026. A documentação atual descreve interações, informações do conteúdo e informações do usuário como fatores principais e afirma que, para a maioria das pessoas, interações como tempo assistido costumam ter maior peso. https://support.tiktok.com/pt_BR/using-tiktok/exploring-videos/how-tiktok-recommends-content
 
 [^5]: TikTok. “Uma atualização sobre nosso trabalho para proteger e diversificar as recomendações”. 5 jan. 2022. https://newsroom.tiktok.com/proteger-diversificar-recomendacoes/?lang=pt-BR
+
+
+[^6]: TikTok Support. “How TikTok recommends content”. Consultado em 6 out. 2026. O Para Você considera likes, shares, comentários, vídeos assistidos integralmente ou pulados e afirma que, para a maioria dos usuários, interações como tempo assistido costumam receber peso maior. https://support.tiktok.com/en/using-tiktok/exploring-videos/how-tiktok-recommends-content
+
+[^7]: Quan, Yuhan et al. “Alleviating Video-length Effect for Micro-video Recommendation”. *ACM Transactions on Information Systems*, 42(2), 2024, art. 44. DOI: https://doi.org/10.1145/3617826
+
+[^8]: “Exploring the Limits of Predicting User Watching Behavior with Short-Form Videos on TikTok”. *WebSci ’26 Companion*, 2026. DOI: https://doi.org/10.1145/3795513.3810457
+
+[^9]: Liu, Emily et al. “Relative Advantage Debiasing for Watch-Time Prediction in Short-Video Recommendation”. *AAAI-26*, 40(18), 2026, pp. 15296–15305. DOI: https://doi.org/10.1609/aaai.v40i18.38555
