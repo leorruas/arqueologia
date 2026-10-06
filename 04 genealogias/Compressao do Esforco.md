@@ -64,6 +64,6 @@ A pergunta de design, então, não é “quantos passos conseguimos eliminar?”
 | **O que o design redistribui** | Esforço motor, cognitivo, temporal, decisional, social e institucional |
 | **Relação de poder** | Ao decidir quais etapas podem ser comprimidas, o sistema também decide quais momentos de escolha, trabalho ou ambiguidade permanecem visíveis |
 | **Conceitos relacionados** | [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Design da aversão|Design da aversão]], [[01 conceitos/Redução de Inferências|Redução de inferências]], [[01 conceitos/Memoria Distribuida|Memória distribuída]] |
-| **Variáveis relacionadas** | [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Atrito Decisorio|Atrito decisório]], [[02 variaveis/Reversibilidade representacional|Reversibilidade representacional]] |
+| **Variáveis relacionadas** | [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Atrito Decisorio|Atrito decisório]], [[02 variaveis/Reversibilidade representacional|Reversibilidade representacional]], [[02 variaveis/Prototipicidade percebida|Prototipicidade percebida]] |
 | **Cuidado histórico** | Os artefatos não formam uma linhagem direta; são comparados pela operação de reduzir e redistribuir esforço |
 | **Hipótese em aberto** | “Conveniência” pode ser decomposta por tipo de esforço; resta investigar quando a compressão remove trabalho inútil e quando apenas torna invisível trabalho que continua existindo |
