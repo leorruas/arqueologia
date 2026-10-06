@@ -24,6 +24,12 @@ A literatura de difusão mostra que propriedades do conteúdo se associam a dife
 
 Esses resultados não autorizam inferir que toda propagação resulta de emoção. Utilidade, identidade, rede, timing, exposição e desenho da plataforma também participam da circulação.
 
+## No TikTok, compartilhar é simultaneamente circulação e preferência
+
+No [[03 artefatos/Feed Para Voce do TikTok|Feed Para Você do TikTok]], compartilhar aparece na documentação oficial como uma interação usada para personalização. O mesmo gesto produz duas coisas: redistribui o vídeo para outra pessoa ou contexto e fornece ao sistema evidência sobre aquilo que o usuário considerou digno de circular. Esse duplo papel torna share especialmente diferente de like, que pode permanecer restrito ao encontro original entre pessoa e conteúdo.
+
+A interpretação exige cautela: compartilhar não equivale a aprovar. Ainda assim, do ponto de vista do sistema, ele é um sinal comportamental com forte implicação distributiva porque altera tanto a rede humana quanto os dados usados para futuras recomendações.
+
 ## No Twitter político, propagação também pode carregar fronteiras de grupo
 
 Em grandes amostras de discussão política no Twitter, linguagem moral-emocional esteve associada a mais retweets, com efeito mais forte dentro de redes ideológicas. Em outro estudo com milhões de posts de mídia e congressistas, referências ao grupo adversário foram ainda mais fortes como preditoras de retweet e compartilhamento. Isso mostra que propagação pode transportar identidade, aversão e moralização junto com informação.
@@ -46,7 +52,7 @@ A distinção é importante para estudar poder. Quando o ranking valoriza previs
 | **Como observar** | Compartilhamentos, envios, reposts, retweets, taxa de compartilhamento por impressão ou usuário exposto |
 | **O que não mede sozinho** | Aprovação, alcance total, veracidade, utilidade ou valência emocional |
 | **Trade-offs principais** | Facilita circulação social e descoberta, mas pode amplificar conteúdos selecionados por propriedades que favorecem retransmissão |
-| **Artefatos-chave** | [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]] |
+| **Artefatos-chave** | [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], [[03 artefatos/Feed algoritmico do X Twitter|Feed algorítmico do X/Twitter]], [[03 artefatos/Feed Para Voce do TikTok|Feed Para Você do TikTok]] |
 | **Conceitos relacionados** | [[01 conceitos/Engajamento em plataformas digitais|Engajamento em plataformas digitais]], [[01 conceitos/Economia da Atencao|Economia da atenção]] |
 | **Genealogias relacionadas** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] |
 
