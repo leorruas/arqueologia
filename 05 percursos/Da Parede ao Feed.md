@@ -47,6 +47,8 @@ A superfície deixa de apenas tentar chamar o usuário. Começa a aprender algo 
 
 O [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]] transforma esse retorno em curadoria recorrente. A recepção registrada deixa de servir apenas como métrica e passa a participar da escolha da exposição seguinte. O sistema começa a projetar uma sequência diferente para cada pessoa a partir dos rastros que a própria sequência produz.
 
+O [[03 artefatos/Feed Para Voce do TikTok|Feed Para Você do TikTok]] desloca a relação entre audiência e fonte. Em vez de exigir que a pessoa construa primeiro uma rede de contas, a sequência personalizada pode apresentar o conteúdo antes do vínculo social; assistir e descartar ajudam a formar a próxima seleção. A descoberta deixa de ser apenas percurso por uma rede já escolhida e passa a ser uma inferência contínua sobre interesses.
+
 O [[03 artefatos/Feed algoritmico do X Twitter|Feed algorítmico do X/Twitter]] acrescenta uma tensão própria do tempo real. Quando relevância prevista passa a disputar prioridade com recência, a infraestrutura deixa de apenas ordenar conteúdo e participa de qual recorte do presente parecerá mais importante para cada pessoa.
 
 O [[03 artefatos/Trending Topics do X Twitter|Trending Topics do X/Twitter]] opera um nível acima: detecta quando muitas mensagens parecem formar uma conversa emergente e comprime essa dinâmica numa lista de assuntos. O feed seleciona mensagens; Trends seleciona acontecimentos legíveis.
