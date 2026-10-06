@@ -13,6 +13,8 @@ O [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]] 
 
 Este percurso investiga essa cadeia sem transformar correlação em receita. A pergunta é: **quais artefatos já estudados no Arqueologia do Design possuem mecanismos que podem plausivelmente alterar sinais que o Instagram mede?**
 
+A comparação entre plataformas passou a ser feita em [[05 percursos/Do artefato ao sinal em feeds algoritmicos|Do artefato ao sinal em feeds algorítmicos]]. Esta nota permanece como aprofundamento específico do Instagram: preserva evidências, mecanismos e dúvidas que perderiam detalhe numa síntese entre plataformas.
+
 A sequência de análise será:
 
 **artefato de design → comportamento humano → sinal observável → possível efeito de distribuição**
@@ -70,7 +72,7 @@ O padrão que começa a aparecer é que “performance” não é uma propriedad
 
 Isso muda a pergunta prática. Em vez de procurar “o formato que o algoritmo gosta”, podemos perguntar **qual comportamento queremos tornar mais provável e que artefato historicamente aprendeu a reduzir o custo desse comportamento**.
 
-Os próximos candidatos do Arqueologia do Design são [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Grid|Grid]], [[03 artefatos/Espaço entre Palavras|Espaço entre palavras]], [[03 artefatos/Pergunta|Pergunta]], [[03 artefatos/Mascote|Mascote]] e [[03 artefatos/Fotografia|Fotografia]]. Eles entram numa segunda rodada porque suas ligações com sinais de ranking parecem mais indiretas e precisam de evidência específica antes de serem promovidas no mapa.
+O [[03 artefatos/Gancho de abertura|gancho de abertura]] foi promovido a estudo próprio e passou a ligar retenção, acesso consciente e abandono inicial. [[03 artefatos/Pergunta|Pergunta]], [[03 artefatos/Fotografia|Fotografia]], [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Grid|Grid]], [[03 artefatos/Espaço entre Palavras|Espaço entre palavras]] e [[03 artefatos/Mascote|Mascote]] continuam como candidatos ou parentes para investigações específicas. Carrossel, CTA, legenda/texto sobreposto, capa/thumbnail e áudio reutilizável permanecem como lacunas registradas no percurso comparativo.
 
 ## Referências
 
