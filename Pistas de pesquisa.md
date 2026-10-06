@@ -70,6 +70,7 @@ A presença aqui não obriga a criação de uma nota. Cada pista deve ser avalia
 
 ## Produção de sentido e participação
 
+- **Gramáticas autopropagáveis**: investigar estruturas nas quais cada resultado produzido preserva ou transporta a regra que permite a próxima produção. O [[03 artefatos/Sua vez Add Yours|Sua vez (Add Yours)]] é o primeiro caso explícito do vault; comparar futuramente correntes, challenges, hashtags participativas e templates nativos sem presumir que todos funcionem pelo mesmo mecanismo.
 - **Autoria da conclusão**: investigar o que muda quando uma mensagem entrega evidências, relações ou perguntas e deixa parte da conclusão para o receptor. Comparar perguntas retóricas, humor, memes e design de investigação; evitar assumir que mais elaboração produz automaticamente mais persuasão.
 - **Carrossel político**: estudar sequência, revelação progressiva e pequenos compromissos sucessivos de atenção em comunicação política. Perguntar como a ordem dos slides altera enquadramento, compreensão e possibilidade de verificação.
 - **Post político como objeto social**: investigar como autor, comentários, métricas, compartilhamentos e contexto de rede participam do significado de uma peça que, isolada como imagem, teria outra leitura.
