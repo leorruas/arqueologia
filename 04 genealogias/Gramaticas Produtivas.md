@@ -39,6 +39,16 @@ Esse poder também cria um risco. Estruturas bem conhecidas podem virar performa
 
 Por isso, gramáticas produtivas não eliminam a necessidade de investigação. Elas deslocam parte dela. Quanto mais decisões são incorporadas à estrutura, mais importante se torna perguntar **quem definiu essa estrutura, quais possibilidades ela favorece e quais deixam de aparecer porque não cabem em sua sintaxe**.
 
+## A gramática pode produzir uma decisão personalizada sem entregar a mesma resposta
+
+A [[03 artefatos/Voting Advice Application|Voting Advice Application]] acrescenta um caso importante porque transforma uma estrutura fixa em recomendação personalizada. Perguntas, opções de resposta, pesos e algoritmo permanecem relativamente estáveis; o resultado muda conforme as posições do eleitor.
+
+Isso revela uma distinção central nesta genealogia: **produzir dentro de uma gramática não é o mesmo que editar a gramática**. O eleitor pode fornecer conteúdo variável e receber uma saída própria sem ter escolhido quais questões existem, como foram formuladas ou como a proximidade será calculada.
+
+A hipótese experimental de uma VAA orientada pela questão do eleitor desloca parte dessa autoridade. A gramática começaria por uma pergunta individual — “o que eu preciso descobrir para decidir meu voto?” — e produziria critérios editáveis, evidências e comparações antes de chegar a uma conclusão provisória. A estrutura continua projetada, mas o problema específico entra pela pessoa.
+
+Esse caso ajuda a refinar [[02 variaveis/Agencia Inferencial|Agência inferencial]] dentro das gramáticas produtivas. Há pelo menos três níveis diferentes: preencher variáveis de uma gramática pronta, ponderar elementos dessa gramática e participar da definição das próprias categorias que produzirão o resultado.
+
 ## A gramática pode organizar uma investigação sobre a própria vida
 
 Há um passo além dos frameworks que organizam decisões de projeto. Uma gramática também pode estruturar uma investigação autobiográfica sem determinar previamente qual conclusão a pessoa deverá alcançar. Em política, por exemplo, uma pergunta como “que decisão pública mudou concretamente sua vida?” pode iniciar um percurso diferente de “qual partido foi melhor para você?”. A primeira começa pela experiência; a segunda já oferece uma categoria de interpretação.
@@ -123,7 +133,7 @@ O princípio também sugere um critério para investigar esses sistemas: **quais
 | **Pergunta central** | O que muda quando o design projeta condições para resultados futuros em vez de especificar apenas um resultado final? |
 | **Hipótese de parentesco** | Estruturas, regras, lacunas e restrições podem funcionar como infraestruturas para produção posterior, estabilizando algumas decisões e preservando outras como espaço de variação |
 | **Natureza das relações** | Funcional, semiótica, cognitiva e comparativa; não propõe descendência histórica direta entre os casos |
-| **Artefatos principais** | [[03 artefatos/Grid|Grid]], [[03 artefatos/Value Proposition Ad Lib|Value Proposition Ad Lib]], [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Meme|Meme]], [[03 artefatos/Sua vez Add Yours|Sua vez (Add Yours)]], [[03 artefatos/Prompt Conversacional|Prompt conversacional]] |
+| **Artefatos principais** | [[03 artefatos/Grid|Grid]], [[03 artefatos/Value Proposition Ad Lib|Value Proposition Ad Lib]], [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Voting Advice Application|Voting Advice Application]], [[03 artefatos/Meme|Meme]], [[03 artefatos/Sua vez Add Yours|Sua vez (Add Yours)]], [[03 artefatos/Prompt Conversacional|Prompt conversacional]] |
 | **Comportamento recorrente** | Usar regras e repertórios anteriores para produzir novas soluções sem recomeçar todas as decisões do zero |
 | **O que o design redistribui** | Decisão, esforço de formulação, liberdade de variação, autoria, coordenação e responsabilidade pela validação |
 | **Relação de poder** | Quem define a gramática influencia quais possibilidades ficam disponíveis, fáceis, legítimas ou invisíveis; quem produz dentro dela ganha autonomia local, mas opera sobre decisões estruturais anteriores |
