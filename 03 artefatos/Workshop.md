@@ -132,7 +132,7 @@ Nesse sentido, o workshop é parente de [[03 artefatos/Retrospectiva|Retrospecti
 | **Variáveis relacionadas** | [[02 variaveis/Custo Transacional|Custo Transacional]], [[02 variaveis/Legitimidade Decisoria|Legitimidade Decisória]], [[02 variaveis/Atencao|Atenção]] |
 | **Genealogia** | [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]], [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] Família de ideias: Artefatos temporários de participação e coordenação |
 | **Percurso(s)** | Ainda não integrado a um percurso editorial. |
-| **Parentes** | Co-design, design sprint, assembleia, World Café, [[03 artefatos/Quadro Branco|Quadro branco]], [[03 artefatos/Post-it|Post-it]], [[03 artefatos/Retrospectiva|Retrospectiva]] |
+| **Parentes** | Co-design, design sprint, assembleia, World Café, [[03 artefatos/Tango|Tango]], [[03 artefatos/Quadro Branco|Quadro branco]], [[03 artefatos/Post-it|Post-it]], [[03 artefatos/Retrospectiva|Retrospectiva]] |
 | **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Participação depende menos de reunir pessoas do que de projetar quais ações, vozes e representações terão espaço e consequência Por que funcionou: Projeta explicitamente regras de interação e usa representações compartilhadas para permitir que múltiplas contribuições coexistam |
 | **Questão em aberto** | Que mecanismos precisam existir depois de um workshop para que a participação temporária se converta em poder persistente sobre decisões? |
