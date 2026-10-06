@@ -75,6 +75,8 @@ Isso dá forma operacional à hipótese de **fechamento e reabertura de represen
 
 A pergunta que a variável acrescenta ao estudo de qualquer artefato é simples: **depois que esta representação se forma, o que ainda consegue mudá-la?**
 
+O [[03 artefatos/Mapa pessoal de valores políticos|Mapa pessoal de valores políticos]] introduz um risco e uma proteção ao mesmo tempo. Ao externalizar valores, pode cristalizar uma autoimagem rígida; por isso precisa permitir renomear prioridades, registrar conflitos e revisar o mapa quando novas experiências aparecem.
+
 A [[03 artefatos/Voting Advice Application|Voting Advice Application]] também oferece um caso operacional: quando novas informações sobre um candidato aparecem, a estrutura de comparação deveria permitir que a representação e a recomendação mudassem sem precisar preservar o resultado anterior por inércia. Na hipótese de uma VAA orientada pela questão do eleitor, isso inclui poder revisar critérios, pesos e evidências que sustentaram a conclusão.
 
 ## Ficha da variável
