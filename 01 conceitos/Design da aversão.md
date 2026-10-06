@@ -24,6 +24,14 @@ Essa operação aproxima o tema de [[01 conceitos/Design do Voto|Design do voto]
 
 Quando a rejeição se torna identitária, a compressão ganha outra função: o signo deixa de representar apenas “algo ruim” e passa a marcar uma fronteira entre grupos. Pesquisas no Brasil sugerem que identidades políticas negativas podem explicar hostilidade dirigida aos eleitores do outro lado para além de avaliações instrumentais de partidos e líderes.[^2]
 
+## Quando o adversário também vira combustível de circulação
+
+O Twitter oferece uma evidência especialmente útil para a hipótese de Design da aversão. Rathje, Van Bavel e van der Linden analisaram mais de 2,7 milhões de posts de contas de mídia e membros do Congresso no Facebook e Twitter e encontraram que referências ao grupo político adversário estavam associadas a aproximadamente o dobro de compartilhamentos em relação a referências ao próprio grupo. Cada termo referente ao out-group aumentava as chances de compartilhamento, e o efeito era maior que o de linguagem negativa ou moral-emocional.[^12]
+
+O resultado não demonstra que hostilidade seja sempre recompensada nem identifica sozinho o papel causal do ranking. Ele mostra que, em comunicação política, representar o adversário pode produzir um tipo de conteúdo particularmente circulável. Quando [[03 artefatos/Feed algoritmico do X Twitter|feeds algorítmicos]] usam reposts, replies e outras ações como sinais, essa circulabilidade pode tornar aversão uma propriedade operacional do ecossistema mesmo sem existir uma feature explícita chamada “aversão”.
+
+Brady e colegas acrescentam um segundo mecanismo: no Twitter, feedback social positivo recebido por expressões de indignação moral estava associado a maior probabilidade de expressar indignação novamente, e normas da rede também orientavam esse comportamento.[^13] O design pode, portanto, participar da aversão tanto pela distribuição quanto pelo aprendizado de quais expressões parecem recompensadas e normais.
+
 ## O que poderia significar reverter aversão
 
 A palavra **reverter** pode esconder resultados diferentes. Um dispositivo pode aumentar simpatia sem mudar voto; diminuir [[02 variaveis/Distância social|distância social]] sem alterar avaliação do partido; reduzir [[02 variaveis/Ameaça percebida|ameaça percebida]] sem criar confiança; ou enfraquecer uma identidade negativa sem produzir adesão positiva. Experimentos de despolarização mostram que esses resultados precisam ser medidos separadamente.[^3]
@@ -105,3 +113,8 @@ A hipótese permanece aberta. Evidências de redução de [[01 conceitos/Polariz
 [^10]: Levendusky, Matthew S. “Americans, Not Partisans: Can Priming American National Identity Reduce Affective Polarization?” *The Journal of Politics*, 80(1), 2018, pp. 59–70. [Acessar artigo no periódico](https://www.journals.uchicago.edu/doi/full/10.1086/693987). DOI: `10.1086/693987`.
 
 [^11]: Woodley, Lucas; DeFilippis, Evan; Ravi, Shankar; Greene, Joshua D. “Defusing political animosity in the United States with a cooperative online quiz game.” *Nature Human Behaviour*, 9, 2025, pp. 1631–1644. [Acessar artigo na Nature](https://www.nature.com/articles/s41562-025-02225-2). DOI: `10.1038/s41562-025-02225-2`.
+
+
+[^12]: Rathje, Steve; Van Bavel, Jay J.; van der Linden, Sander. “Out-group animosity drives engagement on social media”. *PNAS*, 118(26), 2021, e2024292118.
+
+[^13]: Brady, William J.; McLoughlin, Killian; Doan, Tuan N.; Crockett, Molly J. “How social learning amplifies moral outrage expression in online social networks”. *Science Advances*, 7(33), 2021, eabe5641. DOI: https://doi.org/10.1126/sciadv.abe5641
