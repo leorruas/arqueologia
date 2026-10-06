@@ -129,7 +129,7 @@ A pergunta que fica para o presente é se a migração da parede compartilhada p
 | **Futuro tornado mais provável** | Ainda não explicitado. |
 | **Descendentes possíveis** | Ainda não explicitado. |
 | **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
-| **Conceitos relacionados** | [[01 conceitos/Peles Temporarias da Arquitetura|Peles temporárias da arquitetura]], [[01 conceitos/Limiares|Limiares]], [[01 conceitos/Economia da Atencao|Economia da atenção]] |
+| **Conceitos relacionados** | [[01 conceitos/Peles Temporarias da Arquitetura|Peles temporárias da arquitetura]], [[01 conceitos/Limiares|Limiares]], [[01 conceitos/Economia da Atencao|Economia da atenção]], [[01 conceitos/Acesso consciente|Acesso consciente]] |
 | **Variáveis relacionadas** | [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]], [[02 variaveis/Permanencia|Permanência]] |
 | **Genealogia** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]], [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] |
 | **Percurso(s)** | [[05 percursos/Da Parede ao Feed|Da Parede ao Feed]], [[05 percursos/Da Parede ao Interlocutor|Da Parede ao Interlocutor]] |
