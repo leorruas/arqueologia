@@ -81,7 +81,7 @@ A pergunta arqueológica que fica é: **quando um rótulo deixa de ser comentár
 | **Variáveis relacionadas** | [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]] como parentesco parcial; saliência e recuperabilidade ainda não possuem variável própria |
 | **Genealogia** | [[04 genealogias/Compressao do Esforco|Compressão do esforço]] por parentesco cognitivo e semiótico |
 | **Percurso(s)** | [[05 percursos/Da Parede ao Feed|Da parede ao feed]] como possível continuidade futura, ainda não integrado ao argumento principal |
-| **Parentes** | [[03 artefatos/Meme|Meme]], [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Tango|Tango]] como contraste funcional |
+| **Parentes** | [[03 artefatos/Meme|Meme]], [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Clip político|Clip político]] por compressão representacional, [[03 artefatos/Tango|Tango]] como contraste funcional |
 | **Leituras-chave** | Kidron & Ish-Shalom (2025); Johnson (2021); Kwong (2025) |
 | **Princípio de design revelado** | Um identificador pode transportar uma interpretação quando referência e atributo são fundidos numa unidade repetível |
 | **Questão em aberto** | Que dispositivos conseguem separar novamente pessoa e rótulo depois que a associação se tornou automática? |
