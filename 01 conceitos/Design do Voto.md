@@ -81,6 +81,14 @@ O conteúdo político permanece igual; muda a posição relativa.
 
 Isso reforça uma hipótese mais ampla deste projeto: **diagramar é atribuir significado e possibilidade de ação por meio das relações entre elementos**. A posição não é apenas aparência. Em certas condições, torna-se variável comportamental.
 
+## Quando a escolha passa a ser organizada pela rejeição
+
+A escolha política também pode ser organizada por uma alternativa que o eleitor deseja impedir. A literatura sobre [[01 conceitos/Voto negativo|voto negativo]] distingue decisões orientadas principalmente pela rejeição do oponente de decisões orientadas principalmente pela atração pela opção escolhida.[^13] Essa diferença acrescenta outro mecanismo ao design do voto: tornar uma alternativa intolerável pode reorganizar o espaço de escolha mesmo sem aumentar entusiasmo pelas demais.
+
+Essa rejeição pode ter profundidades diferentes. [[01 conceitos/Partidarismo negativo|Partidarismo negativo]] descreve orientação contra um partido; [[01 conceitos/Identidade política negativa|identidade política negativa]] investiga casos em que a oposição participa da própria definição de pertencimento; [[01 conceitos/Polarização afetiva|polarização afetiva]] descreve distância emocional entre grupos políticos. No Brasil, estudos mostram que rejeições partidárias e identidades negativas têm capacidade própria de organizar comportamento e hostilidade política.[^14][^15]
+
+A hipótese de [[01 conceitos/Design da aversão|Design da aversão]] nasce desse ponto. Ela pergunta como memes, imagens, slogans, apelidos, posts, vídeos e sistemas de distribuição tornam rejeições recuperáveis e transmissíveis, e também que dispositivos podem reduzir essa aversão. A literatura de despolarização recomenda separar resultados: aumentar simpatia, reduzir distância social, enfraquecer uma identidade negativa e mudar voto são efeitos diferentes e não aparecem necessariamente juntos.[^16]
+
 ## Meme, post e carrossel
 
 Esses artefatos merecem investigação própria porque distribuem operações diferentes.
@@ -164,7 +172,7 @@ Na prática, os dois podem se misturar. Uma pergunta também enquadra; uma sele�
 | **Comportamento potencialmente produzido** | Investigar, compartilhar, reconhecer, associar, reconsiderar ou reforçar uma preferência |
 | **Relação de poder** | Quem controla enquadramento, repetição e distribuição pode influenciar quais questões e associações ficam disponíveis ao eleitor |
 | **Risco** | Manipulação, insinuação, falsa neutralidade, pressupostos escondidos e confusão entre familiaridade, autoridade e verdade |
-| **Conceitos relacionados** | Atenção, heurísticas, framing, mere exposure, elaboração, cognição política, propaganda, retórica visual |
+| **Conceitos relacionados** | [[01 conceitos/Design da aversão|Design da aversão]], [[01 conceitos/Partidarismo negativo|Partidarismo negativo]], [[01 conceitos/Identidade política negativa|identidade política negativa]], [[01 conceitos/Polarização afetiva|polarização afetiva]], [[01 conceitos/Voto negativo|voto negativo]], atenção, heurísticas, framing, mere exposure, elaboração, cognição política, propaganda e retórica visual |
 | **Artefatos relacionados** | [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Mascote|Mascote]], [[03 artefatos/Meme|Meme]], fotografia política, post, carrossel, vídeo curto |
 | **Percursos relacionados** | [[05 percursos/Da Parede ao Feed|Da parede ao feed]], [[05 percursos/Da Parede ao Interlocutor|Da parede ao interlocutor]] |
 | **Questão em aberto** | Quanto de uma escolha política acontece antes de percebermos que estamos escolhendo? |
@@ -194,5 +202,13 @@ Na prática, os dois podem se misturar. Uma pergunta também enquadra; uma sele�
 [^11]: Galipeau, Thomas. “The Impact of Political Memes: A Longitudinal Field Experiment”. *Journal of Information Technology & Politics*, 20(4), 2023, pp. 437–453. DOI: https://doi.org/10.1080/19331681.2022.2150737
 
 [^12]: Cao, Xiaoxia. “The Impacts of Political Internet Memes on Opinions: The Moderating Role of Political Party Identification”. *Southern Communication Journal*, 89(3–4), 2024, pp. 167–177. DOI: https://doi.org/10.1080/1041794X.2024.2345095
+
+[^13]: Garzia, Diego; Ferreira da Silva, Frederico. “Negativity and Political Behavior: A Theoretical Framework for the Analysis of Negative Voting in Contemporary Democracies.” *Political Studies Review*, 20(2), 2022. DOI: https://doi.org/10.1177/14789299211000187
+
+[^14]: Samuels, David J.; Zucco, Cesar. *Partisans, Antipartisans, and Nonpartisans: Voting Behavior in Brazil*. Cambridge University Press, 2018. DOI: https://doi.org/10.1017/9781108553742
+
+[^15]: Areal, João. “‘Them’ without ‘us’: negative identities and affective polarization in Brazil.” *Political Research Exchange*, 4(1), 2022. DOI: https://doi.org/10.1080/2474736X.2022.2117635
+
+[^16]: Voelkel, Jan G.; Chu, James; Stagnaro, Michael N.; et al. “Interventions reducing affective polarization do not necessarily improve anti-democratic attitudes.” *Nature Human Behaviour*, 7, 2023, pp. 55–64. DOI: https://doi.org/10.1038/s41562-022-01466-9
 
 A literatura experimental sobre enquadramento visual e comunicação política deverá ser expandida nos estudos específicos de cada artefato.
