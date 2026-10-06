@@ -26,6 +26,8 @@ Mas o registro nunca é neutro. A Library of Congress observa que narrativas pes
 
 O diário, portanto, cria dois leitores possíveis: **o eu futuro e o outro futuro**.
 
+A [[03 artefatos/Carta ao meu eleitor futuro|Carta ao meu eleitor futuro]] transforma explicitamente o primeiro desses leitores em destinatário. Em vez de registrar apenas o que aconteceu, preserva uma expectativa antes do acontecimento e cria uma referência para revisar depois a própria decisão.
+
 ## A data transforma experiência em sequência
 
 Um diário costuma fazer uma operação gráfica e temporal muito simples: associa uma entrada a um momento.
@@ -116,7 +118,7 @@ A pergunta que sobra é: quando registramos para não esquecer, quanto daquilo q
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Reversibilidade|Reversibilidade]] |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] |
 | **Percurso(s)** | [[05 percursos/Como o Design Aprendeu a Guardar|Como o Design Aprendeu a Guardar]] |
-| **Parentes** | [[03 artefatos/Calendário|Calendário]], [[03 artefatos/Post-it|Post-it]], [[03 artefatos/Favorito Bookmark|Favorito / bookmark]], [[03 artefatos/Portfólio|Portfólio]]; commonplace book, ficha bibliográfica e cartão de índice como parentes comparativos ainda sem estudo próprio; tracker financeiro e log como parentes em outras formas de registro |
+| **Parentes** | [[03 artefatos/Calendário|Calendário]], [[03 artefatos/Post-it|Post-it]], [[03 artefatos/Favorito Bookmark|Favorito / bookmark]], [[03 artefatos/Portfólio|Portfólio]], [[03 artefatos/Carta ao meu eleitor futuro|Carta ao meu eleitor futuro]]; commonplace book, ficha bibliográfica e cartão de índice como parentes comparativos ainda sem estudo próprio; tracker financeiro e log como parentes em outras formas de registro |
 | **Leituras-chave** | [[00 índices/Livros Indicados|Time and Narrative]], [[00 índices/Livros Indicados|Oneself as Another]] |
 | **Princípio de design revelado** | Externalizar experiência não apenas preserva memória; cria uma superfície sobre a qual mudança pode ser reorganizada como continuidade narrativa |
 | **Questão em aberto** | Quanto do passado recuperado por um diário pertence ao acontecimento e quanto pertence à forma como o registro ensinou o autor a narrá-lo? |
