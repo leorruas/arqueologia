@@ -43,6 +43,14 @@ A aba Following acrescenta uma recusa de outra ordem: em vez de fornecer feedbac
 
 Essa diferença sugere que feedback negativo deve registrar **escopo e destino do sinal**. Uma rejeição pode atualizar um modelo, aplicar um filtro local, alterar o grafo social ou iniciar moderação. O gesto visível de afastamento não informa sozinho qual infraestrutura será acionada.
 
+## No TikTok, pular é comportamento e sinal
+
+No [[03 artefatos/Feed Para Voce do TikTok|Feed Para Você do TikTok]], skip aparece explicitamente na documentação atual como uma das interações que podem influenciar recomendação. Isso torna o swipe particularmente ambíguo: ele é ao mesmo tempo comando de navegação para chegar ao próximo vídeo e dado sobre o vídeo abandonado.
+
+O TikTok também oferece “Não tenho interesse”, que comunica rejeição de forma mais deliberada e faz o sistema mostrar menos conteúdos semelhantes. A diferença entre os dois gestos é importante. Skip pode ocorrer por desinteresse, falta de tempo, interrupção, duração ou porque a pessoa já entendeu o conteúdo; “Não tenho interesse” possui intenção comunicativa muito mais explícita.
+
+Nesse artefato, portanto, rejeição implícita e explícita coexistem na mesma superfície: **deslizar ensina sem necessariamente querer ensinar; marcar desinteresse transforma a rejeição em instrução deliberada**.
+
 ## Ficha do conceito
 
 | Campo | Registro |
@@ -55,7 +63,7 @@ Essa diferença sugere que feedback negativo deve registrar **escopo e destino d
 | **Distinção central** | Rejeição explícita ↔ rejeição inferida a partir de comportamento |
 | **O que ajuda a explicar** | Como sistemas aprendem preferências negativas e reduzem exposições semelhantes |
 | **O que não explica sozinho** | Motivo da rejeição, intenção consciente, qualidade do conteúdo ou satisfação geral |
-| **Artefatos-chave** | [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], [[03 artefatos/Feed algoritmico do X Twitter|Feed algorítmico do X/Twitter]] |
+| **Artefatos-chave** | [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], [[03 artefatos/Feed algoritmico do X Twitter|Feed algorítmico do X/Twitter]], [[03 artefatos/Feed Para Voce do TikTok|Feed Para Você do TikTok]] |
 | **Variáveis relacionadas** | [[02 variaveis/Tempo de permanência|Tempo de permanência]], [[02 variaveis/Afinidade inferida|Afinidade inferida]] |
 | **Genealogias relacionadas** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] |
 
