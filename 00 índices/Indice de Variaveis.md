@@ -12,6 +12,7 @@ Variáveis são eixos usados para comparar o efeito de decisões de design. Elas
 
 - [[02 variaveis/Atrito Decisorio|Atrito Decisório]]: **baixo ↔ alto custo para formular ou confirmar uma escolha**.
 - [[02 variaveis/Atencao|Atenção]]: **baixa ↔ alta demanda de foco consciente** sobre uma tarefa ou elemento.
+- [[02 variaveis/Agencia Inferencial|Agência inferencial]]: **conclusão fornecida ↔ conclusão construída pelo receptor** no percurso entre informação e julgamento.
 - [[02 variaveis/Custo de Busca|Custo de Busca]]: **baixo ↔ alto esforço para localizar e comparar uma opção**.
 - [[02 variaveis/Custo do Erro|Custo do Erro]]: **baixo ↔ alto impacto de uma ação equivocada**.
 - [[02 variaveis/Custo Transacional|Custo Transacional]]: **baixo ↔ alto esforço total para concluir uma interação ou troca**.
