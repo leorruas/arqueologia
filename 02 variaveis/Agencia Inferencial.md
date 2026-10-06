@@ -68,7 +68,7 @@ Uma formulação provisória do projeto é:
 
 **agência inferencial sem verificabilidade pode transformar manipulação em sensação de descoberta.**
 
-A [[03 artefatos/Voting Advice Application|Voting Advice Application]] ajuda a separar participação de autoria estrutural. Numa VAA convencional, o usuário responde e pode ponderar temas, mas recebe um conjunto de questões e um método de comparação definidos por terceiros. A hipótese de uma VAA orientada pela questão do eleitor desloca a variável para mais perto do polo em que o receptor participa também da formulação dos critérios que produzirão sua conclusão.
+A [[03 artefatos/Voting Advice Application|Voting Advice Application]] ajuda a separar participação de autoria estrutural. A [[03 artefatos/Biografia política|Biografia política]] e o [[03 artefatos/Mapa pessoal de valores políticos|Mapa pessoal de valores políticos]] deslocam esse eixo ainda mais: o usuário participa da produção dos próprios critérios antes de aplicá-los a candidatos. Numa VAA convencional, o usuário responde e pode ponderar temas, mas recebe um conjunto de questões e um método de comparação definidos por terceiros. A hipótese de uma VAA orientada pela questão do eleitor desloca a variável para mais perto do polo em que o receptor participa também da formulação dos critérios que produzirão sua conclusão.
 
 ## Ficha da variável
 
@@ -80,7 +80,7 @@ A [[03 artefatos/Voting Advice Application|Voting Advice Application]] ajuda a s
 | **Como observar** | Comparar quanto da relação causal, avaliativa ou interpretativa está explicitamente formulada e quanto precisa ser reconstruído por perguntas, justaposições, repertório, memória ou comparação |
 | **O que não mede sozinho** | Liberdade interpretativa, neutralidade, verdade, elaboração, persuasão, autonomia política ou qualidade da conclusão |
 | **Trade-offs principais** | Mais participação cognitiva pode favorecer investigação e memória, mas também aumentar esforço, ambiguidade, confirmação e sensação enganosa de autoria sobre conclusões fortemente enquadradas |
-| **Artefatos-chave** | [[03 artefatos/Pergunta|Pergunta]], [[03 artefatos/Voting Advice Application|Voting Advice Application]], [[03 artefatos/Meme|Meme]], [[03 artefatos/Fotografia|Fotografia]] |
+| **Artefatos-chave** | [[03 artefatos/Pergunta|Pergunta]], [[03 artefatos/Biografia política|Biografia política]], [[03 artefatos/Mapa pessoal de valores políticos|Mapa pessoal de valores políticos]], [[03 artefatos/Voting Advice Application|Voting Advice Application]], [[03 artefatos/Meme|Meme]], [[03 artefatos/Fotografia|Fotografia]] |
 | **Conceitos relacionados** | [[01 conceitos/Design do Voto|Design do voto]], [[01 conceitos/Investigação|Investigação]] |
 | **Genealogias relacionadas** | [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]] |
 
