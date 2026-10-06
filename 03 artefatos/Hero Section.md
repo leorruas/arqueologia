@@ -91,7 +91,7 @@ A pergunta contemporânea mais fértil talvez seja o que acontece quando a pági
 | **Variáveis relacionadas** | [[02 variaveis/Atrito Decisorio|Atrito Decisório]], [[02 variaveis/Custo de Busca|Custo de Busca]], [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]], [[02 variaveis/Atencao|Atenção]] |
 | **Genealogia** | [[04 genealogias/Limiares e Delimitacao|Limiares e delimitação]], [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] Família de ideias: Artefatos de limiar e enquadramento |
 | **Percurso(s)** | [[05 percursos/Da Parede ao Feed|Da Parede ao Feed]], [[05 percursos/Da Parede ao Interlocutor|Da Parede ao Interlocutor]], [[05 percursos/Do artefato ao sinal no Instagram|Do artefato ao sinal no Instagram]] |
-| **Parentes** | [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Tela de Login|Tela de Login]], fachada, vitrine, capa de livro, abertura de série, onboarding, hall de entrada |
+| **Parentes** | [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Gancho de abertura|Gancho de abertura]], [[03 artefatos/Tela de Login|Tela de Login]], fachada, vitrine, capa de livro, abertura de série, onboarding, hall de entrada |
 | **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Reduzir a incerteza no limiar prepara interações de maior complexidade depois dele Por que funcionou: Concentra os sinais de orientação de maior prioridade na região de menor custo de descoberta |
 | **Questão em aberto** | Interfaces conversacionais conseguem orientar descoberta sem algum equivalente visual ao catálogo de possibilidades que a hero oferece? |
