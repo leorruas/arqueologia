@@ -67,6 +67,8 @@ Por isso, artefatos como [[03 artefatos/Visão|Visão]], [[03 artefatos/Princíp
 
 O [[03 artefatos/Tango|Tango]] torna essa pergunta quase literal. O serviço existe porque pareamento, regras, conteúdo, chat, tempo e objetivo compartilhado conseguem transformar duas pessoas politicamente adversárias em uma dupla operacional. Seu interesse para design de serviços está menos no quiz isolado e mais na orquestração de uma relação: quem encontra quem, sob quais regras, para produzir que tipo de dependência mútua.
 
+A [[03 artefatos/Entrevista longa|entrevista longa]] também pode ser lida por essa lente quando o interesse recai sobre a situação inteira: seleção de convidado, duração, regras de conversa, papel do anfitrião, gravação e distribuição organizam uma relação pública que não se reduz ao conteúdo de cada pergunta.
+
 O campo talvez seja melhor entendido não pela pergunta “o que é um serviço?”, mas por outra: **como tornar projetável algo que só existe plenamente quando várias partes agem juntas?**
 
 ## Leituras no vault
