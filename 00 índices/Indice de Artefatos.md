@@ -36,6 +36,7 @@ Este índice organiza estudos publicados por campo de design. A classificação 
 - [[03 artefatos/Pôster|Pôster]]: superfície pública de síntese visual e disputa de atenção.
 - [[03 artefatos/Meme|Meme]]: estrutura cultural remixável que combina reconhecimento, variação e produção distribuída de sentido.
 - [[03 artefatos/Apelido político|Apelido político]]: rótulo que funde referência e avaliação numa unidade curta, memorável e recirculável.
+- [[03 artefatos/Clip político|Clip político]]: recorte audiovisual que comprime uma sequência extensa em fragmento portátil e reenquadrável.
 - [[03 artefatos/Grid|Grid]]: estrutura modular de diagramação e previsibilidade visual.
 - [[03 artefatos/Manifesto|Manifesto]]: declaração pública que estabiliza intenção e posição.
 - [[03 artefatos/Assinatura|Assinatura]]: marca individual de autoria e autenticação.
@@ -53,6 +54,7 @@ Este índice organiza estudos publicados por campo de design. A classificação 
 - [[03 artefatos/Service Blueprint|Service Blueprint]]: representação que alinha experiência, frontstage, backstage e processos de suporte numa mesma superfície.
 - [[03 artefatos/Customer Journey Map|Customer Journey Map]]: representação temporal da experiência que integra etapas, transições, expectativas e evidências.
 - [[03 artefatos/Entrevista Qualitativa|Entrevista qualitativa]]: situação projetada para reconstruir experiência, significado, contexto e mudança em profundidade.
+- [[03 artefatos/Entrevista longa|Entrevista longa]]: formato público de conversa prolongada que preserva continuidade, variação e espaço para construção narrativa.
 - [[03 artefatos/Pesquisa Quantitativa|Pesquisa quantitativa]]: sistema de medição e comparação para investigar distribuição, magnitude e diferença entre grupos.
 - [[03 artefatos/Calendário|Calendário]]: referência temporal compartilhada.
 - [[03 artefatos/Fila|Fila]]: distribuição sequencial de acesso escasso.
