@@ -78,9 +78,9 @@ Por isso, a pergunta prática muda. Antes de desenhar um post, é mais útil dec
 
 ## O que ainda falta no Arqueologia do Design
 
-O próprio mapa revela lacunas. Quatro artefatos nativos do Twitter/X aparecem repetidamente na literatura e na arquitetura atual, mas ainda não possuem estudo próprio: **hashtag**, **thread**, **quote-post** e **poll**.
+O próprio mapa revela lacunas. **Hashtag**, **thread**, **quote post**, **poll** e **repost** formam uma pequena ecologia de artefatos nativos do X ainda sem estudos próprios no Arqueologia do Design. O [[05 percursos/Do artefato ao sinal em feeds algoritmicos|percurso comparativo de feeds algorítmicos]] agora registra suas correspondências e diferenças em Instagram e TikTok.
 
-Eles não serão criados apenas para completar o inventário. Cada um parece ter função independente suficiente para uma arqueologia futura: hashtag agrega fala distribuída num marcador; thread transforma fragmentação em sequência; quote-post faz redistribuição e comentário coexistirem; poll converte opinião em resposta quantificada de baixíssimo esforço.
+Cada recurso resolve um problema distinto. Hashtag agrega fala distribuída sob um marcador recuperável; thread preserva continuidade entre fragmentos; repost redistribui sem exigir uma nova fala; quote post faz redistribuição e comentário coexistirem; poll converte uma pergunta em resposta quantificada de baixo esforço. Essa decomposição evita tratar “engajamento no X” como um repertório indiferenciado de botões.
 
 [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Hero Section|Hero section]], [[03 artefatos/Espaço entre Palavras|Espaço entre palavras]] e [[03 artefatos/Grid|Grid]] permanecem como candidatos para uma segunda rodada. A ligação deles com legibilidade e captura de atenção é plausível, mas exige evidência mais específica antes de ser tratada como relação de performance no X.
 
