@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-09-23T23:19:28.131Z",
+  "generatedAt": "2026-10-06T08:56:41.812Z",
   "scope": "Integração do grafo: títulos duplicados dentro da mesma camada, índices, home, reciprocidade estrutural, tipos de design e nós órfãos. Conceitos e variáveis não exigem backlink exaustivo.",
-  "issueCount": 15,
+  "issueCount": 17,
   "countsByKind": {
-    "missing-from-index": 3,
+    "missing-from-index": 4,
     "missing-reciprocal-link": 9,
+    "orphan-node": 1,
     "design-type-drift": 3
   },
   "issues": [
@@ -13,6 +14,12 @@
       "sourcePath": "03 artefatos/Vaso de Plantas.md",
       "targetPath": "00 índices/Indice de Artefatos.md",
       "detail": "Arquivo não aparece em 00 índices/Indice de Artefatos.md."
+    },
+    {
+      "kind": "missing-from-index",
+      "sourcePath": "01 conceitos/Design do Voto.md",
+      "targetPath": "00 índices/Indice de Conceitos.md",
+      "detail": "Arquivo não aparece em 00 índices/Indice de Conceitos.md."
     },
     {
       "kind": "missing-from-index",
@@ -79,6 +86,12 @@
       "sourcePath": "03 artefatos/Portfólio.md",
       "targetPath": "04 genealogias/Permanencia e Memoria Externa.md",
       "detail": "A ficha liga para 04 genealogias/Permanencia e Memoria Externa.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "orphan-node",
+      "sourcePath": "01 conceitos/Design do Voto.md",
+      "targetPath": null,
+      "detail": "Nota sem links de entrada a partir do acervo auditado."
     },
     {
       "kind": "design-type-drift",
