@@ -75,6 +75,8 @@ Imagens podem funcionar como porta de entrada para esse percurso. A monografia *
 
 Essa passagem precisa permanecer separada de precisão histórica. Uma imagem pode tornar uma lembrança intensamente disponível e, ao mesmo tempo, favorecer uma atribuição causal errada. A convocação da memória aumenta material para investigação; a etapa de verificação continua necessária para que a mediação se torne legível sem virar apenas uma narrativa coerente com a identidade política existente.
 
+Uma [[03 artefatos/Voting Advice Application|Voting Advice Application]] orientada pela questão do eleitor pode funcionar como dispositivo de legibilidade quando transforma uma preocupação pessoal em cadeia verificável de políticas, competências, históricos e posições de candidatos. O ganho potencial depende de manter visível a passagem entre a pergunta inicial e os critérios usados na comparação. Se a ferramenta converte silenciosamente uma preocupação em categorias próprias, ela pode apenas substituir uma mediação opaca por outra.
+
 ## Mais legibilidade também pode produzir conflito
 
 Alta legibilidade não é automaticamente melhor.
