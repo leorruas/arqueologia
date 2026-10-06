@@ -26,6 +26,14 @@ No X/Twitter, o código aberto de 2023 incluía previsões de permanência prolo
 
 Por isso, a variável deve ser lida junto do [[01 conceitos/Engajamento em plataformas digitais|engajamento em plataformas digitais]]. Permanência é um componente observável do comportamento; satisfação continua sendo uma inferência.
 
+## No TikTok, a duração altera a régua
+
+No [[03 artefatos/Feed Para Voce do TikTok|Feed Para Você do TikTok]], a documentação atual declara que watch time, full watch e skip participam dos sinais usados para recomendação e que, para a maioria das pessoas, interações como tempo assistido costumam ter peso maior que outros fatores. Isso torna a permanência um caso especialmente claro de feedback implícito.
+
+A leitura exige o cuidado descrito em [[01 conceitos/Viés de duração|viés de duração]]. Segundos assistidos, proporção concluída e chegar ao fim não são medidas intercambiáveis. Trabalhos de recomendação de microvídeo mostram que watch time bruto é confundido pela duração total do item; pesquisas mais recentes também mostram que duração prediz fortemente a própria probabilidade de conclusão.
+
+O resultado é uma tensão de medição: um sistema quer usar permanência como proxy de interesse, mas a forma material do conteúdo altera a medida. Para comparar vídeos, não basta perguntar “quanto tempo a pessoa ficou?”. Também é preciso perguntar “quanto tempo ela poderia ter ficado e em relação a que distribuição essa permanência é excepcional?”.
+
 ## Como observar sem confundir
 
 A medida pode ser tempo absoluto, proporção assistida, conclusão de conteúdo ou tempo até o próximo gesto. Comparações precisam controlar características como duração total do vídeo ou tamanho do texto, porque conteúdos mais longos oferecem mais oportunidade de acumular tempo.
@@ -42,8 +50,8 @@ Em interfaces de continuidade, o [[03 artefatos/Infinite Scroll|Infinite Scroll]
 | **Como observar** | Dwell time, watch time, proporção assistida, conclusão e duração de sessão |
 | **O que não mede sozinho** | Interesse, satisfação, atenção consciente ou qualidade do conteúdo |
 | **Trade-offs principais** | Métrica contínua e abundante, mas sensível à duração do conteúdo, autoplay, contexto e exposição |
-| **Artefatos-chave** | [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]] |
-| **Conceitos relacionados** | [[01 conceitos/Engajamento em plataformas digitais|Engajamento em plataformas digitais]], [[01 conceitos/Economia da Atencao|Economia da atenção]] |
+| **Artefatos-chave** | [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], [[03 artefatos/Feed algoritmico do X Twitter|Feed algorítmico do X/Twitter]], [[03 artefatos/Feed Para Voce do TikTok|Feed Para Você do TikTok]] |
+| **Conceitos relacionados** | [[01 conceitos/Engajamento em plataformas digitais|Engajamento em plataformas digitais]], [[01 conceitos/Economia da Atencao|Economia da atenção]], [[01 conceitos/Viés de duração|Viés de duração]] |
 | **Genealogias relacionadas** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] |
 
 ## Referências
