@@ -71,6 +71,24 @@ A arquitetura pode ser resumida assim:
 
 O ranking combina essas escalas para estimar relevância. A distinção importa porque impede transformar todo fator de recomendação em “engajamento”.
 
+## Quando a tendência também ensina a produzir
+
+No TikTok, [[01 conceitos/Tendência em plataformas|tendência]] pode assumir uma forma diferente daquela observada nos [[03 artefatos/Trending Topics do X Twitter|Trending Topics do X/Twitter]]. O X transforma crescimento de conversa em uma lista de assuntos. O TikTok frequentemente transforma padrões emergentes em **matéria-prima reutilizável**: hashtags, sons, coreografias, POVs, challenges, efeitos e outros formatos podem funcionar como sinais de que algo está em alta e, ao mesmo tempo, como estruturas para fabricar uma nova versão.
+
+O Creative Center torna a dimensão temporal visível ao apresentar hashtags em alta, rankings, número de posts, visualizações e gráficos de tendência ao longo de diferentes janelas.[^12] Esse tipo de interface aproxima trend de [[02 variaveis/Momentum de atenção|momentum de atenção]]: não basta saber quantas ocorrências existem; importa observar se o padrão está ganhando força, em qual região e durante qual intervalo.
+
+Mas a cultura produtiva do TikTok acrescenta uma segunda camada. Recursos como **Use this Sound** permitem reutilizar diretamente um áudio em outro vídeo; Duet preserva o conteúdo anterior dentro de uma nova composição; challenges e formatos meméticos estabelecem regras reconhecíveis de participação. Estudos da plataforma descrevem essa arquitetura como uma cultura de imitação e transformação em que sons, performances e templates funcionam como unidades reaproveitáveis.[^13][^14]
+
+A tendência, portanto, pode criar um circuito diferente daquele do hot topic:
+
+**variações começam a crescer → o padrão se torna reconhecível → a plataforma e os usuários o tornam encontrável → outras pessoas recebem uma gramática pronta para participar → novas variações aumentam o volume e o momentum**
+
+Esse circuito aproxima TikTok da genealogia [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]]. O conteúdo em alta não oferece apenas algo para consumir. Em muitos casos, ele reduz o custo de produzir porque parte da forma já está resolvida: o som, a sequência performativa, a piada, o enquadramento ou a regra do challenge.
+
+Isso ajuda a entender por que uma trend não deve ser confundida com popularidade. Um som pode ter milhões de usos acumulados e já estar perdendo força; outro pode ter volume menor e crescer rapidamente. Também não basta dizer que algo “é trend” porque usa um som popular. A participação chega tarde, cedo ou no pico dependendo do [[02 variaveis/Momentum de atenção|momentum]], e a nova versão ainda precisa ser suficientemente legível para ser reconhecida e suficientemente diferente para justificar sua existência.
+
+Uma pesquisa de 2026 com mais de 85 mil vídeos de dança no TikTok encontrou justamente uma relação não linear entre aderência ao padrão e engajamento: versões moderadamente atípicas podiam superar tanto cópias muito próximas quanto variações excessivamente distantes.[^15] O resultado é contextual, mas reforça uma hipótese de design importante: **uma gramática produtiva funciona porque estabiliza algo que pode ser reconhecido e deixa outra parte aberta para variação**.
+
 ## Descoberta sem catálogo
 
 Serviços de mídia anteriores já usavam recomendação, playlists e sugestões. A mudança de interface do TikTok está em reduzir fortemente o intervalo entre **escolher** e **consumir**. O usuário não precisa necessariamente abrir um catálogo, ler títulos, comparar thumbnails ou decidir qual criador merece atenção. O próximo item já ocupa quase toda a tela e pode ser avaliado durante o próprio consumo.
@@ -120,9 +138,9 @@ Essa hipótese transforma o feed em algo maior que uma lista ordenada. Ele funci
 | **Futuro tornado mais provável** | Plataformas em que recomendação antecede relação social explícita e o conteúdo pode circular antes de o autor possuir grande audiência |
 | **Descendentes possíveis** | Feeds personalizados de vídeo curto em outras plataformas; vínculos históricos específicos precisam ser demonstrados caso a caso |
 | **Novo problema produzido pelo sucesso** | Como preservar exploração, diversidade, autonomia e segurança quando o sistema se torna muito eficiente em repetir padrões de atenção já observados |
-| **Conceitos relacionados** | [[01 conceitos/Engajamento em plataformas digitais|Engajamento em plataformas digitais]], [[01 conceitos/Autonomia da Atencao|Autonomia da atenção]], [[01 conceitos/Economia da Atencao|Economia da atenção]], [[01 conceitos/Feedback negativo em recomendação|Feedback negativo em recomendação]], [[01 conceitos/Viés de duração|Viés de duração]] |
-| **Variáveis relacionadas** | [[02 variaveis/Tempo de permanência|Tempo de permanência]], [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Afinidade inferida|Afinidade inferida]], [[02 variaveis/Propagação|Propagação]], [[02 variaveis/Popularidade|Popularidade]], [[02 variaveis/Recência|Recência]] |
-| **Genealogia** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] |
+| **Conceitos relacionados** | [[01 conceitos/Engajamento em plataformas digitais|Engajamento em plataformas digitais]], [[01 conceitos/Autonomia da Atencao|Autonomia da atenção]], [[01 conceitos/Economia da Atencao|Economia da atenção]], [[01 conceitos/Feedback negativo em recomendação|Feedback negativo em recomendação]], [[01 conceitos/Viés de duração|Viés de duração]], [[01 conceitos/Tendência em plataformas|Tendência em plataformas]] |
+| **Variáveis relacionadas** | [[02 variaveis/Tempo de permanência|Tempo de permanência]], [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Afinidade inferida|Afinidade inferida]], [[02 variaveis/Propagação|Propagação]], [[02 variaveis/Popularidade|Popularidade]], [[02 variaveis/Recência|Recência]], [[02 variaveis/Momentum de atenção|Momentum de atenção]] |
+| **Genealogia** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]], [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]] |
 | **Percurso(s)** | [[05 percursos/Da Parede ao Feed|Da parede ao feed]] |
 | **Parentes** | [[03 artefatos/Feed de Videos Curtos|Feed de vídeos curtos]], [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], [[03 artefatos/Feed algoritmico do X Twitter|Feed algorítmico do X/Twitter]], [[03 artefatos/Infinite Scroll|Infinite Scroll]], [[03 artefatos/Autoplay|Autoplay]] |
 | **Leituras-chave** | Documentação oficial do TikTok sobre For You e sistemas de recomendação |
@@ -154,3 +172,12 @@ Essa hipótese transforma o feed em algo maior que uma lista ordenada. Ele funci
 [^10]: TikTok. “Entenda por que um vídeo é recomendado para você”. 20 dez. 2022. O recurso “Por que esse vídeo” lista razões como ações do usuário, contas seguidas ou sugeridas, conteúdo publicado recentemente na região e conteúdo popular na região. https://newsroom.tiktok.com/entenda-por-que-um-video-recomendado?lang=pt-BR
 
 [^11]: TikTok. “5 tips for TikTok creators”. A orientação oficial recomenda hashtags relevantes, sem afirmar que maior quantidade garante alcance, e descreve sons como mecanismos de descoberta e compartilhamento ligados a buscas, trends e desafios. https://newsroom.tiktok.com/5-tips-for-tiktok-creators?lang=en
+
+
+[^12]: TikTok For Business. “How to use Trends” e Creative Center. Consultados em 6 out. 2026. O Creative Center permite filtrar hashtags em alta por setor e período e abrir análises com trendline, vídeos relacionados, audiência, popularidade regional e hashtags relacionadas. https://ads.tiktok.com/resources/help/article/how-to-use-trends?lang=en ; https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/pt/
+
+[^13]: Zulli, Diana; Zulli, David James. “Extending the Internet meme: Conceptualizing technological mimesis and imitation publics on the TikTok platform”. *New Media & Society*, 24(8), 2022, pp. 1872–1890. DOI: https://doi.org/10.1177/1461444820983603
+
+[^14]: Matamoros-Fernández, Ariadna. “Taking Humor Seriously on TikTok”. *Social Media + Society*, 9(1), 2023. DOI: https://doi.org/10.1177/20563051231157609. A autora destaca funções como “Use this Sound” e Duet na reutilização de sons, dança e challenges por imitação e transformação.
+
+[^15]: Bravin, Marc et al. “How Closely Should You Follow a Trend? Atypicality and Engagement on Social Media”. *Journal of Marketing*, 90(5), 2026. DOI: https://doi.org/10.1177/00222429261466668. O estudo analisa mais de 85 mil vídeos de dança no TikTok e encontra relação não linear entre tipicidade de uma trend e engajamento.
