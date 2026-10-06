@@ -35,7 +35,6 @@ Este índice organiza estudos publicados por campo de design. A classificação 
 
 - [[03 artefatos/Pôster|Pôster]]: superfície pública de síntese visual e disputa de atenção.
 - [[03 artefatos/Meme|Meme]]: estrutura cultural remixável que combina reconhecimento, variação e produção distribuída de sentido.
-- [[03 artefatos/Meme|Meme]]: estrutura cultural remixável que combina reconhecimento, variação e produção distribuída de sentido.
 - [[03 artefatos/Grid|Grid]]: estrutura modular de diagramação e previsibilidade visual.
 - [[03 artefatos/Manifesto|Manifesto]]: declaração pública que estabiliza intenção e posição.
 - [[03 artefatos/Assinatura|Assinatura]]: marca individual de autoria e autenticação.
