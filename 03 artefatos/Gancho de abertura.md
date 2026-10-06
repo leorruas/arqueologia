@@ -80,7 +80,7 @@ O parentesco com [[03 artefatos/Pôster|Pôster]] e [[03 artefatos/Hero Section|
 | **Variáveis relacionadas** | [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Atenção sustentada|Atenção sustentada]], [[02 variaveis/Tempo de permanência|Tempo de permanência]], [[02 variaveis/Propagação|Propagação]] |
 | **Genealogia** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] |
 | **Percurso(s)** | [[05 percursos/Do artefato ao sinal em feeds algoritmicos|Do artefato ao sinal em feeds algorítmicos]] |
-| **Parentes** | [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Hero Section|Hero section]], [[03 artefatos/Pergunta|Pergunta]], [[03 artefatos/Feed de Videos Curtos|Feed de vídeos curtos]] |
+| **Parentes** | [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Hero Section|Hero section]], [[03 artefatos/Capa e Thumbnail|Capa e thumbnail]], [[03 artefatos/Legenda e texto sobreposto|Legenda e texto sobreposto]], [[03 artefatos/Call to Action CTA|Call to Action (CTA)]], [[03 artefatos/Pergunta|Pergunta]], [[03 artefatos/Feed de Videos Curtos|Feed de vídeos curtos]] |
 | **Leituras-chave** | Meta sobre Reels Insights e Best Practices; TikTok Creative Center sobre hooks; documentação de recomendação do TikTok e X |
 | **Princípio de design revelado** | Em sistemas de abandono barato, projetar o começo é projetar a probabilidade de receber tempo suficiente para que o restante exista para o usuário |
 | **Questão em aberto** | Quando um gancho melhora acesso e compreensão e quando apenas aumenta permanência sem produzir valor equivalente? |
