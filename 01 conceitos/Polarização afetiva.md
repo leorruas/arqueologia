@@ -24,7 +24,7 @@ A unidade relevante nem sempre é o partido. Em alguns sistemas, a polarização
 
 Isso cria um risco de erro analítico. Uma intervenção que melhora a avaliação de eleitores rivais pode não melhorar a avaliação do partido ou do candidato. Uma mensagem que reduz antipatia pode não alterar voto. Uma mudança em afeto também não demonstra, por si só, mudança em apoio a normas democráticas.
 
-Experimentos recentes reforçam essa separação. Intervenções que corrigiam percepções sobre o outro partido, lembravam amizades entre partidários rivais ou mostravam interações calorosas entre líderes reduziram medidas de polarização afetiva, mas não produziram evidência convincente de redução de apoio a candidatos antidemocráticos, violência política ou prioridade de fins partidários sobre procedimentos democráticos.[^4]
+Experimentos recentes reforçam essa separação. Intervenções que corrigiam percepções sobre o outro partido, lembravam amizades entre partidários rivais ou mostravam interações calorosas entre líderes reduziram medidas de polarização afetiva, mas não produziram evidência convincente de redução de apoio a candidatos antidemocráticos, violência política ou prioridade de fins partidários sobre procedimentos democráticos.[^4] O [[03 artefatos/Tango|Tango]] acrescenta um caso de contato cooperativo: em cinco experimentos, jogar com um parceiro do outro partido reduziu medidas de partidarismo negativo, com alguns efeitos persistindo em acompanhamentos posteriores.[^7]
 
 ## Um problema de design em várias escalas
 
@@ -52,7 +52,7 @@ Para o design, a pergunta útil é: **qual parte da distância é produzida pelo
 | **Distinção central** | Distância afetiva entre grupos políticos é diferente de distância ideológica |
 | **O que ajuda a explicar** | Hostilidade, confiança, distância social, cooperação e percepção do outro lado |
 | **O que não explica sozinho** | Voto, apoio à democracia, violência política ou conteúdo ideológico específico |
-| **Artefatos-chave** | [[03 artefatos/Meme|Meme]], feed algorítmico, documentário e encontros facilitados ainda não estudados como artefatos próprios |
+| **Artefatos-chave** | [[03 artefatos/Tango|Tango]], [[03 artefatos/Meme|Meme]], feed algorítmico, documentário e encontros facilitados |
 | **Variáveis relacionadas** | Atenção, exposição, distância social e percepção de normas |
 | **Genealogias relacionadas** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] pode ganhar uma extensão política futura |
 
@@ -64,3 +64,5 @@ Para o design, a pergunta útil é: **qual parte da distância é produzida pelo
 [^4]: Voelkel, Jan G.; Chu, James; Stagnaro, Michael N.; et al. “Interventions reducing affective polarization do not necessarily improve anti-democratic attitudes.” *Nature Human Behaviour*, 7, 2023, pp. 55–64. DOI: https://doi.org/10.1038/s41562-022-01466-9
 [^5]: Hartman, Rachel; Blakey, Will; Womick, Jake; et al. “Interventions to reduce partisan animosity.” *Nature Human Behaviour*, 6, 2022, pp. 1194–1205. DOI: https://doi.org/10.1038/s41562-022-01442-3
 [^6]: Brady, William J.; Doyle, Meriel; Elnakouri, Abdo; et al. “Redesigning algorithms to intervene on social norm misperceptions during a national election.” *Nature*, 655, 2026, pp. 942–956. DOI: https://doi.org/10.1038/s41586-026-10536-1
+
+[^7]: Woodley, Lucas; DeFilippis, Evan; Ravi, Shankar; Greene, Joshua D. “Defusing political animosity in the United States with a cooperative online quiz game.” *Nature Human Behaviour*, 9, 2025, pp. 1631–1644. DOI: https://doi.org/10.1038/s41562-025-02225-2
