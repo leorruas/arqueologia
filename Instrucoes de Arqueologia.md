@@ -286,6 +286,14 @@ Conecte estudos anteriores. Procure padrões que atravessem design gráfico, pro
 
 ## Automação e publicação
 
+### Transação editorial
+
+Trate uma criação ou revisão material com propagação como **uma única operação lógica**, mesmo quando ela exigir alterações em muitos arquivos. O estado intermediário pode existir numa branch de trabalho; `main` deve receber apenas o conjunto já coerente.
+
+Use commit direto em `main` somente quando a ferramenta conseguir produzir uma alteração atomicamente coerente. Se artigo, relações recíprocas, índices, genealogias, percursos ou log precisarem de vários commits, crie uma branch temporária, faça a propagação completa nela, abra pull request e use o workflow de validação como gate antes do merge.
+
+O pull request não substitui o [[#Protocolo de propagação|Protocolo de propagação]]. Ele fornece o contêiner técnico para que a propagação seja concluída sem publicar estados intermediários inválidos. Se o gate falhar, corrija a branch e valide novamente; não reduza critérios de publicação apenas para obter um workflow verde.
+
 Decisões aprovadas em 6 de outubro de 2026:
 
 - A ficha arqueológica usa os 33 campos do template atual. O schema compartilhado em `scripts/artifact-schema.mjs` deve permanecer alinhado ao template, ao migrador e à auditoria. Campos ainda não investigados podem registrar “Ainda não explicitado.”; a presença estrutural não autoriza inventar informação.
