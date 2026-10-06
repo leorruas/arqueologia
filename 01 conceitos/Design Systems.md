@@ -27,6 +27,8 @@ Mas o ganho principal talvez seja outro: o sistema transforma conhecimento dispe
 
 Essa leitura aproxima Design Systems de [[03 artefatos/Grid|Grid]]. O grid modernista também externaliza regras de relação espacial para permitir consistência entre páginas e pessoas. Não é correto chamá-lo de “raiz histórica de todos os Design Systems”, como fazia a versão anterior. A relação é melhor entendida como parentesco sistêmico: ambos reduzem decisões locais ao estabilizar regras reutilizáveis.
 
+A genealogia [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]] amplia essa comparação ao observar sistemas, templates e estruturas que projetam condições para decisões futuras. Nesse enquadramento, o Design System funciona como infraestrutura produtiva: preserva algumas escolhas como regra compartilhada e deixa outras abertas para composição local.
+
 ## Biblioteca não é necessariamente sistema
 
 Uma coleção de componentes pode existir sem governança, princípios ou processo de evolução. Essa distinção é importante.
