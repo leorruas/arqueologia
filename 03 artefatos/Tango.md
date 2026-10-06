@@ -1,7 +1,7 @@
 ---
 title: "Tango"
 type: "artefato"
-status: "rascunho"
+status: "publicado"
 tags:
   - design/artefato
   - arqueologia
