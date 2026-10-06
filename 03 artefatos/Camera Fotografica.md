@@ -1,5 +1,5 @@
 ---
-title: "Câmera Fotográfica"
+title: "Câmera fotográfica"
 type: "artefato"
 status: "publicado"
 tags:
@@ -7,9 +7,9 @@ tags:
   - arqueologia
 ---
 
-# Câmera Fotográfica
+# Câmera fotográfica
 
-A câmera fotográfica não mudou apenas a produção de imagens. Ela alterou a relação entre atenção, memória, prova e permanência.
+A câmera fotográfica não mudou apenas a produção de imagens. Ela alterou a relação entre atenção, memória, prova e permanência. O estudo de [[03 artefatos/Fotografia|Fotografia]] separa o aparelho da imagem que sobrevive ao ato de captura: a câmera organiza possibilidades de registro; a fotografia passa a circular como vestígio, documento, memória e superfície de interpretação.
 
 Sua operação fundamental parece simples: transformar luz em registro. Mas antes do registro existe uma decisão de design e de comportamento: alguém escolhe onde ficar, para onde apontar, o que enquadrar e quando interromper o fluxo do tempo.
 
@@ -33,7 +33,7 @@ Ela recorta uma parte de um campo contínuo e a transforma numa unidade transpor
 
 O enquadramento produz figura e fundo. Tudo que entra na fotografia ganha possibilidade de permanência. Tudo que permanece fora dela desaparece daquele registro.
 
-A câmera, portanto, não captura simplesmente a realidade. Ela materializa uma decisão sobre qual parte da realidade será preservada.
+A câmera, portanto, não captura simplesmente a realidade. Ela materializa uma decisão sobre qual parte da realidade poderá produzir uma [[03 artefatos/Fotografia|fotografia]] e ser preservada como vestígio.
 
 ## Do instante à memória externa
 
@@ -84,7 +84,7 @@ A câmera, assim, não apenas oferece memória externa. Ela introduz no presente
 | **Período** | Primeira metade do século XIX, com consolidação e popularização progressiva ao longo dos séculos XIX e XX |
 | **Autoria** | Invenção distribuída; Niépce, Daguerre e Talbot são figuras centrais; George Eastman é central para a popularização industrial posterior |
 | **Produto ou contexto** | Daguerreótipos, câmeras de grande formato, câmeras portáteis, filme, câmeras digitais e smartphones |
-| **Tipo(s) de design** | Relação disciplinar ainda não classificada. |
+| **Tipo(s) de design** | [[00 tipos de design/Design de Produto|Design de produto]] |
 | **Empresas ou instituições relacionadas** | Kodak como agente importante de popularização industrial; outras organizações participaram de refinamentos posteriores |
 | **Problema original** | Produzir um registro visual durável de uma cena sem depender exclusivamente da reprodução manual por desenho ou pintura |
 | **Mundo antes** | Representações visuais permanentes exigiam técnicas manuais e geralmente maior tempo, habilidade ou mediação especializada |
@@ -102,7 +102,7 @@ A câmera, assim, não apenas oferece memória externa. Ela introduz no presente
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], custo de captura, tempo de exposição, portabilidade, quantidade de registros e campo visual |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]]; história técnica: câmera obscura → processos fotossensíveis → fotografia em placa → filme → câmera portátil → digital → smartphone |
 | **Percurso(s)** | Candidata ao percurso futuro `Do reflexo ao perfil` |
-| **Parentes** | [[03 artefatos/Luminaria|Luminária]], [[03 artefatos/Vaso de Plantas|Vaso de plantas]], moldura, cursor, Post-it, projetor, [[03 artefatos/Espelho|Espelho]], scanner e câmera de vídeo |
+| **Parentes** | [[03 artefatos/Fotografia|Fotografia]], [[03 artefatos/Luminaria|Luminária]], [[03 artefatos/Vaso de Plantas|Vaso de plantas]], moldura, cursor, Post-it, [[03 artefatos/Projetor|Projetor]], [[03 artefatos/Espelho|Espelho]], scanner e câmera de vídeo |
 | **Leituras-chave** | [[00 índices/Livros Indicados|Memory, History, Forgetting]], [[00 índices/Livros Indicados|Oneself as Another]] |
 | **Princípio de design revelado** | Registrar é selecionar e estabilizar um vestígio; permanência aumenta a capacidade de lembrar e provar, mas não elimina a necessidade de contexto e interpretação |
 | **Questão em aberto** | O que acontece com a memória quando registrar praticamente tudo custa menos do que escolher o que merece ser lembrado? |
