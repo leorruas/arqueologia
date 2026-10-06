@@ -106,7 +106,7 @@ O artefato funciona melhor quando sua abertura não é confundida com neutralida
 | **Variáveis relacionadas** | [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Atrito Decisorio|Atrito decisório]] |
 | **Genealogia** | Artefatos de investigação e externalização da experiência |
 | **Percurso(s)** | Ainda não integrado a um percurso editorial. |
-| **Parentes** | [[03 artefatos/Pergunta de Pesquisa|Pergunta de pesquisa]], [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Customer Journey Map|Customer Journey Map]], Pesquisa quantitativa, diário e observação etnográfica |
+| **Parentes** | [[03 artefatos/Pergunta de Pesquisa|Pergunta de pesquisa]], [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Customer Journey Map|Customer Journey Map]], [[03 artefatos/Entrevista longa|Entrevista longa]] por parentesco conversacional, Pesquisa quantitativa, diário e observação etnográfica |
 | **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Pesquisa qualitativa é poderosa quando permite que a evidência altere as categorias da investigação, não apenas preencha categorias previamente definidas |
 | **Questão em aberto** | Como preservar abertura e descoberta quando ferramentas de IA tornam cada vez mais fácil padronizar, transcrever e sintetizar entrevistas automaticamente? |
