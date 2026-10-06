@@ -65,13 +65,15 @@ Essa porosidade não enfraquece a área. Ela ajuda a definir sua pergunta espec�
 
 Por isso, artefatos como [[03 artefatos/Visão|Visão]], [[03 artefatos/Princípio|Princípio]], [[03 artefatos/Brief|Brief]], [[03 artefatos/Problema de Design|Problema de design]] e [[03 artefatos/Wicked Problem|Wicked Problem]] importam não como um kit metodológico fechado, mas como diferentes formas de estabilizar intenção e problema antes da ação. [[03 artefatos/Retrospectiva|Retrospectiva]] e [[03 artefatos/Workshop|Workshop]] mostram que até reflexão e participação podem ser projetadas como situações temporárias.
 
+O [[03 artefatos/Tango|Tango]] torna essa pergunta quase literal. O serviço existe porque pareamento, regras, conteúdo, chat, tempo e objetivo compartilhado conseguem transformar duas pessoas politicamente adversárias em uma dupla operacional. Seu interesse para design de serviços está menos no quiz isolado e mais na orquestração de uma relação: quem encontra quem, sob quais regras, para produzir que tipo de dependência mútua.
+
 O campo talvez seja melhor entendido não pela pergunta “o que é um serviço?”, mas por outra: **como tornar projetável algo que só existe plenamente quando várias partes agem juntas?**
 
 ## Leituras no vault
 
 Comece por [[03 artefatos/Service Blueprint|Service Blueprint]] e [[03 artefatos/Customer Journey Map|Customer Journey Map]] para observar duas representações complementares do serviço. [[03 artefatos/Entrevista Qualitativa|Entrevista qualitativa]], [[03 artefatos/Pesquisa Quantitativa|Pesquisa quantitativa]] e [[03 artefatos/Jobs to Be Done|Jobs to Be Done]] mostram como evidência se transforma em formulação.
 
-Para coordenação operacional, [[03 artefatos/Fila|Fila]], [[03 artefatos/Agendamento|Agendamento]], [[03 artefatos/Kanban|Kanban]], [[03 artefatos/Matriz RACI|Matriz RACI]] e [[03 artefatos/Número de Protocolo|Número de protocolo]] revelam mecanismos diferentes. [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]], [[04 genealogias/Acesso e Disponibilidade|Acesso e disponibilidade]] e [[01 conceitos/Ecologia de Artefatos|Ecologia de artefatos]] conectam essas decisões além da disciplina.
+Para coordenação operacional, [[03 artefatos/Fila|Fila]], [[03 artefatos/Agendamento|Agendamento]], [[03 artefatos/Kanban|Kanban]], [[03 artefatos/Matriz RACI|Matriz RACI]] e [[03 artefatos/Número de Protocolo|Número de protocolo]] revelam mecanismos diferentes. [[03 artefatos/Tango|Tango]] mostra coordenação usada para reconfigurar temporariamente uma relação entre grupos adversários. [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]], [[04 genealogias/Acesso e Disponibilidade|Acesso e disponibilidade]] e [[01 conceitos/Ecologia de Artefatos|Ecologia de artefatos]] conectam essas decisões além da disciplina.
 
 ## Referências
 
