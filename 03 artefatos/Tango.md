@@ -75,7 +75,7 @@ A pergunta que permanece é até onde esse mecanismo viaja. Cooperação pode pr
 | **Variáveis relacionadas** | [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Atrito Decisorio|Atrito decisório]]; distância social e interdependência ainda não possuem variáveis próprias no vault |
 | **Genealogia** | Relações com cooperação, contato e reabertura ainda não justificam uma genealogia própria |
 | **Percurso(s)** | Ainda não integrado a percurso específico |
-| **Parentes** | [[03 artefatos/Workshop|Workshop]], [[03 artefatos/Apelido político|Apelido político]] como contraste funcional |
+| **Parentes** | [[03 artefatos/Workshop|Workshop]], [[03 artefatos/Entrevista longa|Entrevista longa]] por hipótese comparativa de reabertura, [[03 artefatos/Apelido político|Apelido político]] como contraste funcional |
 | **Leituras-chave** | Woodley et al. (2025), estudo experimental do próprio artefato |
 | **Princípio de design revelado** | Mudar o papel operacional do outro pode produzir informação relacional que uma mensagem sobre o outro não produz |
 | **Questão em aberto** | Quais propriedades da cooperação são necessárias para que a experiência local se generalize para a representação de um grupo? |
