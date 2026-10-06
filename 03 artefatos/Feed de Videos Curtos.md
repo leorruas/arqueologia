@@ -105,6 +105,8 @@ A continuidade depende, portanto, de duas camadas. A **continuidade mecânica** 
 
 A personalização pode ser entendida como serviço e como infraestrutura de continuidade ao mesmo tempo. Ela reduz o trabalho de procurar num catálogo enorme, mas também permite que a sequência seja recalibrada a partir dos rastros produzidos durante o próprio consumo.
 
+O [[03 artefatos/Feed Para Voce do TikTok|Feed Para Você do TikTok]] permite separar ainda melhor as camadas do artefato. O feed de vídeos curtos descreve a gramática de unidade dominante, swipe e descarte rápido; o Para Você descreve a seleção personalizada que decide qual unidade ocupará essa superfície em seguida.
+
 O [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]] é um parente funcional importante porque separa duas coisas que aqui aparecem acopladas. O ranking personalizado pode reorganizar uma sequência de fotos, vídeos e posts sem adotar a gramática de vídeo curto; o feed de vídeos curtos acrescenta unidade dominante, swipe e descarte rápido à mesma família de seleção preditiva.
 
 ## O problema da novidade
@@ -193,7 +195,7 @@ Outra consequência é que a interface de distribuição começa a influenciar a
 | **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | Ainda não explicitado. |
 | **Percurso(s)** | [[05 percursos/Do artefato ao sinal no Instagram|Do artefato ao sinal no Instagram]] |
-| **Parentes** | [[03 artefatos/Infinite Scroll|Infinite Scroll]], [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], [[03 artefatos/Controle Remoto|Controle remoto]], autoplay, playlist, televisão linear |
+| **Parentes** | [[03 artefatos/Infinite Scroll|Infinite Scroll]], [[03 artefatos/Feed Para Voce do TikTok|Feed Para Você do TikTok]], [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], [[03 artefatos/Controle Remoto|Controle remoto]], autoplay, playlist, televisão linear |
 | **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Por que funcionou: Baixo custo de experimentar e abandonar; adequação ao smartphone vertical; personalização |
 | **Questão em aberto** | Como a interface de distribuição altera a gramática dos vídeos produzidos para sobreviver ao swipe? |
