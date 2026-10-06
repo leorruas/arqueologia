@@ -70,7 +70,6 @@ A presença aqui não obriga a criação de uma nota. Cada pista deve ser avalia
 
 ## Produção de sentido e participação
 
-- **Gramáticas produtivas**: investigar artefatos que não especificam apenas uma saída, mas definem uma estrutura estável dentro da qual outras pessoas produzem variações. A comparação pode atravessar meme, grid, design systems, prompts e métodos lacunados sem presumir descendência histórica.
 - **Autoria da conclusão**: investigar o que muda quando uma mensagem entrega evidências, relações ou perguntas e deixa parte da conclusão para o receptor. Comparar perguntas retóricas, humor, memes e design de investigação; evitar assumir que mais elaboração produz automaticamente mais persuasão.
 - **Carrossel político**: estudar sequência, revelação progressiva e pequenos compromissos sucessivos de atenção em comunicação política. Perguntar como a ordem dos slides altera enquadramento, compreensão e possibilidade de verificação.
 - **Post político como objeto social**: investigar como autor, comentários, métricas, compartilhamentos e contexto de rede participam do significado de uma peça que, isolada como imagem, teria outra leitura.
@@ -111,3 +110,4 @@ Quando uma pista ganha nota própria, ela deixa de funcionar como promessa futur
 - **Arquivo em nuvem**: promovido a `03 artefatos/Arquivo em nuvem.md` para investigar desancoragem entre armazenamento físico e acesso.
 - **Badge de notificação**: promovido a `03 artefatos/Badge de notificacao.md` para investigar como um estado pendente se torna sinal persistente fora do aplicativo.
 - **Favorito / bookmark**: promovido a `03 artefatos/Favorito Bookmark.md` para investigar a preservação de um caminho de retorno a conteúdo externo.
+- **Gramáticas produtivas**: promovida a `04 genealogias/Gramaticas Produtivas.md` para comparar estruturas que estabilizam regras, lacunas ou relações e tornam possível produzir múltiplos resultados futuros sem presumir descendência histórica entre os casos.
