@@ -110,8 +110,44 @@ function rotaCampo(categoria) {
   return `#/campo/${encodeURIComponent(categoria)}`;
 }
 
-function rotaArtigo(artigo) {
-  return `#/estudo/${encodeURIComponent(artigo.categoria)}/${encodeURIComponent(artigo.titulo)}`;
+function rotaArtigo(artigo, secao = "") {
+  const base = `#/estudo/${encodeURIComponent(artigo.categoria)}/${encodeURIComponent(artigo.titulo)}`;
+  return secao ? `${base}?secao=${encodeURIComponent(secao)}` : base;
+}
+
+function secaoDoWiki(alvo) {
+  const partes = String(alvo || "").split("#");
+  return partes.length > 1 ? slug(partes.slice(1).join("#").trim()) : "";
+}
+
+function rolarParaSecao(secao, comportamento = "smooth") {
+  if (!secao) return false;
+  const heading = document.getElementById(secao);
+  if (!heading || !corpoArtigo.contains(heading)) return false;
+  corpoArtigo.querySelectorAll(".secao-ativa").forEach(item => item.classList.remove("secao-ativa"));
+  heading.classList.add("secao-ativa");
+  heading.scrollIntoView({ behavior: comportamento, block: "start" });
+  return true;
+}
+
+async function copiarLinkDaSecao(artigo, secao) {
+  const href = rotaArtigo(artigo, secao);
+  const url = `${window.location.origin}${window.location.pathname}${window.location.search}${href}`;
+  try {
+    await navigator.clipboard.writeText(url);
+    return true;
+  } catch (_) {
+    const campo = document.createElement("textarea");
+    campo.value = url;
+    campo.setAttribute("readonly", "");
+    campo.style.position = "fixed";
+    campo.style.opacity = "0";
+    document.body.appendChild(campo);
+    campo.select();
+    const copiado = document.execCommand("copy");
+    campo.remove();
+    return copiado;
+  }
 }
 
 function aplicarTema(tema, persistir = true) {
@@ -351,41 +387,73 @@ function prepararMarkdown(markdown) {
     .replace(/!\[\[([^\]]+)\]\]/g, (_match, alvo) => `\`anexo: ${alvo}\``)
     .replace(/\[\[([^\]|]+)\|([^\]]+)\]\]/g, (_match, alvo, rotulo) => {
       const artigo = encontrarArtigoPorWiki(alvo);
-      return artigo ? `[${rotulo}](${rotaArtigo(artigo)})` : rotulo;
+      const secao = secaoDoWiki(alvo);
+      return artigo ? `[${rotulo}](${rotaArtigo(artigo, secao)})` : rotulo;
     })
     .replace(/\[\[([^\]]+)\]\]/g, (_match, alvo) => {
       const artigo = encontrarArtigoPorWiki(alvo);
       const rotulo = String(alvo).split("#")[0].split("/").pop();
-      return artigo ? `[${rotulo}](${rotaArtigo(artigo)})` : rotulo;
+      const secao = secaoDoWiki(alvo);
+      return artigo ? `[${rotulo}](${rotaArtigo(artigo, secao)})` : rotulo;
     });
 }
 
-function montarToc() {
+function montarToc(secaoInicial = "") {
   const toc = el("toc-nav");
   toc.innerHTML = "";
   const titulos = corpoArtigo.querySelectorAll("h2, h3");
   const usados = new Set();
 
   titulos.forEach((heading, indice) => {
-    let id = slug(heading.textContent) || `secao-${indice + 1}`;
+    const rotulo = heading.textContent.trim();
+    let id = slug(rotulo) || `secao-${indice + 1}`;
     let unico = id;
     let n = 2;
     while (usados.has(unico)) unico = `${id}-${n++}`;
     usados.add(unico);
     heading.id = unico;
 
-    const link = document.createElement("a");
-    link.href = `#${unico}`;
-    link.className = `toc-link ${heading.tagName === "H3" ? "toc-h3" : "toc-h2"}`;
-    link.textContent = heading.textContent;
-    link.addEventListener("click", event => {
+    const ancora = document.createElement("a");
+    ancora.href = artigoAtual ? rotaArtigo(artigoAtual, unico) : `#${unico}`;
+    ancora.className = "heading-anchor";
+    ancora.textContent = "#";
+    ancora.title = "copiar link desta seção";
+    ancora.setAttribute("aria-label", `Copiar link para a seção ${rotulo}`);
+    ancora.addEventListener("click", async event => {
+      if (!artigoAtual) return;
       event.preventDefault();
-      heading.scrollIntoView({ behavior: "smooth", block: "start" });
+      event.stopPropagation();
+      const href = rotaArtigo(artigoAtual, unico);
+      history.pushState({ artigo: artigoAtual.sourcePath, secao: unico }, "", href);
+      rolarParaSecao(unico);
+      const copiado = await copiarLinkDaSecao(artigoAtual, unico);
+      if (copiado) {
+        ancora.classList.add("copiado");
+        ancora.title = "link copiado";
+        setTimeout(() => {
+          ancora.classList.remove("copiado");
+          ancora.title = "copiar link desta seção";
+        }, 1400);
+      }
+    });
+    heading.appendChild(ancora);
+
+    const link = document.createElement("a");
+    link.href = artigoAtual ? rotaArtigo(artigoAtual, unico) : `#${unico}`;
+    link.className = `toc-link ${heading.tagName === "H3" ? "toc-h3" : "toc-h2"}`;
+    link.textContent = rotulo;
+    link.addEventListener("click", event => {
+      if (!artigoAtual) return;
+      event.preventDefault();
+      const href = rotaArtigo(artigoAtual, unico);
+      history.pushState({ artigo: artigoAtual.sourcePath, secao: unico }, "", href);
+      rolarParaSecao(unico);
     });
     toc.appendChild(link);
   });
 
   el("artigo-toc-sidebar").classList.toggle("escondido", titulos.length === 0);
+  if (secaoInicial) requestAnimationFrame(() => rolarParaSecao(secaoInicial, "instant"));
 }
 
 function montarNavegacaoArtigo(artigo) {
@@ -419,7 +487,7 @@ function montarNavegacaoArtigo(artigo) {
 
 let cargaArtigoAtual = 0;
 
-async function abrirArtigo(artigo, atualizarRota = true) {
+async function abrirArtigo(artigo, atualizarRota = true, secao = "") {
   if (!artigo) return;
   const carga = window.ARQUEOLOGIA_LOADER.iniciar("Abrindo artigo");
   cargaArtigoAtual = carga;
@@ -428,7 +496,8 @@ async function abrirArtigo(artigo, atualizarRota = true) {
   leitorArtigo.classList.remove("escondido");
   artigoAtual = artigo;
 
-  if (atualizarRota && window.location.hash !== rotaArtigo(artigo)) history.pushState({ artigo: artigo.sourcePath }, "", rotaArtigo(artigo));
+  const rotaDestino = rotaArtigo(artigo, secao);
+  if (atualizarRota && window.location.hash !== rotaDestino) history.pushState({ artigo: artigo.sourcePath, secao }, "", rotaDestino);
 
   criarBreadcrumb(el("artigo-breadcrumbs"), artigo.categoria, artigo.titulo);
   el("artigo-kicker").textContent = nomeCategoria(artigo.categoria);
@@ -450,7 +519,7 @@ async function abrirArtigo(artigo, atualizarRota = true) {
     const markdown = await garantirConteudo(artigo);
     if (artigoAtual !== artigo || cargaArtigoAtual !== carga) return;
     corpoArtigo.innerHTML = marked.parse(prepararMarkdown(markdown), { gfm: true, breaks: false });
-    montarToc();
+    montarToc(secao);
   } catch (erro) {
     if (artigoAtual !== artigo || cargaArtigoAtual !== carga) return;
     corpoArtigo.innerHTML = `<p>não foi possível abrir este estudo agora.</p><pre><code>${erro.message}</code></pre>`;
@@ -543,12 +612,25 @@ function tratarRota() {
   }
 
   if (hash.startsWith("#/estudo/")) {
-    const partes = hash.replace("#/estudo/", "").split("/");
+    const bruto = hash.replace("#/estudo/", "");
+    const indiceConsulta = bruto.indexOf("?");
+    const caminho = indiceConsulta >= 0 ? bruto.slice(0, indiceConsulta) : bruto;
+    const consulta = indiceConsulta >= 0 ? bruto.slice(indiceConsulta + 1) : "";
+    const partes = caminho.split("/");
     const categoria = decodeURIComponent(partes[0] || "");
     const titulo = decodeURIComponent(partes.slice(1).join("/") || "");
+    const params = new URLSearchParams(consulta);
+    const secao = params.get("secao") || "";
     const artigo = artigos.find(item => item.categoria === categoria && item.titulo === titulo);
-    if (artigo) return abrirArtigo(artigo, false);
-    else mostrarHome(false);
+    if (artigo) {
+      if (artigoAtual === artigo && !leitorArtigo.classList.contains("escondido")) {
+        if (secao) rolarParaSecao(secao);
+        else window.scrollTo({ top: 0, behavior: "smooth" });
+        return;
+      }
+      return abrirArtigo(artigo, false, secao);
+    }
+    mostrarHome(false);
   }
 }
 
