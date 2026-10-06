@@ -35,6 +35,14 @@ No [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]]
 
 O código aberto do Twitter em 2023 documentou previsões específicas de feedback negativo e denúncia no heavy ranker, combinadas ao score com coeficientes negativos. A documentação atual também afirma que usuários podem influenciar recomendações ao reportar conteúdo em que não têm interesse. Isso mostra uma implementação em que afastamento explícito participa diretamente da decisão de distribuição, embora os pesos públicos de 2023 não devam ser tratados como configuração atual.
 
+## O escopo da recusa muda a função do gesto
+
+O [[03 artefatos/Feed algoritmico do X Twitter|Feed algorítmico do X/Twitter]] permite distinguir controles que parecem semelhantes na interface, mas produzem efeitos diferentes. “Not interested” comunica uma preferência ao sistema de recomendação; silenciar termo ou conta aplica um filtro mais persistente; bloquear redefine a relação social e impede formas de interação; denunciar solicita julgamento institucional sobre possível violação.
+
+A aba Following acrescenta uma recusa de outra ordem: em vez de fornecer feedback sobre candidatos individuais, a pessoa troca a regra de seleção da superfície e volta a uma timeline cronológica das contas seguidas.
+
+Essa diferença sugere que feedback negativo deve registrar **escopo e destino do sinal**. Uma rejeição pode atualizar um modelo, aplicar um filtro local, alterar o grafo social ou iniciar moderação. O gesto visível de afastamento não informa sozinho qual infraestrutura será acionada.
+
 ## Ficha do conceito
 
 | Campo | Registro |
@@ -47,7 +55,7 @@ O código aberto do Twitter em 2023 documentou previsões específicas de feedba
 | **Distinção central** | Rejeição explícita ↔ rejeição inferida a partir de comportamento |
 | **O que ajuda a explicar** | Como sistemas aprendem preferências negativas e reduzem exposições semelhantes |
 | **O que não explica sozinho** | Motivo da rejeição, intenção consciente, qualidade do conteúdo ou satisfação geral |
-| **Artefatos-chave** | [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]] |
+| **Artefatos-chave** | [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], [[03 artefatos/Feed algoritmico do X Twitter|Feed algorítmico do X/Twitter]] |
 | **Variáveis relacionadas** | [[02 variaveis/Tempo de permanência|Tempo de permanência]], [[02 variaveis/Afinidade inferida|Afinidade inferida]] |
 | **Genealogias relacionadas** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] |
 
