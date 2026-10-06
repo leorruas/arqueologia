@@ -104,7 +104,7 @@ A hipótese arqueológica que sobra é maior que o próprio Instagram: **quando 
 | **Conceitos relacionados** | [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Design Systems|Design Systems]] por parentesco comparativo |
 | **Variáveis relacionadas** | [[02 variaveis/Variabilidade|Variabilidade]], [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Atencao|Atenção]] |
 | **Genealogia** | [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]] |
-| **Percurso(s)** | [[05 percursos/Do artefato ao sinal no Instagram|Do artefato ao sinal no Instagram]] |
+| **Percurso(s)** | [[05 percursos/Do artefato ao sinal em feeds algoritmicos|Do artefato ao sinal em feeds algorítmicos]] |
 | **Parentes** | [[03 artefatos/Meme|Meme]], [[03 artefatos/Prompt Conversacional|Prompt conversacional]], correntes, desafios, hashtags participativas e templates sociais |
 | **Leituras-chave** | Documentação e anúncios de produto do Instagram/Meta sobre Add Yours |
 | **Princípio de design revelado** | Uma gramática ganha capacidade de autopropagação quando cada resultado carrega também a regra e o mecanismo de produção da próxima variação |
