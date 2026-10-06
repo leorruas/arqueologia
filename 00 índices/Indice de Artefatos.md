@@ -104,6 +104,7 @@ Este índice organiza estudos publicados por campo de design. A classificação 
 - [[03 artefatos/Botao Salvar|Botão salvar]]: decisão explícita de persistência do trabalho digital.
 - [[03 artefatos/Favorito Bookmark|Favorito / bookmark]]: marca persistente que preserva um caminho de retorno a conteúdo mantido fora da coleção.
 - [[03 artefatos/Hero Section|Hero section]]: enquadramento inicial e hierarquia de atenção em páginas web.
+- [[03 artefatos/Gancho de abertura|Gancho de abertura]]: decisão temporal de início que tenta conquistar o próximo instante de atenção em ambientes onde abandonar custa pouco.
 - [[03 artefatos/Archive|Archive]]: preservação sem permanência no primeiro plano.
 - [[03 artefatos/Badge de notificacao|Badge de notificação]]: sinal persistente que torna uma pendência perceptível antes de abrir o aplicativo.
 - [[03 artefatos/Infinite Scroll|Infinite Scroll]]: continuidade de conteúdo sem paginação explícita.
