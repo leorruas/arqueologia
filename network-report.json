@@ -1,25 +1,13 @@
 {
-  "generatedAt": "2026-10-06T10:29:23.176Z",
+  "generatedAt": "2026-10-06T10:29:55.042Z",
   "scope": "Integração do grafo: títulos duplicados dentro da mesma camada, índices, home, reciprocidade estrutural, tipos de design e nós órfãos. Conceitos e variáveis não exigem backlink exaustivo.",
-  "issueCount": 26,
+  "issueCount": 16,
   "countsByKind": {
-    "missing-from-index": 5,
-    "missing-reciprocal-link": 14,
-    "design-type-drift": 7
+    "missing-from-index": 3,
+    "missing-reciprocal-link": 10,
+    "design-type-drift": 3
   },
   "issues": [
-    {
-      "kind": "missing-from-index",
-      "sourcePath": "03 artefatos/Clip político.md",
-      "targetPath": "00 índices/Indice de Artefatos.md",
-      "detail": "Arquivo não aparece em 00 índices/Indice de Artefatos.md."
-    },
-    {
-      "kind": "missing-from-index",
-      "sourcePath": "03 artefatos/Entrevista longa.md",
-      "targetPath": "00 índices/Indice de Artefatos.md",
-      "detail": "Arquivo não aparece em 00 índices/Indice de Artefatos.md."
-    },
     {
       "kind": "missing-from-index",
       "sourcePath": "03 artefatos/Vaso de Plantas.md",
@@ -82,30 +70,6 @@
     },
     {
       "kind": "missing-reciprocal-link",
-      "sourcePath": "03 artefatos/Clip político.md",
-      "targetPath": "00 tipos de design/Design Grafico.md",
-      "detail": "A ficha liga para 00 tipos de design/Design Grafico.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "missing-reciprocal-link",
-      "sourcePath": "03 artefatos/Clip político.md",
-      "targetPath": "00 tipos de design/Design de Interface.md",
-      "detail": "A ficha liga para 00 tipos de design/Design de Interface.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "missing-reciprocal-link",
-      "sourcePath": "03 artefatos/Entrevista longa.md",
-      "targetPath": "00 tipos de design/Design de Servicos.md",
-      "detail": "A ficha liga para 00 tipos de design/Design de Servicos.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "missing-reciprocal-link",
-      "sourcePath": "03 artefatos/Entrevista longa.md",
-      "targetPath": "00 tipos de design/Design de Interface.md",
-      "detail": "A ficha liga para 00 tipos de design/Design de Interface.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "missing-reciprocal-link",
       "sourcePath": "03 artefatos/Feed de Videos Curtos.md",
       "targetPath": "00 tipos de design/Design de Interface.md",
       "detail": "A ficha liga para 00 tipos de design/Design de Interface.md, mas a nota relacionada não devolve o vínculo."
@@ -124,12 +88,6 @@
     },
     {
       "kind": "design-type-drift",
-      "sourcePath": "03 artefatos/Clip político.md",
-      "targetPath": "00 tipos de design/Design Grafico.md",
-      "detail": "Artefato declara 00 tipos de design/Design Grafico.md, mas o tipo de design não o referencia."
-    },
-    {
-      "kind": "design-type-drift",
       "sourcePath": "03 artefatos/Autoplay.md",
       "targetPath": "00 tipos de design/Design de Interface.md",
       "detail": "Artefato declara 00 tipos de design/Design de Interface.md, mas o tipo de design não o referencia."
@@ -142,27 +100,9 @@
     },
     {
       "kind": "design-type-drift",
-      "sourcePath": "03 artefatos/Clip político.md",
-      "targetPath": "00 tipos de design/Design de Interface.md",
-      "detail": "Artefato declara 00 tipos de design/Design de Interface.md, mas o tipo de design não o referencia."
-    },
-    {
-      "kind": "design-type-drift",
-      "sourcePath": "03 artefatos/Entrevista longa.md",
-      "targetPath": "00 tipos de design/Design de Interface.md",
-      "detail": "Artefato declara 00 tipos de design/Design de Interface.md, mas o tipo de design não o referencia."
-    },
-    {
-      "kind": "design-type-drift",
       "sourcePath": "03 artefatos/Feed de Videos Curtos.md",
       "targetPath": "00 tipos de design/Design de Interface.md",
       "detail": "Artefato declara 00 tipos de design/Design de Interface.md, mas o tipo de design não o referencia."
-    },
-    {
-      "kind": "design-type-drift",
-      "sourcePath": "03 artefatos/Entrevista longa.md",
-      "targetPath": "00 tipos de design/Design de Servicos.md",
-      "detail": "Artefato declara 00 tipos de design/Design de Servicos.md, mas o tipo de design não o referencia."
     }
   ]
 }
