@@ -77,6 +77,8 @@ A pergunta que a variável acrescenta ao estudo de qualquer artefato é simples:
 
 O [[03 artefatos/Mapa pessoal de valores políticos|Mapa pessoal de valores políticos]] introduz um risco e uma proteção ao mesmo tempo. Ao externalizar valores, pode cristalizar uma autoimagem rígida; por isso precisa permitir renomear prioridades, registrar conflitos e revisar o mapa quando novas experiências aparecem.
 
+O [[03 artefatos/Teste de simetria eleitoral|Teste de simetria eleitoral]] transforma revisão em contraprova explícita: o critério usado num caso é reaplicado depois de trocar a identidade política do ator. O interesse não é obrigar simetria, mas verificar se a representação consegue reconhecer que parte do julgamento depende da identidade e que parte depende de diferenças contextuais relevantes.
+
 A [[03 artefatos/Voting Advice Application|Voting Advice Application]] também oferece um caso operacional: quando novas informações sobre um candidato aparecem, a estrutura de comparação deveria permitir que a representação e a recomendação mudassem sem precisar preservar o resultado anterior por inércia. Na hipótese de uma VAA orientada pela questão do eleitor, isso inclui poder revisar critérios, pesos e evidências que sustentaram a conclusão.
 
 ## Ficha da variável
@@ -89,7 +91,7 @@ A [[03 artefatos/Voting Advice Application|Voting Advice Application]] também o
 | **Como observar** | Incorporação de contraprovas, reconhecimento de variabilidade interna, mudança de generalizações, tempo e quantidade de evidência necessários para revisão, capacidade de formular condições de falsificação |
 | **O que não mede sozinho** | Veracidade da representação, simpatia, polarização afetiva, mudança de voto, confiança ou intensidade da identidade |
 | **Trade-offs principais** | Maior revisabilidade favorece correção e nuance, mas pode elevar custo cognitivo, enfraquecer estabilidade útil ou aumentar vulnerabilidade a evidência episódica e manipulação |
-| **Artefatos-chave** | [[03 artefatos/Apelido político|Apelido político]], [[03 artefatos/Clip político|Clip político]], [[03 artefatos/Entrevista longa|Entrevista longa]], [[03 artefatos/Tango|Tango]] |
+| **Artefatos-chave** | [[03 artefatos/Apelido político|Apelido político]], [[03 artefatos/Clip político|Clip político]], [[03 artefatos/Entrevista longa|Entrevista longa]], [[03 artefatos/Tango|Tango]], [[03 artefatos/Teste de simetria eleitoral|Teste de simetria eleitoral]] |
 | **Conceitos relacionados** | [[01 conceitos/Design da aversão|Design da aversão]], [[01 conceitos/Identidade política negativa|Identidade política negativa]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]] |
 | **Genealogias relacionadas** | [[04 genealogias/Compressao do Esforco|Compressão do esforço]]; fechamento e reabertura de representações permanece como genealogia em investigação |
 
