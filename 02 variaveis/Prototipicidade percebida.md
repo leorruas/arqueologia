@@ -82,7 +82,7 @@ A pergunta que a variável acrescenta é: **este artefato está mostrando uma pe
 | **Como observar** | Avaliações de tipicidade e representatividade, atribuição de traços individuais ao grupo, linguagem de generalização, mudança entre explicações categoriais e individuantes |
 | **O que não mede sozinho** | Homogeneidade real ou percebida do grupo, extremismo, simpatia, [[02 variaveis/Ameaça percebida|ameaça percebida]], veracidade do estereótipo ou centralidade identitária |
 | **Trade-offs principais** | Maior prototipicidade facilita reconhecimento e generalização; também pode aumentar redução do indivíduo à categoria. Menor prototipicidade favorece individuação, mas pode transformar contraprovas em exceções incapazes de alterar o grupo |
-| **Artefatos-chave** | [[03 artefatos/Apelido político|Apelido político]], [[03 artefatos/Clip político|Clip político]], [[03 artefatos/Meme|Meme]], [[03 artefatos/Entrevista longa|Entrevista longa]], [[03 artefatos/Tango|Tango]] |
+| **Artefatos-chave** | [[03 artefatos/Apelido político|Apelido político]], [[03 artefatos/Clip político|Clip político]], [[03 artefatos/Meme|Meme]], [[03 artefatos/Entrevista longa|Entrevista longa]], [[03 artefatos/Tango|Tango]], [[03 artefatos/Teste de simetria eleitoral|Teste de simetria eleitoral]] |
 | **Conceitos relacionados** | [[01 conceitos/Design da aversão|Design da aversão]], [[01 conceitos/Identidade política negativa|Identidade política negativa]], [[01 conceitos/Polarização afetiva|Polarização afetiva]] |
 | **Genealogias relacionadas** | [[04 genealogias/Compressao do Esforco|Compressão do esforço]] por parentesco cognitivo e representacional; fechamento e reabertura de representações permanece em investigação |
 
