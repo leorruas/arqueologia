@@ -80,7 +80,7 @@ A pergunta que a variável acrescenta ao estudo de um artefato é: **que dano es
 | **Como observar** | Avaliações de ameaça a segurança, recursos, poder, direitos, valores, identidade ou modo de vida; distinção entre ameaça individual e coletiva; linguagem de perigo, perda, destruição ou substituição |
 | **O que não mede sozinho** | Risco objetivo, antipatia, polarização afetiva, distância social, confiança, intenção de voto ou extremismo |
 | **Trade-offs principais** | Sinais de ameaça podem orientar atenção para riscos reais; amplificação ou generalização excessiva pode transformar casos episódicos em percepção persistente de perigo |
-| **Artefatos-chave** | [[03 artefatos/Clip político|Clip político]], [[03 artefatos/Apelido político|Apelido político]], [[03 artefatos/Meme|Meme]], [[03 artefatos/Tango|Tango]] |
+| **Artefatos-chave** | [[03 artefatos/Clip político|Clip político]], [[03 artefatos/Apelido político|Apelido político]], [[03 artefatos/Meme|Meme]], [[03 artefatos/Tango|Tango]], [[03 artefatos/Teste de simetria eleitoral|Teste de simetria eleitoral]] |
 | **Conceitos relacionados** | [[01 conceitos/Design da aversão|Design da aversão]], [[01 conceitos/Polarização afetiva|Polarização afetiva]], [[01 conceitos/Identidade política negativa|Identidade política negativa]], [[01 conceitos/Partidarismo negativo|Partidarismo negativo]] |
 | **Genealogias relacionadas** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] pela hipótese de exposição e saliência; fechamento e reabertura de representações permanece em investigação |
 
