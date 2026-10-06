@@ -18,6 +18,7 @@ Variáveis são eixos usados para comparar o efeito de decisões de design. Elas
 - [[02 variaveis/Expectativa de Disponibilidade|Expectativa de Disponibilidade]]: **baixa ↔ alta expectativa de acesso imediato ou contínuo**.
 - [[02 variaveis/Friccao|Fricção]]: **baixa ↔ alta resistência física, cognitiva ou operacional** entre intenção e ação.
 - [[02 variaveis/Justica|Justiça]]: **baixa ↔ alta percepção de equidade** na aplicação de regras ou distribuição de recursos.
+- [[02 variaveis/Legibilidade da Mediacao Politica|Legibilidade da mediação política]]: **baixa ↔ alta capacidade de perceber, reconstruir e verificar como decisões públicas participaram de uma experiência concreta**.
 - [[02 variaveis/Legitimidade Decisoria|Legitimidade Decisória]]: **baixa ↔ alta capacidade de justificar, compreender e contestar uma decisão**.
 - [[02 variaveis/Permanencia|Permanência]]: **efêmero ↔ persistente** no espaço ou no tempo.
 - [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]]: **baixa ↔ alta capacidade de antecipar localização, hierarquia ou comportamento visual**.
