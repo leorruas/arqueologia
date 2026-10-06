@@ -18,7 +18,9 @@ O qualificativo “inferida” é essencial. Sistemas de recomendação aprendem
 
 ## Relação vivida e relação modelada podem divergir
 
-No [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], histórico de interação entre pessoas, atividade anterior e características do conteúdo podem participar das previsões de ranking. O sistema constrói uma representação operacional suficiente para ordenar candidatos; essa representação não precisa coincidir com a maneira como o usuário descreveria seus próprios vínculos.
+No [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], [[03 artefatos/Feed algoritmico do X Twitter|Feed algorítmico do X/Twitter]], histórico de interação entre pessoas, atividade anterior e características do conteúdo podem participar das previsões de ranking. O sistema constrói uma representação operacional suficiente para ordenar candidatos; essa representação não precisa coincidir com a maneira como o usuário descreveria seus próprios vínculos.
+
+No X/Twitter, essa relação aparece em sinais como contas seguidas, Topics seguidos, posts curtidos pela pessoa, posts curtidos por sua rede e contas seguidas pela rede. A afinidade operacional pode ser construída tanto por vínculo direto quanto por proximidade social e padrões compartilhados.
 
 A variável permite observar esse descompasso. Uma pessoa pode visitar repetidamente um perfil por conflito, trabalho ou curiosidade e produzir rastros que o sistema interprete como afinidade. Da mesma forma, uma relação importante pode gerar pouco comportamento mensurável.
 
