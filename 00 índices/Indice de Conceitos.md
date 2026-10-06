@@ -20,6 +20,10 @@ Este índice separa conceitos pela procedência intelectual. A distinção não 
 - [[01 conceitos/Manipulacao Direta|Manipulação Direta]]: formulação clássica de interação associada a Ben Shneiderman.
 - [[01 conceitos/Memoria Distribuida|Memória Distribuída]]: família de ideias ligada à cognição distribuída e à externalização de memória.
 - [[01 conceitos/Paradoxo da Escolha|Paradoxo da Escolha]]: formulação popularizada por Barry Schwartz sobre efeitos de conjuntos amplos de alternativas.
+- [[01 conceitos/Partidarismo negativo|Partidarismo negativo]]: literatura sobre rejeição partidária como orientação que pode existir sem adesão positiva equivalente e que pode assumir componentes instrumentais ou identitários.
+- [[01 conceitos/Identidade política negativa|Identidade política negativa]]: formulação sobre identidades organizadas pela oposição a um partido, liderança ou campo político, com evidência relevante no contexto brasileiro.
+- [[01 conceitos/Polarização afetiva|Polarização afetiva]]: literatura que separa distância emocional entre grupos políticos de distância ideológica.
+- [[01 conceitos/Voto negativo|Voto negativo]]: estudos sobre escolhas eleitorais motivadas mais por impedir uma alternativa do que por apoiar positivamente a opção escolhida.
 - [[01 conceitos/Padroes Enganosos|Padrões enganosos]]: tradição de HCI e proteção do consumidor, originada no termo *dark patterns* cunhado por Harry Brignull, para interfaces que manipulam, enganam ou constrangem escolhas.
 - [[01 conceitos/Recompensa Variavel|Recompensa Variável]]: princípio derivado de tradições de aprendizagem e reforço comportamental.
 
@@ -46,6 +50,7 @@ Estas formulações nasceram ou ganharam sua forma atual dentro desta investiga�
 - [[01 conceitos/Arquiteturas de Continuidade|Arquiteturas de continuidade]]: hipótese sobre como artefatos projetam pontos de parada, repetição e a necessidade — ou não — de uma nova decisão para continuar.
 - [[01 conceitos/Continuidade de Acesso|Continuidade de Acesso]]: hipótese sobre a transformação de acesso episódico em disponibilidade contínua.
 - [[01 conceitos/Design do Voto|Design do voto]]: hipótese sobre como artefatos comunicacionais alteram as condições perceptivas, cognitivas e emocionais em que julgamentos políticos são formados.
+- [[01 conceitos/Design da aversão|Design da aversão]]: hipótese sobre como artefatos e sistemas tornam rejeições políticas recuperáveis, transmissíveis e operacionais, e sobre dispositivos que podem afrouxar essas relações.
 - [[01 conceitos/Ecologia de Artefatos|Ecologia de Artefatos]]: modelo que relaciona artefatos organizacionais pelo recurso invisível que cada um reorganiza.
 - [[01 conceitos/Eras da Economia|Eras da Economia e Design]]: estrutura interpretativa do projeto para comparar mudanças no foco de produção, acesso e decisão.
 - [[01 conceitos/Genealogia de Futuros|Genealogia de Futuros]]: método para investigar como promessas se tornam expectativas e que capacidades, problemas e descendentes surgem quando a hipótese de um artefato vence.
