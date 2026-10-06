@@ -1,19 +1,13 @@
 {
-  "generatedAt": "2026-10-06T09:36:59.777Z",
+  "generatedAt": "2026-10-06T09:44:44.366Z",
   "scope": "Integração do grafo: títulos duplicados dentro da mesma camada, índices, home, reciprocidade estrutural, tipos de design e nós órfãos. Conceitos e variáveis não exigem backlink exaustivo.",
-  "issueCount": 22,
+  "issueCount": 20,
   "countsByKind": {
-    "missing-from-index": 7,
-    "missing-reciprocal-link": 11,
-    "design-type-drift": 4
+    "missing-from-index": 8,
+    "missing-reciprocal-link": 9,
+    "design-type-drift": 3
   },
   "issues": [
-    {
-      "kind": "missing-from-index",
-      "sourcePath": "03 artefatos/Meme.md",
-      "targetPath": "00 índices/Indice de Artefatos.md",
-      "detail": "Arquivo não aparece em 00 índices/Indice de Artefatos.md."
-    },
     {
       "kind": "missing-from-index",
       "sourcePath": "03 artefatos/Vaso de Plantas.md",
@@ -22,7 +16,13 @@
     },
     {
       "kind": "missing-from-index",
-      "sourcePath": "01 conceitos/Design do Voto.md",
+      "sourcePath": "01 conceitos/Design da aversão.md",
+      "targetPath": "00 índices/Indice de Conceitos.md",
+      "detail": "Arquivo não aparece em 00 índices/Indice de Conceitos.md."
+    },
+    {
+      "kind": "missing-from-index",
+      "sourcePath": "01 conceitos/Identidade política negativa.md",
       "targetPath": "00 índices/Indice de Conceitos.md",
       "detail": "Arquivo não aparece em 00 índices/Indice de Conceitos.md."
     },
@@ -34,21 +34,27 @@
     },
     {
       "kind": "missing-from-index",
+      "sourcePath": "01 conceitos/Partidarismo negativo.md",
+      "targetPath": "00 índices/Indice de Conceitos.md",
+      "detail": "Arquivo não aparece em 00 índices/Indice de Conceitos.md."
+    },
+    {
+      "kind": "missing-from-index",
+      "sourcePath": "01 conceitos/Polarização afetiva.md",
+      "targetPath": "00 índices/Indice de Conceitos.md",
+      "detail": "Arquivo não aparece em 00 índices/Indice de Conceitos.md."
+    },
+    {
+      "kind": "missing-from-index",
       "sourcePath": "01 conceitos/Portabilizacao de contexto.md",
       "targetPath": "00 índices/Indice de Conceitos.md",
       "detail": "Arquivo não aparece em 00 índices/Indice de Conceitos.md."
     },
     {
       "kind": "missing-from-index",
-      "sourcePath": "autores/Limor Shifman.md",
-      "targetPath": "00 índices/Indice de Autores.md",
-      "detail": "Arquivo não aparece em 00 índices/Indice de Autores.md."
-    },
-    {
-      "kind": "missing-from-index",
-      "sourcePath": "autores/Richard Dawkins.md",
-      "targetPath": "00 índices/Indice de Autores.md",
-      "detail": "Arquivo não aparece em 00 índices/Indice de Autores.md."
+      "sourcePath": "01 conceitos/Voto negativo.md",
+      "targetPath": "00 índices/Indice de Conceitos.md",
+      "detail": "Arquivo não aparece em 00 índices/Indice de Conceitos.md."
     },
     {
       "kind": "missing-reciprocal-link",
@@ -100,27 +106,9 @@
     },
     {
       "kind": "missing-reciprocal-link",
-      "sourcePath": "03 artefatos/Meme.md",
-      "targetPath": "00 tipos de design/Design Grafico.md",
-      "detail": "A ficha liga para 00 tipos de design/Design Grafico.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "missing-reciprocal-link",
-      "sourcePath": "03 artefatos/Meme.md",
-      "targetPath": "04 genealogias/Compressao do Esforco.md",
-      "detail": "A ficha liga para 04 genealogias/Compressao do Esforco.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "missing-reciprocal-link",
       "sourcePath": "03 artefatos/Portfólio.md",
       "targetPath": "04 genealogias/Permanencia e Memoria Externa.md",
       "detail": "A ficha liga para 04 genealogias/Permanencia e Memoria Externa.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "design-type-drift",
-      "sourcePath": "03 artefatos/Meme.md",
-      "targetPath": "00 tipos de design/Design Grafico.md",
-      "detail": "Artefato declara 00 tipos de design/Design Grafico.md, mas o tipo de design não o referencia."
     },
     {
       "kind": "design-type-drift",
