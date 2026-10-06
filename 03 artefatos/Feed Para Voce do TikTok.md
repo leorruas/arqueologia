@@ -51,6 +51,26 @@ Pesquisadores da ByteDance publicaram em 2026 um método de debiasing que trata 
 
 O ponto arqueológico é maior que a métrica. **A duração do conteúdo altera a forma como o comportamento do público se torna legível para a máquina.** Escolher fazer um vídeo de 12 segundos ou de dois minutos não muda apenas narrativa e ritmo; muda também as condições sob as quais permanência, conclusão e abandono poderão ser interpretados.
 
+## Ações da pessoa e propriedades do conteúdo
+
+A documentação do TikTok ajuda a separar dois tipos de evidência que costumam ser reunidos sob a palavra “engajamento”. De um lado estão **ações da pessoa**: curtir, compartilhar, comentar, seguir contas, assistir, pular e pesquisar. De outro estão **informações do conteúdo**: legenda, som, hashtags, número de visualizações e contexto de publicação.[^4][^10] O sistema pode cruzar as duas famílias, mas elas respondem a perguntas diferentes.
+
+Like e comentário indicam que houve uma ação explícita diante de um item. Compartilhar acrescenta [[02 variaveis/Propagação|propagação]] porque desloca o conteúdo para outra relação social. Seguir é ainda mais relacional: ele cria um vínculo persistente com um criador e fornece evidência para [[02 variaveis/Afinidade inferida|afinidade inferida]]. Nenhuma dessas ações, isoladamente, revela por que a pessoa agiu; comentário pode ser discordância, share pode ser crítica e follow pode resultar de curiosidade temporária.
+
+Som e hashtag cumprem outra função. Eles descrevem ou conectam o vídeo a categorias culturais reutilizáveis. Em 2020, o TikTok já os listava como informações do vídeo usadas pelo sistema de recomendação.[^3] A orientação oficial para criadores também afirma que hashtags relevantes ajudam o conteúdo a ser encontrado pela audiência adequada e que sons podem conectar vídeos a buscas, desafios e repertórios compartilhados; usar mais hashtags, porém, não garante maior alcance.[^11] Isso sustenta uma leitura de **descoberta e correspondência temática**, não uma regra causal do tipo “usar hashtag aumenta distribuição”.
+
+[[02 variaveis/Popularidade|Popularidade]] e [[02 variaveis/Recência|recência]] entram numa terceira escala: contexto coletivo. Em 2022, a ferramenta “Por que este vídeo” passou a explicar algumas recomendações com razões como conteúdo publicado recentemente na região e conteúdo popular na região.[^10] Popularidade indica que muitas pessoas já produziram atenção observável; recência indica proximidade temporal. Nenhuma das duas diz, sozinha, que **esta** pessoa gostará do vídeo.
+
+A arquitetura pode ser resumida assim:
+
+**comportamento individual → evidência sobre preferência ou relação**
+
+**metadados do conteúdo → evidência sobre tema, formato ou repertório**
+
+**popularidade e recência → evidência sobre estado coletivo e temporal do item**
+
+O ranking combina essas escalas para estimar relevância. A distinção importa porque impede transformar todo fator de recomendação em “engajamento”.
+
 ## Descoberta sem catálogo
 
 Serviços de mídia anteriores já usavam recomendação, playlists e sugestões. A mudança de interface do TikTok está em reduzir fortemente o intervalo entre **escolher** e **consumir**. O usuário não precisa necessariamente abrir um catálogo, ler títulos, comparar thumbnails ou decidir qual criador merece atenção. O próximo item já ocupa quase toda a tela e pode ser avaliado durante o próprio consumo.
@@ -129,3 +149,8 @@ Essa hipótese transforma o feed em algo maior que uma lista ordenada. Ele funci
 [^8]: “Exploring the Limits of Predicting User Watching Behavior with Short-Form Videos on TikTok”. *WebSci ’26 Companion*, 2026. DOI: https://doi.org/10.1145/3795513.3810457
 
 [^9]: Liu, Emily et al. “Relative Advantage Debiasing for Watch-Time Prediction in Short-Video Recommendation”. *AAAI-26*, 40(18), 2026, pp. 15296–15305. DOI: https://doi.org/10.1609/aaai.v40i18.38555
+
+
+[^10]: TikTok. “Entenda por que um vídeo é recomendado para você”. 20 dez. 2022. O recurso “Por que esse vídeo” lista razões como ações do usuário, contas seguidas ou sugeridas, conteúdo publicado recentemente na região e conteúdo popular na região. https://newsroom.tiktok.com/entenda-por-que-um-video-recomendado?lang=pt-BR
+
+[^11]: TikTok. “5 tips for TikTok creators”. A orientação oficial recomenda hashtags relevantes, sem afirmar que maior quantidade garante alcance, e descreve sons como mecanismos de descoberta e compartilhamento ligados a buscas, trends e desafios. https://newsroom.tiktok.com/5-tips-for-tiktok-creators?lang=en
