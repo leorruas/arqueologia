@@ -65,6 +65,24 @@ A interpretação arqueológica é que o risco sistêmico aparece quando determi
 
 O circuito é uma hipótese de sistema sustentada por estudos parciais de cada elo. Ele não demonstra que o algoritmo atual do X “prefere raiva”.
 
+## Rejeitar também tem uma arquitetura
+
+O X oferece várias formas de dizer “quero menos disso”, mas elas atuam em escalas diferentes. **Not interested in this post** e **Not interested in this Topic** alimentam diretamente a personalização: a empresa afirma usar essas escolhas como sinal para recomendar menos daquele tipo de conteúdo.[^14] **Show less often** exerce função semelhante de redução futura.[^15]
+
+Silenciar amplia o escopo. É possível remover da Home e das notificações posts que contenham palavras, frases, usernames, emojis ou hashtags específicas; o X também afirma que recomendações não sugerirão conteúdo contendo termos silenciados.[^16] Silenciar uma conta remove seus posts da timeline sem desfazer necessariamente a relação de follow e sem avisar a outra pessoa.[^17]
+
+Bloquear muda outra camada. O bloqueio rompe follow, impede likes, replies, reposts e mensagens diretas entre as contas e exclui posts da conta bloqueada da timeline em condições normais.[^18] Aqui a ação deixa de ser apenas preferência sobre conteúdo e passa a redesenhar a fronteira social da interface.
+
+Denunciar atua ainda em outro regime. Um report comunica possível violação das Regras ou dos Termos do X e entra num fluxo de moderação; a própria documentação ressalta que denunciar um post não suspende automaticamente a conta.[^19] No snapshot aberto do ranker de 2023, a probabilidade de report aparecia como uma saída negativa do modelo, mas a ação possui também função institucional que excede personalização individual.[^6]
+
+A aba **Following** oferece uma recusa mais estrutural: em vez de ensinar ao For You item por item, a pessoa pode escolher uma timeline apenas das contas seguidas, em ordem cronológica inversa.[^3] Isso não desliga todos os mecanismos do serviço, mas retira daquela superfície a seleção personalizada de posts de contas não seguidas.
+
+A interpretação do projeto é que o X oferece uma **gramática de recusa por escopo**:
+
+**post → tópico/termo → fonte → relação → moderação → modo de feed**
+
+Cada gesto responde a um problema diferente. “Não tenho interesse” corrige a inferência do modelo; mute cria uma exclusão operacional; block redefine relação e capacidade de interação; report solicita julgamento institucional; Following troca a regra de curadoria. Reunir tudo sob “feedback negativo” esconderia diferenças importantes de agência e poder.
+
 Essa mediação acontece também em outra escala. O [[03 artefatos/Trending Topics do X Twitter|Trending Topics do X/Twitter]] não escolhe primeiro qual post merece aparecer, mas qual **conversa** merece receber o estatuto de assunto emergente. A documentação atual separa detecção de Trends de recomendação de Trends, mostrando que o X opera duas curadorias paralelas do presente: uma no nível das mensagens e outra no nível dos temas.
 
 ## Ficha arqueológica
@@ -86,8 +104,8 @@ Essa mediação acontece também em outra escala. O [[03 artefatos/Trending Topi
 | **Hipótese de design** | Sinais de comportamento e relações conseguem prever melhor que a recência isolada quais partes do fluxo merecem prioridade individual |
 | **Promessa** | Interpretação do projeto: permitir acompanhar “o que importa” sem exigir presença contínua no fluxo cronológico |
 | **Comportamento aproveitado** | Seguir contas, curtir, repostar, responder, clicar, visitar perfis e repetir padrões de interação |
-| **Comportamento produzido** | Esperar que o sistema selecione conteúdo relevante inclusive de contas não seguidas e alternar entre curadoria personalizada e cronologia |
-| **Relação de poder** | A plataforma ganha capacidade de definir quais acontecimentos, autores e temas entram primeiro no campo perceptivo de cada pessoa |
+| **Comportamento produzido** | Esperar que o sistema selecione conteúdo relevante inclusive de contas não seguidas, alternar entre curadoria personalizada e cronologia e usar controles de recusa em diferentes escalas para corrigir exposição |
+| **Relação de poder** | A plataforma ganha capacidade de definir quais acontecimentos, autores e temas entram primeiro no campo perceptivo, enquanto o usuário recebe controles de correção com diferentes escopos: preferência, filtragem, relação social, moderação e escolha de timeline |
 | **Consequências inesperadas** | Interações que aumentam propagação ou conversação podem também recompensar conteúdo moralizado ou intergrupal em determinados contextos; feedback social e exposição podem alterar normas percebidas de expressão, embora emoção não apareça como sinal declarado do ranking |
 | **Destino ou transformação posterior** | A timeline ranqueada evoluiu para uma superfície de descoberta que mistura rede seguida e conteúdo recomendado |
 | **Futuro prometido** | Um fluxo em que abundância e ausência temporária não impedissem o usuário de encontrar os acontecimentos considerados mais relevantes |
@@ -134,3 +152,16 @@ Essa mediação acontece também em outra escala. O [[03 artefatos/Trending Topi
 [^12]: Luo, Kai; Yang, Yang; Teo, Hock Hai. “The Asymmetric Influence of Emotion in the Sharing of COVID-19 Science on Social Media: Observational Study”. *JMIR Infodemiology*, 2(2), 2022, e37331. DOI: https://doi.org/10.2196/37331. Ver também estudos de comunicação de saúde no Twitter que encontram mais replies diante de anger/disgust em contextos específicos.
 
 [^13]: Garimella, Kiran; Weber, Ingmar; De Choudhury, Munmun. “Quote RTs on Twitter: Usage of the New Feature for Political Discourse”. *WebSci ’16*, 2016. DOI: https://doi.org/10.1145/2908131.2908170. Pew Research Center (2022) também mostra que retweets e quote tweets de usuários adultos nos EUA eram mais frequentemente políticos que replies e tweets originais.
+
+
+[^14]: X Help Center. “Our approach to recommendations”. Consultado em 6 out. 2026. Para recomendações do For You, “Not interested in this post” e “Not interested in this Topic” são usados como sinais para recomendar menos daquele tipo de conteúdo. https://help.x.com/en/rules-and-policies/recommendations
+
+[^15]: X Help Center. “How to control your X experience”. Consultado em 6 out. 2026. “Show less often” ajuda o X a entender quais tipos de posts a pessoa deseja ver menos. https://help.x.com/en/safety-and-security/control-your-x-experience
+
+[^16]: X Help Center. “How to use advanced muting options”. Consultado em 6 out. 2026. Palavras, frases, usernames, emojis e hashtags silenciados são removidos da Home/Notifications em condições especificadas e não são sugeridos em recomendações. https://help.x.com/en/using-x/advanced-x-mute-options
+
+[^17]: X Help Center. “How to mute accounts on X”. Consultado em 6 out. 2026. O mute remove posts de uma conta da timeline sem exigir unfollow ou block e sem notificar a conta silenciada. https://help.x.com/en/using-x/x-mute
+
+[^18]: X Help Center. “Blocking on X”. Consultado em 6 out. 2026. O bloqueio impede follow, DM e engajamento entre as contas e remove posts da conta bloqueada da timeline, com exceções documentadas. https://help.x.com/en/using-x/blocking-and-unblocking-accounts
+
+[^19]: X Help Center. “Report a Post, List, or Direct Message”. Consultado em 6 out. 2026. Report solicita avaliação de possível violação e não implica suspensão automática da conta. https://help.x.com/en/safety-and-security/report-a-post
