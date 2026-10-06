@@ -84,7 +84,7 @@ O problema arqueológico que permanece é justamente a divisão do trabalho entr
 | **Variáveis relacionadas** | [[02 variaveis/Variabilidade|Variabilidade]], [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]] |
 | **Genealogia** | [[04 genealogias/Compressao do Esforco|Compressão do esforço]], por parentesco funcional e cognitivo; [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]], por parentesco funcional, semiótico e comparativo |
 | **Percurso(s)** | Ainda não integrado a um percurso específico |
-| **Parentes** | [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Grid|Grid]], [[03 artefatos/Sua vez Add Yours|Sua vez (Add Yours)]], [[03 artefatos/Prompt Conversacional|Prompt conversacional]] |
+| **Parentes** | [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Apelido político|Apelido político]], [[03 artefatos/Grid|Grid]], [[03 artefatos/Sua vez Add Yours|Sua vez (Add Yours)]], [[03 artefatos/Prompt Conversacional|Prompt conversacional]] |
 | **Leituras-chave** | *Memes in Digital Culture*, de [[autores/Limor Shifman|Limor Shifman]] |
 | **Princípio de design revelado** | Estruturas estáveis podem tornar variação barata; parte do significado pode ser carregada pelo repertório do público e completada durante a interpretação |
 | **Questão em aberto** | Quanto do sentido está na superfície e quanto é produzido pelo receptor ao reconhecer e completar o template? |
