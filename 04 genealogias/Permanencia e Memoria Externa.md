@@ -31,6 +31,8 @@ Esses objetos não formam uma cadeia histórica direta. São parentes porque res
 
 Nem toda memória externa tenta preservar tudo. Muitas vezes o gesto decisivo é **escolher o que merece sobreviver à abundância**.
 
+A [[03 artefatos/Carta ao meu eleitor futuro|Carta ao meu eleitor futuro]] acrescenta uma forma particular de permanência: preserva expectativas e critérios **antes** de o resultado existir, para que o futuro possa comparar o estado anterior da decisão com aquilo que aconteceu depois.
+
 O [[03 artefatos/Diário|diário]] seleciona experiências e as transforma em entradas. O [[03 artefatos/Post-it|Post-it]] destaca algo no contexto onde será necessário e pode acrescentar uma camada de interpretação. O [[03 artefatos/Favorito Bookmark|favorito / bookmark]] seleciona um destino externo e preserva um caminho de retorno sem incorporar necessariamente o conteúdo.
 
 Práticas ainda sem estudo próprio no vault ajudam a mostrar que essa família é muito mais antiga que as interfaces digitais. Sublinhado, marginalia e marca-texto alteram perceptivamente o próprio texto para que certas partes retornem mais facilmente à atenção. Commonplace books e fichas bibliográficas extraem trechos ou ideias para uma coleção pessoal. Marcadores de página preservam posição. Em todos esses casos, guardar é inseparável de **editar a abundância**.
