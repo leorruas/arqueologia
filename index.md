@@ -48,6 +48,7 @@ Use esta lente quando a pergunta exigir uma sequência: **o que acontece com uma
 - [[05 percursos/Da Espera a Sincronizacao|Da espera à sincronização]]
 - [[05 percursos/Da Parede ao Interlocutor|Da parede ao interlocutor]]
 - [[05 percursos/Do Reflexo ao Perfil|Do reflexo ao perfil]] *(rascunho: auto-observação, identidade e perfil)*
+- [[05 percursos/Do artefato ao sinal no Instagram|Do artefato ao sinal no Instagram]] *(rascunho: decisões de design, comportamento e sinais de performance)*
 
 ## Índices cruzados
 

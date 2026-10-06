@@ -192,7 +192,7 @@ Outra consequência é que a interface de distribuição começa a influenciar a
 | **Conceitos relacionados** | [[01 conceitos/Arquiteturas de Continuidade|Arquiteturas de continuidade]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Padroes Enganosos|Padrões enganosos]] |
 | **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | Ainda não explicitado. |
-| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
+| **Percurso(s)** | [[05 percursos/Do artefato ao sinal no Instagram|Do artefato ao sinal no Instagram]] |
 | **Parentes** | [[03 artefatos/Infinite Scroll|Infinite Scroll]], [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], [[03 artefatos/Controle Remoto|Controle remoto]], autoplay, playlist, televisão linear |
 | **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Por que funcionou: Baixo custo de experimentar e abandonar; adequação ao smartphone vertical; personalização |
