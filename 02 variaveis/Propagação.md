@@ -24,6 +24,12 @@ A literatura de difusão mostra que propriedades do conteúdo se associam a dife
 
 Esses resultados não autorizam inferir que toda propagação resulta de emoção. Utilidade, identidade, rede, timing, exposição e desenho da plataforma também participam da circulação.
 
+## No Twitter político, propagação também pode carregar fronteiras de grupo
+
+Em grandes amostras de discussão política no Twitter, linguagem moral-emocional esteve associada a mais retweets, com efeito mais forte dentro de redes ideológicas. Em outro estudo com milhões de posts de mídia e congressistas, referências ao grupo adversário foram ainda mais fortes como preditoras de retweet e compartilhamento. Isso mostra que propagação pode transportar identidade, aversão e moralização junto com informação.
+
+Essas relações são observacionais e contextuais. Há domínios em que raiva aparece associada a menos retweets, e críticas metodológicas mostram que efeitos de linguagem moral-emocional podem ser sensíveis ao modelo analítico. A variável mede redistribuição; a causa dessa redistribuição precisa ser investigada separadamente.
+
 ## Alcance não é propagação
 
 Um sistema pode mostrar um conteúdo a milhões de pessoas sem que elas o retransmitam. Esse é alcance produzido pela plataforma. Propagação começa quando a exposição seguinte depende de uma ação de redistribuição realizada por usuários ou de um mecanismo equivalente de recirculação.
