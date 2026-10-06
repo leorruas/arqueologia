@@ -45,6 +45,8 @@ Essa capacidade também produz autoridade. Um documento diagramado com consistê
 
 As fronteiras do design gráfico sempre foram porosas. [[00 tipos de design/Tipografia|Tipografia]] investiga a forma da linguagem escrita; [[00 tipos de design/Design de Interface|design de interface]] acrescenta estados e resposta à superfície; [[00 tipos de design/Design de Produto|design de produto]] incorpora sinais à materialidade; design de serviços usa mapas, diagramas e documentos para tornar coordenação visível.
 
+O [[03 artefatos/Meme|Meme]] acrescenta uma fronteira importante porque a composição pode funcionar como **gramática reutilizável**. Uma parte permanece reconhecível enquanto outra é modificada por públicos sucessivos. O caso mostra que o campo também pode projetar condições para variação: forma, tipografia e template estabilizam relações suficientes para que muitas mensagens diferentes possam surgir sem recomeçar a composição do zero.
+
 Por isso, talvez seja mais útil pensar o design gráfico não como território de “peças” mas como uma especialização histórica em uma pergunta: **como organizar sinais para que uma relação possa ser percebida antes de ser explicada?**
 
 O [[03 artefatos/Diário|Diário]] organiza experiência em sequência legível. O pôster comprime um acontecimento futuro numa superfície. O grid torna relações espaciais previsíveis. O mascote faz uma instituição parecer personagem. O QR Code converte contraste gráfico em instrução legível por máquina. Em todos eles, pequenas decisões visuais alteram o custo de interpretar, reconhecer, lembrar ou agir.
@@ -53,7 +55,7 @@ Essa é também a ponte com [[01 conceitos/Redução de Inferências|redução d
 
 ## Leituras no vault
 
-Para observar o campo por seus mecanismos, comece por [[03 artefatos/Pôster|Pôster]] e [[03 artefatos/Grid|Grid]]. Depois, [[03 artefatos/Mascote|Mascote]] mostra como identidade pode ganhar corpo; [[03 artefatos/QR Code|QR Code]], como uma forma gráfica pode virar comando; e [[05 percursos/Da Parede ao Feed|Da parede ao feed]] e [[05 percursos/Da Parede ao Interlocutor|Da parede ao interlocutor]] mostram como problemas clássicos de superfície, atenção e autoridade reaparecem em sistemas digitais.
+Para observar o campo por seus mecanismos, comece por [[03 artefatos/Pôster|Pôster]] e [[03 artefatos/Grid|Grid]]. O [[03 artefatos/Meme|Meme]] mostra como uma estrutura gráfica pode se tornar matéria-prima para produção distribuída e remix. Depois, [[03 artefatos/Mascote|Mascote]] mostra como identidade pode ganhar corpo; [[03 artefatos/QR Code|QR Code]], como uma forma gráfica pode virar comando; e [[05 percursos/Da Parede ao Feed|Da parede ao feed]] e [[05 percursos/Da Parede ao Interlocutor|Da parede ao interlocutor]] mostram como problemas clássicos de superfície, atenção e autoridade reaparecem em sistemas digitais.
 
 [[01 conceitos/Peles Temporarias da Arquitetura|Peles temporárias da arquitetura]], [[01 conceitos/Economia da Atencao|economia da atenção]] e [[01 conceitos/Redução de Inferências|redução de inferências]] ajudam a atravessar esses casos sem reduzir o campo a estilo.
 
