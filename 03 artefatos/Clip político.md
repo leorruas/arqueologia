@@ -84,7 +84,7 @@ O clip revela, assim, uma questão que ultrapassa política: **o que acontece qu
 | **Variáveis relacionadas** | [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Permanencia|Permanência]]; reversibilidade representacional permanece como pista e ainda não é variável do vault |
 | **Genealogia** | [[04 genealogias/Compressao do Esforco|Compressão do esforço]], por parentesco funcional e cognitivo; [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]], pela relação com distribuição e saliência |
 | **Percurso(s)** | [[05 percursos/Da Parede ao Feed|Da parede ao feed]] |
-| **Parentes** | [[03 artefatos/Apelido político|Apelido político]], [[03 artefatos/Meme|Meme]], Entrevista longa como contraste funcional |
+| **Parentes** | [[03 artefatos/Apelido político|Apelido político]], [[03 artefatos/Meme|Meme]], [[03 artefatos/Entrevista longa|Entrevista longa]] como contraste funcional |
 | **Leituras-chave** | Hallin (1992); Rinke (2016); Hameleers, van der Meer e Vliegenthart (2025) |
 | **Princípio de design revelado** | Toda seleção temporal troca continuidade por portabilidade; quanto menor a unidade, maior a importância do enquadramento que decide o que sobrevive |
 | **Questão em aberto** | Que sinais de proveniência e contexto conseguem tornar um clip rapidamente consumível sem fazer o fragmento parecer equivalente ao acontecimento completo? |
