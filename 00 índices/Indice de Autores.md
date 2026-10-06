@@ -55,6 +55,12 @@ Catálogo de designers, pesquisadores, teóricos e pioneiros da história do des
 - [[autores/Richard Dawkins|Richard Dawkins]]: origem do termo *meme* como hipótese de transmissão cultural; não inventor do meme de internet.
 - [[autores/Limor Shifman|Limor Shifman]]: formulação comunicacional do meme digital como família de itens relacionados por conteúdo, forma e posicionamento.
 
+### Fotografia e cultura visual
+- [[autores/Susan Sontag|Susan Sontag]]: crítica cultural da fotografia, experiência, realidade, autoridade e saturação de imagens.
+- [[autores/Roland Barthes|Roland Barthes]]: temporalidade, recepção, *studium*, *punctum* e relação da fotografia com presença e perda.
+- [[autores/Philippe Dubois|Philippe Dubois]]: ato fotográfico e fotografia como processo de produção, gesto e recepção.
+- [[autores/Vilem Flusser|Vilém Flusser]]: aparelho, programa e imagens técnicas na filosofia da fotografia.
+
 ### Filosofia, sociologia e relações de poder
 - [[autores/Francis Bacon|Francis Bacon]]: método científico indutivo.
 - [[autores/Henri Bergson|Henri Bergson]]: duração, percepção, reconhecimento atento e memória; referência para investigar o que artefatos discretizam, estabilizam ou deixam escapar da experiência.
