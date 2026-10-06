@@ -33,7 +33,19 @@ Arqueologicamente, a transformação pode ser lida em três movimentos. Primeiro
 
 Esse terceiro movimento altera o significado do gesto de seguir. Na timeline cronológica, seguir define quase todo o universo de candidatos. No For You, seguir continua sendo um sinal forte, mas deixa de delimitar sozinho aquilo que pode aparecer. A timeline passa a combinar relação social escolhida com descoberta algorítmica.
 
-Ainda vamos decompor os sinais e pesos atuais em chunks separados. Por enquanto, a hipótese de design central está suficientemente clara: **um fluxo em tempo real pode se tornar mais útil quando o sistema seleciona e ordena aquilo que merece representar o presente de cada pessoa**. A tensão aberta é igualmente clara: quanto mais o sistema seleciona o presente, mais a experiência do “que está acontecendo agora” depende de uma política invisível de relevância.
+## O ranking prevê ações diferentes
+
+A documentação atual do X fala em uma rede neural continuamente treinada sobre interações como Likes, Reposts e Replies e lista sinais como contas e Topics seguidos, posts curtidos, posts curtidos pela rede e contas seguidas pela rede.[^5] Isso já mostra duas famílias distintas: sinais sobre a relação entre usuário e conteúdo e sinais sobre o estado social do conteúdo dentro da rede.
+
+O código aberto de 2023 oferece um retrato histórico mais detalhado. O heavy ranker daquela versão não tentava prever uma única quantidade chamada “engajamento”. Ele produzia probabilidades separadas para comportamentos diferentes: favoritar, repostar, responder, abrir o perfil e depois interagir, assistir pelo menos metade de um vídeo, responder e receber interação do autor, abrir a conversa e interagir, permanecer pelo menos dois minutos numa conversa, produzir feedback negativo e denunciar.[^6]
+
+Essas previsões eram depois combinadas num score. O snapshot de 5 de abril de 2023 publicava coeficientes diferentes para cada saída, incluindo valores positivos para vários tipos de interação e valores negativos fortes para feedback adverso e denúncia.[^6] Esses números são uma fotografia histórica da configuração aberta naquele momento. Não devem ser tratados como pesos atuais em 2026 nem como proporções psicológicas simples: eventos com frequências e calibrações diferentes podem exigir coeficientes diferentes, e o próprio X afirma hoje que nenhum sinal recebe de forma estática um peso universalmente maior que os demais.[^7]
+
+A operação de design, porém, permanece visível. O sistema precisa transformar ações heterogêneas em uma decisão única de posição. Curtir, responder, permanecer numa conversa, visitar um perfil ou bloquear alguém não significam a mesma coisa na experiência humana. Para entrar no ranking, tornam-se previsões comparáveis dentro de uma função de decisão. O [[01 conceitos/Engajamento em plataformas digitais|engajamento em plataformas digitais]] funciona aqui como guarda-chuva; [[02 variaveis/Tempo de permanência|tempo de permanência]], [[02 variaveis/Propagação|propagação]], [[02 variaveis/Afinidade inferida|afinidade inferida]], [[02 variaveis/Recência|recência]] e [[01 conceitos/Feedback negativo em recomendação|feedback negativo em recomendação]] permitem decompor mecanismos específicos.
+
+Também existe uma camada posterior ao score aprendido. O Home Mixer aberto documenta heurísticas de diversidade de autores, equilíbrio entre conteúdo dentro e fora da rede, fadiga de feedback, deduplicação e filtros de visibilidade.[^4] Isso significa que “ranking” não termina quando a rede neural calcula relevância. Há decisões de composição que impedem que o maior score isolado seja a única regra do feed.
+
+Por enquanto, a hipótese de design central está suficientemente clara: **um fluxo em tempo real pode se tornar mais útil quando o sistema seleciona e ordena aquilo que merece representar o presente de cada pessoa**. A tensão aberta é igualmente clara: quanto mais o sistema seleciona o presente, mais a experiência do “que está acontecendo agora” depende de uma política invisível de relevância.
 
 ## Ficha arqueológica
 
@@ -65,7 +77,7 @@ Ainda vamos decompor os sinais e pesos atuais em chunks separados. Por enquanto,
 | **Descendentes possíveis** | Ainda não explicitado. |
 | **Novo problema produzido pelo sucesso** | Distinguir aquilo que está acontecendo amplamente daquilo que o sistema tornou especialmente visível para uma pessoa |
 | **Conceitos relacionados** | [[01 conceitos/Engajamento em plataformas digitais|Engajamento em plataformas digitais]], [[01 conceitos/Tendência em plataformas|Tendência em plataformas]], [[01 conceitos/Feedback negativo em recomendação|Feedback negativo em recomendação]], [[01 conceitos/Economia da Atencao|Economia da atenção]] |
-| **Variáveis relacionadas** | [[02 variaveis/Recência|Recência]], [[02 variaveis/Popularidade|Popularidade]], [[02 variaveis/Afinidade inferida|Afinidade inferida]], [[02 variaveis/Propagação|Propagação]], [[02 variaveis/Momentum de atenção|Momentum de atenção]] |
+| **Variáveis relacionadas** | [[02 variaveis/Recência|Recência]], [[02 variaveis/Popularidade|Popularidade]], [[02 variaveis/Afinidade inferida|Afinidade inferida]], [[02 variaveis/Propagação|Propagação]], [[02 variaveis/Momentum de atenção|Momentum de atenção]], [[02 variaveis/Tempo de permanência|Tempo de permanência]] |
 | **Genealogia** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] |
 | **Percurso(s)** | [[05 percursos/Da Parede ao Feed|Da parede ao feed]] |
 | **Parentes** | [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], [[03 artefatos/Feed de Videos Curtos|Feed de vídeos curtos]], [[03 artefatos/Botao Like|Botão Like]] |
@@ -82,3 +94,10 @@ Ainda vamos decompor os sinais e pesos atuais em chunks separados. Por enquanto,
 [^3]: X Help Center. “For You Home Timeline Recommendations”. Consultado em 6 out. 2026. https://help.x.com/en/resources/recommender-systems/for-you-home-timeline-recommendations
 
 [^4]: X / Twitter. “X's Recommendation Algorithm” e “Home Mixer”. Repositório público. https://github.com/twitter/the-algorithm ; https://github.com/twitter/the-algorithm/blob/main/home-mixer/README.md
+
+
+[^5]: X Help Center. “For You Home Timeline Recommendations” e “Our approach to recommendations”. Consultados em 6 out. 2026. A documentação atual descreve treinamento contínuo sobre Likes, Reposts e Replies e sinais de rede, interesses e interações. https://help.x.com/en/resources/recommender-systems/for-you-home-timeline-recommendations ; https://help.x.com/en/rules-and-policies/recommendations
+
+[^6]: Twitter. “The Algorithm ML — Heavy Ranker”, atualização de 5 abr. 2023. O snapshot aberto descreve saídas previstas para favorite, retweet, reply, good profile click, video playback 50%, reply engaged by author, good click, permanência prolongada em conversa, negative feedback e report, além dos coeficientes então usados para combinar essas probabilidades. https://github.com/twitter/the-algorithm-ml
+
+[^7]: X Help Center. “Our approach to recommendations”. A documentação atual afirma que recomendações usam múltiplos sinais e que nenhum sinal recebe estaticamente maior peso de importância que outro. https://help.x.com/en/rules-and-policies/recommendations
