@@ -49,6 +49,16 @@ A hipótese experimental de uma VAA orientada pela questão do eleitor desloca p
 
 Esse caso ajuda a refinar [[02 variaveis/Agencia Inferencial|Agência inferencial]] dentro das gramáticas produtivas. Há pelo menos três níveis diferentes: preencher variáveis de uma gramática pronta, ponderar elementos dessa gramática e participar da definição das próprias categorias que produzirão o resultado.
 
+## Quando a própria tendência vira gramática
+
+O TikTok oferece um caso em que a gramática produtiva pode nascer e se transformar dentro do próprio fluxo de circulação. Sons reutilizáveis, Duets, challenges, coreografias, POVs e outros formatos estabilizam partes de uma performance e deixam outras abertas para variação. A plataforma não precisa fornecer um template formal único: repetição, ferramentas de reutilização e recomendação podem fazer uma estrutura emergente tornar-se reconhecível o suficiente para orientar novas produções.
+
+O [[03 artefatos/Feed Para Voce do TikTok|Feed Para Você do TikTok]] conecta essa produção à descoberta. Uma variação pode chegar a pessoas que não seguem o criador; o padrão reconhecido facilita compreender como participar; cada nova ocorrência pode fortalecer [[01 conceitos/Tendência em plataformas|tendência]] e [[02 variaveis/Momentum de atenção|momentum de atenção]].
+
+Zulli e Zulli descrevem essa lógica como mimesis tecnologicamente incentivada e “imitation publics”: a própria arquitetura da plataforma favorece replicação e imitação. Matamoros-Fernández mostra como “Use this Sound”, Duet e challenges tornam sons e performances reutilizáveis em novas combinações. A relação com esta genealogia é analítica: TikTok não inventa gramáticas produtivas, mas mostra uma situação em que **a infraestrutura de distribuição e a infraestrutura de produção compartilham os mesmos sinais e formatos**.
+
+Essa combinação também revela um trade-off. Uma gramática em alta reduz o custo de participar, mas aumenta a competição dentro de uma família já saturada. Pesquisa de 2026 sobre mais de 85 mil vídeos de dança encontrou uma associação não linear entre proximidade com a trend e engajamento, sugerindo vantagem para variações moderadamente atípicas em relação tanto à cópia estreita quanto ao afastamento excessivo.
+
 ## A gramática pode organizar uma investigação sobre a própria vida
 
 Há um passo além dos frameworks que organizam decisões de projeto. Uma gramática também pode estruturar uma investigação autobiográfica sem determinar previamente qual conclusão a pessoa deverá alcançar. Em política, por exemplo, uma pergunta como “que decisão pública mudou concretamente sua vida?” pode iniciar um percurso diferente de “qual partido foi melhor para você?”. A primeira começa pela experiência; a segunda já oferece uma categoria de interpretação.
