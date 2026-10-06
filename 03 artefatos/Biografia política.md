@@ -79,7 +79,7 @@ Por exemplo:
 
 “Essa experiência me mostrou que X importa para mim. Que evidências permitiriam comparar candidatos atuais em relação a X?”
 
-Assim, a Biografia política pode alimentar o [[03 artefatos/Mapa pessoal de valores políticos|Mapa pessoal de valores políticos]] e uma [[03 artefatos/Voting Advice Application|Voting Advice Application]] orientada pela questão do eleitor.
+Assim, a Biografia política pode alimentar o Mapa pessoal de valores políticos e uma [[03 artefatos/Voting Advice Application|Voting Advice Application]] orientada pela questão do eleitor.
 
 O resultado esperado não é um candidato. É um conjunto de critérios cuja origem autobiográfica e mediação política ficaram mais legíveis.
 
@@ -102,7 +102,6 @@ Sua pergunta final é:
 **que decisões coletivas atravessaram minha vida, o que aprendi com elas e quanto dessa história deveria participar do voto que vou dar agora?**
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Biografia política |
@@ -118,23 +117,16 @@ Sua pergunta final é:
 | **Popularização** | Não aplicável; artefato ainda não testado ou difundido |
 | **Padronização** | Não aplicável |
 | **Hipótese de design** | Começar por acontecimentos concretos pode tornar mais examinável a passagem entre experiência, mediação pública, valor e decisão eleitoral |
-| **Promessa** | Interpretação do projeto: transformar lembranças políticas dispersas em critérios de voto cuja origem pode ser reconstruída e verificada |
 | **Comportamento aproveitado** | Memória autobiográfica, busca por coerência e capacidade de atribuir significado a acontecimentos passados |
 | **Comportamento produzido** | Reconstruir mediações institucionais, verificar atribuições e converter experiências em perguntas eleitorais explícitas |
 | **Relação de poder** | Transfere parte da definição dos critérios de decisão de campanhas e questionários prontos para a experiência do eleitor, sem eliminar a necessidade de fontes externas |
-| **Consequências inesperadas** | Pode supervalorizar experiências pessoalmente disponíveis, produzir racionalização retrospectiva ou confundir impacto vivido com causalidade política |
+| **Consequências inesperadas** | Pode supervalorizar experiências pessoalmente disponíveis, produzir racionalização retrospectiva ou confundir impacto vivido com causalidade política Registros adicionais preservados da ficha anterior: promessa: Interpretação do projeto: transformar lembranças políticas dispersas em critérios de voto cuja origem pode ser reconstruída e verificada; futuro prometido: Eleitor capaz de compreender melhor de onde vieram alguns de seus critérios políticos; futuro produzido: Ainda não observável; artefato experimental; quando a promessa virou expectativa: Não aplicável; futuro tornado mais provavel: Ferramentas eleitorais que começam pela experiência e por questões do eleitor em vez de categorias fixadas integralmente por terceiros; descendentes possiveis: Mapa pessoal de valores políticos e variantes de [[03 artefatos/Voting Advice Application|Voting Advice Application]] orientadas pela questão do eleitor; novo problema produzido pelo sucesso: Experiência pessoal pode se tornar excessivamente dominante e apagar interesses coletivos ou problemas nunca vividos diretamente |
 | **Destino ou transformação posterior** | Candidata a worksheet, fluxo conversacional ou módulo de ferramenta eleitoral pessoal |
-| **Futuro prometido** | Eleitor capaz de compreender melhor de onde vieram alguns de seus critérios políticos |
-| **Futuro produzido** | Ainda não observável; artefato experimental |
-| **Quando a promessa virou expectativa** | Não aplicável |
-| **Futuro tornado mais provável** | Ferramentas eleitorais que começam pela experiência e por questões do eleitor em vez de categorias fixadas integralmente por terceiros |
-| **Descendentes possíveis** | [[03 artefatos/Mapa pessoal de valores políticos|Mapa pessoal de valores políticos]] e variantes de [[03 artefatos/Voting Advice Application|Voting Advice Application]] orientadas pela questão do eleitor |
-| **Novo problema produzido pelo sucesso** | Experiência pessoal pode se tornar excessivamente dominante e apagar interesses coletivos ou problemas nunca vividos diretamente |
 | **Conceitos relacionados** | [[01 conceitos/Design do Voto|Design do voto]], [[01 conceitos/Investigação|Investigação]] |
 | **Variáveis relacionadas** | [[02 variaveis/Legibilidade da Mediacao Politica|Legibilidade da mediação política]], [[02 variaveis/Agencia Inferencial|Agência inferencial]], [[02 variaveis/Reversibilidade representacional|Reversibilidade representacional]] |
 | **Genealogia** | [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]] |
 | **Percurso(s)** | Ainda não integrado a percurso específico |
-| **Parentes** | [[03 artefatos/Diário|Diário]], [[03 artefatos/Pergunta|Pergunta]], [[03 artefatos/Voting Advice Application|Voting Advice Application]], [[03 artefatos/Mapa pessoal de valores políticos|Mapa pessoal de valores políticos]] |
+| **Parentes** | [[03 artefatos/Diário|Diário]], [[03 artefatos/Pergunta|Pergunta]], [[03 artefatos/Voting Advice Application|Voting Advice Application]], Mapa pessoal de valores políticos |
 | **Leituras-chave** | McAdams & McLean sobre identidade narrativa; estudos históricos e institucionais específicos devem ser usados para verificar cada atribuição produzida |
 | **Princípio de design revelado** | A ordem das perguntas altera a origem aparente dos critérios: começar pela experiência pode produzir uma investigação diferente de começar pela identidade política |
 | **Questão em aberto** | Quanto uma reconstrução autobiográfica verificável altera os critérios que a pessoa reconhece como relevantes para votar? |

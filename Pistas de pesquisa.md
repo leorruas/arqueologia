@@ -131,3 +131,14 @@ Quando uma pista ganha nota própria, ela deixa de funcionar como promessa futur
 - **Distância social**: promovida a `02 variaveis/Distância social.md` como eixo `proximidade relacional aceita ↔ distância relacional desejada`, distinguindo disposição para convivência de afeto, ameaça percebida e comportamento efetivo.
 - **Normatividade percebida da hostilidade**: promovida a `02 variaveis/Normatividade percebida da hostilidade.md` como eixo `hostilidade percebida como excepcional ↔ hostilidade percebida como norma`, distinguindo normas descritivas, normas prescritivas e meta-percepções de animosidade de hostilidade pessoal.
 - **Gramáticas produtivas**: promovida a `04 genealogias/Gramaticas Produtivas.md` para comparar estruturas que estabilizam regras, lacunas ou relações e tornam possível produzir múltiplos resultados futuros sem presumir descendência histórica entre os casos.
+
+<!-- PISTAS-AUTOMATICAS:INICIO -->
+## Pistas detectadas automaticamente
+
+Esta seção é regenerada pelo workflow a partir de wikilinks sem destino. As seções manuais acima nunca devem ser substituídas por esta rotina.
+
+### Artefatos
+
+- **Mapa pessoal de valores políticos**: citado em `03 artefatos/Biografia política.md`
+
+<!-- PISTAS-AUTOMATICAS:FIM -->
