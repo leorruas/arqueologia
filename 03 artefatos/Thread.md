@@ -75,7 +75,7 @@ O efeito inesperado é que textos que poderiam existir como artigo passam a ser 
 | **Conceitos relacionados** | [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Engajamento em plataformas digitais|Engajamento em plataformas digitais]] |
 | **Variáveis relacionadas** | [[02 variaveis/Tempo de permanência|Tempo de permanência]], [[02 variaveis/Propagação|Propagação]], [[02 variaveis/Custo de Busca|Custo de busca]] |
 | **Genealogia** | [[04 genealogias/Compressao do Esforco|Compressão do esforço]] |
-| **Percurso(s)** | [[05 percursos/Do artefato ao sinal no X Twitter|Do artefato ao sinal no X/Twitter]], [[05 percursos/Do artefato ao sinal em feeds algoritmicos|Do artefato ao sinal em feeds algorítmicos]] |
+| **Percurso(s)** | [[05 percursos/Do artefato ao sinal em feeds algoritmicos|Do artefato ao sinal em feeds algorítmicos]] |
 | **Parentes** | [[03 artefatos/Carrossel|Carrossel]], [[03 artefatos/Pergunta|Pergunta]], artigo, serialização |
 | **Leituras-chave** | Anúncio oficial “Nice Threads” e documentação atual do X |
 | **Princípio de design revelado** | Um limite pode gerar uma gramática emergente; quando a plataforma captura essa gramática, improviso vira infraestrutura |
