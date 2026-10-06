@@ -82,7 +82,7 @@ O problema arqueológico que permanece é justamente a divisão do trabalho entr
 | **Destino ou transformação posterior** | Continua ativo e diversificado em image macros, reaction images, GIFs, screenshots, áudio e vídeo curto |
 | **Conceitos relacionados** | [[01 conceitos/Design do Voto|Design do voto]], [[01 conceitos/Design da aversão|Design da aversão]], [[01 conceitos/Polarização afetiva|polarização afetiva]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Design Systems|Design Systems]] como parentesco comparativo |
 | **Variáveis relacionadas** | [[02 variaveis/Variabilidade|Variabilidade]], [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]] |
-| **Genealogia** | [[04 genealogias/Compressao do Esforco|Compressão do esforço]], por parentesco funcional e cognitivo |
+| **Genealogia** | [[04 genealogias/Compressao do Esforco|Compressão do esforço]], por parentesco funcional e cognitivo; [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]], por parentesco funcional, semiótico e comparativo |
 | **Percurso(s)** | Ainda não integrado a um percurso específico |
 | **Parentes** | [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Grid|Grid]], [[03 artefatos/Prompt Conversacional|Prompt conversacional]] |
 | **Leituras-chave** | *Memes in Digital Culture*, de [[autores/Limor Shifman|Limor Shifman]] |
