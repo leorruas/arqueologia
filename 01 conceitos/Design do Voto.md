@@ -16,7 +16,7 @@ tags:
 
 O objeto não é a mecânica formal da eleição — cédula, urna ou sistema eleitoral — nem uma técnica para produzir propaganda para determinado candidato. A pergunta é anterior: **quanto de uma escolha política acontece antes de percebermos que estamos escolhendo?**
 
-Um [[03 artefatos/Meme|meme]], um post, um carrossel, uma fotografia, um pôster ou um vídeo curto podem não converter diretamente uma preferência política. Ainda assim, podem participar da construção daquilo que parece familiar, relevante, competente, ameaçador, urgente ou digno de investigação.
+Um [[03 artefatos/Meme|meme]], um post, um carrossel, uma [[03 artefatos/Fotografia|fotografia]], um pôster ou um vídeo curto podem não converter diretamente uma preferência política. Ainda assim, podem participar da construção daquilo que parece familiar, relevante, competente, ameaçador, urgente ou digno de investigação.
 
 A hipótese central é que o design político pode ser especialmente poderoso **antes da opinião**: não necessariamente dizendo ao eleitor o que concluir, mas alterando o ambiente perceptivo dentro do qual conclusões serão produzidas.
 
@@ -41,7 +41,7 @@ Assim, **persuasão e presença não são a mesma coisa**.
 
 Experimentos de Alexander Todorov e colegas mostraram que pessoas formam julgamentos extremamente rápidos de competência a partir de rostos de candidatos e que esses julgamentos se relacionaram com resultados eleitorais.[^4] Trabalhos posteriores mostraram que julgamentos feitos em exposições muito breves também se relacionavam com resultados eleitorais.[^5] Em experimentos randomizados, eleitores receberam cédulas com ou sem fotografias dos candidatos; mostrar as fotos aumentou o voto em candidatos favorecidos pela aparência em determinadas condições, reforçando a hipótese de que a imagem pode funcionar como heurística quando outras informações são escassas.[^6]
 
-A fotografia não acrescenta uma proposta política. Ela acrescenta uma pista a partir da qual o observador pode inferir características.
+A [[03 artefatos/Fotografia|fotografia]] não acrescenta uma proposta política. Ela acrescenta uma pista a partir da qual o observador pode inferir características.
 
 Isso transforma uma decisão aparentemente gráfica — usar ou não um rosto, qual fotografia usar, quanto espaço ela ocupa — em uma possível infraestrutura de julgamento.
 
@@ -151,7 +151,7 @@ A genealogia [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]] acr
 
 Isso introduz a hipótese de **gramática verificável**. Se a pessoa atribui um efeito a determinado governo, partido ou política, o artefato deveria pedir também como essa atribuição pode ser checada, quem criou, ampliou ou implementou a medida e que evidência poderia corrigir a narrativa. Sem essa etapa, uma gramática de reflexão pode produzir apenas uma história mais elaborada para a preferência que já existia.
 
-Uma imagem política pode participar desse percurso antes da pergunta verbal. A hipótese deriva da leitura temporal da fotografia desenvolvida em *O refluir do tempo nas imagens de Claudia Andujar*: uma imagem presente pode mobilizar lembranças anteriores e fazer com que memória e percepção participem juntas da interpretação atual.[^17] Nesse enquadramento, a fotografia funciona como **solicitação dirigida à memória**. Ela não determina necessariamente o conteúdo recordado; seleciona relações capazes de tornar certas regiões do passado mais disponíveis ao observador.
+Uma imagem política pode participar desse percurso antes da pergunta verbal. A hipótese deriva da leitura temporal da [[03 artefatos/Fotografia|fotografia]] desenvolvida em *O refluir do tempo nas imagens de Claudia Andujar*: uma imagem presente pode mobilizar lembranças anteriores e fazer com que memória e percepção participem juntas da interpretação atual.[^17] Nesse enquadramento, a fotografia funciona como **solicitação dirigida à memória**. Ela não determina necessariamente o conteúdo recordado; seleciona relações capazes de tornar certas regiões do passado mais disponíveis ao observador.
 
 Isso sugere um mecanismo ainda em investigação para o Design do voto: **convocação temporal**. Uma peça pode afetar julgamento político ao reativar experiências, valores e associações autobiográficas que já existiam, sem precisar formular uma proposição completa. O interesse está em separar esse processo de mera familiaridade ou repetição. Familiaridade torna algo conhecido; convocação temporal, como hipótese, descreve quando uma imagem presente reorganiza quais lembranças participam do julgamento presente.
 
@@ -179,7 +179,7 @@ Isso sugere um mecanismo ainda em investigação para o Design do voto: **convoc
 | **Origem** | Hipótese do projeto |
 | **Grau de consolidação** | Experimental |
 | **Problema investigado** | Como decisões de design alteram as condições em que julgamentos políticos são formados |
-| **Unidade de análise** | [[03 artefatos/Meme|Meme]], post, carrossel, fotografia, pôster, vídeo curto e outros artefatos comunicacionais |
+| **Unidade de análise** | [[03 artefatos/Meme|Meme]], post, carrossel, [[03 artefatos/Fotografia|fotografia]], pôster, vídeo curto e outros artefatos comunicacionais |
 | **Hipótese central** | Design pode afetar o voto sem necessariamente converter diretamente uma opinião, alterando familiaridade, saliência, heurísticas, enquadramento, emoção e percurso inferencial |
 | **Comportamento aproveitado** | Inferência rápida, reconhecimento, atenção seletiva, associação, emoção, curiosidade e busca por coerência |
 | **Comportamento potencialmente produzido** | Investigar, compartilhar, reconhecer, associar, reconsiderar ou reforçar uma preferência |
@@ -187,7 +187,7 @@ Isso sugere um mecanismo ainda em investigação para o Design do voto: **convoc
 | **Risco** | Manipulação, insinuação, falsa neutralidade, pressupostos escondidos e confusão entre familiaridade, autoridade e verdade |
 | **Conceitos relacionados** | [[01 conceitos/Design da aversão|Design da aversão]], [[01 conceitos/Partidarismo negativo|Partidarismo negativo]], [[01 conceitos/Identidade política negativa|identidade política negativa]], [[01 conceitos/Polarização afetiva|polarização afetiva]], [[01 conceitos/Voto negativo|voto negativo]], atenção, heurísticas, framing, mere exposure, elaboração, cognição política, propaganda e retórica visual |
 | **Variáveis relacionadas** | [[02 variaveis/Legibilidade da Mediacao Politica|Legibilidade da mediação política]] |
-| **Artefatos relacionados** | [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Mascote|Mascote]], [[03 artefatos/Meme|Meme]], [[03 artefatos/Apelido político|Apelido político]], [[03 artefatos/Clip político|Clip político]], [[03 artefatos/Entrevista longa|Entrevista longa]], [[03 artefatos/Tango|Tango]], fotografia política, post, carrossel, vídeo curto |
+| **Artefatos relacionados** | [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Mascote|Mascote]], [[03 artefatos/Meme|Meme]], [[03 artefatos/Apelido político|Apelido político]], [[03 artefatos/Clip político|Clip político]], [[03 artefatos/Entrevista longa|Entrevista longa]], [[03 artefatos/Tango|Tango]], [[03 artefatos/Fotografia|fotografia política]], post, carrossel, vídeo curto |
 | **Percursos relacionados** | [[05 percursos/Da Parede ao Feed|Da parede ao feed]], [[05 percursos/Da Parede ao Interlocutor|Da parede ao interlocutor]] |
 | **Questão em aberto** | Quanto de uma escolha política acontece antes de percebermos que estamos escolhendo? |
 
