@@ -18,7 +18,7 @@ A variável é observável em medidas como dwell time, watch time e duração de
 
 ## Permanecer não prova gostar
 
-Tempo maior pode estar associado a interesse, dificuldade, distração, obrigação ou simples reprodução automática. Ele também não mede diretamente [[02 variaveis/Atencao|atenção]]: um conteúdo pode continuar aberto enquanto o foco está em outro lugar.
+Tempo maior pode estar associado a interesse, dificuldade, distração, obrigação ou simples reprodução automática. Ele também não mede diretamente [[02 variaveis/Atencao|atenção]], [[01 conceitos/Acesso consciente|acesso consciente]] ou [[02 variaveis/Atenção sustentada|atenção sustentada]]: um conteúdo pode continuar aberto enquanto o foco está em outro lugar, pode ter sido percebido apenas parcialmente ou pode alternar entre momentos de foco e dispersão.
 
 No [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], [[03 artefatos/Feed algoritmico do X Twitter|Feed algorítmico do X/Twitter]], a documentação da Meta descreve previsões sobre permanência e visualização entre os sinais usados na ordenação.[^2] O interesse arqueológico está na tradução: duração comportamental vira evidência probabilística de relevância futura.
 
@@ -48,10 +48,10 @@ Em interfaces de continuidade, o [[03 artefatos/Infinite Scroll|Infinite Scroll]
 | **Eixo** | Curto ↔ longo tempo de permanência |
 | **Definição operacional** | Duração observável da permanência de uma pessoa diante de um item, superfície ou sequência |
 | **Como observar** | Dwell time, watch time, proporção assistida, conclusão e duração de sessão |
-| **O que não mede sozinho** | Interesse, satisfação, atenção consciente ou qualidade do conteúdo |
+| **O que não mede sozinho** | Interesse, satisfação, [[01 conceitos/Acesso consciente|acesso consciente]], [[02 variaveis/Atenção sustentada|atenção sustentada]], compreensão ou qualidade do conteúdo |
 | **Trade-offs principais** | Métrica contínua e abundante, mas sensível à duração do conteúdo, autoplay, contexto e exposição |
 | **Artefatos-chave** | [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], [[03 artefatos/Feed algoritmico do X Twitter|Feed algorítmico do X/Twitter]], [[03 artefatos/Feed Para Voce do TikTok|Feed Para Você do TikTok]] |
-| **Conceitos relacionados** | [[01 conceitos/Engajamento em plataformas digitais|Engajamento em plataformas digitais]], [[01 conceitos/Economia da Atencao|Economia da atenção]], [[01 conceitos/Viés de duração|Viés de duração]] |
+| **Conceitos relacionados** | [[01 conceitos/Engajamento em plataformas digitais|Engajamento em plataformas digitais]], [[01 conceitos/Acesso consciente|Acesso consciente]], [[01 conceitos/Economia da Atencao|Economia da atenção]], [[01 conceitos/Viés de duração|Viés de duração]] |
 | **Genealogias relacionadas** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] |
 
 ## Referências
