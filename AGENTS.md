@@ -32,6 +32,15 @@ status: "ativo"
 > Evite a antítese automática típica de texto gerado por LLM: `não é X, é Y`, `não se trata de X, mas de Y`, `menos X e mais Y`, `não apenas X, mas Y` e variações usadas apenas para produzir efeito retórico. Prefira formular a tese afirmativamente e desenvolver a diferença em prosa. Contrastes continuam válidos quando distinguem conceitos realmente diferentes, corrigem uma equivalência enganosa ou são necessários ao argumento; nesses casos, a oposição deve ser específica e justificada, não um molde de frase repetido.
 
 
+## Transações editoriais
+
+> [!IMPORTANT]
+> O branch `main` representa um estado editorialmente coerente e publicável. Uma criação ou revisão material que exija propagação não deve ser dividida em commits intermediários diretamente em `main` quando esses commits deixarem schema, links, reciprocidades, índices, percursos, genealogias ou log em estado incompleto.
+>
+> Quando a operação exigir várias gravações ou vários commits, o agente deve trabalhar em uma branch temporária e abrir pull request para `main`. O workflow de validação roda no pull request; a integração só deve ocorrer depois que o conjunto completo passar pelo gate de publicação.
+>
+> Se a ferramenta disponível conseguir produzir um único commit coerente com todas as alterações relacionadas, o commit direto em `main` continua permitido. `main` não deve ser usado como área de staging de uma operação ainda em propagação.
+
 ## Contrato da automação
 
 As decisões de schema, propostas revisáveis, pistas acumulativas e publicação estão em [[me#Automação e publicação|Automação e publicação]]. A ficha atual possui 33 campos. Scripts de conteúdo produzem propostas por padrão; a aplicação explícita exige revisar o diff e preservar valores e narrativa. A publicação bloqueia schema incompatível, possível perda de dados e links públicos ambíguos ou sem destino; capitalização e reciprocidade geram avisos.

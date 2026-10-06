@@ -60,6 +60,7 @@ leitura: "mandatória: ler antes de qualquer operação no vault"
 33. **Movimentos argumentativos amplos**: parágrafos são unidades de desenvolvimento, não frases isoladas com quebra visual. Cada seção deve sustentar um movimento inteiro do argumento e, em textos narrativos, normalmente reunir vários parágrafos desenvolvidos. Evitar microseções, headings para cada ideia e sequências recorrentes de parágrafos de uma ou duas frases. Quebras curtas podem existir quando tiverem função deliberada de ritmo, transição ou ênfase.
 34. **Sem antítese automática**: evitar como vício retórico as fórmulas `não é X, é Y`, `não se trata de X, mas de Y`, `menos X e mais Y`, `não apenas X, mas Y` e equivalentes. Formular primeiro a tese afirmativa e explicar a diferença em prosa. O contraste permanece permitido quando houver uma distinção conceitual material, uma equivalência enganosa a corrigir ou uma oposição historicamente relevante; nesse caso, deve ser específico e argumentado.
 35. **Nome editorial do projeto**: em textos editoriais, narrativos e públicos, referir-se ao acervo como `Arqueologia do Design`. Evitar a formulação `neste vault`; quando a construção pedir locução, preferir `No Arqueologia do Design`. O termo `vault` pode permanecer apenas em documentação técnica ou operacional quando designar literalmente a estrutura de arquivos.
+36. **Transação editorial**: `main` deve representar apenas estados coerentes e publicáveis. Se uma operação material exigir propagação por vários arquivos e a ferramenta não puder gravar o conjunto em um único commit coerente, realizar os commits numa branch temporária, abrir pull request, executar o workflow de validação no conjunto e só então integrar em `main`. Não usar `main` como staging de propagação incompleta.
 
 ## Regras editoriais
 
@@ -146,6 +147,14 @@ Usar `status` quando fizer sentido:
 
 
 ## Automação e publicação
+
+### Transações editoriais e publicação
+
+`main` é a representação do estado publicável do Arqueologia do Design, não uma área de trabalho intermediária. Uma operação material pode envolver criação de artigo, backlinks, índices, genealogias, percursos e log; esses elementos formam uma única transação editorial quando dependem uns dos outros para manter o acervo coerente.
+
+Se todas as alterações relacionadas puderem ser gravadas num único commit coerente, o commit pode ser feito diretamente em `main`. Quando a ferramenta exigir múltiplos commits, o trabalho deve ocorrer numa branch temporária. O pull request funciona como unidade de validação: o workflow `Validar e publicar o acervo` já é acionado em `pull_request`, executa contratos, auditorias e o gate de publicação, e o merge só deve acontecer após sucesso.
+
+Falhas em commits intermediários de uma branch são diagnósticos de trabalho em andamento. Falhas em `main` indicam que um estado incompleto ou inválido foi integrado e devem ser tratadas como incidente de governança. A regra não reduz os critérios do gate; ela muda onde estados incompletos podem existir.
 
 Decisões aprovadas em 6 de outubro de 2026:
 
