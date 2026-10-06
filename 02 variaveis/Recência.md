@@ -35,7 +35,7 @@ Recência também deve ser separada de [[02 variaveis/Momentum de atenção|mome
 | **O que não mede sozinho** | Popularidade, relevância pessoal, novidade percebida ou ritmo de crescimento |
 | **Trade-offs principais** | Favorecer recência melhora atualização, mas pode reduzir permanência de conteúdo ainda relevante |
 | **Artefatos-chave** | [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]] |
-| **Conceitos relacionados** | [[01 conceitos/Engajamento em plataformas digitais|Engajamento em plataformas digitais]] |
+| **Conceitos relacionados** | [[01 conceitos/Engajamento em plataformas digitais|Engajamento em plataformas digitais]], [[01 conceitos/Tendência em plataformas|Tendência em plataformas]] |
 | **Genealogias relacionadas** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] |
 
 ## Referências

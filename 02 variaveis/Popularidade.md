@@ -35,7 +35,7 @@ Popularidade também precisa ser distinguida de prova social. A primeira é um e
 | **O que não mede sozinho** | Qualidade, satisfação, crescimento recente, relevância individual ou prova social percebida |
 | **Trade-offs principais** | Facilita identificar conteúdo socialmente validado, mas pode reforçar vantagens iniciais e concentração de visibilidade |
 | **Artefatos-chave** | [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]] |
-| **Conceitos relacionados** | [[01 conceitos/Engajamento em plataformas digitais|Engajamento em plataformas digitais]], [[01 conceitos/Economia da Atencao|Economia da atenção]] |
+| **Conceitos relacionados** | [[01 conceitos/Engajamento em plataformas digitais|Engajamento em plataformas digitais]], [[01 conceitos/Tendência em plataformas|Tendência em plataformas]], [[01 conceitos/Economia da Atencao|Economia da atenção]] |
 | **Genealogias relacionadas** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] |
 
 ## Referências

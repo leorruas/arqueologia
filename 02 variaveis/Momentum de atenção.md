@@ -41,7 +41,7 @@ A variável não prova interesse coletivo espontâneo. Um pico pode resultar de 
 | **O que não mede sozinho** | Popularidade acumulada, relevância individual, qualidade, espontaneidade ou causa do crescimento |
 | **Trade-offs principais** | Detecta conteúdos emergentes, mas pode amplificar picos produzidos pelo próprio sistema ou por coordenação externa |
 | **Artefatos-chave** | [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]] |
-| **Conceitos relacionados** | [[01 conceitos/Engajamento em plataformas digitais|Engajamento em plataformas digitais]], [[01 conceitos/Economia da Atencao|Economia da atenção]] |
+| **Conceitos relacionados** | [[01 conceitos/Engajamento em plataformas digitais|Engajamento em plataformas digitais]], [[01 conceitos/Tendência em plataformas|Tendência em plataformas]], [[01 conceitos/Economia da Atencao|Economia da atenção]] |
 | **Genealogias relacionadas** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] |
 
 ## Referências

@@ -53,7 +53,9 @@ Há ainda propriedades do conteúdo que podem influenciar esses sinais sem apare
 
 Emoções específicas também não produzem uma ordem estável de performance. Estudos encontram raiva associada a maior circulação ou atenção em alguns contextos, mas há conjuntos em que alegria prevê mais compartilhamento e raiva menos.[^16] Outros trabalhos mostram que negatividade pode aumentar atenção visual sem necessariamente aumentar propagação.[^17] Para este estudo, “qual emoção engaja mais?” precisa sempre ser reescrita como “qual emoção se associa a qual comportamento, em qual contexto?”. Essa regra evita converter evidência contextual em receita universal.
 
-Isso também separa popularidade de tendência. Popularidade registra quanto já aconteceu. Momentum registra quão rapidamente está acontecendo agora. A literatura de recomendação trata dinâmica temporal, popularidade, recência e tendências como dimensões distintas porque o valor dos itens e as preferências dos usuários mudam com o tempo.[^12]
+Isso também separa popularidade de tendência. [[02 variaveis/Popularidade|Popularidade]] registra quanto já aconteceu. [[02 variaveis/Momentum de atenção|Momentum de atenção]] registra quão rapidamente está acontecendo agora. [[02 variaveis/Recência|Recência]] registra há quanto tempo o item surgiu. [[01 conceitos/Tendência em plataformas|Tendência em plataformas]] descreve o padrão composto em que atenção cresce, atinge picos, persiste ou decai. A literatura de recomendação trata dinâmica temporal, popularidade, recência e tendências como dimensões distintas porque o valor dos itens e as preferências dos usuários mudam com o tempo.[^12]
+
+A distinção também encontra apoio na própria documentação pública do Instagram: entre as informações sobre um post, a plataforma descreveu tanto quantas pessoas interagiram quanto quão rapidamente likes, comentários, compartilhamentos e salvamentos estavam chegando.[^18] Isso sustenta a separação entre estoque e velocidade, mas não autoriza dizer que exista internamente uma variável pública chamada “hot topic”.
 
 ## De acompanhar pessoas a descobrir conteúdos
 
@@ -110,7 +112,7 @@ Talvez a consequência mais profunda do ranking personalizado apareça quando pr
 | **Futuro tornado mais provável** | Curadoria algorítmica como camada padrão entre produção abundante de conteúdo e atenção limitada |
 | **Descendentes possíveis** | Recomendações no Feed, Explore e Reels como desdobramentos internos da mesma capacidade de seleção preditiva; parentescos externos exigem estudo comparativo |
 | **Novo problema produzido pelo sucesso** | Como corrigir uma representação aprendida dos interesses quando ela envelhece, estreita a descoberta ou entra em conflito com o que a pessoa quer ver agora |
-| **Conceitos relacionados** | [[01 conceitos/Economia da Atencao|Economia da atenção]], [[01 conceitos/Autonomia da Atencao|Autonomia da atenção]], [[01 conceitos/Engajamento em plataformas digitais|Engajamento em plataformas digitais]] |
+| **Conceitos relacionados** | [[01 conceitos/Economia da Atencao|Economia da atenção]], [[01 conceitos/Autonomia da Atencao|Autonomia da atenção]], [[01 conceitos/Engajamento em plataformas digitais|Engajamento em plataformas digitais]], [[01 conceitos/Tendência em plataformas|Tendência em plataformas]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Tempo de permanência|Tempo de permanência]], [[02 variaveis/Propagação|Propagação]], [[02 variaveis/Recência|Recência]], [[02 variaveis/Popularidade|Popularidade]], [[02 variaveis/Momentum de atenção|Momentum de atenção]], [[02 variaveis/Afinidade inferida|Afinidade inferida]], [[02 variaveis/Valência emocional|Valência emocional]], [[02 variaveis/Ativação emocional|Ativação emocional]] |
 | **Genealogia** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] |
 | **Percurso(s)** | [[05 percursos/Da Parede ao Feed|Da parede ao feed]] |
@@ -158,3 +160,6 @@ Talvez a consequência mais profunda do ranking personalizado apareça quando pr
 [^16]: Berger e Milkman (2012) encontraram maior viralidade para admiração, raiva e ansiedade e menor para tristeza no conjunto estudado. Em contraste, estudo observacional de circulação de ciência sobre COVID-19 no Twitter encontrou alegria associada a mais retweets e raiva a menos, mostrando dependência de contexto e conteúdo.
 
 [^17]: Kohout, Susann; Kruikemeier, Sanne; Bakker, Bert N. “May I have your Attention, please? An eye tracking study on emotional social media comments”. *Computers in Human Behavior*, 139, 2023, 107495. O estudo encontrou maior atenção visual para comentários negativos e, em condição de processamento sistemático, para raiva em comparação com medo.
+
+
+[^18]: Instagram. “Instagram Ranking Explained”, 31 maio 2023. A explicação pública do Feed descreveu sinais sobre quantas pessoas e quão rapidamente elas curtem, comentam, compartilham e salvam uma publicação. O texto foi reproduzido em fontes secundárias e registros contemporâneos; os pesos e a implementação interna não foram publicados.

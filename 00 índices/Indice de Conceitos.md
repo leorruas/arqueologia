@@ -43,6 +43,8 @@ Estas notas reaproveitam ideias existentes, mas lhes dão uma função específi
 - [[01 conceitos/Sincronizacao|Sincronização]]: usa coordenação temporal e operacional como lente transversal sobre serviços.
 - [[01 conceitos/Tecnologias de Delimitacao|Tecnologias de Delimitação]]: reúne fronteiras físicas, visuais e lógicas sob uma leitura comparativa.
 
+- [[01 conceitos/Tendência em plataformas|Tendência em plataformas]]: adaptação que reúne literatura de bursts, dinâmica temporal e trending topics para distinguir emergência temporal de recência, popularidade e momentum isolados.
+
 ## Hipóteses do projeto
 
 Estas formulações nasceram ou ganharam sua forma atual dentro desta investigação. Devem permanecer abertas a revisão e não ser apresentadas como teorias externas consolidadas:
