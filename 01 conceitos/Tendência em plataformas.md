@@ -43,6 +43,18 @@ O [[03 artefatos/Trending Topics do X Twitter|Trending Topics do X/Twitter]] tor
 
 No [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], a documentação de ranking descreve sinais sobre quantas pessoas interagem com um post e quão rapidamente essas interações ocorrem. Isso dá suporte à distinção entre [[02 variaveis/Popularidade|popularidade]] e [[02 variaveis/Momentum de atenção|momentum]], mas não significa que o Feed possua uma feature pública chamada “tendência”. O conceito serve para interpretar padrões emergentes produzidos pela combinação desses sinais.
 
+## No TikTok, tendência pode ser também uma gramática
+
+No [[03 artefatos/Feed Para Voce do TikTok|Feed Para Você do TikTok]], tendência ganha uma propriedade produtiva que não é central nos [[03 artefatos/Trending Topics do X Twitter|Trending Topics do X/Twitter]]. Hashtags, sons, challenges, coreografias e formatos podem sinalizar emergência e, ao mesmo tempo, oferecer ao usuário uma estrutura pronta para criar uma nova ocorrência.
+
+A literatura sobre TikTok descreve essa dinâmica em termos de mimesis, imitation publics e performances meméticas. Recursos como “Use this Sound” e Duet tornam parte do conteúdo tecnicamente reutilizável e reduzem o custo de participar de um padrão já reconhecido. A tendência deixa de ser apenas algo observado e pode funcionar como instrução implícita de produção.
+
+Essa diferença cria um circuito específico:
+
+**emergência → reconhecimento → reutilização → variação → nova circulação → reforço da emergência**
+
+A relação com [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]] é funcional e comparativa. Uma trend bem estabelecida preserva elementos suficientes para que as variações pertençam à mesma família, mas precisa deixar espaço para diferença. Pesquisa recente sobre vídeos de dança no TikTok encontrou associação não linear entre tipicidade e engajamento, sugerindo que aderência excessiva ou afastamento excessivo do padrão podem ter desempenho inferior a variações moderadamente distintas.
+
 ## Ficha do conceito
 
 | Campo | Registro |
@@ -55,9 +67,9 @@ No [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]]
 | **Distinção central** | Estado acumulado de popularidade ↔ padrão temporal de emergência, pico, persistência ou decaimento |
 | **O que ajuda a explicar** | Como um assunto pode “esquentar” antes de ser o mais popular e como sistemas podem detectar e amplificar esse crescimento |
 | **O que não explica sozinho** | Causa do crescimento, qualidade, relevância individual, espontaneidade ou origem da coordenação |
-| **Artefatos-chave** | [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], [[03 artefatos/Trending Topics do X Twitter|Trending Topics do X/Twitter]] |
+| **Artefatos-chave** | [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], [[03 artefatos/Trending Topics do X Twitter|Trending Topics do X/Twitter]], [[03 artefatos/Feed Para Voce do TikTok|Feed Para Você do TikTok]] |
 | **Variáveis relacionadas** | [[02 variaveis/Recência|Recência]], [[02 variaveis/Popularidade|Popularidade]], [[02 variaveis/Momentum de atenção|Momentum de atenção]] |
-| **Genealogias relacionadas** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] |
+| **Genealogias relacionadas** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]], [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]] |
 
 ## Referências
 
@@ -71,3 +83,10 @@ No [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]]
 
 
 [^5]: X Help Center. “Trends Recommendations”. Consultado em 6 out. 2026. A documentação atual separa Trends Detection, Candidate Retrieval, Trends Ranking e Feedback Collection. https://help.x.com/en/resources/recommender-systems/trends-recommendations
+
+
+[^6]: Zulli, Diana; Zulli, David James. “Extending the Internet meme: Conceptualizing technological mimesis and imitation publics on the TikTok platform”. *New Media & Society*, 24(8), 2022. DOI: https://doi.org/10.1177/1461444820983603
+
+[^7]: Matamoros-Fernández, Ariadna. “Taking Humor Seriously on TikTok”. *Social Media + Society*, 9(1), 2023. DOI: https://doi.org/10.1177/20563051231157609
+
+[^8]: Bravin, Marc et al. “How Closely Should You Follow a Trend? Atypicality and Engagement on Social Media”. *Journal of Marketing*, 90(5), 2026. DOI: https://doi.org/10.1177/00222429261466668
