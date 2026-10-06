@@ -69,7 +69,7 @@ Uma interface, visualização, prompt ou serviço pode aumentar legibilidade qua
 
 O [[01 conceitos/Design do Voto|Design do voto]] usa essa variável para diferenciar persuasão de investigação. Uma peça não precisa dizer “este governo fez isso por você”; pode ajudar a pessoa a reconstruir o caminho entre uma experiência e a política correspondente.
 
-A hipótese de **biografia política**, preservada em Pistas de pesquisa, é um caso especialmente claro: começar por acontecimentos concretos da vida e só depois reconstruir mediação, autoria, verificação, consequências e valores.
+A [[03 artefatos/Biografia política|Biografia política]] é um caso especialmente claro: começar por acontecimentos concretos da vida e só depois reconstruir mediação, autoria, verificação, consequências, valores e critérios eleitorais.
 
 Imagens podem funcionar como porta de entrada para esse percurso. A monografia *O refluir do tempo nas imagens de Claudia Andujar* articula [[autores/Henri Bergson|Henri Bergson]] e Maurício Lissovsky para pensar a fotografia como duração e para mostrar como lembrança e percepção podem se contrair em direção ao presente.[^1] A hipótese do vault é que certas imagens aumentem a legibilidade da mediação política ao **convocar experiências autobiográficas antes de pedir uma atribuição institucional**. Uma fotografia pode fazer alguém recordar uma universidade, um trabalho, uma perda, uma viagem ou uma relação; a gramática de biografia política entraria depois para investigar que decisões coletivas participaram daquela experiência.
 
