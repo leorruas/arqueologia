@@ -123,7 +123,7 @@ a estrutura pode ser:
 
 A hipótese não é que perguntas sejam automaticamente mais persuasivas. Isso precisa ser investigado empiricamente. Perguntas podem estimular elaboração, curiosidade ou busca ativa, mas também podem funcionar como insinuação, carregar pressupostos falsos ou produzir enquadramento tão forte quanto uma afirmação.
 
-Por isso, o objeto arqueológico interessante não é simplesmente “perguntas convencem mais”. É a mudança de agência:
+Por isso, o objeto arqueológico interessante não é simplesmente “perguntas convencem mais”. É a mudança em [[02 variaveis/Agencia Inferencial|agência inferencial]]:
 
 **quem parece ter produzido a conclusão?**
 
@@ -165,7 +165,7 @@ Isso sugere um mecanismo ainda em investigação para o Design do voto: **convoc
 | Enquadramento | contexto interpretativo | Que leitura se torna mais disponível por causa da cena? |
 | Emoção | modo de processamento | A peça está preparando o observador para sentir antes de avaliar? |
 | Sequência | ordem de descoberta | O que muda quando a conclusão chega depois de pequenas etapas? |
-| Pergunta | agência inferencial | Quem parece ter descoberto a conclusão? |
+| Pergunta | [[02 variaveis/Agencia Inferencial|agência inferencial]] | Quem parece ter descoberto a conclusão? |
 | Repetição social | percepção de presença e consenso | A mensagem parece importante porque é verdadeira ou porque está em toda parte? |
 | Biografia política | relação entre experiência vivida e atribuição política | Que decisões públicas atravessaram minha vida antes de eu transformá-las em identidade política? |
 | Verificação | possibilidade de revisar uma atribuição | Que evidência sustentaria, corrigiria ou desmontaria a história que acabei de produzir? |
@@ -186,7 +186,7 @@ Isso sugere um mecanismo ainda em investigação para o Design do voto: **convoc
 | **Relação de poder** | Quem controla enquadramento, repetição e distribuição pode influenciar quais questões e associações ficam disponíveis ao eleitor |
 | **Risco** | Manipulação, insinuação, falsa neutralidade, pressupostos escondidos e confusão entre familiaridade, autoridade e verdade |
 | **Conceitos relacionados** | [[01 conceitos/Design da aversão|Design da aversão]], [[01 conceitos/Partidarismo negativo|Partidarismo negativo]], [[01 conceitos/Identidade política negativa|identidade política negativa]], [[01 conceitos/Polarização afetiva|polarização afetiva]], [[01 conceitos/Voto negativo|voto negativo]], atenção, heurísticas, framing, mere exposure, elaboração, cognição política, propaganda e retórica visual |
-| **Variáveis relacionadas** | [[02 variaveis/Reversibilidade representacional|Reversibilidade representacional]], [[02 variaveis/Prototipicidade percebida|Prototipicidade percebida]], [[02 variaveis/Legibilidade da Mediacao Politica|Legibilidade da mediação política]] |
+| **Variáveis relacionadas** | [[02 variaveis/Agencia Inferencial|Agência inferencial]], [[02 variaveis/Reversibilidade representacional|Reversibilidade representacional]], [[02 variaveis/Prototipicidade percebida|Prototipicidade percebida]], [[02 variaveis/Legibilidade da Mediacao Politica|Legibilidade da mediação política]] |
 | **Artefatos relacionados** | [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Mascote|Mascote]], [[03 artefatos/Meme|Meme]], [[03 artefatos/Apelido político|Apelido político]], [[03 artefatos/Clip político|Clip político]], [[03 artefatos/Entrevista longa|Entrevista longa]], [[03 artefatos/Tango|Tango]], [[03 artefatos/Fotografia|fotografia política]], post, carrossel, vídeo curto |
 | **Percursos relacionados** | [[05 percursos/Da Parede ao Feed|Da parede ao feed]], [[05 percursos/Da Parede ao Interlocutor|Da parede ao interlocutor]] |
 | **Questão em aberto** | Quanto de uma escolha política acontece antes de percebermos que estamos escolhendo? |
