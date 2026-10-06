@@ -53,6 +53,7 @@ A presença aqui não obriga a criação de uma nota. Cada pista deve ser avalia
 - **Notificação**: investigar o artefato que leva uma demanda de atenção até a pessoa em vez de esperar que ela retorne ao sistema.
 - **Stories**: investigar combinação de efemeridade, sequência automática, navegação gestual e pressão temporal de disponibilidade.
 - **Curadoria algorítmica entre plataformas**: depois de comparar Instagram, X/Twitter e TikTok, avaliar se existe um conceito reutilizável para a passagem de ordem cronológica a relevância prevista. Separar ranking de contas seguidas, recomendação de conteúdo não seguido, exploração de novidade e políticas de elegibilidade. Não promover antes do comparativo.
+- **Artefatos de design associados à performance no Instagram**: ao concluir o estudo do [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], mapear artefatos, formatos e decisões de design que possam ser associados a melhor performance na plataforma. Relacionar cada caso às variáveis já estudadas — permanência, propagação, recência, popularidade, momentum de atenção, afinidade inferida e valência emocional — e exigir evidência de documentação oficial, experimentos ou literatura científica antes de tratar uma relação como causal. Separar claramente efeito de design, correlação observada e conselho de creator economy.
 
 ## Reversibilidade e custo do erro
 
