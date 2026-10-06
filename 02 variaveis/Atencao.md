@@ -16,6 +16,8 @@ Uma interface pode quase desaparecer enquanto realizamos uma tarefa, ou pode exi
 
 O eixo não mede “engajamento” como sinônimo de qualidade nem tempo de tela como medida suficiente. Uma tarefa pode durar horas com baixa exigência de monitoramento contínuo; outra pode durar segundos e exigir concentração intensa.
 
+A criação de [[01 conceitos/Acesso consciente|Acesso consciente]] e [[02 variaveis/Atenção sustentada|Atenção sustentada]] permite separar três perguntas que antes ficavam comprimidas nesta nota. **Atenção** pergunta quanta prioridade ou esforço uma situação exige; **acesso consciente** pergunta se determinada informação chegou a ficar disponível para relato, decisão ou ação deliberada; **atenção sustentada** pergunta se o foco relevante permaneceu estável ao longo do tempo. Uma tarefa pode exigir muito foco sem garantir que todo estímulo presente seja conscientemente acessado, e pode obter acesso inicial sem conseguir sustentá-lo.
+
 ## Capturar atenção e exigir atenção não são a mesma coisa
 
 Um alerta sonoro pode capturar o foco por um instante. Um formulário complexo pode não interromper ninguém e ainda exigir grande esforço atencional para ser preenchido. Por isso, a variável precisa observar **o quanto a tarefa depende de atenção consciente para continuar funcionando**, e não apenas se algo chama o olhar.
@@ -64,12 +66,12 @@ A pergunta arqueológica mais útil é: **o que deixa de funcionar quando a pess
 |---|---|
 | **Variável** | Atenção |
 | **Eixo** | Baixa ↔ alta demanda de foco consciente |
-| **Definição operacional** | Quantidade e continuidade de foco consciente exigidas ou mobilizadas por uma tarefa, elemento ou ambiente |
+| **Definição operacional** | Quantidade ou intensidade de foco consciente exigida ou mobilizada por uma tarefa, elemento ou ambiente |
 | **Como observar** | Monitoramento necessário, interrupções, competição entre estímulos, erros sob atenção dividida e custo de retomada |
-| **O que não mede sozinho** | Engajamento, satisfação, valor do conteúdo ou autonomia sobre o foco |
+| **O que não mede sozinho** | [[01 conceitos/Acesso consciente|Acesso consciente]] efetivo, [[02 variaveis/Atenção sustentada|estabilidade do foco ao longo do tempo]], engajamento, satisfação, valor do conteúdo ou autonomia sobre o foco |
 | **Trade-offs principais** | Reduzir demanda pode liberar capacidade; também pode ocultar processos que mereciam atenção |
 | **Artefatos-chave** | [[03 artefatos/Infinite Scroll|Infinite Scroll]], [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], [[03 artefatos/Botao Like|Botão Like]], [[03 artefatos/Archive|Archive]], [[03 artefatos/Grid|Grid]], [[03 artefatos/Espelho|Espelho]] |
-| **Conceitos relacionados** | [[01 conceitos/Autonomia da Atencao|Autonomia da atenção]], [[01 conceitos/Economia da Atencao|Economia da atenção]] |
+| **Conceitos relacionados** | [[01 conceitos/Acesso consciente|Acesso consciente]], [[01 conceitos/Autonomia da Atencao|Autonomia da atenção]], [[01 conceitos/Economia da Atencao|Economia da atenção]] |
 | **Genealogias relacionadas** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] |
 
 ## Referências
