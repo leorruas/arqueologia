@@ -95,6 +95,8 @@ Isso muda a pergunta sobre representação. A pessoa pode formar uma imagem do g
 
 Nesse ponto, reduzir aversão deixa de ser apenas um problema de criar uma mensagem melhor. Pode envolver também projetar **a distribuição das mensagens**, separando o que é frequente no sistema do que é frequente na população. Essa diferença conecta o percurso à [[01 conceitos/Polarização afetiva|polarização afetiva]] e torna arquitetura de exposição uma parte da investigação.
 
+A relação entre [[03 artefatos/Entrevista longa|entrevista longa]] e [[03 artefatos/Clip político|clip político]] mostra como essa infraestrutura também redistribui **duração**. Uma conversa extensa pode existir integralmente num podcast ou vídeo sob demanda e, ao mesmo tempo, ser encontrada pela maior parte do público apenas como sequência de fragmentos. O feed não precisa falsificar o material para alterar a representação disponível: selecionar e repetir momentos diferentes já muda qual versão temporal da pessoa é mais fácil de encontrar. Isso transforma entrevista e clip numa ecologia de descompressão e recompressão.
+
 ## O que aparece quando lemos em sequência
 
 O percurso revela uma mudança de regime: **capturar atenção, prolongar atenção e reconvocá-la são problemas diferentes**.
