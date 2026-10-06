@@ -20,7 +20,7 @@ A variável pode ser observada por compartilhamentos, envios, reposts, retweets 
 
 No [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], compartilhar ou enviar pode funcionar ao mesmo tempo como ação social e como sinal para previsões futuras de ranking. Isso transforma parte da distribuição em comportamento medido pela própria plataforma.
 
-A literatura de difusão mostra que propriedades do conteúdo se associam a diferenças de propagação. Berger e Milkman encontraram que [[02 variaveis/Valência emocional|valência emocional]] se relacionava ao compartilhamento no conjunto estudado, mas também mostraram que positivo versus negativo não bastava para explicar circulação: estados de maior ativação tinham comportamento distinto mesmo dentro da mesma direção afetiva.[^1] Em comunicação política, trabalhos de Brady e colegas encontraram associação entre linguagem moral-emocional e maior difusão; uma replicação e meta-análise posterior encontrou efeito positivo em múltiplos conjuntos de dados e plataformas.[^2]
+A literatura de difusão mostra que propriedades do conteúdo se associam a diferenças de propagação. Berger e Milkman encontraram que [[02 variaveis/Valência emocional|valência emocional]] se relacionava ao compartilhamento no conjunto estudado, mas também mostraram que positivo versus negativo não bastava para explicar circulação: estados de maior [[02 variaveis/Ativação emocional|ativação emocional]] tinham comportamento distinto mesmo dentro da mesma direção afetiva.[^1] Duas replicações preregistradas de 2024, porém, não encontraram efeito causal de ativação fisiológica incidental sobre disposição de compartilhar; por isso, o vínculo entre ativação e propagação deve permanecer contextual, não universal.[^3] Em comunicação política, trabalhos de Brady e colegas encontraram associação entre linguagem moral-emocional e maior difusão; uma replicação e meta-análise posterior encontrou efeito positivo em múltiplos conjuntos de dados e plataformas.[^2]
 
 Esses resultados não autorizam inferir que toda propagação resulta de emoção. Utilidade, identidade, rede, timing, exposição e desenho da plataforma também participam da circulação.
 
@@ -49,3 +49,6 @@ A distinção é importante para estudar poder. Quando o ranking valoriza previs
 [^1]: Berger, Jonah; Milkman, Katherine L. “What Makes Online Content Viral?”. *Journal of Marketing Research*, 49(2), 2012, pp. 192–205. DOI: https://doi.org/10.1509/jmr.10.0353
 
 [^2]: Brady, William J. et al. “Emotion shapes the diffusion of moralized content in social networks”. *PNAS*, 114(28), 2017, pp. 7313–7318. DOI: https://doi.org/10.1073/pnas.1618923114. Ver também a replicação e meta-análise preregistrada de 27 estudos publicada em 2025, que encontrou associação positiva entre linguagem moral-emocional e compartilhamento em diferentes conjuntos de dados.
+
+
+[^3]: Prowten, Skyler et al. “Does Physiological Arousal Increase Social Transmission of Information? Two Replications of Berger (2011)”. *Psychological Science*, 35(9), 2024, pp. 1025–1034. DOI: https://doi.org/10.1177/09567976241257255

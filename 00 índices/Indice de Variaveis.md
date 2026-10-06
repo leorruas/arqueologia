@@ -40,6 +40,8 @@ Variáveis são eixos usados para comparar o efeito de decisões de design. Elas
 
 - [[02 variaveis/Valência emocional|Valência emocional]]: **negativa ↔ positiva** na direção afetiva associada a uma experiência, mensagem ou estímulo.
 
+- [[02 variaveis/Ativação emocional|Ativação emocional]]: **baixa ↔ alta ativação** no grau de arousal associado a uma experiência, mensagem ou estímulo.
+
 ## Como usar
 
 Uma variável só é útil quando ajuda a formular comparação. Em vez de escrever “o artefato tem fricção”, pergunte: **que fricção aumentou, qual diminuiu e para quem?** Em vez de escrever “o sistema melhora a justiça”, investigue qual regra ficou mais previsível e se diferentes atores perceberiam a mudança da mesma forma.

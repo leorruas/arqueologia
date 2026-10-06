@@ -22,7 +22,7 @@ Valência ajuda a distinguir agradável de desagradável. Ela não informa, sozi
 
 Essa distinção aparece em pesquisas sobre circulação de conteúdo. Berger e Milkman encontraram que conteúdo positivo foi, em média, mais compartilhado que conteúdo negativo no conjunto analisado, mas mostraram também que valência isolada não explica a propagação: emoções negativas de alta ativação, como raiva e ansiedade, podiam circular mais do que emoções negativas de baixa ativação, como tristeza.[^2]
 
-Por isso, [[02 variaveis/Valência emocional|valência emocional]] deve ser lida junto da futura investigação sobre ativação emocional. O eixo positivo ↔ negativo organiza uma dimensão do afeto, não uma escala universal de capacidade de engajar.
+Por isso, [[02 variaveis/Valência emocional|valência emocional]] deve ser lida junto de [[02 variaveis/Ativação emocional|ativação emocional]]. O eixo positivo ↔ negativo organiza uma dimensão do afeto, não uma escala universal de capacidade de engajar.
 
 ## Do conteúdo ao ranking existe uma mediação comportamental
 
