@@ -35,6 +35,7 @@ Use esta lente para atravessar disciplinas e perguntar **por que artefatos difer
 - [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]]
 - [[04 genealogias/Reversibilidade e Custo do Erro|Reversibilidade e custo do erro]]
 - [[04 genealogias/Compressao do Esforco|Compressão do esforço]]
+- [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]]
 - [[04 genealogias/Estabilizacao para Acao|Estabilização para ação]] *(rascunho: hipótese transversal em teste)*
 
 ### Percursos
