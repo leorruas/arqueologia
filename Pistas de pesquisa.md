@@ -48,6 +48,8 @@ A presença aqui não obriga a criação de uma nota. Cada pista deve ser avalia
 
 ## Atenção e recompensa
 
+- **Medição de acesso consciente sem relato**: investigar métodos que tentam separar percepção, atenção, acesso consciente e reportabilidade em interfaces, incluindo paradigmas no-report, eye tracking e medidas fisiológicas. A pergunta central é quais sinais permitem inferir acesso sem transformar fixação ocular, tempo de permanência ou resposta motora em prova automática de consciência.
+
 - **Paginação**: investigar o ponto explícito de decisão que existia antes do infinite scroll. Pode funcionar como fóssil útil para entender o que significa apagar uma pausa.
 - **Autoplay**: estudar a transferência da decisão de iniciar o próximo conteúdo do usuário para o sistema.
 - **Notificação**: investigar o artefato que leva uma demanda de atenção até a pessoa em vez de esperar que ela retorne ao sistema.
