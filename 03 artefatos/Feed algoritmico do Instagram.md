@@ -51,6 +51,8 @@ A decisão de peso é uma decisão de design. Se enviar recebe mais importância
 
 Há ainda propriedades do conteúdo que podem influenciar esses sinais sem aparecer como sinais declarados do ranking. [[02 variaveis/Valência emocional|Valência emocional]] e [[02 variaveis/Ativação emocional|Ativação emocional]] são duas delas. A literatura encontra relações entre propriedades afetivas e compartilhamento, mas positivo versus negativo é insuficiente para explicar circulação; estudos também apontam diferenças associadas ao nível de ativação.[^13] Replicações preregistradas recentes, porém, não encontraram efeito causal de ativação fisiológica incidental sobre disposição de compartilhar, portanto essa relação permanece dependente de contexto.[^15] Na documentação pública do Feed consultada, a Meta descreve previsões comportamentais e atributos do post, sem declarar valência emocional como variável de ranking.[^14] A hipótese do projeto é, portanto, mediada: propriedade emocional → comportamento → sinal → ranking.
 
+Emoções específicas também não produzem uma ordem estável de performance. Estudos encontram raiva associada a maior circulação ou atenção em alguns contextos, mas há conjuntos em que alegria prevê mais compartilhamento e raiva menos.[^16] Outros trabalhos mostram que negatividade pode aumentar atenção visual sem necessariamente aumentar propagação.[^17] Para este estudo, “qual emoção engaja mais?” precisa sempre ser reescrita como “qual emoção se associa a qual comportamento, em qual contexto?”. Essa regra evita converter evidência contextual em receita universal.
+
 Isso também separa popularidade de tendência. Popularidade registra quanto já aconteceu. Momentum registra quão rapidamente está acontecendo agora. A literatura de recomendação trata dinâmica temporal, popularidade, recência e tendências como dimensões distintas porque o valor dos itens e as preferências dos usuários mudam com o tempo.[^12]
 
 ## De acompanhar pessoas a descobrir conteúdos
@@ -151,3 +153,8 @@ Talvez a consequência mais profunda do ranking personalizado apareça quando pr
 
 
 [^15]: Prowten, Skyler et al. “Does Physiological Arousal Increase Social Transmission of Information? Two Replications of Berger (2011)”. *Psychological Science*, 35(9), 2024, pp. 1025–1034. DOI: https://doi.org/10.1177/09567976241257255
+
+
+[^16]: Berger e Milkman (2012) encontraram maior viralidade para admiração, raiva e ansiedade e menor para tristeza no conjunto estudado. Em contraste, estudo observacional de circulação de ciência sobre COVID-19 no Twitter encontrou alegria associada a mais retweets e raiva a menos, mostrando dependência de contexto e conteúdo.
+
+[^17]: Kohout, Susann; Kruikemeier, Sanne; Bakker, Bert N. “May I have your Attention, please? An eye tracking study on emotional social media comments”. *Computers in Human Behavior*, 139, 2023, 107495. O estudo encontrou maior atenção visual para comentários negativos e, em condição de processamento sistemático, para raiva em comparação com medo.

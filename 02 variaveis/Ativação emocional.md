@@ -24,6 +24,16 @@ A evidência causal exige mais cautela. Prowten e colegas realizaram em 2024 dua
 
 Para este vault, a variável continua útil porque permite descrever uma propriedade afetiva e comparar situações. O efeito sobre [[02 variaveis/Propagação|propagação]] deve ser tratado como relação empírica dependente de contexto, conteúdo, emoção específica e arquitetura da plataforma.
 
+## Emoções discretas não obedecem a uma hierarquia única
+
+Transformar ativação em uma regra do tipo “quanto maior, melhor” também seria um erro. Berger e Milkman encontraram maior circulação para admiração, raiva e ansiedade e menor para tristeza no conjunto do *New York Times*.[^2] Em outro contexto, porém, um estudo sobre circulação de ciência relacionada à COVID-19 no Twitter encontrou mais retweets associados à alegria, menos associados à raiva e nenhum efeito significativo de medo ou tristeza.[^5] O contraste mostra que emoção específica, tema, comunidade, plataforma e tipo de ação precisam ser analisados juntos.
+
+A mesma dependência aparece quando o comportamento medido muda. Um experimento de eye tracking com comentários de redes sociais encontrou mais atenção visual para comentários negativos do que positivos e, sob processamento sistemático, mais atenção para comentários com raiva do que medo.[^6] Isso é evidência sobre permanência visual, não sobre compartilhamento. Estudos de narrativas de câncer no Facebook também encontraram associação entre negatividade e raiva no início do texto e maior engajamento por reações e comentários, mas em um domínio e amostra específicos.[^7]
+
+Há ainda efeitos no lado de quem publica. Em um experimento com usuários de Instagram, receber mais likes e comentários do que o esperado produziu excitação e entusiasmo e encurtou o intervalo declarado até a próxima postagem; receber menos engajamento gerou emoções negativas associadas a mudanças no conteúdo escolhido para a próxima publicação.[^8] O sistema social, portanto, pode criar um circuito em que métricas públicas alteram emoção do criador e essa emoção altera comportamento de produção.
+
+Para o vault, a regra analítica fica: **emoções discretas devem ser ligadas ao comportamento específico observado**. Raiva associada a atenção não autoriza concluir raiva associada a compartilhamento; alegria associada a retweet não implica maior permanência; tristeza associada a menor viralidade em um conjunto não estabelece uma lei geral.
+
 ## Do afeto ao ranking existe uma cadeia intermediária
 
 A documentação pública do [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]] descreve previsões comportamentais, histórico de interação e atributos do conteúdo, mas não declara ativação emocional como sinal de ranking.[^4]
@@ -63,3 +73,12 @@ Ativação pode ser medida por auto-relato, escalas afetivas e medidas fisiológ
 [^3]: Prowten, Skyler et al. “Does Physiological Arousal Increase Social Transmission of Information? Two Replications of Berger (2011)”. *Psychological Science*, 35(9), 2024, pp. 1025–1034. DOI: https://doi.org/10.1177/09567976241257255
 
 [^4]: Meta AI. “Instagram Feed Ranking System Card”. 23 fev. 2022. https://ai.meta.com/tools/system-cards/instagram-feed-ranking/
+
+
+[^5]: Liu, J. C. J.; Tong, E. M. W. “The Asymmetric Influence of Emotion in the Sharing of COVID-19 Science on Social Media: Observational Study”. *JMIR Infodemiology*, 2022. No conjunto analisado, alegria associou-se a mais retweets, raiva a menos, e medo/tristeza não apresentaram efeito significativo.
+
+[^6]: Kohout, Susann; Kruikemeier, Sanne; Bakker, Bert N. “May I have your Attention, please? An eye tracking study on emotional social media comments”. *Computers in Human Behavior*, 139, 2023, 107495. DOI: https://doi.org/10.1016/j.chb.2022.107495
+
+[^7]: Estudo sobre narrativas de câncer de mama no Facebook publicado em *Computers in Human Behavior* (2022) encontrou que negatividade e raiva no início de histórias se associavam a mais reações e comentários, com limitações de generalização declaradas pelos autores.
+
+[^8]: Stsiampkouskaya, Kseniya et al. “Emotional responses to likes and comments regulate posting frequency and content change behaviour on social media: An experimental study and mediation model”. *Computers in Human Behavior*, 2022, 106940. DOI: https://doi.org/10.1016/j.chb.2021.106940
