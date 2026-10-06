@@ -27,6 +27,8 @@ Este índice separa conceitos pela procedência intelectual. A distinção não 
 - [[01 conceitos/Padroes Enganosos|Padrões enganosos]]: tradição de HCI e proteção do consumidor, originada no termo *dark patterns* cunhado por Harry Brignull, para interfaces que manipulam, enganam ou constrangem escolhas.
 - [[01 conceitos/Recompensa Variavel|Recompensa Variável]]: princípio derivado de tradições de aprendizagem e reforço comportamental.
 
+- [[01 conceitos/Viés de duração|Viés de duração]]: distorção em que o comprimento de um vídeo altera métricas como watch time e conclusão, dificultando inferir preferência diretamente do comportamento observado.
+
 ## Adaptações para a arqueologia do design
 
 - [[01 conceitos/Feedback negativo em recomendação|Feedback negativo em recomendação]]: distingue rejeição explícita de rejeição implícita em sistemas que aprendem também com afastamento, skips e controles como “Não tenho interesse”.
