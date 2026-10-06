@@ -37,7 +37,7 @@ Este índice separa conceitos pela procedência intelectual. A distinção não 
 Estas notas reaproveitam ideias existentes, mas lhes dão uma função específica dentro deste projeto:
 
 - [[01 conceitos/Autonomia da Atencao|Autonomia da Atenção]]: usa discussões sobre atenção e autonomia para perguntar quem governa o foco.
-- [[01 conceitos/Engajamento em plataformas digitais|Engajamento em plataformas digitais]]: conceito multidimensional usado no vault como guarda-chuva para sinais comportamentais observáveis e inferidos em plataformas.
+- [[01 conceitos/Engajamento em plataformas digitais|Engajamento em plataformas digitais]]: conceito multidimensional usado no Arqueologia do Design como guarda-chuva para sinais comportamentais observáveis e inferidos em plataformas.
 - [[01 conceitos/Distribuicao de Escassez|Distribuição de Escassez]]: aproxima design de serviços, acesso e regras de alocação.
 - [[01 conceitos/Formulação|Formulação]]: transforma o enquadramento do problema em objeto de análise de design.
 - [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção Boa vs Fricção Ruim]]: usa fricção como distinção entre atrito que protege valor e atrito que apenas encarece a ação.
@@ -70,7 +70,7 @@ Estas formulações nasceram ou ganharam sua forma atual dentro desta investiga�
 
 ## Regra de uso
 
-Quando um conceito do projeto começar a aparecer repetidamente em artefatos diferentes, isso é um sinal para fortalecê-lo: procurar antecedentes na literatura, identificar limites e tentar encontrar um caso que contradiga a formulação. A meta não é confirmar as hipóteses do vault, mas torná-las mais difíceis de derrubar.
+Quando um conceito do projeto começar a aparecer repetidamente em artefatos diferentes, isso é um sinal para fortalecê-lo: procurar antecedentes na literatura, identificar limites e tentar encontrar um caso que contradiga a formulação. A meta não é confirmar as hipóteses do Arqueologia do Design, mas torná-las mais difíceis de derrubar.
 
 ---
 [[index|Voltar para o Início]]

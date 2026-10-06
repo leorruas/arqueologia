@@ -57,7 +57,7 @@ Essa adaptação é particularmente interessante em organizações nas quais uma
 
 A frase estruturada redistribui parte desse poder. Uma proposta precisa mostrar relações entre problema, público e benefício em uma forma que outras pessoas conseguem examinar.
 
-É daí que nasce, dentro deste vault, o parentesco com a [[03 artefatos/Justificativa de Valor Público|Justificativa de Valor Público]]. Esse descendente é uma elaboração do projeto, não um estágio histórico documentado da ferramenta de Osterwalder.
+É daí que nasce, dentro do Arqueologia do Design, o parentesco com a [[03 artefatos/Justificativa de Valor Público|Justificativa de Valor Público]]. Esse descendente é uma elaboração do projeto, não um estágio histórico documentado da ferramenta de Osterwalder.
 
 A distinção importa porque permite ao repositório registrar contribuição própria sem reescrever retrospectivamente a origem do artefato.
 

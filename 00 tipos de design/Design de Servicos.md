@@ -11,7 +11,7 @@ tags:
 
 Um serviço é um objeto estranho para o design porque **não fica pronto num lugar só**. Uma cadeira pode ser inspecionada antes de ser usada. Um cartaz pode ser observado inteiro. Um serviço, ao contrário, acontece quando pessoas, regras, documentos, sistemas, espaços e tempos conseguem coincidir o suficiente para produzir uma experiência.
 
-É por isso que, neste vault, design de serviços interessa como a tentativa de tornar **relações distribuídas projetáveis**. O problema não é apenas melhorar um ponto de contato. É compreender e reorganizar uma sequência que atravessa atores diferentes, incluindo partes que o usuário nunca vê.
+É por isso que, no Arqueologia do Design, design de serviços interessa como a tentativa de tornar **relações distribuídas projetáveis**. O problema não é apenas melhorar um ponto de contato. É compreender e reorganizar uma sequência que atravessa atores diferentes, incluindo partes que o usuário nunca vê.
 
 ## O serviço existe enquanto muita coisa coincide
 
@@ -75,7 +75,7 @@ A [[03 artefatos/Voting Advice Application|Voting Advice Application]] acrescent
 
 O campo talvez seja melhor entendido não pela pergunta “o que é um serviço?”, mas por outra: **como tornar projetável algo que só existe plenamente quando várias partes agem juntas?**
 
-## Leituras no vault
+## Leituras no Arqueologia do Design
 
 Comece por [[03 artefatos/Service Blueprint|Service Blueprint]] e [[03 artefatos/Customer Journey Map|Customer Journey Map]] para observar duas representações complementares do serviço. [[03 artefatos/Entrevista Qualitativa|Entrevista qualitativa]], [[03 artefatos/Pesquisa Quantitativa|Pesquisa quantitativa]] e [[03 artefatos/Jobs to Be Done|Jobs to Be Done]] mostram como evidência se transforma em formulação.
 

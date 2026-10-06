@@ -14,7 +14,7 @@ tags:
 
 Duas pessoas podem discordar intensamente e ainda perceber a outra apenas como adversária. A relação muda quando uma delas passa a acreditar que o outro grupo ameaça sua segurança, seus recursos, seus valores, sua identidade ou a continuidade de seu modo de vida.
 
-**Ameaça percebida** mede quanto uma pessoa ou grupo é interpretado como capaz de produzir dano relevante ao indivíduo ou ao grupo de pertencimento. A variável possui base consolidada na literatura de relações intergrupais. Seu uso neste vault acrescenta uma pergunta de design: **que decisões de representação, seleção, enquadramento, repetição e interação aumentam ou reduzem a percepção de ameaça?**
+**Ameaça percebida** mede quanto uma pessoa ou grupo é interpretado como capaz de produzir dano relevante ao indivíduo ou ao grupo de pertencimento. A variável possui base consolidada na literatura de relações intergrupais. Seu uso no Arqueologia do Design acrescenta uma pergunta de design: **que decisões de representação, seleção, enquadramento, repetição e interação aumentam ou reduzem a percepção de ameaça?**
 
 **Eixo:** baixa ameaça percebida ↔ alta ameaça percebida.
 

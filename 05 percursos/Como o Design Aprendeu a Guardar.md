@@ -107,7 +107,7 @@ A sensação de “meus arquivos estão comigo” pode existir justamente porque
 
 ## O que aparece quando lemos em sequência
 
-Os artefatos já estudados no vault ocupam outras posições dentro desse campo mais amplo. O [[03 artefatos/Post-it|Post-it]] externaliza algo que poderia desaparecer da memória, mas aceita baixa permanência. O [[03 artefatos/Botao Salvar|Botão Salvar]] transforma a passagem entre estado temporário e persistente numa decisão explícita. [[03 artefatos/Archive|Archive]] separa preservação de visibilidade imediata. O [[03 artefatos/Favorito Bookmark|favorito / bookmark]] separa preservação do recurso de preservação do caminho até ele.
+Os artefatos já estudados no Arqueologia do Design ocupam outras posições dentro desse campo mais amplo. O [[03 artefatos/Post-it|Post-it]] externaliza algo que poderia desaparecer da memória, mas aceita baixa permanência. O [[03 artefatos/Botao Salvar|Botão Salvar]] transforma a passagem entre estado temporário e persistente numa decisão explícita. [[03 artefatos/Archive|Archive]] separa preservação de visibilidade imediata. O [[03 artefatos/Favorito Bookmark|favorito / bookmark]] separa preservação do recurso de preservação do caminho até ele.
 
 O [[03 artefatos/Número de Protocolo|Número de Protocolo]] faz uma demanda sobreviver à troca de pessoas e setores. A [[03 artefatos/Assinatura|Assinatura]] preserva uma relação entre registro e autoria ou responsabilidade. E a [[03 artefatos/LLM Wiki|LLM Wiki]] produz uma mutação recente: o sistema tenta preservar não apenas documentos, mas **sínteses e relações produzidas a partir deles**. A memória externa passa a participar de sua própria reorganização.
 

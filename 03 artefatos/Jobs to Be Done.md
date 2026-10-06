@@ -47,7 +47,7 @@ Mas isso não significa que demografia ou estrutura social sejam irrelevantes. C
 
 ## O artefato de autodeterminação
 
-Há uma razão pela qual o JTBD se aproxima tanto da ideia de autodeterminação neste vault.
+Há uma razão pela qual o JTBD se aproxima tanto da ideia de autodeterminação no Arqueologia do Design.
 
 Uma tarefa tradicional pode dizer: “crie uma página com filtro, busca e cards”. Um Job pode dizer algo mais próximo de: “quando preciso escolher entre muitas alternativas desconhecidas, quero conseguir reduzir rapidamente o conjunto para aquilo que é relevante para mim”.
 

@@ -60,7 +60,7 @@ A nota anterior descrevia Arial e San Francisco como descendentes diretas. Essa 
 
 San Francisco, desenvolvida posteriormente pela Apple para seus sistemas, pertence a outra história tipográfica. Pode compartilhar o território funcional de uma sans serif destinada a interfaces e sistemas, mas não deve ser tratada como descendente direta da Helvetica sem evidência específica.
 
-Essa distinção melhora a rede do vault porque impede que semelhança visual seja automaticamente transformada em árvore genealógica.
+Essa distinção melhora a rede do Arqueologia do Design porque impede que semelhança visual seja automaticamente transformada em árvore genealógica.
 
 ## Quando invisibilidade vira monotonia
 

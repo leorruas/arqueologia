@@ -79,7 +79,7 @@ Há ainda uma hipótese visual derivada da monografia *O refluir do tempo nas im
 
 Uma imagem pode, então, funcionar como **prompt imagético para a memória autobiográfica**. Certos elementos visuais apresentam relações suficientes para mobilizar lembranças, valores e experiências anteriores sem especificar integralmente o que deve ser lembrado. A hipótese é especialmente relevante para a biografia política: uma fotografia pode abrir a lembrança de uma experiência antes que uma pergunta verbal peça à pessoa que reconstrua política pública, atribuição, consequência e valor.
 
-Esse mecanismo acrescenta um terceiro tempo ao esquema fotográfico discutido na monografia. Além do tempo do fotógrafo e do fotografado que participa da formação da imagem, há o **tempo do espectador que retorna a ela**. A sequência proposta pelo projeto fica: fotógrafo → fotografado → imagem → espectador → memória → presente. Essa extensão é uma hipótese arqueológica do vault; o estudo específico de **Convocação temporal da imagem** permanece como pista de pesquisa antes de ganhar nota própria.
+Esse mecanismo acrescenta um terceiro tempo ao esquema fotográfico discutido na monografia. Além do tempo do fotógrafo e do fotografado que participa da formação da imagem, há o **tempo do espectador que retorna a ela**. A sequência proposta pelo projeto fica: fotógrafo → fotografado → imagem → espectador → memória → presente. Essa extensão é uma hipótese arqueológica do Arqueologia do Design; o estudo específico de **Convocação temporal da imagem** permanece como pista de pesquisa antes de ganhar nota própria.
 
 ## O meme transforma estrutura em participação
 

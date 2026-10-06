@@ -11,7 +11,7 @@ tags:
 
 Antes de alguém escolher uma fonte, já existe um problema mais profundo: **como fazer linguagem virar uma forma que outra pessoa consiga reconhecer, segmentar e percorrer?** A fala desaparece no tempo. A escrita permanece, mas exige que marcas visuais sejam distinguidas como letras, palavras, linhas, blocos e hierarquias.
 
-Neste vault, tipografia interessa justamente nesse ponto. Ela não é apenas escolha estilística de caracteres. É uma tecnologia de **organização perceptiva da linguagem**. Espaçamento, contraste, largura, peso, ritmo e repetição deslocam parte do trabalho interpretativo do leitor para a própria superfície.
+No Arqueologia do Design, tipografia interessa justamente nesse ponto. Ela não é apenas escolha estilística de caracteres. É uma tecnologia de **organização perceptiva da linguagem**. Espaçamento, contraste, largura, peso, ritmo e repetição deslocam parte do trabalho interpretativo do leitor para a própria superfície.
 
 ## A escrita precisou aprender a ser percorrida
 
@@ -53,9 +53,9 @@ Essa passagem aproxima tipografia de [[00 tipos de design/Design de Interface|de
 
 A aproximação com [[00 tipos de design/Design Grafico|design gráfico]] é ainda mais antiga. O gráfico organiza sinais numa superfície; a tipografia se especializa na forma visual da linguagem dentro dessa organização. As fronteiras são construídas historicamente e continuam porosas.
 
-Talvez a hipótese mais produtiva para este vault seja esta: **tipografia é design da distância entre linguagem e reconhecimento**. Quanto mais trabalho a forma consegue assumir — segmentar, hierarquizar, distinguir, repetir — menos o leitor precisa reconstruir sozinho a estrutura necessária para começar a compreender.
+Talvez a hipótese mais produtiva para o Arqueologia do Design seja esta: **tipografia é design da distância entre linguagem e reconhecimento**. Quanto mais trabalho a forma consegue assumir — segmentar, hierarquizar, distinguir, repetir — menos o leitor precisa reconstruir sozinho a estrutura necessária para começar a compreender.
 
-## Leituras no vault
+## Leituras no Arqueologia do Design
 
 [[03 artefatos/Espaço entre Palavras|Espaço entre palavras]] é o caso mais elementar para observar como uma decisão quase invisível altera o custo de leitura. [[03 artefatos/Helvetica|Helvetica]] mostra outra escala: como uma família tipográfica participa de sistemas de identidade, sinalização e expectativas de neutralidade.
 

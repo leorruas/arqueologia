@@ -14,7 +14,7 @@ Dois posts podem ter dez mil curtidas e estar em situações completamente difer
 
 **Eixo:** baixo ↔ alto ritmo recente de acumulação de interações.
 
-A formulação é uma hipótese operacional do vault. Ela se apoia em duas bases: literatura de recomendação que trata dinâmica temporal, tendências e popularidade como fenômenos variáveis no tempo,[^1] e documentação de plataformas que considera não apenas quantas interações um conteúdo recebeu, mas também a rapidez com que elas aparecem.
+A formulação é uma hipótese operacional do Arqueologia do Design. Ela se apoia em duas bases: literatura de recomendação que trata dinâmica temporal, tendências e popularidade como fenômenos variáveis no tempo,[^1] e documentação de plataformas que considera não apenas quantas interações um conteúdo recebeu, mas também a rapidez com que elas aparecem.
 
 ## Popularidade é estoque; momentum é fluxo
 
@@ -22,7 +22,7 @@ A formulação é uma hipótese operacional do vault. Ela se apoia em duas bases
 
 Essa separação ajuda a analisar “hot topics” sem transformar tendência em rótulo vago. Uma tendência pode envolver recência, volume absoluto, aceleração, concentração temporal e contexto. Momentum isola somente uma dessas dimensões.
 
-No [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], essa variável ajuda a interpretar sinais de crescimento rápido como informação distinta da contagem acumulada. No [[03 artefatos/Trending Topics do X Twitter|Trending Topics do X/Twitter]], a documentação atual oferece uma implementação ainda mais próxima da ideia: contagens são acompanhadas em diferentes durações em tempo real e usadas por algoritmos estatísticos para produzir scores de tendência. O vault não afirma que exista internamente uma feature chamada “momentum”; trata a ideia como operacionalização para comparar ritmos de atenção.
+No [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], essa variável ajuda a interpretar sinais de crescimento rápido como informação distinta da contagem acumulada. No [[03 artefatos/Trending Topics do X Twitter|Trending Topics do X/Twitter]], a documentação atual oferece uma implementação ainda mais próxima da ideia: contagens são acompanhadas em diferentes durações em tempo real e usadas por algoritmos estatísticos para produzir scores de tendência. O projeto Arqueologia do Design não afirma que exista internamente uma feature chamada “momentum”; trata a ideia como operacionalização para comparar ritmos de atenção.
 
 ## Como observar
 

@@ -10,7 +10,7 @@ tags:
 
 # Vilém Flusser
 
-Vilém Flusser importa para este vault por tratar a fotografia como caso exemplar de uma cultura organizada por **aparelhos, programas e imagens técnicas**. Sua teoria ajuda a investigar quanto daquilo que parece decisão livre do usuário já foi estruturado pelas possibilidades oferecidas pelo dispositivo.
+Vilém Flusser importa para o Arqueologia do Design por tratar a fotografia como caso exemplar de uma cultura organizada por **aparelhos, programas e imagens técnicas**. Sua teoria ajuda a investigar quanto daquilo que parece decisão livre do usuário já foi estruturado pelas possibilidades oferecidas pelo dispositivo.
 
 ## Papel no projeto
 

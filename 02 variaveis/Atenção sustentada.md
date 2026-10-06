@@ -14,7 +14,7 @@ Uma pessoa pode perceber imediatamente um sinal e ainda ser incapaz de continuar
 
 **Eixo:** instável ↔ sustentada continuidade do foco ao longo do tempo.
 
-A variável é diferente de [[02 variaveis/Atencao|Atenção]], que neste vault mede quanta demanda de foco uma situação impõe. Uma tarefa pode exigir atenção intensa e breve; outra pode exigir pouca complexidade a cada instante, mas obrigar a pessoa a permanecer vigilante por horas. Também é diferente de [[01 conceitos/Acesso consciente|acesso consciente]]: perceber conscientemente um evento em um momento não garante que a capacidade de percebê-lo continue estável ao longo da sessão.
+A variável é diferente de [[02 variaveis/Atencao|Atenção]], que no Arqueologia do Design mede quanta demanda de foco uma situação impõe. Uma tarefa pode exigir atenção intensa e breve; outra pode exigir pouca complexidade a cada instante, mas obrigar a pessoa a permanecer vigilante por horas. Também é diferente de [[01 conceitos/Acesso consciente|acesso consciente]]: perceber conscientemente um evento em um momento não garante que a capacidade de percebê-lo continue estável ao longo da sessão.
 
 ## O radar transformou cansaço em problema de design
 

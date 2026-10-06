@@ -53,7 +53,7 @@ Se uma prefeitura define “pessoas atravessam fora da faixa” como problema de
 
 O problema de design, portanto, não é apenas uma descrição da realidade. É um **enquadramento operacional**.
 
-Isso fortalece designers estratégicos, pesquisadores e equipes capazes de questionar a demanda inicial. Também pode criar conflito com estruturas organizacionais que tratam o escopo como decisão já encerrada. A velha nota do vault descrevia isso como oposição entre designers e “desenvolvedores e gerentes apressados”; a questão é mais estrutural. Qualquer ator pode pressionar por solução precoce quando prazo, orçamento, autoridade ou incentivos tornam a reformulação custosa.
+Isso fortalece designers estratégicos, pesquisadores e equipes capazes de questionar a demanda inicial. Também pode criar conflito com estruturas organizacionais que tratam o escopo como decisão já encerrada. A velha nota do Arqueologia do Design descrevia isso como oposição entre designers e “desenvolvedores e gerentes apressados”; a questão é mais estrutural. Qualquer ator pode pressionar por solução precoce quando prazo, orçamento, autoridade ou incentivos tornam a reformulação custosa.
 
 Há ainda um risco inverso: transformar o direito de enquadrar em monopólio profissional. Se apenas o designer puder dizer qual é o “problema real”, pesquisa centrada no usuário pode virar outra forma de autoridade técnica.
 

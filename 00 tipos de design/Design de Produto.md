@@ -11,7 +11,7 @@ tags:
 
 Um objeto nunca começa apenas na forma. Ele começa numa negociação entre corpo, matéria, esforço, hábito, fabricação e ambiente. Antes de existir uma profissão chamada design de produto, pessoas já desenhavam recipientes, ferramentas, mobiliário, roupas, mecanismos e utensílios para responder a uma pergunta muito concreta: **como fazer o mundo material assumir parte do trabalho que antes recaía sobre o corpo ou sobre a memória?**
 
-É esse problema que interessa ao vault. Design de produto não aparece aqui como catálogo de objetos bem resolvidos, mas como história de pequenas redistribuições de capacidade. Uma alça muda como um peso pode ser carregado. Uma tampa cria um dentro e um fora. Uma fechadura transforma armazenamento em exclusão. Uma roda muda quanto o corpo consegue transportar. Um botão desloca comando para a mão. A matéria passa a organizar comportamento.
+É esse problema que interessa ao Arqueologia do Design. Design de produto não aparece aqui como catálogo de objetos bem resolvidos, mas como história de pequenas redistribuições de capacidade. Uma alça muda como um peso pode ser carregado. Uma tampa cria um dentro e um fora. Uma fechadura transforma armazenamento em exclusão. Uma roda muda quanto o corpo consegue transportar. Um botão desloca comando para a mão. A matéria passa a organizar comportamento.
 
 ## O objeto começou muito antes da profissão
 
@@ -57,7 +57,7 @@ Mas reduzir esforço numa dimensão pode criar dependência em outra. A mochila 
 
 Esse é também o ponto em que produto encontra [[00 tipos de design/Design de Servicos|design de serviços]]. Um carrinho só faz sentido dentro de uma ecologia de compra; um crachá dentro de uma infraestrutura de acesso; uma câmera dentro de práticas de registro e circulação. Às vezes, projetar o objeto significa projetar uma peça de um sistema maior.
 
-## Leituras no vault
+## Leituras no Arqueologia do Design
 
 Para observar a relação entre corpo, capacidade e deslocamento de contexto, leia [[03 artefatos/Mochila|Mochila]], [[03 artefatos/Garrafa de Agua|Garrafa de água]], [[03 artefatos/Vaso de Plantas|Vaso de plantas]], [[03 artefatos/Controle Remoto|Controle remoto]] e [[03 artefatos/Carrinho de Compras|Carrinho de compras]]. Para armazenamento e fronteira, [[03 artefatos/Baú|Baú]], [[03 artefatos/Cofre|Cofre]], [[03 artefatos/Guarda-roupa|Guarda-roupa]], [[03 artefatos/Bolso|Bolso]], [[03 artefatos/Carteira|Carteira]] e [[03 artefatos/Crachá|Crachá]] formam um conjunto particularmente fértil.
 

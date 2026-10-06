@@ -10,7 +10,7 @@ tags:
 
 # Limor Shifman
 
-Limor Shifman é uma referência central para este vault porque oferece uma definição de meme digital adequada à comunicação contemporânea: em vez de procurar uma unidade cultural abstrata isolada, propõe observar grupos de itens produzidos em relação uns aos outros e reconhecer dimensões de conteúdo, forma e posicionamento comunicativo.[^1]
+Limor Shifman é uma referência central para o Arqueologia do Design porque oferece uma definição de meme digital adequada à comunicação contemporânea: em vez de procurar uma unidade cultural abstrata isolada, propõe observar grupos de itens produzidos em relação uns aos outros e reconhecer dimensões de conteúdo, forma e posicionamento comunicativo.[^1]
 
 ## Papel no projeto
 
@@ -28,7 +28,7 @@ Seu trabalho também ajuda a separar viralidade de memeticidade. Compartilhar a 
 
 - “Memes in a Digital World: Reconciling with a Conceptual Troublemaker” (2013): artigo que formula uma definição comunicacional de memes digitais.
 - *Memes in Digital Culture* (2013): síntese ampla sobre memes, cultura participativa e comunicação digital.
-- [[03 artefatos/Meme|Meme]]: principal estudo relacionado no vault.
+- [[03 artefatos/Meme|Meme]]: principal estudo relacionado no Arqueologia do Design.
 
 ## Cuidado histórico
 

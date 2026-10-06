@@ -6,7 +6,7 @@ status: "ativo"
 
 # Arqueologia do Design
 
-Este vault investiga como decisões de design reorganizam comportamento humano. O ponto de partida é um artefato concreto; autores, empresas e tecnologias entram como contexto para reconstruir a trajetória da ideia.
+O projeto Arqueologia do Design investiga como decisões de design reorganizam comportamento humano. O ponto de partida é um artefato concreto; autores, empresas e tecnologias entram como contexto para reconstruir a trajetória da ideia.
 
 A hipótese central do projeto é simples: toda interface, produto ou sistema contém uma hipótese sobre como as pessoas percebem, decidem, lembram, cooperam, esperam e agem.
 

@@ -13,7 +13,7 @@ tags:
 
 Duas interfaces podem exigir a mesma quantidade total de atenção e ainda assim produzir relações muito diferentes com ela. Em uma, a pessoa decide quando procurar a informação, consegue manter o foco escolhido e pode interromper a interação quando quiser. Na outra, o sistema define repetidamente o momento da convocação, torna difícil ignorá-la ou remove pontos em que seria necessário escolher continuar.
 
-**Autonomia da atenção** é usada neste projeto como uma lente para investigar quanto autogoverno uma pessoa conserva sobre a orientação, manutenção e mudança do próprio foco. A formulação do vault é uma adaptação de debates já existentes sobre autonomia, agência, liberdade da atenção, interrupção e economia da atenção. Ela não deve ser tratada como sinônimo de “poucas notificações” nem como uma escala simples de controle de interface.
+**Autonomia da atenção** é usada neste projeto como uma lente para investigar quanto autogoverno uma pessoa conserva sobre a orientação, manutenção e mudança do próprio foco. A formulação do Arqueologia do Design é uma adaptação de debates já existentes sobre autonomia, agência, liberdade da atenção, interrupção e economia da atenção. Ela não deve ser tratada como sinônimo de “poucas notificações” nem como uma escala simples de controle de interface.
 
 A referência conceitual mais direta é Kaisa Kärki. Em *Autonomy of Attention* (2022), ela distingue **agência da atenção**, **autonomia da atenção** e **liberdade da atenção**.[^1] Essa distinção corrige uma imprecisão da versão anterior desta nota, que reunia as três coisas sob o mesmo nome.
 
@@ -114,7 +114,7 @@ Isso não permite classificar automaticamente uma interface como ética ou manip
 | **Conceitos relacionados** | [[01 conceitos/Autodeterminação|Autodeterminação]], [[01 conceitos/Economia da Atencao|Economia da atenção]] |
 | **Variáveis relacionadas** | [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Atrito Decisorio|Atrito decisório]] |
 | **Genealogias relacionadas** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] |
-| **Cuidado conceitual** | A definição operacional do vault é mais ampla que a definição filosófica específica de Kärki; referências empíricas sobre interrupção demonstram custos, não demonstram por si mesmas perda de autonomia |
+| **Cuidado conceitual** | A definição operacional do Arqueologia do Design é mais ampla que a definição filosófica específica de Kärki; referências empíricas sobre interrupção demonstram custos, não demonstram por si mesmas perda de autonomia |
 
 ## Referências
 

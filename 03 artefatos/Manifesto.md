@@ -39,7 +39,7 @@ Essa compressão é uma força de design. Também é um risco.
 
 Movimentos reais possuem divergências, gradações e contradições. O manifesto precisa simplificar o bastante para circular. Ao fazer isso, pode transformar diferenças de ênfase em fronteiras rígidas de identidade.
 
-A antiga nota do vault dizia que o manifesto “enfraquece a necessidade de negociações incrementais”. Eu manteria a intuição com outra formulação: **o manifesto tenta antecipar uma direção comum antes que todos os detalhes tenham sido negociados**. Isso pode acelerar mobilização, mas não elimina o conflito que reaparece quando os princípios encontram situações concretas.
+A antiga nota do Arqueologia do Design dizia que o manifesto “enfraquece a necessidade de negociações incrementais”. Eu manteria a intuição com outra formulação: **o manifesto tenta antecipar uma direção comum antes que todos os detalhes tenham sido negociados**. Isso pode acelerar mobilização, mas não elimina o conflito que reaparece quando os princípios encontram situações concretas.
 
 ## Mudar significado antes de mudar processo
 

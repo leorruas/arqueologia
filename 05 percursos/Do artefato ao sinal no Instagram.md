@@ -11,7 +11,7 @@ tags:
 
 O [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]] cria uma situação incomum para o design: uma decisão gráfica, narrativa ou interativa pode alterar comportamento humano; esse comportamento pode virar sinal; o sinal pode participar do ranking; e o ranking pode redistribuir a própria decisão de design para novas pessoas.
 
-Este percurso investiga essa cadeia sem transformar correlação em receita. A pergunta é: **quais artefatos já estudados no vault possuem mecanismos que podem plausivelmente alterar sinais que o Instagram mede?**
+Este percurso investiga essa cadeia sem transformar correlação em receita. A pergunta é: **quais artefatos já estudados no Arqueologia do Design possuem mecanismos que podem plausivelmente alterar sinais que o Instagram mede?**
 
 A sequência de análise será:
 
@@ -53,7 +53,7 @@ O [[03 artefatos/Sua vez Add Yours|Sua vez (Add Yours)]] desloca a lógica de pe
 
 Isso cria uma rota para propagação diferente do simples compartilhar. O artefato reduz o custo de produzir uma versão própria e faz a regra circular junto com cada resposta. O Instagram expandiu o Add Yours de Stories para Reels e depois para templates customizáveis e música, sinal de que o princípio foi refinado como infraestrutura nativa de participação.[^4]
 
-A ligação com performance é, portanto, mais segura para **participação e produção derivada** do que para alcance bruto. Um prompt que gera muitas respostas pode criar múltiplos pontos de exposição, mas o vault ainda não possui evidência suficiente para afirmar que Add Yours, por si só, aumenta ranking ou alcance do post original.
+A ligação com performance é, portanto, mais segura para **participação e produção derivada** do que para alcance bruto. Um prompt que gera muitas respostas pode criar múltiplos pontos de exposição, mas o projeto Arqueologia do Design ainda não possui evidência suficiente para afirmar que Add Yours, por si só, aumenta ranking ou alcance do post original.
 
 O grau de evidência é **forte para redução do custo de participação e fraco para ganho direto de alcance**.
 
@@ -70,7 +70,7 @@ O padrão que começa a aparecer é que “performance” não é uma propriedad
 
 Isso muda a pergunta prática. Em vez de procurar “o formato que o algoritmo gosta”, podemos perguntar **qual comportamento queremos tornar mais provável e que artefato historicamente aprendeu a reduzir o custo desse comportamento**.
 
-Os próximos candidatos do vault são [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Grid|Grid]], [[03 artefatos/Espaço entre Palavras|Espaço entre palavras]], [[03 artefatos/Pergunta|Pergunta]], [[03 artefatos/Mascote|Mascote]] e [[03 artefatos/Fotografia|Fotografia]]. Eles entram numa segunda rodada porque suas ligações com sinais de ranking parecem mais indiretas e precisam de evidência específica antes de serem promovidas no mapa.
+Os próximos candidatos do Arqueologia do Design são [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Grid|Grid]], [[03 artefatos/Espaço entre Palavras|Espaço entre palavras]], [[03 artefatos/Pergunta|Pergunta]], [[03 artefatos/Mascote|Mascote]] e [[03 artefatos/Fotografia|Fotografia]]. Eles entram numa segunda rodada porque suas ligações com sinais de ranking parecem mais indiretas e precisam de evidência específica antes de serem promovidas no mapa.
 
 ## Referências
 

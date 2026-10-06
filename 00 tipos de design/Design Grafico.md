@@ -11,7 +11,7 @@ tags:
 
 Antes de existir uma profissão chamada design gráfico, pessoas já precisavam resolver um problema recorrente: **como fazer uma mensagem agir quando quem a produz não está presente para explicá-la?** Uma inscrição, uma página, um cartaz, um selo ou uma placa precisam selecionar sinais, ordenar leitura e produzir alguma forma de confiança sem depender de conversa direta.
 
-É por isso que, neste vault, design gráfico interessa menos como “produção de peças visuais” e mais como uma tecnologia de **diagramação da atenção e da interpretação**. Toda composição formula silenciosamente uma hipótese: se determinadas relações entre escala, posição, contraste, repetição, imagem e palavra forem percebidas de certo modo, alguém conseguirá distinguir o principal do secundário, reconhecer uma identidade, entender uma instrução ou desejar continuar olhando.
+É por isso que, no Arqueologia do Design, design gráfico interessa menos como “produção de peças visuais” e mais como uma tecnologia de **diagramação da atenção e da interpretação**. Toda composição formula silenciosamente uma hipótese: se determinadas relações entre escala, posição, contraste, repetição, imagem e palavra forem percebidas de certo modo, alguém conseguirá distinguir o principal do secundário, reconhecer uma identidade, entender uma instrução ou desejar continuar olhando.
 
 ## A mensagem precisou aprender a sobreviver ao emissor
 
@@ -57,7 +57,7 @@ O [[03 artefatos/Diário|Diário]] organiza experiência em sequência legível.
 
 Essa é também a ponte com [[01 conceitos/Redução de Inferências|redução de inferências]]: quando o design gráfico funciona, parte da estrutura que o observador teria de reconstruir mentalmente passa a existir na própria superfície. Mas essa redução nunca é inocente, porque aquilo que fica claro foi escolhido em detrimento de outras possibilidades.
 
-## Leituras no vault
+## Leituras no Arqueologia do Design
 
 Para observar o campo por seus mecanismos, comece por [[03 artefatos/Pôster|Pôster]] e [[03 artefatos/Grid|Grid]]. O [[03 artefatos/Apelido político|apelido político]] mostra como uma interpretação pode ser comprimida em identificador e atravessar diferentes superfícies de circulação. O [[03 artefatos/Meme|Meme]] mostra como uma estrutura gráfica pode se tornar matéria-prima para produção distribuída e remix. Depois, [[03 artefatos/Mascote|Mascote]] mostra como identidade pode ganhar corpo; [[03 artefatos/QR Code|QR Code]], como uma forma gráfica pode virar comando; e [[05 percursos/Da Parede ao Feed|Da parede ao feed]] e [[05 percursos/Da Parede ao Interlocutor|Da parede ao interlocutor]] mostram como problemas clássicos de superfície, atenção e autoridade reaparecem em sistemas digitais.
 

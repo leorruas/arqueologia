@@ -9,7 +9,7 @@ tags:
 
 # {{title}}
 
-[Abra explicando por que esta organização importa para uma ideia do vault. Evite transformar a nota em perfil corporativo geral. O foco deve ser o papel da organização na invenção, refinamento, popularização, padronização, circulação ou institucionalização de uma decisão de design.]
+[Abra explicando por que esta organização importa para uma ideia do Arqueologia do Design. Evite transformar a nota em perfil corporativo geral. O foco deve ser o papel da organização na invenção, refinamento, popularização, padronização, circulação ou institucionalização de uma decisão de design.]
 
 ## Papel histórico
 

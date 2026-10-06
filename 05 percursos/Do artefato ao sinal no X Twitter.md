@@ -70,11 +70,11 @@ O grau de evidência é **forte para circulação de conteúdo político intergr
 | [[03 artefatos/Meme|Meme]] | combina reconhecimento com remix e recontextualização | repostar, quote-postar, adaptar | repost, quote-post, reply | forte para compatibilidade com affordances de circulação; performance depende do repertório |
 | [[03 artefatos/Clip político|Clip político]] | comprime sequência extensa numa unidade curta e enquadrada | redistribuir, contestar, comentar | repost, quote-post, reply, video view | forte em comunicação política intergrupal; não generalizável a qualquer tema |
 
-O padrão inicial é diferente do observado no Instagram. Lá, retenção e continuidade ocupavam posição central. No X, os artefatos mais fortes do vault atuam sobre **participação conversacional, redistribuição e recontextualização pública**.
+O padrão inicial é diferente do observado no Instagram. Lá, retenção e continuidade ocupavam posição central. No X, os artefatos mais fortes do Arqueologia do Design atuam sobre **participação conversacional, redistribuição e recontextualização pública**.
 
 Por isso, a pergunta prática muda. Antes de desenhar um post, é mais útil decidir qual comportamento se busca: resposta, redistribuição, comentário sobre a redistribuição, atenção visual ou aprofundamento da conversa. Um mesmo conteúdo dificilmente maximiza todas essas ações ao mesmo tempo.
 
-## O que ainda falta no vault
+## O que ainda falta no Arqueologia do Design
 
 O próprio mapa revela lacunas. Quatro artefatos nativos do Twitter/X aparecem repetidamente na literatura e na arquitetura atual, mas ainda não possuem estudo próprio: **hashtag**, **thread**, **quote-post** e **poll**.
 

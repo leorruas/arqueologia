@@ -53,7 +53,7 @@ Mas essa humildade também pode virar desculpa.
 
 ## Complexidade pode se transformar em álibi
 
-A antiga nota do vault já apontava um risco importante: chamar um problema de wicked pode produzir paralisia.
+A antiga nota do Arqueologia do Design já apontava um risco importante: chamar um problema de wicked pode produzir paralisia.
 
 Se tudo é interdependente, se nenhuma solução é definitiva e se cada intervenção gera novos problemas, uma organização pode usar a complexidade para justificar inação. “É um wicked problem” passa de diagnóstico para álibi.
 

@@ -9,7 +9,7 @@ tags:
 
 # {{title}}
 
-[Abra explicando por que esta pessoa importa para uma ideia já investigada no vault. Evite biografia geral quando ela não ajuda a compreender invenção, refinamento, popularização, padronização ou formulação teórica.]
+[Abra explicando por que esta pessoa importa para uma ideia já investigada no Arqueologia do Design. Evite biografia geral quando ela não ajuda a compreender invenção, refinamento, popularização, padronização ou formulação teórica.]
 
 ## Papel no projeto
 

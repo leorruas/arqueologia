@@ -21,7 +21,7 @@ A **Matriz RACI** transforma essa rede de expectativas numa superfície visível
 
 A origem exata da RACI é difícil de estabelecer. Não há um inventor confiavelmente documentado nem um momento único de criação do acrônimo. A ferramenta pertence a uma linhagem mais ampla de *responsibility charting* e *responsibility assignment matrices* desenvolvida na gestão e engenharia de projetos ao longo do século XX.[^1]
 
-Por isso, a antiga datação do vault em “décadas de 1950 e 1960” deve ser tratada como contexto de desenvolvimento de matrizes de responsabilidade, e não como nascimento comprovado da RACI tal como é usada hoje.
+Por isso, a antiga datação do Arqueologia do Design em “décadas de 1950 e 1960” deve ser tratada como contexto de desenvolvimento de matrizes de responsabilidade, e não como nascimento comprovado da RACI tal como é usada hoje.
 
 A geometria do artefato é anterior à sigla: atividades em um eixo, atores no outro, códigos nas células. Essa forma permite visualizar algo que um organograma sozinho não resolve.
 
@@ -67,7 +67,7 @@ Quanto mais detalhada a matriz, maior também o risco de burocratização. Equip
 
 O artefato funciona melhor quando a ambiguidade de papéis é um custo real. Em trabalhos altamente fluidos, atualizar uma tabela para cada mudança pode produzir uma representação que envelhece mais rápido do que o sistema que tenta descrever.
 
-A hipótese do vault de que RACI “enfraquece quem se esquiva de responsabilidades” também merece refinamento. A ferramenta pode tornar evasão mais difícil, mas não resolve sozinha incentivos, capacidade ou conflitos. Uma pessoa marcada como Responsible pode continuar sem autoridade, tempo ou recursos para executar.
+A hipótese do Arqueologia do Design de que RACI “enfraquece quem se esquiva de responsabilidades” também merece refinamento. A ferramenta pode tornar evasão mais difícil, mas não resolve sozinha incentivos, capacidade ou conflitos. Uma pessoa marcada como Responsible pode continuar sem autoridade, tempo ou recursos para executar.
 
 Claridade sobre responsabilidade não cria automaticamente condições para cumpri-la.
 

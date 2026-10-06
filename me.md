@@ -19,7 +19,7 @@ leitura: "mandatória: ler antes de qualquer operação no vault"
 - Língua nativa: português do Brasil.
 - Background híbrido: design, filosofia e dados.
 - Trabalho melhor com contexto denso e continuidade entre estudos.
-- Este vault é focado na Arqueologia do Design: investigar ideias de design a partir de artefatos concretos.
+- O projeto Arqueologia do Design investiga ideias de design a partir de artefatos concretos.
 
 ## Como trabalho com IA neste vault
 

@@ -10,7 +10,7 @@ tags:
 
 # Susan Sontag
 
-Susan Sontag importa para este vault por ter tratado a fotografia como prática cultural capaz de reorganizar experiência, autoridade, nostalgia, memória e relação com o real. Sua contribuição é teórica e crítica: interessa menos como uma definição da essência do meio e mais como investigação das consequências sociais de viver num mundo saturado de imagens.
+Susan Sontag importa para o Arqueologia do Design por ter tratado a fotografia como prática cultural capaz de reorganizar experiência, autoridade, nostalgia, memória e relação com o real. Sua contribuição é teórica e crítica: interessa menos como uma definição da essência do meio e mais como investigação das consequências sociais de viver num mundo saturado de imagens.
 
 ## Papel no projeto
 
@@ -32,7 +32,7 @@ Seu trabalho também ajuda a investigar a ambiguidade entre testemunho e consumo
 
 ## Cuidado histórico
 
-As formulações de Sontag são ensaísticas e críticas, não uma teoria experimental universal sobre efeitos de imagens. O vault usa suas perguntas para investigar mecanismos e tensões culturais; afirmações causais específicas sobre memória, emoção ou comportamento precisam de literatura empírica própria.
+As formulações de Sontag são ensaísticas e críticas, não uma teoria experimental universal sobre efeitos de imagens. O projeto Arqueologia do Design usa suas perguntas para investigar mecanismos e tensões culturais; afirmações causais específicas sobre memória, emoção ou comportamento precisam de literatura empírica própria.
 
 
 ## Referências

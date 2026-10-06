@@ -15,7 +15,7 @@ Um assunto pode ser muito popular sem estar emergindo. Outro pode ainda ter pouc
 
 A literatura de detecção de eventos oferece um antecedente importante. Kleinberg modelou *bursts* como aumentos abruptos de frequência em fluxos de documentos, justamente para distinguir atividade comum de períodos em que certos termos passam a ocorrer com intensidade excepcional.[^1] Estudos posteriores de social media analisaram tendências como fenômenos de formação, persistência e decaimento, mostrando que elas não se resumem a contagem acumulada.[^2]
 
-Neste vault, tendência é tratada como **conceito composto**, porque depende da combinação de várias variáveis temporais e sociais.
+No Arqueologia do Design, tendência é tratada como **conceito composto**, porque depende da combinação de várias variáveis temporais e sociais.
 
 ## Quatro perguntas diferentes
 

@@ -93,7 +93,7 @@ Isso muda o regime de evidência. Em ideação, o grupo produz futuros possívei
 
 Os materiais podem ser idênticos e a sala pode parecer a mesma. O verbo muda tudo.
 
-Essa comparação reforça uma ideia importante para o vault: artefatos processuais não são definidos apenas por suas ferramentas visíveis. Duas sessões com Post-its e quadro branco podem pertencer a famílias diferentes porque organizam relações diferentes entre experiência, poder e decisão.
+Essa comparação reforça uma ideia importante para o Arqueologia do Design: artefatos processuais não são definidos apenas por suas ferramentas visíveis. Duas sessões com Post-its e quadro branco podem pertencer a famílias diferentes porque organizam relações diferentes entre experiência, poder e decisão.
 
 ## Aprender antes que o fracasso termine
 

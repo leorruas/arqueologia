@@ -6,11 +6,11 @@ status: "ativo"
 
 # Livros indicados
 
-Este índice reúne todos os livros recomendados, citados e referenciados como fontes bibliográficas essenciais nos estudos de arqueologia do design em todo o vault.
+Este índice reúne todos os livros recomendados, citados e referenciados como fontes bibliográficas essenciais nos estudos do Arqueologia do Design.
 
 ## Leituras e livros catalogados
 
-| Título do Livro                                          | Autor                                           | Ano  | Referências no Vault                                                                                                                                     |
+| Título do Livro                                          | Autor                                           | Ano  | Referências no Arqueologia do Design                                                                                                                                     |
 | :------------------------------------------------------- | :---------------------------------------------- | :--- | :------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | *Designing the User Interface*                           | [[autores/Ben Shneiderman\|Ben Shneiderman]]   | 1986 | [[autores/Ben Shneiderman\|Ben Shneiderman]], [[03 artefatos/Atalhos de Teclado\|Atalhos de Teclado]]                                                    |
 | *Camera Lucida*                                         | [[autores/Roland Barthes\|Roland Barthes]]     | 1980 | [[autores/Roland Barthes\|Roland Barthes]], [[03 artefatos/Fotografia\|Fotografia]]                                                                  |

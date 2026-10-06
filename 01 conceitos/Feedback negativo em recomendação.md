@@ -27,7 +27,7 @@ Wang e colegas tratam feedback negativo como instrumento importante de controle 
 
 O Instagram oferece controles explícitos de preferência. A Meta afirma que marcar uma recomendação como “Não tenho interesse” remove o post e reduz a sugestão de conteúdos semelhantes no futuro; também oferece palavras ocultas, revisão de contas seguidas e redefinição das recomendações.[^3][^4]
 
-A documentação pública mais recente dos system cards do Instagram também foi reportada como incluindo previsões de abandono, como a probabilidade de pular um post no Feed. Como o conteúdo desses cartões é carregado dinamicamente e não ficou disponível diretamente nesta pesquisa, o vault trata esse ponto de 2026 como confirmação secundária, não como evidência primária independente.[^5]
+A documentação pública mais recente dos system cards do Instagram também foi reportada como incluindo previsões de abandono, como a probabilidade de pular um post no Feed. Como o conteúdo desses cartões é carregado dinamicamente e não ficou disponível diretamente nesta pesquisa, o projeto Arqueologia do Design trata esse ponto de 2026 como confirmação secundária, não como evidência primária independente.[^5]
 
 No [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], [[03 artefatos/Feed algoritmico do X Twitter|Feed algorítmico do X/Twitter]], feedback negativo completa o circuito de personalização: o sistema não aprende apenas com aproximação, mas também com afastamento. Isso torna visível uma assimetria importante. Curtir e compartilhar são escolhas explícitas; simplesmente passar adiante pode virar inferência sobre rejeição mesmo sem intenção deliberada de ensinar o sistema.
 

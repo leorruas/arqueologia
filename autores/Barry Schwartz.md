@@ -12,7 +12,7 @@ Barry Schwartz é um psicólogo americano conhecido sobretudo por popularizar a 
 
 ## Papel no projeto
 
-Schwartz popularizou a expressão e o argumento do [[01 conceitos/Paradoxo da Escolha|Paradoxo da escolha]] em *The Paradox of Choice*, de 2004. A ideia dialoga com pesquisas anteriores e posteriores sobre *choice overload*. O vault trata essa literatura como debatida: estudos encontram efeitos em algumas condições, enquanto meta-análises mostram grande heterogeneidade e não sustentam a regra simples de que mais opções sempre pioram decisões.
+Schwartz popularizou a expressão e o argumento do [[01 conceitos/Paradoxo da Escolha|Paradoxo da escolha]] em *The Paradox of Choice*, de 2004. A ideia dialoga com pesquisas anteriores e posteriores sobre *choice overload*. O projeto projeto Arqueologia do Design trata essa literatura como debatida: estudos encontram efeitos em algumas condições, enquanto meta-análises mostram grande heterogeneidade e não sustentam a regra simples de que mais opções sempre pioram decisões.
 
 Por isso, Schwartz não deve ser usado aqui como prova de que abundância causa necessariamente paralisia ou infelicidade. Sua contribuição é mais útil como formulação cultural influente que tornou visível a diferença entre quantidade formal de alternativas e capacidade prática de escolher entre elas.
 
@@ -32,4 +32,4 @@ A discussão se conecta especialmente a [[02 variaveis/Atrito Decisorio|Atrito d
 
 ## Cuidado histórico
 
-O papel de Schwartz é de síntese e popularização de uma formulação, não de demonstração definitiva de um efeito psicológico universal. O próprio estudo do conceito no vault deve prevalecer sobre versões resumidas deste perfil quando novas evidências alterarem o grau de certeza da interpretação.
+O papel de Schwartz é de síntese e popularização de uma formulação, não de demonstração definitiva de um efeito psicológico universal. O próprio estudo do conceito no Arqueologia do Design deve prevalecer sobre versões resumidas deste perfil quando novas evidências alterarem o grau de certeza da interpretação.

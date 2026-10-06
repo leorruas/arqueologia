@@ -25,7 +25,7 @@ Políticas públicas frequentemente chegam às pessoas como experiência, não c
 
 Quando a infraestrutura funciona de modo estável, sua origem pode desaparecer da experiência cotidiana. A pessoa usa o resultado sem precisar reconstruir continuamente quem decidiu, financiou, implementou, ampliou, restringiu ou encerrou aquilo.
 
-Esse desaparecimento tem parentesco funcional com outros artefatos estudados no vault. O [[03 artefatos/Grid|grid]] pode organizar uma página sem permanecer visível como objeto; uma interface pode esconder infraestrutura para tornar uma ação operável. Na política, uma decisão coletiva pode tornar-se tão incorporada ao cotidiano que seu caráter político deixa de ser percebido.
+Esse desaparecimento tem parentesco funcional com outros artefatos estudados no Arqueologia do Design. O [[03 artefatos/Grid|grid]] pode organizar uma página sem permanecer visível como objeto; uma interface pode esconder infraestrutura para tornar uma ação operável. Na política, uma decisão coletiva pode tornar-se tão incorporada ao cotidiano que seu caráter político deixa de ser percebido.
 
 A variável tenta capturar justamente esse deslocamento.
 
@@ -71,7 +71,7 @@ O [[01 conceitos/Design do Voto|Design do voto]] usa essa variável para diferen
 
 A [[03 artefatos/Biografia política|Biografia política]] é um caso especialmente claro: começar por acontecimentos concretos da vida e só depois reconstruir mediação, autoria, verificação, consequências, valores e critérios eleitorais.
 
-Imagens podem funcionar como porta de entrada para esse percurso. A monografia *O refluir do tempo nas imagens de Claudia Andujar* articula [[autores/Henri Bergson|Henri Bergson]] e Maurício Lissovsky para pensar a fotografia como duração e para mostrar como lembrança e percepção podem se contrair em direção ao presente.[^1] A hipótese do vault é que certas imagens aumentem a legibilidade da mediação política ao **convocar experiências autobiográficas antes de pedir uma atribuição institucional**. Uma fotografia pode fazer alguém recordar uma universidade, um trabalho, uma perda, uma viagem ou uma relação; a gramática de biografia política entraria depois para investigar que decisões coletivas participaram daquela experiência.
+Imagens podem funcionar como porta de entrada para esse percurso. A monografia *O refluir do tempo nas imagens de Claudia Andujar* articula [[autores/Henri Bergson|Henri Bergson]] e Maurício Lissovsky para pensar a fotografia como duração e para mostrar como lembrança e percepção podem se contrair em direção ao presente.[^1] A hipótese do Arqueologia do Design é que certas imagens aumentem a legibilidade da mediação política ao **convocar experiências autobiográficas antes de pedir uma atribuição institucional**. Uma fotografia pode fazer alguém recordar uma universidade, um trabalho, uma perda, uma viagem ou uma relação; a gramática de biografia política entraria depois para investigar que decisões coletivas participaram daquela experiência.
 
 Essa passagem precisa permanecer separada de precisão histórica. Uma imagem pode tornar uma lembrança intensamente disponível e, ao mesmo tempo, favorecer uma atribuição causal errada. A convocação da memória aumenta material para investigação; a etapa de verificação continua necessária para que a mediação se torne legível sem virar apenas uma narrativa coerente com a identidade política existente.
 

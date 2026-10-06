@@ -25,13 +25,13 @@ tags:
 
 ## [Título sobre a hipótese de design recorrente]
 
-[Investigue o que a área tende a pressupor sobre comportamento, percepção, corpo, linguagem, coordenação ou decisão. Use artefatos do vault como evidência concreta. Compare artefatos de épocas diferentes quando isso revelar um mecanismo recorrente.]
+[Investigue o que a área tende a pressupor sobre comportamento, percepção, corpo, linguagem, coordenação ou decisão. Use artefatos do Arqueologia do Design como evidência concreta. Compare artefatos de épocas diferentes quando isso revelar um mecanismo recorrente.]
 
 ## [Título sobre fronteiras e tensões]
 
 [Mostre onde o campo se mistura com outros tipos de design e por que sua fronteira é historicamente construída, não natural. Inclua consequências, limites, relações de poder ou tensões contemporâneas quando forem relevantes.]
 
-## Leituras no vault
+## Leituras no Arqueologia do Design
 
 [Encerre com poucas rotas de leitura curadas — artefatos, conceitos, genealogias e percursos que realmente ajudam a enxergar o campo. Não tente duplicar o Índice de artefatos nem listar todos os profissionais e organizações associados.]
 

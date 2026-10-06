@@ -21,7 +21,7 @@ Para a Arqueologia do Design, essa posição funciona como disciplina histórica
 
 Uma genealogia inspirada por Foucault procura emergência, contingência, disputa e descontinuidade. Isso muda a forma de contar a história de um artefato: a pergunta deixa de buscar uma linha contínua que liga uma origem ao presente e passa a investigar por que, entre várias possibilidades, determinada configuração conseguiu existir, circular, vencer concorrentes e finalmente parecer normal.
 
-Essa perspectiva também torna a naturalização um problema de design. Quando uma convenção deixa de parecer uma escolha, ela passa a organizar comportamento sem precisar ser constantemente justificada. A camada de **poder** do método do vault se beneficia dessa leitura: interessa observar quem ganha capacidade de agir, quem passa a ser classificado, observado ou restringido e quais relações são incorporadas à infraestrutura.
+Essa perspectiva também torna a naturalização um problema de design. Quando uma convenção deixa de parecer uma escolha, ela passa a organizar comportamento sem precisar ser constantemente justificada. A camada de **poder** do método do Arqueologia do Design se beneficia dessa leitura: interessa observar quem ganha capacidade de agir, quem passa a ser classificado, observado ou restringido e quais relações são incorporadas à infraestrutura.
 
 Em *Vigiar e Punir* (1975), Foucault mostra como disciplina, vigilância, distribuição espacial e organização temporal podem operar juntas na produção de comportamentos.[^2] Para este projeto, o valor está em perceber que objetos, espaços e procedimentos podem participar de relações de poder sem que isso os transforme automaticamente em “artefatos foucaultianos”. A conexão é interpretativa e precisa ser demonstrada caso a caso.
 
@@ -29,7 +29,7 @@ Em *Vigiar e Punir* (1975), Foucault mostra como disciplina, vigilância, distri
 
 *Nietzsche, a genealogia e a história* (1971) é a referência metodológica central para a camada Genealogias. *A arqueologia do saber* (1969) ajuda a compreender a investigação de formações discursivas e descontinuidades. [[00 índices/Livros Indicados|*Vigiar e Punir*]] (1975) é particularmente útil quando uma investigação envolve disciplina, vigilância, normalização, classificação, espaço ou distribuição do tempo.
 
-No vault, Foucault funciona como referência para [[Instrucoes de Arqueologia#Genealogias|genealogias]] e para a análise das relações de poder nos artefatos. Seu método não transforma todo parentesco funcional ou semiótico em genealogia histórica: essas extensões pertencem à metodologia própria da Arqueologia do Design e devem permanecer identificadas como comparações.
+No Arqueologia do Design, Foucault funciona como referência para [[Instrucoes de Arqueologia#Genealogias|genealogias]] e para a análise das relações de poder nos artefatos. Seu método não transforma todo parentesco funcional ou semiótico em genealogia histórica: essas extensões pertencem à metodologia própria da Arqueologia do Design e devem permanecer identificadas como comparações.
 
 ## Cuidado histórico
 

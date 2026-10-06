@@ -10,7 +10,7 @@ tags:
 
 # Kaisa Kärki
 
-Kaisa Kärki importa para este vault porque oferece uma formulação filosófica explícita para um problema que a Arqueologia do Design já vinha tentando nomear: o que exatamente se perde quando um sistema interfere repetidamente naquilo a que conseguimos prestar atenção?
+Kaisa Kärki importa para o Arqueologia do Design porque oferece uma formulação filosófica explícita para um problema que a Arqueologia do Design já vinha tentando nomear: o que exatamente se perde quando um sistema interfere repetidamente naquilo a que conseguimos prestar atenção?
 
 Sua contribuição é especialmente relevante para [[01 conceitos/Autonomia da Atencao|Autonomia da atenção]]. Em vez de tratar distração apenas como desperdício de tempo ou excesso de estímulo, Kärki separa diferentes capacidades envolvidas em governar o próprio foco.
 
@@ -38,7 +38,7 @@ Em trabalhos posteriores com Visa Kurki, essa dimensão ambiental fica ainda mai
 - “Does a Person Have a Right to Attention? Depends on What She is Doing” (2023), com Visa Kurki: aproxima atenção, agência, tarefa e regulação do ambiente.
 - “The Right to Concentrate” (2026), com Visa Kurki: desenvolve a proteção normativa da concentração contra interferência não consentida.
 
-No vault, Kärki se conecta principalmente a [[01 conceitos/Autonomia da Atencao|Autonomia da atenção]], [[01 conceitos/Economia da Atencao|Economia da atenção]], [[01 conceitos/Autodeterminação|Autodeterminação]], [[02 variaveis/Atencao|Atenção]] e [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]].
+No Arqueologia do Design, Kärki se conecta principalmente a [[01 conceitos/Autonomia da Atencao|Autonomia da atenção]], [[01 conceitos/Economia da Atencao|Economia da atenção]], [[01 conceitos/Autodeterminação|Autodeterminação]], [[02 variaveis/Atencao|Atenção]] e [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]].
 
 ## Cuidado histórico
 

@@ -10,7 +10,7 @@ tags:
 
 # Henri Bergson
 
-Henri Bergson importa para este vault menos como “filósofo do tempo” em sentido genérico e mais como uma fonte de tensão para artefatos que recortam fluxo, externalizam memória ou reorganizam percepção. Sua contribuição ajuda a distinguir aquilo que uma infraestrutura consegue representar daquilo que é vivido como duração.
+Henri Bergson importa para o Arqueologia do Design menos como “filósofo do tempo” em sentido genérico e mais como uma fonte de tensão para artefatos que recortam fluxo, externalizam memória ou reorganizam percepção. Sua contribuição ajuda a distinguir aquilo que uma infraestrutura consegue representar daquilo que é vivido como duração.
 
 ## Papel no projeto
 
@@ -40,7 +40,7 @@ No projeto, Bergson se conecta especialmente a [[02 variaveis/Atencao|Atenção]
 
 ## Cuidado histórico
 
-O uso de Bergson neste vault é interpretativo. Não devemos atribuir a ele uma crítica antecipada a dashboards, métricas ou calendários digitais. A operação correta é inversa: observar que certos artefatos discretizam ou estabilizam fenômenos e usar Bergson para tornar visível a distância entre essa representação e a experiência vivida.
+O uso de Bergson no Arqueologia do Design é interpretativo. Não devemos atribuir a ele uma crítica antecipada a dashboards, métricas ou calendários digitais. A operação correta é inversa: observar que certos artefatos discretizam ou estabilizam fenômenos e usar Bergson para tornar visível a distância entre essa representação e a experiência vivida.
 
 Também não convém opor “duração verdadeira” a “medição falsa”. Bergson reconhece a validade prática e científica da espacialização e da mensuração. O problema para o projeto é compreender o preço e a potência da tradução.
 

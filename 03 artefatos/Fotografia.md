@@ -77,7 +77,7 @@ A temporalidade da fotografia não termina quando o arquivo é salvo ou o papel 
 
 Em Bergson, lembrança e percepção não são compartimentos totalmente separados. O passado pode se atualizar conforme uma situação presente o solicita. A monografia sobre Claudia Andujar usa essa dinâmica para pensar como o tempo reflui na imagem e como uma fotografia pode ser recebida por alguém cuja memória não é a mesma de quem a produziu.[^7]
 
-O vault amplia essa hipótese com um terceiro tempo. Há o tempo da situação fotografada; há a duração do ato fotográfico, com espera, aproximação, gesto e escolha; e há o **tempo do espectador**, que retorna à imagem depois e a encontra com outro repertório.
+O projeto Arqueologia do Design amplia essa hipótese com um terceiro tempo. Há o tempo da situação fotografada; há a duração do ato fotográfico, com espera, aproximação, gesto e escolha; e há o **tempo do espectador**, que retorna à imagem depois e a encontra com outro repertório.
 
 A sequência proposta fica:
 

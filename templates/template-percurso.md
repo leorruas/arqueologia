@@ -29,7 +29,7 @@ tags:
 
 ## O que aparece quando lemos em sequência
 
-[Feche com a hipótese produzida pelo percurso e indique poucas continuações úteis no vault. O final deve responder por que esta ordem de leitura vale a pena, não apenas recapitular os links usados.]
+[Feche com a hipótese produzida pelo percurso e indique poucas continuações úteis no Arqueologia do Design. O final deve responder por que esta ordem de leitura vale a pena, não apenas recapitular os links usados.]
 
 ## Referências
 

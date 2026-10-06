@@ -18,7 +18,7 @@ Ela não é sinônimo de beleza, simplicidade ou uniformidade. Uma composição 
 
 ## Previsibilidade nasce de repetição e relação
 
-O [[03 artefatos/Grid|Grid]] é o exemplo central do vault porque estabelece alinhamentos e proporções recorrentes. Quando diferentes páginas compartilham uma malha, o leitor não precisa reaprender completamente a estrutura a cada mudança de conteúdo.
+O [[03 artefatos/Grid|Grid]] é o exemplo central do Arqueologia do Design porque estabelece alinhamentos e proporções recorrentes. Quando diferentes páginas compartilham uma malha, o leitor não precisa reaprender completamente a estrutura a cada mudança de conteúdo.
 
 Essa previsibilidade também pode surgir de tipografia, espaçamento, posição de controles e consistência de componentes. [[01 conceitos/Design Systems|Design Systems]] ampliam essa lógica ao documentar regras reutilizáveis entre muitas telas e equipes.
 

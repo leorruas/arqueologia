@@ -6,7 +6,7 @@ status: "ativo"
 
 # Índice de autores
 
-Catálogo de designers, pesquisadores, teóricos e pioneiros da história do design catalogados no vault.
+Catálogo de designers, pesquisadores, teóricos e pioneiros da história do design catalogados no Arqueologia do Design.
 
 ## Designers e teóricos
 

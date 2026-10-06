@@ -10,7 +10,7 @@ tags:
 
 # Paul Ricoeur
 
-Paul Ricoeur importa para este vault porque oferece instrumentos para distinguir identidade, narrativa, promessa, responsabilidade, memória, testemunho e arquivo. Essas distinções ajudam a investigar artefatos que tentam responder perguntas aparentemente simples como “é a mesma pessoa?”, “quem fez isso?”, “o que aconteceu?” e “quem continuará responsável depois?”.
+Paul Ricoeur importa para o Arqueologia do Design porque oferece instrumentos para distinguir identidade, narrativa, promessa, responsabilidade, memória, testemunho e arquivo. Essas distinções ajudam a investigar artefatos que tentam responder perguntas aparentemente simples como “é a mesma pessoa?”, “quem fez isso?”, “o que aconteceu?” e “quem continuará responsável depois?”.
 
 ## Papel no projeto
 
@@ -18,7 +18,7 @@ Ricoeur não formulou uma teoria de design. Seu papel é teórico e comparativo.
 
 Em *Temps et récit*, Ricoeur desenvolve a ideia de identidade narrativa: a continuidade de uma vida não precisa depender de uma substância imutável; pode ser produzida pela forma como acontecimentos heterogêneos são configurados numa história inteligível.[^2]
 
-Em *La mémoire, l'histoire, l'oubli*, ele examina a relação entre memória, testemunho, documento, arquivo, representação histórica e esquecimento. Para o vault, isso oferece uma precaução decisiva: **preservar um vestígio não equivale a preservar o passado, e recuperar um registro não equivale a reconstruir automaticamente seu sentido**.[^3]
+Em *La mémoire, l'histoire, l'oubli*, ele examina a relação entre memória, testemunho, documento, arquivo, representação histórica e esquecimento. Para o Arqueologia do Design, isso oferece uma precaução decisiva: **preservar um vestígio não equivale a preservar o passado, e recuperar um registro não equivale a reconstruir automaticamente seu sentido**.[^3]
 
 ## O que sua contribuição muda
 

@@ -14,7 +14,7 @@ tags:
 
 É possível desgostar de alguém e ainda aceitar trabalhar com essa pessoa. Também é possível afirmar que um grupo “não incomoda” e, ao mesmo tempo, não querer seus membros como vizinhos, amigos próximos ou parte da família. Essa diferença torna a **distância social** uma variável útil: ela desloca a investigação do sentimento abstrato para os limites de proximidade que uma pessoa considera aceitáveis.
 
-Neste vault, distância social mede **quão próxima uma relação com membros de determinado grupo é considerada aceitável**. Seu eixo vai de maior aceitação de proximidade relacional a maior preferência por separação. A variável possui longa tradição na sociologia e na psicologia social; sua adoção pelo projeto permite comparar como artefatos, serviços e situações de interação tornam encontros mais aceitáveis, mais evitáveis ou mais difíceis de imaginar.
+No Arqueologia do Design, distância social mede **quão próxima uma relação com membros de determinado grupo é considerada aceitável**. Seu eixo vai de maior aceitação de proximidade relacional a maior preferência por separação. A variável possui longa tradição na sociologia e na psicologia social; sua adoção pelo projeto permite comparar como artefatos, serviços e situações de interação tornam encontros mais aceitáveis, mais evitáveis ou mais difíceis de imaginar.
 
 **Eixo:** proximidade relacional aceita ↔ distância relacional desejada.
 
@@ -54,7 +54,7 @@ A variável se torna especialmente poderosa quando aplicada a serviços e sistem
 
 A forma clássica é perguntar qual nível de proximidade o respondente aceitaria com membros de determinado grupo. Itens podem cobrir vínculos como colega de trabalho, vizinho, amigo próximo, parceiro amoroso ou membro da família por casamento. Também é possível medir cada relação separadamente, em vez de presumir uma ordem universal de intimidade.
 
-Essa segunda abordagem é importante porque a escala original de Bogardus pressupunha uma hierarquia cumulativa: alguém disposto a aceitar uma relação íntima seria também disposto a aceitar relações consideradas mais distantes. Pesquisas contemporâneas chamam atenção para limites culturais e psicométricos dessa suposição.[^2] Para o vault, a recomendação é tratar as relações concretas como sinais de distância e verificar empiricamente se formam um único eixo no contexto analisado.
+Essa segunda abordagem é importante porque a escala original de Bogardus pressupunha uma hierarquia cumulativa: alguém disposto a aceitar uma relação íntima seria também disposto a aceitar relações consideradas mais distantes. Pesquisas contemporâneas chamam atenção para limites culturais e psicométricos dessa suposição.[^2] Para o Arqueologia do Design, a recomendação é tratar as relações concretas como sinais de distância e verificar empiricamente se formam um único eixo no contexto analisado.
 
 Em pesquisa qualitativa, a variável aparece em formulações como “eu conversaria, mas não seria amigo”, “não teria problema como colega, mas não queria na minha família”, “posso discordar e conviver” ou “prefiro não ter contato”. Também pode ser observada na escolha efetiva de assentos, grupos, equipes, redes de amizade ou padrões de interação, desde que esses comportamentos não sejam interpretados automaticamente como resultado exclusivo de atitude política.
 

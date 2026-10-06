@@ -10,7 +10,7 @@ tags:
 
 # Philippe Dubois
 
-Philippe Dubois importa para este vault por deslocar a fotografia da ideia de imagem isolada para a ideia de **ato fotográfico**. Sua formulação permite investigar a fotografia como processo que envolve produção, gesto, técnica, circunstância e recepção.
+Philippe Dubois importa para o Arqueologia do Design por deslocar a fotografia da ideia de imagem isolada para a ideia de **ato fotográfico**. Sua formulação permite investigar a fotografia como processo que envolve produção, gesto, técnica, circunstância e recepção.
 
 ## Papel no projeto
 

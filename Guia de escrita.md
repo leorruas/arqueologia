@@ -105,7 +105,7 @@ Se uma fonte existente não sustentar a afirmação à qual parece associada, ma
 
 ## Distinções conceituais que não devem colapsar
 
-Alguns termos do vault são próximos o bastante para parecerem intercambiáveis, mas representam operações diferentes. Revisões futuras devem preservar essas diferenças quando elas forem materialmente relevantes ao argumento.
+Alguns termos do Arqueologia do Design são próximos o bastante para parecerem intercambiáveis, mas representam operações diferentes. Revisões futuras devem preservar essas diferenças quando elas forem materialmente relevantes ao argumento.
 
 **Persistência não é lembrança.** Um suporte pode conservar uma inscrição, um estado ou uma referência sem que aquilo volte a participar de uma ação presente de modo significativo. [[autores/Henri Bergson|Henri Bergson]] funciona como lente para lembrar que memória não deve ser reduzida a um estoque passivo. Em textos sobre arquivo, banco de dados, botão salvar, calendário e memória externa, explicitar se o artefato preserva um traço, facilita recuperação ou participa efetivamente de uma situação de lembrança.
 
@@ -143,7 +143,7 @@ Um tipo de design deve, quando relevante:
 - distinguir práticas antigas da posterior consolidação da disciplina;
 - explicar que hipótese recorrente sobre pessoas, materiais, informação ou organização o campo tende a operar;
 - mostrar fronteiras porosas com outros tipos de design, sem fingir territórios exclusivos;
-- usar artefatos do vault como evidência concreta de como a área pensa, e não como uma lista exaustiva de backlinks;
+- usar artefatos do Arqueologia do Design como evidência concreta de como a área pensa, e não como uma lista exaustiva de backlinks;
 - terminar abrindo rotas de leitura para conceitos, genealogias, percursos e um conjunto **curado** de artefatos representativos.
 
 A nota de tipo não substitui o `Índice de artefatos`. Se a única função de um bloco for listar todos os estudos classificados naquela área, o conteúdo pertence ao índice, não ao ensaio disciplinar.

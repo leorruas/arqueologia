@@ -28,7 +28,7 @@ Isso torna prototipicidade uma variável especialmente relevante para design. Um
 
 Verplanken, Jetten e van Knippenberg mostraram experimentalmente que **estereotipicidade do alvo** e **variabilidade percebida do grupo** alteram o uso de informação individuante na formação de impressões.[^2] Quando um grupo era percebido como homogêneo e o comportamento do alvo contrariava o estereótipo, participantes dedicavam mais processamento à informação individual. O achado é importante para esta variável porque mostra que prototipicidade e homogeneidade percebida interagem, mas não são a mesma coisa.
 
-A [[02 variaveis/Variabilidade|Variabilidade]] já existente no vault descreve quanto condições ou resultados mudam. “Variabilidade percebida do grupo”, da literatura social, é outra questão: refere-se a quanto um conjunto de pessoas é imaginado como homogêneo ou diverso. Prototipicidade percebida opera no nível do **caso em relação à categoria**: quanto este membro parece representar o grupo.
+A [[02 variaveis/Variabilidade|Variabilidade]] já existente no Arqueologia do Design descreve quanto condições ou resultados mudam. “Variabilidade percebida do grupo”, da literatura social, é outra questão: refere-se a quanto um conjunto de pessoas é imaginado como homogêneo ou diverso. Prototipicidade percebida opera no nível do **caso em relação à categoria**: quanto este membro parece representar o grupo.
 
 ## Um indivíduo pode virar evidência sobre milhões
 

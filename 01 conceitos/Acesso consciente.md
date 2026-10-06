@@ -13,7 +13,7 @@ tags:
 
 Um conteúdo pode estar diante dos olhos, produzir atividade perceptiva e até influenciar o comportamento sem se tornar claramente disponível para relato, decisão ou uso deliberado. Essa diferença importa para o design porque interfaces medem exposição, cliques, permanência e outros rastros com grande precisão, enquanto aquilo que efetivamente chegou à experiência consciente permanece muito menos observável.
 
-Neste vault, **acesso consciente** descreve a situação em que uma informação se torna suficientemente disponível para participar de processos como relato, raciocínio, decisão, memória de trabalho ou ação intencional. A formulação parte da tradição de *access consciousness* de Ned Block, que separou disponibilidade funcional de experiência fenomenal, e dialoga com modelos contemporâneos de processamento consciente.[^1] O conceito não resolve a disputa sobre o que é consciência nem afirma que acesso funcional e experiência subjetiva sejam a mesma coisa.
+No Arqueologia do Design, **acesso consciente** descreve a situação em que uma informação se torna suficientemente disponível para participar de processos como relato, raciocínio, decisão, memória de trabalho ou ação intencional. A formulação parte da tradição de *access consciousness* de Ned Block, que separou disponibilidade funcional de experiência fenomenal, e dialoga com modelos contemporâneos de processamento consciente.[^1] O conceito não resolve a disputa sobre o que é consciência nem afirma que acesso funcional e experiência subjetiva sejam a mesma coisa.
 
 Essa cautela é necessária porque atenção e consciência também não são equivalentes. Revisões de Christof Koch, Naotsugu Tsuchiya e outros mostram evidências de dissociações entre atenção seletiva e percepção consciente: estímulos não conscientes podem receber processamento atencional, e há debate sobre quanto de consciência pode ocorrer com pouca atenção top-down.[^2][^3] Para a Arqueologia do Design, a pergunta útil é mais operacional: **que condições aumentam ou reduzem a chance de algo que está disponível no ambiente tornar-se conteúdo conscientemente acessível?**
 
@@ -37,7 +37,7 @@ A fronteira fica ainda mais interessante quando um estímulo produz processament
 
 Esse tipo de resultado sustentou modelos como a **Global Neuronal Workspace**, segundo a qual uma representação torna-se conscientemente acessível quando é suficientemente amplificada e estabilizada para ser disponibilizada a diferentes sistemas cognitivos. Nesse modelo, força do estímulo, competição e amplificação atencional ajudam a determinar se uma representação permanece local e transitória ou alcança uma forma de acesso global.[^10]
 
-Essa teoria é influente, não um consenso encerrado. Existem disputas sobre quais mecanismos neurais são necessários para consciência, sobre o papel exato das regiões frontais e sobre a relação entre atenção e experiência fenomenal.[^2][^3] O vault usa a ideia de acesso consciente num sentido funcional e evita transformar a Global Neuronal Workspace em descrição definitiva da consciência.
+Essa teoria é influente, não um consenso encerrado. Existem disputas sobre quais mecanismos neurais são necessários para consciência, sobre o papel exato das regiões frontais e sobre a relação entre atenção e experiência fenomenal.[^2][^3] O projeto Arqueologia do Design usa a ideia de acesso consciente num sentido funcional e evita transformar a Global Neuronal Workspace em descrição definitiva da consciência.
 
 ## As condições de acesso são condições de competição
 

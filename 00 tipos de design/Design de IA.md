@@ -11,7 +11,7 @@ tags:
 
 Uma interface tradicional costuma prometer uma relação relativamente estável entre ação e resposta. O usuário clica, arrasta, seleciona ou preenche; o designer consegue antecipar boa parte dos estados que virão depois. Sistemas de inteligência artificial quebram parcialmente essa promessa. A mesma instrução pode produzir respostas diferentes, o sistema pode inferir intenções que não foram explicitadas e, em alguns casos, agir sobre outros sistemas.
 
-É nesse deslocamento que este vault usa **Design de IA** como lente disciplinar. Não se trata de afirmar que existe uma profissão universalmente estabilizada, com fronteiras consensuais, que nasceu junto com os LLMs. A interação humano-IA é estudada há décadas, e princípios para sistemas adaptativos, agentes, recomendadores, automação e interfaces inteligentes antecedem a atual onda generativa.[^1] O que muda recentemente é a escala em que interpretação probabilística, linguagem natural e delegação passam a ocupar o centro da experiência cotidiana.
+É nesse deslocamento que o projeto Arqueologia do Design usa **Design de IA** como lente disciplinar. Não se trata de afirmar que existe uma profissão universalmente estabilizada, com fronteiras consensuais, que nasceu junto com os LLMs. A interação humano-IA é estudada há décadas, e princípios para sistemas adaptativos, agentes, recomendadores, automação e interfaces inteligentes antecedem a atual onda generativa.[^1] O que muda recentemente é a escala em que interpretação probabilística, linguagem natural e delegação passam a ocupar o centro da experiência cotidiana.
 
 A pergunta deixa de ser apenas “como tornar a máquina utilizável?”. Passa a ser: **como projetar uma relação em que intenção, resposta, confiança e responsabilidade permanecem parcialmente abertas durante o uso?**
 
@@ -75,11 +75,11 @@ Também aproxima o campo de [[00 tipos de design/Design Grafico|design gráfico]
 
 E continua ligado a [[00 tipos de design/Design de Interface|design de interface]], porque estados, feedback e reversibilidade não desaparecem quando entra IA. Pelo contrário: tornam-se mais importantes quando o sistema pode interpretar mal, agir demais ou responder com confiança indevida.
 
-Por isso, Design de IA não deveria ser definido apenas pela presença de uma tecnologia chamada IA. Como lente deste vault, ele aparece quando o projeto precisa administrar uma relação em que **parte da interpretação e da ação foi delegada a um sistema cujo comportamento não pode ser completamente especificado antes do uso**.
+Por isso, Design de IA não deveria ser definido apenas pela presença de uma tecnologia chamada IA. Como lente do Arqueologia do Design, ele aparece quando o projeto precisa administrar uma relação em que **parte da interpretação e da ação foi delegada a um sistema cujo comportamento não pode ser completamente especificado antes do uso**.
 
 A hipótese recorrente do campo é que essa delegação pode ampliar capacidade humana sem exigir que cada passo seja operado diretamente. A tensão recorrente é o inverso: quanto mais a máquina assume o caminho, mais precisamos projetar condições para que o humano continue capaz de compreender, intervir e discordar.
 
-## Leituras no vault
+## Leituras no Arqueologia do Design
 
 [[03 artefatos/Prompt Conversacional|Prompt conversacional]] mostra a passagem de controles visíveis para formulação aberta. [[03 artefatos/LLM Wiki|LLM Wiki]] leva a questão para memória persistente e manutenção por agentes. [[03 artefatos/Mascote|Mascote]] e [[01 conceitos/Antropomorfismo|antropomorfismo]] ajudam a investigar por que sistemas ganham presença social tão facilmente.
 

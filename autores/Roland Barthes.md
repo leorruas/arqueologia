@@ -10,7 +10,7 @@ tags:
 
 # Roland Barthes
 
-Roland Barthes importa para este vault porque transformou a fotografia em problema de tempo, presença, perda e recepção. Em *Camera Lucida*, sua análise parte de fotografias concretas e da própria experiência de luto para perguntar por que determinadas imagens apenas informam enquanto outras parecem atingir o observador de modo singular.
+Roland Barthes importa para o Arqueologia do Design porque transformou a fotografia em problema de tempo, presença, perda e recepção. Em *Camera Lucida*, sua análise parte de fotografias concretas e da própria experiência de luto para perguntar por que determinadas imagens apenas informam enquanto outras parecem atingir o observador de modo singular.
 
 ## Papel no projeto
 
@@ -22,7 +22,7 @@ Essa formulação conversa diretamente com a pista de **Convocação temporal da
 
 Barthes ajudou a deslocar a análise da fotografia para a experiência do espectador. Uma imagem não termina naquilo que representa; sua força pode depender do encontro com uma história, uma memória ou uma perda que pertence a quem olha.
 
-O vault usa essa contribuição em conjunto com [[autores/Henri Bergson|Henri Bergson]] e a leitura de temporalidade desenvolvida em *O refluir do tempo nas imagens de Claudia Andujar*, sem tratar *punctum* como mecanismo psicológico universal.
+O projeto Arqueologia do Design usa essa contribuição em conjunto com [[autores/Henri Bergson|Henri Bergson]] e a leitura de temporalidade desenvolvida em *O refluir do tempo nas imagens de Claudia Andujar*, sem tratar *punctum* como mecanismo psicológico universal.
 
 ## Obras, projetos e relações
 

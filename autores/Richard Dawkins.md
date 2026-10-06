@@ -10,7 +10,7 @@ tags:
 
 # Richard Dawkins
 
-Richard Dawkins importa para este vault por uma contribuição terminológica específica: em *The Selfish Gene*, de 1976, cunhou a palavra *meme* para discutir unidades de transmissão cultural por imitação.[^1] A relevância está na origem conceitual do termo usado décadas depois para descrever fenômenos muito diferentes da cultura digital.
+Richard Dawkins importa para o Arqueologia do Design por uma contribuição terminológica específica: em *The Selfish Gene*, de 1976, cunhou a palavra *meme* para discutir unidades de transmissão cultural por imitação.[^1] A relevância está na origem conceitual do termo usado décadas depois para descrever fenômenos muito diferentes da cultura digital.
 
 ## Papel no projeto
 

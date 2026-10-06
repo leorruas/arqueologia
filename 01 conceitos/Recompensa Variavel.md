@@ -47,7 +47,7 @@ A genealogia [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] usa 
 
 Esquemas variáveis podem manter comportamento persistente, mas daí não segue que eles produzam automaticamente dependência, compulsão ou jogo patológico. Mesmo discussões didáticas contemporâneas observam que a extrapolação de esquemas variáveis para patologia exige mais evidência do que a existência do padrão de reforço.[^2]
 
-Isso define o limite conceitual do vault: “recompensa variável” pode ajudar a formular uma hipótese sobre repetição; não deve ser usada como explicação pronta para qualquer produto que ofereça novidade incerta.
+Isso define o limite conceitual do Arqueologia do Design: “recompensa variável” pode ajudar a formular uma hipótese sobre repetição; não deve ser usada como explicação pronta para qualquer produto que ofereça novidade incerta.
 
 O conceito ganha rigor quando obriga o pesquisador a especificar a contingência, em vez de apenas reconhecer uma sensação de imprevisibilidade.
 

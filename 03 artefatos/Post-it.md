@@ -21,7 +21,7 @@ A descoberta química ainda não era o Post-it. Silver tinha uma solução mater
 
 O primeiro refinamento importante foi perceber que o objeto não precisava ser apenas um marcador. Colegas começaram a escrever mensagens nos pedaços adesivos, e Fry descreveu essa mudança como a descoberta de que aquilo era “uma nova maneira de comunicar ou organizar informação”.[^2] O produto exigiu ainda anos de trabalho em especificações, fabricação, qualidade, embalagem e vendas antes da introdução comercial ampla.[^2]
 
-A 3M registra a introdução dos Post-it Notes em 1980. Materiais do Smithsonian também situam em 1980 a introdução nacional nos Estados Unidos.[^3][^4] Por isso, a formulação anterior do vault, “1977 teste inicial e 1980 lançamento global”, era precisa demais para a evidência usada. Houve testes comerciais antes da expansão, mas 1980 é uma referência mais segura para a consolidação do lançamento.
+A 3M registra a introdução dos Post-it Notes em 1980. Materiais do Smithsonian também situam em 1980 a introdução nacional nos Estados Unidos.[^3][^4] Por isso, a formulação anterior do Arqueologia do Design, “1977 teste inicial e 1980 lançamento global”, era precisa demais para a evidência usada. Houve testes comerciais antes da expansão, mas 1980 é uma referência mais segura para a consolidação do lançamento.
 
 Aqui invenção, refinamento e popularização ficam claramente separados. Silver inventou o adesivo que tornou o produto possível. Fry encontrou uma aplicação e ajudou a transformá-la em nota reposicionável. A equipe da 3M resolveu fabricação e comercialização. A mudança histórica não pertence a um único momento de insight.
 
@@ -45,7 +45,7 @@ Essa combinação ajuda a explicar por que o produto saiu do domínio do lembret
 
 O parentesco com o [[03 artefatos/Quadro Branco|quadro branco]] é material e comportamental: ambos reduzem o custo de registrar algo provisório e depois mudar de ideia. Ferramentas digitais como Miro, FigJam e Trello podem ser comparadas ao Post-it porque transformam cartões móveis em unidades de organização visual, mas tratá-las como “descendentes diretas” exigiria evidência histórica específica. O parentesco mais seguro é funcional e semiótico.
 
-A versão anterior deste estudo também aproximava o Post-it da mochila como forma de externalização. A comparação pode ser preservada apenas como hipótese distante: ambos deslocam algo que o corpo ou a mente precisariam carregar, mas isso não constitui descendência histórica. A genealogia mais consistente no vault é [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]].
+A versão anterior deste estudo também aproximava o Post-it da mochila como forma de externalização. A comparação pode ser preservada apenas como hipótese distante: ambos deslocam algo que o corpo ou a mente precisariam carregar, mas isso não constitui descendência histórica. A genealogia mais consistente no Arqueologia do Design é [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]].
 
 O poder do Post-it também produz um possível custo cognitivo. A facilidade de criar pequenas unidades independentes pode favorecer fragmentação: ideias complexas podem ser reduzidas cedo demais a cartões curtos e relações espaciais. Essa consequência é uma hipótese do projeto, não algo demonstrado pela história de invenção do produto. O mesmo material que facilita síntese coletiva pode dificultar raciocínios que dependem de continuidade longa.
 

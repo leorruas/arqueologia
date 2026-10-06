@@ -53,7 +53,7 @@ Por isso formulação não é uma atividade neutra anterior ao “trabalho de ve
 
 A investigação pode redistribuir esse poder ao permitir que diferentes atores contestem a própria formulação. Nesse sentido, uma das funções mais importantes do design talvez não seja responder melhor, mas tornar a pergunta inicial discutível.
 
-É por isso que o conceito atravessa tantos artefatos do vault: ele permite observar o momento em que uma situação ainda ampla ganha uma forma suficientemente estável para começar a produzir decisões.
+É por isso que o conceito atravessa tantos artefatos do Arqueologia do Design: ele permite observar o momento em que uma situação ainda ampla ganha uma forma suficientemente estável para começar a produzir decisões.
 
 ## Ficha do conceito
 

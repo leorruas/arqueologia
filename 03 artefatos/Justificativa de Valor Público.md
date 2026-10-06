@@ -16,7 +16,7 @@ No serviço público, uma demanda pode parecer institucional simplesmente porque
 
 A **Justificativa de valor público** é uma proposta de artefato de governança concebida neste projeto em 2026 para criar fricção exatamente nesse ponto. Sua pergunta central é simples: **antes de mobilizar recursos públicos, conseguimos explicar de forma clara, examinável e posteriormente verificável qual valor público esperamos produzir?**
 
-Ela ainda deve ser entendida como proposta conceitual. O vault não possui evidência de institucionalização formal ou implantação do artefato no IFMG, e por isso o estudo não deve apresentá-lo como prática já adotada pela instituição.
+Ela ainda deve ser entendida como proposta conceitual. O projeto Arqueologia do Design não possui evidência de institucionalização formal ou implantação do artefato no IFMG, e por isso o estudo não deve apresentá-lo como prática já adotada pela instituição.
 
 ## Da proposta de valor à obrigação de justificar
 
@@ -52,7 +52,7 @@ A Lei nº 14.129/2021 ajuda a mostrar por que essa proposta faz sentido no conte
 
 A Justificativa de valor público tenta condensar parte desse espírito numa decisão concreta de projeto.
 
-Ela funciona como aquilo que este vault chama de [[01 conceitos/Servico de Reflexao|serviço de reflexão]]: um ponto do processo desenhado para fazer a própria organização examinar a coerência de sua intenção antes de avançar.
+Ela funciona como aquilo que o projeto Arqueologia do Design chama de [[01 conceitos/Servico de Reflexao|serviço de reflexão]]: um ponto do processo desenhado para fazer a própria organização examinar a coerência de sua intenção antes de avançar.
 
 Por isso a participação conjunta de áreas como TI, Comunicação e área demandante é uma hipótese importante do artefato. TI consegue tornar visíveis custo técnico, interoperabilidade, manutenção e redundância. Comunicação pode examinar clareza, acesso, experiência e relação com públicos. A área de negócio traz conhecimento do problema operacional.
 
@@ -112,7 +112,7 @@ Nesse sentido, justificabilidade não é sinônimo de produzir mais documentos. 
 | **Comportamento aproveitado** | Necessidade institucional e jurídica de justificar decisões, além da capacidade de revisar argumentos quando premissas ficam explícitas |
 | **Comportamento produzido** | Investigar a demanda antes da solução, comparar alternativas e registrar condições de avaliação posterior |
 | **Relação de poder** | Reduz a força de demandas sustentadas apenas por autoridade, mas pode criar nova concentração de poder se a avaliação ficar monopolizada por uma instância técnica |
-| **Consequências inesperadas** | Custo invisível: Nova carga burocrática, preenchimento performativo e paralisia quando exigências são desproporcionais ao risco da decisão Registros adicionais preservados da ficha anterior: estado: Proposta conceitual; não há no vault evidência de institucionalização formal no IFMG |
+| **Consequências inesperadas** | Custo invisível: Nova carga burocrática, preenchimento performativo e paralisia quando exigências são desproporcionais ao risco da decisão Registros adicionais preservados da ficha anterior: estado: Proposta conceitual; não há no Arqueologia do Design evidência de institucionalização formal no IFMG |
 | **Destino ou transformação posterior** | Ainda não explicitado. |
 | **Futuro prometido** | Ainda não explicitado. |
 | **Futuro produzido** | Ainda não explicitado. |

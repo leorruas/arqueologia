@@ -22,7 +22,7 @@ Berger e Milkman encontraram, no conjunto de artigos do *New York Times* estudad
 
 A evidência causal exige mais cautela. Prowten e colegas realizaram em 2024 duas replicações preregistradas de um experimento anterior de Berger que manipulava ativação fisiológica incidental. Nos dois estudos, o aumento de arousal não elevou a disposição de compartilhar notícias em redes sociais.[^3] Isso enfraquece uma formulação universal do tipo “mais ativação causa mais compartilhamento”.
 
-Para este vault, a variável continua útil porque permite descrever uma propriedade afetiva e comparar situações. O efeito sobre [[02 variaveis/Propagação|propagação]] deve ser tratado como relação empírica dependente de contexto, conteúdo, emoção específica e arquitetura da plataforma.
+Para o Arqueologia do Design, a variável continua útil porque permite descrever uma propriedade afetiva e comparar situações. O efeito sobre [[02 variaveis/Propagação|propagação]] deve ser tratado como relação empírica dependente de contexto, conteúdo, emoção específica e arquitetura da plataforma.
 
 ## Emoções discretas não obedecem a uma hierarquia única
 
@@ -32,13 +32,13 @@ A mesma dependência aparece quando o comportamento medido muda. Um experimento 
 
 Há ainda efeitos no lado de quem publica. Em um experimento com usuários de Instagram, receber mais likes e comentários do que o esperado produziu excitação e entusiasmo e encurtou o intervalo declarado até a próxima postagem; receber menos engajamento gerou emoções negativas associadas a mudanças no conteúdo escolhido para a próxima publicação.[^8] O sistema social, portanto, pode criar um circuito em que métricas públicas alteram emoção do criador e essa emoção altera comportamento de produção.
 
-Para o vault, a regra analítica fica: **emoções discretas devem ser ligadas ao comportamento específico observado**. Raiva associada a atenção não autoriza concluir raiva associada a compartilhamento; alegria associada a retweet não implica maior permanência; tristeza associada a menor viralidade em um conjunto não estabelece uma lei geral.
+Para o Arqueologia do Design, a regra analítica fica: **emoções discretas devem ser ligadas ao comportamento específico observado**. Raiva associada a atenção não autoriza concluir raiva associada a compartilhamento; alegria associada a retweet não implica maior permanência; tristeza associada a menor viralidade em um conjunto não estabelece uma lei geral.
 
 ## No Twitter, moralização e grupo importam tanto quanto emoção
 
 No Twitter, estudos políticos ajudam a mostrar por que “alta ativação” continua sendo uma explicação incompleta. Brady e colegas encontraram maior difusão de linguagem moral-emocional em debates sobre temas polarizados, enquanto Rathje e colegas encontraram que referências ao grupo político adversário previam compartilhamento ainda mais fortemente que linguagem emocional. O comportamento observado parece depender da combinação entre emoção, moralização, identidade social, audiência e ação disponível.
 
-Ao mesmo tempo, a direção da emoção varia por domínio. Em ciência relacionada à COVID-19, alegria esteve associada a mais retweets e raiva a menos. Isso reforça a regra do vault: ativação é uma dimensão útil de descrição, mas não funciona como proxy universal de performance.
+Ao mesmo tempo, a direção da emoção varia por domínio. Em ciência relacionada à COVID-19, alegria esteve associada a mais retweets e raiva a menos. Isso reforça a regra do Arqueologia do Design: ativação é uma dimensão útil de descrição, mas não funciona como proxy universal de performance.
 
 ## Do afeto ao ranking existe uma cadeia intermediária
 

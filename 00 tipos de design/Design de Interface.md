@@ -11,7 +11,7 @@ tags:
 
 Uma interface existe quando alguém precisa agir sobre um sistema sem poder — ou sem precisar — compreender tudo o que acontece dentro dele. Um painel, um botão, um cursor, uma tela de login ou um prompt são maneiras diferentes de responder à mesma tensão: **como tornar uma capacidade operável sem expor toda a complexidade que a produz?**
 
-Neste vault, design de interface interessa menos como história de telas e mais como história dessa mediação. Uma interface seleciona o que o sistema deixa perceber, que ações oferece, como responde e quais erros permite recuperar. Toda simplificação visual é, portanto, também uma decisão sobre conhecimento e controle.
+No Arqueologia do Design, design de interface interessa menos como história de telas e mais como história dessa mediação. Uma interface seleciona o que o sistema deixa perceber, que ações oferece, como responde e quais erros permite recuperar. Toda simplificação visual é, portanto, também uma decisão sobre conhecimento e controle.
 
 ## Operar uma máquina já foi lembrar sua linguagem
 
@@ -87,7 +87,7 @@ Por isso, design de interface não é apenas “deixar fácil”. É decidir **q
 
 Essa questão atravessa [[01 conceitos/Manipulacao Direta|manipulação direta]], [[01 conceitos/Compressao do Esforco|compressão do esforço]] e [[01 conceitos/Limiares|limiares]]. Ela também conecta interface a [[00 tipos de design/Design Grafico|design gráfico]], porque hierarquia e composição orientam percepção, e a [[00 tipos de design/Design de Servicos|design de serviços]], porque muitas interfaces são apenas a superfície visível de processos organizacionais muito maiores.
 
-## Leituras no vault
+## Leituras no Arqueologia do Design
 
 Para observar a passagem de comando para ação visível, leia [[03 artefatos/Cursor|Cursor]], [[03 artefatos/Atalhos de Teclado|atalhos de teclado]], [[03 artefatos/Undo|Undo]], [[03 artefatos/Undo Send|Undo Send]] e [[03 artefatos/Botao Salvar|Botão salvar]]. Para observar como interfaces preservam relações e estados fora do conteúdo principal, [[03 artefatos/Favorito Bookmark|Favorito / bookmark]], [[03 artefatos/Archive|Archive]] e [[03 artefatos/Badge de notificacao|Badge de notificação]] mostram três operações diferentes: marcar para voltar, retirar sem destruir e tornar uma pendência visível antes de entrar.
 

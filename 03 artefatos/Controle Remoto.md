@@ -25,7 +25,7 @@ Essa sequência separa invenção, refinamento e padronização. O Lazy Bones to
 
 ## A distância virou um botão
 
-O interesse documentado da Zenith não era simplesmente “havia canais demais”. Eugene McDonald, presidente da empresa, queria inclusive oferecer ao espectador uma maneira de silenciar comerciais. A história corporativa registra essa preocupação como parte do contexto que levou aos experimentos com controle à distância.[^1] A explicação anterior do vault, que ligava diretamente o surgimento do controle ao crescimento do número de emissoras, era plausível, mas forte demais para a evidência disponível.
+O interesse documentado da Zenith não era simplesmente “havia canais demais”. Eugene McDonald, presidente da empresa, queria inclusive oferecer ao espectador uma maneira de silenciar comerciais. A história corporativa registra essa preocupação como parte do contexto que levou aos experimentos com controle à distância.[^1] A explicação anterior do Arqueologia do Design, que ligava diretamente o surgimento do controle ao crescimento do número de emissoras, era plausível, mas forte demais para a evidência disponível.
 
 A mudança de comportamento posterior continua importante. Quando o botão está na mão, trocar de canal custa muito menos. O usuário pode abandonar uma opção antes de decidir se a próxima é realmente melhor. A [[02 variaveis/Custo de Busca|custo de busca]] cai porque explorar alternativas deixa de exigir levantar e manipular o televisor.
 

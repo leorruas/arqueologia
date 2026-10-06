@@ -33,7 +33,7 @@ Um produto pode competir por atenção para ensinar, alertar, vender, entreter o
 
 Por isso, o conceito não classifica automaticamente toda retenção como manipulação. Ele permite perguntar **quem se beneficia quando a atenção permanece ali** e se os interesses do usuário e do sistema estão alinhados.
 
-Essa distinção se conecta a [[01 conceitos/Autonomia da Atencao|Autonomia da atenção]]. Economia da atenção descreve a condição de escassez e disputa; autonomia da atenção investiga como agência, autonomia e liberdade se distribuem dentro dessa disputa. A conexão deixou de ser apenas hipotética no vault: [[autores/Kaisa Kärki|Kaisa Kärki]] formulou explicitamente uma teoria de *autonomy of attention* e a distinguiu de agência e liberdade da atenção.[^4]
+Essa distinção se conecta a [[01 conceitos/Autonomia da Atencao|Autonomia da atenção]]. Economia da atenção descreve a condição de escassez e disputa; autonomia da atenção investiga como agência, autonomia e liberdade se distribuem dentro dessa disputa. A conexão deixou de ser apenas hipotética no Arqueologia do Design: [[autores/Kaisa Kärki|Kaisa Kärki]] formulou explicitamente uma teoria de *autonomy of attention* e a distinguiu de agência e liberdade da atenção.[^4]
 
 ## O feed tornou a disputa mensurável
 

@@ -8,7 +8,7 @@ tags:
 
 # Robert Adler
 
-Robert Adler foi um físico e inventor austríaco-americano ligado à Zenith Electronics. Para este vault, seu papel mais importante está no refinamento do controle remoto sem fio de televisão, especialmente no desenvolvimento do Zenith Space Command de 1956.
+Robert Adler foi um físico e inventor austríaco-americano ligado à Zenith Electronics. Para o Arqueologia do Design, seu papel mais importante está no refinamento do controle remoto sem fio de televisão, especialmente no desenvolvimento do Zenith Space Command de 1956.
 
 ## Papel no projeto
 
@@ -31,4 +31,4 @@ A adoção posterior de controles remotos por outros fabricantes transformou o c
 
 ## Cuidado histórico
 
-Formulações como “Adler inventou o controle remoto” comprimem demais uma sequência que inclui soluções anteriores da própria Zenith e o trabalho de Eugene Polley. No vault, Adler deve ser descrito como figura central no refinamento do controle remoto sem fio ultrassônico e na história de sua consolidação, preservando a autoria distribuída do artefato.
+Formulações como “Adler inventou o controle remoto” comprimem demais uma sequência que inclui soluções anteriores da própria Zenith e o trabalho de Eugene Polley. No Arqueologia do Design, Adler deve ser descrito como figura central no refinamento do controle remoto sem fio ultrassônico e na história de sua consolidação, preservando a autoria distribuída do artefato.

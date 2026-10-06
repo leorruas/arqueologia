@@ -1,6 +1,6 @@
 # Arqueologia do Design
 
-Vault e site público de uma investigação sobre ideias de design: como artefatos aparentemente pequenos reorganizam comportamento, atenção, memória, acesso, coordenação e poder.
+Arqueologia do Design é uma investigação sobre ideias de design, com acervo em Markdown e site público: como artefatos aparentemente pequenos reorganizam comportamento, atenção, memória, acesso, coordenação e poder.
 
 O artefato é a porta de entrada. Autores, empresas e tecnologias aparecem como contexto para reconstruir invenção, refinamento, popularização e padronização. O objetivo do acervo não é formar uma enciclopédia de empresas ou objetos icônicos, mas uma rede de hipóteses sobre comportamento humano.
 

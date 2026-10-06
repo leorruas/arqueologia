@@ -19,7 +19,7 @@ Donald Norman levou o termo para o design no fim dos anos 1980, enfatizando aqui
 
 ## Um gesto possível não é necessariamente um gesto descobrível
 
-Essa distinção muda a leitura de vários artefatos do vault.
+Essa distinção muda a leitura de vários artefatos do Arqueologia do Design.
 
 Em [[03 artefatos/Pinch to Zoom|Pinch to Zoom]], a tela capacitiva possibilita toques e movimentos dos dedos. Mas nada na superfície de vidro, sozinha, comunica inevitavelmente que afastar dois dedos ampliará uma imagem. O gesto depende também de convenção, demonstração e aprendizagem. Chamá-lo simplesmente de “affordance natural” apaga essa camada cultural.
 

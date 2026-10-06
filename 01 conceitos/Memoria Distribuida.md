@@ -15,7 +15,7 @@ Uma pessoa pode “lembrar” de uma reunião sem guardar sua data na cabeça: b
 
 Este projeto usa **memória distribuída** como uma porta de entrada para a tradição mais ampla da **cognição distribuída**, associada especialmente ao trabalho de Edwin Hutchins. Em *Cognition in the Wild*, Hutchins desloca a unidade de análise para além da mente individual e observa sistemas cognitivos formados por pessoas, artefatos, representações e práticas sociais.[^1]
 
-A expressão usada no vault é mais estreita que a teoria inteira: interessa-nos especialmente como informações necessárias para agir permanecem disponíveis no ambiente, em objetos ou em outras pessoas.
+A expressão usada no Arqueologia do Design é mais estreita que a teoria inteira: interessa-nos especialmente como informações necessárias para agir permanecem disponíveis no ambiente, em objetos ou em outras pessoas.
 
 ## Lembrar pode significar saber onde olhar
 
