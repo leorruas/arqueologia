@@ -32,9 +32,9 @@ Alta variabilidade não é defeito universal.
 
 Sistemas generativos, jogos, improvisação, exploração e descoberta podem depender de resultados diferentes entre ocorrências. O problema começa quando a variação atinge dimensões que o usuário precisava que fossem estáveis.
 
-Um feed pode variar conteúdo enquanto mantém controles e navegação previsíveis. Uma ferramenta criativa pode gerar resultados diferentes mantendo regras de operação consistentes.
+Um feed pode variar conteúdo enquanto mantém controles e navegação previsíveis. Uma ferramenta criativa pode gerar resultados diferentes mantendo regras de operação consistentes. O [[03 artefatos/Meme|meme]] oferece um caso cultural do mesmo princípio: um template pode permanecer reconhecível enquanto texto, situação e interpretação variam intensamente entre versões.
 
-Isso mostra por que [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]] e Variabilidade precisam ficar separadas. Um sistema pode ter conteúdo altamente variável e interface altamente previsível.
+Isso mostra por que [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]] e Variabilidade precisam ficar separadas. Um sistema pode ter conteúdo altamente variável e interface altamente previsível; um meme pode ter variação semântica alta e estrutura visual suficientemente estável para continuar reconhecível.
 
 ## Variável não é sinônimo de aleatório
 
@@ -72,7 +72,7 @@ A variável fica inútil quando alguém escreve apenas “o sistema tem muita va
 | **Como observar** | Amplitude, frequência, dispersão, regularidade e relatos de surpresa em uma dimensão explicitamente definida |
 | **O que não mede sozinho** | Aleatoriedade, imprevisibilidade, qualidade ou valor da variação |
 | **Trade-offs principais** | Estabilidade facilita coordenação; variabilidade pode permitir adaptação, personalização, exploração e novidade |
-| **Artefatos-chave** | [[03 artefatos/Garrafa de Agua|Garrafa de água]], [[03 artefatos/Grid|Grid]], [[03 artefatos/Agendamento|Agendamento]] |
+| **Artefatos-chave** | [[03 artefatos/Garrafa de Agua|Garrafa de água]], [[03 artefatos/Grid|Grid]], [[03 artefatos/Agendamento|Agendamento]], [[03 artefatos/Meme|Meme]] |
 | **Conceitos relacionados** | [[01 conceitos/Recompensa Variavel|Recompensa variável]], [[01 conceitos/Sincronizacao|Sincronização]] |
 
 ## Referências
