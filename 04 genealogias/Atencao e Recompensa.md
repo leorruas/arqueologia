@@ -43,6 +43,8 @@ Uma hipótese desta genealogia é que parte do design contemporâneo da atençã
 
 Talvez a unidade crítica de investigação não seja apenas o conteúdo, e sim o momento em que uma pessoa poderia mudar de direção. O cartaz tenta produzir esse momento. O feed pode tentar apagá-lo. O badge pode tentar reabrir uma direção que havia sido encerrada. Entre captura, continuidade e retorno aparece uma questão maior: quantos pontos de decisão uma experiência deve preservar para que atenção permaneça também uma forma de escolha?
 
+[[01 conceitos/Design da aversão|Design da aversão]] amplia essa genealogia para um problema político: aquilo que parece ser a frequência, intensidade ou normalidade de um conflito depende em parte da arquitetura de exposição. A atenção não participa apenas de quais mensagens são vistas, mas também de quais comportamentos parecem típicos do outro grupo. Essa relação deve ser investigada separadamente de mudança de voto ou adesão ideológica.
+
 ## Ficha da genealogia
 
 | Campo | Registro |
@@ -55,7 +57,7 @@ Talvez a unidade crítica de investigação não seja apenas o conteúdo, e sim 
 | **Comportamento recorrente** | Orientar o olhar, buscar novidade, responder socialmente, continuar consumindo estímulos e retornar a estados pendentes |
 | **O que o design redistribui** | Atenção, fricção entre conteúdos, momentos explícitos de decisão e capacidade de convocar o retorno |
 | **Relação de poder** | Sistemas podem aumentar capacidade de escolher e, ao mesmo tempo, reduzir ocasiões em que uma nova escolha precisa ser formulada ou manter demandas perceptivamente presentes fora da sessão |
-| **Conceitos relacionados** | [[01 conceitos/Economia da Atencao|Economia da atenção]], [[01 conceitos/Recompensa Variavel|Recompensa variável]], [[01 conceitos/Autonomia da Atencao|Autonomia da atenção]] |
+| **Conceitos relacionados** | [[01 conceitos/Economia da Atencao|Economia da atenção]], [[01 conceitos/Recompensa Variavel|Recompensa variável]], [[01 conceitos/Autonomia da Atencao|Autonomia da atenção]], [[01 conceitos/Design da aversão|Design da aversão]], [[01 conceitos/Polarização afetiva|polarização afetiva]] |
 | **Variáveis relacionadas** | [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Expectativa de Disponibilidade|Expectativa de disponibilidade]] |
 | **Cuidado histórico** | Semelhanças com mecanismos de recompensa são comparações comportamentais quando não houver evidência de influência direta |
 | **Hipótese em aberto** | A transição entre mensagens e sessões pode ser uma unidade de design tão importante quanto a mensagem; resta investigar quando reduzir pontos de parada ou preservar pendências começa a reduzir autonomia |
