@@ -29,6 +29,8 @@ Brady e colegas demonstraram esse problema em um estudo sobre indignação moral
 
 O achado é importante porque mostra uma passagem entre **sinal individual** e **conhecimento social**. Uma postagem não informa apenas o que seu autor supostamente sente. Quando várias postagens parecem expressar indignação intensa, o observador pode inferir como “as pessoas daquele grupo” normalmente sentem e se comportam.
 
+O Twitter também mostra como feedback recebido pode virar norma aprendida. Em estudos preregistrados, Brady e colegas encontraram que pessoas que recebiam mais feedback social por expressar indignação moral tinham maior probabilidade de repetir esse tipo de expressão depois; participantes também ajustavam seu comportamento às normas expressivas observadas em suas redes. A arquitetura de reação pública, portanto, pode ensinar não só o que parece frequente, mas também o que parece socialmente recompensado.
+
 A inferência pode ser errada mesmo quando cada conteúdo observado é autêntico. O problema não exige desinformação factual: uma amostra enviesada ou uma leitura exagerada de sinais reais já pode produzir uma norma percebida distorcida.
 
 ## Meta-percepções: imaginar como eles nos veem
@@ -94,7 +96,7 @@ A pergunta que a variável acrescenta ao projeto é: **o que este artefato faz p
 | **Subdimensões** | Norma descritiva: o que parece comum; norma prescritiva/injuntiva: o que parece aprovado ou esperado |
 | **O que não mede sozinho** | Hostilidade pessoal, [[02 variaveis/Ameaça percebida|ameaça percebida]], [[02 variaveis/Distância social|distância social]], comportamento efetivo, ideologia ou precisão factual geral |
 | **Trade-offs principais** | Tornar normas visíveis pode melhorar coordenação; amostras enviesadas podem fazer comportamentos extremos parecerem representativos. Corrigir norma percebida não garante mudança duradoura de atitude ou comportamento |
-| **Artefatos-chave** | Feed algorítmico, [[03 artefatos/Meme|Meme]], [[03 artefatos/Clip político|Clip político]], [[03 artefatos/Apelido político|Apelido político]], [[03 artefatos/Tango|Tango]] como contraste |
+| **Artefatos-chave** | [[03 artefatos/Feed algoritmico do X Twitter|Feed algorítmico do X/Twitter]], Feed algorítmico, [[03 artefatos/Meme|Meme]], [[03 artefatos/Clip político|Clip político]], [[03 artefatos/Apelido político|Apelido político]], [[03 artefatos/Tango|Tango]] como contraste |
 | **Conceitos relacionados** | [[01 conceitos/Design da aversão|Design da aversão]], [[01 conceitos/Polarização afetiva|Polarização afetiva]], [[01 conceitos/Identidade política negativa|Identidade política negativa]] |
 | **Genealogias relacionadas** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]]; [[05 percursos/Da Parede ao Feed|Da parede ao feed]] como percurso sistêmico relacionado |
 
