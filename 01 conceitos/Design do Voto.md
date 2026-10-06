@@ -107,6 +107,16 @@ O **post** é também um objeto social: aparece acompanhado por autor, comentár
 
 Essas diferenças impedem que “conteúdo político em rede social” seja tratado como um único artefato.
 
+## Quando a ferramenta organiza a própria escolha
+
+A [[03 artefatos/Voting Advice Application|Voting Advice Application]] torna explícita uma diferença importante entre participação e autoria da estrutura. O eleitor responde, atribui pesos e recebe um resultado personalizado, mas perguntas, categorias e algoritmo normalmente foram definidos antes de sua chegada.
+
+Isso faz da VAA uma gramática produtiva de voto: a mesma estrutura produz recomendações diferentes conforme as respostas de cada pessoa. Ao mesmo tempo, ela mostra que [[02 variaveis/Agencia Inferencial|Agência inferencial]] pode aumentar sem que o eleitor passe a controlar a gramática.
+
+A hipótese experimental deste projeto é uma variante **orientada pela questão do eleitor**. Em vez de começar com afirmações fixas, a ferramenta começaria por “o que você precisa descobrir para decidir seu voto?” e transformaria essa questão em critérios editáveis, evidências, comparação e contraprovas. A sequência proposta é: questão individual → critérios → pesos → evidências → comparação → incertezas → conclusão provisória.
+
+O ganho potencial está em aproximar a estrutura decisória daquilo que realmente importa para a pessoa. O risco é transformar uma pergunta estreita ou enviesada em máquina de recomendação. Por isso, a própria gramática precisa conseguir mostrar premissas ausentes, limites de competência do cargo e evidências que poderiam contrariar a conclusão.
+
 ## A hipótese da pergunta
 
 Uma hipótese aberta deste projeto é particularmente importante: **uma peça que formula uma boa pergunta pode operar de maneira diferente de uma peça que apresenta uma conclusão pronta.**
@@ -187,7 +197,7 @@ Isso sugere um mecanismo ainda em investigação para o Design do voto: **convoc
 | **Risco** | Manipulação, insinuação, falsa neutralidade, pressupostos escondidos e confusão entre familiaridade, autoridade e verdade |
 | **Conceitos relacionados** | [[01 conceitos/Design da aversão|Design da aversão]], [[01 conceitos/Partidarismo negativo|Partidarismo negativo]], [[01 conceitos/Identidade política negativa|identidade política negativa]], [[01 conceitos/Polarização afetiva|polarização afetiva]], [[01 conceitos/Voto negativo|voto negativo]], atenção, heurísticas, framing, mere exposure, elaboração, cognição política, propaganda e retórica visual |
 | **Variáveis relacionadas** | [[02 variaveis/Agencia Inferencial|Agência inferencial]], [[02 variaveis/Reversibilidade representacional|Reversibilidade representacional]], [[02 variaveis/Prototipicidade percebida|Prototipicidade percebida]], [[02 variaveis/Legibilidade da Mediacao Politica|Legibilidade da mediação política]] |
-| **Artefatos relacionados** | [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Mascote|Mascote]], [[03 artefatos/Meme|Meme]], [[03 artefatos/Apelido político|Apelido político]], [[03 artefatos/Clip político|Clip político]], [[03 artefatos/Entrevista longa|Entrevista longa]], [[03 artefatos/Tango|Tango]], [[03 artefatos/Fotografia|fotografia política]], post, carrossel, vídeo curto |
+| **Artefatos relacionados** | [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Mascote|Mascote]], [[03 artefatos/Meme|Meme]], [[03 artefatos/Apelido político|Apelido político]], [[03 artefatos/Clip político|Clip político]], [[03 artefatos/Entrevista longa|Entrevista longa]], [[03 artefatos/Tango|Tango]], [[03 artefatos/Voting Advice Application|Voting Advice Application]], [[03 artefatos/Fotografia|fotografia política]], post, carrossel, vídeo curto |
 | **Percursos relacionados** | [[05 percursos/Da Parede ao Feed|Da parede ao feed]], [[05 percursos/Da Parede ao Interlocutor|Da parede ao interlocutor]] |
 | **Questão em aberto** | Quanto de uma escolha política acontece antes de percebermos que estamos escolhendo? |
 
