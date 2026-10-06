@@ -32,6 +32,8 @@ O [[03 artefatos/Espaço entre Palavras|Espaço entre palavras]] atua em escala 
 
 O [[03 artefatos/Controle Remoto|Controle remoto]] também reduz certos custos de exploração: circular entre canais deixa de exigir deslocamento físico até o aparelho. Mas ele pode simultaneamente aumentar a quantidade de alternativas exploradas. Baixo custo de busca não significa necessariamente decisão mais rápida.
 
+A [[03 artefatos/Voting Advice Application|Voting Advice Application]] reduz um custo de busca especificamente político: localizar posições comparáveis entre partidos ou candidatos. Em vez de exigir leitura integral de programas e reconstrução manual das diferenças, a ferramenta oferece uma superfície comum. O custo reaparece na confiança depositada em quem selecionou perguntas, classificou posições e definiu o cálculo.
+
 ## Interfaces podem deslocar o custo, não eliminá-lo
 
 [[03 artefatos/Infinite Scroll|Infinite Scroll]] reduz o esforço de solicitar mais conteúdo, mas não necessariamente o custo de **encontrar algo específico**. Ele favorece exploração contínua; recuperação direcionada pode continuar difícil.
@@ -68,7 +70,7 @@ A variável não mede sozinha a qualidade da escolha. Um sistema pode tornar um 
 | **Como observar** | Tempo de localização, tentativas, reformulações, navegação, itens inspecionados e sucesso de recuperação |
 | **O que não mede sozinho** | Qualidade da escolha, quantidade de alternativas ou legitimidade do ranking |
 | **Trade-offs principais** | Busca eficiente pode ampliar exploração e também concentrar poder em filtros, categorias e ordenação |
-| **Artefatos-chave** | [[03 artefatos/Archive|Archive]], [[03 artefatos/Grid|Grid]], [[03 artefatos/Espaço entre Palavras|Espaço entre palavras]], [[03 artefatos/Controle Remoto|Controle remoto]] |
+| **Artefatos-chave** | [[03 artefatos/Voting Advice Application|Voting Advice Application]], [[03 artefatos/Archive|Archive]], [[03 artefatos/Grid|Grid]], [[03 artefatos/Espaço entre Palavras|Espaço entre palavras]], [[03 artefatos/Controle Remoto|Controle remoto]] |
 | **Conceitos relacionados** | [[01 conceitos/Redução de Inferências|Redução de inferências]], [[01 conceitos/Tecnologia de Acesso|Tecnologia de acesso]] |
 | **Genealogias relacionadas** | [[04 genealogias/Acesso e Disponibilidade|Acesso e disponibilidade]] |
 
