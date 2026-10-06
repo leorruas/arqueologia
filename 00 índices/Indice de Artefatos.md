@@ -34,6 +34,10 @@ Este índice organiza estudos publicados por campo de design. A classificação 
 ## Design gráfico e comunicação visual
 
 - [[03 artefatos/Pôster|Pôster]]: superfície pública de síntese visual e disputa de atenção.
+- [[03 artefatos/Legenda e texto sobreposto|Legenda e texto sobreposto]]: camada escrita que amplia acesso, contexto e enquadramento em experiências visuais.
+- [[03 artefatos/Capa e Thumbnail|Capa e thumbnail]]: representação comprimida que permite julgar um conteúdo antes de abri-lo.
+- [[03 artefatos/Áudio narrativo em vídeo curto|Áudio narrativo em vídeo curto]]: camada sonora que organiza ritmo, emoção e repertório reutilizável.
+- [[03 artefatos/Carrossel|Carrossel]]: sequência de páginas dentro de uma única publicação social.
 - [[03 artefatos/Fotografia|Fotografia]]: vestígio visual transportável que separa a imagem do acontecimento e a faz circular entre memória, prova, comunicação e interpretação.
 - [[03 artefatos/Meme|Meme]]: estrutura cultural remixável que combina reconhecimento, variação e produção distribuída de sentido.
 - [[03 artefatos/Apelido político|Apelido político]]: rótulo que funde referência e avaliação numa unidade curta, memorável e recirculável.
@@ -105,6 +109,8 @@ Este índice organiza estudos publicados por campo de design. A classificação 
 - [[03 artefatos/Favorito Bookmark|Favorito / bookmark]]: marca persistente que preserva um caminho de retorno a conteúdo mantido fora da coleção.
 - [[03 artefatos/Hero Section|Hero section]]: enquadramento inicial e hierarquia de atenção em páginas web.
 - [[03 artefatos/Gancho de abertura|Gancho de abertura]]: decisão temporal de início que tenta conquistar o próximo instante de atenção em ambientes onde abandonar custa pouco.
+- [[03 artefatos/Call to Action CTA|Call to Action (CTA)]]: solicitação explícita que transforma uma possibilidade de resposta em próximo comportamento legível.
+- [[03 artefatos/Thread|Thread]]: sequência de posts conectados que transforma o limite de uma unidade em arquitetura modular de publicação.
 - [[03 artefatos/Archive|Archive]]: preservação sem permanência no primeiro plano.
 - [[03 artefatos/Badge de notificacao|Badge de notificação]]: sinal persistente que torna uma pendência perceptível antes de abrir o aplicativo.
 - [[03 artefatos/Infinite Scroll|Infinite Scroll]]: continuidade de conteúdo sem paginação explícita.
