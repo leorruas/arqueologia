@@ -30,7 +30,7 @@ O mecanismo continua sendo uma hipótese para cada caso concreto. Pessoas podem 
 
 Para o design, surge uma hipótese em aberto: **aversões identitárias parecem depender de compressão categorial**. O outro é percebido primeiro como exemplar do grupo e só depois como indivíduo. Memes, slogans, apelidos, cores, fotos e rótulos podem facilitar essa compressão porque transformam uma rede extensa de associações em poucos sinais recuperáveis.
 
-Dispositivos de redução de aversão podem operar no sentido inverso quando tornam a pessoa do outro lado menos prototípica e mais individual. Pesquisas sobre contato intergrupal direto e vicário oferecem alguma evidência de redução de calor afetivo negativo ou distância social, embora os efeitos possam ser curtos e não impliquem mudança de voto ou de atitudes democráticas.[^2][^3]
+Dispositivos de redução de aversão podem operar no sentido inverso quando tornam a pessoa do outro lado menos prototípica e mais individual. O [[03 artefatos/Tango|Tango]] acrescenta uma variação importante: a reindividualização pode surgir durante uma tarefa cooperativa em que o outro precisa agir como parceiro, e não apenas ser observado ou descrito. Pesquisas sobre contato intergrupal direto e vicário oferecem alguma evidência de redução de calor afetivo negativo ou distância social, embora os efeitos possam ser curtos e não impliquem mudança de voto ou de atitudes democráticas.[^2][^3]
 
 Dentro do projeto, essa operação pode ser chamada provisoriamente de **reindividualização**. O termo funciona como hipótese arqueológica, não como conceito consolidado da literatura: investigar artefatos que devolvem variação, biografia e contradição a alguém que havia sido reduzido a um protótipo político.
 
@@ -52,7 +52,7 @@ A pergunta de design que o conceito abre é precisa: **quais dispositivos transf
 | **Distinção central** | Rejeição pode participar do autoconceito e existir sem um pertencimento positivo equivalente |
 | **O que ajuda a explicar** | Hostilidade persistente, fronteiras políticas e rejeição a eleitores associados ao outro lado |
 | **O que não explica sozinho** | Origem de toda aversão, voto, ideologia ou comportamento antidemocrático |
-| **Artefatos-chave** | [[03 artefatos/Meme|Meme]], [[03 artefatos/Pôster|Pôster]], símbolos, slogans e imagens políticas ainda não estudados |
+| **Artefatos-chave** | [[03 artefatos/Apelido político|Apelido político]], [[03 artefatos/Tango|Tango]], [[03 artefatos/Meme|Meme]], [[03 artefatos/Pôster|Pôster]], símbolos, slogans e imagens políticas |
 | **Variáveis relacionadas** | Distância social e prototipicidade permanecem como possíveis eixos futuros |
 | **Genealogias relacionadas** | Produção de identidade e dispositivos de delimitação permanecem em investigação |
 
