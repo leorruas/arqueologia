@@ -78,7 +78,6 @@ A presença aqui não obriga a criação de uma nota. Cada pista deve ser avalia
 ## Aversão política e reabertura
 
 - **Caricatura política como dispositivo de aversão**: investigar quando exagero visual deixa de satirizar uma ação e passa a fixar um protótipo inteiro de candidato, partido ou grupo.
-- **Apelido político**: estudar a compressão de uma interpretação extensa em um rótulo curto e repetível, incluindo sua capacidade de sobreviver ao contexto que lhe deu origem.
 - **Contraprova visual de estereótipos**: investigar cards, gráficos e comparações que mostram diversidade interna de um grupo político. Separar mudança de percepção, distância social e voto; a literatura recente questiona durabilidade e escala das correções.
 - **Contato vicário**: estudar documentário, vídeo e relato em que o público observa pessoas de grupos políticos rivais conversando ou cooperando. Perguntar o que da experiência de contato pode ser transportado pela mídia.
 - **Interação pública entre adversários**: investigar fotografia, debate, entrevista conjunta, cumprimento e outras cenas em que lideranças rivais modelam convivência sem apagar desacordo.
@@ -86,6 +85,7 @@ A presença aqui não obriga a criação de uma nota. Cada pista deve ser avalia
 - **Ranking de feed como dispositivo político**: investigar como critérios de ordenação alteram a frequência aparente de conflito, extremismo e hostilidade, distinguindo arquitetura de exposição de conteúdo individual.
 - **Durabilidade da despolarização**: tratar permanência do efeito como problema de design. Uma intervenção pode melhorar calor afetivo no encontro e desaparecer semanas depois; investigar repetição, manutenção e dependência de contexto.
 - **Reindividualização**: hipótese do projeto sobre dispositivos que devolvem biografia, variação e contradição a pessoas reduzidas a um protótipo político. Ainda não justifica nota própria.
+- **Fechamento e reabertura de representações**: possível genealogia futura. O contraste entre apelido político e Tango sugere uma família de artefatos que, respectivamente, comprimem pessoas em representações recuperáveis ou criam situações em que essas representações precisam incorporar novas evidências. Esperar mais casos antes de promover.
 
 ## Pistas transversais
 
@@ -111,4 +111,6 @@ Quando uma pista ganha nota própria, ela deixa de funcionar como promessa futur
 - **Arquivo em nuvem**: promovido a `03 artefatos/Arquivo em nuvem.md` para investigar desancoragem entre armazenamento físico e acesso.
 - **Badge de notificação**: promovido a `03 artefatos/Badge de notificacao.md` para investigar como um estado pendente se torna sinal persistente fora do aplicativo.
 - **Favorito / bookmark**: promovido a `03 artefatos/Favorito Bookmark.md` para investigar a preservação de um caminho de retorno a conteúdo externo.
+- **Apelido político**: promovido a `03 artefatos/Apelido político.md` para investigar compressão semântica, nomeação e circulação de rejeição política.
+- **Tango**: promovido a `03 artefatos/Tango.md` para investigar cooperação como possível dispositivo de reabertura entre grupos adversários.
 - **Gramáticas produtivas**: promovida a `04 genealogias/Gramaticas Produtivas.md` para comparar estruturas que estabilizam regras, lacunas ou relações e tornam possível produzir múltiplos resultados futuros sem presumir descendência histórica entre os casos.
