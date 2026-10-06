@@ -88,6 +88,8 @@ Este índice organiza estudos publicados por campo de design. A classificação 
 - [[03 artefatos/Mapa pessoal de valores políticos|Mapa pessoal de valores políticos]]: estrutura experimental que explicita valores, conflitos e prioridades pessoais antes da comparação entre candidaturas.
 - [[03 artefatos/Jobs to Be Done eleitoral|Jobs to Be Done eleitoral]]: adaptação experimental que formula o progresso político buscado antes de estabilizar candidato ou solução.
 - [[03 artefatos/Teste de simetria eleitoral|Teste de simetria eleitoral]]: contraprova experimental que troca a identidade política do ator para testar a consistência do critério de julgamento.
+- [[03 artefatos/Carta ao meu eleitor futuro|Carta ao meu eleitor futuro]]: registro ex ante de expectativas e condições de revisão para comparar depois decisão, resultado e memória.
+- [[03 artefatos/Voto sem nomes|Voto sem nomes]]: comparação em duas etapas que adia sinais explícitos de identidade e observa o que muda quando nome e partido são revelados.
 
 ## Interfaces digitais e software
 
