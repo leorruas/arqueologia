@@ -27,6 +27,8 @@ O [[03 artefatos/Grid|grid]] reduz parte do esforço de decidir e reconstruir re
 
 O [[03 artefatos/Meme|meme]] comprime outro tipo de trabalho: um template reconhecível pode carregar situação, tom e repertório suficientes para que uma nova mensagem exija apenas uma variação local. Essa operação não elimina inferência — frequentemente depende de o receptor completar a relação —, mas reduz o custo de reconstruir e explicar todo o contexto a cada nova versão.
 
+[[01 conceitos/Design da aversão|Design da aversão]] acrescenta uma hipótese política a essa operação. Uma rejeição pode ser comprimida em poucos marcadores capazes de reabrir rapidamente um arquivo maior de associações. Quando isso acontece, o esforço reduzido é também interpretativo: reconhecer o signo pode bastar para recuperar uma posição anterior sobre partido, liderança ou grupo. A relação é funcional e cognitiva, não uma afirmação de causalidade automática entre compressão e aversão.
+
 O [[03 artefatos/Checklist|checklist]] comprime memória em uma lista externa. O [[03 artefatos/Kanban|Kanban]] externaliza estados de trabalho. O [[03 artefatos/Service Blueprint|Service Blueprint]] reduz o esforço necessário para reconstruir dependências de um serviço distribuído entre vários atores.
 
 Em todos esses casos, o design não precisa inventar o desejo nem automatizar o trabalho. Ele modifica o custo de realizá-lo, lembrá-lo, localizá-lo ou compreendê-lo coletivamente.
@@ -55,7 +57,7 @@ A pergunta de design, então, não é “quantos passos conseguimos eliminar?”
 | **Comportamento recorrente** | Executar ou compreender tarefas conhecidas com menos movimento, busca, memória, decisão, inferência ou coordenação |
 | **O que o design redistribui** | Esforço motor, cognitivo, temporal, decisional, social e institucional |
 | **Relação de poder** | Ao decidir quais etapas podem ser comprimidas, o sistema também decide quais momentos de escolha, trabalho ou ambiguidade permanecem visíveis |
-| **Conceitos relacionados** | [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Redução de Inferências|Redução de inferências]], [[01 conceitos/Memoria Distribuida|Memória distribuída]] |
+| **Conceitos relacionados** | [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Design da aversão|Design da aversão]], [[01 conceitos/Redução de Inferências|Redução de inferências]], [[01 conceitos/Memoria Distribuida|Memória distribuída]] |
 | **Variáveis relacionadas** | [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Atrito Decisorio|Atrito decisório]] |
 | **Cuidado histórico** | Os artefatos não formam uma linhagem direta; são comparados pela operação de reduzir e redistribuir esforço |
 | **Hipótese em aberto** | “Conveniência” pode ser decomposta por tipo de esforço; resta investigar quando a compressão remove trabalho inútil e quando apenas torna invisível trabalho que continua existindo |
