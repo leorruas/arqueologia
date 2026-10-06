@@ -55,12 +55,11 @@ No telejornal, o trecho estava normalmente subordinado a uma reportagem. No feed
 
 Vídeos curtos oferecem vantagens reais. Tornam acontecimentos longos consultáveis, reduzem o tempo necessário para encontrar momentos relevantes e permitem que registros antes presos a transmissões extensas circulem amplamente. A mesma eficiência cria o problema que interessa a [[01 conceitos/Compressao do Esforco|Compressão do esforço]]: a representação mais barata de consumir pode se tornar mais fácil de recuperar do que o acontecimento que ela representa.
 
-A contraparte investigada em [[03 artefatos/Entrevista longa|Entrevista longa]] não elimina edição, performance ou enquadramento. Ela simplesmente aumenta a quantidade de tempo disponível para que uma representação precise acomodar variação. O contraste é comparativo, não uma genealogia histórica direta entre os dois formatos.
+A contraparte investigada em Entrevista longa não elimina edição, performance ou enquadramento. Ela simplesmente aumenta a quantidade de tempo disponível para que uma representação precise acomodar variação. O contraste é comparativo, não uma genealogia histórica direta entre os dois formatos.
 
 O clip revela, assim, uma questão que ultrapassa política: **o que acontece quando a unidade mais circulável de uma pessoa é menor do que a quantidade de informação necessária para julgá-la?**
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Clip político |
@@ -76,23 +75,16 @@ O clip revela, assim, uma questão que ultrapassa política: **o que acontece qu
 | **Popularização** | Televisão consolidou o *sound bite*; redes sociais e plataformas de vídeo curto ampliaram a circulação autônoma de trechos |
 | **Padronização** | O fragmento vertical, legendado e compartilhável tornou-se unidade recorrente de circulação audiovisual digital; não há um único padrão universal |
 | **Hipótese de design** | Reduzir duração e preservar um momento reconhecível diminui o custo de transmitir e recuperar uma interpretação |
-| **Promessa** | Interpretação do projeto: tornar acontecimentos extensos acessíveis, selecionáveis e compartilháveis sem exigir consumo integral |
 | **Comportamento aproveitado** | Atenção limitada, reconhecimento, memória episódica, preferência por exemplos concretos e compartilhamento de momentos salientes |
 | **Comportamento produzido** | Julgar acontecimentos e pessoas a partir de fragmentos que podem circular independentemente da fonte completa |
 | **Relação de poder** | Quem seleciona início, fim, legenda e contexto controla quais partes do acontecimento permanecem disponíveis para o público |
-| **Consequências inesperadas** | Perda de justificativas, recontextualização enganosa, repetição de um mesmo momento como resumo identitário e efeito bumerangue quando a edição é percebida como manipuladora |
+| **Consequências inesperadas** | Perda de justificativas, recontextualização enganosa, repetição de um mesmo momento como resumo identitário e efeito bumerangue quando a edição é percebida como manipuladora Registros adicionais preservados da ficha anterior: promessa: Interpretação do projeto: tornar acontecimentos extensos acessíveis, selecionáveis e compartilháveis sem exigir consumo integral; futuro prometido: Informação política audiovisual mais rápida de acessar e redistribuir; futuro produzido: Ecossistemas em que fragmentos selecionados podem ter muito mais circulação que os acontecimentos integrais dos quais vieram; quando a promessa virou expectativa: Processo gradual ligado à televisão e acelerado por feeds de vídeo curto; não há marco único; futuro tornado mais provavel: Julgamentos políticos formados em ambientes onde cenas curtas são unidades primárias de memória e circulação; descendentes possiveis: *Edits*, shorts, reels, vídeos de reação, compilados e cheapfakes por recontextualização; relações históricas precisam ser demonstradas caso a caso; novo problema produzido pelo sucesso: Como preservar contexto, justificativa e possibilidade de revisão quando a eficiência depende justamente de eliminar duração |
 | **Destino ou transformação posterior** | Integra-se a ecossistemas de vídeo curto, remix, reação, fact-checking e links para fontes integrais |
-| **Futuro prometido** | Informação política audiovisual mais rápida de acessar e redistribuir |
-| **Futuro produzido** | Ecossistemas em que fragmentos selecionados podem ter muito mais circulação que os acontecimentos integrais dos quais vieram |
-| **Quando a promessa virou expectativa** | Processo gradual ligado à televisão e acelerado por feeds de vídeo curto; não há marco único |
-| **Futuro tornado mais provável** | Julgamentos políticos formados em ambientes onde cenas curtas são unidades primárias de memória e circulação |
-| **Descendentes possíveis** | *Edits*, shorts, reels, vídeos de reação, compilados e cheapfakes por recontextualização; relações históricas precisam ser demonstradas caso a caso |
-| **Novo problema produzido pelo sucesso** | Como preservar contexto, justificativa e possibilidade de revisão quando a eficiência depende justamente de eliminar duração |
 | **Conceitos relacionados** | [[01 conceitos/Design da aversão|Design da aversão]], [[01 conceitos/Design do Voto|Design do voto]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Polarização afetiva|Polarização afetiva]] |
 | **Variáveis relacionadas** | [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Permanencia|Permanência]]; reversibilidade representacional permanece como pista e ainda não é variável do vault |
 | **Genealogia** | [[04 genealogias/Compressao do Esforco|Compressão do esforço]], por parentesco funcional e cognitivo; [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]], pela relação com distribuição e saliência |
 | **Percurso(s)** | [[05 percursos/Da Parede ao Feed|Da parede ao feed]] |
-| **Parentes** | [[03 artefatos/Apelido político|Apelido político]], [[03 artefatos/Meme|Meme]], [[03 artefatos/Entrevista longa|Entrevista longa]] como contraste funcional |
+| **Parentes** | [[03 artefatos/Apelido político|Apelido político]], [[03 artefatos/Meme|Meme]], Entrevista longa como contraste funcional |
 | **Leituras-chave** | Hallin (1992); Rinke (2016); Hameleers, van der Meer e Vliegenthart (2025) |
 | **Princípio de design revelado** | Toda seleção temporal troca continuidade por portabilidade; quanto menor a unidade, maior a importância do enquadramento que decide o que sobrevive |
 | **Questão em aberto** | Que sinais de proveniência e contexto conseguem tornar um clip rapidamente consumível sem fazer o fragmento parecer equivalente ao acontecimento completo? |

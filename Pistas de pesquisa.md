@@ -116,3 +116,14 @@ Quando uma pista ganha nota própria, ela deixa de funcionar como promessa futur
 - **Apelido político**: promovido a `03 artefatos/Apelido político.md` para investigar compressão semântica, nomeação e circulação de rejeição política.
 - **Tango**: promovido a `03 artefatos/Tango.md` para investigar cooperação como possível dispositivo de reabertura entre grupos adversários.
 - **Gramáticas produtivas**: promovida a `04 genealogias/Gramaticas Produtivas.md` para comparar estruturas que estabilizam regras, lacunas ou relações e tornam possível produzir múltiplos resultados futuros sem presumir descendência histórica entre os casos.
+
+<!-- PISTAS-AUTOMATICAS:INICIO -->
+## Pistas detectadas automaticamente
+
+Esta seção é regenerada pelo workflow a partir de wikilinks sem destino. As seções manuais acima nunca devem ser substituídas por esta rotina.
+
+### Artefatos
+
+- **Entrevista longa**: citado em `03 artefatos/Clip político.md`
+
+<!-- PISTAS-AUTOMATICAS:FIM -->
