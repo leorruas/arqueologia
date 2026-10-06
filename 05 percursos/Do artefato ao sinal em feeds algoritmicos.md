@@ -11,7 +11,7 @@ tags:
 
 Instagram, TikTok e X/Twitter chamam de “performance” resultados que nascem de comportamentos diferentes. Um Reel pode sobreviver ao swipe e acumular watch time; um TikTok pode ser assistido até o fim e compartilhado; um post no X pode produzir replies, reposts, clicks ou permanência numa conversa. A comparação só fica útil quando a palavra performance é desmontada.
 
-Este percurso reúne o [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], o aprofundamento de [[05 percursos/Do artefato ao sinal no X Twitter|X/Twitter]] e o [[03 artefatos/Feed Para Voce do TikTok|Feed Para Você do TikTok]]. A ordem é comparativa, não histórica. A pergunta central é: **como uma decisão de design altera comportamento humano, como esse comportamento vira sinal e como o significado desse sinal muda conforme a plataforma?**
+Este percurso reúne o [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], o [[03 artefatos/Feed algoritmico do X Twitter|Feed algorítmico do X/Twitter]] e o [[03 artefatos/Feed Para Voce do TikTok|Feed Para Você do TikTok]]. A ordem é comparativa, não histórica. A pergunta central é: **como uma decisão de design altera comportamento humano, como esse comportamento vira sinal e como o significado desse sinal muda conforme a plataforma?**
 
 A cadeia usada aqui é:
 
