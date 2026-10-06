@@ -29,7 +29,11 @@ O Instagram oferece controles explícitos de preferência. A Meta afirma que mar
 
 A documentação pública mais recente dos system cards do Instagram também foi reportada como incluindo previsões de abandono, como a probabilidade de pular um post no Feed. Como o conteúdo desses cartões é carregado dinamicamente e não ficou disponível diretamente nesta pesquisa, o vault trata esse ponto de 2026 como confirmação secundária, não como evidência primária independente.[^5]
 
-No [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], feedback negativo completa o circuito de personalização: o sistema não aprende apenas com aproximação, mas também com afastamento. Isso torna visível uma assimetria importante. Curtir e compartilhar são escolhas explícitas; simplesmente passar adiante pode virar inferência sobre rejeição mesmo sem intenção deliberada de ensinar o sistema.
+No [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], [[03 artefatos/Feed algoritmico do X Twitter|Feed algorítmico do X/Twitter]], feedback negativo completa o circuito de personalização: o sistema não aprende apenas com aproximação, mas também com afastamento. Isso torna visível uma assimetria importante. Curtir e compartilhar são escolhas explícitas; simplesmente passar adiante pode virar inferência sobre rejeição mesmo sem intenção deliberada de ensinar o sistema.
+
+## No X, rejeição entra diretamente no score
+
+O código aberto do Twitter em 2023 documentou previsões específicas de feedback negativo e denúncia no heavy ranker, combinadas ao score com coeficientes negativos. A documentação atual também afirma que usuários podem influenciar recomendações ao reportar conteúdo em que não têm interesse. Isso mostra uma implementação em que afastamento explícito participa diretamente da decisão de distribuição, embora os pesos públicos de 2023 não devam ser tratados como configuração atual.
 
 ## Ficha do conceito
 
