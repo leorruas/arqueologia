@@ -39,6 +39,8 @@ Isso cria uma circularidade importante para a arqueologia do design:
 
 O circuito não prova manipulação nem significa que toda tendência seja artificial. Ele mostra que uma plataforma pode atuar simultaneamente como sensor e amplificador da atenção coletiva.
 
+O [[03 artefatos/Trending Topics do X Twitter|Trending Topics do X/Twitter]] torna essa distinção explícita em produto. A documentação atual separa detecção de tendências de recomendação de tendências: primeiro o sistema acompanha contagens em diferentes durações e produz um score estatístico de quão “trendy” é um candidato; depois recupera e ranqueia tendências segundo localização, interesses, similaridade e engajamento. Assim, detectar emergência e decidir quem deve vê-la são operações distintas.
+
 No [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], a documentação de ranking descreve sinais sobre quantas pessoas interagem com um post e quão rapidamente essas interações ocorrem. Isso dá suporte à distinção entre [[02 variaveis/Popularidade|popularidade]] e [[02 variaveis/Momentum de atenção|momentum]], mas não significa que o Feed possua uma feature pública chamada “tendência”. O conceito serve para interpretar padrões emergentes produzidos pela combinação desses sinais.
 
 ## Ficha do conceito
@@ -53,7 +55,7 @@ No [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]]
 | **Distinção central** | Estado acumulado de popularidade ↔ padrão temporal de emergência, pico, persistência ou decaimento |
 | **O que ajuda a explicar** | Como um assunto pode “esquentar” antes de ser o mais popular e como sistemas podem detectar e amplificar esse crescimento |
 | **O que não explica sozinho** | Causa do crescimento, qualidade, relevância individual, espontaneidade ou origem da coordenação |
-| **Artefatos-chave** | [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]] |
+| **Artefatos-chave** | [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], [[03 artefatos/Trending Topics do X Twitter|Trending Topics do X/Twitter]] |
 | **Variáveis relacionadas** | [[02 variaveis/Recência|Recência]], [[02 variaveis/Popularidade|Popularidade]], [[02 variaveis/Momentum de atenção|Momentum de atenção]] |
 | **Genealogias relacionadas** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] |
 
@@ -66,3 +68,6 @@ No [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]]
 [^3]: Raza, Shaina; Ding, Chen. “News recommender system: a review of recent progress, challenges, and opportunities”. *Artificial Intelligence Review*, 55, 2022, pp. 749–800. DOI: https://doi.org/10.1007/s10462-021-10043-x
 
 [^4]: Schlessinger, Joseph; Garimella, Kiran; Jakesch, Maurice; Eckles, Dean. “Effects of Algorithmic Trend Promotion: Evidence from Coordinated Campaigns in Twitter's Trending Topics”. 2023. O estudo encontra efeito estatisticamente significativo, porém modesto, da promoção em tendências sobre produção posterior de tweets.
+
+
+[^5]: X Help Center. “Trends Recommendations”. Consultado em 6 out. 2026. A documentação atual separa Trends Detection, Candidate Retrieval, Trends Ranking e Feedback Collection. https://help.x.com/en/resources/recommender-systems/trends-recommendations
