@@ -151,6 +151,10 @@ A genealogia [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]] acr
 
 Isso introduz a hipótese de **gramática verificável**. Se a pessoa atribui um efeito a determinado governo, partido ou política, o artefato deveria pedir também como essa atribuição pode ser checada, quem criou, ampliou ou implementou a medida e que evidência poderia corrigir a narrativa. Sem essa etapa, uma gramática de reflexão pode produzir apenas uma história mais elaborada para a preferência que já existia.
 
+Uma imagem política pode participar desse percurso antes da pergunta verbal. A hipótese deriva da leitura temporal da fotografia desenvolvida em *O refluir do tempo nas imagens de Claudia Andujar*: uma imagem presente pode mobilizar lembranças anteriores e fazer com que memória e percepção participem juntas da interpretação atual.[^17] Nesse enquadramento, a fotografia funciona como **solicitação dirigida à memória**. Ela não determina necessariamente o conteúdo recordado; seleciona relações capazes de tornar certas regiões do passado mais disponíveis ao observador.
+
+Isso sugere um mecanismo ainda em investigação para o Design do voto: **convocação temporal**. Uma peça pode afetar julgamento político ao reativar experiências, valores e associações autobiográficas que já existiam, sem precisar formular uma proposição completa. O interesse está em separar esse processo de mera familiaridade ou repetição. Familiaridade torna algo conhecido; convocação temporal, como hipótese, descreve quando uma imagem presente reorganiza quais lembranças participam do julgamento presente.
+
 ## Uma primeira matriz de mecanismos
 
 | Mecanismo | O que o design altera | Pergunta arqueológica |
@@ -165,6 +169,7 @@ Isso introduz a hipótese de **gramática verificável**. Se a pessoa atribui um
 | Repetição social | percepção de presença e consenso | A mensagem parece importante porque é verdadeira ou porque está em toda parte? |
 | Biografia política | relação entre experiência vivida e atribuição política | Que decisões públicas atravessaram minha vida antes de eu transformá-las em identidade política? |
 | Verificação | possibilidade de revisar uma atribuição | Que evidência sustentaria, corrigiria ou desmontaria a história que acabei de produzir? |
+| Convocação temporal | disponibilidade de lembranças autobiográficas durante o julgamento | Que passado esta imagem está tornando presente para quem a observa? |
 
 ## Ficha do conceito
 
@@ -219,5 +224,7 @@ Isso introduz a hipótese de **gramática verificável**. Se a pessoa atribui um
 [^15]: Areal, João. “‘Them’ without ‘us’: negative identities and affective polarization in Brazil.” *Political Research Exchange*, 4(1), 2022. DOI: https://doi.org/10.1080/2474736X.2022.2117635
 
 [^16]: Voelkel, Jan G.; Chu, James; Stagnaro, Michael N.; et al. “Interventions reducing affective polarization do not necessarily improve anti-democratic attitudes.” *Nature Human Behaviour*, 7, 2023, pp. 55–64. DOI: https://doi.org/10.1038/s41562-022-01466-9
+
+[^17]: SANTOS, Leonardo Ruas. *O refluir do tempo nas imagens de Claudia Andujar*. Trabalho de Conclusão de Curso (Comunicação Social) — Universidade Federal de Minas Gerais, Belo Horizonte, 2014. A monografia articula Bergson e Maurício Lissovsky para tratar fotografia, percepção e memória a partir da duração e do refluir do tempo. O uso como mecanismo de convocação temporal no Design do voto é hipótese deste projeto.
 
 A literatura experimental sobre enquadramento visual e comunicação política deverá ser expandida nos estudos específicos de cada artefato.
