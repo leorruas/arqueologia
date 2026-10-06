@@ -69,6 +69,8 @@ O [[03 artefatos/Tango|Tango]] torna essa pergunta quase literal. O serviço exi
 
 A [[03 artefatos/Entrevista longa|entrevista longa]] também pode ser lida por essa lente quando o interesse recai sobre a situação inteira: seleção de convidado, duração, regras de conversa, papel do anfitrião, gravação e distribuição organizam uma relação pública que não se reduz ao conteúdo de cada pergunta.
 
+A [[03 artefatos/Voting Advice Application|Voting Advice Application]] acrescenta uma infraestrutura de decisão: coleta respostas, mantém posições de partidos ou candidatos, aplica um método de correspondência e devolve uma recomendação. Seu valor como serviço está justamente no backstage invisível que sustenta a tela — curadoria de questões, atualização de candidaturas, critérios de classificação, cálculo, fontes e governança. Na hipótese orientada pela questão do eleitor, o serviço precisaria também tornar editável a passagem entre pergunta pessoal, critérios e evidências.
+
 O campo talvez seja melhor entendido não pela pergunta “o que é um serviço?”, mas por outra: **como tornar projetável algo que só existe plenamente quando várias partes agem juntas?**
 
 ## Leituras no vault
