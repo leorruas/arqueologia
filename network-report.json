@@ -1,16 +1,23 @@
 {
-  "generatedAt": "2026-10-06T10:05:12.237Z",
+  "generatedAt": "2026-10-06T10:05:40.353Z",
   "scope": "Integração do grafo: títulos duplicados dentro da mesma camada, índices, home, reciprocidade estrutural, tipos de design e nós órfãos. Conceitos e variáveis não exigem backlink exaustivo.",
-  "issueCount": 25,
+  "issueCount": 30,
   "countsByKind": {
-    "missing-from-index": 5,
-    "missing-reciprocal-link": 14,
-    "design-type-drift": 6
+    "missing-from-index": 6,
+    "missing-reciprocal-link": 16,
+    "orphan-node": 1,
+    "design-type-drift": 7
   },
   "issues": [
     {
       "kind": "missing-from-index",
       "sourcePath": "03 artefatos/Apelido político.md",
+      "targetPath": "00 índices/Indice de Artefatos.md",
+      "detail": "Arquivo não aparece em 00 índices/Indice de Artefatos.md."
+    },
+    {
+      "kind": "missing-from-index",
+      "sourcePath": "03 artefatos/Sua vez Add Yours.md",
       "targetPath": "00 índices/Indice de Artefatos.md",
       "detail": "Arquivo não aparece em 00 índices/Indice de Artefatos.md."
     },
@@ -112,6 +119,18 @@
     },
     {
       "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Sua vez Add Yours.md",
+      "targetPath": "00 tipos de design/Design de Interface.md",
+      "detail": "A ficha liga para 00 tipos de design/Design de Interface.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Sua vez Add Yours.md",
+      "targetPath": "04 genealogias/Gramaticas Produtivas.md",
+      "detail": "A ficha liga para 04 genealogias/Gramaticas Produtivas.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
       "sourcePath": "03 artefatos/Tango.md",
       "targetPath": "00 tipos de design/Design de Servicos.md",
       "detail": "A ficha liga para 00 tipos de design/Design de Servicos.md, mas a nota relacionada não devolve o vínculo."
@@ -121,6 +140,12 @@
       "sourcePath": "03 artefatos/Tango.md",
       "targetPath": "00 tipos de design/Design de Interface.md",
       "detail": "A ficha liga para 00 tipos de design/Design de Interface.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "orphan-node",
+      "sourcePath": "03 artefatos/Sua vez Add Yours.md",
+      "targetPath": null,
+      "detail": "Nota sem links de entrada a partir do acervo auditado."
     },
     {
       "kind": "design-type-drift",
@@ -143,6 +168,12 @@
     {
       "kind": "design-type-drift",
       "sourcePath": "03 artefatos/Feed de Videos Curtos.md",
+      "targetPath": "00 tipos de design/Design de Interface.md",
+      "detail": "Artefato declara 00 tipos de design/Design de Interface.md, mas o tipo de design não o referencia."
+    },
+    {
+      "kind": "design-type-drift",
+      "sourcePath": "03 artefatos/Sua vez Add Yours.md",
       "targetPath": "00 tipos de design/Design de Interface.md",
       "detail": "Artefato declara 00 tipos de design/Design de Interface.md, mas o tipo de design não o referencia."
     },

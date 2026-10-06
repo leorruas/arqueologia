@@ -74,7 +74,6 @@ O parentesco com o [[03 artefatos/Meme|meme]] fica mais preciso nesse ponto. O m
 A hipótese arqueológica que sobra é maior que o próprio Instagram: **quando um artefato consegue fazer cada resultado carregar as condições de produção do próximo, a circulação deixa de depender apenas de compartilhar conteúdo e passa a compartilhar também uma regra de criação**.
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Sua vez (Add Yours) |
@@ -90,22 +89,15 @@ A hipótese arqueológica que sobra é maior que o próprio Instagram: **quando 
 | **Popularização** | Distribuição nativa em Stories e posterior integração a outros formatos do Instagram |
 | **Padronização** | O sticker estabiliza prompt, ação de participação e encadeamento como componentes reconhecíveis; templates posteriores explicitam elementos fixos e variáveis |
 | **Hipótese de design** | Uma regra pode viajar com cada resposta e transformar participantes em produtores e redistribuidores da própria estrutura de participação |
-| **Promessa** | Interpretação do projeto: tornar participar de uma corrente tão simples quanto produzir uma versão pessoal dentro de uma regra compartilhada |
 | **Comportamento aproveitado** | Imitação, brincadeiras de turno, desafios coletivos, autoexpressão, curiosidade sobre respostas alheias e convite social |
 | **Comportamento produzido** | Publicar respostas que também funcionam como convites; reconhecer prompts como estruturas coletivas de produção; reutilizar templates sociais |
 | **Relação de poder** | O autor define o prompt, participantes preenchem a variação e a plataforma controla encadeamento, visibilidade e regras de circulação |
-| **Consequências inesperadas** | Prompts podem escalar muito além do círculo original; contexto e autoria inicial podem perder centralidade enquanto a gramática continua circulando |
+| **Consequências inesperadas** | Prompts podem escalar muito além do círculo original; contexto e autoria inicial podem perder centralidade enquanto a gramática continua circulando Registros adicionais preservados da ficha anterior: promessa: Interpretação do projeto: tornar participar de uma corrente tão simples quanto produzir uma versão pessoal dentro de uma regra compartilhada; futuro prometido: Interpretação do projeto: participação social espontânea e colaborativa com baixo custo de coordenação; futuro produzido: Conteúdos individuais passam a funcionar simultaneamente como respostas e interfaces de convocação para novas contribuições; quando a promessa virou expectativa: Processo gradual após a circulação ampla do sticker e sua expansão para novos formatos; não há um único marco documentado de normalização; futuro tornado mais provavel: Plataformas em que conteúdo gerado por usuários incorpora mecanismos explícitos para gerar mais conteúdo relacionado; descendentes possiveis: Templates participativos, desafios nativos de plataforma e outros dispositivos em que o output preserva a regra do próximo input; descendência histórica deve ser demonstrada caso a caso; novo problema produzido pelo sucesso: A mesma facilidade que amplia participação pode fazer regras, enquadramentos e tendências se propagarem sem que cada participante reavalie a estrutura que está reproduzindo |
 | **Destino ou transformação posterior** | A lógica foi expandida de Stories para Reels, templates customizáveis e música, mostrando independência crescente em relação a um único formato |
-| **Futuro prometido** | Interpretação do projeto: participação social espontânea e colaborativa com baixo custo de coordenação |
-| **Futuro produzido** | Conteúdos individuais passam a funcionar simultaneamente como respostas e interfaces de convocação para novas contribuições |
-| **Quando a promessa virou expectativa** | Processo gradual após a circulação ampla do sticker e sua expansão para novos formatos; não há um único marco documentado de normalização |
-| **Futuro tornado mais provável** | Plataformas em que conteúdo gerado por usuários incorpora mecanismos explícitos para gerar mais conteúdo relacionado |
-| **Descendentes possíveis** | Templates participativos, desafios nativos de plataforma e outros dispositivos em que o output preserva a regra do próximo input; descendência histórica deve ser demonstrada caso a caso |
-| **Novo problema produzido pelo sucesso** | A mesma facilidade que amplia participação pode fazer regras, enquadramentos e tendências se propagarem sem que cada participante reavalie a estrutura que está reproduzindo |
 | **Conceitos relacionados** | [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Design Systems|Design Systems]] por parentesco comparativo |
 | **Variáveis relacionadas** | [[02 variaveis/Variabilidade|Variabilidade]], [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Atencao|Atenção]] |
 | **Genealogia** | [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]] |
-| **Percurso(s)** | Ainda não integrado a um percurso editorial |
+| **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | [[03 artefatos/Meme|Meme]], [[03 artefatos/Prompt Conversacional|Prompt conversacional]], correntes, desafios, hashtags participativas e templates sociais |
 | **Leituras-chave** | Documentação e anúncios de produto do Instagram/Meta sobre Add Yours |
 | **Princípio de design revelado** | Uma gramática ganha capacidade de autopropagação quando cada resultado carrega também a regra e o mecanismo de produção da próxima variação |
