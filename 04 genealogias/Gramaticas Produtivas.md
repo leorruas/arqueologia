@@ -53,9 +53,9 @@ Esse caso ajuda a refinar [[02 variaveis/Agencia Inferencial|Agência inferencia
 
 Há um passo além dos frameworks que organizam decisões de projeto. Uma gramática também pode estruturar uma investigação autobiográfica sem determinar previamente qual conclusão a pessoa deverá alcançar. Em política, por exemplo, uma pergunta como “que decisão pública mudou concretamente sua vida?” pode iniciar um percurso diferente de “qual partido foi melhor para você?”. A primeira começa pela experiência; a segunda já oferece uma categoria de interpretação.
 
-A hipótese deste projeto é que uma **biografia política** pode ser construída por uma sequência como:
+A hipótese deste projeto ganhou agora um artefato próprio em [[03 artefatos/Biografia política|Biografia política]], construída por uma sequência como:
 
-**experiência → política pública → atribuição → verificação → consequência → valor → identidade**
+**experiência → mediação pública → atribuição → verificação → consequência → valor → critério eleitoral**
 
 A ordem importa. Primeiro aparece um acontecimento vivido: acesso a uma universidade, mudança de renda, atendimento de saúde, mobilidade, segurança, trabalho ou outra transformação concreta. Depois se investiga que política ou decisão institucional participou daquela experiência. Só então entram autoria, governo, partido ou campo político.
 
@@ -68,6 +68,8 @@ A mesma lógica pode operar sobre pessoas. Em situações de forte identidade po
 Isso não implica que a pessoa deva mudar de voto, simpatia ou julgamento. O resultado projetado é outro: aumentar a quantidade de informação que precisa coexistir com o rótulo antes que uma conclusão seja produzida. A distinção entre **categoria → pessoa** e **pessoa → categoria** é uma hipótese de diagramação cognitiva: os mesmos elementos podem ganhar pesos diferentes dependendo da ordem em que organizam a interpretação.
 
 Esse caso amplia o alcance das gramáticas produtivas. Elas podem gerar não apenas objetos ou mensagens, mas também **percursos de reflexão**. O que permanece projetado é a estrutura; a conclusão continua aberta e precisa sobreviver ao encontro com evidências externas.
+
+O [[03 artefatos/Mapa pessoal de valores políticos|Mapa pessoal de valores políticos]] acrescenta outra operação: a gramática pode produzir categorias de decisão antes da comparação entre alternativas. Em vez de receber uma lista pronta de temas, a pessoa explicita o que quer proteger, transformar ou recusar, define os valores em linguagem própria, registra conflitos e produz uma pergunta-mãe do voto. Isso desloca parte da autoria da gramática para o próprio usuário sem torná-la total: a estrutura ainda define o tipo de reflexão que será solicitado.
 
 Há ainda uma hipótese visual derivada da monografia *O refluir do tempo nas imagens de Claudia Andujar*, que lê a fotografia a partir de [[autores/Henri Bergson|Henri Bergson]] e Maurício Lissovsky. Nessa leitura, o instante fotográfico conserva vestígios de uma duração anterior ao clique, e a memória não funciona como estoque estático: lembranças se contraem em direção ao presente e participam da percepção atual.[^1] Isso permite imaginar um tipo particular de gramática produtiva em que a estrutura não organiza apenas respostas futuras, mas **solicita ao observador que atualize regiões do próprio passado**.
 
@@ -133,7 +135,7 @@ O princípio também sugere um critério para investigar esses sistemas: **quais
 | **Pergunta central** | O que muda quando o design projeta condições para resultados futuros em vez de especificar apenas um resultado final? |
 | **Hipótese de parentesco** | Estruturas, regras, lacunas e restrições podem funcionar como infraestruturas para produção posterior, estabilizando algumas decisões e preservando outras como espaço de variação |
 | **Natureza das relações** | Funcional, semiótica, cognitiva e comparativa; não propõe descendência histórica direta entre os casos |
-| **Artefatos principais** | [[03 artefatos/Grid|Grid]], [[03 artefatos/Value Proposition Ad Lib|Value Proposition Ad Lib]], [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Voting Advice Application|Voting Advice Application]], [[03 artefatos/Meme|Meme]], [[03 artefatos/Sua vez Add Yours|Sua vez (Add Yours)]], [[03 artefatos/Prompt Conversacional|Prompt conversacional]] |
+| **Artefatos principais** | [[03 artefatos/Grid|Grid]], [[03 artefatos/Value Proposition Ad Lib|Value Proposition Ad Lib]], [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Biografia política|Biografia política]], [[03 artefatos/Mapa pessoal de valores políticos|Mapa pessoal de valores políticos]], [[03 artefatos/Voting Advice Application|Voting Advice Application]], [[03 artefatos/Meme|Meme]], [[03 artefatos/Sua vez Add Yours|Sua vez (Add Yours)]], [[03 artefatos/Prompt Conversacional|Prompt conversacional]] |
 | **Comportamento recorrente** | Usar regras e repertórios anteriores para produzir novas soluções sem recomeçar todas as decisões do zero |
 | **O que o design redistribui** | Decisão, esforço de formulação, liberdade de variação, autoria, coordenação e responsabilidade pela validação |
 | **Relação de poder** | Quem define a gramática influencia quais possibilidades ficam disponíveis, fáceis, legítimas ou invisíveis; quem produz dentro dela ganha autonomia local, mas opera sobre decisões estruturais anteriores |
