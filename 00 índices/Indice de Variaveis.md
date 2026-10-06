@@ -17,6 +17,7 @@ Variáveis são eixos usados para comparar o efeito de decisões de design. Elas
 - [[02 variaveis/Custo de Busca|Custo de Busca]]: **baixo ↔ alto esforço para localizar e comparar uma opção**.
 - [[02 variaveis/Custo do Erro|Custo do Erro]]: **baixo ↔ alto impacto de uma ação equivocada**.
 - [[02 variaveis/Custo Transacional|Custo Transacional]]: **baixo ↔ alto esforço total para concluir uma interação ou troca**.
+- [[02 variaveis/Distância social|Distância social]]: **proximidade relacional aceita ↔ distância relacional desejada** diante de membros de um grupo.
 - [[02 variaveis/Expectativa de Disponibilidade|Expectativa de Disponibilidade]]: **baixa ↔ alta expectativa de acesso imediato ou contínuo**.
 - [[02 variaveis/Friccao|Fricção]]: **baixa ↔ alta resistência física, cognitiva ou operacional** entre intenção e ação.
 - [[02 variaveis/Justica|Justiça]]: **baixa ↔ alta percepção de equidade** na aplicação de regras ou distribuição de recursos.
