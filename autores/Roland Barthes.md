@@ -32,3 +32,9 @@ O vault usa essa contribuição em conjunto com [[autores/Henri Bergson|Henri Be
 ## Cuidado histórico
 
 *Studium*, *punctum* e “isso-foi” são conceitos teóricos produzidos em um ensaio pessoal. Eles ajudam a formular perguntas sobre recepção e temporalidade, mas não devem ser tratados como categorias empíricas obrigatórias para toda experiência fotográfica.
+
+
+## Referências
+
+- Barthes, Roland. *La Chambre claire: note sur la photographie*. Paris: Gallimard/Seuil, 1980. Edição inglesa: *Camera Lucida: Reflections on Photography*. https://us.macmillan.com/books/9780374532338/cameralucida/
+- Batchen, Geoffrey (ed.). *Photography Degree Zero: Reflections on Roland Barthes's Camera Lucida*. MIT Press, 2011. https://mitpress.mit.edu/9780262516662/photography-degree-zero/
