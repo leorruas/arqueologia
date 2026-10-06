@@ -50,6 +50,8 @@ Essa tensão conecta prototipicidade percebida a [[02 variaveis/Reversibilidade 
 
 As duas variáveis medem operações diferentes. Prototipicidade pergunta **quanto o indivíduo representa a categoria**. Reversibilidade representacional pergunta **quanto a representação consegue mudar diante de informação nova**.
 
+A relação com [[02 variaveis/Ameaça percebida|ameaça percebida]] também é contingente. Um comportamento ameaçador atribuído a um membro altamente prototípico pode ser generalizado para o grupo com mais facilidade; um membro percebido como atípico pode ter o mesmo comportamento confinado ao caso individual. Representatividade e perigo continuam sendo julgamentos distintos.
+
 ## Como observar
 
 A medida mais direta é pedir avaliações de representatividade: “quanto esta pessoa parece típica de X?”, “quanto ela representa pessoas desse grupo?” ou “quanto se parece com o membro típico da categoria?”. Também podem ser comparadas descrições antes e depois da exposição a um artefato, observando se atributos da pessoa passam a ser atribuídos ao grupo e vice-versa.
@@ -76,7 +78,7 @@ A pergunta que a variável acrescenta é: **este artefato está mostrando uma pe
 | **Eixo** | Baixa ↔ alta prototipicidade percebida |
 | **Definição operacional** | Grau em que uma pessoa, comportamento ou caso é percebido como representativo do protótipo de um grupo ou categoria |
 | **Como observar** | Avaliações de tipicidade e representatividade, atribuição de traços individuais ao grupo, linguagem de generalização, mudança entre explicações categoriais e individuantes |
-| **O que não mede sozinho** | Homogeneidade real ou percebida do grupo, extremismo, simpatia, ameaça, veracidade do estereótipo ou centralidade identitária |
+| **O que não mede sozinho** | Homogeneidade real ou percebida do grupo, extremismo, simpatia, [[02 variaveis/Ameaça percebida|ameaça percebida]], veracidade do estereótipo ou centralidade identitária |
 | **Trade-offs principais** | Maior prototipicidade facilita reconhecimento e generalização; também pode aumentar redução do indivíduo à categoria. Menor prototipicidade favorece individuação, mas pode transformar contraprovas em exceções incapazes de alterar o grupo |
 | **Artefatos-chave** | [[03 artefatos/Apelido político|Apelido político]], [[03 artefatos/Clip político|Clip político]], [[03 artefatos/Meme|Meme]], [[03 artefatos/Entrevista longa|Entrevista longa]], [[03 artefatos/Tango|Tango]] |
 | **Conceitos relacionados** | [[01 conceitos/Design da aversão|Design da aversão]], [[01 conceitos/Identidade política negativa|Identidade política negativa]], [[01 conceitos/Polarização afetiva|Polarização afetiva]] |
