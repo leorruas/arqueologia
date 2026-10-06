@@ -85,6 +85,8 @@ Uma **VAA orientada por questão do eleitor** começaria com:
 
 **questão individual → decomposição em critérios → evidências verificáveis → comparação entre candidatos → contradições e incertezas → conclusão provisória**
 
+A questão pode ser alimentada por dois artefatos experimentais do projeto. A [[03 artefatos/Biografia política|Biografia política]] produz critérios a partir de experiências e mediações públicas reconstruídas; o [[03 artefatos/Mapa pessoal de valores políticos|Mapa pessoal de valores políticos]] explicita prioridades e conflitos e pode gerar a pergunta-mãe que inicia a comparação.
+
 Imagine alguém chegando com:
 
 > Qual candidato tem uma trajetória e propostas mais coerentes com a defesa da universidade pública?
@@ -191,7 +193,7 @@ A pergunta final deixa então de ser “qual candidato combina comigo?” e se t
 | **Variáveis relacionadas** | [[02 variaveis/Agencia Inferencial|Agência inferencial]], [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Atrito Decisorio|Atrito decisório]], [[02 variaveis/Legibilidade da Mediacao Politica|Legibilidade da mediação política]], [[02 variaveis/Reversibilidade representacional|Reversibilidade representacional]] |
 | **Genealogia** | [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]] |
 | **Percurso(s)** | Ainda não integrado a percurso específico |
-| **Parentes** | [[03 artefatos/Pergunta|Pergunta]], [[03 artefatos/Pesquisa Quantitativa|Pesquisa quantitativa]], [[03 artefatos/Prompt Conversacional|Prompt conversacional]] como hipótese para variantes conversacionais |
+| **Parentes** | [[03 artefatos/Biografia política|Biografia política]], [[03 artefatos/Mapa pessoal de valores políticos|Mapa pessoal de valores políticos]], [[03 artefatos/Pergunta|Pergunta]], [[03 artefatos/Pesquisa Quantitativa|Pesquisa quantitativa]], [[03 artefatos/Prompt Conversacional|Prompt conversacional]] como hipótese para variantes conversacionais |
 | **Leituras-chave** | Louwerse & Rosema (2014); Garzia & Marschall (2014/2016); Lefevere & Walgrave (2014) |
 | **Princípio de design revelado** | Personalizar uma conclusão não significa personalizar a gramática que a produz |
 | **Questão em aberto** | O que acontece quando o eleitor deixa de apenas responder ao questionário e passa a participar da definição da própria estrutura de comparação? |
