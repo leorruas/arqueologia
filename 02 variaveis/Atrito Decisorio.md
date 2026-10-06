@@ -28,6 +28,8 @@ Esses exemplos mostram que design não elimina simplesmente decisões. Ele pode 
 
 O [[03 artefatos/Mapa pessoal de valores políticos|Mapa pessoal de valores políticos]] devolve deliberadamente algum atrito à decisão: antes de comparar candidatos, a pessoa precisa nomear prioridades, reconhecer conflitos e transformar valores em critérios.
 
+O [[03 artefatos/Jobs to Be Done eleitoral|Jobs to Be Done eleitoral]] e o [[03 artefatos/Teste de simetria eleitoral|Teste de simetria eleitoral]] introduzem atrito deliberado em momentos diferentes: o primeiro exige formular a transformação antes de comparar candidatos; o segundo interrompe uma conclusão para reaplicar seu critério sob troca de identidade política.
+
 A [[03 artefatos/Voting Advice Application|Voting Advice Application]] reorganiza o atrito de uma decisão eleitoral complexa. Ela reduz o esforço de comparar programas inteiros ao pré-estruturar perguntas, escalas e cálculos. A hipótese de uma VAA orientada pela questão do eleitor devolve parte desse atrito de forma deliberada: a pessoa precisa formular o que quer descobrir, revisar critérios e decidir pesos antes de aceitar uma recomendação.
 
 ## Confirmação pode ser fricção protetora
@@ -66,7 +68,7 @@ A pergunta central é: **que decisão o usuário ainda precisa tomar aqui, e qua
 | **Como observar** | Número e complexidade de escolhas, confirmações, tempo decisório, abandono e necessidade de formular restrições |
 | **O que não mede sozinho** | Esforço físico total, justiça da decisão ou qualidade das alternativas |
 | **Trade-offs principais** | Menos decisões explícitas pode aumentar fluidez e também transferir poder para defaults ou automação |
-| **Artefatos-chave** | [[03 artefatos/Voting Advice Application|Voting Advice Application]], [[03 artefatos/Infinite Scroll|Infinite Scroll]], [[03 artefatos/Prompt Conversacional|Prompt conversacional]], [[03 artefatos/Archive|Archive]], [[03 artefatos/Slide to Unlock|Slide to Unlock]] |
+| **Artefatos-chave** | [[03 artefatos/Voting Advice Application|Voting Advice Application]], [[03 artefatos/Jobs to Be Done eleitoral|Jobs to Be Done eleitoral]], [[03 artefatos/Teste de simetria eleitoral|Teste de simetria eleitoral]], [[03 artefatos/Infinite Scroll|Infinite Scroll]], [[03 artefatos/Prompt Conversacional|Prompt conversacional]], [[03 artefatos/Archive|Archive]], [[03 artefatos/Slide to Unlock|Slide to Unlock]] |
 | **Conceitos relacionados** | [[01 conceitos/Paradoxo da Escolha|Paradoxo da escolha]], [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção boa vs fricção ruim]] |
 
 ## Referências
