@@ -51,7 +51,7 @@ Para o projeto, o conceito serve principalmente para perguntar: **que artefatos 
 | **O que ajuda a explicar** | Antipartidarismo, raciocínio motivado, rejeição eleitoral e hostilidade política |
 | **O que não explica sozinho** | Polarização afetiva, voto negativo, extremismo ou comportamento antidemocrático |
 | **Artefatos-chave** | [[03 artefatos/Apelido político|Apelido político]], [[03 artefatos/Tango|Tango]], [[03 artefatos/Meme|Meme]], [[03 artefatos/Pôster|Pôster]] |
-| **Variáveis relacionadas** | Atenção, familiaridade, saliência e distância social ainda precisam de mapeamento específico no vault |
+| **Variáveis relacionadas** | [[02 variaveis/Ameaça percebida|Ameaça percebida]]; atenção, familiaridade, saliência e distância social ainda precisam de mapeamento específico no vault |
 | **Genealogias relacionadas** | Relações com comunicação política e produção de identidade permanecem em investigação |
 
 ## Referências
