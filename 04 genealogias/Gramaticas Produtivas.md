@@ -9,7 +9,7 @@ tags:
 
 # Gramáticas produtivas
 
-Alguns artefatos de design entregam uma forma pronta. Outros fazem uma operação mais estranha: definem relações suficientes para que **muitas formas ainda desconhecidas possam ser produzidas depois**. Um [[03 artefatos/Grid|grid]] não contém a página que será diagramada amanhã. Um [[03 artefatos/Value Proposition Ad Lib|Value Proposition Ad Lib]] não contém a proposta que uma equipe formulará. Um [[03 artefatos/Meme|meme]] reconhecível pode receber centenas de variações. Um [[03 artefatos/Prompt Conversacional|prompt conversacional]] especifica condições para uma resposta que ainda não existe.
+Alguns artefatos de design entregam uma forma pronta. Outros fazem uma operação mais estranha: definem relações suficientes para que **muitas formas ainda desconhecidas possam ser produzidas depois**. Um [[03 artefatos/Grid|grid]] não contém a página que será diagramada amanhã. Um [[03 artefatos/Value Proposition Ad Lib|Value Proposition Ad Lib]] não contém a proposta que uma equipe formulará. Um [[03 artefatos/Meme|meme]] reconhecível pode receber centenas de variações. O [[03 artefatos/Sua vez Add Yours|Sua vez (Add Yours)]] transforma uma regra de participação em interface que viaja junto com cada resposta. Um [[03 artefatos/Prompt Conversacional|prompt conversacional]] especifica condições para uma resposta que ainda não existe.
 
 Esta genealogia chama essas estruturas de **gramáticas produtivas**. O termo é uma hipótese comparativa deste projeto, não uma categoria histórica consolidada nem uma linhagem documentada. Os casos pertencem a épocas, mídias e disciplinas diferentes. O parentesco está na operação: em vez de projetar somente um resultado, projetam **um espaço de possibilidades com regras suficientes para orientar resultados futuros**.
 
@@ -51,6 +51,18 @@ A diferença de poder em relação ao grid ou ao Ad Lib é relevante. Uma equipe
 
 Esse caso mostra que projetar um espaço de possibilidades significa também abrir mão de parte da autoridade sobre o resultado. Quanto mais pessoas conseguem produzir dentro da estrutura, menor a capacidade do criador inicial de determinar o que ela significará em cada uso.
 
+## Quando cada resultado carrega a próxima regra
+
+O [[03 artefatos/Sua vez Add Yours|Sua vez (Add Yours)]] explicita uma propriedade que no meme costuma permanecer implícita. Um prompt aparece dentro de uma Story e convida outra pessoa a publicar sua versão. Quando ela responde, sua nova Story continua carregando o sticker e, portanto, a possibilidade de outra participação. O resultado deixa de ser apenas saída e passa a funcionar como nova entrada para o sistema social.
+
+Essa estrutura sugere um subtipo dentro desta genealogia: **gramáticas autopropagáveis**. O termo é uma hipótese do projeto para estruturas nas quais cada resultado preserva ou transporta a regra que permite produzir a próxima variação. O princípio pode ser descrito como um ciclo: prompt → resposta → resposta contendo o prompt → nova resposta.
+
+A comparação com o meme ajuda a delimitar o conceito. Memes podem se autopropagar culturalmente porque pessoas reconhecem e imitam uma gramática compartilhada. O Sua vez incorpora essa operação à interface: não depende apenas de inferir como continuar, porque o mecanismo de continuidade viaja explicitamente com a contribuição.
+
+Isso reduz um tipo específico de [[02 variaveis/Custo Transacional|custo transacional]]: o custo de coordenar participação entre pessoas. Quem inicia a corrente não precisa instruir manualmente cada participante, e quem responde não precisa reconstruir a regra para repassá-la. A plataforma passa a carregar parte da coordenação.
+
+A abertura continua condicionada pela estrutura. O prompt amplia a produção dentro de uma categoria e, ao mesmo tempo, define o que conta como contribuição pertinente. Quanto mais fácil a gramática se propaga, maior se torna a importância de perceber que o enquadramento também está se propagando.
+
 ## O prompt transfere a gramática para uma relação probabilística
 
 O [[03 artefatos/Prompt Conversacional|prompt conversacional]] leva a comparação a um sistema em que o resultado pode ser gerado durante a própria interação. O usuário especifica objetivo, contexto, restrições, exemplos e formato; o modelo interpreta essa formulação e produz uma resposta que não estava armazenada como tela ou opção pré-definida.
@@ -85,12 +97,12 @@ O princípio também sugere um critério para investigar esses sistemas: **quais
 | **Pergunta central** | O que muda quando o design projeta condições para resultados futuros em vez de especificar apenas um resultado final? |
 | **Hipótese de parentesco** | Estruturas, regras, lacunas e restrições podem funcionar como infraestruturas para produção posterior, estabilizando algumas decisões e preservando outras como espaço de variação |
 | **Natureza das relações** | Funcional, semiótica, cognitiva e comparativa; não propõe descendência histórica direta entre os casos |
-| **Artefatos principais** | [[03 artefatos/Grid|Grid]], [[03 artefatos/Value Proposition Ad Lib|Value Proposition Ad Lib]], [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Meme|Meme]], [[03 artefatos/Prompt Conversacional|Prompt conversacional]] |
+| **Artefatos principais** | [[03 artefatos/Grid|Grid]], [[03 artefatos/Value Proposition Ad Lib|Value Proposition Ad Lib]], [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Meme|Meme]], [[03 artefatos/Sua vez Add Yours|Sua vez (Add Yours)]], [[03 artefatos/Prompt Conversacional|Prompt conversacional]] |
 | **Comportamento recorrente** | Usar regras e repertórios anteriores para produzir novas soluções sem recomeçar todas as decisões do zero |
 | **O que o design redistribui** | Decisão, esforço de formulação, liberdade de variação, autoria, coordenação e responsabilidade pela validação |
 | **Relação de poder** | Quem define a gramática influencia quais possibilidades ficam disponíveis, fáceis, legítimas ou invisíveis; quem produz dentro dela ganha autonomia local, mas opera sobre decisões estruturais anteriores |
 | **Conceitos relacionados** | [[01 conceitos/Design Systems|Design Systems]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Formulação|Formulação]], [[01 conceitos/Intenção|Intenção]] |
 | **Variáveis relacionadas** | [[02 variaveis/Variabilidade|Variabilidade]], [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]], [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Custo de Busca|Custo de busca]] |
 | **Cuidado histórico** | Grid, JTBD, Ad Lib, meme e prompt emergem de histórias independentes. A genealogia compara uma operação de design compartilhada e não afirma que um artefato deu origem ao outro |
-| **Hipótese em aberto** | Quanto mais uma gramática amplia a capacidade de produzir variações, maior precisa ser a capacidade de perceber, questionar e alterar as regras que delimitam esse espaço? |
+| **Hipótese em aberto** | Quanto mais uma gramática amplia a capacidade de produzir variações — especialmente quando cada resultado também transporta a regra da próxima produção —, maior precisa ser a capacidade de perceber, questionar e alterar as regras que delimitam esse espaço? |
 
