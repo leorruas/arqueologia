@@ -61,6 +61,8 @@ O problema de design está na relação entre **estabilidade e corrigibilidade**
 
 Essa tensão também distingue reversibilidade representacional de [[02 variaveis/Variabilidade|Variabilidade]]. Variabilidade descreve quanto condições ou resultados mudam. Reversibilidade representacional descreve quanto o **modelo usado para interpretá-los** consegue mudar. Um grupo pode ser altamente variável e continuar sendo percebido por uma representação rígida.
 
+[[02 variaveis/Prototipicidade percebida|Prototipicidade percebida]] acrescenta outra dimensão. Ela pergunta quanto um indivíduo parece representar a categoria; reversibilidade representacional pergunta se a própria representação consegue mudar. Um caso pouco prototípico pode aumentar individuação e, ao mesmo tempo, ser descartado como exceção, preservando uma representação rígida.
+
 ## Do fechamento à reabertura
 
 Dentro de [[01 conceitos/Design da aversão|Design da aversão]], a variável permite comparar dispositivos que operam em níveis diferentes. O [[03 artefatos/Apelido político|apelido político]] pode reduzir revisabilidade por compressão semântica; o [[03 artefatos/Clip político|clip político]], por compressão temporal. A [[03 artefatos/Entrevista longa|entrevista longa]] pode aumentar a quantidade de evidência disponível para revisão; o [[03 artefatos/Tango|Tango]] pode introduzir evidência relacional produzida durante a própria interação.
