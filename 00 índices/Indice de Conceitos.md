@@ -11,6 +11,7 @@ Este índice separa conceitos pela procedência intelectual. A distinção não 
 ## Literatura ou tradição estabelecida
 
 - [[01 conceitos/Affordance|Affordance]]: conceito com história própria na psicologia ecológica e no design de interação; o uso no design exige distinguir Gibson de interpretações posteriores como a de Donald Norman.
+- [[01 conceitos/Acesso consciente|Acesso consciente]]: tradição de psicologia cognitiva, filosofia da mente e neurociência sobre quando informação se torna disponível para relato, raciocínio, decisão ou ação, distinguindo esse acesso de mera exposição e processamento.
 - [[01 conceitos/Antropomorfismo|Antropomorfismo]]: conceito estabelecido em psicologia, comunicação e estudos da interação humano-computador.
 - [[01 conceitos/Autodeterminação|Autodeterminação]]: teoria psicológica associada a autonomia, competência e pertencimento.
 - [[01 conceitos/Design Systems|Design Systems]]: prática e campo consolidado de sistematização de componentes, regras e linguagem de interface.
