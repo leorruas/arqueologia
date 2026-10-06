@@ -20,7 +20,9 @@ A variável é observável em medidas como dwell time, watch time e duração de
 
 Tempo maior pode estar associado a interesse, dificuldade, distração, obrigação ou simples reprodução automática. Ele também não mede diretamente [[02 variaveis/Atencao|atenção]]: um conteúdo pode continuar aberto enquanto o foco está em outro lugar.
 
-No [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], a documentação da Meta descreve previsões sobre permanência e visualização entre os sinais usados na ordenação.[^2] O interesse arqueológico está na tradução: duração comportamental vira evidência probabilística de relevância futura.
+No [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], [[03 artefatos/Feed algoritmico do X Twitter|Feed algorítmico do X/Twitter]], a documentação da Meta descreve previsões sobre permanência e visualização entre os sinais usados na ordenação.[^2] O interesse arqueológico está na tradução: duração comportamental vira evidência probabilística de relevância futura.
+
+No X/Twitter, o código aberto de 2023 incluía previsões de permanência prolongada em conversas e watch time de vídeo, e o Home Mixer preserva parâmetros relacionados a dwell e video watch time. Isso mostra que duração pode participar do ranking sem ser reduzida a like ou reply.
 
 Por isso, a variável deve ser lida junto do [[01 conceitos/Engajamento em plataformas digitais|engajamento em plataformas digitais]]. Permanência é um componente observável do comportamento; satisfação continua sendo uma inferência.
 
