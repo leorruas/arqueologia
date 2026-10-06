@@ -89,6 +89,8 @@ Essa rejeição pode ter profundidades diferentes. [[01 conceitos/Partidarismo n
 
 A hipótese de [[01 conceitos/Design da aversão|Design da aversão]] nasce desse ponto. Ela pergunta como memes, imagens, slogans, apelidos, posts, vídeos e sistemas de distribuição tornam rejeições recuperáveis e transmissíveis, e também que dispositivos podem reduzir essa aversão. A literatura de despolarização recomenda separar resultados: aumentar simpatia, reduzir distância social, enfraquecer uma identidade negativa e mudar voto são efeitos diferentes e não aparecem necessariamente juntos.[^16]
 
+O contraste entre [[03 artefatos/Clip político|clip político]] e [[03 artefatos/Entrevista longa|entrevista longa]] torna visível uma dimensão adicional dessa arquitetura: **quanto tempo de uma pessoa é disponibilizado para o julgamento**. O primeiro pode condensar uma sequência extensa num instante altamente circulável; a segunda mantém mais continuidade, mas também amplia oportunidades de performance e identificação. A duração deve ser tratada como condição de representação, não como proxy automático de qualidade ou persuasão.
+
 ## Meme, post e carrossel
 
 Esses artefatos merecem investigação própria porque distribuem operações diferentes.
@@ -180,7 +182,7 @@ Isso introduz a hipótese de **gramática verificável**. Se a pessoa atribui um
 | **Risco** | Manipulação, insinuação, falsa neutralidade, pressupostos escondidos e confusão entre familiaridade, autoridade e verdade |
 | **Conceitos relacionados** | [[01 conceitos/Design da aversão|Design da aversão]], [[01 conceitos/Partidarismo negativo|Partidarismo negativo]], [[01 conceitos/Identidade política negativa|identidade política negativa]], [[01 conceitos/Polarização afetiva|polarização afetiva]], [[01 conceitos/Voto negativo|voto negativo]], atenção, heurísticas, framing, mere exposure, elaboração, cognição política, propaganda e retórica visual |
 | **Variáveis relacionadas** | [[02 variaveis/Legibilidade da Mediacao Politica|Legibilidade da mediação política]] |
-| **Artefatos relacionados** | [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Mascote|Mascote]], [[03 artefatos/Meme|Meme]], [[03 artefatos/Apelido político|Apelido político]], [[03 artefatos/Tango|Tango]], fotografia política, post, carrossel, vídeo curto |
+| **Artefatos relacionados** | [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Mascote|Mascote]], [[03 artefatos/Meme|Meme]], [[03 artefatos/Apelido político|Apelido político]], [[03 artefatos/Clip político|Clip político]], [[03 artefatos/Entrevista longa|Entrevista longa]], [[03 artefatos/Tango|Tango]], fotografia política, post, carrossel, vídeo curto |
 | **Percursos relacionados** | [[05 percursos/Da Parede ao Feed|Da parede ao feed]], [[05 percursos/Da Parede ao Interlocutor|Da parede ao interlocutor]] |
 | **Questão em aberto** | Quanto de uma escolha política acontece antes de percebermos que estamos escolhendo? |
 
