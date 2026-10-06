@@ -95,11 +95,18 @@ A câmera, assim, não apenas oferece memória externa. Ela introduz no presente
 | **Popularização** | Simplificação operacional, câmeras portáteis, filme industrial e, posteriormente, integração ao telefone |
 | **Padronização** | Formatos de filme, lentes, sensores, arquivos digitais e convenções de interface para captura |
 | **Hipótese de design** | Um instante visual pode ser selecionado, fixado e transportado para outro tempo e lugar |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Desejo de preservar rostos, acontecimentos, lugares, evidências e experiências |
 | **Comportamento produzido** | Documentar o cotidiano, construir álbuns, fotografar viagens, produzir provas, selfies e compartilhar imagens continuamente |
 | **Relação de poder** | Fotografar significa também selecionar, classificar e enquadrar; controle do registro, da legenda e do arquivo produz autoridade sobre a narrativa |
 | **Consequências inesperadas** | Vigilância, cultura da selfie, turismo orientado à imagem, manipulação fotográfica e tendência a tratar vestígios visuais como se contivessem o acontecimento inteiro Registros adicionais preservados da ficha anterior: autores relacionados: [[autores/Paul Ricoeur|Paul Ricoeur]]: vestígio, representação do passado, mesmidade e ipseidade |
 | **Destino ou transformação posterior** | Câmera digital, smartphone, fotografia computacional, câmeras conectadas e sistemas de visão computacional |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Portabilizacao de contexto|Portabilização de contexto]], enquadramento, focalização, [[01 conceitos/Memoria Distribuida|memória distribuída]], prova, representação, atenção, figura e fundo, documentação e mediação |
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], custo de captura, tempo de exposição, portabilidade, quantidade de registros e campo visual |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]]; história técnica: câmera obscura → processos fotossensíveis → fotografia em placa → filme → câmera portátil → digital → smartphone |

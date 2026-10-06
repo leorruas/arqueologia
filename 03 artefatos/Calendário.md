@@ -122,11 +122,18 @@ Em calendários digitais, notificações e convites adicionam outra tensão. O f
 | **Popularização** | Expansão de administrações, religiões, comércio e meios impressos tornou calendários parte cotidiana da coordenação social |
 | **Padronização** | O calendário gregoriano tornou-se uma referência civil internacional por adoção gradual, não instantânea em 1582 |
 | **Hipótese de design** | O calendário transforma tempo observado e convenções coletivas em uma arquitetura externa na qual o futuro pode ser coordenado. Pessoas conseguem coordenar futuros complexos quando ciclos e compromissos são externalizados em unidades compartilhadas |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Reconhecimento humano de ciclos e capacidade de antecipar eventos |
 | **Comportamento produzido** | Marcar datas, cumprir prazos, agendar compromissos, celebrar efemérides e tratar partes do futuro como posições negociáveis |
 | **Relação de poder** | Quem define calendários, feriados, prazos e disponibilidade também participa da organização social do tempo de outras pessoas |
 | **Consequências inesperadas** | Calendários digitais transformam representação em infraestrutura ativa de convites, notificações, recorrências e automação. A mesma abstração que facilita coordenação também permite tratar quase todo intervalo futuro como unidade ocupável Registros adicionais preservados da ficha anterior: autores relacionados: [[autores/Norbert Elias|Norbert Elias]], [[autores/Henri Bergson|Henri Bergson]] |
 | **Destino ou transformação posterior** | Evoluiu de sistemas inscritos e impressos para infraestruturas digitais conectadas a bancos de dados, notificações e automações. Legado: agenda, cronograma, Gantt, roadmap, calendários escolares, fiscais, editoriais e sistemas digitais de agendamento |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Sincronizacao|Sincronização]], [[01 conceitos/Memoria Distribuida|Memória Distribuída]], [[01 conceitos/Tecnologia de Acesso|Tecnologia de Acesso]], [[01 conceitos/Continuidade de Acesso|Continuidade de Acesso]] |
 | **Variáveis relacionadas** | [[02 variaveis/Expectativa de Disponibilidade|Expectativa de Disponibilidade]], [[02 variaveis/Custo Transacional|Custo Transacional]], [[02 variaveis/Permanencia|Permanência]] |
 | **Genealogia** | [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]], [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]]. Família de ideias: artefatos de sincronização e externalização do futuro |

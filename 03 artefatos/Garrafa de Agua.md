@@ -74,11 +74,18 @@ A mesma ambiguidade aparece nas garrafas reutilizáveis. Elas podem reduzir desc
 | **Popularização** | Industrialização de recipientes de vidro, metal e plástico e expansão do mercado de bebidas engarrafadas |
 | **Padronização** | Garrafas portáteis tornaram-se parte comum de deslocamentos, trabalho, esporte e consumo cotidiano |
 | **Hipótese de design** | A história da garrafa é menos a invenção da água portátil do que a redução progressiva do custo de manter uma pequena reserva disponível junto ao corpo Hipótese sobre o comportamento humano: Quando um recurso necessário pode acompanhar o corpo, pessoas reorganizam rotinas para depender menos do lugar onde esse recurso originalmente está |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Necessidade recorrente de beber e prática antiga de transportar provisões |
 | **Comportamento produzido** | Rotinas de carregar permanentemente um recipiente pessoal e, em certos contextos, usá-lo como marcador de identidade |
 | **Relação de poder** | Aumenta autonomia individual de transporte, mas também pode transferir acesso a um recurso comum para cadeias comerciais de embalagem e venda |
 | **Consequências inesperadas** | Expansão de água engarrafada descartável e transformação de garrafas reutilizáveis em acessórios de moda e status Capacidade ampliada: Mobilidade, continuidade de acesso e, em garrafas térmicas, conservação de temperatura Capacidade reduzida ou deslocada: Menor dependência imediata de pontos coletivos de água, embora a infraestrutura de abastecimento continue indispensável Custo invisível: Resíduos e logística no modelo descartável; mercantilização e consumo simbólico em alguns mercados reutilizáveis |
 | **Destino ou transformação posterior** | Coexiste em versões descartáveis, reutilizáveis, térmicas, utilitárias e simbólicas Legado: Tornou a disponibilidade de líquidos uma propriedade portátil do cotidiano |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Continuidade de Acesso|Continuidade de Acesso]], [[01 conceitos/Tecnologia de Acesso|Tecnologia de Acesso]] |
 | **Variáveis relacionadas** | [[02 variaveis/Expectativa de Disponibilidade|Expectativa de Disponibilidade]], [[02 variaveis/Variabilidade|Variabilidade]], [[02 variaveis/Friccao|Fricção]] |
 | **Genealogia** | [[04 genealogias/Acesso e Disponibilidade|Acesso e disponibilidade]] Família de ideias: Tecnologias portáteis de acesso |

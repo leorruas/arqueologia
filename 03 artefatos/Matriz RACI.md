@@ -103,11 +103,18 @@ Seu melhor resultado talvez não seja eliminar conflito. É fazer com que o conf
 | **Popularização** | Gestão de projetos, consultorias, governança, tecnologia e organizações matriciais |
 | **Padronização** | Planilhas e matrizes tarefa × papel usadas em planejamento e definição de responsabilidades |
 | **Hipótese de design** | Tornar fronteiras de responsabilidade visíveis reduz o custo de renegociá-las durante o trabalho |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Capacidade de coordenar expectativas quando papéis e alçadas se tornam explícitos e compartilhados |
 | **Comportamento produzido** | Negociar antecipadamente execução, decisão, consulta e comunicação em torno das entregas |
 | **Relação de poder** | Pode distribuir autonomia ou apenas tornar hierarquias existentes mais explícitas; quem define o Accountable define onde está a palavra final |
 | **Consequências inesperadas** | Custo invisível: Rigidez, manutenção da matriz, falsa clareza diante de influência informal e uso defensivo para transferir culpa |
 | **Destino ou transformação posterior** | Ainda não explicitado. |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | Ainda não explicitado. |
 | **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | Família de ideias: Artefatos de autorização e coordenação |

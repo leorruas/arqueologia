@@ -115,11 +115,18 @@ Essa é uma lição de design de serviços importante. Um artefato de coordenaç
 | **Popularização** | Expansão do TPS para plantas e fornecedores e posterior difusão internacional da produção enxuta |
 | **Padronização** | Na Toyota, adoção em todas as plantas em 1963 e fornecedores a partir de 1965; posteriormente adaptação ampla do termo Kanban em gestão e software |
 | **Hipótese de design** | Kanban torna o sistema parcialmente capaz de coordenar a si mesmo ao transformar necessidade e estado em sinais visíveis que circulam com o trabalho Hipótese sobre o comportamento humano: Pessoas conseguem coordenar ações locais com menor dependência de ordens centrais quando o estado e as necessidades do sistema estão visíveis |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Leitura de sinais visuais, reconhecimento de estados e resposta local a mudanças de disponibilidade |
 | **Comportamento produzido** | Atualizar e mover representações do trabalho como parte do próprio processo de coordenação |
 | **Relação de poder** | Pode distribuir capacidade de decisão para equipes ou ampliar vigilância quando a visibilidade do fluxo é convertida em monitoramento individual |
 | **Consequências inesperadas** | Um mecanismo industrial de produção puxada tornou-se uma das interfaces mais reconhecíveis da gestão de trabalho digital Capacidade ampliada: Visibilidade de fluxo, identificação de gargalos, reposição puxada pela necessidade e autorregulação coletiva Capacidade reduzida ou deslocada: Menor liberdade para iniciar trabalho além dos limites do sistema; menor dependência de supervisão verbal contínua Custo invisível: Manutenção de quadros desatualizados, simplificação de tarefas complexas e possibilidade de microvigilância Registros adicionais preservados da ficha anterior: o que simplifica: Estado, prioridade, fluxo e capacidade tornam-se parcialmente visíveis numa representação comum; o que esconde: Complexidade interna, qualidade e esforço de tarefas podem permanecer invisíveis atrás de cartões aparentemente equivalentes |
 | **Destino ou transformação posterior** | Continua como mecanismo do TPS e foi reinterpretado globalmente como método e interface de gestão de trabalho Legado: Sistemas puxados, quadros Kanban de software, Trello, Jira e outras visualizações de fluxo |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Sincronizacao|Sincronização]], [[01 conceitos/Memoria Distribuida|Memória Distribuída]], [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção Boa vs Fricção Ruim]], [[01 conceitos/Autodeterminação|Autodeterminação]] |
 | **Variáveis relacionadas** | [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]], [[02 variaveis/Custo Transacional|Custo Transacional]], [[02 variaveis/Friccao|Fricção]] |
 | **Genealogia** | [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]], [[04 genealogias/Compressao do Esforco|Compressão do esforço]] Família de ideias: Artefatos de coordenação e visualização do fluxo |

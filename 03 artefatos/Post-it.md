@@ -69,11 +69,18 @@ Talvez a decisão mais importante do Post-it seja esta: ele tornou barato tratar
 | **Popularização** | Introdução comercial ampla em 1980 e expansão posterior do produto |
 | **Padronização** | A nota adesiva reposicionável tornou-se uma categoria reconhecível de material de escritório e organização |
 | **Hipótese de design** | Uma informação temporária se torna mais útil quando pode ocupar o próprio ambiente em que será necessária |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Externalizar lembranças, marcar passagens e usar o espaço físico como apoio cognitivo |
 | **Comportamento produzido** | Reposicionar, agrupar, comentar e mapear visualmente pequenas unidades de informação individual e coletivamente |
 | **Relação de poder** | Amplia capacidade de reorganizar informação sem ferramentas especializadas; em grupos, também pode favorecer quem controla a superfície e a síntese final |
 | **Consequências inesperadas** | Uso em brainstorming, Kanban e oficinas; possível fragmentação do pensamento em unidades pequenas; riscos de conservação em alguns materiais |
 | **Destino ou transformação posterior** | Continua como produto físico e foi reinterpretado em cartões e notas móveis de ferramentas digitais |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Autonomia da Atencao|Autonomia da atenção]], [[01 conceitos/Affordance|Affordance]] |
 | **Variáveis relacionadas** | [[02 variaveis/Reversibilidade|Reversibilidade]], [[02 variaveis/Permanencia|Permanência]] |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]], [[04 genealogias/Reversibilidade e Custo do Erro|Reversibilidade e custo do erro]] |

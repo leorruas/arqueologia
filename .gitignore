@@ -5,3 +5,7 @@ Thumbs.db
 # Obsidian local UI workspace state
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+
+# Propostas revisáveis e pacote de publicação derivados
+.review/
+.site/

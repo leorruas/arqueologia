@@ -67,11 +67,18 @@ O T3 é interessante porque ajuda a separar essas duas coisas. Sua força não e
 | **Popularização** | Braun e circulação internacional do design alemão do pós-guerra |
 | **Padronização** | Sua linguagem participa da consolidação posterior do minimalismo em eletrônicos de consumo |
 | **Hipótese de design** | Um aparelho tecnicamente sofisticado pode ser compreendido por uma forma visualmente contida e poucos controles claros |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Ajustar uma variável contínua por rotação física |
 | **Comportamento produzido** | Uso de mídia sonora portátil e individualizado dentro de uma transformação mais ampla |
 | **Relação de poder** | A portabilidade desloca parte do controle da escuta do ambiente compartilhado para o indivíduo |
 | **Consequências inesperadas** | Custo invisível: A linguagem minimalista pode virar estilo imitativo desvinculado de clareza funcional |
 | **Destino ou transformação posterior** | Ainda não explicitado. |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Compressao do Esforco|Compressão do esforço]] |
 | **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | Ainda não explicitado. |

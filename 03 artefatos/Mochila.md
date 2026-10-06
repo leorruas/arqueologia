@@ -74,11 +74,18 @@ A mochila mostra que portabilidade não é apenas liberdade espacial. É uma neg
 | **Popularização** | Uso militar, recreativo, escolar, urbano e profissional |
 | **Padronização** | Tornou-se categoria ampla com formatos especializados para escola, viagem, montanhismo, trabalho e tecnologia |
 | **Hipótese de design** | Se a carga for acoplada e distribuída pelo tronco, a pessoa pode transportar mais mantendo as mãos livres |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Preparar-se para necessidades futuras e transportar recursos junto ao corpo |
 | **Comportamento produzido** | Levar conjuntos maiores de objetos e organizar capacidade portátil por compartimentos |
 | **Relação de poder** | Amplia autonomia de deslocamento, mas transfere ao indivíduo o peso e a responsabilidade por estar preparado |
 | **Consequências inesperadas** | Sobrecarga física, acúmulo de itens e normalização da expectativa de carregar recursos para múltiplos cenários |
 | **Destino ou transformação posterior** | Continua central e incorpora compartimentos especializados para eletrônicos, hidratação, segurança e trabalho móvel |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Continuidade de Acesso|Continuidade de acesso]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Redução de Inferências|Redução de inferências]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Expectativa de Disponibilidade|Expectativa de disponibilidade]] |
 | **Genealogia** | [[04 genealogias/Portabilidade e Desancoragem|Portabilidade e desancoragem]] |

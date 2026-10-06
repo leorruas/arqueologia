@@ -103,7 +103,7 @@ function slug(texto) {
 
 function rawUrl(path) {
   const codificado = path.split("/").map(encodeURIComponent).join("/");
-  return `https://raw.githubusercontent.com/${REPO}/${BRANCH}/${codificado}`;
+  return codificado;
 }
 
 function rotaCampo(categoria) {
@@ -158,7 +158,7 @@ function esconderHome() {
 
 function montarArtigosDoIndice(indice) {
   return (indice?.articles || [])
-    .filter(item => categoriasPublicas[item.category])
+    .filter(item => categoriasPublicas[item.category] && item.publicar !== false)
     .map(item => ({
       categoria: item.category,
       titulo: nomeLimpo(item.title || item.fileTitle),
@@ -196,40 +196,10 @@ async function carregarCatalogo() {
   }
 
   if (!carregadoDoIndice) {
-    let arquivos = [];
-    try {
-      const resposta = await fetch(`https://api.github.com/repos/${REPO}/git/trees/${BRANCH}?recursive=1`, { cache: "no-cache" });
-      if (!resposta.ok) throw new Error(`GitHub respondeu ${resposta.status}`);
-      const dados = await resposta.json();
-      arquivos = (dados.tree || [])
-        .filter(item => item.type === "blob" && /\.md$/i.test(item.path))
-        .filter(item => item.path.includes("/"))
-        .filter(item => categoriasPublicas[item.path.split("/")[0]]);
-    } catch (erro) {
-      console.warn("Não foi possível carregar a árvore do acervo.", erro);
-    }
-
-    artigos = arquivos.map(item => {
-      const partes = item.path.split("/");
-      const categoria = partes[0];
-      const arquivo = partes[partes.length - 1];
-      return {
-        categoria,
-        titulo: nomeLimpo(arquivo),
-        sourcePath: item.path,
-        conteudo: null,
-        textoBusca: "",
-        headings: [],
-        related: [],
-        backlinks: [],
-        unresolved: [],
-        type: "",
-        status: "",
-        origem: "",
-        grau: "",
-        eixo: ""
-      };
-    });
+    // The tree API cannot enforce the publication flag. Fail closed until the index is available.
+    el("pastas-container").innerHTML = '<p class="mensagem-busca">O catálogo público está temporariamente indisponível. Tente novamente em instantes.</p>';
+    window.ARQUEOLOGIA_LOADER.pronto("catalogo");
+    return;
   }
 
   artigos.sort((a, b) => a.sourcePath.localeCompare(b.sourcePath, "pt-BR", { numeric: true, sensitivity: "base" }));
@@ -463,6 +433,14 @@ async function abrirArtigo(artigo, atualizarRota = true) {
   criarBreadcrumb(el("artigo-breadcrumbs"), artigo.categoria, artigo.titulo);
   el("artigo-kicker").textContent = nomeCategoria(artigo.categoria);
   tituloArtigo.textContent = artigo.titulo;
+  el("artigo-status")?.remove();
+  if (artigo.status === "rascunho") {
+    const aviso = document.createElement("p");
+    aviso.id = "artigo-status";
+    aviso.className = "mensagem-busca";
+    aviso.textContent = "Rascunho — este estudo está em revisão.";
+    tituloArtigo.insertAdjacentElement("afterend", aviso);
+  }
   corpoArtigo.innerHTML = '<p class="mensagem-busca">abrindo a escavação...</p>';
   montarNavegacaoArtigo(artigo);
   document.title = `${artigo.titulo} • arqueologia do design`;

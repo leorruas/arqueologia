@@ -113,11 +113,18 @@ O risco acompanha a vantagem. Quanto mais uma marca simplifica o processo, mais 
 | **Popularização** | Expansão dos escritórios, comércio, bancos, ferrovias, correios e administrações no fim do século XIX e século XX |
 | **Padronização** | Marcas como recebido, pago, aprovado, protocolado e datado tornaram-se parte recorrente de fluxos documentais |
 | **Hipótese de design** | O carimbo torna uma decisão institucional portável porque condensa processo e autoridade em uma marca pequena e repetível Hipótese sobre o comportamento humano: Uma marca visual repetível pode funcionar como atalho para reconhecer identidade, autoridade ou estado sem reconstruir todo o processo que a produziu |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Reconhecimento de símbolos consistentes e confiança em convenções documentais compartilhadas |
 | **Comportamento produzido** | Procurar marcas de validação e tratar certos documentos como incompletos enquanto o sinal esperado não aparece |
 | **Relação de poder** | Condensa a autoridade de quem controla a matriz ou o direito institucional de aplicá-la; pode tornar uma decisão legível ao usuário sem revelar como ela foi tomada |
 | **Consequências inesperadas** | Tornou-se símbolo cultural da burocracia e do procedimento repetitivo, inclusive quando sua função original já não é evidente Capacidade ampliada: Velocidade de marcação, padronização e visibilidade de estados administrativos Capacidade reduzida ou deslocada: A informação contextual sobre o processo pode ser comprimida até restar apenas o status final Custo invisível: Formalismos sem função clara, dependência de etapas de validação e risco de confundir presença da marca com qualidade da decisão |
 | **Destino ou transformação posterior** | Reduzido em alguns processos físicos, mas sua lógica foi amplamente incorporada a estados, metadados e sinais visuais digitais Legado: Badges de status, timestamps, selos digitais, indicadores de aprovação e outras marcas de estado em sistemas de software |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Compressao do Esforco|Compressão do Esforço]], [[01 conceitos/Redução de Inferências|Redução de Inferências]], [[01 conceitos/Justificabilidade|Justificabilidade]] |
 | **Variáveis relacionadas** | [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]], [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Legitimidade Decisoria|Legitimidade Decisória]], [[02 variaveis/Custo Transacional|Custo Transacional]] |
 | **Genealogia** | [[04 genealogias/Compressao do Esforco|Compressão do esforço]], [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]] Família de ideias: Artefatos de validação, classificação e estado |

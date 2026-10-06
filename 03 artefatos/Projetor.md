@@ -81,11 +81,18 @@ O projetor não é apenas uma máquina de imagem. É um sistema de coordenação
 | **Popularização** | Espetáculos de lanterna mágica, cinema, educação, apresentações empresariais e entretenimento doméstico |
 | **Padronização** | Formatos de filme e slides, proporções de tela, conectores, resoluções e interfaces de apresentação |
 | **Hipótese de design** | Uma representação ganha alcance social quando pode ocupar grande escala e sincronizar a atenção de várias pessoas |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Orientar o olhar para luz, escala, movimento e pontos de atenção compartilhada |
 | **Comportamento produzido** | Reunir pessoas diante de uma tela, escurecer ambientes, organizar conteúdos em sequência e orientar atenção coletiva |
 | **Relação de poder** | Quem controla a projeção controla parte importante do campo comum de atenção, da sequência e da duração da apresentação |
 | **Consequências inesperadas** | Passividade do público, autoridade exagerada da imagem, dependência técnica e transformação de reuniões em sessões de exibição |
 | **Destino ou transformação posterior** | Telas digitais de grande formato, compartilhamento de tela, videoconferência, projection mapping e ambientes imersivos |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | atenção coletiva, sincronização, escala, focalização, ritual, autoridade visual, mediação e arquitetura temporária |
 | **Variáveis relacionadas** | escala visual, simultaneidade, alcance, duração, direção da atenção, quantidade de espectadores |
 | **Genealogia** | lanterna mágica → projeção fotográfica → cinema → slides → retroprojetor → projetor digital → projection mapping |

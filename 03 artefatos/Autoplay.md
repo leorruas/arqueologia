@@ -112,11 +112,18 @@ Talvez esse seja o legado mais interessante do autoplay: ele mostra que **o pont
 | **Popularização** | Ainda não explicitado. |
 | **Padronização** | Ainda não explicitado. |
 | **Hipótese de design** | Ainda não explicitado. |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Consumo sequencial de mídia |
 | **Comportamento produzido** | Ainda não explicitado. |
 | **Relação de poder** | Ainda não explicitado. |
 | **Consequências inesperadas** | A remoção do ponto de parada cria necessidade de controles e interrupções posteriores Registros adicionais preservados da ficha anterior: produtos/contextos documentados: YouTube, Netflix, players e playlists digitais; ideia que mudou tudo: Transformar continuidade em default e interrupção em ação; comportamento criado/reforcado: Continuidade sem renovação explícita da intenção a cada unidade |
 | **Destino ou transformação posterior** | Pode tornar-se invisível como default ou ser limitado por controles de bem-estar e preferência Legado: Continuidade automática como convenção de players e plataformas |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Arquiteturas de Continuidade|Arquiteturas de continuidade]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Padroes Enganosos|Padrões enganosos]] |
 | **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | Ainda não explicitado. |

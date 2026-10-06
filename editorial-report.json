@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-10-06T11:53:41.966Z",
+  "generatedAt": "2026-10-06T11:53:57.047Z",
+  "schemaVersion": 2,
   "rule": "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
   "typeDesignRule": "Tipos de design devem funcionar como ensaios disciplinares. Headings do template atual são permitidos; permanecem suspeitos apenas headings enciclopédicos legados.",
   "pathRule": "Percursos devem funcionar como argumentos de leitura e não usar sequência numerada de resumos de artefatos.",
-  "artifactSheetRule": "Cada artefato deve conter uma única Ficha arqueológica em tabela Campo/Registro com os 26 campos definidos no template atual.",
+  "artifactSheetRule": "Cada artefato deve conter uma única Ficha arqueológica em tabela Campo/Registro com os 33 campos definidos no template atual.",
   "candidateCount": 58,
   "fileCount": 37,
   "files": [

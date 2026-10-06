@@ -92,11 +92,18 @@ Por isso, a pergunta arqueológica que a nuvem produz é menos tecnológica do q
 | **Popularização** | Expansão de banda larga, smartphones e serviços de armazenamento/sincronização para consumidores e organizações |
 | **Padronização** | Cloud computing foi conceitualmente estabilizado por definições como NIST SP 800-145 e por padrões de segurança, portabilidade e interoperabilidade, embora implementações permaneçam diversas |
 | **Hipótese de design** | Se persistência e identidade do arquivo forem administradas remotamente, acesso pode acompanhar a pessoa sem que o suporte físico precise acompanhá-la |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Guardar documentos, alternar dispositivos e recuperar arquivos conhecidos |
 | **Comportamento produzido** | Esperar sincronização automática, acesso multidispositivo e disponibilidade quase independente de lugar |
 | **Relação de poder** | Provedores administram parte da infraestrutura que determina persistência, autenticação, disponibilidade e possibilidade de revogação; usuários ganham mobilidade ao delegar controle físico |
 | **Consequências inesperadas** | Dependência de conta, rede e provedor; conflitos de versão; falsa sensação de posse absoluta; aumento da expectativa de disponibilidade permanente |
 | **Destino ou transformação posterior** | Tornou-se infraestrutura cotidiana e se fundiu a suítes colaborativas, sistemas operacionais e aplicativos móveis |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Continuidade de Acesso|Continuidade de acesso]], [[01 conceitos/Redução de Inferências|Redução de inferências]], [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Tecnologia de Acesso|Tecnologia de acesso]] |
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Expectativa de Disponibilidade|Expectativa de disponibilidade]], [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Custo de Busca|Custo de busca]] |
 | **Genealogia** | [[04 genealogias/Portabilidade e Desancoragem|Portabilidade e desancoragem]]; [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] |

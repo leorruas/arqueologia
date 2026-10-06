@@ -94,11 +94,18 @@ A pergunta arqueológica que sobra é: **quando aquilo que não cabe no schema t
 | **Popularização** | Adoção empresarial de sistemas gerenciadores de banco de dados e expansão da computação transacional nas décadas de 1970 em diante |
 | **Padronização** | Bancos relacionais e linguagens de consulta tornaram-se infraestrutura dominante em muitos sistemas, coexistindo com modelos documentais, grafos, chave-valor e outros |
 | **Hipótese de design** | Dados se tornam mais reutilizáveis quando usuários podem formular o que querem recuperar sem conhecer necessariamente sua organização física interna |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Registrar, classificar, relacionar e consultar informação |
 | **Comportamento produzido** | Formular consultas, tratar registros como entidades relacionáveis e esperar recuperação quase instantânea de grandes acervos |
 | **Relação de poder** | Quem define schema, permissões e consultas define parte do que poderá existir como dado, quem poderá vê-lo e quais perguntas serão possíveis |
 | **Consequências inesperadas** | Categorias rígidas podem apagar exceções; concentração de dados amplia vigilância, risco de vazamento e dependência de infraestrutura |
 | **Destino ou transformação posterior** | Tornou-se infraestrutura invisível de praticamente todos os serviços digitais e se diversificou em múltiplos modelos de armazenamento |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Redução de Inferências|Redução de inferências]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Justificabilidade|Justificabilidade]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]] |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] |

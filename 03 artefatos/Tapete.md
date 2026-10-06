@@ -73,11 +73,18 @@ A família pode ser acompanhada até interfaces digitais. Cards, painéis, caixa
 | **Popularização** | Difusão por rotas comerciais, produção doméstica e industrialização têxtil |
 | **Padronização** | Tornou-se elemento recorrente de interiores residenciais, cerimoniais e comerciais |
 | **Hipótese de design** | O tapete demonstra que uma fronteira pode reorganizar comportamento sem impedir fisicamente a passagem Hipótese sobre o comportamento humano: Pessoas interpretam mudanças de textura, cor e padrão como sinais de fronteira e pertencimento mesmo sem barreira física |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Reconhecimento visual e tátil de limites |
 | **Comportamento produzido** | Organização de móveis e pessoas em “ilhas” perceptivas e rituais específicos associados a certas superfícies |
 | **Relação de poder** | Pode indicar quem pertence a uma zona, onde alguém deve sentar, entrar, circular ou retirar os sapatos, dependendo do contexto cultural |
 | **Consequências inesperadas** | Tornar-se marcador de status, identidade cultural, ritual e valor artístico além da função doméstica Capacidade ampliada: Conforto térmico, legibilidade espacial e flexibilidade de zoneamento Capacidade reduzida ou deslocada: Reduz necessidade de algumas divisões rígidas, mas pode introduzir obstáculos físicos e manutenção adicional Custo invisível: Limpeza, acúmulo de poeira e risco de tropeço ou dificuldade de mobilidade |
 | **Destino ou transformação posterior** | Permanece materialmente presente e continua inspirando formas abstratas de delimitação em outras mídias Legado: Mostra como superfícies podem organizar comportamento por diferença perceptiva em vez de barreira estrutural |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Limiares|Limiares]], [[01 conceitos/Tecnologias de Delimitacao|Tecnologias de Delimitação]], [[01 conceitos/Affordance|Affordance]] |
 | **Variáveis relacionadas** | [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]], [[02 variaveis/Friccao|Fricção]] |
 | **Genealogia** | [[04 genealogias/Limiares e Delimitacao|Limiares e delimitação]] Família de ideias: Tecnologias leves de fronteira |

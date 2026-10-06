@@ -102,11 +102,18 @@ Isso produz uma pergunta que o baú sozinho não precisava resolver: **como gara
 | **Popularização** | Expansão junto ao comércio, bancos, escritórios e industrialização do século XIX e XX |
 | **Padronização** | Categorias de resistência, mecanismos de combinação, cofres embutidos, vaults bancários e soluções especializadas para diferentes riscos |
 | **Hipótese de design** | Um bem pode permanecer utilizável no futuro se a fronteira que o envolve resistir a ameaças e reconhecer condições legítimas de acesso |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Guardar valores, controlar chaves e segredos e limitar acesso a pessoas autorizadas |
 | **Comportamento produzido** | Delegar proteção a mecanismos, combinar segredo e tempo e aceitar fricção adicional como custo de segurança |
 | **Relação de poder** | Quem controla chaves, combinações, regras ou infraestrutura controla a capacidade de acessar o conteúdo protegido |
 | **Consequências inesperadas** | Segurança aumenta dependência do próprio mecanismo; perda de chave ou credencial pode excluir também o proprietário legítimo; proteção física pode deslocar ataques para coerção ou engenharia social |
 | **Destino ou transformação posterior** | Continua como artefato físico e reaparece funcionalmente em vaults digitais, cofres de senha, armazenamento criptografado e controles de acesso |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Tecnologias de Delimitacao|Tecnologias de delimitação]], [[01 conceitos/Continuidade de Acesso|Continuidade de acesso]], [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção boa vs fricção ruim]] |
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Custo do Erro|Custo do erro]] |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]]; relação funcional com [[04 genealogias/Limiares e Delimitacao|Limiares e delimitação]] |

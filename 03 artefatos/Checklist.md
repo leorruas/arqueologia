@@ -91,11 +91,18 @@ A hipótese central pode então ser formulada assim: **confiabilidade não exige
 | **Popularização** | Aviação e, posteriormente, segurança médica, especialmente com a iniciativa da OMS e a divulgação por Gawande |
 | **Padronização** | Tornou-se componente esperado de muitas operações de alto risco e processos de controle |
 | **Hipótese de design** | Especialistas continuam sujeitos a omissões; sistemas confiáveis externalizam os poucos pontos em que esquecer tem custo desproporcional |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Capacidade de reconhecer itens, seguir sequências curtas e confirmar estados explícitos |
 | **Comportamento produzido** | Pausas institucionais de checagem e confirmação mútua antes de momentos críticos |
 | **Relação de poder** | Retira do especialista individual a autoridade implícita de decidir que certos passos dispensam conferência e distribui parte da segurança para procedimento e equipe |
 | **Consequências inesperadas** | Ritualização, preenchimento automático, listas excessivas e falsa sensação de segurança quando marcar substitui verificar |
 | **Destino ou transformação posterior** | Amplamente incorporado a operações físicas e digitais, especialmente onde segurança, rastreabilidade e coordenação são críticas |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção boa vs fricção ruim]], [[01 conceitos/Justificabilidade|Justificabilidade]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo do Erro|Custo do erro]], [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]] |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]], [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]], [[04 genealogias/Reversibilidade e Custo do Erro|Reversibilidade e custo do erro]] |

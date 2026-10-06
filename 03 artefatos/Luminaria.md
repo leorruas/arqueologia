@@ -61,11 +61,18 @@ O produto não precisa criar uma nova função para mudar o comportamento. Pode 
 | **Popularização** | Eletrificação de casas, escritórios, fábricas e espaços públicos |
 | **Padronização** | Soquetes, lâmpadas, interruptores, redes elétricas e categorias de iluminação geral, de tarefa e de destaque |
 | **Hipótese de design** | Uma atividade pode ser transformada quando a luz é posicionada e controlada especificamente em torno dela |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Tendência humana de concentrar atenção no que possui maior visibilidade e contraste |
 | **Comportamento produzido** | Acender luzes específicas para iniciar leitura, trabalho, estudo, descanso ou intimidade |
 | **Relação de poder** | Quem controla a iluminação pode controlar visibilidade, destaque e atmosfera de um espaço |
 | **Consequências inesperadas** | Extensão do trabalho noturno, perturbação do descanso e dissolução parcial da noite como limite social |
 | **Destino ou transformação posterior** | LEDs, iluminação regulável, automação, luzes inteligentes e sistemas adaptativos |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | atenção, figura e fundo, ritual, limiar temporal, ergonomia visual, atmosfera e focalização |
 | **Variáveis relacionadas** | direção, intensidade, alcance, temperatura, contraste, duração e posição |
 | **Genealogia** | fogo controlado → lamparina → iluminação a gás/elétrica → luminária de tarefa → iluminação regulável e inteligente |

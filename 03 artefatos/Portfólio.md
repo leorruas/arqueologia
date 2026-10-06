@@ -97,11 +97,18 @@ Ricoeur torna essa pergunta ainda mais precisa: uma narrativa pode tornar açõe
 | **Popularização** | Arte, arquitetura, publicidade, design, fotografia e outras profissões criativas |
 | **Padronização** | Seleção de trabalhos como etapa recorrente de educação, contratação e promoção profissional |
 | **Hipótese de design** | Competências invisíveis tornam-se mais avaliáveis quando materializadas em evidências contextualizadas e organizadas numa narrativa |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Julgar capacidade por exemplos observáveis e construir continuidade por narrativa |
 | **Comportamento produzido** | Documentar, selecionar e narrar o próprio trabalho como parte da vida profissional |
 | **Relação de poder** | Pode reduzir dependência de credenciais formais, mas transfere ao indivíduo a obrigação de curar e promover continuamente sua própria produção |
 | **Consequências inesperadas** | Autopromoção permanente, ocultação de fracassos, simplificação de autoria coletiva e incentivo a privilegiar projetos fáceis de representar Registros adicionais preservados da ficha anterior: autores relacionados: [[autores/Paul Ricoeur|Paul Ricoeur]]: identidade narrativa e continuidade através da mudança |
 | **Destino ou transformação posterior** | Do estojo e pasta física a websites, plataformas de portfólio, repositórios e narrativas multimídia de projeto |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | Identidade narrativa, evidência, curadoria, autoria e [[01 conceitos/Memoria Distribuida|Memória distribuída]] |
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Legitimidade Decisoria|Legitimidade decisória]] |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] como parentesco secundário |

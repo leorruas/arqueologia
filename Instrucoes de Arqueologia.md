@@ -278,3 +278,14 @@ A documentação não deve sufocar a leitura. No Markdown, preserve metadados e 
 ## Criação de rede de conhecimento
 
 Conecte estudos anteriores. Procure padrões que atravessem design gráfico, produto, serviços, tipografia e interfaces. O objetivo não é acumular casos: é descobrir ideias recorrentes e observar como elas mudam de forma ao atravessar mídias e épocas.
+
+
+## Automação e publicação
+
+Decisões aprovadas em 6 de outubro de 2026:
+
+- A ficha arqueológica usa os 33 campos do template atual. O schema compartilhado em `scripts/artifact-schema.mjs` deve permanecer alinhado ao template, ao migrador e à auditoria. Campos ainda não investigados podem registrar “Ainda não explicitado.”; a presença estrutural não autoriza inventar informação.
+- A automação gera índices, relatórios e propostas revisáveis. Normalização, migração e detecção de pistas não sobrescrevem notas na execução padrão. A aplicação de uma proposta exige revisão do conteúdo e aplicação explícita; propostas obsoletas ou alteradas devem ser regeneradas. Toda alteração material aplicada recebe registro em `log.md`.
+- Pistas automáticas são acumulativas e preservam destino e origens. Mantêm-se até decisão explícita de promoção, fusão ou descarte justificado, com histórico. A detecção não converte links nem resolve pendências por conta própria.
+- `publicar: false` exclui a nota do catálogo e do pacote do site. `status: rascunho` permite leitura pública com indicação visível de que o estudo está em revisão. Esse controle regula a publicação do site; o repositório GitHub mantém sua própria visibilidade.
+- A publicação exige schema compatível, fichas estruturais válidas e ausência de links públicos ambíguos ou sem destino. Possível perda de valores na migração bloqueia a proposta. Capitalização e reciprocidade permanecem avisos para revisão contextual. Os testes estruturais não substituem revisão histórica, semântica ou editorial.

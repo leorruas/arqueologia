@@ -123,11 +123,18 @@ Nesse sentido, o workshop é parente de [[03 artefatos/Retrospectiva|Retrospecti
 | **Popularização** | Design thinking, inovação corporativa, métodos ágeis e consultorias expandiram o uso de workshops nas décadas recentes |
 | **Padronização** | Tornou-se formato esperado para alinhamento, ideação e cocriação em muitas organizações |
 | **Hipótese de design** | O workshop não elimina estruturas de poder; ele cria temporariamente uma microarquitetura alternativa de interação dentro delas Hipótese sobre o comportamento humano: Alterar temporariamente regras, representações e turnos de interação pode permitir que grupos produzam relações e ideias diferentes das geradas por reuniões convencionais |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Conversação, imitação, construção sobre ideias alheias, manipulação conjunta de representações e busca de reconhecimento no grupo |
 | **Comportamento produzido** | Participar de sessões intensivas com regras explícitas de colaboração, produção visual e decisão coletiva |
 | **Relação de poder** | Pode redistribuir voz e visibilidade, mas não elimina hierarquia; facilitadores e patrocinadores continuam controlando enquadramento, método e destino das decisões |
 | **Consequências inesperadas** | Workshop pode virar ritual corporativo de legitimação ou “teatro de design”, produzindo sensação de participação sem capacidade real de alterar decisões Capacidade ampliada: Diversidade de perspectivas, construção compartilhada de representações, negociação rápida de ambiguidades e participação Capacidade reduzida ou deslocada: Exige sincronização de tempo e pode substituir reflexão individual longa por produção coletiva concentrada Custo invisível: Muitas horas humanas simultâneas, conflitos de poder mascarados, participação cosmética e resultados sem continuidade Registros adicionais preservados da ficha anterior: o que simplifica: Coloca pessoas, problema e materiais no mesmo intervalo para acelerar interação e alinhamento; o que esconde: Diferenças reais de autoridade podem parecer suspensas durante a dinâmica sem terem mudado estruturalmente |
 | **Destino ou transformação posterior** | Amplamente institucionalizado em design e gestão, hoje tensionado pelo excesso de reuniões, facilitação remota e críticas à participação cosmética Legado: Co-design workshops, design sprints, sessões de discovery, oficinas estratégicas e ambientes digitais de facilitação |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Autodeterminação|Autodeterminação]], [[01 conceitos/Memoria Distribuida|Memória Distribuída]], [[01 conceitos/Sincronizacao|Sincronização]], [[01 conceitos/Justica Procedimental|Justiça Procedimental]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo Transacional|Custo Transacional]], [[02 variaveis/Legitimidade Decisoria|Legitimidade Decisória]], [[02 variaveis/Atencao|Atenção]] |
 | **Genealogia** | [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]], [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] Família de ideias: Artefatos temporários de participação e coordenação |

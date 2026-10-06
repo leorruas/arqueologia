@@ -81,11 +81,18 @@ Ricoeur acrescenta um cuidado: verificabilidade institucional não deve ser conf
 | **Popularização** | Indústria, governos, escolas, eventos e corporações |
 | **Padronização** | Cartões de identificação e acesso físico integrados a sistemas digitais |
 | **Hipótese de design** | Pertencimento pode ser externalizado em uma credencial verificável que representa apenas os atributos necessários à decisão institucional |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Reconhecer sinais visuais de filiação e apresentar credenciais em fronteiras controladas |
 | **Comportamento produzido** | Portar identidade institucional visível e validar o próprio corpo em catracas e portarias |
 | **Relação de poder** | Facilita autonomia de circulação autorizada, mas torna classificação, exclusão e vigilância operacionalmente simples |
 | **Consequências inesperadas** | Dependência do objeto, clonagem, extravio, hierarquias visuais de vínculo ou acesso e tendência a confundir classificação institucional com identidade da pessoa Registros adicionais preservados da ficha anterior: autores relacionados: [[autores/Paul Ricoeur|Paul Ricoeur]] como lente para distinguir identidade humana de mesmidade operacional |
 | **Destino ou transformação posterior** | Credenciais digitais, smartphones e biometria deslocam a prova para suportes menos visíveis sem eliminar a lógica de identidade operacional |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Limiares|Limiares]], [[01 conceitos/Tecnologias de Delimitacao|Tecnologias de delimitação]], identidade operacional, mesmidade e ipseidade |
 | **Variáveis relacionadas** | [[02 variaveis/Legitimidade Decisoria|Legitimidade decisória]], [[02 variaveis/Friccao|Fricção]] |
 | **Genealogia** | [[04 genealogias/Limiares e Delimitacao|Limiares e delimitação]] |

@@ -302,6 +302,7 @@ function recolherBlocosDeConsulta() {
 
   Array.from(corpo.querySelectorAll("h2, h3")).forEach(heading => {
     const nome = normalizar(heading.textContent);
+    if (nome === "ficha arqueologica") recolherSecao(corpo, heading, "ficha arqueológica");
     if (nome === "ficha tecnica") recolherSecao(corpo, heading, "ficha técnica");
     if (nome === "ficha resumo" || nome === "ficha resumo do conceito" || nome === "ficha resumo da variavel") {
       recolherSecao(corpo, heading, "ficha arqueológica");
@@ -432,7 +433,7 @@ async function carregarIndiceEditorial() {
     const resposta = await fetch(INDEX_URL, { cache: "no-cache" });
     if (!resposta.ok) return;
     indiceArqueologia = await resposta.json();
-    artigosIndice = (indiceArqueologia.articles || []).filter(item => item?.category && item?.sourcePath);
+    artigosIndice = (indiceArqueologia.articles || []).filter(item => item?.category && item?.sourcePath && item.publicar !== false);
     montarLentes();
     refinarLeitor();
     renderizarRelacoesDoArtigo();

@@ -83,11 +83,18 @@ Talvez seja esse o parentesco mais forte entre ciência e design: ambos avançam
 | **Popularização** | Ciência experimental, medicina, pesquisa social, produto e práticas de experimentação em design |
 | **Padronização** | Protocolos de pesquisa, testes de hipótese, experimentos controlados e documentação de premissas |
 | **Hipótese de design** | Tornar uma crença explicitamente vulnerável à evidência melhora a qualidade da aprendizagem |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Capacidade humana de antecipar consequências e comparar expectativa com observação |
 | **Comportamento produzido** | Formular explicações provisórias, prever resultados e revisar crenças diante de evidência |
 | **Relação de poder** | Fortalece investigação baseada em critérios discutíveis publicamente e enfraquece, em princípio, explicações sustentadas apenas por autoridade |
 | **Consequências inesperadas** | Custo invisível: Viés de confirmação, simplificação excessiva de fenômenos e dogmatização da própria hipótese |
 | **Destino ou transformação posterior** | Ainda não explicitado. |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | Ainda não explicitado. |
 | **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | Família de ideias: Artefatos de formulação e investigação |

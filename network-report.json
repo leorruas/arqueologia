@@ -1,26 +1,13 @@
 {
-  "generatedAt": "2026-10-06T11:53:42.098Z",
+  "generatedAt": "2026-10-06T11:53:57.144Z",
   "scope": "Integração do grafo: títulos duplicados dentro da mesma camada, índices, home, reciprocidade estrutural, tipos de design e nós órfãos. Conceitos e variáveis não exigem backlink exaustivo.",
-  "issueCount": 25,
+  "issueCount": 22,
   "countsByKind": {
-    "missing-from-index": 5,
+    "missing-from-index": 3,
     "missing-reciprocal-link": 14,
-    "orphan-node": 1,
     "design-type-drift": 5
   },
   "issues": [
-    {
-      "kind": "missing-from-index",
-      "sourcePath": "03 artefatos/Jobs to Be Done eleitoral.md",
-      "targetPath": "00 índices/Indice de Artefatos.md",
-      "detail": "Arquivo não aparece em 00 índices/Indice de Artefatos.md."
-    },
-    {
-      "kind": "missing-from-index",
-      "sourcePath": "03 artefatos/Teste de simetria eleitoral.md",
-      "targetPath": "00 índices/Indice de Artefatos.md",
-      "detail": "Arquivo não aparece em 00 índices/Indice de Artefatos.md."
-    },
     {
       "kind": "missing-from-index",
       "sourcePath": "03 artefatos/Vaso de Plantas.md",
@@ -122,12 +109,6 @@
       "sourcePath": "03 artefatos/Teste de simetria eleitoral.md",
       "targetPath": "04 genealogias/Gramaticas Produtivas.md",
       "detail": "A ficha liga para 04 genealogias/Gramaticas Produtivas.md, mas a nota relacionada não devolve o vínculo."
-    },
-    {
-      "kind": "orphan-node",
-      "sourcePath": "03 artefatos/Teste de simetria eleitoral.md",
-      "targetPath": null,
-      "detail": "Nota sem links de entrada a partir do acervo auditado."
     },
     {
       "kind": "design-type-drift",

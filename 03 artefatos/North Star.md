@@ -101,11 +101,18 @@ Por isso, escolher uma North Star é também escolher qual parte do mundo a orga
 | **Popularização** | Growth, product management, SaaS e organizações de produto digital |
 | **Padronização** | Playbooks, dashboards e processos de priorização centrados em uma métrica principal acompanhada de indicadores auxiliares |
 | **Hipótese de design** | Uma referência mensurável compartilhada pode alinhar decisões distribuídas melhor do que dezenas de indicadores concorrentes |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Capacidade humana de coordenar escolhas usando uma referência simples, estável e compartilhada |
 | **Comportamento produzido** | Comparar iniciativas pela contribuição esperada a um indicador comum e priorizar de forma mais descentralizada |
 | **Relação de poder** | Distribui autonomia operacional, mas concentra poder epistemológico em quem decide o que será medido como valor |
 | **Consequências inesperadas** | Custo invisível: Simplificação excessiva, gaming da métrica e invisibilização de dimensões importantes que não entram no indicador principal |
 | **Destino ou transformação posterior** | Ainda não explicitado. |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | Ainda não explicitado. |
 | **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | Família de ideias: Artefatos de intenção, mensuração e autodeterminação |

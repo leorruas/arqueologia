@@ -100,11 +100,18 @@ A pergunta arqueológica então muda. O artefato não serve apenas para “salva
 | **Popularização** | Navegadores gráficos dos anos 1990, especialmente Mosaic, Netscape Navigator e Internet Explorer, tornaram a operação cotidiana para a Web de massa |
 | **Padronização** | A ideia de marcar um item para retorno tornou-se convenção transversal; os rótulos e ícones continuam variando entre bookmark, favorito, salvar, estrela e coração |
 | **Hipótese de design** | Pessoas não precisam possuir ou memorizar um recurso se puderem preservar uma referência suficientemente barata e recuperável para voltar a ele |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Marcar, sublinhar, anotar, separar, extrair, colecionar e deixar lembretes para uso futuro |
 | **Comportamento produzido** | Construção de coleções pessoais de referências, “salvar para depois” e acumulação de intenções futuras de leitura ou retorno |
 | **Relação de poder** | O usuário ganha uma camada privada de organização sobre conteúdo externo, mas o provedor continua controlando a existência do destino e pode usar a marcação como dado de interesse |
 | **Consequências inesperadas** | Acúmulo excessivo, coleções difíceis de recuperar, links quebrados e mistura entre memória privada, sinal social e dado de recomendação |
 | **Destino ou transformação posterior** | Continua presente em navegadores e foi generalizado como estrela, coração, salvar, coleção e *read later* em diferentes produtos digitais |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Continuidade de Acesso|Continuidade de acesso]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]] |
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Expectativa de Disponibilidade|Expectativa de disponibilidade]] |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] |

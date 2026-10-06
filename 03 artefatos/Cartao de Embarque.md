@@ -73,11 +73,18 @@ O artefato revela uma ideia recorrente no design de serviços: **para atravessar
 | **Popularização** | Expansão da aviação comercial de massa |
 | **Padronização** | Padrões internacionais como o BCBP da IATA |
 | **Hipótese de design** | Um processo complexo pode ser coordenado se o usuário carregar um identificador compacto e verificável do seu estado |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Portar e apresentar uma credencial para atravessar limiares controlados |
 | **Comportamento produzido** | Navegar autonomamente por checkpoints usando uma representação portátil do estado da viagem |
 | **Relação de poder** | Dá autonomia operacional ao passageiro, mas também codifica permissões, prioridade e restrições definidas pela infraestrutura |
 | **Consequências inesperadas** | Custo invisível: Dependência de sistemas centrais, scanners, bateria e compatibilidade digital |
 | **Destino ou transformação posterior** | Ainda não explicitado. |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Tecnologia de Acesso|Tecnologia de acesso]], [[01 conceitos/Sincronizacao|Sincronização]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]] |
 | **Genealogia** | [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]] |

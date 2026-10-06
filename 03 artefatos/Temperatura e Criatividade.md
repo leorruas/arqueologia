@@ -103,11 +103,18 @@ Há ainda uma afinidade semiótica. No botão regenerar, uma nova amostragem pod
 | **Popularização** | Ferramentas de geração de texto e imagem tornam a ideia de regular variação familiar a públicos não técnicos |
 | **Padronização** | Ainda instável: produtos expõem parâmetros técnicos, presets ou metáforas como criatividade, variedade e precisão |
 | **Hipótese de design** | Usuários podem controlar uma propriedade estatística complexa por meio de uma escala semântica ligada ao resultado que desejam |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Regular intensidade, escolher entre segurança e exploração e trabalhar com variações |
 | **Comportamento produzido** | Pensar a máquina como mais ou menos “criativa” e configurar deliberadamente graus de imprevisibilidade |
 | **Relação de poder** | Simplifica acesso à configuração, mas a metáfora pode ocultar a mecânica, impor uma interpretação antropomórfica e naturalizar uma teoria sobre o que a máquina “é” |
 | **Consequências inesperadas** | Confusão entre diversidade estatística e criatividade humana; percepção de personalidade produzida por parâmetros de geração; naturalização cultural da criatividade como propriedade regulável da máquina |
 | **Destino ou transformação posterior** | Tendência a substituir parâmetros técnicos por controles semânticos, presets e escolhas automáticas feitas pelo próprio sistema |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Antropomorfismo|Antropomorfismo]], [[01 conceitos/Mitologias da IA|Mitologias da IA]], probabilidade, amostragem, diversidade, metáfora de interface, naturalização |
 | **Variáveis relacionadas** | previsibilidade, diversidade de saída, transparência do mecanismo |
 | **Genealogia** | controles de intensidade, sliders, presets, instrumentos que traduzem mecanismos técnicos em escalas operáveis |

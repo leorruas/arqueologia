@@ -57,3 +57,8 @@ A metáfora da arqueologia importa porque o interesse está menos no objeto isol
 A pergunta recorrente é: por que isso é assim e não de outra forma?
 
 A partir dela, o acervo tenta mostrar como pequenas decisões aparentemente banais podem reorganizar milhões de comportamentos.
+
+
+## Estado de publicação
+
+Estudos marcados como rascunho podem ser lidos no site e recebem uma indicação de revisão. Notas com `publicar: false` permanecem fora do catálogo e do pacote público. A ficha arqueológica possui 33 campos; registros ainda não investigados permanecem explicitamente em aberto. Alterações de conteúdo propostas pela automação passam por revisão antes de entrar no acervo.

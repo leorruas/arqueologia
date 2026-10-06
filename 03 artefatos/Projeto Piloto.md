@@ -99,11 +99,18 @@ Um piloto que só pode confirmar o projeto já escolhido não é realmente um ex
 | **Popularização** | Engenharia, ciência, políticas públicas, gestão, design, Lean Startup e desenvolvimento de software |
 | **Padronização** | Estudos piloto, betas, MVPs, rollouts graduais, testes A/B e feature flags, com diferenças metodológicas entre essas práticas |
 | **Hipótese de design** | Uma intervenção parcial e provisória pode produzir informação sobre o futuro com menor exposição ao custo de uma implantação integral |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Maior disposição para experimentar quando compromisso, escala e custo percebido são limitados |
 | **Comportamento produzido** | Testar antes de expandir, observar efeitos em uso e revisar decisões a partir de evidência operacional |
 | **Relação de poder** | Pode criar espaço real para revisão ou ser usado apenas para legitimar uma decisão já tomada sob aparência de experimentação |
 | **Consequências inesperadas** | Custo invisível: Efeito piloto, ilhas de excelência, atrasos, pilotos permanentes e falsa reversibilidade quando não existe possibilidade real de encerrar |
 | **Destino ou transformação posterior** | Ainda não explicitado. |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | experimentação, aprendizagem, [[02 variaveis/Reversibilidade|Reversibilidade]], [[02 variaveis/Custo do Erro|Custo do erro]], [[02 variaveis/Friccao|Fricção]] |
 | **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | Família de ideias: Artefatos de experimentação e compromisso parcial |

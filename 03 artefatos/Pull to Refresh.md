@@ -59,11 +59,18 @@ A questão que sobra é menos sobre a origem do gesto e mais sobre sua mudança 
 | **Popularização** | Expansão por aplicativos móveis e pelo cliente oficial do Twitter |
 | **Padronização** | Adoção recorrente transformou o gesto em convenção reconhecível em listas móveis |
 | **Hipótese de design** | Um comando secundário pode ser absorvido por uma manipulação espacial já em curso quando a relação entre ambos permanece compreensível |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Continuar puxando uma lista ao chegar ao seu limite |
 | **Comportamento produzido** | Puxar listas para solicitar atualização |
 | **Relação de poder** | Reduz controles visíveis e aumenta dependência de convenções gestuais aprendidas |
 | **Consequências inesperadas** | Participação possível em rotinas repetidas de verificação por novidade; interpretação comportamental, não intenção documentada do criador |
 | **Destino ou transformação posterior** | Tornou-se padrão amplamente incorporado a interfaces móveis |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Manipulacao Direta|Manipulação direta]], [[01 conceitos/Affordance|Affordance]], [[01 conceitos/Recompensa Variavel|Recompensa variável]] |
 | **Variáveis relacionadas** | [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Atencao|Atenção]] |
 | **Genealogia** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]], [[04 genealogias/Compressao do Esforco|Compressão do esforço]] |

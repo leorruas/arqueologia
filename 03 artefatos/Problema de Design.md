@@ -87,11 +87,18 @@ Talvez seja isso que separa formulação de simples briefing. O briefing diz o q
 | **Popularização** | Design estratégico, UX, design de serviços, design thinking e inovação |
 | **Padronização** | Problem statements, briefs reformulados, HMWs, discovery e enquadramentos de projeto |
 | **Hipótese de design** | Tornar explícita a situação a transformar amplia o espaço de soluções e reduz o risco de otimizar o problema errado |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Capacidade humana de reinterpretar uma situação e imaginar estados alternativos |
 | **Comportamento produzido** | Suspender soluções precoces, reformular demandas e comparar alternativas em relação a um estado desejado |
 | **Relação de poder** | Quem define o problema influencia quais soluções, usuários, métricas e restrições serão considerados legítimos |
 | **Consequências inesperadas** | Custo invisível: Tempo de investigação, disputa de escopo e possibilidade de paralisia por reformulação contínua |
 | **Destino ou transformação posterior** | Ainda não explicitado. |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | Ainda não explicitado. |
 | **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | Família de ideias: Artefatos de formulação e investigação |

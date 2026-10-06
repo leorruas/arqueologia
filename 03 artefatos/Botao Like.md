@@ -106,11 +106,18 @@ Isso conecta o Like à investigação sobre consentimento e transparência: uma 
 | **Popularização** | Facebook transformou o Like em gesto cotidiano de escala global |
 | **Padronização** | Likes, corações, upvotes e reações tornaram-se elementos esperados em plataformas de conteúdo social |
 | **Hipótese de design** | O Like venceu porque uma ação humana ambígua pôde ser comprimida até se tornar simultaneamente fácil de executar, fácil de observar e fácil de processar Hipótese sobre o comportamento humano: Muitas interações sociais precisam apenas de um sinal mínimo de reconhecimento, aprovação ou presença |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Sinais rápidos de aprovação e presença que já existiam em conversa, aplauso, votação e comentários curtos |
 | **Comportamento produzido** | Reagir rotineiramente a conteúdo por meio de um sinal padronizado e numericamente acumulável |
 | **Relação de poder** | Facilita expressão para o usuário e simultaneamente aumenta a capacidade da plataforma de medir, ranquear e interpretar comportamento |
 | **Consequências inesperadas** | Likes passaram a participar de métricas públicas de popularidade, sistemas de distribuição e arquiteturas de dados muito além da intenção expressiva inicial Capacidade ampliada: Expressão social rápida, feedback em escala e legibilidade coletiva de reações Capacidade reduzida ou deslocada: Pode substituir algumas respostas escritas mais nuançadas por sinais comprimidos; o grau desse efeito varia por contexto Custo invisível: Redução de nuances, exposição de métricas sociais e produção constante de dados comportamentais |
 | **Destino ou transformação posterior** | Padronizado, expandido em reações e incorporado a múltiplas plataformas Legado: Transformou reação social em um dos principais sinais computáveis da economia de atenção |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Economia da Atencao|Economia da Atenção]], [[01 conceitos/Recompensa Variavel|Recompensa Variável]], [[01 conceitos/Compressao do Esforco|Compressão do Esforço]], [[01 conceitos/Redução de Inferências|Redução de Inferências]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo Transacional|Custo Transacional]], [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Friccao|Fricção]] |
 | **Genealogia** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]], [[04 genealogias/Compressao do Esforco|Compressão do esforço]] Família de ideias: Sinais sociais comprimidos |

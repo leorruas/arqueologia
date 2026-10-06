@@ -129,11 +129,18 @@ Aqui reaparece uma regra recorrente do projeto: **reduzir fricção não reduz n
 | **Popularização** | Expansão dos serviços profissionais e de saúde e crescimento de sistemas administrativos no século XX |
 | **Padronização** | Agendas eletrônicas e plataformas de reserva transformaram slots em unidade operacional comum de muitos serviços |
 | **Hipótese de design** | O agendamento substitui parte da espera presente por uma promessa sobre capacidade futura. Pessoas aceitam compromissos futuros quando recebem uma expectativa suficientemente confiável de acesso em troca |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Capacidade de planejar e cumprir compromissos usando referências temporais compartilhadas |
 | **Comportamento produzido** | Reservar serviços antecipadamente, confirmar presença, reagendar e organizar atividades em torno de slots |
 | **Relação de poder** | Quem define duração, disponibilidade, tolerância a atraso e regras de cancelamento controla parte importante do acesso ao serviço |
 | **Consequências inesperadas** | Quanto mais fácil reservar tempo, maior pode ser a densidade de compromissos disputando a agenda. Slots ociosos, rigidez e padronização inadequada também redistribuem risco temporal entre usuário e prestador Registros adicionais preservados da ficha anterior: autores relacionados: [[autores/Henri Bergson|Henri Bergson]] como lente sobre duração e discretização do tempo |
 | **Destino ou transformação posterior** | De negociação humana e livros físicos a plataformas digitais que expõem e alocam disponibilidade automaticamente. Legado: sistemas de reserva, calendários compartilhados, self-scheduling, Calendly e automações de reuniões |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Sincronizacao|Sincronização]], [[01 conceitos/Tecnologia de Acesso|Tecnologia de Acesso]], [[01 conceitos/Distribuicao de Escassez|Distribuição de Escassez]] |
 | **Variáveis relacionadas** | [[02 variaveis/Atrito Decisorio|Atrito Decisório]], [[02 variaveis/Justica|Justiça]], [[02 variaveis/Expectativa de Disponibilidade|Expectativa de Disponibilidade]], [[02 variaveis/Custo Transacional|Custo Transacional]] |
 | **Genealogia** | [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]], [[04 genealogias/Acesso e Disponibilidade|Acesso e disponibilidade]]. Família de ideias: tecnologias de pré-alocação de capacidade |

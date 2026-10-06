@@ -81,11 +81,18 @@ O artefato também pertence à genealogia [[04 genealogias/Limiares e Delimitaca
 | **Popularização** | Distribuição em massa do iPhone e familiarização do público com gestos contínuos de toque |
 | **Padronização** | O deslizar tornou-se gesto reconhecível em interfaces móveis, embora o Slide to Unlock específico tenha posteriormente perdido centralidade |
 | **Hipótese de design** | O Slide to Unlock transforma intenção em trajetória: não basta tocar, é preciso completar um movimento reconhecível Hipótese sobre o comportamento humano: Uma sequência motora espacialmente específica é um sinal de intenção mais confiável do que um contato isolado |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Deslizar objetos e controles ao longo de trajetórias |
 | **Comportamento produzido** | Desbloquear dispositivos por um movimento contínuo do dedo e esperar que gestos direcionais produzam mudanças de estado |
 | **Relação de poder** | O sistema decide quando um movimento corporal é suficientemente estruturado para ser tratado como intenção |
 | **Consequências inesperadas** | A familiaridade com o deslizar passou a alimentar um repertório muito maior de gestos de interface Capacidade ampliada: Proteção contra acionamentos acidentais sem depender de uma sequência complexa de teclas Capacidade reduzida ou deslocada: Adiciona uma etapa motora obrigatória antes do acesso Custo invisível: Pequeno atraso de entrada e necessidade inicial de aprender um gesto não evidente em uma superfície lisa |
 | **Destino ou transformação posterior** | Historicamente incorporado e depois parcialmente substituído por outras formas de desbloqueio e autenticação Legado: Tornou-se um dos símbolos iniciais da interação gestual no smartphone contemporâneo |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Manipulacao Direta|Manipulação Direta]], [[01 conceitos/Esqueuomorfismo|Esqueuomorfismo]], [[01 conceitos/Affordance|Affordance]], [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção Boa vs Fricção Ruim]], [[01 conceitos/Limiares|Limiares]] |
 | **Variáveis relacionadas** | [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Custo do Erro|Custo do Erro]], [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]] |
 | **Genealogia** | [[04 genealogias/Limiares e Delimitacao|Limiares e delimitação]], [[04 genealogias/Compressao do Esforco|Compressão do esforço]] Família de ideias: Gestos de intenção e tecnologias de limiar |

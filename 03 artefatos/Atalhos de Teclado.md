@@ -63,11 +63,18 @@ O princípio é semelhante: **pagar um custo inicial de aprendizagem para econom
 | **Popularização** | Apple Lisa, Macintosh e posteriormente sistemas e aplicativos de massa |
 | **Padronização** | Convenções recorrentes como Command/Ctrl + C, X, V, Z, S |
 | **Hipótese de design** | Usuários frequentes aceitam aprender convenções ocultas quando a economia de esforço se repete muitas vezes |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Aprendizagem por repetição e automatização de sequências motoras |
 | **Comportamento produzido** | Operar software por memória de combinações sem navegar visualmente a cada ação |
 | **Relação de poder** | Aumenta a eficiência de especialistas, mas cria diferença de desempenho entre quem conhece e quem não conhece o repertório oculto |
 | **Consequências inesperadas** | Custo invisível: Baixa descobribilidade, inconsistência entre aplicativos e dependência de aprendizagem cultural |
 | **Destino ou transformação posterior** | Ainda não explicitado. |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Manipulacao Direta|Manipulação direta]], [[01 conceitos/Affordance|Affordance]] |
 | **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | [[04 genealogias/Compressao do Esforco|Compressão do esforço]] |

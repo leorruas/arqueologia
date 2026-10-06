@@ -99,11 +99,18 @@ Um princípio útil não substitui pensamento. Ele tenta preservar uma forma de 
 | **Popularização** | Códigos profissionais, design principles, leadership principles, metodologias e sistemas de governança |
 | **Padronização** | Conjuntos explícitos de princípios usados para orientar design, produto, cultura e tomada de decisão |
 | **Hipótese de design** | Critérios gerais compartilhados permitem decisões coerentes sem exigir procedimentos exaustivos |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Capacidade humana de interpretar critérios abstratos diante de situações novas |
 | **Comportamento produzido** | Julgar localmente em vez de depender apenas de instruções pré-escritas |
 | **Relação de poder** | Pode distribuir autonomia, mas quem define e interpreta princípios continua influenciando quais decisões são consideradas legítimas |
 | **Consequências inesperadas** | Custo invisível: Ambiguidade, decisões inconsistentes e uso retórico do princípio para justificar escolhas feitas por outros motivos |
 | **Destino ou transformação posterior** | Ainda não explicitado. |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | Ainda não explicitado. |
 | **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | Família de ideias: Artefatos de autodeterminação e escolha |

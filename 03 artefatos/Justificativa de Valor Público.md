@@ -108,11 +108,18 @@ Nesse sentido, justificabilidade não é sinônimo de produzir mais documentos. 
 | **Popularização** | Ainda não aplicável; artefato em formulação |
 | **Padronização** | Ainda não aplicável |
 | **Hipótese de design** | Uma justificativa curta, estruturada e verificável pode tornar decisões públicas mais legíveis e contestáveis antes de recursos serem comprometidos |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Necessidade institucional e jurídica de justificar decisões, além da capacidade de revisar argumentos quando premissas ficam explícitas |
 | **Comportamento produzido** | Investigar a demanda antes da solução, comparar alternativas e registrar condições de avaliação posterior |
 | **Relação de poder** | Reduz a força de demandas sustentadas apenas por autoridade, mas pode criar nova concentração de poder se a avaliação ficar monopolizada por uma instância técnica |
 | **Consequências inesperadas** | Custo invisível: Nova carga burocrática, preenchimento performativo e paralisia quando exigências são desproporcionais ao risco da decisão Registros adicionais preservados da ficha anterior: estado: Proposta conceitual; não há no vault evidência de institucionalização formal no IFMG |
 | **Destino ou transformação posterior** | Ainda não explicitado. |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Formulacao|Formulação]], [[01 conceitos/Justificabilidade|Justificabilidade]], [[01 conceitos/Intencao|Intenção]], [[01 conceitos/Justica Procedimental|Justiça procedimental]], [[01 conceitos/Servico de Reflexao|Serviço de reflexão]] |
 | **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | Família de ideias: Artefatos de justificabilidade, governança e legibilidade decisória |

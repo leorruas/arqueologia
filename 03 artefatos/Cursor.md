@@ -63,11 +63,18 @@ Talvez um sinal de sucesso do cursor seja justamente ter se tornado tão convenc
 | **Popularização** | Interfaces gráficas de computadores pessoais e adoção ampla do mouse |
 | **Padronização** | Seta, mão, I-beam, indicadores de espera, redimensionamento e outras convenções recorrentes |
 | **Hipótese de design** | Mostrar continuamente onde a ação está localizada reduz a distância cognitiva entre intenção corporal e manipulação digital |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Apontar para indicar atenção, intenção e alvo |
 | **Comportamento produzido** | Navegar espacialmente por interfaces, selecionar, arrastar, redimensionar e explorar elementos por hover |
 | **Relação de poder** | A interface define quais alvos podem ser reconhecidos pelo cursor e quais ações ficam disponíveis em cada posição |
 | **Consequências inesperadas** | Convenções do cursor passaram a carregar expectativas de interatividade; ausência ou uso incorreto pode tornar elementos funcionalmente invisíveis |
 | **Destino ou transformação posterior** | Desaparece em parte no toque direto e reaparece em canetas, realidade estendida, controle por olhar e interfaces remotas |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | focalização, feedback, apontamento, affordance, manipulação direta, atenção e extensão corporal |
 | **Variáveis relacionadas** | posição, precisão, latência, visibilidade, estado e alvo |
 | **Genealogia** | apontar corporal → instrumentos apontadores → posição em terminais → ponteiro gráfico → cursores contextuais |

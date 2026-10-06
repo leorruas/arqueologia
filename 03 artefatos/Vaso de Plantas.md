@@ -76,11 +76,18 @@ Essa troca aparece em muitos produtos portáteis. Quando o design remove um recu
 | **Popularização** | Jardinagem doméstica, horticultura, circulação comercial de plantas e urbanização |
 | **Padronização** | Tamanhos, furos de drenagem, formatos de viveiro e sistemas de produção e transporte |
 | **Hipótese de design** | Se parte das condições ambientais necessárias a um organismo puder ser delimitada e transportada, o organismo pode existir em lugares antes inadequados |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Cultivo, cuidado, coleta, ornamentação e desejo de aproximar elementos vivos dos espaços humanos |
 | **Comportamento produzido** | Regar, podar, adubar, reposicionar, transplantar e observar regularmente organismos domésticos |
 | **Relação de poder** | O humano passa a controlar localização, água, nutrientes, reprodução e condições de existência da planta |
 | **Consequências inesperadas** | Dependência de manutenção, transformação de plantas em mercadorias e objetos decorativos, circulação de espécies e novas relações afetivas com plantas |
 | **Destino ou transformação posterior** | Vasos autoirrigáveis, cultivo hidropônico, jardins verticais, sistemas inteligentes de cultivo e horticultura indoor |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Portabilizacao de contexto|Portabilização de contexto]], microambiente, domesticação, cuidado, portabilidade, enquadramento, controle ambiental, infraestrutura e manutenção |
 | **Variáveis relacionadas** | volume de substrato, drenagem, umidade, luz, mobilidade, crescimento radicular e frequência de manutenção |
 | **Genealogia** | recipiente → recipiente de cultivo → vaso com drenagem → vaso ornamental → sistemas especializados de cultivo |

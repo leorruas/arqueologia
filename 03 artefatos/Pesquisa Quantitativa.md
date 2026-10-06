@@ -103,11 +103,18 @@ O melhor uso da pesquisa quantitativa talvez não seja transformar pessoas em pe
 | **Popularização** | Administração pública, ciência, pesquisa de opinião, marketing e, posteriormente, produto digital e UX |
 | **Padronização** | Protocolos de amostragem, desenho de questionário, documentação metodológica e métodos estatísticos tornaram resultados mais comparáveis e auditáveis |
 | **Hipótese de design** | Estabilizar categorias e medidas permite comparar experiências individuais e inferir padrões coletivos |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Responder a instrumentos padronizados e produzir rastros observáveis de ação |
 | **Comportamento produzido** | Medir, comparar, segmentar, priorizar e acompanhar mudanças ao longo do tempo |
 | **Relação de poder** | Quem define categorias, amostra e métricas define quais diferenças se tornam visíveis e governáveis |
 | **Consequências inesperadas** | Precisão numérica pode produzir falsa certeza; médias podem apagar minorias e instrumentos podem medir categorias inadequadas com grande consistência |
 | **Destino ou transformação posterior** | Painéis online, telemetria digital, experimentação contínua, causal inference, métricas em tempo real e combinação com métodos qualitativos |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Investigação|Investigação]], [[01 conceitos/Justificabilidade|Justificabilidade]], [[01 conceitos/Formulacao|Formulação]], [[01 conceitos/Distribuicao de Escassez|Distribuição de escassez]] |
 | **Variáveis relacionadas** | [[02 variaveis/Variabilidade|Variabilidade]], [[02 variaveis/Justica|Justiça]], [[02 variaveis/Legitimidade Decisoria|Legitimidade decisória]] |
 | **Genealogia** | Artefatos de investigação, medição e comparação |

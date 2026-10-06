@@ -107,11 +107,18 @@ Talvez sua principal contribuição não seja “mostrar a jornada do cliente”
 | **Popularização** | Customer experience, UX e service design nas décadas de 2000 e 2010 |
 | **Padronização** | Não existe schema universal; linha temporal e camadas de experiência tornaram-se convenções recorrentes |
 | **Hipótese de design** | Tornar uma experiência temporal visível numa superfície comum permite perceber rupturas e relações que departamentos isolados não enxergam |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Narrar experiências como sequências e reconhecer mudança através de eventos no tempo |
 | **Comportamento produzido** | Mapear etapas, relacionar evidências a momentos e discutir experiência como trajetória em vez de touchpoints isolados |
 | **Relação de poder** | Quem escolhe a persona, o início, o fim e as evidências do mapa também escolhe qual experiência se torna representativa |
 | **Consequências inesperadas** | Jornadas podem virar narrativas lineares e esteticamente convincentes que escondem exceções, incerteza e diferenças entre usuários |
 | **Destino ou transformação posterior** | Expansão para journey analytics, mapas dinâmicos, omnichannel e combinações com service blueprinting e dados comportamentais |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Redução de Inferências|Redução de inferências]], [[01 conceitos/Ecologia de Artefatos|Ecologia de artefatos]], [[01 conceitos/Investigação|Investigação]], [[01 conceitos/Formulação|Formulação]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Atrito Decisorio|Atrito decisório]], [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]] |
 | **Genealogia** | Parente funcional de representações que tornam processos e sequências distribuídas inspecionáveis |

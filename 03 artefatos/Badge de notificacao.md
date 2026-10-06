@@ -97,11 +97,18 @@ Sob a lente da [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção Boa vs Fric�
 | **Popularização** | Ecossistemas de smartphones e notificações push tornaram badges uma presença cotidiana na tela inicial |
 | **Padronização** | iOS consolidou amplamente o badge numérico; Android 8.0 incorporou pontos de notificação como convenção de plataforma, mostrando que a semântica não é universal |
 | **Hipótese de design** | Um pequeno sinal persistente pode reduzir o custo de verificar um sistema ao tornar sua pendência visível antes da abertura |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Usar sinais ambientais persistentes para lembrar tarefas, novidades ou estados não resolvidos |
 | **Comportamento produzido** | Verificar aplicativos para reduzir ou zerar contadores e perceber a tela inicial como painel de pendências |
 | **Relação de poder** | O sistema ganha capacidade de manter uma demanda perceptivamente presente fora do contexto original; configurações de notificação devolvem parte desse controle ao usuário |
 | **Consequências inesperadas** | Ansiedade por contadores crescentes, equiparação entre quantidade e importância, hábito de “zerar” notificações e competição entre aplicativos pela volta do usuário |
 | **Destino ou transformação posterior** | Continua presente como número, ponto ou outro sinal sobre ícones e coexistindo com banners, central de notificações e resumos |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Economia da Atencao|Economia da atenção]], [[01 conceitos/Autonomia da Atencao|Autonomia da atenção]], [[01 conceitos/Redução de Inferências|Redução de inferências]], [[01 conceitos/Memoria Distribuida|Memória distribuída]] |
 | **Variáveis relacionadas** | [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Expectativa de Disponibilidade|Expectativa de disponibilidade]], [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Friccao|Fricção]] |
 | **Genealogia** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]]; secundariamente [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] |

@@ -101,11 +101,18 @@ Ela não elimina a necessidade de estratégia. Cria um horizonte contra o qual e
 | **Popularização** | Planejamento estratégico, transformação organizacional, produtos e organizações de grande escala |
 | **Padronização** | Vision statements, planejamento estratégico, processos de mudança e narrativas de futuro |
 | **Hipótese de design** | Uma imagem de futuro suficientemente clara pode coordenar decisões sem especificar todas as ações necessárias |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Tendência humana de organizar ações presentes em relação a estados futuros desejados |
 | **Comportamento produzido** | Decidir localmente usando uma direção futura compartilhada como critério |
 | **Relação de poder** | Pode distribuir autonomia quando pessoas podem interpretar e agir; pode mascarar centralização quando serve apenas como discurso |
 | **Consequências inesperadas** | Custo invisível: Vaguidão, uso cosmético, rigidez quando a visão envelhece e ocultação das dificuldades concretas de execução |
 | **Destino ou transformação posterior** | Ainda não explicitado. |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | Ainda não explicitado. |
 | **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | Família de ideias: Artefatos de intenção e autodeterminação |

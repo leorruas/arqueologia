@@ -30,3 +30,8 @@ status: "ativo"
 
 > [!IMPORTANT]
 > Evite a antítese automática típica de texto gerado por LLM: `não é X, é Y`, `não se trata de X, mas de Y`, `menos X e mais Y`, `não apenas X, mas Y` e variações usadas apenas para produzir efeito retórico. Prefira formular a tese afirmativamente e desenvolver a diferença em prosa. Contrastes continuam válidos quando distinguem conceitos realmente diferentes, corrigem uma equivalência enganosa ou são necessários ao argumento; nesses casos, a oposição deve ser específica e justificada, não um molde de frase repetido.
+
+
+## Contrato da automação
+
+As decisões de schema, propostas revisáveis, pistas acumulativas e publicação estão em [[me#Automação e publicação|Automação e publicação]]. A ficha atual possui 33 campos. Scripts de conteúdo produzem propostas por padrão; a aplicação explícita exige revisar o diff e preservar valores e narrativa. A publicação bloqueia schema incompatível, possível perda de dados e links públicos ambíguos ou sem destino; capitalização e reciprocidade geram avisos.

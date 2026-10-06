@@ -117,11 +117,18 @@ A pergunta que fica para o presente é se a migração da parede compartilhada p
 | **Popularização** | Expansão da publicidade, cultura urbana, entretenimento, arte impressa e propaganda no século XIX e XX |
 | **Padronização** | Afixação em superfícies públicas tornou-se convenção recorrente da comunicação urbana |
 | **Hipótese de design** | Uma mensagem pode ganhar atenção sem emissor presente se condensar significado em uma superfície perceptível à distância |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Escaneamento visual periférico, orientação por contraste, rostos, escala e antecipação imaginativa |
 | **Comportamento produzido** | Ler superfícies verticais da cidade como fontes de informação; encontrar arte sem procurá-la; interpretar paredes também como registros temporais de acontecimentos |
 | **Relação de poder** | Ocupar uma superfície pública concede capacidade temporária de enunciar e disputar interpretação do espaço |
 | **Consequências inesperadas** | Poluição visual, camadas de papéis, propaganda intensiva, apropriação por regimes autoritários e transformação de superfícies públicas em mercados de atenção |
 | **Destino ou transformação posterior** | Continua ativo e teve sua gramática parcialmente deslocada para outdoors, capas, thumbnails, posts e interfaces digitais |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Peles Temporarias da Arquitetura|Peles temporárias da arquitetura]], [[01 conceitos/Limiares|Limiares]], [[01 conceitos/Economia da Atencao|Economia da atenção]] |
 | **Variáveis relacionadas** | [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]], [[02 variaveis/Permanencia|Permanência]] |
 | **Genealogia** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]], [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] |

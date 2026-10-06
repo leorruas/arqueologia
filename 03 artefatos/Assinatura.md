@@ -121,11 +121,18 @@ Sob a lente dos padrões enganosos, a pergunta é: **o artefato está tornando a
 | **Popularização** | Expansão da escrita administrativa, do comércio, dos contratos e da alfabetização |
 | **Padronização** | Tornou-se etapa esperada em inúmeros atos jurídicos e administrativos, embora sua forma válida continue dependente do contexto |
 | **Hipótese de design** | A assinatura permite que uma manifestação momentânea continue vinculada a um agente depois que o momento da decisão passou |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Reconhecimento de marcas pessoais e uso social de rituais de compromisso |
 | **Comportamento produzido** | Assinar e rubricar como gesto convencional de concluir ou validar determinados atos |
 | **Relação de poder** | Permite que instituições atribuam atos e obrigações a agentes ausentes; também dá ao indivíduo uma forma portátil de manifestar adoção ou consentimento |
 | **Consequências inesperadas** | A assinatura pode tornar-se ritual automático e ser confundida com prova de leitura ou compreensão; sistemas podem concentrar excessiva confiança na autenticidade do sinal Registros adicionais preservados da ficha anterior: autores relacionados: [[autores/Paul Ricoeur|Paul Ricoeur]]: ipseidade, promessa e responsabilidade através do tempo |
 | **Destino ou transformação posterior** | A forma manuscrita continua ativa, mas coexiste com mecanismos eletrônicos e criptográficos que deslocam parte da confiança para infraestrutura invisível |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Limiares|Limiares]], [[01 conceitos/Justificabilidade|Justificabilidade]], [[01 conceitos/Redução de Inferências|Redução de Inferências]], [[01 conceitos/Promessa|Promessa]] |
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Reversibilidade|Reversibilidade]], [[02 variaveis/Legitimidade Decisoria|Legitimidade Decisória]] |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]], [[04 genealogias/Limiares e Delimitacao|Limiares e delimitação]]. Família de ideias: artefatos de identidade, autoria e compromisso |

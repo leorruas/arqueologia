@@ -97,11 +97,18 @@ O artefato funciona melhor quando sua abertura não é confundida com neutralida
 | **Popularização** | Ciências sociais no século XX; pesquisa de mercado, UX e service design nas décadas seguintes |
 | **Padronização** | Roteiros semiestruturados, consentimento, gravação, transcrição, codificação e síntese temática tornaram-se práticas recorrentes, sem um formato universal |
 | **Hipótese de design** | Dar espaço para reconstrução narrativa permite acessar significados e relações que instrumentos fechados não antecipam |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Pessoas explicam experiências por histórias, exemplos, comparações e justificativas |
 | **Comportamento produzido** | Reconstruir eventos, explicitar motivações e transformar experiência passada em material analisável |
 | **Relação de poder** | O pesquisador controla enquadramento, perguntas e edição posterior; o participante controla parte do que revela e de como interpreta sua experiência |
 | **Consequências inesperadas** | Falas memoráveis podem ser confundidas com padrões populacionais; roteiro e pesquisador podem produzir viés de confirmação |
 | **Destino ou transformação posterior** | Entrevistas remotas, gravação e transcrição automáticas, pesquisa assistida por IA e combinação com dados comportamentais |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Investigação|Investigação]], [[01 conceitos/Formulacao|Formulação]], [[01 conceitos/Justificabilidade|Justificabilidade]], [[01 conceitos/Memoria Distribuida|Memória distribuída]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Atrito Decisorio|Atrito decisório]] |
 | **Genealogia** | Artefatos de investigação e externalização da experiência |

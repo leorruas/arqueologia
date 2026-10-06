@@ -93,11 +93,18 @@ Há, portanto, uma diferença entre **desenhar a fila** e **resolver o gargalo**
 | **Popularização** | Expansão urbana de serviços de massa e forte visibilidade em situações de escassez e racionamento |
 | **Padronização** | “Primeiro a chegar, primeiro a ser atendido” tornou-se uma regra amplamente reconhecida em muitos contextos |
 | **Hipótese de design** | A fila transforma tempo de chegada em ordem espacial para tornar uma regra de prioridade visível e socialmente fiscalizável. Pessoas toleram melhor a escassez quando conseguem compreender e fiscalizar uma regra de distribuição percebida como legítima |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Reconhecimento de precedência temporal e disposição para seguir normas compartilhadas |
 | **Comportamento produzido** | Espera ordenada, proteção moral do “lugar na fila” e vigilância mútua da sequência |
 | **Relação de poder** | Organiza corpos em relação a quem controla o recurso; também dá aos participantes uma regra comum para contestar violações como o fura-fila |
 | **Consequências inesperadas** | Naturalização da espera como parte do serviço, transformação do lugar na fila em posse temporária e transferência para o usuário de parte do custo de capacidade insuficiente Registros adicionais preservados da ficha anterior: autores relacionados: [[autores/Henri Bergson|Henri Bergson]] como lente comparativa sobre tempo mensurado e duração vivida |
 | **Destino ou transformação posterior** | Persiste fisicamente e foi abstraído em senhas, sistemas digitais e algoritmos de prioridade. Legado: senhas, filas virtuais, algoritmos de atendimento, agendamento e modelos FIFO |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Justica Procedimental|Justiça Procedimental]], [[01 conceitos/Distribuicao de Escassez|Distribuição de Escassez]], [[01 conceitos/Limiares|Limiares]], [[01 conceitos/Tecnologia de Acesso|Tecnologia de Acesso]] |
 | **Variáveis relacionadas** | [[02 variaveis/Justica|Justiça]], [[02 variaveis/Legitimidade Decisoria|Legitimidade Decisória]], [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Custo Transacional|Custo Transacional]] |
 | **Genealogia** | [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]], [[04 genealogias/Acesso e Disponibilidade|Acesso e disponibilidade]]. Família de ideias: tecnologias de distribuição de escassez |

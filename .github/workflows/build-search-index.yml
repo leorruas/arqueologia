@@ -1,136 +1,69 @@
-name: Atualizar índice e auditorias
+name: Validar e publicar o acervo
 
 on:
   push:
-    branches:
-      - main
-    paths:
-      - "00 tipos de design/**/*.md"
-      - "00 índices/**/*.md"
-      - "01 conceitos/**/*.md"
-      - "02 variaveis/**/*.md"
-      - "03 artefatos/**/*.md"
-      - "04 genealogias/**/*.md"
-      - "05 percursos/**/*.md"
-      - "autores/**/*.md"
-      - "empresas/**/*.md"
-      - "templates/**/*.md"
-      - "AGENTS.md"
-      - "me.md"
-      - "Instrucoes de Arqueologia.md"
-      - "Guia de escrita.md"
-      - "index.md"
-      - "script.js"
-      - "enhancements.js"
-      - "enhancements.css"
-      - "puc-parity.js"
-      - "puc-parity.css"
-      - "index.html"
-      - "legacy.html"
-      - "legacy-ios12.js"
-      - "footnotes.js"
-      - "callouts.js"
-      - "loader.js"
-      - "loader.css"
-      - "scripts/build-search-index.mjs"
-      - "scripts/normalize-sentence-case.mjs"
-      - "scripts/migrate-artifact-sheets.mjs"
-      - "scripts/audit-editorial.mjs"
-      - "scripts/audit-network.mjs"
-      - "scripts/consolidate-unresolved-links.mjs"
-      - ".github/workflows/build-search-index.yml"
+    branches: [main]
+  pull_request:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
 
 concurrency:
-  group: search-index-${{ github.ref }}
-  cancel-in-progress: true
+  group: publication-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
-  build:
+  validate:
     runs-on: ubuntu-latest
     steps:
-      - name: Baixar repositório
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
-          fetch-depth: 0
-
-      - name: Configurar Node.js
-        uses: actions/setup-node@v4
+          node-version: '24'
+      - name: Validar JavaScript e contratos
+        run: |
+          for script in *.js scripts/*.mjs; do node --check "$script"; done
+          node --test tests/contracts.test.mjs
+      - name: Gerar índice e relatórios sem modificar notas
+        run: |
+          node scripts/build-search-index.mjs
+          node scripts/audit-editorial.mjs
+          node scripts/audit-network.mjs
+      - name: Preparar propostas de conteúdo para revisão
+        run: |
+          node scripts/normalize-sentence-case.mjs
+          node scripts/migrate-artifact-sheets.mjs
+          node scripts/consolidate-unresolved-links.mjs
+      - name: Aplicar bloqueios de publicação
+        run: node scripts/validate-publication.mjs
+      - name: Disponibilizar relatórios e propostas
+        if: always()
+        uses: actions/upload-artifact@v4
         with:
-          node-version: "24"
+          name: relatorios-e-propostas
+          include-hidden-files: true
+          path: |
+            *-report.json
+            .review/
+      - name: Montar pacote público filtrado
+        run: node scripts/build-public-site.mjs
+      - uses: actions/upload-pages-artifact@v3
+        if: github.event_name != 'pull_request'
+        with:
+          path: .site
 
-      - name: Validar JavaScript
-        run: |
-          node --check loader.js
-          node --check legacy-ios12.js
-          node --check footnotes.js
-          node --check callouts.js
-          node --check script.js
-          node --check enhancements.js
-          node --check puc-parity.js
-          node --check scripts/build-search-index.mjs
-          node --check scripts/normalize-sentence-case.mjs
-          node --check scripts/migrate-artifact-sheets.mjs
-          node --check scripts/audit-editorial.mjs
-          node --check scripts/audit-network.mjs
-          node --check scripts/consolidate-unresolved-links.mjs
-
-      - name: Mapear wikilinks sem destino
-        run: node scripts/build-search-index.mjs
-
-      - name: Auditar sentence case e fichas arqueológicas
-        run: node scripts/audit-editorial.mjs
-
-      - name: Auditar integração e reciprocidade da rede
-        run: node scripts/audit-network.mjs
-
-      - name: Gerar índice e relatório final de links
-        run: node scripts/build-search-index.mjs
-
-      - name: Salvar normalização, índice e auditorias
-        shell: bash
-        run: |
-          git add \
-            "00 tipos de design" \
-            "00 índices" \
-            "01 conceitos" \
-            "02 variaveis" \
-            "03 artefatos" \
-            "04 genealogias" \
-            "05 percursos" \
-            autores empresas \
-            search-index.json link-report.json editorial-report.json network-report.json
-          if [ -f "Pistas de pesquisa.md" ]; then
-            git add "Pistas de pesquisa.md"
-          fi
-          if git diff --cached --quiet; then
-            echo "Conteúdo e relatórios já estão atualizados."
-            exit 0
-          fi
-
-          # Uma propagação pode produzir vários commits em poucos segundos.
-          # Se a main avançou durante esta execução, este resultado foi calculado
-          # sobre um estado antigo do vault. A execução mais nova é responsável
-          # por recalcular e salvar os artefatos derivados.
-          git fetch origin main
-          REMOTE_SHA="$(git rev-parse origin/main)"
-          if [ "$REMOTE_SHA" != "$GITHUB_SHA" ]; then
-            echo "A main avançou de $GITHUB_SHA para $REMOTE_SHA; ignorando execução obsoleta."
-            exit 0
-          fi
-
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "chore: normaliza acervo e atualiza auditorias [skip ci]"
-
-          # Fecha a pequena janela de corrida entre o fetch acima e o push.
-          # Um non-fast-forward aqui significa apenas que chegou um commit mais novo;
-          # não é erro de build e a execução correspondente fará a atualização.
-          if ! git push; then
-            git fetch origin main
-            echo "A main avançou antes do push; deixando a execução mais nova atualizar o índice."
-            exit 0
-          fi
+  deploy:
+    if: github.event_name != 'pull_request'
+    needs: validate
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publicar somente após validação
+        id: deployment
+        uses: actions/deploy-pages@v4

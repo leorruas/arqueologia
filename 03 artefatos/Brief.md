@@ -85,11 +85,18 @@ Nesse sentido, o brief é menos um começo do projeto do que um ponto de referê
 | **Popularização** | Agências, estúdios, departamentos de marketing, consultorias e equipes de produto |
 | **Padronização** | Creative briefs, design briefs, project briefs e formulários estruturados de entrada de demanda |
 | **Hipótese de design** | Restrições e objetivos explícitos permitem concentrar julgamento criativo no espaço que permanece aberto |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Capacidade de usar um registro compartilhado para coordenar expectativas e reduzir dependência de memória individual |
 | **Comportamento produzido** | Formalizar contexto antes da execução e retornar ao documento para avaliar mudanças e divergências |
 | **Relação de poder** | Quem define o brief influencia quais restrições serão tratadas como dadas e quais perguntas poderão ser reabertas |
 | **Consequências inesperadas** | Custo invisível: Tempo de preparação, ocultação de conflitos internos e risco de transformar briefing em prescrição detalhada de solução |
 | **Destino ou transformação posterior** | Ainda não explicitado. |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | Ainda não explicitado. |
 | **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | Família de ideias: Artefatos de coordenação e formulação |

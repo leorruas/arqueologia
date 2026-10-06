@@ -101,11 +101,18 @@ Arquivar é uma pequena demonstração disso: **uma coisa pode continuar pertenc
 | **Popularização** | Gmail e, posteriormente, muitos clientes de e-mail, mensageria e sistemas de produtividade |
 | **Padronização** | Comando Archive como estado distinto de Inbox e Delete |
 | **Hipótese de design** | Quando armazenar e recuperar ficam baratos, o sistema pode reduzir o custo de organização antecipada |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Afastar algo resolvido do campo imediato sem querer perdê-lo definitivamente |
 | **Comportamento produzido** | Arquivar rapidamente e confiar em busca ou recuperação posterior em vez de classificar cada item |
 | **Relação de poder** | Aumenta autonomia sobre o campo de atenção, mas transfere dependência para infraestrutura de armazenamento e indexação |
 | **Consequências inesperadas** | Custo invisível: Acúmulo de dados, dependência da busca e invisibilidade do custo material da infraestrutura necessária para preservar tudo |
 | **Destino ou transformação posterior** | Ainda não explicitado. |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Autonomia da Atencao|Autonomia da atenção]], [[01 conceitos/Tecnologia de Acesso|Tecnologia de acesso]], [[01 conceitos/Memoria Distribuida|Memória distribuída]] |
 | **Variáveis relacionadas** | [[02 variaveis/Atrito Decisorio|Atrito decisório]], [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Permanencia|Permanência]] |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] |

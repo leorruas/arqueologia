@@ -79,11 +79,18 @@ Por isso seu destino mais interessante talvez não seja ser respondida exatament
 | **Popularização** | Universidades, pesquisa científica, pesquisa de mercado, UX Research e investigação aplicada |
 | **Padronização** | Projetos de pesquisa, TCCs, dissertações, teses, protocolos e briefs de pesquisa |
 | **Hipótese de design** | Uma dúvida explicitada e compartilhada consegue coordenar decisões investigativas ao longo do tempo |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Capacidade humana de perseguir uma dúvida explícita e usar um objetivo compartilhado como critério de seleção |
 | **Comportamento produzido** | Selecionar métodos, fontes e dados em relação a uma lacuna formulada |
 | **Relação de poder** | Quem formula a pergunta influencia o que será observado e o que poderá permanecer fora do campo |
 | **Consequências inesperadas** | Custo invisível: Exclusão de descobertas periféricas, estreitamento prematuro e risco de transformar pesquisa em confirmação |
 | **Destino ou transformação posterior** | Ainda não explicitado. |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | Ainda não explicitado. |
 | **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | Família de ideias: Artefatos de formulação e investigação |

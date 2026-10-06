@@ -81,11 +81,18 @@ O vazio não é o que falta entre dois elementos. Pode ser justamente o que perm
 | **Popularização** | Manuscritos medievais do norte da Europa e posterior tradição tipográfica |
 | **Padronização** | Impressão e sistemas modernos de escrita alfabética |
 | **Hipótese de design** | Tornar fronteiras perceptíveis reduz inferência necessária para decodificar estrutura |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Agrupamento visual por proximidade e reconhecimento de unidades |
 | **Comportamento produzido** | Segmentação visual rápida de palavras e maior facilidade para leitura silenciosa e consulta |
 | **Relação de poder** | Facilita acesso individual ao texto e formas de consulta menos dependentes de mediação oral |
 | **Consequências inesperadas** | Custo invisível: Pode reforçar a percepção da palavra escrita como unidade autônoma e afastar parte da experiência rítmica e oral da linguagem |
 | **Destino ou transformação posterior** | Ainda não explicitado. |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Redução de Inferências|Redução de inferências]], proximidade, chunking, design da informação |
 | **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | Ainda não explicitado. |

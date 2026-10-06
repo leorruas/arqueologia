@@ -1,3 +1,4 @@
+import { artifactFields, schemaVersion } from "./artifact-schema.mjs";
 import fs from "node:fs";
 import path from "node:path";
 
@@ -52,14 +53,7 @@ const headingsLegadosVariavel = new Set([
   "ficha resumo da variável"
 ]);
 const headingsLegadosPercurso = new Set(["o fio que une o percurso"]);
-const camposFichaArtefato = [
-  "Artefato","Período","Autoria","Produto ou contexto","Tipo(s) de design",
-  "Empresas ou instituições relacionadas","Problema original","Mundo antes","Invenção",
-  "Refinamento","Popularização","Padronização","Hipótese de design","Comportamento aproveitado",
-  "Comportamento produzido","Relação de poder","Consequências inesperadas","Destino ou transformação posterior",
-  "Conceitos relacionados","Variáveis relacionadas","Genealogia","Percurso(s)","Parentes","Leituras-chave",
-  "Princípio de design revelado","Questão em aberto"
-];
+const camposFichaArtefato = artifactFields.map(([field]) => field);
 const metadadosConceitoObrigatorios = ["status", "origem", "grau"];
 const metadadosVariavelObrigatorios = ["status", "eixo"];
 
@@ -203,10 +197,11 @@ const legadosPercursoPorArquivo = agruparPorArquivo(estruturasLegadasPercurso);
 
 const relatorio = {
   generatedAt: new Date().toISOString(),
+  schemaVersion,
   rule: "Sentence case em português do Brasil. Candidatos exigem revisão humana porque nomes próprios, siglas, marcas, produtos e títulos oficiais podem preservar capitalização.",
   typeDesignRule: "Tipos de design devem funcionar como ensaios disciplinares. Headings do template atual são permitidos; permanecem suspeitos apenas headings enciclopédicos legados.",
   pathRule: "Percursos devem funcionar como argumentos de leitura e não usar sequência numerada de resumos de artefatos.",
-  artifactSheetRule: "Cada artefato deve conter uma única Ficha arqueológica em tabela Campo/Registro com os 26 campos definidos no template atual.",
+  artifactSheetRule: "Cada artefato deve conter uma única Ficha arqueológica em tabela Campo/Registro com os 33 campos definidos no template atual.",
   candidateCount: candidatos.length,
   fileCount: porArquivo.size,
   files: [...porArquivo.entries()].map(([sourcePath, items]) => ({ sourcePath, items })),

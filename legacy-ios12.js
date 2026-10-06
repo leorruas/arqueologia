@@ -94,7 +94,7 @@
   }
 
   function rawUrl(path) {
-    return "https://raw.githubusercontent.com/" + REPO + "/" + BRANCH + "/" + path.split("/").map(encodeURIComponent).join("/");
+    return path.split("/").map(encodeURIComponent).join("/");
   }
 
   function rotaCampo(categoria) {
@@ -470,6 +470,15 @@
     if (atualizarRota) atualizarUrl(rotaArtigo(artigo));
 
     tituloArtigo.textContent = artigo.titulo;
+    var statusAnterior = el("artigo-status");
+    if (statusAnterior) statusAnterior.parentNode.removeChild(statusAnterior);
+    if (artigo.status === "rascunho") {
+      var aviso = document.createElement("p");
+      aviso.id = "artigo-status";
+      aviso.className = "legacy-status";
+      aviso.textContent = "Rascunho — este estudo está em revisão.";
+      tituloArtigo.parentNode.insertBefore(aviso, tituloArtigo.nextSibling);
+    }
     criarBreadcrumb(breadcrumbsArtigo, artigo.categoria, artigo.titulo);
     corpoArtigo.innerHTML = '<p class="legacy-status">Carregando estudo...</p>';
     var navRodape = el("artigo-nav-rodape");
@@ -597,29 +606,20 @@
   }
 
   function carregarCatalogo() {
-    var url = "https://api.github.com/repos/" + REPO + "/git/trees/" + BRANCH + "?recursive=1";
-    fetch(url, { cache: "no-cache" })
+    fetch("search-index.json", { cache: "no-cache" })
       .then(function (resposta) {
         if (!resposta.ok) throw new Error("HTTP " + resposta.status);
         return resposta.json();
       })
       .then(function (dados) {
-        var arvore = dados.tree || [], i, item, partes, categoria, arquivo;
+        var i, item;
+        if (!dados.articles || !dados.articles.length) throw new Error("Índice indisponível");
         artigos = [];
-        for (i = 0; i < arvore.length; i += 1) {
-          item = arvore[i];
-          if (item.type !== "blob" || !/\.md$/i.test(item.path) || item.path.indexOf("/") === -1) continue;
-          partes = item.path.split("/");
-          categoria = partes[0];
-          if (!categoriasPublicas[categoria]) continue;
-          arquivo = partes[partes.length - 1];
-          artigos.push({
-            categoria: categoria,
-            titulo: nomeLimpo(arquivo),
-            sourcePath: item.path
-          });
+        for (i = 0; i < dados.articles.length; i += 1) {
+          item = dados.articles[i];
+          if (!categoriasPublicas[item.category] || item.publicar === false) continue;
+          artigos.push({categoria:item.category, titulo:nomeLimpo(item.title || item.fileTitle), sourcePath:item.sourcePath, status:item.status});
         }
-
         artigos.sort(function (a, b) { return a.sourcePath.localeCompare(b.sourcePath); });
         agruparArtigos();
         renderizarCategorias();
@@ -627,7 +627,7 @@
         if (!artigoAtual) window.ARQUEOLOGIA_LOADER.pronto("catalogo");
       })
       .catch(function () {
-        if (pastas) pastas.innerHTML = '<p class="legacy-status">Não foi possível carregar o catálogo compatível.</p>';
+        if (pastas) pastas.innerHTML = '<p class="legacy-status">O catálogo público está temporariamente indisponível.</p>';
         window.ARQUEOLOGIA_LOADER.pronto("catalogo");
       });
   }

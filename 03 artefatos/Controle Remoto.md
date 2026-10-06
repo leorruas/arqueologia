@@ -79,11 +79,18 @@ O descendente pode então inverter a lógica do ancestral: em vez de tornar a tr
 | **Popularização** | Adoção de controles remotos sem fio por televisores e outros eletrônicos de consumo |
 | **Padronização** | O controle remoto tornou-se expectativa comum da experiência televisiva e de outros aparelhos |
 | **Hipótese de design** | Levar o comando até o corpo reduz o custo de controlar e abandonar opções distantes |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Buscar alternativas e evitar esforço corporal desnecessário |
 | **Comportamento produzido** | Channel surfing e zapping, com troca rápida e recorrente entre conteúdos |
 | **Relação de poder** | O objeto portátil concentra em quem o segura a capacidade de controlar uma experiência compartilhada |
 | **Consequências inesperadas** | Redução do custo de rejeitar conteúdos e possível aumento da navegação fragmentada; efeitos sobre ritmo de mídia devem ser tratados como hipótese, não causalidade estabelecida Registros adicionais preservados da ficha anterior: futuro tornado mais provavel: Um ambiente em que conteúdos e funções distantes devem responder instantaneamente a comandos de baixa fricção; descendentes possiveis: Interfaces próximo/anterior, swipe, autoplay, controle por voz e sistemas de recomendação que antecipam alternativas; novo problema produzido pelo sucesso: Quando trocar custa quase nada, atenção e permanência passam a exigir novos mecanismos de proteção ou compromisso |
 | **Destino ou transformação posterior** | Migrou de mecanismos ultrassônicos para infravermelho e, mais tarde, controles digitais, voz e interfaces móveis |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Economia da Atencao|Economia da atenção]], [[01 conceitos/Paradoxo da Escolha|Paradoxo da escolha]], [[01 conceitos/Genealogia de Futuros|Genealogia de Futuros]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Atencao|Atenção]] |
 | **Genealogia** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]], [[04 genealogias/Compressao do Esforco|Compressão do esforço]] |

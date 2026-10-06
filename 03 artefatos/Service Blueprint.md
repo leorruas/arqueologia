@@ -120,11 +120,18 @@ E é justamente aí que aparece seu limite: se o serviço muda mais rápido do q
 | **Popularização** | O artigo de Shostack na Harvard Business Review em 1984 e, posteriormente, a adoção pela literatura de marketing, operações e service design |
 | **Padronização** | Tornou-se uma convenção amplamente reconhecida no design de serviços, embora sem uma notação gráfica universal única |
 | **Hipótese de design** | Se relações distribuídas de um serviço forem externalizadas numa representação comum, pessoas conseguem identificar dependências e intervir no sistema com menos reconstrução mental |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Pensar espacialmente sobre relações, sequências e dependências; usar representações compartilhadas para coordenar trabalho coletivo |
 | **Comportamento produzido** | Mapear experiência e operação simultaneamente, discutir frontstage e backstage numa mesma superfície e localizar falhas atravessando fronteiras organizacionais |
 | **Relação de poder** | Torna trabalho invisível legível para quem participa do mapeamento, mas também pode ampliar controle gerencial, cristalizar procedimentos ou manter processos invisíveis para o próprio usuário |
 | **Consequências inesperadas** | Diagramas podem criar falsa sensação de completude, reduzir trabalho tácito a caixas genéricas e fazer uma representação ordenada parecer mais estável que o serviço real |
 | **Destino ou transformação posterior** | Continua amplamente usado e foi expandido por ferramentas digitais, workshops colaborativos e variações específicas de setores e organizações |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Redução de Inferências|Redução de inferências]], [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Ecologia de Artefatos|Ecologia de artefatos]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]], [[02 variaveis/Friccao|Fricção]] |
 | **Genealogia** | [[04 genealogias/Compressao do Esforco|Compressão do esforço]], [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]] |

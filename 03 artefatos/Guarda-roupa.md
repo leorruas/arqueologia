@@ -74,11 +74,18 @@ A pergunta em aberto é quase doméstica demais para parecer teórica: quando ca
 | **Popularização** | Expansão como mobiliário doméstico em diferentes sociedades e, mais tarde, como peça industrial padronizada |
 | **Padronização** | Tornou-se categoria esperada de mobiliário e inspirou closets, sistemas modulares e armazenamento embutido |
 | **Hipótese de design** | Se categorias de objetos receberem posições estáveis, guardar pode também reduzir o esforço de reencontrar |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Agrupar objetos semelhantes e lembrar localizações espaciais |
 | **Comportamento produzido** | Devolver itens a posições esperadas, classificar roupas e organizar rotinas domésticas por compartimentos |
 | **Relação de poder** | Estruturas de armazenamento podem definir normas de ordem, ocultação, apresentação e acesso dentro do espaço doméstico |
 | **Consequências inesperadas** | A organização reduz busca, mas pode gerar manutenção contínua, rigidez classificatória e pressão por conformidade espacial |
 | **Destino ou transformação posterior** | Coexiste com closets, armários embutidos, módulos e sistemas digitais de pastas e categorias |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Redução de Inferências|Redução de inferências]], [[01 conceitos/Tecnologias de Delimitacao|Tecnologias de delimitação]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]], [[02 variaveis/Permanencia|Permanência]] |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] |

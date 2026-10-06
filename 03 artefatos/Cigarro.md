@@ -79,11 +79,18 @@ Reduzir esforço pode aumentar não apenas a adoção de uma ação, mas sua fre
 | **Popularização** | Produção industrial barata, distribuição ampla, publicidade e construção de estilos de vida associados ao produto |
 | **Padronização** | Unidades semelhantes, maços, tamanhos, filtros e duração relativamente previsível |
 | **Hipótese de design** | Uma experiência pode se tornar altamente repetível quando é dividida em doses pequenas, portáteis e ritualizadas |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Busca de alteração rápida de estado, repetição oral e manual, pausas e sociabilidade |
 | **Comportamento produzido** | Consumo recorrente associado a contextos cotidianos e uso do cigarro como forma socialmente reconhecível de pausa |
 | **Relação de poder** | Indústria e publicidade participaram da construção cultural de necessidades, identidades e percepções de risco em torno de um produto viciante |
 | **Consequências inesperadas** | Dependência em massa, doenças, fumaça passiva, lixo de bitucas, incêndios, estigma e segregação espacial |
 | **Destino ou transformação posterior** | Queda de aceitação social em muitos contextos, regulação crescente e surgimento de sistemas alternativos de entrega de nicotina |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | ritual, hábito, dependência, dosagem, pausa, gatilho contextual, fricção, percepção de risco e normalização social |
 | **Variáveis relacionadas** | preparação, portabilidade, duração, frequência, disponibilidade, repetibilidade e percepção de risco |
 | **Genealogia** | usos rituais do tabaco → cachimbo/charuto → cigarro enrolado → cigarro industrial → cigarro filtrado |

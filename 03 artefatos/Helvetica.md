@@ -103,11 +103,18 @@ Talvez esse seja o paradoxo mais forte da Helvetica: sua permanência depende de
 | **Popularização** | Distribuição internacional, adoção por designers modernistas, corporações e sistemas de sinalização |
 | **Padronização** | Tornou-se uma das sans serifs mais reconhecidas e recorrentes do design moderno e contemporâneo |
 | **Hipótese de design** | Parte da aparente neutralidade da Helvetica pode ter sido construída pela repetição: quanto mais a fonte se tornou infraestrutura, menos sua presença foi percebida como escolha Hipótese sobre o comportamento humano: Formas muito familiares podem reduzir sua própria saliência e ser percebidas como neutras mesmo continuando a carregar associações culturais |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Reconhecimento de formas tipográficas consistentes e leitura dentro de sistemas visuais repetidos |
 | **Comportamento produzido** | Expectativa de uma linguagem sans serif regular e sistemática em comunicação corporativa e institucional |
 | **Relação de poder** | Facilita a unificação de linguagens institucionais em grande escala e pode deslocar escolhas locais em favor de um padrão central |
 | **Consequências inesperadas** | A fonte associada à ausência de estilo tornou-se um dos estilos mais reconhecíveis do século XX Capacidade ampliada: Consistência tipográfica entre muitos suportes, pesos e aplicações Capacidade reduzida ou deslocada: A repetição de uma mesma família pode reduzir variedade formal em sistemas que a adotam como padrão Custo invisível: Homogeneização quando a fonte é escolhida automaticamente como sinônimo de neutralidade ou modernidade |
 | **Destino ou transformação posterior** | Altamente difundido, continuamente redesenhado e adaptado a novas tecnologias Legado: Consolidou a sans serif neo-grotesca como linguagem recorrente de identidades, sinalização e sistemas de informação |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Design Systems|Design Systems]], [[01 conceitos/Redução de Inferências|Redução de Inferências]] |
 | **Variáveis relacionadas** | [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]], [[02 variaveis/Atencao|Atenção]] |
 | **Genealogia** | [[04 genealogias/Compressao do Esforco|Compressão do esforço]] Família de ideias: Artefatos de padronização e neutralização visual |

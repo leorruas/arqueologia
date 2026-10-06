@@ -94,11 +94,18 @@ Essa talvez seja sua principal contribuição histórica: transformar restriçã
 | **Popularização** | Ensino de design, comunicação corporativa, editorial e obras de autores suíços difundiram o método internacionalmente |
 | **Padronização** | Grids tornaram-se parte comum da formação em design e foram formalizados em sistemas editoriais e digitais |
 | **Hipótese de design** | O grid muda o design porque transforma decisões espaciais recorrentes em uma infraestrutura compartilhada para decisões futuras Hipótese sobre o comportamento humano: Repetição, proximidade e alinhamento tornam relações mais previsíveis e reduzem esforço de orientação |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Reconhecimento de regularidades espaciais e alinhamentos |
 | **Comportamento produzido** | Projetar e ler sistemas esperando eixos, ritmos e módulos consistentes |
 | **Relação de poder** | Transfere decisões de cada compositor individual para regras compartilhadas que podem coordenar equipes e séries extensas |
 | **Consequências inesperadas** | A estrutura criada para gerar variedade pode ser reproduzida como fórmula estética Capacidade ampliada: Consistência, velocidade de composição, coordenação entre profissionais e variação dentro de regras Capacidade reduzida ou deslocada: Algumas decisões locais passam a ser condicionadas pelo sistema definido anteriormente Custo invisível: Rigidez e homogeneização quando o método é tratado como estilo universal em vez de ferramenta |
 | **Destino ou transformação posterior** | Tornou-se tão incorporado à prática editorial e digital que frequentemente permanece invisível sob o conteúdo Legado: Sistemas editoriais, identidades, design systems e layouts digitais baseados em regras espaciais |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Design Systems|Design Systems]], [[01 conceitos/Redução de Inferências|Redução de Inferências]], [[01 conceitos/Compressao do Esforco|Compressão do Esforço]] |
 | **Variáveis relacionadas** | [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]], [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Custo Transacional|Custo Transacional]] |
 | **Genealogia** | [[04 genealogias/Compressao do Esforco|Compressão do esforço]], [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]], [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]]; família de ideias: tecnologias de diagramação e regras espaciais |

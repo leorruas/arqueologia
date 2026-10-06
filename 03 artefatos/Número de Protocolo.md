@@ -122,11 +122,18 @@ Quando essa infraestrutura funciona bem, o identificador pode desaparecer da int
 | **Popularização** | Serviços de massa, burocracias estatais, comércio, logística e atendimento ao consumidor |
 | **Padronização** | Sistemas como o NUP brasileiro demonstram a transformação do protocolo em padrão interoperável entre órgãos |
 | **Hipótese de design** | O protocolo permite que uma demanda continue sendo reconhecida como a mesma mesmo quando pessoas e contextos mudam; a persistência da referência reduz o custo de coordenar seu histórico |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Uso de índices e rótulos para reencontrar informação |
 | **Comportamento produzido** | Solicitar, guardar e informar números de protocolo como parte normal da relação com serviços |
 | **Relação de poder** | Dá à organização capacidade de classificar e rastrear casos, mas também oferece ao usuário uma referência persistente para cobrar o que foi registrado |
 | **Consequências inesperadas** | O número pode virar símbolo de burocratização, ser confundido com resolução ou preservar continuidade técnica enquanto contexto e sentido se perdem entre setores Registros adicionais preservados da ficha anterior: autores relacionados: [[autores/Paul Ricoeur|Paul Ricoeur]] como lente para distinguir referência persistente, narrativa, documento e interpretação |
 | **Destino ou transformação posterior** | Permanece visível em serviços formais, mas sua lógica também foi incorporada a identificadores digitais que usuários muitas vezes nunca veem |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Redução de Inferências|Redução de inferências]], [[01 conceitos/Justificabilidade|Justificabilidade]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]] |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]], [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]]. Família de ideias: artefatos de identificação e rastreabilidade |

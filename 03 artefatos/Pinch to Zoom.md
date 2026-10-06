@@ -92,11 +92,18 @@ Essa gramática abriu caminho para outras interfaces espaciais, inclusive ambien
 | **Popularização** | Primeiro iPhone e expansão posterior para smartphones, tablets e trackpads |
 | **Padronização** | Tornou-se convenção amplamente reconhecida para controlar escala em superfícies multitouch |
 | **Hipótese de design** | Pinch to Zoom venceu porque transformou uma operação abstrata de escala em uma relação espacial contínua entre dedos e imagem Hipótese sobre o comportamento humano: Uma transformação digital é mais fácil de aprender quando o movimento corporal guarda relação espacial compreensível com o resultado |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Coordenação bimanual e compreensão espacial de aproximação, afastamento, expansão e contração |
 | **Comportamento produzido** | Pinçar telas e superfícies digitais na expectativa de controlar zoom |
 | **Relação de poder** | Transfere ao usuário controle contínuo sobre escala e nível de detalhe, reduzindo dependência de comandos discretos definidos pela interface |
 | **Consequências inesperadas** | Transformou-se em expectativa motora transferível para praticamente qualquer superfície interativa Capacidade ampliada: Controle rápido, contínuo e localizado da escala visual Capacidade reduzida ou deslocada: Pode funcionar como compensação para conteúdo mal adaptado à tela, mas não há base suficiente para afirmar que tenha atrasado o design responsivo Custo invisível: Dependência de descoberta ou aprendizagem inicial e dificuldade para usuários com limitações motoras quando não há alternativa acessível |
 | **Destino ou transformação posterior** | Padronizado e incorporado ao repertório básico de interação multitouch Legado: Ajudou a consolidar a tela como espaço manipulável por gestos contínuos, não apenas superfície de apontar e clicar |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Manipulacao Direta|Manipulação Direta]], [[01 conceitos/Affordance|Affordance]], [[01 conceitos/Redução de Inferências|Redução de Inferências]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo Transacional|Custo Transacional]], [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]] |
 | **Genealogia** | [[04 genealogias/Compressao do Esforco|Compressão do esforço]] Família de ideias: Gestos de manipulação direta |

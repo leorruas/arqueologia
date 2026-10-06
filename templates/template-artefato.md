@@ -37,6 +37,8 @@ tags:
 
 [Termine a narrativa com uma pergunta ou tensão que permaneça produtiva.]
 
+<!-- Schema v2: 33 campos; manter alinhado a scripts/artifact-schema.mjs. -->
+
 ## Ficha arqueológica
 
 | Campo | Registro |

@@ -65,11 +65,18 @@ A pergunta que fica não é se vamos eliminar a tela de login. Talvez ela já es
 | **Popularização** | Sistemas multiusuário, redes, serviços on-line e computadores pessoais compartilhados |
 | **Padronização** | Usuário + senha tornou-se uma convenção dominante de autenticação, depois complementada por SSO, múltiplos fatores e biometria |
 | **Hipótese de design** | Um sistema compartilhado pode produzir espaços privados se conseguir distinguir identidades e condicionar acesso a uma prova |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Compreensão cultural de chaves, fechaduras, segredos e fronteiras de pertencimento |
 | **Comportamento produzido** | Memorizar, guardar, digitar e recuperar credenciais para acessar espaços digitais personalizados |
 | **Relação de poder** | Protege privacidade, mas também permite identificar, monitorar, limitar ou excluir usuários conforme regras definidas pelo sistema |
 | **Consequências inesperadas** | Esquecimento de credenciais, recuperação de conta, ataques a senhas e multiplicação de chaves digitais |
 | **Destino ou transformação posterior** | Coexiste com SSO, autenticação multifator, Touch ID, Face ID e outras formas em que a fronteira permanece, mas o ritual fica menos visível |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Limiares|Limiares]], [[01 conceitos/Tecnologias de Delimitacao|Tecnologias de delimitação]], [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção boa vs fricção ruim]] |
 | **Variáveis relacionadas** | [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Custo do Erro|Custo do erro]], [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]] |
 | **Genealogia** | [[04 genealogias/Limiares e Delimitacao|Limiares e delimitação]] |

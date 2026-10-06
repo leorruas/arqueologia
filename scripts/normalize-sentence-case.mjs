@@ -1,3 +1,6 @@
+import { applyReview, propose } from "./review-changes.mjs";
+if (applyReview("normalize-sentence-case")) process.exit(0);
+const changes = [];
 import fs from "node:fs";
 import path from "node:path";
 
@@ -206,9 +209,11 @@ for (const arquivo of listarMarkdowns(raiz)) {
   });
 
   if (novo !== original) {
-    fs.writeFileSync(arquivo, novo);
+    changes.push({ sourcePath: path.relative(raiz, arquivo), before: original, after: novo });
     arquivosAlterados += 1;
   }
 }
 
 console.log(`Sentence case: ${headingsAlterados} headings, ${titulosAlterados} títulos e ${h1Alterados} H1 normalizados em ${arquivosAlterados} arquivos.`);
+
+propose("normalize-sentence-case", changes);

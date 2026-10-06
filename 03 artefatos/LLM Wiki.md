@@ -130,11 +130,18 @@ A pergunta deixa de ser apenas “como guardar conhecimento?”. Passa a ser: **
 | **Popularização** | O gist de Karpathy, implementações surgidas em seguida e a convergência de produtos empresariais para bases persistentes de conhecimento ampliaram a visibilidade do problema em 2026 |
 | **Padronização** | Ainda não estabelecida; implementações divergem em estrutura, ferramentas, governança e mecanismos de verificação |
 | **Hipótese de design** | Humanos agregam mais valor escolhendo fontes, fazendo perguntas e julgando sínteses do que executando continuamente o trabalho de manutenção e cruzamento da base |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Externalizar memória, organizar registros, seguir relações e fazer perguntas sobre um acervo |
 | **Comportamento produzido** | Ingerir fontes para atualizar uma memória compilada, auditar a base periodicamente e incorporar boas respostas de volta ao conhecimento persistente |
 | **Relação de poder** | O LLM ganha poder editorial sobre a camada de síntese; o humano preserva poder sobre fontes, regras e revisão, mas pode delegar parte desse controle sem perceber |
 | **Consequências inesperadas** | Uma síntese incorreta pode se tornar contexto persistente e propagar erro; ao mesmo tempo, logs, fontes imutáveis e versionamento podem tornar a memória mais auditável |
 | **Destino ou transformação posterior** | Padrão emergente; ainda em experimentação, enquanto produtos empresariais exploram soluções vizinhas para continuidade de conhecimento |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Investigação|Investigação]], [[01 conceitos/Justificabilidade|Justificabilidade]] |
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Reversibilidade|Reversibilidade]] |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] |

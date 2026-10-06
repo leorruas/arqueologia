@@ -87,11 +87,18 @@ Mas essa capacidade exige um teste posterior. Se o mundo descrito pelo manifesto
 | **Popularização** | Política, vanguardas artísticas, movimentos sociais, tecnologia e cultura organizacional |
 | **Padronização** | Textos curtos que declaram princípios, contrastes e compromissos de um grupo ou movimento |
 | **Hipótese de design** | Mudar a interpretação coletiva de uma prática pode preparar o terreno para mudar a prática propriamente dita |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Busca por pertencimento, coerência e distinção entre práticas consideradas novas e antigas |
 | **Comportamento produzido** | Adesão pública a princípios e uso de uma linguagem compartilhada para orientar ação coletiva |
 | **Relação de poder** | Quem redige o manifesto influencia quais valores representarão o grupo e quais práticas serão posicionadas como obsoletas ou ilegítimas |
 | **Consequências inesperadas** | Custo invisível: Simplificação, polarização, dogmatização e distância entre declaração e prática |
 | **Destino ou transformação posterior** | Ainda não explicitado. |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Intencao|Intenção]], legitimidade, identidade coletiva |
 | **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | Família de ideias: Artefatos de alinhamento, intenção e mobilização |

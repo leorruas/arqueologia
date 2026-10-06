@@ -100,11 +100,18 @@ A pergunta que sobra é: quando registramos para não esquecer, quanto daquilo q
 | **Popularização** | Expansão da alfabetização, disponibilidade de papel e cultura moderna de escrita pessoal |
 | **Padronização** | Formato de entradas cronológicas tornou-se convenção reconhecível, embora existam muitas variações |
 | **Hipótese de design** | Se experiências forem externalizadas em sequência, o autor poderá reconstruir e reinterpretar seu próprio passado |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Narrar acontecimentos, selecionar experiências e usar escrita para memória e reflexão |
 | **Comportamento produzido** | Registrar rotineiramente, reler a própria experiência, formar coleções pessoais de registros e reconhecer padrões retrospectivos |
 | **Relação de poder** | O autor escolhe o que registrar e omitir; quando o diário é publicado, arquivado ou apreendido, um objeto privado pode tornar-se fonte para outros |
 | **Consequências inesperadas** | A versão escrita pode estabilizar interpretações provisórias, influenciar memórias futuras e produzir uma coerência retrospectiva que o vivido não possuía Registros adicionais preservados da ficha anterior: autores relacionados: [[autores/Paul Ricoeur|Paul Ricoeur]]: identidade narrativa, mesmidade e ipseidade |
 | **Destino ou transformação posterior** | Coexiste com blogs, apps de journaling e sistemas automáticos de tracking |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Servico de Reflexao|Serviço de reflexão]], [[01 conceitos/Investigação|Investigação]]; identidade narrativa como lente comparativa |
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Reversibilidade|Reversibilidade]] |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] |

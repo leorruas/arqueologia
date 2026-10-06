@@ -66,11 +66,18 @@ Também existe uma tensão entre reversão e memória. Um Undo pode eliminar o e
 | **Popularização** | Disseminação em interfaces gráficas comerciais, incluindo o Macintosh |
 | **Padronização** | Expectativa de que editores e ferramentas criativas ofereçam algum mecanismo de desfazer |
 | **Hipótese de design** | O Undo transforma o erro de evento terminal em etapa possível de um processo exploratório Hipótese sobre o comportamento humano: Pessoas exploram mais quando o custo de uma tentativa mal-sucedida é reduzido |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Aprendizado por tentativa e erro, esboço e correção |
 | **Comportamento produzido** | Experimentar ações digitais contando com a possibilidade de retornar ao estado anterior |
 | **Relação de poder** | Transfere parte do controle sobre consequências da máquina de volta ao usuário |
 | **Consequências inesperadas** | Pode alterar a expectativa cultural sobre quanto uma ação digital deve ser reversível Capacidade ampliada: Exploração, edição iterativa e recuperação de erros Capacidade reduzida ou deslocada: Pode diminuir a necessidade de antecipar todas as consequências antes de agir; o efeito comportamental dessa mudança permanece hipótese Custo invisível: Necessidade de armazenar estados ou operações e risco de comunicar uma reversibilidade maior do que o sistema realmente oferece |
 | **Destino ou transformação posterior** | Padronizado e incorporado à gramática básica de interfaces de edição Legado: Tornou a reversibilidade uma propriedade central de sistemas interativos e criativos |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Manipulacao Direta|Manipulação Direta]], [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção Boa vs Fricção Ruim]], [[01 conceitos/Justica Procedimental|Justiça Procedimental]] |
 | **Variáveis relacionadas** | [[02 variaveis/Reversibilidade|Reversibilidade]], [[02 variaveis/Custo do Erro|Custo do Erro]], [[02 variaveis/Justica|Justiça]] |
 | **Genealogia** | [[04 genealogias/Reversibilidade e Custo do Erro|Reversibilidade e custo do erro]] Família de ideias: Tecnologias de reversibilidade |

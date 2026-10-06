@@ -109,11 +109,18 @@ A pergunta arqueológica é incômoda: **quando um sistema nos ajuda a enxergar 
 | **Popularização** | Softwares de finanças pessoais, internet banking, Mint e posteriormente aplicativos bancários e fintechs |
 | **Padronização** | Visões por categoria/período, alertas, orçamentos e dashboards de gastos tornaram-se padrões recorrentes em produtos financeiros |
 | **Hipótese de design** | Se o comportamento financeiro passado for registrado e devolvido como padrão visível, a pessoa poderá tomar decisões futuras com mais consciência |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Registrar gastos, comparar saldos e revisar decisões passadas |
 | **Comportamento produzido** | Consultar dashboards financeiros, acompanhar categorias, reagir a alertas e usar histórico como feedback comportamental |
 | **Relação de poder** | A plataforma decide categorias, métricas e destaques e pode concentrar dados íntimos sobre comportamento econômico; o usuário ganha visão agregada, mas delega parte da interpretação |
 | **Consequências inesperadas** | Automação pode reduzir reflexão no momento do registro, naturalizar categorias inadequadas, aumentar ansiedade financeira, criar infraestrutura de vigilância e fazer padrões estatísticos parecerem descrições completas da pessoa Registros adicionais preservados da ficha anterior: autores relacionados: [[autores/Henri Bergson|Henri Bergson]]: duração e discretização; [[autores/Paul Ricoeur|Paul Ricoeur]]: mesmidade, ipseidade e identidade narrativa |
 | **Destino ou transformação posterior** | Funções de tracking foram incorporadas a bancos digitais, carteiras, fintechs e sistemas de gestão financeira mais amplos |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Servico de Reflexao|Serviço de reflexão]], [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]]; identidade narrativa e identidade comportamental como lentes comparativas |
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Atrito Decisorio|Atrito decisório]] |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]]; candidata a uma genealogia futura de registro e auto-observação |

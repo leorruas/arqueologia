@@ -91,11 +91,18 @@ Isso produz uma pergunta incômoda para o design: e se alguns dos nossos melhore
 | **Popularização** | Planejamento, políticas públicas, design sistêmico, inovação e design de serviços |
 | **Padronização** | Uso recorrente do conceito para distinguir problemas sociais complexos de problemas relativamente delimitados ou “tame” |
 | **Hipótese de design** | Alguns sistemas só podem ser transformados responsavelmente quando problema e solução são tratados como mutuamente dependentes |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Capacidade humana de revisar interpretações diante das consequências de uma intervenção |
 | **Comportamento produzido** | Iterar formulação e ação, negociar critérios e abandonar a expectativa de solução final única |
 | **Relação de poder** | Expõe que definição de problema, métrica e sucesso incorporam valores e não são decisões puramente técnicas |
 | **Consequências inesperadas** | Custo invisível: Pode legitimar paralisia, relativismo ou uso indiscriminado da palavra “complexo” para evitar decisões |
 | **Destino ou transformação posterior** | Ainda não explicitado. |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | Ainda não explicitado. |
 | **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | Família de ideias: Artefatos de formulação, complexidade e investigação |

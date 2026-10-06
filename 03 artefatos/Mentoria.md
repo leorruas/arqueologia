@@ -127,11 +127,18 @@ E alguma coisa corre o risco de desaparecer justamente porque foi transformada e
 | **Popularização** | Circulação de *Télémaque* no século XVIII e, em outro contexto, crescente atenção a mentores em carreira, educação e gestão no fim dos anos 1970 e início dos 1980 |
 | **Padronização** | Programas formais transformam a relação em critérios de participação, matching, objetivos, agendas, ciclos, registros e avaliações; plataformas digitais ampliam essa operacionalização |
 | **Hipótese de design** | Experiência e recursos sociais de uma pessoa podem ampliar a capacidade de outra agir sem que esta precise reproduzir integralmente a trajetória anterior |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Busca de orientação, aprendizagem social, confiança, identificação, aconselhamento e formação de relações assimétricas de desenvolvimento |
 | **Comportamento produzido** | Buscar deliberadamente mentores, participar de programas de matching, formular objetivos de desenvolvimento, agendar encontros e avaliar relações de orientação |
 | **Relação de poder** | Experiência, reputação e posição institucional podem ser usadas para ampliar oportunidades, mas também para produzir dependência, manipulação ou reprodução de normas |
 | **Consequências inesperadas** | Ao formalizar e escalar a relação, sistemas podem ampliar acesso e ao mesmo tempo reduzir espontaneidade, afinidade e outras condições difíceis de capturar em critérios operacionais |
 | **Destino ou transformação posterior** | Legado: A categoria transformou uma família difusa de relações de orientação em objeto reconhecível de pesquisa, gestão e desenho de serviços |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Tecnologia de Acesso|Tecnologia de Acesso]], autodeterminação, aprendizagem social, confiança, desenvolvimento e capital social |
 | **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | Ainda não explicitado. |

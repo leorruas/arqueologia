@@ -95,11 +95,18 @@ Por isso, o botão não apenas torna a variabilidade utilizável. Ele ajuda a co
 | **Popularização** | Interfaces públicas de IA generativa a partir de 2022 |
 | **Padronização** | Ações como regenerar, tentar novamente e produzir variações tornam-se controles recorrentes em sistemas generativos |
 | **Hipótese de design** | Quando uma mesma intenção admite múltiplas saídas válidas, repetir a geração pode ser uma ação produtiva |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Pedir outra tentativa, comparar alternativas e explorar soluções |
 | **Comportamento produzido** | Tratar respostas computacionais como versões possíveis e iterar sem alterar necessariamente a solicitação |
 | **Relação de poder** | Dá ao usuário poder de rejeitar uma saída sem justificar a rejeição, mas mantém opaco o espaço de alternativas e os mecanismos que produzem cada versão |
 | **Consequências inesperadas** | Answer shopping, procura por confirmação, proliferação de versões e naturalização da ideia de que a máquina “reconsidera” |
 | **Destino ou transformação posterior** | Pode evoluir para interfaces explícitas de variação, branching e comparação entre alternativas |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | probabilidade, amostragem, divergência, exploração, validação, reversibilidade, [[01 conceitos/Mitologias da IA|Mitologias da IA]] |
 | **Variáveis relacionadas** | previsibilidade, diversidade de saída, custo de iteração |
 | **Genealogia** | Nova tentativa; sorteio; variação; processos divergentes de projeto |

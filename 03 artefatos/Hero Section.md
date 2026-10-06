@@ -75,11 +75,18 @@ A pergunta contemporânea mais fértil talvez seja o que acontece quando a pági
 | **Popularização** | Expansão de landing pages, sites comerciais e templates de web design |
 | **Padronização** | Tornou-se composição esperada em grande parte da web institucional e comercial |
 | **Hipótese de design** | A hero section funciona como abertura: produz uma primeira moldura interpretativa antes que o visitante conheça o restante do sistema Hipótese sobre o comportamento humano: Visitantes precisam de uma interpretação inicial de baixo custo antes de investir atenção em um ambiente desconhecido |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Escaneamento visual, atenção privilegiada à região inicial e busca rápida por sinais de relevância |
 | **Comportamento produzido** | Expectativa de que páginas expliquem rapidamente seu propósito e ofereçam um próximo passo reconhecível |
 | **Relação de poder** | Dá ao projetista forte poder de enquadrar qual promessa, problema e ação aparecem primeiro |
 | **Consequências inesperadas** | Transformação de uma solução de orientação em fórmula estética repetitiva Capacidade ampliada: Orientação e decisão inicial rápida Capacidade reduzida ou deslocada: Pode diminuir a disposição para explorar páginas que não oferecem imediatamente uma moldura reconhecível Custo invisível: Homogeneização visual e possibilidade de substituir informação concreta por promessas genéricas |
 | **Destino ou transformação posterior** | Padronizado, ainda dominante, mas tensionado por interfaces conversacionais e outras formas de entrada Legado: Consolidou um ritual de entrada para páginas digitais |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Limiares|Limiares]], [[01 conceitos/Affordance|Affordance]], [[01 conceitos/Economia da Atencao|Economia da Atenção]], [[01 conceitos/Redução de Inferências|Redução de Inferências]] |
 | **Variáveis relacionadas** | [[02 variaveis/Atrito Decisorio|Atrito Decisório]], [[02 variaveis/Custo de Busca|Custo de Busca]], [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]], [[02 variaveis/Atencao|Atenção]] |
 | **Genealogia** | [[04 genealogias/Limiares e Delimitacao|Limiares e delimitação]], [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] Família de ideias: Artefatos de limiar e enquadramento |

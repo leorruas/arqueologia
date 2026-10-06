@@ -80,11 +80,18 @@ Isso revela uma transformação maior da portabilidade: **carregar deixa de sign
 | **Popularização** | Expansão do dinheiro em papel, documentos pessoais e cartões de pagamento nos séculos XIX e XX |
 | **Padronização** | Formatos adaptados a cédulas e cartões; no digital, agregação de credenciais em aplicativos de carteira |
 | **Hipótese de design** | Se valores e credenciais forem concentrados num recipiente portátil, várias capacidades podem acompanhar a pessoa com baixo esforço |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Carregar dinheiro, documentos e provas de autorização junto ao corpo |
 | **Comportamento produzido** | Concentrar identidade operacional e meios de acesso num único conjunto portátil |
 | **Relação de poder** | Instituições definem quais cartões e documentos são reconhecidos; perder ou ter uma credencial revogada pode retirar capacidade de agir |
 | **Consequências inesperadas** | Conveniência concentra risco; perda, roubo ou bloqueio podem afetar simultaneamente múltiplos sistemas de acesso |
 | **Destino ou transformação posterior** | Coexiste com carteiras digitais e formas de pagamento/identificação desmaterializadas |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Continuidade de Acesso|Continuidade de acesso]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Tecnologias de Delimitacao|Tecnologias de delimitação]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Expectativa de Disponibilidade|Expectativa de disponibilidade]], [[02 variaveis/Custo do Erro|Custo do erro]] |
 | **Genealogia** | [[04 genealogias/Portabilidade e Desancoragem|Portabilidade e desancoragem]] |

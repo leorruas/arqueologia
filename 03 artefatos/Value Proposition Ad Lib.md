@@ -105,11 +105,18 @@ Se virar só mais uma caixa a preencher, sobra a forma e desaparece a pergunta.
 | **Popularização** | Ecossistema Strategyzer, design thinking, produto e facilitação estratégica |
 | **Padronização** | Frases lacunadas para propostas de valor e hipóteses de produto |
 | **Hipótese de design** | Uma gramática curta e compartilhada consegue revelar inconsistências que permanecem ocultas em discussões abertas |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Impulso de explicar e justificar propostas por meio de relações causais compreensíveis |
 | **Comportamento produzido** | Explicitar público, necessidade, transformação e premissas antes de detalhar a implementação |
 | **Relação de poder** | Pode exigir justificativa explícita de propostas hierárquicas e ampliar contestabilidade; também pode fornecer vocabulário para legitimar decisões já tomadas |
 | **Consequências inesperadas** | Custo invisível: Preenchimento performativo, simplificação de problemas complexos e falsa sensação de rigor sem evidência |
 | **Destino ou transformação posterior** | Ainda não explicitado. |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Formulacao|Formulação]], [[01 conceitos/Intencao|Intenção]], [[01 conceitos/Justificabilidade|Justificabilidade]], [[01 conceitos/Servico de Reflexao|Serviço de reflexão]] |
 | **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]], por parentesco funcional e cognitivo; família de ideias: artefatos de intenção, formulação e justificabilidade |

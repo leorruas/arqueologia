@@ -99,11 +99,18 @@ Talvez o prompt conversacional não seja o fim da interface gráfica. Seja um no
 | **Popularização** | ChatGPT e outras interfaces generativas a partir de 2022 |
 | **Padronização** | Caixa de conversa cercada progressivamente por controles multimodais, ferramentas e sugestões |
 | **Hipótese de design** | Linguagem natural pode funcionar como camada flexível de especificação para operações que não foram previamente transformadas em controles |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Explicar, delegar, exemplificar, corrigir e negociar tarefas por linguagem |
 | **Comportamento produzido** | Iterar com software por diálogo, desenvolver repertórios de prompting e validar saídas probabilísticas |
 | **Relação de poder** | Amplia liberdade de formulação do usuário, mas concentra interpretação e geração numa infraestrutura opaca e probabilística |
 | **Consequências inesperadas** | Custo invisível: Ansiedade diante da caixa vazia, esforço de formulação, imprevisibilidade e necessidade contínua de validar respostas plausíveis |
 | **Destino ou transformação posterior** | Ainda não explicitado. |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Formulação|Formulação]], [[01 conceitos/Antropomorfismo|Antropomorfismo]], [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção boa vs fricção ruim]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]] |
 | **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]], por parentesco funcional e comparativo |

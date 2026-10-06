@@ -1,6 +1,8 @@
 {
-  "generatedAt": "2026-10-06T11:53:42.275Z",
+  "generatedAt": "2026-10-06T11:53:56.958Z",
   "brokenLinkCount": 0,
+  "ambiguousLinkCount": 0,
+  "ambiguousFiles": [],
   "fileCount": 0,
   "files": []
 }

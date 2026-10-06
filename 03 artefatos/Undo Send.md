@@ -68,11 +68,18 @@ A hipótese mais interessante talvez seja justamente essa: ao tornar uma ação 
 | **Popularização** | Adoção da expectativa de “desfazer envio” por outros serviços de comunicação |
 | **Padronização** | Tornou-se um padrão reconhecível de segurança em interfaces de comunicação, embora plataformas implementem mecanismos diferentes |
 | **Hipótese de design** | Uma ação pode parecer reversível sem precisar ser revertida, desde que o design adie discretamente o momento em que ela se torna irreversível Hipótese sobre o comportamento humano: A intenção pode continuar mudando imediatamente depois de uma ação aparentemente concluída |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Arrependimento e revisão logo após agir |
 | **Comportamento produzido** | Enviar contando com uma curta janela de escape |
 | **Relação de poder** | Devolve ao usuário uma pequena margem temporal sobre uma decisão que o sistema poderia tratar como instantaneamente definitiva |
 | **Consequências inesperadas** | Pode mudar a expectativa do usuário sobre a reversibilidade de ações digitais Capacidade ampliada: Correção rápida de erros de destinatário, anexos e impulsividade Capacidade reduzida ou deslocada: O envio deixa de ser tecnicamente instantâneo durante o intervalo de segurança Custo invisível: Dependência de infraestrutura que retém a ação e possibilidade de maior confiança em uma reversibilidade que é limitada |
 | **Destino ou transformação posterior** | Incorporado e normalizado em serviços de comunicação Legado: Tornou o atraso deliberado uma ferramenta explícita de segurança de interação |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção Boa vs Fricção Ruim]], [[01 conceitos/Limiares|Limiares]] |
 | **Variáveis relacionadas** | [[02 variaveis/Reversibilidade|Reversibilidade]], [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Custo do Erro|Custo do Erro]], [[02 variaveis/Atrito Decisorio|Atrito Decisório]] |
 | **Genealogia** | [[04 genealogias/Reversibilidade e Custo do Erro|Reversibilidade e custo do erro]] Família de ideias: Tecnologias de reversibilidade |

@@ -1,0 +1,10 @@
+{
+  "generatedAt": "2026-10-06T11:53:57.344Z",
+  "passed": true,
+  "blockingCount": 0,
+  "issues": [],
+  "warnings": {
+    "capitalization": 58,
+    "network": 22
+  }
+}

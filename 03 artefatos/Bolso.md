@@ -86,11 +86,18 @@ A pergunta arqueológica que sobra é: **quando cada vez mais funções cabem no
 | **Popularização** | Expansão junto à padronização de peças de vestuário e mudanças nas práticas de mobilidade e trabalho |
 | **Padronização** | Tornou-se componente esperado em muitas categorias de roupa, embora sua presença, tamanho e funcionalidade continuem desigualmente distribuídos |
 | **Hipótese de design** | Se pequenos objetos acompanharem o corpo sem ocupar as mãos, capacidades importantes continuarão disponíveis durante o deslocamento |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Carregar consigo objetos recorrentes e manter bens pessoais próximos |
 | **Comportamento produzido** | Consultar, guardar e recuperar objetos em movimento; esperar acesso quase imediato a itens pessoais |
 | **Relação de poder** | Espaço de bolso aumenta controle pessoal sobre dinheiro, chaves, documentos e ferramentas; sua distribuição desigual pode limitar autonomia prática |
 | **Consequências inesperadas** | Maior exposição a furto ou perda; aumento da quantidade de objetos carregados; transformação do bolso em infraestrutura de acesso constante ao smartphone |
 | **Destino ou transformação posterior** | Continua central no vestuário e ganhou nova importância como suporte cotidiano de dispositivos digitais multifuncionais |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Continuidade de Acesso|Continuidade de acesso]], [[01 conceitos/Tecnologias de Delimitacao|Tecnologias de delimitação]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Expectativa de Disponibilidade|Expectativa de disponibilidade]] |
 | **Genealogia** | [[04 genealogias/Portabilidade e Desancoragem|Portabilidade e desancoragem]] |

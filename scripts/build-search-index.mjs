@@ -175,6 +175,7 @@ const artigos = listarMarkdowns(raiz)
       sourcePath,
       type: extrairCampoTexto(frontmatter, "type"),
       status: extrairCampoTexto(frontmatter, "status"),
+      publicar: extrairCampoTexto(frontmatter, "publicar").toLowerCase() !== "false",
       origem: extrairCampoTexto(frontmatter, "origem"),
       grau: extrairCampoTexto(frontmatter, "grau"),
       eixo: extrairCampoTexto(frontmatter, "eixo"),
@@ -188,64 +189,47 @@ const artigos = listarMarkdowns(raiz)
   })
   .sort((a, b) => a.sourcePath.localeCompare(b.sourcePath, "pt-BR", { numeric: true, sensitivity: "base" }));
 
-const porCaminho = new Map();
-const porNome = new Map();
-
-for (const artigo of artigos) {
-  porCaminho.set(normalizar(artigo.sourcePath), artigo);
-  porCaminho.set(normalizar(artigo.sourcePath.replace(/\.md$/i, "")), artigo);
-
-  for (const chave of [artigo.fileTitle, artigo.title, ...artigo.aliases].map(normalizar).filter(Boolean)) {
-    if (!porNome.has(chave)) porNome.set(chave, []);
-    porNome.get(chave).push(artigo);
-  }
+const porCaminho = new Map(), porNome = new Map();
+function acrescentar(mapa, chave, artigo) {
+  if (!mapa.has(chave)) mapa.set(chave, []);
+  if (!mapa.get(chave).includes(artigo)) mapa.get(chave).push(artigo);
 }
-
-function resolverRelacionado(origem, referenciaBruta) {
+for (const artigo of artigos) {
+  acrescentar(porCaminho, normalizar(artigo.sourcePath), artigo);
+  for (const chave of [artigo.fileTitle, artigo.title, ...artigo.aliases].map(normalizar).filter(Boolean)) acrescentar(porNome, chave, artigo);
+}
+function resolver(referenciaBruta) {
   const referencia = limparReferenciaWiki(referenciaBruta);
-  if (!referencia) return null;
-
-  const direto = porCaminho.get(normalizar(referencia));
-  if (direto) return direto;
-
-  const nome = normalizar(referencia.split("/").pop());
-  const candidatos = porNome.get(nome) || [];
-  if (candidatos.length === 1) return candidatos[0];
-
-  const mesmaCategoria = candidatos.find(item => item.category === origem.category);
-  return mesmaCategoria || candidatos[0] || null;
+  const caminho = porCaminho.get(normalizar(referencia)) || [];
+  // A qualified path must resolve exactly; never silently fall back to another category.
+  const candidatos = caminho.length ? caminho : referencia.includes("/") ? [] : porNome.get(normalizar(referencia)) || [];
+  return { artigo: candidatos.length === 1 ? candidatos[0] : null, candidatos };
 }
-
 for (const artigo of artigos) {
-  artigo.related = [...new Set(
-    artigo.wikiLinksRaw
-      .map(referencia => resolverRelacionado(artigo, referencia))
-      .filter(Boolean)
-      .map(item => item.sourcePath)
-      .filter(sourcePath => sourcePath !== artigo.sourcePath)
-  )];
-
-  artigo.unresolved = [...new Set(
-    artigo.wikiLinksRaw
-      .filter(referencia => !resolverRelacionado(artigo, referencia))
-      .filter(referencia => !referenciaIgnoravel(referencia))
-      .map(limparReferenciaWiki)
-      .filter(Boolean)
-  )];
-
+  artigo.related = [];
+  artigo.unresolved = [];
+  artigo.ambiguous = [];
+  for (const referencia of artigo.wikiLinksRaw) {
+    const resultado = resolver(referencia);
+    if (resultado.candidatos.length > 1) artigo.ambiguous.push({target:referencia,candidates:resultado.candidatos.map(a=>a.sourcePath)});
+    else if (!resultado.artigo && !referenciaIgnoravel(referencia)) artigo.unresolved.push(referencia);
+    else if (resultado.artigo?.publicar && resultado.artigo !== artigo) artigo.related.push(resultado.artigo.sourcePath);
+  }
+  artigo.related = [...new Set(artigo.related)];
   artigo.backlinks = [];
   delete artigo.wikiLinksRaw;
 }
+const artigosPublicos = artigos.filter(a=>a.publicar);
 
 const porSourcePath = new Map(artigos.map(artigo => [artigo.sourcePath, artigo]));
-for (const artigo of artigos) {
+for (const artigo of artigosPublicos) {
   for (const destino of artigo.related) {
     const relacionado = porSourcePath.get(destino);
     if (relacionado && !relacionado.backlinks.includes(artigo.sourcePath)) relacionado.backlinks.push(artigo.sourcePath);
   }
 }
 
-const arquivosComFalha = artigos
+const arquivosComFalha = artigosPublicos
   .filter(artigo => artigo.unresolved.length)
   .map(artigo => ({ sourcePath: artigo.sourcePath, unresolved: artigo.unresolved }));
 const brokenLinkCount = arquivosComFalha.reduce((total, artigo) => total + artigo.unresolved.length, 0);
@@ -253,18 +237,22 @@ const brokenLinkCount = arquivosComFalha.reduce((total, artigo) => total + artig
 const indice = {
   version: 2,
   generatedAt: new Date().toISOString(),
-  articleCount: artigos.length,
+  articleCount: artigosPublicos.length,
   brokenLinkCount,
-  articles: artigos
+  articles: artigosPublicos
 };
 
+const ambiguousFiles = artigosPublicos.filter(a=>a.ambiguous.length).map(a=>({sourcePath:a.sourcePath,ambiguous:a.ambiguous}));
+const ambiguousLinkCount = ambiguousFiles.reduce((n,a)=>n+a.ambiguous.length,0);
 const relatorioLinks = {
   generatedAt: indice.generatedAt,
   brokenLinkCount,
+  ambiguousLinkCount,
+  ambiguousFiles,
   fileCount: arquivosComFalha.length,
   files: arquivosComFalha
 };
 
 fs.writeFileSync(path.join(raiz, "search-index.json"), JSON.stringify(indice));
 fs.writeFileSync(path.join(raiz, "link-report.json"), JSON.stringify(relatorioLinks, null, 2));
-console.log(`Índice de arqueologia gerado com ${artigos.length} entradas e ${brokenLinkCount} wikilinks não resolvidos.`);
+console.log(`Índice de arqueologia gerado com ${artigosPublicos.length} entradas e ${brokenLinkCount} wikilinks não resolvidos.`);

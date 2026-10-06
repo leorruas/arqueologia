@@ -73,11 +73,18 @@ O carrinho revela, então, uma ideia maior: decisões complexas ficam mais fáce
 | **Popularização** | Supermercados de autoatendimento |
 | **Padronização** | Carrinho como infraestrutura quase universal do supermercado e metáfora recorrente do e-commerce |
 | **Hipótese de design** | A capacidade de escolha aumenta quando carga física e memória de itens são externalizadas |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Depositar provisoriamente itens enquanto se continua escolhendo |
 | **Comportamento produzido** | Compras mais longas, acúmulo temporário e revisão antes do pagamento |
 | **Relação de poder** | Amplia autonomia do consumidor, mas também amplia a capacidade do varejo de manter a pessoa escolhendo por mais tempo |
 | **Consequências inesperadas** | Custo invisível: Pode remover limites físicos que antes restringiam volume de compra; no digital, pode favorecer acumulação de intenções e abandono |
 | **Destino ou transformação posterior** | Ainda não explicitado. |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória distribuída]] |
 | **Variáveis relacionadas** | [[02 variaveis/Reversibilidade|Reversibilidade]], [[02 variaveis/Atrito Decisorio|Atrito decisório]], [[02 variaveis/Friccao|Fricção]] |
 | **Genealogia** | [[04 genealogias/Compressao do Esforco|Compressão do esforço]] |

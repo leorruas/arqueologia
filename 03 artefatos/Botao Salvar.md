@@ -133,11 +133,18 @@ O sucesso, porém, produz outro problema. Se tudo pode ser preservado automatica
 | **Popularização** | Computadores pessoais e aplicações de produtividade |
 | **Padronização** | Repetição de `Save`, atalhos recorrentes e do disquete como símbolo |
 | **Hipótese de design** | O usuário pode e deve decidir quais estados precisam persistir |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Externalizar memória e preservar objetos importantes |
 | **Comportamento produzido** | Ritual recorrente de salvar durante o trabalho |
 | **Relação de poder** | Oferece controle explícito, mas transfere ao usuário a responsabilidade por lembrar de preservar |
 | **Consequências inesperadas** | O disquete sobrevive como signo depois do desaparecimento cotidiano do suporte físico Registros adicionais preservados da ficha anterior: futuro tornado mais provavel: Sistemas em que processos inteiros, e não apenas resultados finais, permanecem recuperáveis; descendentes possiveis: Autosave, histórico de versões, versionamento, recuperação contínua e sistemas com memória contextual persistente; novo problema produzido pelo sucesso: Quando tudo permanece, torna-se necessário redesenhar fechamento, esquecimento, autoria e fronteiras entre versões |
 | **Destino ou transformação posterior** | Autosave e histórico de versões transferem parte da responsabilidade para a infraestrutura |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Continuidade de Acesso|Continuidade de acesso]], [[01 conceitos/Genealogia de Futuros|Genealogia de Futuros]] |
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Custo do Erro|Custo do erro]], [[02 variaveis/Reversibilidade|Reversibilidade]] |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] |

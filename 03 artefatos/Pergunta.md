@@ -79,11 +79,18 @@ Talvez a pergunta seja um dos artefatos mais antigos que permanecem centrais jus
 | **Popularização** | Educação, ciência, entrevistas, pesquisa qualitativa, terapia, facilitação e práticas de design |
 | **Padronização** | Roteiros de entrevista, questionários, perguntas de pesquisa, técnicas pedagógicas e interfaces conversacionais |
 | **Hipótese de design** | Direcionar a atenção por uma dúvida pode produzir interpretações que uma instrução pronta não produziria |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Curiosidade, necessidade de coerência e capacidade humana de responder a enquadramentos linguísticos |
 | **Comportamento produzido** | Investigar, justificar, explicitar experiências e construir interpretações em resposta a uma dúvida formulada |
 | **Relação de poder** | Pode distribuir autonomia de pensamento, mas quem formula a pergunta também delimita parcialmente o espaço de resposta |
 | **Consequências inesperadas** | Custo invisível: Desconforto da incerteza, vieses de formulação e possibilidade de manipulação por perguntas capciosas |
 | **Destino ou transformação posterior** | Ainda não explicitado. |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Investigacao|Investigação]], [[01 conceitos/Autodeterminacao|Autodeterminação]], [[01 conceitos/Intencao|Intenção]] |
 | **Variáveis relacionadas** | [[02 variaveis/Agencia Inferencial|Agência inferencial]] |
 | **Genealogia** | Formulação e direção |

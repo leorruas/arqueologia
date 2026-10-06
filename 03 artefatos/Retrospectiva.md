@@ -129,11 +129,18 @@ A retrospectiva é uma dessas condições materializadas no calendário.
 | **Popularização** | Scrum e movimentos ágeis transformaram “retrospectiva” em ritual reconhecível de equipes de software e, depois, de outras áreas |
 | **Padronização** | Tornou-se evento formal do Scrum e prática comum em ambientes ágeis |
 | **Hipótese de design** | A retrospectiva reduz a distância entre viver um problema e transformar essa experiência em mudança do próprio sistema Hipótese sobre o comportamento humano: Experiência não se transforma automaticamente em aprendizagem; pessoas precisam de tempo, representação e comparação de perspectivas para reinterpretar o que viveram |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Reconstrução narrativa, comparação social, reconhecimento de padrões e aprendizagem a partir de experiência |
 | **Comportamento produzido** | Reservar períodos recorrentes para discutir o próprio processo e escolher mudanças explícitas |
 | **Relação de poder** | Pode criar espaço para equipes tornarem problemas visíveis ou converter falhas em exposição e controle, dependendo de quem participa e do destino das informações |
 | **Consequências inesperadas** | O ritual criado para questionar a rotina pode tornar-se ele próprio uma rotina vazia Capacidade ampliada: Aprendizagem coletiva, detecção precoce de disfunções e adaptação antes do encerramento do trabalho Capacidade reduzida ou deslocada: Consome tempo produtivo imediato e torna parte da experiência coletiva sujeita a formalização e registro Custo invisível: Risco de culpa, autocensura, consenso que dissolve responsabilidade ou ritualização sem mudança posterior Registros adicionais preservados da ficha anterior: o que simplifica: Transforma um fluxo difuso de experiências em poucos padrões, problemas e ações discutíveis pelo grupo; o que esconde: Sínteses coletivas podem apagar diferenças de experiência, poder e responsabilidade individual |
 | **Destino ou transformação posterior** | Institucionalizado em métodos ágeis e expandido para operações, produtos e equipes fora do software Legado: Sprint Retrospectives, AARs, post-mortems, incident reviews e outros formatos recorrentes de aprendizagem operacional |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Servico de Reflexao|Serviço de Reflexão]], [[01 conceitos/Memoria Distribuida|Memória Distribuída]], [[01 conceitos/Autodeterminação|Autodeterminação]], [[01 conceitos/Justica Procedimental|Justiça Procedimental]] |
 | **Variáveis relacionadas** | [[02 variaveis/Custo do Erro|Custo do Erro]], [[02 variaveis/Legitimidade Decisoria|Legitimidade Decisória]], [[02 variaveis/Custo Transacional|Custo Transacional]] |
 | **Genealogia** | [[04 genealogias/Reversibilidade e Custo do Erro|Reversibilidade e custo do erro]], [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]], [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] Família de ideias: Artefatos de reflexão e aprendizagem recorrente |

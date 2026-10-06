@@ -81,11 +81,18 @@ Isso torna a arqueologia do mascote especialmente relevante para IA. Antes de m�
 | **Popularização** | Publicidade, esporte, campanhas públicas, escolas e grandes eventos |
 | **Padronização** | Sistemas de personagem com regras visuais, narrativas e comportamentais reproduzíveis |
 | **Hipótese de design** | Uma entidade abstrata se torna mais relacionável quando recebe sinais consistentes de corpo, intenção e personalidade |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Antropomorfização, empatia por rostos e identificação afetiva com personagens |
 | **Comportamento produzido** | Falar, torcer, brincar, colecionar e interagir simbolicamente com instituições como se fossem sujeitos |
 | **Relação de poder** | Pode aproximar instituições do público, mas também revestir estruturas de poder com uma personalidade emocional mais simpática do que sua operação real |
 | **Consequências inesperadas** | Custo invisível: Confusão entre caráter do personagem e conduta da organização; infantilização ou suavização excessiva de mensagens |
 | **Destino ou transformação posterior** | Ainda não explicitado. |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Antropomorfismo|Antropomorfismo]], [[01 conceitos/Design Systems|Design Systems]], [[01 conceitos/Esqueuomorfismo|Esqueuomorfismo]] |
 | **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | Ainda não explicitado. |

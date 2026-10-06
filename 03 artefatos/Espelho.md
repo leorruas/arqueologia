@@ -101,11 +101,18 @@ A pergunta que fica para esta escavação é talvez essa: **o que acontece quand
 | **Popularização** | Ampliação da produção industrial e queda de preço, especialmente no século XIX em sociedades industrializadas |
 | **Padronização** | Incorporação do espelho a banheiros, quartos, mobiliário, bolsas, elevadores e outros ambientes cotidianos |
 | **Hipótese de design** | Se a pessoa receber feedback visual imediato sobre si mesma, poderá avaliar e corrigir sua apresentação sem depender de observadores externos |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Curiosidade sobre a própria aparência, cuidado corporal, comparação e preparação para interação social |
 | **Comportamento produzido** | Auto-observação recorrente, ensaio de aparência e expectativa de conferir o corpo antes da exposição social |
 | **Relação de poder** | Pode ampliar autonomia sobre a própria apresentação e simultaneamente internalizar normas sociais de aparência e autocontrole |
 | **Consequências inesperadas** | Intensificação da auto-observação; associação a vaidade e disciplina corporal; base funcional para práticas posteriores de autorrepresentação |
 | **Destino ou transformação posterior** | Coexiste com câmera frontal, selfie, fotografia, vídeo e sistemas digitais de monitoramento pessoal |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Tecnologia de Acesso|Tecnologia de acesso]], [[01 conceitos/Autodeterminação|Autodeterminação]], [[01 conceitos/Redução de Inferências|Redução de inferências]], [[01 conceitos/Promessa|Promessa]] |
 | **Variáveis relacionadas** | [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Expectativa de Disponibilidade|Expectativa de disponibilidade]], [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]] |
 | **Genealogia** | Possível genealogia futura de auto-observação e feedback |

@@ -175,11 +175,18 @@ Outra consequência é que a interface de distribuição começa a influenciar a
 | **Popularização** | Ainda não explicitado. |
 | **Padronização** | Ainda não explicitado. |
 | **Hipótese de design** | O feed curto não elimina toda decisão: elimina sobretudo a necessidade de escolher previamente qual será o próximo conteúdo |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Julgamento rápido de interesse e gesto de descarte |
 | **Comportamento produzido** | Ainda não explicitado. |
 | **Relação de poder** | Ainda não explicitado. |
 | **Consequências inesperadas** | O gesto de rejeitar também pode alimentar a seleção futura; a interface de distribuição passa a pressionar a forma do conteúdo Registros adicionais preservados da ficha anterior: produtos/contextos documentados: TikTok / For You, YouTube Shorts; ideia que mudou tudo: Tornar consumo, descoberta e feedback partes do mesmo fluxo vertical; comportamento criado/reforcado: Avaliar conteúdo durante o consumo em vez de selecionar tudo previamente |
 | **Destino ou transformação posterior** | Pode tornar-se uma gramática geral de distribuição de mídia para além do smartphone Legado: Feed vertical curto torna-se padrão replicado entre grandes plataformas |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Arquiteturas de Continuidade|Arquiteturas de continuidade]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Padroes Enganosos|Padrões enganosos]] |
 | **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | Ainda não explicitado. |

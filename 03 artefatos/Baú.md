@@ -89,11 +89,18 @@ Mas essa separação também produz poder. Quem controla a tampa, a chave ou o l
 | **Popularização** | Uso amplo como mobiliário doméstico e recipiente de transporte em diferentes sociedades |
 | **Padronização** | Tornou-se uma categoria estável de mobiliário e armazenamento, posteriormente coexistindo com armários, gavetas, malas e cofres |
 | **Hipótese de design** | Se objetos forem reunidos dentro de uma fronteira estável, podem sobreviver à dispersão, à desordem e a mudanças de contexto |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Agrupar posses e associar objetos a lugares conhecidos |
 | **Comportamento produzido** | Guardar fora da vista, organizar por recipiente e recuperar bens a partir da memória de onde foram colocados |
 | **Relação de poder** | Quem controla o recipiente, sua localização ou sua chave controla o acesso a parte das posses guardadas |
 | **Consequências inesperadas** | A contenção reduz dispersão, mas cria custo interno de busca; recipientes também podem funcionar como sinais de status e propriedade |
 | **Destino ou transformação posterior** | Coexiste com armários, gavetas, malas, cofres e sistemas digitais; sua lógica de contêiner permanece fundamental em armazenamento |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Tecnologias de Delimitacao|Tecnologias de delimitação]], [[01 conceitos/Continuidade de Acesso|Continuidade de acesso]] |
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Custo Transacional|Custo transacional]] |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]]; relação parcial com [[04 genealogias/Portabilidade e Desancoragem|Portabilidade e desancoragem]] |

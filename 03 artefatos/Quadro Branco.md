@@ -100,11 +100,18 @@ Isso sugere uma hipótese importante para o projeto: **algumas restrições mate
 | **Popularização** | Escritórios e escolas nas décadas de 1980 e 1990 |
 | **Padronização** | Tornou-se equipamento comum de salas de aula, reunião e projeto e metáfora recorrente em software colaborativo |
 | **Hipótese de design** | O quadro branco transforma o espaço coletivo em memória provisória, permitindo que um grupo veja e altere o próprio raciocínio Hipótese sobre o comportamento humano: Pessoas exploram mais livremente quando o suporte comunica que marcas podem ser corrigidas sem grande custo |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Esboço, gesticulação, apontamento e pensamento visual externo |
 | **Comportamento produzido** | Diagramar coletivamente ideias provisórias numa superfície comum |
 | **Relação de poder** | Uma superfície compartilhada pode distribuir visibilidade e autoria, mas quem controla a caneta, o espaço e o apagamento também controla parte da representação coletiva |
 | **Consequências inesperadas** | A metáfora da superfície provisória foi transformada por softwares em espaço potencialmente permanente e ilimitado Capacidade ampliada: Reversibilidade, memória externa, visibilidade coletiva e edição rápida Capacidade reduzida ou deslocada: Menor compromisso com a permanência do registro físico; em whiteboards digitais, essa característica pode inverter-se Custo invisível: Informação apagada sem registro no físico; acúmulo e dificuldade de síntese em superfícies digitais praticamente infinitas |
 | **Destino ou transformação posterior** | Continua físico e foi abstraído em softwares que ampliaram escala, permanência e colaboração remota Legado: Whiteboards digitais, Miro, FigJam, Mural e ambientes visuais colaborativos |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória Distribuída]], [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção Boa vs Fricção Ruim]] |
 | **Variáveis relacionadas** | [[02 variaveis/Reversibilidade|Reversibilidade]], [[02 variaveis/Custo do Erro|Custo do Erro]], [[02 variaveis/Permanencia|Permanência]] |
 | **Genealogia** | [[04 genealogias/Reversibilidade e Custo do Erro|Reversibilidade e custo do erro]], [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] Família de ideias: Superfícies de pensamento provisório |

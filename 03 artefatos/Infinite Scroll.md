@@ -107,11 +107,18 @@ O novo problema produzido pelo sucesso é quase o inverso do original. Se antes 
 | **Popularização** | Adoção por redes sociais, buscas de imagem, catálogos e aplicativos móveis |
 | **Padronização** | Tornou-se padrão reconhecível para navegação exploratória, embora não seja apropriado a todas as tarefas |
 | **Hipótese de design** | Infinite Scroll transformou uma decisão explícita de continuidade em inferência automática do sistema a partir do gesto de rolar Hipótese sobre o comportamento humano: Quando uma ação secundária é previsível a partir do gesto em curso, o sistema pode executá-la sem exigir nova decisão |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Continuar rolando quando ainda se procura algo ou se deseja ver mais |
 | **Comportamento produzido** | Esperar que listas se prolonguem automaticamente ao chegar ao limite |
 | **Relação de poder** | Reduz esforço do usuário, mas também permite que a plataforma controle quando e quanto conteúdo aparece sem devolver pontos naturais de decisão |
 | **Consequências inesperadas** | Em feeds continuamente atualizados, participa de sistemas que reduzem sinais de parada e podem favorecer sessões prolongadas Capacidade ampliada: Navegação contínua e rápida por grandes conjuntos de conteúdo Capacidade reduzida ou deslocada: Perda de marcos de posição, extensão e parada presentes na paginação Custo invisível: Dificuldade de perceber encerramento e, em alguns contextos, de recuperar posição ou estimar quantidade restante Registros adicionais preservados da ficha anterior: futuro tornado mais provavel: Interfaces em que continuidade e recomendação acontecem por padrão, antes de uma nova decisão explícita do usuário; descendentes possiveis: Autoplay, feeds preditivos, interfaces que antecipam próximos passos e agentes que mantêm fluxos em andamento; novo problema produzido pelo sucesso: Se continuar vira padrão, encerramento, pausa e recuperação de agência precisam voltar a ser projetados explicitamente |
 | **Destino ou transformação posterior** | Amplamente incorporado, hoje também objeto de crítica e de alternativas que reintroduzem limites ou pausas Legado: Transformou o “fim da página” de fronteira explícita em evento técnico invisível |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Economia da Atencao|Economia da Atenção]], [[01 conceitos/Friccao Boa vs Friccao Ruim|Fricção Boa vs Fricção Ruim]], [[01 conceitos/Padroes Enganosos|Padrões enganosos]], [[01 conceitos/Compressao do Esforco|Compressão do Esforço]], [[01 conceitos/Recompensa Variavel|Recompensa Variável]], [[01 conceitos/Genealogia de Futuros|Genealogia de Futuros]] |
 | **Variáveis relacionadas** | [[02 variaveis/Atrito Decisorio|Atrito Decisório]], [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Custo de Busca|Custo de Busca]], [[02 variaveis/Friccao|Fricção]] |
 | **Genealogia** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]], [[04 genealogias/Compressao do Esforco|Compressão do esforço]] Família de ideias: Tecnologias de continuidade |

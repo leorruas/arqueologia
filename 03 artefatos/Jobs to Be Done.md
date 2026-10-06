@@ -113,11 +113,18 @@ Talvez seja por isso que uma boa formulação de Job se pareça tanto com uma vo
 | **Popularização** | Livros e trabalho de Christensen, Moesta, Ulwick, Klement e comunidades de produto e inovação |
 | **Padronização** | Job statements, entrevistas JTBD, Forces of Progress, job maps e desired outcomes tornaram-se formatos recorrentes, mas não existe uma metodologia única |
 | **Hipótese de design** | Compreender a transformação desejada permite mudar a solução sem perder a intenção que orienta o projeto |
+| **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Pessoas escolhem meios em função de mudanças que tentam produzir em circunstâncias concretas |
 | **Comportamento produzido** | Investigar progresso, reconstruir mudanças, comparar alternativas fora da categoria e formular necessidades sem prescrever tecnologia |
 | **Relação de poder** | Pode ampliar autonomia de equipes e reduzir apego a soluções hierarquicamente impostas; também pode abstrair condições sociais quando aplicado de forma excessivamente individualista |
 | **Consequências inesperadas** | Jobs podem virar slogans genéricos; entrevistas podem ser tratadas como representativas e surveys podem dar precisão falsa a categorias mal formuladas |
 | **Destino ou transformação posterior** | Diversificação em escolas qualitativas, quantitativas e híbridas aplicadas a inovação, produto, marketing e service design |
+| **Futuro prometido** | Ainda não explicitado. |
+| **Futuro produzido** | Ainda não explicitado. |
+| **Quando a promessa virou expectativa** | Ainda não explicitado. |
+| **Futuro tornado mais provável** | Ainda não explicitado. |
+| **Descendentes possíveis** | Ainda não explicitado. |
+| **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Autodeterminacao|Autodeterminação]], [[01 conceitos/Intencao|Intenção]], [[01 conceitos/Formulacao|Formulação]], [[01 conceitos/Investigação|Investigação]], [[01 conceitos/Justificabilidade|Justificabilidade]] |
 | **Variáveis relacionadas** | [[02 variaveis/Atrito Decisorio|Atrito decisório]], [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Legitimidade Decisoria|Legitimidade decisória]] |
 | **Genealogia** | [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]], por parentesco funcional e cognitivo; família de ideias: artefatos de intenção, formulação e investigação |

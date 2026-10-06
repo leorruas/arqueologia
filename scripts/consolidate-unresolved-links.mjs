@@ -1,118 +1,29 @@
-import fs from "node:fs";
-import path from "node:path";
-
-const raiz = process.cwd();
-const relatorioPath = path.join(raiz, "link-report.json");
-const pistasPath = path.join(raiz, "Pistas de pesquisa.md");
-const inicioAutomatico = "<!-- PISTAS-AUTOMATICAS:INICIO -->";
-const fimAutomatico = "<!-- PISTAS-AUTOMATICAS:FIM -->";
-
-if (!fs.existsSync(relatorioPath)) {
-  console.log("Relatório de links ainda não existe; nenhuma pista consolidada.");
-  process.exit(0);
+import fs from 'node:fs';
+import path from 'node:path';
+import {applyReview, propose} from './review-changes.mjs';
+if (applyReview('consolidate-unresolved-links')) process.exit(0);
+const root=process.cwd(), reportPath=path.join(root,'link-report.json'), sourcePath='Pistas de pesquisa.md';
+if (!fs.existsSync(reportPath)) throw new Error('Gere link-report.json antes de detectar pistas.');
+const report=JSON.parse(fs.readFileSync(reportPath,'utf8'));
+const file=path.join(root,sourcePath), before=fs.existsSync(file)?fs.readFileSync(file,'utf8'):null;
+let after=before??'---\ntitle: "Pistas de pesquisa"\ntype: "governanca"\nstatus: "ativo"\npublicar: false\n---\n\n# Pistas de pesquisa\n';
+const start='<!-- PISTAS-AUTOMATICAS:INICIO -->', end='<!-- PISTAS-AUTOMATICAS:FIM -->';
+const startAt=after.indexOf(start),endAt=after.indexOf(end);
+if ((startAt<0)!==(endAt<0)||endAt<startAt) throw new Error('Delimitadores de pistas inconsistentes; original preservado.');
+const candidates=[];
+for (const item of report.files||[]) for (const target of item.unresolved||[]) {
+  const id=JSON.stringify([target,item.sourcePath]);
+  const marker=`<!-- pista:${Buffer.from(id).toString('base64url')} -->`;
+  // Historical resolved/promoted records retain their marker: do not reopen them.
+  if (after.includes(marker)) continue;
+  const row=`- **${target.split('/').pop()}**: destino \`${target}\`; origem \`${item.sourcePath}\`; estado: pendente. ${marker}`;
+  if (after.includes(`**${target.split('/').pop()}**`)&&after.includes(`\`${item.sourcePath}\``)) continue;
+  candidates.push(row);
 }
-
-const relatorio = JSON.parse(fs.readFileSync(relatorioPath, "utf8"));
-const porArquivo = new Map((relatorio.files || []).map(item => [item.sourcePath, new Set(item.unresolved || [])]));
-const pistas = new Map();
-let arquivosAlterados = 0;
-let linksConvertidos = 0;
-
-function normalizar(valor = "") {
-  return String(valor)
-    .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "")
-    .toLowerCase()
-    .trim();
+if (candidates.length) {
+  const block=candidates.join('\n')+'\n';
+  if (endAt>=0) after=after.slice(0,endAt)+block+after.slice(endAt);
+  else after+='\n'+start+'\n## Pistas detectadas automaticamente\n\nRegistro acumulativo. Promoção, fusão ou descarte exigem decisão explícita e justificativa; preserve o histórico e as origens.\n\n'+block+end+'\n';
 }
-
-function limparReferenciaWiki(valor) {
-  let referencia = String(valor || "")
-    .replace(/^\[\[/, "")
-    .replace(/\]\]$/, "")
-    .split("|")[0]
-    .split("#")[0]
-    .replace(/^\.\//, "")
-    .trim();
-  while (referencia.endsWith("\\")) referencia = referencia.slice(0, -1).trimEnd();
-  return referencia.replace(/\.md$/i, "").trim();
-}
-
-function rotuloDoWiki(conteudo) {
-  const partes = String(conteudo).split("|");
-  if (partes.length > 1) return partes.slice(1).join("|").replace(/^\\/, "").trim();
-  return limparReferenciaWiki(conteudo).split("/").pop();
-}
-
-function registrarPista(destino, origem) {
-  if (!pistas.has(destino)) pistas.set(destino, new Set());
-  pistas.get(destino).add(origem);
-}
-
-for (const [sourcePath, naoResolvidos] of porArquivo.entries()) {
-  const absoluto = path.join(raiz, sourcePath);
-  if (!fs.existsSync(absoluto)) continue;
-  const original = fs.readFileSync(absoluto, "utf8");
-
-  const novo = original.replace(/\[\[([^\]]+)\]\]/g, (wikiCompleto, conteudo) => {
-    const destino = limparReferenciaWiki(conteudo);
-    if (!naoResolvidos.has(destino)) return wikiCompleto;
-
-    // Pistas de pesquisa é um arquivo de governança na raiz. Mesmo que um
-    // relatório antigo o marque como não resolvido, ele nunca deve virar
-    // uma pista sobre si próprio.
-    if (normalizar(destino.split("/").pop()) === "pistas de pesquisa") return wikiCompleto;
-
-    registrarPista(destino, sourcePath);
-    linksConvertidos += 1;
-    return rotuloDoWiki(conteudo);
-  });
-
-  if (novo !== original) {
-    fs.writeFileSync(absoluto, novo);
-    arquivosAlterados += 1;
-  }
-}
-
-function grupo(destino) {
-  if (destino.startsWith("03 artefatos/")) return "Artefatos";
-  if (destino.startsWith("01 conceitos/")) return "Conceitos";
-  if (destino.startsWith("02 variaveis/")) return "Variáveis";
-  if (destino.startsWith("autores/")) return "Autores";
-  if (destino.startsWith("empresas/")) return "Empresas e organizações";
-  return "Outras pistas";
-}
-
-const grupos = new Map();
-for (const [destino, origens] of [...pistas.entries()].sort((a, b) => a[0].localeCompare(b[0], "pt-BR"))) {
-  const nomeGrupo = grupo(destino);
-  if (!grupos.has(nomeGrupo)) grupos.set(nomeGrupo, []);
-  grupos.get(nomeGrupo).push({ destino, origens: [...origens].sort() });
-}
-
-const conteudoBase = fs.existsSync(pistasPath)
-  ? fs.readFileSync(pistasPath, "utf8")
-  : `---\ntitle: "Pistas de pesquisa"\ntype: "governanca"\nstatus: "ativo"\npublicar: false\n---\n\n# Pistas de pesquisa\n\nEste arquivo preserva possibilidades de investigação que ainda não possuem estudo próprio.\n`;
-
-const padraoAutomatico = new RegExp(`\\n?${inicioAutomatico}[\\s\\S]*?${fimAutomatico}\\n?`, "m");
-let conteudo = conteudoBase.replace(padraoAutomatico, "\n").trimEnd();
-
-if (pistas.size) {
-  let bloco = `\n\n${inicioAutomatico}\n## Pistas detectadas automaticamente\n\nEsta seção é regenerada pelo workflow a partir de wikilinks sem destino. As seções manuais acima nunca devem ser substituídas por esta rotina.\n`;
-
-  for (const [nomeGrupo, itens] of grupos.entries()) {
-    bloco += `\n### ${nomeGrupo}\n\n`;
-    for (const item of itens) {
-      const nome = item.destino.split("/").pop();
-      bloco += `- **${nome}**: citado em ${item.origens.map(origem => `\`${origem}\``).join(", ")}\n`;
-    }
-  }
-
-  bloco += `\n${fimAutomatico}\n`;
-  conteudo += bloco;
-} else {
-  conteudo += "\n";
-}
-
-if (conteudo !== conteudoBase) fs.writeFileSync(pistasPath, conteudo);
-console.log(`Pistas: ${linksConvertidos} wikilinks convertidos em texto em ${arquivosAlterados} arquivos; ${pistas.size} destinos automáticos registrados sem substituir pistas manuais.`);
+// The existing Markdown is retained byte-for-byte, with insertions only.
+propose('consolidate-unresolved-links',after!==before?[{sourcePath,before,after}]:[]);
