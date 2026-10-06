@@ -87,6 +87,14 @@ Essa transformação altera também a relação de poder. Na rua, o observador p
 
 Isso não torna todo feed manipulativo por definição. Torna necessário perguntar **quem usa os sinais produzidos pela atenção e com qual objetivo**. Reduzir uma pausa pode tornar navegação mais fluida; também pode retirar um momento em que a pessoa teria percebido que precisava decidir se queria continuar. Manter uma pendência visível pode ser memória útil; também pode prolongar uma obrigação que o usuário não escolheu manter no campo perceptivo.
 
+## Quando a distribuição também produz uma imagem do conflito
+
+A frente de [[01 conceitos/Design da aversão|Design da aversão]] acrescenta uma consequência política a este percurso. Um pôster, um [[03 artefatos/Meme|meme]] ou uma imagem podem comprimir uma associação negativa numa unidade fácil de reconhecer. O feed introduz outra camada: a infraestrutura decide repetidamente quais dessas unidades aparecem, com que frequência e ao lado de quais sinais sociais.
+
+Isso muda a pergunta sobre representação. A pessoa pode formar uma imagem do grupo adversário a partir do conteúdo que encontra e também da frequência aparente com que certos comportamentos aparecem. Se interações hostis, moralizadas ou extremas recebem mais circulação, o sistema pode alterar a percepção de quais condutas são comuns no ambiente político. A relação entre ranking, conteúdo e percepção de normas precisa ser testada em cada plataforma; o percurso serve para tornar visível essa nova escala de design.
+
+Nesse ponto, reduzir aversão deixa de ser apenas um problema de criar uma mensagem melhor. Pode envolver também projetar **a distribuição das mensagens**, separando o que é frequente no sistema do que é frequente na população. Essa diferença conecta o percurso à [[01 conceitos/Polarização afetiva|polarização afetiva]] e torna arquitetura de exposição uma parte da investigação.
+
 ## O que aparece quando lemos em sequência
 
 O percurso revela uma mudança de regime: **capturar atenção, prolongar atenção e reconvocá-la são problemas diferentes**.
@@ -95,4 +103,4 @@ O pôster precisa transformar um transeunte em observador. O feed já começa co
 
 A pergunta final, então, não é apenas “como as interfaces ficaram mais viciantes?”. Essa formulação seria ampla demais. A pergunta mais precisa é: **o que muda quando a superfície que busca nossa atenção também consegue registrar como respondemos, usar essa resposta para decidir o que veremos depois e deixar sinais persistentes para nos trazer de volta?**
 
-Continue em [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] e [[05 percursos/Da Parede ao Interlocutor|Da parede ao interlocutor]].
+Continue em [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]], [[01 conceitos/Design da aversão|Design da aversão]] e [[05 percursos/Da Parede ao Interlocutor|Da parede ao interlocutor]].
