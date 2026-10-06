@@ -52,6 +52,7 @@ A presença aqui não obriga a criação de uma nota. Cada pista deve ser avalia
 - **Autoplay**: estudar a transferência da decisão de iniciar o próximo conteúdo do usuário para o sistema.
 - **Notificação**: investigar o artefato que leva uma demanda de atenção até a pessoa em vez de esperar que ela retorne ao sistema.
 - **Stories**: investigar combinação de efemeridade, sequência automática, navegação gestual e pressão temporal de disponibilidade.
+- **Curadoria algorítmica entre plataformas**: depois de comparar Instagram, X/Twitter e TikTok, avaliar se existe um conceito reutilizável para a passagem de ordem cronológica a relevância prevista. Separar ranking de contas seguidas, recomendação de conteúdo não seguido, exploração de novidade e políticas de elegibilidade. Não promover antes do comparativo.
 
 ## Reversibilidade e custo do erro
 

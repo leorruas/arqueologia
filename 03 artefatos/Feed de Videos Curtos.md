@@ -105,6 +105,8 @@ A continuidade depende, portanto, de duas camadas. A **continuidade mecânica** 
 
 A personalização pode ser entendida como serviço e como infraestrutura de continuidade ao mesmo tempo. Ela reduz o trabalho de procurar num catálogo enorme, mas também permite que a sequência seja recalibrada a partir dos rastros produzidos durante o próprio consumo.
 
+O [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]] é um parente funcional importante porque separa duas coisas que aqui aparecem acopladas. O ranking personalizado pode reorganizar uma sequência de fotos, vídeos e posts sem adotar a gramática de vídeo curto; o feed de vídeos curtos acrescenta unidade dominante, swipe e descarte rápido à mesma família de seleção preditiva.
+
 ## O problema da novidade
 
 Se dados passados ajudam a escolher o próximo vídeo, surge uma tensão inevitável entre repetir padrões conhecidos e testar possibilidades novas.
@@ -191,7 +193,7 @@ Outra consequência é que a interface de distribuição começa a influenciar a
 | **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | Ainda não explicitado. |
 | **Percurso(s)** | Ainda não integrado a um percurso editorial. |
-| **Parentes** | [[03 artefatos/Infinite Scroll|Infinite Scroll]], [[03 artefatos/Controle Remoto|Controle remoto]], autoplay, playlist, televisão linear |
+| **Parentes** | [[03 artefatos/Infinite Scroll|Infinite Scroll]], [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], [[03 artefatos/Controle Remoto|Controle remoto]], autoplay, playlist, televisão linear |
 | **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Por que funcionou: Baixo custo de experimentar e abandonar; adequação ao smartphone vertical; personalização |
 | **Questão em aberto** | Como a interface de distribuição altera a gramática dos vídeos produzidos para sobreviver ao swipe? |

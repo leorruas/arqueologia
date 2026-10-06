@@ -41,6 +41,8 @@ Essa compressão é parente de [[03 artefatos/Pull to Refresh|Pull to Refresh]].
 
 A consequência mais importante aparece quando o conteúdo deixa de ser apenas um conjunto que precisa ser consultado e passa a ser um fluxo continuamente produzido e ranqueado. Em um catálogo finito, rolagem contínua pode ser apenas conveniência. Em um feed personalizado, ela também remove um dos poucos sinais físicos de encerramento.
 
+O [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]] torna visível a camada complementar. Infinite Scroll reduz a necessidade de decidir se a sessão deve continuar; o ranking preditivo decide qual item terá prioridade dentro dessa continuidade. Um projeta a passagem entre unidades, o outro projeta a ordem das unidades.
+
 Aza Raskin passou a usar uma analogia conhecida: um copo que se reabastecesse sozinho dificultaria perceber o momento de parar de beber. O argumento não demonstra que Infinite Scroll, isoladamente, cause uso compulsivo. Ele aponta para uma propriedade mais específica: **o padrão elimina um stopping cue**, um sinal de parada que existia na paginação.
 
 A versão anterior desta nota dizia que Infinite Scroll “originou o doomscrolling”. Isso é causalmente forte demais. Doomscrolling depende de conteúdo, contexto emocional, ranking, notificações, disponibilidade móvel e outros fatores. A rolagem infinita pode facilitar sessões sem ponto claro de término, mas não explica sozinha o comportamento.
@@ -123,7 +125,7 @@ O novo problema produzido pelo sucesso é quase o inverso do original. Se antes 
 | **Variáveis relacionadas** | [[02 variaveis/Atrito Decisorio|Atrito Decisório]], [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Custo de Busca|Custo de Busca]], [[02 variaveis/Friccao|Fricção]] |
 | **Genealogia** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]], [[04 genealogias/Compressao do Esforco|Compressão do esforço]] Família de ideias: Tecnologias de continuidade |
 | **Percurso(s)** | [[05 percursos/Da Parede ao Feed|Da Parede ao Feed]] |
-| **Parentes** | [[03 artefatos/Pull to Refresh|Pull to Refresh]], [[03 artefatos/Botao Like|Botão Like]], paginação, rolo de manuscrito como parentesco morfológico, autoplay como parentesco comportamental |
+| **Parentes** | [[03 artefatos/Pull to Refresh|Pull to Refresh]], [[03 artefatos/Botao Like|Botão Like]], [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], paginação, rolo de manuscrito como parentesco morfológico, autoplay como parentesco comportamental |
 | **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Remover uma microdecisão pode melhorar fluidez e, ao mesmo tempo, apagar um ponto de autonomia que só parecia irrelevante Por que funcionou: Une navegação e solicitação de conteúdo no mesmo gesto |
 | **Questão em aberto** | Como distinguir uma fricção inútil de um ponto de parada que protege a capacidade do usuário de encerrar a interação? |

@@ -85,6 +85,8 @@ A hipótese recorrente do campo é que essa delegação pode ampliar capacidade 
 
 Para atravessar a questão pela história das superfícies, leia [[05 percursos/Da Parede ao Interlocutor|Da parede ao interlocutor]]. [[04 genealogias/Reversibilidade e Custo do Erro|Reversibilidade e custo do erro]] e [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] ajudam a observar dois problemas que ficam mais difíceis — não menos — quando parte do comportamento deixa de ser determinística.
 
+O [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]] mostra uma forma anterior à atual onda generativa em que Design de IA já organizava experiência cotidiana. Modelos não precisam conversar para redistribuir agência: prever interesse, classificar candidatos e decidir exposição também exige projetar expectativa, controle, correção e possibilidade de contestar a inferência.
+
 ## Referências
 
 [^1]: Amershi, Saleema et al. “Guidelines for Human-AI Interaction”. *CHI Conference on Human Factors in Computing Systems*, 2019. Os autores sintetizam décadas de pesquisa e prática sobre interação com sistemas inteligentes e propõem diretrizes para expectativas, correção, adaptação e controle. https://doi.org/10.1145/3290605.3300233

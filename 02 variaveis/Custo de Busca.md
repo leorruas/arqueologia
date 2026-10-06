@@ -40,6 +40,8 @@ A [[03 artefatos/Voting Advice Application|Voting Advice Application]] reduz um 
 
 Essa diferença é importante. “Mais conteúdo disponível” não é sinônimo de “mais encontrável”.
 
+O [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]] tenta reduzir outro tipo de custo: escolher o que merece aparecer primeiro sem exigir uma busca explícita. Esse ganho transfere trabalho ao sistema de ranking e aumenta dependência de seus critérios de seleção, elegibilidade e previsão. O item pode ficar mais fácil de encontrar justamente porque a plataforma decidiu promovê-lo.
+
 Filtros, índices, hierarquias, rótulos e mecanismos de busca reduzem determinados custos ao incorporar uma estrutura de classificação. Em troca, o usuário passa a depender das categorias e do ranking escolhidos pelo sistema.
 
 Assim, reduzir custo de busca pode aumentar poder de curadoria. Isso conecta a variável à [[01 conceitos/Redução de Inferências|Redução de inferências]] e à [[02 variaveis/Legitimidade Decisoria|Legitimidade decisória]].
@@ -70,7 +72,7 @@ A variável não mede sozinha a qualidade da escolha. Um sistema pode tornar um 
 | **Como observar** | Tempo de localização, tentativas, reformulações, navegação, itens inspecionados e sucesso de recuperação |
 | **O que não mede sozinho** | Qualidade da escolha, quantidade de alternativas ou legitimidade do ranking |
 | **Trade-offs principais** | Busca eficiente pode ampliar exploração e também concentrar poder em filtros, categorias e ordenação |
-| **Artefatos-chave** | [[03 artefatos/Voting Advice Application|Voting Advice Application]], [[03 artefatos/Archive|Archive]], [[03 artefatos/Grid|Grid]], [[03 artefatos/Espaço entre Palavras|Espaço entre palavras]], [[03 artefatos/Controle Remoto|Controle remoto]] |
+| **Artefatos-chave** | [[03 artefatos/Voting Advice Application|Voting Advice Application]], [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], [[03 artefatos/Archive|Archive]], [[03 artefatos/Grid|Grid]], [[03 artefatos/Espaço entre Palavras|Espaço entre palavras]], [[03 artefatos/Controle Remoto|Controle remoto]] |
 | **Conceitos relacionados** | [[01 conceitos/Redução de Inferências|Redução de inferências]], [[01 conceitos/Tecnologia de Acesso|Tecnologia de acesso]] |
 | **Genealogias relacionadas** | [[04 genealogias/Acesso e Disponibilidade|Acesso e disponibilidade]] |
 

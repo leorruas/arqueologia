@@ -37,9 +37,9 @@ Essa distinção se conecta a [[01 conceitos/Autonomia da Atencao|Autonomia da a
 
 ## O feed tornou a disputa mensurável
 
-[[03 artefatos/Infinite Scroll|Infinite Scroll]], [[03 artefatos/Botao Like|Botão Like]] e [[03 artefatos/Pull to Refresh|Pull to Refresh]] ajudam a observar diferentes mecanismos contemporâneos.
+[[03 artefatos/Infinite Scroll|Infinite Scroll]], [[03 artefatos/Botao Like|Botão Like]], [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]] e [[03 artefatos/Pull to Refresh|Pull to Refresh]] ajudam a observar diferentes mecanismos contemporâneos.
 
-Infinite Scroll reduz pontos explícitos de parada. Like transforma uma reação social em sinal quantificável. Pull to Refresh permite solicitar novidade por um gesto integrado à navegação. Nenhum deles, isoladamente, “é a economia da atenção”. Eles se tornam relevantes quando inseridos em sistemas que usam esses comportamentos para ordenar conteúdo, medir engajamento ou estimular retorno.
+Infinite Scroll reduz pontos explícitos de parada. Like transforma uma reação social em sinal quantificável. O feed algorítmico transforma sinais de comportamento em previsões que redistribuem exposição futura. Pull to Refresh permite solicitar novidade por um gesto integrado à navegação. Nenhum deles, isoladamente, “é a economia da atenção”. Eles se tornam relevantes quando inseridos em sistemas que usam esses comportamentos para ordenar conteúdo, medir engajamento ou estimular retorno.
 
 A genealogia [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] serve para comparar essas operações sem afirmar que todas descendem de uma única intenção de capturar usuários.
 
@@ -65,7 +65,7 @@ Essa tensão torna o conceito útil para interfaces contemporâneas: toda escolh
 | **Distinção central** | Abundância de informação não elimina escassez; desloca a escassez para a capacidade humana de atender |
 | **O que ajuda a explicar** | Competição por foco, mecanismos de filtragem, retenção, visibilidade e monetização da atenção |
 | **O que não explica sozinho** | Se um mecanismo de engajamento é manipulativo, benéfico ou desejado pelo usuário |
-| **Artefatos-chave** | [[03 artefatos/Infinite Scroll|Infinite Scroll]], [[03 artefatos/Botao Like|Botão Like]], [[03 artefatos/Pull to Refresh|Pull to Refresh]], [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Controle Remoto|Controle remoto]] |
+| **Artefatos-chave** | [[03 artefatos/Infinite Scroll|Infinite Scroll]], [[03 artefatos/Botao Like|Botão Like]], [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], [[03 artefatos/Pull to Refresh|Pull to Refresh]], [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Controle Remoto|Controle remoto]] |
 | **Conceitos relacionados** | [[01 conceitos/Autonomia da Atencao|Autonomia da atenção]] |
 | **Variáveis relacionadas** | [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Atrito Decisorio|Atrito decisório]] |
 | **Genealogias relacionadas** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] |

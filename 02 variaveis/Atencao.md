@@ -68,7 +68,7 @@ A pergunta arqueológica mais útil é: **o que deixa de funcionar quando a pess
 | **Como observar** | Monitoramento necessário, interrupções, competição entre estímulos, erros sob atenção dividida e custo de retomada |
 | **O que não mede sozinho** | Engajamento, satisfação, valor do conteúdo ou autonomia sobre o foco |
 | **Trade-offs principais** | Reduzir demanda pode liberar capacidade; também pode ocultar processos que mereciam atenção |
-| **Artefatos-chave** | [[03 artefatos/Infinite Scroll|Infinite Scroll]], [[03 artefatos/Botao Like|Botão Like]], [[03 artefatos/Archive|Archive]], [[03 artefatos/Grid|Grid]], [[03 artefatos/Espelho|Espelho]] |
+| **Artefatos-chave** | [[03 artefatos/Infinite Scroll|Infinite Scroll]], [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], [[03 artefatos/Botao Like|Botão Like]], [[03 artefatos/Archive|Archive]], [[03 artefatos/Grid|Grid]], [[03 artefatos/Espelho|Espelho]] |
 | **Conceitos relacionados** | [[01 conceitos/Autonomia da Atencao|Autonomia da atenção]], [[01 conceitos/Economia da Atencao|Economia da atenção]] |
 | **Genealogias relacionadas** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] |
 

@@ -59,6 +59,8 @@ Esses trabalhos sustentam a importância do problema, mas não provam, sozinhos,
 
 Isso não “prende” mecanicamente a atenção, mas altera a arquitetura de decisão. O sistema elimina um momento explícito em que seria necessário escolher continuar. Para a autonomia da atenção, o detalhe relevante não é apenas o tempo adicional de uso, mas o desaparecimento de uma oportunidade de reavaliar o próprio curso de ação.
 
+O [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]] desloca a mesma pergunta para a seleção. A pessoa pode escolher contas, fornecer sinais, usar uma visualização cronológica ou resetar recomendações, enquanto o feed principal continua decidindo a ordem e pode inserir conteúdos não seguidos. A autonomia passa a depender também de quem controla a curadoria do próximo objeto de atenção e de como essa curadoria pode ser corrigida.
+
 A genealogia [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] amplia essa investigação mostrando como pôster, controle remoto, Like, Pull to Refresh, feeds e badges reorganizam diferentes momentos da relação entre atenção, novidade, continuação e retorno.
 
 Autonomia da atenção pergunta algo diferente da variável [[02 variaveis/Atencao|Atenção]]. A variável registra quanto foco uma situação exige ou mobiliza. Este conceito pergunta como agência, autonomia e liberdade são distribuídas na transição desse foco.
@@ -106,7 +108,7 @@ Isso não permite classificar automaticamente uma interface como ética ou manip
 | **Distinção central** | Demanda de atenção, agência atencional, autonomia atencional e liberdade da atenção não são a mesma coisa |
 | **O que ajuda a explicar** | Quem inicia, sustenta e encerra deslocamentos de foco; se o ambiente favorece objetivos endossados pelo usuário ou prioridades de outros atores |
 | **O que não explica sozinho** | Valor do conteúdo, quantidade total de atenção, vício, manipulação ou qualidade moral de uma interface |
-| **Artefatos-chave** | [[03 artefatos/Archive|Archive]], [[03 artefatos/Infinite Scroll|Infinite Scroll]], [[03 artefatos/Post-it|Post-it]], [[03 artefatos/Badge de notificacao|Badge de notificação]] |
+| **Artefatos-chave** | [[03 artefatos/Archive|Archive]], [[03 artefatos/Infinite Scroll|Infinite Scroll]], [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], [[03 artefatos/Post-it|Post-it]], [[03 artefatos/Badge de notificacao|Badge de notificação]] |
 | **Conceitos relacionados** | [[01 conceitos/Autodeterminação|Autodeterminação]], [[01 conceitos/Economia da Atencao|Economia da atenção]] |
 | **Variáveis relacionadas** | [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Atrito Decisorio|Atrito decisório]] |
 | **Genealogias relacionadas** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] |

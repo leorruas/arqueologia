@@ -27,6 +27,8 @@ O [[03 artefatos/Badge de notificacao|badge de notificação]] acrescenta outro 
 
 A diferença é importante: um grupo de artefatos trabalha para conquistar atenção; outro trabalha para tornar menos necessário decidir conscientemente se ela deve continuar; o badge mostra que um terceiro pode preservar uma pendência para tentar reabrir a relação mais tarde.
 
+O [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]] ocupa uma passagem importante entre recepção e continuidade. O Like ajuda a transformar resposta em sinal; o ranking usa sinais para decidir o que receberá visibilidade depois; o Infinite Scroll reduz a pausa entre uma decisão de distribuição e a seguinte. O parentesco é funcional e sistêmico, não uma linhagem histórica única.
+
 ## A transição também pode ser projetada
 
 Essa leitura desloca a análise da mensagem isolada para o intervalo entre mensagens e sessões. Se um pôster precisa vencer a distração para receber um primeiro olhar, um feed pode ser desenhado para que o fim de um item não funcione como convite à saída. Um badge pode atuar quando a sessão já acabou, mantendo um estado pendente visível na superfície pela qual a pessoa poderá retornar.
@@ -59,7 +61,7 @@ Essa arquitetura também pode afetar [[02 variaveis/Ameaça percebida|ameaça pe
 | **Pergunta central** | Como o design captura, orienta, prolonga e reconvoca atenção? |
 | **Hipótese de parentesco** | Artefatos distintos atuam sobre o primeiro olhar, a busca por novidade, a continuidade entre estímulos ou a criação de um motivo persistente para retornar |
 | **Natureza das relações** | Perceptual, semiótica, comportamental e comparativa; não implica descendência histórica |
-| **Artefatos principais** | [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Clip político|Clip político]], [[03 artefatos/Entrevista longa|Entrevista longa]], [[03 artefatos/Controle Remoto|Controle remoto]], [[03 artefatos/Hero Section|Hero section]], [[03 artefatos/Botao Like|Botão Like]], [[03 artefatos/Pull to Refresh|Pull to Refresh]], [[03 artefatos/Infinite Scroll|Infinite scroll]], [[03 artefatos/Badge de notificacao|Badge de notificação]] |
+| **Artefatos principais** | [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Clip político|Clip político]], [[03 artefatos/Entrevista longa|Entrevista longa]], [[03 artefatos/Controle Remoto|Controle remoto]], [[03 artefatos/Hero Section|Hero section]], [[03 artefatos/Botao Like|Botão Like]], [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], [[03 artefatos/Pull to Refresh|Pull to Refresh]], [[03 artefatos/Infinite Scroll|Infinite scroll]], [[03 artefatos/Badge de notificacao|Badge de notificação]] |
 | **Comportamento recorrente** | Orientar o olhar, buscar novidade, responder socialmente, continuar consumindo estímulos e retornar a estados pendentes |
 | **O que o design redistribui** | Atenção, fricção entre conteúdos, momentos explícitos de decisão e capacidade de convocar o retorno |
 | **Relação de poder** | Sistemas podem aumentar capacidade de escolher e, ao mesmo tempo, reduzir ocasiões em que uma nova escolha precisa ser formulada ou manter demandas perceptivamente presentes fora da sessão |

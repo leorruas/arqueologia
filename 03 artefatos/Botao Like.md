@@ -37,6 +37,8 @@ Um comentário também pode ser analisado, mas é semanticamente mais complexo. 
 
 Relatos sobre o desenvolvimento do Facebook indicam que os Likes passaram a funcionar também como sinais usados pelo News Feed. A consequência histórica é significativa: um artefato criado para reduzir esforço de expressão também ajuda a plataforma a inferir relevância e reorganizar visibilidade.
 
+No [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], essa segunda função torna-se parte explícita da arquitetura: reações e outros rastros ajudam a alimentar previsões que reorganizam a exposição futura. O parentesco é funcional, não uma afirmação de que o Like tenha sido criado para o sistema de ranking do Instagram.
+
 O botão, então, trabalha em duas direções ao mesmo tempo. Para o usuário, reduz [[02 variaveis/Custo Transacional|Custo Transacional]]. Para a plataforma, reduz o custo de interpretar comportamento, porque transforma uma reação em dado estruturado.
 
 ## O problema da ambiguidade
@@ -122,7 +124,7 @@ Isso conecta o Like à investigação sobre consentimento e transparência: uma 
 | **Variáveis relacionadas** | [[02 variaveis/Custo Transacional|Custo Transacional]], [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Friccao|Fricção]] |
 | **Genealogia** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]], [[04 genealogias/Compressao do Esforco|Compressão do esforço]] Família de ideias: Sinais sociais comprimidos |
 | **Percurso(s)** | [[05 percursos/Da Parede ao Feed|Da Parede ao Feed]] |
-| **Parentes** | [[03 artefatos/Infinite Scroll|Infinite Scroll]], reações, coração/favorito, estrela, upvote, aplauso como parentesco comportamental |
+| **Parentes** | [[03 artefatos/Infinite Scroll|Infinite Scroll]], [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], reações, coração/favorito, estrela, upvote, aplauso como parentesco comportamental |
 | **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Reduzir o custo de uma expressão pode aumentar sua frequência e transformar seu rastro em nova infraestrutura do sistema Por que funcionou: Resolve uma necessidade social frequente com esforço quase nulo e feedback imediatamente compreensível |
 | **Questão em aberto** | Quanto da força histórica do Like vem da facilidade para o usuário e quanto vem do valor que o sinal padronizado produz para quem controla a plataforma? |

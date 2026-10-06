@@ -45,6 +45,8 @@ Esse retorno não mede “atenção” de maneira pura. Curtir pode significar a
 
 A superfície deixa de apenas tentar chamar o usuário. Começa a aprender algo sobre sua relação com aquilo que mostrou.
 
+O [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]] transforma esse retorno em curadoria recorrente. A recepção registrada deixa de servir apenas como métrica e passa a participar da escolha da exposição seguinte. O sistema começa a projetar uma sequência diferente para cada pessoa a partir dos rastros que a própria sequência produz.
+
 ## A novidade deixa de ser página e vira condição permanente
 
 O [[03 artefatos/Pull to Refresh|Pull to Refresh]] introduz uma expectativa temporal: talvez exista alguma coisa nova **agora**. Atualizar deixa de exigir um botão visível e entra no próprio gesto de manipular a lista.
