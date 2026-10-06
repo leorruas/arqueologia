@@ -45,6 +45,8 @@ Talvez a unidade crítica de investigação não seja apenas o conteúdo, e sim 
 
 [[01 conceitos/Design da aversão|Design da aversão]] amplia essa genealogia para um problema político: aquilo que parece ser a frequência, intensidade ou normalidade de um conflito depende em parte da arquitetura de exposição. A atenção não participa apenas de quais mensagens são vistas, mas também de quais comportamentos parecem típicos do outro grupo. Essa relação deve ser investigada separadamente de mudança de voto ou adesão ideológica.
 
+O [[03 artefatos/Clip político|clip político]] acrescenta outra operação: reduzir a duração necessária para que uma pessoa, fala ou conflito entre na disputa por atenção. O ganho de portabilidade pode fazer um fragmento circular muito mais do que a sequência extensa da qual veio. A [[03 artefatos/Entrevista longa|entrevista longa]] expõe o trade-off inverso: oferece mais continuidade ao custo de exigir atenção sustentada. O parentesco aqui é comportamental e distributivo, não uma afirmação de que formatos curtos produzam necessariamente mais hostilidade.
+
 ## Ficha da genealogia
 
 | Campo | Registro |
@@ -53,7 +55,7 @@ Talvez a unidade crítica de investigação não seja apenas o conteúdo, e sim 
 | **Pergunta central** | Como o design captura, orienta, prolonga e reconvoca atenção? |
 | **Hipótese de parentesco** | Artefatos distintos atuam sobre o primeiro olhar, a busca por novidade, a continuidade entre estímulos ou a criação de um motivo persistente para retornar |
 | **Natureza das relações** | Perceptual, semiótica, comportamental e comparativa; não implica descendência histórica |
-| **Artefatos principais** | [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Controle Remoto|Controle remoto]], [[03 artefatos/Hero Section|Hero section]], [[03 artefatos/Botao Like|Botão Like]], [[03 artefatos/Pull to Refresh|Pull to Refresh]], [[03 artefatos/Infinite Scroll|Infinite scroll]], [[03 artefatos/Badge de notificacao|Badge de notificação]] |
+| **Artefatos principais** | [[03 artefatos/Pôster|Pôster]], [[03 artefatos/Clip político|Clip político]], [[03 artefatos/Entrevista longa|Entrevista longa]], [[03 artefatos/Controle Remoto|Controle remoto]], [[03 artefatos/Hero Section|Hero section]], [[03 artefatos/Botao Like|Botão Like]], [[03 artefatos/Pull to Refresh|Pull to Refresh]], [[03 artefatos/Infinite Scroll|Infinite scroll]], [[03 artefatos/Badge de notificacao|Badge de notificação]] |
 | **Comportamento recorrente** | Orientar o olhar, buscar novidade, responder socialmente, continuar consumindo estímulos e retornar a estados pendentes |
 | **O que o design redistribui** | Atenção, fricção entre conteúdos, momentos explícitos de decisão e capacidade de convocar o retorno |
 | **Relação de poder** | Sistemas podem aumentar capacidade de escolher e, ao mesmo tempo, reduzir ocasiões em que uma nova escolha precisa ser formulada ou manter demandas perceptivamente presentes fora da sessão |
