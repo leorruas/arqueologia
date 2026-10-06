@@ -117,7 +117,7 @@ Talvez a consequência mais profunda do ranking personalizado apareça quando pr
 | **Genealogia** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] |
 | **Percurso(s)** | [[05 percursos/Da Parede ao Feed|Da parede ao feed]] |
 | **Parentes** | [[03 artefatos/Botao Like|Botão Like]], [[03 artefatos/Infinite Scroll|Infinite Scroll]], [[03 artefatos/Feed de Videos Curtos|Feed de vídeos curtos]] |
-| **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento; a base histórica desta nota é principalmente documentação de produto e sistema |
+| **Leituras-chave** | Meta AI, “Instagram Feed Ranking System Card” (2022); Trunfio & Rossi (2021) sobre engajamento; Hu, Koren & Volinsky (2008) sobre feedback implícito; Jeunen et al. (2024) sobre recomendação multiobjetivo; Berger & Milkman (2012) e Prowten et al. (2024) sobre emoção e propagação |
 | **Princípio de design revelado** | Reduzir custo de busca por previsão transfere ao sistema curador parte do poder de decidir o que ganha visibilidade |
 | **Questão em aberto** | Quando uma previsão de relevância deixa de apenas representar preferência e passa a participar daquilo que a pessoa aprende a querer? |
 
@@ -144,7 +144,7 @@ Talvez a consequência mais profunda do ranking personalizado apareça quando pr
 
 [^10]: Hu, Yifan; Koren, Yehuda; Volinsky, Chris. “Collaborative Filtering for Implicit Feedback Datasets”. *2008 Eighth IEEE International Conference on Data Mining*, 2008, pp. 263–272. DOI: https://doi.org/10.1109/ICDM.2008.22
 
-[^11]: Trabalhos de recomendação multiobjetivo e multi-behavior tratam clicks, shares, dwell time e outras respostas como sinais distintos que precisam ser combinados para ranking. Ver, por exemplo, os trabalhos industriais apresentados em ACM RecSys e KDD sobre multi-task ranking, watch-time prediction e long-term engagement.
+[^11]: Jeunen, Olivier; Mandav, Jatin; Potapov, Ivan; Agarwal, Nakul; Vaid, Sourabh; Shi, Wenzhe; Ustimenko, Aleksei. “Multi-Objective Recommendation via Multivariate Policy Learning”. *Proceedings of the 18th ACM Conference on Recommender Systems (RecSys 2024)*. O trabalho descreve sistemas reais que equilibram objetivos como clicks, shares e dwell time por meio de scalarisation e pesos aprendidos em relação a uma métrica North Star.
 
 [^12]: Koren, Yehuda. “Collaborative Filtering with Temporal Dynamics”. *Proceedings of KDD 2009*, 2009. DOI: https://doi.org/10.1145/1557019.1557072. Ver também Karimi et al., “News recommender system: a review of recent progress, challenges, and opportunities”, *Artificial Intelligence Review*, 2021.
 
@@ -157,7 +157,7 @@ Talvez a consequência mais profunda do ranking personalizado apareça quando pr
 [^15]: Prowten, Skyler et al. “Does Physiological Arousal Increase Social Transmission of Information? Two Replications of Berger (2011)”. *Psychological Science*, 35(9), 2024, pp. 1025–1034. DOI: https://doi.org/10.1177/09567976241257255
 
 
-[^16]: Berger e Milkman (2012) encontraram maior viralidade para admiração, raiva e ansiedade e menor para tristeza no conjunto estudado. Em contraste, estudo observacional de circulação de ciência sobre COVID-19 no Twitter encontrou alegria associada a mais retweets e raiva a menos, mostrando dependência de contexto e conteúdo.
+[^16]: Berger e Milkman (2012) encontraram maior viralidade para admiração, raiva e ansiedade e menor para tristeza no conjunto estudado. Em contraste, Luo, Kai; Yang, Yang; Teo, Hock Hai. “The Asymmetric Influence of Emotion in the Sharing of COVID-19 Science on Social Media: Observational Study”. *JMIR Infodemiology*, 2(2), 2022, e37331. DOI: https://doi.org/10.2196/37331. No conjunto analisado de tweets sobre ciência da COVID-19, valência positiva associou-se a maior difusão, mostrando dependência de contexto e conteúdo.
 
 [^17]: Kohout, Susann; Kruikemeier, Sanne; Bakker, Bert N. “May I have your Attention, please? An eye tracking study on emotional social media comments”. *Computers in Human Behavior*, 139, 2023, 107495. O estudo encontrou maior atenção visual para comentários negativos e, em condição de processamento sistemático, para raiva em comparação com medo.
 
