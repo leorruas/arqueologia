@@ -66,6 +66,8 @@ Essa distinção é importante para [[02 variaveis/Reversibilidade representacio
 
 [[02 variaveis/Prototipicidade percebida|Prototipicidade percebida]] acrescenta outra tensão. Um indivíduo percebido como altamente prototípico pode fazer um comportamento ameaçador parecer diagnóstico do grupo inteiro. Um membro pouco prototípico pode produzir o efeito contrário: “ele não representa os outros”. As duas variáveis precisam permanecer separadas porque representatividade e perigo são julgamentos distintos.
 
+[[02 variaveis/Normatividade percebida da hostilidade|Normatividade percebida da hostilidade]] acrescenta uma crença sobre o ambiente social: se parece normal que o outro grupo aja com hostilidade, o dano potencial pode parecer mais plausível ou frequente. A associação deve ser testada em cada contexto; perceber uma norma hostil não equivale por si só a perceber ameaça.
+
 A pergunta que a variável acrescenta ao estudo de um artefato é: **que dano este artefato torna imaginável, para quem, e com que grau de credibilidade?**
 
 ## Ficha da variável
