@@ -82,15 +82,24 @@ A hipótese permanece aberta. Evidências de redução de [[01 conceitos/Polariz
 
 ## Referências
 
-[^1]: Garzia, Diego; Ferreira da Silva, Frederico. “Negativity and Political Behavior: A Theoretical Framework for the Analysis of Negative Voting in Contemporary Democracies.” *Political Studies Review*, 20(2), 2022. DOI: https://doi.org/10.1177/14789299211000187
-[^2]: Areal, João. “‘Them’ without ‘us’: negative identities and affective polarization in Brazil.” *Political Research Exchange*, 4(1), 2022. DOI: https://doi.org/10.1080/2474736X.2022.2117635
-[^3]: Voelkel, Jan G.; Chu, James; Stagnaro, Michael N.; et al. “Interventions reducing affective polarization do not necessarily improve anti-democratic attitudes.” *Nature Human Behaviour*, 7, 2023, pp. 55–64. DOI: https://doi.org/10.1038/s41562-022-01466-9
-[^4]: Hartman, Rachel; Blakey, Will; Womick, Jake; et al. “Interventions to reduce partisan animosity.” *Nature Human Behaviour*, 6, 2022, pp. 1194–1205. DOI: https://doi.org/10.1038/s41562-022-01442-3
-[^5]: Ahler, Douglas J.; Sood, Gaurav. “The Parties in Our Heads: Misperceptions about Party Composition and Their Consequences.” *The Journal of Politics*, 80(3), 2018, pp. 964–981. DOI: https://doi.org/10.1086/697253
-[^6]: Broockman, David E.; Kalla, Joshua L.; Westwood, Sean J. “Correcting misperceptions of partisan opponents is not effective at treating democratic ills.” *PNAS Nexus*, 3(8), 2024, pgae304. DOI: https://doi.org/10.1093/pnasnexus/pgae304
-[^7]: Tausch, Nicole; Birtel, Michèle D.; Górska, Paulina; Bode, Sidney; Rocha, Carolina. “A post-Brexit intergroup contact intervention reduces affective polarization between Leavers and Remainers short-term.” *Communications Psychology*, 2, 95, 2024. DOI: https://doi.org/10.1038/s44271-024-00146-w
-[^8]: Ankori-Karlinsky, Lee-Or; Blair, Robert A.; Gottlieb, Jessica; Moore-Berg, Samantha L. “Content that’s as good as contact? Vicarious intergroup contact and the promise of depolarization at scale.” *Political Science Research and Methods*, 2025. DOI: https://doi.org/10.1017/psrm.2025.10039
-[^9]: Brady, William J.; Doyle, Meriel; Elnakouri, Abdo; et al. “Redesigning algorithms to intervene on social norm misperceptions during a national election.” *Nature*, 655, 2026, pp. 942–956. DOI: https://doi.org/10.1038/s41586-026-10536-1
-[^10]: Levendusky, Matthew S. “Americans, Not Partisans: Can Priming American National Identity Reduce Affective Polarization?” *The Journal of Politics*, 80(1), 2018, pp. 59–70. DOI: https://doi.org/10.1086/693987
+[^1]: Garzia, Diego; Ferreira da Silva, Frederico. “Negativity and Political Behavior: A Theoretical Framework for the Analysis of Negative Voting in Contemporary Democracies.” *Political Studies Review*, 20(2), 2022, pp. 282–291. [Acessar artigo em acesso aberto (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8998150/). DOI: `10.1177/14789299211000187`.
 
-[^11]: Woodley, Lucas; DeFilippis, Evan; Ravi, Shankar; Greene, Joshua D. “Defusing political animosity in the United States with a cooperative online quiz game.” *Nature Human Behaviour*, 9, 2025, pp. 1631–1644. DOI: https://doi.org/10.1038/s41562-025-02225-2
+[^2]: Areal, João. “‘Them’ without ‘us’: negative identities and affective polarization in Brazil.” *Political Research Exchange*, 4(1), 2022, 2117635. [Acessar artigo em acesso aberto (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9484554/). DOI: `10.1080/2474736X.2022.2117635`.
+
+[^3]: Voelkel, Jan G.; Chu, James; Stagnaro, Michael N.; et al. “Interventions reducing affective polarization do not necessarily improve anti-democratic attitudes.” *Nature Human Behaviour*, 7, 2023, pp. 55–64. [Acessar artigo na Nature](https://www.nature.com/articles/s41562-022-01466-9). DOI: `10.1038/s41562-022-01466-9`.
+
+[^4]: Hartman, Rachel; Blakey, Will; Womick, Jake; et al. “Interventions to reduce partisan animosity.” *Nature Human Behaviour*, 6, 2022, pp. 1194–1205. [Acessar artigo na Nature](https://www.nature.com/articles/s41562-022-01442-3). DOI: `10.1038/s41562-022-01442-3`.
+
+[^5]: Ahler, Douglas J.; Sood, Gaurav. “The Parties in Our Heads: Misperceptions about Party Composition and Their Consequences.” *The Journal of Politics*, 80(3), 2018, pp. 964–981. [Acessar artigo no periódico](https://www.journals.uchicago.edu/doi/10.1086/697253). DOI: `10.1086/697253`.
+
+[^6]: Broockman, David E.; Kalla, Joshua L.; Westwood, Sean J. “Correcting misperceptions of partisan opponents is not effective at treating democratic ills.” *PNAS Nexus*, 3(8), 2024, pgae304. [Acessar artigo na Oxford Academic](https://academic.oup.com/pnasnexus/article/3/8/pgae304/7730165). DOI: `10.1093/pnasnexus/pgae304`.
+
+[^7]: Tausch, Nicole; Birtel, Michèle D.; Górska, Paulina; Bode, Sidney; Rocha, Carolina. “A post-Brexit intergroup contact intervention reduces affective polarization between Leavers and Remainers short-term.” *Communications Psychology*, 2, 95, 2024. [Acessar artigo em acesso aberto](https://www.nature.com/articles/s44271-024-00146-w). DOI: `10.1038/s44271-024-00146-w`.
+
+[^8]: Ankori-Karlinsky, Lee-Or; Blair, Robert A.; Gottlieb, Jessica; Moore-Berg, Samantha L. “Content that’s as good as contact? Vicarious intergroup contact and the promise of depolarization at scale.” *Political Science Research and Methods*, 2025. [Acessar artigo em acesso aberto na Cambridge Core](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/content-thats-as-good-as-contact-vicarious-intergroup-contact-and-the-promise-of-depolarization-at-scale/7B0C9635DCA71A9581D64705BCA67509). DOI: `10.1017/psrm.2025.10039`.
+
+[^9]: Brady, William J.; Doyle, Meriel; Elnakouri, Abdo; et al. “Redesigning algorithms to intervene on social norm misperceptions during a national election.” *Nature*, 655, 2026, pp. 942–956. [Acessar artigo na Nature](https://www.nature.com/articles/s41586-026-10536-1). DOI: `10.1038/s41586-026-10536-1`.
+
+[^10]: Levendusky, Matthew S. “Americans, Not Partisans: Can Priming American National Identity Reduce Affective Polarization?” *The Journal of Politics*, 80(1), 2018, pp. 59–70. [Acessar artigo no periódico](https://www.journals.uchicago.edu/doi/full/10.1086/693987). DOI: `10.1086/693987`.
+
+[^11]: Woodley, Lucas; DeFilippis, Evan; Ravi, Shankar; Greene, Joshua D. “Defusing political animosity in the United States with a cooperative online quiz game.” *Nature Human Behaviour*, 9, 2025, pp. 1631–1644. [Acessar artigo na Nature](https://www.nature.com/articles/s41562-025-02225-2). DOI: `10.1038/s41562-025-02225-2`.
