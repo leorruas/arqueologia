@@ -23,6 +23,8 @@ A litografia de [[autores/Alois Senefelder|Alois Senefelder]], no fim do século
 
 O [[03 artefatos/Pôster|Pôster]] torna isso especialmente visível. Na cidade, ele precisa interromper alguém que não pediu a mensagem. Sua composição é uma negociação com distância, movimento, arquitetura e concorrência visual. Já o [[03 artefatos/Manifesto|Manifesto]] mostra outra função da mesma infraestrutura: estabilizar publicamente uma posição para que ela circule além da presença de quem a enuncia.
 
+A [[03 artefatos/Fotografia|Fotografia]] introduz outra transformação na ecologia visual do século XIX: imagens produzidas por processos ópticos e químicos passam a circular como vestígios, documentos, lembranças e matéria-prima para composição gráfica. A fotografia antecede a consolidação moderna do design gráfico como disciplina, por isso o vínculo aqui é de integração posterior: páginas, cartazes, jornais, anúncios e interfaces passam a combinar imagem fotográfica, texto e diagramação em sistemas de comunicação cada vez mais híbridos.
+
 ## O campo ganhou nome quando a composição virou problema profissional
 
 A expressão *graphic design* é associada a William Addison Dwiggins em 1922, quando ele procurou nomear um conjunto de atividades que atravessava tipografia, ilustração, layout e comunicação comercial. O fato de o termo ter sido cunhado naquele momento não significa que a prática tenha começado ali. A própria historiografia do campo observa que a expressão demorou décadas para se difundir amplamente e que sua consolidação esteve ligada também ao esforço de distinguir design de artes comerciais, ofícios de impressão e outras práticas vizinhas.[^2]
