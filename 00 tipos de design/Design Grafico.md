@@ -23,6 +23,8 @@ A litografia de [[autores/Alois Senefelder|Alois Senefelder]], no fim do século
 
 O [[03 artefatos/Pôster|Pôster]] torna isso especialmente visível. Na cidade, ele precisa interromper alguém que não pediu a mensagem. Sua composição é uma negociação com distância, movimento, arquitetura e concorrência visual. Já o [[03 artefatos/Manifesto|Manifesto]] mostra outra função da mesma infraestrutura: estabilizar publicamente uma posição para que ela circule além da presença de quem a enuncia.
 
+O [[03 artefatos/Gancho de abertura|gancho de abertura]] mostra a continuidade desse problema em superfícies temporais. Primeiro frame, primeira frase e primeira composição visível funcionam como regiões de entrada em que hierarquia gráfica participa da decisão de continuar. O parentesco com o pôster é funcional: ambos disputam prioridade perceptiva, mas o feed acrescenta abandono imediato e medição comportamental.
+
 A [[03 artefatos/Fotografia|Fotografia]] introduz outra transformação na ecologia visual do século XIX: imagens produzidas por processos ópticos e químicos passam a circular como vestígios, documentos, lembranças e matéria-prima para composição gráfica. A fotografia antecede a consolidação moderna do design gráfico como disciplina, por isso o vínculo aqui é de integração posterior: páginas, cartazes, jornais, anúncios e interfaces passam a combinar imagem fotográfica, texto e diagramação em sistemas de comunicação cada vez mais híbridos.
 
 ## O campo ganhou nome quando a composição virou problema profissional
