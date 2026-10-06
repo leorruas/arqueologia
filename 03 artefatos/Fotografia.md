@@ -90,7 +90,6 @@ Essa relação ajuda a explicar por que uma mesma imagem pode permanecer relativ
 A questão arqueológica passa então a ser: **o que exatamente uma fotografia preserva quando o acontecimento já terminou — e o que ela só passa a produzir muito depois, quando encontra novamente alguém capaz de lembrar?**
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Fotografia |
@@ -106,18 +105,11 @@ A questão arqueológica passa então a ser: **o que exatamente uma fotografia p
 | **Popularização** | Retrato daguerreotípico; fotografia em papel; sistema Kodak de 1888; câmeras amadoras e posteriormente câmeras digitais e smartphones |
 | **Padronização** | Fotografar torna-se prática cotidiana e fotografia passa a funcionar como forma esperada de memória, evidência, identificação, comunicação e autoapresentação |
 | **Hipótese de design** | Um vestígio visual pode se separar do acontecimento, circular entre contextos e continuar produzindo reconhecimento, memória, prova e interpretação |
-| **Promessa** | Interpretação do projeto: tornar o ausente e o passado novamente visíveis |
 | **Comportamento aproveitado** | Desejo de preservar rostos, acontecimentos, lugares, relações, provas e experiências |
 | **Comportamento produzido** | Posar, fotografar o cotidiano, construir álbuns, documentar, arquivar, provar, compartilhar e antecipar o espectador futuro durante a própria experiência |
 | **Relação de poder** | Enquadramento, arquivo, legenda, seleção, classificação e circulação determinam quem pode aparecer, como aparece e sob quais regimes a imagem adquire autoridade |
-| **Consequências inesperadas** | Vigilância, classificação social, saturação de imagens, perda de contexto, presente reorganizado para a câmera e confusão entre vestígio visual e acontecimento completo |
+| **Consequências inesperadas** | Vigilância, classificação social, saturação de imagens, perda de contexto, presente reorganizado para a câmera e confusão entre vestígio visual e acontecimento completo Registros adicionais preservados da ficha anterior: promessa: Interpretação do projeto: tornar o ausente e o passado novamente visíveis; futuro prometido: Um mundo em que pessoas, lugares e acontecimentos poderiam deixar registros visuais duráveis e recuperáveis; futuro produzido: Um mundo em que quase qualquer situação pode ser registrada, compartilhada e julgada por espectadores ausentes no momento da captura; quando a promessa virou expectativa: Processo gradual com fotografia amadora, documentação institucional, câmeras portáteis e, depois, presença permanente da câmera no telefone; futuro tornado mais provavel: Cultura de documentação contínua, comunicação visual cotidiana, arquivos pessoais extensos e disputa pública baseada em imagens; descendentes possiveis: Fotografia social, selfie, captura computacional, imagem efêmera e sistemas automatizados de visão; relações históricas específicas precisam ser demonstradas caso a caso; novo problema produzido pelo sucesso: A abundância de vestígios torna seleção, contexto, procedência, confiança e recuperação problemas tão importantes quanto a própria captura |
 | **Destino ou transformação posterior** | Continua ativa em fotografia digital, fotografia computacional, circulação social e ecologias em que captura, edição e distribuição acontecem quase no mesmo gesto |
-| **Futuro prometido** | Um mundo em que pessoas, lugares e acontecimentos poderiam deixar registros visuais duráveis e recuperáveis |
-| **Futuro produzido** | Um mundo em que quase qualquer situação pode ser registrada, compartilhada e julgada por espectadores ausentes no momento da captura |
-| **Quando a promessa virou expectativa** | Processo gradual com fotografia amadora, documentação institucional, câmeras portáteis e, depois, presença permanente da câmera no telefone |
-| **Futuro tornado mais provável** | Cultura de documentação contínua, comunicação visual cotidiana, arquivos pessoais extensos e disputa pública baseada em imagens |
-| **Descendentes possíveis** | Fotografia social, selfie, captura computacional, imagem efêmera e sistemas automatizados de visão; relações históricas específicas precisam ser demonstradas caso a caso |
-| **Novo problema produzido pelo sucesso** | A abundância de vestígios torna seleção, contexto, procedência, confiança e recuperação problemas tão importantes quanto a própria captura |
 | **Conceitos relacionados** | [[01 conceitos/Memoria Distribuida|Memória distribuída]], [[01 conceitos/Design do Voto|Design do voto]], vestígio, enquadramento, evidência, representação e duração |
 | **Variáveis relacionadas** | [[02 variaveis/Permanencia|Permanência]], [[02 variaveis/Atencao|Atenção]]; [[02 variaveis/Legibilidade da Mediacao Politica|Legibilidade da mediação política]] em usos autobiográficos e políticos específicos |
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] |
