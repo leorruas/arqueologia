@@ -35,6 +35,7 @@ Este índice organiza estudos publicados por campo de design. A classificação 
 
 - [[03 artefatos/Pôster|Pôster]]: superfície pública de síntese visual e disputa de atenção.
 - [[03 artefatos/Meme|Meme]]: estrutura cultural remixável que combina reconhecimento, variação e produção distribuída de sentido.
+- [[03 artefatos/Apelido político|Apelido político]]: rótulo que funde referência e avaliação numa unidade curta, memorável e recirculável.
 - [[03 artefatos/Grid|Grid]]: estrutura modular de diagramação e previsibilidade visual.
 - [[03 artefatos/Manifesto|Manifesto]]: declaração pública que estabiliza intenção e posição.
 - [[03 artefatos/Assinatura|Assinatura]]: marca individual de autoria e autenticação.
@@ -78,6 +79,7 @@ Este índice organiza estudos publicados por campo de design. A classificação 
 - [[03 artefatos/Justificativa de Valor Público|Justificativa de valor público]]: adaptação experimental do projeto para tornar escolhas públicas justificáveis.
 - [[03 artefatos/Portfólio|Portfólio]]: seleção e ordenação de evidências para tornar capacidade e trajetória avaliáveis.
 - [[03 artefatos/Mentoria|Mentoria]]: tecnologia social de acesso a experiência contextualizada que pode ampliar capacidade de interpretação e ação.
+- [[03 artefatos/Tango|Tango]]: jogo cooperativo online que reorganiza encontro entre adversários políticos ao colocá-los numa tarefa mutuamente dependente.
 
 ## Interfaces digitais e software
 
@@ -107,6 +109,7 @@ Este índice organiza estudos publicados por campo de design. A classificação 
 - [[03 artefatos/Botao Regenerar|Botão regenerar]]: transforma a variabilidade de uma geração probabilística em ação explícita de pedir outra possibilidade.
 - [[03 artefatos/Temperatura e Criatividade|Temperatura e criatividade]]: traduz controle estatístico de variabilidade em categorias semânticas manipuláveis pelo usuário.
 - [[03 artefatos/LLM Wiki|LLM Wiki]]: síntese persistente mantida por LLM entre fontes brutas e consultas futuras.
+- [[03 artefatos/Tango|Tango]]: interface de pareamento, chat e cooperação que estrutura uma relação entre participantes.
 
 ## Pistas ainda sem estudo publicado
 
