@@ -71,6 +71,10 @@ O [[01 conceitos/Design do Voto|Design do voto]] usa essa variável para diferen
 
 A hipótese de **biografia política**, preservada em Pistas de pesquisa, é um caso especialmente claro: começar por acontecimentos concretos da vida e só depois reconstruir mediação, autoria, verificação, consequências e valores.
 
+Imagens podem funcionar como porta de entrada para esse percurso. A monografia *O refluir do tempo nas imagens de Claudia Andujar* articula [[autores/Henri Bergson|Henri Bergson]] e Maurício Lissovsky para pensar a fotografia como duração e para mostrar como lembrança e percepção podem se contrair em direção ao presente.[^1] A hipótese do vault é que certas imagens aumentem a legibilidade da mediação política ao **convocar experiências autobiográficas antes de pedir uma atribuição institucional**. Uma fotografia pode fazer alguém recordar uma universidade, um trabalho, uma perda, uma viagem ou uma relação; a gramática de biografia política entraria depois para investigar que decisões coletivas participaram daquela experiência.
+
+Essa passagem precisa permanecer separada de precisão histórica. Uma imagem pode tornar uma lembrança intensamente disponível e, ao mesmo tempo, favorecer uma atribuição causal errada. A convocação da memória aumenta material para investigação; a etapa de verificação continua necessária para que a mediação se torne legível sem virar apenas uma narrativa coerente com a identidade política existente.
+
 ## Mais legibilidade também pode produzir conflito
 
 Alta legibilidade não é automaticamente melhor.
@@ -112,5 +116,7 @@ A questão central da variável é:
 | **Genealogias relacionadas** | [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]] |
 
 ## Referências
+
+[^1]: SANTOS, Leonardo Ruas. *O refluir do tempo nas imagens de Claudia Andujar*. Trabalho de Conclusão de Curso (Comunicação Social) — Universidade Federal de Minas Gerais, Belo Horizonte, 2014. A monografia é usada como antecedente teórico para a relação entre fotografia, duração, percepção e memória; a aplicação à legibilidade da mediação política é hipótese deste projeto.
 
 Esta variável é uma operacionalização própria do projeto Arqueologia do Design. As relações empíricas específicas entre legibilidade, conhecimento político, atribuição de responsabilidade e comportamento eleitoral ainda precisam ser investigadas separadamente antes de serem tratadas como efeitos demonstrados.
