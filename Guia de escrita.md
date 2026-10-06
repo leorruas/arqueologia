@@ -36,6 +36,12 @@ Preservar grafias oficiais e nomes próprios, como `Xerox PARC`, `GitHub`, `Jobs
 
 Nomes de arquivo são identificadores. Não renomear arquivos existentes apenas para corrigir capitalização, porque isso pode quebrar wikilinks, URLs e histórico. Corrigir a forma visível no frontmatter e nos headings.
 
+## Nome editorial do projeto
+
+Em textos editoriais, narrativos e públicos, usar **Arqueologia do Design** como nome do projeto. Evitar `neste vault`, `este vault` e formulações equivalentes quando o texto estiver falando do projeto para o leitor. Quando a frase exigir essa construção, preferir `No Arqueologia do Design`.
+
+O termo `vault` continua permitido em documentação técnica, governança, automação e manutenção quando designar literalmente a estrutura de arquivos do Obsidian ou do repositório.
+
 ## Narrativa como forma principal
 
 Parágrafos são a unidade principal. Um estudo deve poder ser lido como ensaio ou capítulo, não apenas consultado como ficha.
