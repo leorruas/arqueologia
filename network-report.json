@@ -1,14 +1,19 @@
 {
-  "generatedAt": "2026-10-06T09:11:44.682Z",
+  "generatedAt": "2026-10-06T09:36:59.777Z",
   "scope": "Integração do grafo: títulos duplicados dentro da mesma camada, índices, home, reciprocidade estrutural, tipos de design e nós órfãos. Conceitos e variáveis não exigem backlink exaustivo.",
-  "issueCount": 17,
+  "issueCount": 22,
   "countsByKind": {
-    "missing-from-index": 4,
-    "missing-reciprocal-link": 9,
-    "orphan-node": 1,
-    "design-type-drift": 3
+    "missing-from-index": 7,
+    "missing-reciprocal-link": 11,
+    "design-type-drift": 4
   },
   "issues": [
+    {
+      "kind": "missing-from-index",
+      "sourcePath": "03 artefatos/Meme.md",
+      "targetPath": "00 índices/Indice de Artefatos.md",
+      "detail": "Arquivo não aparece em 00 índices/Indice de Artefatos.md."
+    },
     {
       "kind": "missing-from-index",
       "sourcePath": "03 artefatos/Vaso de Plantas.md",
@@ -32,6 +37,18 @@
       "sourcePath": "01 conceitos/Portabilizacao de contexto.md",
       "targetPath": "00 índices/Indice de Conceitos.md",
       "detail": "Arquivo não aparece em 00 índices/Indice de Conceitos.md."
+    },
+    {
+      "kind": "missing-from-index",
+      "sourcePath": "autores/Limor Shifman.md",
+      "targetPath": "00 índices/Indice de Autores.md",
+      "detail": "Arquivo não aparece em 00 índices/Indice de Autores.md."
+    },
+    {
+      "kind": "missing-from-index",
+      "sourcePath": "autores/Richard Dawkins.md",
+      "targetPath": "00 índices/Indice de Autores.md",
+      "detail": "Arquivo não aparece em 00 índices/Indice de Autores.md."
     },
     {
       "kind": "missing-reciprocal-link",
@@ -83,15 +100,27 @@
     },
     {
       "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Meme.md",
+      "targetPath": "00 tipos de design/Design Grafico.md",
+      "detail": "A ficha liga para 00 tipos de design/Design Grafico.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Meme.md",
+      "targetPath": "04 genealogias/Compressao do Esforco.md",
+      "detail": "A ficha liga para 04 genealogias/Compressao do Esforco.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
       "sourcePath": "03 artefatos/Portfólio.md",
       "targetPath": "04 genealogias/Permanencia e Memoria Externa.md",
       "detail": "A ficha liga para 04 genealogias/Permanencia e Memoria Externa.md, mas a nota relacionada não devolve o vínculo."
     },
     {
-      "kind": "orphan-node",
-      "sourcePath": "01 conceitos/Design do Voto.md",
-      "targetPath": null,
-      "detail": "Nota sem links de entrada a partir do acervo auditado."
+      "kind": "design-type-drift",
+      "sourcePath": "03 artefatos/Meme.md",
+      "targetPath": "00 tipos de design/Design Grafico.md",
+      "detail": "Artefato declara 00 tipos de design/Design Grafico.md, mas o tipo de design não o referencia."
     },
     {
       "kind": "design-type-drift",

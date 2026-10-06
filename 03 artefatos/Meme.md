@@ -58,7 +58,6 @@ A produção distribuída amplia esse poder e também o torna difícil de contro
 O problema arqueológico que permanece é justamente a divisão do trabalho entre superfície e repertório: **quanto do sentido de um meme está no que vemos e quanto precisa ser produzido dentro da cabeça de quem o reconhece?**
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Meme |
@@ -74,18 +73,11 @@ O problema arqueológico que permanece é justamente a divisão do trabalho entr
 | **Popularização** | Fóruns, imageboards e posteriormente redes sociais e mensageria ampliaram produção e circulação |
 | **Padronização** | Templates reconhecíveis, convenções visuais e ferramentas com defaults reduziram o custo de fabricar novas variações |
 | **Hipótese de design** | Um repertório reconhecível pode carregar parte do contexto, permitindo que uma pequena variação produza uma nova mensagem |
-| **Promessa** | Interpretação do projeto: transformar recepção em participação, tornando barato responder, remixar e redistribuir cultura |
 | **Comportamento aproveitado** | Imitação, reconhecimento de padrões, humor, resolução de incongruência, repertório compartilhado e sociabilidade |
 | **Comportamento produzido** | Responder a acontecimentos por remix, conversar por templates, transformar compartilhamento em produção e esperar variações rápidas de referências culturais |
 | **Relação de poder** | Templates e canais de distribuição enquadram o repertório disponível, enquanto usuários podem apropriar, inverter e disputar o significado |
-| **Consequências inesperadas** | Polarização em alguns contextos, simplificação de enquadramentos, perda de procedência e circulação de associações por repetição |
+| **Consequências inesperadas** | Polarização em alguns contextos, simplificação de enquadramentos, perda de procedência e circulação de associações por repetição Registros adicionais preservados da ficha anterior: promessa: Interpretação do projeto: transformar recepção em participação, tornando barato responder, remixar e redistribuir cultura; futuro prometido: Interpretação do projeto: cultura participativa em que responder e modificar mensagens custa pouco; futuro produzido: Ecossistema em que acontecimentos, imagens e falas podem ser rapidamente convertidos em material remixável por públicos distribuídos; quando a promessa virou expectativa: Processo gradual com a consolidação da cultura participativa e das plataformas sociais; não há um único marco; futuro tornado mais provavel: Comunicação em que formatos e repertórios circulam como gramáticas reutilizáveis, não apenas como mensagens fechadas; descendentes possiveis: Formatos de remix nativos de plataformas, templates audiovisuais e outras estruturas participativas; parentesco histórico específico deve ser demonstrado caso a caso; novo problema produzido pelo sucesso: Distinguir participação criativa de repetição de enquadramentos que naturalizam associações, apagam procedência ou intensificam conflito |
 | **Destino ou transformação posterior** | Continua ativo e diversificado em image macros, reaction images, GIFs, screenshots, áudio e vídeo curto |
-| **Futuro prometido** | Interpretação do projeto: cultura participativa em que responder e modificar mensagens custa pouco |
-| **Futuro produzido** | Ecossistema em que acontecimentos, imagens e falas podem ser rapidamente convertidos em material remixável por públicos distribuídos |
-| **Quando a promessa virou expectativa** | Processo gradual com a consolidação da cultura participativa e das plataformas sociais; não há um único marco |
-| **Futuro tornado mais provável** | Comunicação em que formatos e repertórios circulam como gramáticas reutilizáveis, não apenas como mensagens fechadas |
-| **Descendentes possíveis** | Formatos de remix nativos de plataformas, templates audiovisuais e outras estruturas participativas; parentesco histórico específico deve ser demonstrado caso a caso |
-| **Novo problema produzido pelo sucesso** | Distinguir participação criativa de repetição de enquadramentos que naturalizam associações, apagam procedência ou intensificam conflito |
 | **Conceitos relacionados** | [[01 conceitos/Design do Voto|Design do voto]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Design Systems|Design Systems]] como parentesco comparativo |
 | **Variáveis relacionadas** | [[02 variaveis/Variabilidade|Variabilidade]], [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]] |
 | **Genealogia** | [[04 genealogias/Compressao do Esforco|Compressão do esforço]], por parentesco funcional e cognitivo |
