@@ -20,7 +20,7 @@ A variável pode ser operacionalizada por visualizações, curtidas, compartilha
 
 Sistemas de recomendação usam popularidade de várias maneiras, desde contagens simples até features combinadas com personalização. Revisões de sistemas de recomendação de notícias tratam popularidade, recência, frescor e tendências como dimensões distintas, justamente porque um item muito acumulado pode já estar perdendo força enquanto outro cresce rapidamente.[^1]
 
-No [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], informações sobre o desempenho agregado do post podem participar do ranking. O interesse do projeto está em separar esse estado acumulado de [[02 variaveis/Momentum de atenção|momentum de atenção]], que observa o ritmo recente de novas interações.
+No [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], informações sobre o desempenho agregado do post podem participar do ranking. No [[03 artefatos/Trending Topics do X Twitter|Trending Topics do X/Twitter]], volume também entra no cálculo, mas a própria documentação distingue assuntos populares agora de assuntos populares por períodos mais longos, mostrando que contagem acumulada não basta para definir tendência. O interesse do projeto está em separar esse estado acumulado de [[02 variaveis/Momentum de atenção|momentum de atenção]], que observa o ritmo recente de novas interações.
 
 Popularidade também precisa ser distinguida de prova social. A primeira é um estado mensurável do conteúdo. Prova social aparece quando pessoas percebem sinais dessa popularidade e alteram seu próprio comportamento em resposta. Experimentos como o de Muchnik, Aral e Taylor mostram que avaliações sociais exibidas podem produzir efeitos de influência e acumulação posteriores.[^2]
 
@@ -34,7 +34,7 @@ Popularidade também precisa ser distinguida de prova social. A primeira é um e
 | **Como observar** | Visualizações, likes, comentários, compartilhamentos, seguidores, taxas normalizadas e posição relativa |
 | **O que não mede sozinho** | Qualidade, satisfação, crescimento recente, relevância individual ou prova social percebida |
 | **Trade-offs principais** | Facilita identificar conteúdo socialmente validado, mas pode reforçar vantagens iniciais e concentração de visibilidade |
-| **Artefatos-chave** | [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]] |
+| **Artefatos-chave** | [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], [[03 artefatos/Trending Topics do X Twitter|Trending Topics do X/Twitter]] |
 | **Conceitos relacionados** | [[01 conceitos/Engajamento em plataformas digitais|Engajamento em plataformas digitais]], [[01 conceitos/Tendência em plataformas|Tendência em plataformas]], [[01 conceitos/Economia da Atencao|Economia da atenção]] |
 | **Genealogias relacionadas** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] |
 
