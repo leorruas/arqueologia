@@ -1,13 +1,25 @@
 {
-  "generatedAt": "2026-10-06T09:51:16.693Z",
+  "generatedAt": "2026-10-06T10:05:12.237Z",
   "scope": "Integração do grafo: títulos duplicados dentro da mesma camada, índices, home, reciprocidade estrutural, tipos de design e nós órfãos. Conceitos e variáveis não exigem backlink exaustivo.",
-  "issueCount": 15,
+  "issueCount": 25,
   "countsByKind": {
-    "missing-from-index": 3,
-    "missing-reciprocal-link": 9,
-    "design-type-drift": 3
+    "missing-from-index": 5,
+    "missing-reciprocal-link": 14,
+    "design-type-drift": 6
   },
   "issues": [
+    {
+      "kind": "missing-from-index",
+      "sourcePath": "03 artefatos/Apelido político.md",
+      "targetPath": "00 índices/Indice de Artefatos.md",
+      "detail": "Arquivo não aparece em 00 índices/Indice de Artefatos.md."
+    },
+    {
+      "kind": "missing-from-index",
+      "sourcePath": "03 artefatos/Tango.md",
+      "targetPath": "00 índices/Indice de Artefatos.md",
+      "detail": "Arquivo não aparece em 00 índices/Indice de Artefatos.md."
+    },
     {
       "kind": "missing-from-index",
       "sourcePath": "03 artefatos/Vaso de Plantas.md",
@@ -25,6 +37,24 @@
       "sourcePath": "01 conceitos/Portabilizacao de contexto.md",
       "targetPath": "00 índices/Indice de Conceitos.md",
       "detail": "Arquivo não aparece em 00 índices/Indice de Conceitos.md."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Apelido político.md",
+      "targetPath": "00 tipos de design/Design Grafico.md",
+      "detail": "A ficha liga para 00 tipos de design/Design Grafico.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Apelido político.md",
+      "targetPath": "04 genealogias/Compressao do Esforco.md",
+      "detail": "A ficha liga para 04 genealogias/Compressao do Esforco.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Apelido político.md",
+      "targetPath": "05 percursos/Da Parede ao Feed.md",
+      "detail": "A ficha liga para 05 percursos/Da Parede ao Feed.md, mas a nota relacionada não devolve o vínculo."
     },
     {
       "kind": "missing-reciprocal-link",
@@ -81,6 +111,24 @@
       "detail": "A ficha liga para 04 genealogias/Permanencia e Memoria Externa.md, mas a nota relacionada não devolve o vínculo."
     },
     {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Tango.md",
+      "targetPath": "00 tipos de design/Design de Servicos.md",
+      "detail": "A ficha liga para 00 tipos de design/Design de Servicos.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Tango.md",
+      "targetPath": "00 tipos de design/Design de Interface.md",
+      "detail": "A ficha liga para 00 tipos de design/Design de Interface.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "design-type-drift",
+      "sourcePath": "03 artefatos/Apelido político.md",
+      "targetPath": "00 tipos de design/Design Grafico.md",
+      "detail": "Artefato declara 00 tipos de design/Design Grafico.md, mas o tipo de design não o referencia."
+    },
+    {
       "kind": "design-type-drift",
       "sourcePath": "03 artefatos/Autoplay.md",
       "targetPath": "00 tipos de design/Design de Interface.md",
@@ -97,6 +145,18 @@
       "sourcePath": "03 artefatos/Feed de Videos Curtos.md",
       "targetPath": "00 tipos de design/Design de Interface.md",
       "detail": "Artefato declara 00 tipos de design/Design de Interface.md, mas o tipo de design não o referencia."
+    },
+    {
+      "kind": "design-type-drift",
+      "sourcePath": "03 artefatos/Tango.md",
+      "targetPath": "00 tipos de design/Design de Interface.md",
+      "detail": "Artefato declara 00 tipos de design/Design de Interface.md, mas o tipo de design não o referencia."
+    },
+    {
+      "kind": "design-type-drift",
+      "sourcePath": "03 artefatos/Tango.md",
+      "targetPath": "00 tipos de design/Design de Servicos.md",
+      "detail": "Artefato declara 00 tipos de design/Design de Servicos.md, mas o tipo de design não o referencia."
     }
   ]
 }

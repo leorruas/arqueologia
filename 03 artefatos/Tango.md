@@ -51,7 +51,6 @@ Isso sugere um princípio mais amplo para investigação futura: **alguns dispos
 A pergunta que permanece é até onde esse mecanismo viaja. Cooperação pode produzir reabertura em determinadas condições e falhar em outras; objetivos compartilhados podem ser artificiais, assimétricos ou insuficientes para deslocar identidades fortemente ameaçadas. O Tango oferece um caso empiricamente testado, não uma regra universal.
 
 ## Ficha arqueológica
-
 | Campo | Registro |
 |---|---|
 | **Artefato** | Tango |
@@ -67,18 +66,11 @@ A pergunta que permanece é até onde esse mecanismo viaja. Cooperação pode pr
 | **Popularização** | Uso em experimentos, universidades, organizações e sessões públicas do serviço |
 | **Padronização** | Não estabelecida; o artefato continua em desenvolvimento e expansão |
 | **Hipótese de design** | Uma pessoa pode revisar parte de sua representação de um grupo adversário quando precisa cooperar com um membro desse grupo em uma tarefa mutuamente benéfica |
-| **Promessa** | Interpretação do projeto: transformar encontro entre adversários em experiência de utilidade mútua antes de exigir concordância |
 | **Comportamento aproveitado** | Cooperação, reciprocidade, curiosidade, conhecimento distribuído, jogo e coordenação em dupla |
 | **Comportamento produzido** | Conversar com um adversário como parceiro, reconhecer contribuições e resolver uma tarefa em conjunto |
 | **Relação de poder** | A interface define pareamento, objetivo, regras, conteúdo e o que conta como sucesso, estruturando a forma possível de encontro |
-| **Consequências inesperadas** | A melhora de algumas medidas pode não se generalizar para voto, ideologia, todas as atitudes democráticas ou outros contextos culturais |
+| **Consequências inesperadas** | A melhora de algumas medidas pode não se generalizar para voto, ideologia, todas as atitudes democráticas ou outros contextos culturais Registros adicionais preservados da ficha anterior: promessa: Interpretação do projeto: transformar encontro entre adversários em experiência de utilidade mútua antes de exigir concordância; futuro prometido: Interação política em que diferença não impede cooperação e contato entre grupos se torna suficientemente atraente para ocorrer voluntariamente; futuro produzido: Ainda em formação; o artefato passou de experimento a serviço e está sendo testado em instituições e novos contextos; quando a promessa virou expectativa: Ainda não há evidência de normalização; futuro tornado mais provavel: Intervenções de despolarização incorporadas a jogos, serviços e atividades cooperativas em vez de depender apenas de mensagens persuasivas; descendentes possiveis: Jogos cooperativos cívicos, onboarding intergrupal, oficinas com interdependência projetada e outros serviços de contato estruturado; novo problema produzido pelo sucesso: Distinguir cooperação genuína de encontros artificialmente seguros e verificar se efeitos sobrevivem fora da estrutura do jogo |
 | **Destino ou transformação posterior** | Continua ativo como serviço de partidas online mais curtas que as intervenções experimentais originais |
-| **Futuro prometido** | Interação política em que diferença não impede cooperação e contato entre grupos se torna suficientemente atraente para ocorrer voluntariamente |
-| **Futuro produzido** | Ainda em formação; o artefato passou de experimento a serviço e está sendo testado em instituições e novos contextos |
-| **Quando a promessa virou expectativa** | Ainda não há evidência de normalização |
-| **Futuro tornado mais provável** | Intervenções de despolarização incorporadas a jogos, serviços e atividades cooperativas em vez de depender apenas de mensagens persuasivas |
-| **Descendentes possíveis** | Jogos cooperativos cívicos, onboarding intergrupal, oficinas com interdependência projetada e outros serviços de contato estruturado |
-| **Novo problema produzido pelo sucesso** | Distinguir cooperação genuína de encontros artificialmente seguros e verificar se efeitos sobrevivem fora da estrutura do jogo |
 | **Conceitos relacionados** | [[01 conceitos/Design da aversão|Design da aversão]], [[01 conceitos/Polarização afetiva|Polarização afetiva]], [[01 conceitos/Partidarismo negativo|Partidarismo negativo]], [[01 conceitos/Identidade política negativa|Identidade política negativa]] |
 | **Variáveis relacionadas** | [[02 variaveis/Friccao|Fricção]], [[02 variaveis/Atrito Decisorio|Atrito decisório]]; distância social e interdependência ainda não possuem variáveis próprias no vault |
 | **Genealogia** | Relações com cooperação, contato e reabertura ainda não justificam uma genealogia própria |
