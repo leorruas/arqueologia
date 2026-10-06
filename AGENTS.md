@@ -41,6 +41,15 @@ status: "ativo"
 >
 > Se a ferramenta disponível conseguir produzir um único commit coerente com todas as alterações relacionadas, o commit direto em `main` continua permitido. `main` não deve ser usado como área de staging de uma operação ainda em propagação.
 
+### Renomear, mover, consolidar ou apagar notas
+
+> [!IMPORTANT]
+> Operações destrutivas ou de identidade de nota exigem uma varredura de referências **antes** da alteração. Antes de renomear, mover, consolidar ou apagar uma nota, o agente deve localizar todos os wikilinks, backlinks, índices, percursos, genealogias, fichas e referências textuais relevantes que apontem para o título ou caminho antigo.
+>
+> A operação só está concluída quando cada referência tiver destino explícito: atualizar para a nova nota/caminho, redirecionar para a nota consolidada ou remover o vínculo quando ele tiver deixado de fazer sentido. Não apagar primeiro para descobrir links quebrados depois pelo gate.
+>
+> Quando houver várias alterações dependentes, aplicar a regra de [[#Transações editoriais|Transações editoriais]]: preparar tudo na mesma branch e validar o conjunto antes do merge em `main`.
+
 ## Contrato da automação
 
 As decisões de schema, propostas revisáveis, pistas acumulativas e publicação estão em [[me#Automação e publicação|Automação e publicação]]. A ficha atual possui 33 campos. Scripts de conteúdo produzem propostas por padrão; a aplicação explícita exige revisar o diff e preservar valores e narrativa. A publicação bloqueia schema incompatível, possível perda de dados e links públicos ambíguos ou sem destino; capitalização e reciprocidade geram avisos.
