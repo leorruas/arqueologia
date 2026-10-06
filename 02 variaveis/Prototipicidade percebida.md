@@ -70,6 +70,8 @@ O custo aparece quando um caso altamente prototípico recebe peso excessivo, qua
 
 Dentro de [[01 conceitos/Design da aversão|Design da aversão]], essa tensão é central. Um artefato pode tornar uma pessoa tão representativa do grupo rejeitado que atacar a pessoa e rejeitar o grupo começam a funcionar como a mesma operação. Dispositivos de reindividualização tentam reabrir essa equivalência sem necessariamente apagar o pertencimento político.
 
+O [[03 artefatos/Voto sem nomes|Voto sem nomes]] oferece um caso útil porque adia o rótulo partidário e observa quanto a avaliação já depende de outros sinais que permitem reconstruir a categoria. Se a pessoa infere imediatamente o partido a partir das posições, retirar o nome reduz pouco a prototipicidade percebida.
+
 A pergunta que a variável acrescenta é: **este artefato está mostrando uma pessoa ou construindo um exemplar?**
 
 ## Ficha da variável
@@ -82,7 +84,7 @@ A pergunta que a variável acrescenta é: **este artefato está mostrando uma pe
 | **Como observar** | Avaliações de tipicidade e representatividade, atribuição de traços individuais ao grupo, linguagem de generalização, mudança entre explicações categoriais e individuantes |
 | **O que não mede sozinho** | Homogeneidade real ou percebida do grupo, extremismo, simpatia, [[02 variaveis/Ameaça percebida|ameaça percebida]], veracidade do estereótipo ou centralidade identitária |
 | **Trade-offs principais** | Maior prototipicidade facilita reconhecimento e generalização; também pode aumentar redução do indivíduo à categoria. Menor prototipicidade favorece individuação, mas pode transformar contraprovas em exceções incapazes de alterar o grupo |
-| **Artefatos-chave** | [[03 artefatos/Apelido político|Apelido político]], [[03 artefatos/Clip político|Clip político]], [[03 artefatos/Meme|Meme]], [[03 artefatos/Entrevista longa|Entrevista longa]], [[03 artefatos/Tango|Tango]], [[03 artefatos/Teste de simetria eleitoral|Teste de simetria eleitoral]] |
+| **Artefatos-chave** | [[03 artefatos/Apelido político|Apelido político]], [[03 artefatos/Clip político|Clip político]], [[03 artefatos/Meme|Meme]], [[03 artefatos/Entrevista longa|Entrevista longa]], [[03 artefatos/Tango|Tango]], [[03 artefatos/Teste de simetria eleitoral|Teste de simetria eleitoral]], [[03 artefatos/Voto sem nomes|Voto sem nomes]] |
 | **Conceitos relacionados** | [[01 conceitos/Design da aversão|Design da aversão]], [[01 conceitos/Identidade política negativa|Identidade política negativa]], [[01 conceitos/Polarização afetiva|Polarização afetiva]] |
 | **Genealogias relacionadas** | [[04 genealogias/Compressao do Esforco|Compressão do esforço]] por parentesco cognitivo e representacional; fechamento e reabertura de representações permanece em investigação |
 
