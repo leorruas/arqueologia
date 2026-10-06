@@ -15,6 +15,8 @@ Este percurso usa a mesma regra adotada no Instagram:
 
 **artefato de design → comportamento humano → sinal observável → possível efeito de distribuição**
 
+A comparação entre X/Twitter, Instagram e TikTok passou a ser feita em [[05 percursos/Do artefato ao sinal em feeds algoritmicos|Do artefato ao sinal em feeds algorítmicos]]. Esta nota permanece como aprofundamento do repertório conversacional e de redistribuição específico do X.
+
 A diferença está no repertório de ações. O X trata replies, reposts, clicks, visitas a perfil, permanência em conversas e outros comportamentos como sinais distintos; o snapshot aberto do ranker em 2023 chegou a produzir probabilidades separadas para vários deles antes de combiná-las num score. Por isso, um artefato que favorece conversa não deve ser avaliado apenas pelo mesmo critério de um artefato que favorece redistribuição.
 
 ## A pergunta transforma audiência em interlocutor
