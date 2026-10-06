@@ -112,7 +112,7 @@ Se virar só mais uma caixa a preencher, sobra a forma e desaparece a pergunta.
 | **Destino ou transformação posterior** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Formulacao|Formulação]], [[01 conceitos/Intencao|Intenção]], [[01 conceitos/Justificabilidade|Justificabilidade]], [[01 conceitos/Servico de Reflexao|Serviço de reflexão]] |
 | **Variáveis relacionadas** | Ainda não explicitado. |
-| **Genealogia** | Família de ideias: Artefatos de intenção, formulação e justificabilidade |
+| **Genealogia** | [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]], por parentesco funcional e cognitivo; família de ideias: artefatos de intenção, formulação e justificabilidade |
 | **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Brief|Brief]], [[03 artefatos/Problema de Design|Problema de design]], [[03 artefatos/Justificativa de Valor Público|Justificativa de Valor Público]], [[03 artefatos/Hipótese Científica|Hipótese científica]] |
 | **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
