@@ -87,7 +87,7 @@ A pergunta contemporânea mais fértil talvez seja o que acontece quando a pági
 | **Futuro tornado mais provável** | Ainda não explicitado. |
 | **Descendentes possíveis** | Ainda não explicitado. |
 | **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
-| **Conceitos relacionados** | [[01 conceitos/Limiares|Limiares]], [[01 conceitos/Affordance|Affordance]], [[01 conceitos/Economia da Atencao|Economia da Atenção]], [[01 conceitos/Redução de Inferências|Redução de Inferências]] |
+| **Conceitos relacionados** | [[01 conceitos/Limiares|Limiares]], [[01 conceitos/Affordance|Affordance]], [[01 conceitos/Economia da Atencao|Economia da Atenção]], [[01 conceitos/Redução de Inferências|Redução de Inferências]], [[01 conceitos/Acesso consciente|Acesso consciente]] |
 | **Variáveis relacionadas** | [[02 variaveis/Atrito Decisorio|Atrito Decisório]], [[02 variaveis/Custo de Busca|Custo de Busca]], [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]], [[02 variaveis/Atencao|Atenção]] |
 | **Genealogia** | [[04 genealogias/Limiares e Delimitacao|Limiares e delimitação]], [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] Família de ideias: Artefatos de limiar e enquadramento |
 | **Percurso(s)** | [[05 percursos/Da Parede ao Feed|Da Parede ao Feed]], [[05 percursos/Da Parede ao Interlocutor|Da Parede ao Interlocutor]], [[05 percursos/Do artefato ao sinal no Instagram|Do artefato ao sinal no Instagram]] |
