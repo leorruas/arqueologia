@@ -47,6 +47,24 @@ Também existe uma camada posterior ao score aprendido. O Home Mixer aberto docu
 
 Por enquanto, a hipótese de design central está suficientemente clara: **um fluxo em tempo real pode se tornar mais útil quando o sistema seleciona e ordena aquilo que merece representar o presente de cada pessoa**. A tensão aberta é igualmente clara: quanto mais o sistema seleciona o presente, mais a experiência do “que está acontecendo agora” depende de uma política invisível de relevância.
 
+## Conflito não é um único sinal
+
+A documentação pública do X descreve likes, reposts, replies, clicks, dwell e feedback negativo como entradas e alvos de previsão, mas não declara “raiva”, “indignação” ou “polarização” como sinais internos do ranking.[^5][^6] A relação entre emoção e distribuição precisa, portanto, ser reconstruída por uma cadeia intermediária: propriedades da mensagem alteram comportamentos humanos; esses comportamentos produzem sinais; o ranking pode aprender a valorizá-los.
+
+Em debates políticos no Twitter, Brady e colegas encontraram que palavras simultaneamente morais e emocionais estavam associadas a maior difusão por retweets, com cerca de 20% de aumento por palavra moral-emocional nos três temas analisados.[^8] O efeito foi mais forte dentro de redes ideológicas do que entre elas. Esse resultado é observacional e recebeu uma crítica metodológica importante: Burton, Cruz e Hahn mostraram que o chamado “moral contagion” pode ser sensível a especificações analíticas e ter baixo poder preditivo fora da amostra.[^9] Para o vault, a conclusão segura é que moralização emocional pode participar da propagação em certos contextos, não que exista uma lei universal de viralidade moral.
+
+Outra regularidade parece ainda mais forte em comunicação política. Rathje, Van Bavel e van der Linden analisaram mais de 2,7 milhões de posts de mídia e congressistas no Facebook e Twitter e encontraram que referências ao grupo político adversário previam compartilhamento e retweet com efeito maior que linguagem negativa ou moral-emocional; posts sobre o out-group eram compartilhados aproximadamente duas vezes mais que posts sobre o in-group.[^10] O mecanismo aqui combina [[01 conceitos/Design da aversão|aversão]], identidade social e [[02 variaveis/Propagação|propagação]], e não deve ser reduzido a “conteúdo negativo”.
+
+Também há um circuito de aprendizagem posterior à publicação. Em dois estudos preregistrados de Twitter e dois experimentos, Brady, McLoughlin, Doan e Crockett encontraram que feedback social positivo recebido por expressões de indignação moral previa maior probabilidade de o usuário expressar indignação novamente; usuários também ajustavam expressão às normas percebidas de suas redes.[^11] O sistema social pode, assim, ensinar estilos de expressão sem que o ranker precise possuir uma feature explícita de indignação.
+
+A direção continua dependente de contexto e de ação. Em tweets sobre ciência da COVID-19, por exemplo, alegria esteve associada a mais retweets e raiva a menos; em outros domínios, raiva ou disgust podem gerar mais replies.[^12] Repost, reply e quote-post não devem ser tratados como três intensidades da mesma resposta. Repost tende a redistribuir; reply cria uma relação dialogal; quote-post redistribui acrescentando comentário. Pesquisas políticas mostram usos e valências diferentes entre essas formas de interação.[^13]
+
+A interpretação arqueológica é que o risco sistêmico aparece quando determinadas formas de conflito produzem justamente os comportamentos que a infraestrutura aprende a prever e recompensar. Isso pode criar o circuito:
+
+**aversão ou indignação → reply/repost/quote → sinal social → distribuição/feedback → aprendizagem de norma → nova expressão**
+
+O circuito é uma hipótese de sistema sustentada por estudos parciais de cada elo. Ele não demonstra que o algoritmo atual do X “prefere raiva”.
+
 Essa mediação acontece também em outra escala. O [[03 artefatos/Trending Topics do X Twitter|Trending Topics do X/Twitter]] não escolhe primeiro qual post merece aparecer, mas qual **conversa** merece receber o estatuto de assunto emergente. A documentação atual separa detecção de Trends de recomendação de Trends, mostrando que o X opera duas curadorias paralelas do presente: uma no nível das mensagens e outra no nível dos temas.
 
 ## Ficha arqueológica
@@ -70,7 +88,7 @@ Essa mediação acontece também em outra escala. O [[03 artefatos/Trending Topi
 | **Comportamento aproveitado** | Seguir contas, curtir, repostar, responder, clicar, visitar perfis e repetir padrões de interação |
 | **Comportamento produzido** | Esperar que o sistema selecione conteúdo relevante inclusive de contas não seguidas e alternar entre curadoria personalizada e cronologia |
 | **Relação de poder** | A plataforma ganha capacidade de definir quais acontecimentos, autores e temas entram primeiro no campo perceptivo de cada pessoa |
-| **Consequências inesperadas** | Ainda não explicitado. |
+| **Consequências inesperadas** | Interações que aumentam propagação ou conversação podem também recompensar conteúdo moralizado ou intergrupal em determinados contextos; feedback social e exposição podem alterar normas percebidas de expressão, embora emoção não apareça como sinal declarado do ranking |
 | **Destino ou transformação posterior** | A timeline ranqueada evoluiu para uma superfície de descoberta que mistura rede seguida e conteúdo recomendado |
 | **Futuro prometido** | Um fluxo em que abundância e ausência temporária não impedissem o usuário de encontrar os acontecimentos considerados mais relevantes |
 | **Futuro produzido** | Um presente personalizado no qual relevância prevista participa da definição do que parece estar acontecendo agora |
@@ -78,8 +96,8 @@ Essa mediação acontece também em outra escala. O [[03 artefatos/Trending Topi
 | **Futuro tornado mais provável** | Plataformas em tempo real nas quais a percepção do presente é mediada por ranking personalizado |
 | **Descendentes possíveis** | Ainda não explicitado. |
 | **Novo problema produzido pelo sucesso** | Distinguir aquilo que está acontecendo amplamente daquilo que o sistema tornou especialmente visível para uma pessoa |
-| **Conceitos relacionados** | [[01 conceitos/Engajamento em plataformas digitais|Engajamento em plataformas digitais]], [[01 conceitos/Tendência em plataformas|Tendência em plataformas]], [[01 conceitos/Feedback negativo em recomendação|Feedback negativo em recomendação]], [[01 conceitos/Economia da Atencao|Economia da atenção]] |
-| **Variáveis relacionadas** | [[02 variaveis/Recência|Recência]], [[02 variaveis/Popularidade|Popularidade]], [[02 variaveis/Afinidade inferida|Afinidade inferida]], [[02 variaveis/Propagação|Propagação]], [[02 variaveis/Momentum de atenção|Momentum de atenção]], [[02 variaveis/Tempo de permanência|Tempo de permanência]] |
+| **Conceitos relacionados** | [[01 conceitos/Engajamento em plataformas digitais|Engajamento em plataformas digitais]], [[01 conceitos/Tendência em plataformas|Tendência em plataformas]], [[01 conceitos/Feedback negativo em recomendação|Feedback negativo em recomendação]], [[01 conceitos/Economia da Atencao|Economia da atenção]], [[01 conceitos/Design da aversão|Design da aversão]], [[01 conceitos/Polarização afetiva|Polarização afetiva]] |
+| **Variáveis relacionadas** | [[02 variaveis/Recência|Recência]], [[02 variaveis/Popularidade|Popularidade]], [[02 variaveis/Afinidade inferida|Afinidade inferida]], [[02 variaveis/Propagação|Propagação]], [[02 variaveis/Momentum de atenção|Momentum de atenção]], [[02 variaveis/Tempo de permanência|Tempo de permanência]], [[02 variaveis/Valência emocional|Valência emocional]], [[02 variaveis/Ativação emocional|Ativação emocional]], [[02 variaveis/Normatividade percebida da hostilidade|Normatividade percebida da hostilidade]] |
 | **Genealogia** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] |
 | **Percurso(s)** | [[05 percursos/Da Parede ao Feed|Da parede ao feed]] |
 | **Parentes** | [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], [[03 artefatos/Trending Topics do X Twitter|Trending Topics do X/Twitter]], [[03 artefatos/Feed de Videos Curtos|Feed de vídeos curtos]], [[03 artefatos/Botao Like|Botão Like]] |
@@ -103,3 +121,16 @@ Essa mediação acontece também em outra escala. O [[03 artefatos/Trending Topi
 [^6]: Twitter. “The Algorithm ML — Heavy Ranker”, atualização de 5 abr. 2023. O snapshot aberto descreve saídas previstas para favorite, retweet, reply, good profile click, video playback 50%, reply engaged by author, good click, permanência prolongada em conversa, negative feedback e report, além dos coeficientes então usados para combinar essas probabilidades. https://github.com/twitter/the-algorithm-ml
 
 [^7]: X Help Center. “Our approach to recommendations”. A documentação atual afirma que recomendações usam múltiplos sinais e que nenhum sinal recebe estaticamente maior peso de importância que outro. https://help.x.com/en/rules-and-policies/recommendations
+
+
+[^8]: Brady, William J.; Wills, Julian A.; Jost, John T.; Tucker, Joshua A.; Van Bavel, Jay J. “Emotion shapes the diffusion of moralized content in social networks”. *PNAS*, 114(28), 2017, pp. 7313–7318. DOI: https://doi.org/10.1073/pnas.1618923114
+
+[^9]: Burton, Jason W.; Cruz, Nicole; Hahn, Ulrike. “Reconsidering evidence of moral contagion in online social networks”. *Nature Human Behaviour*, 5, 2021, pp. 1629–1635. DOI: https://doi.org/10.1038/s41562-021-01133-5
+
+[^10]: Rathje, Steve; Van Bavel, Jay J.; van der Linden, Sander. “Out-group animosity drives engagement on social media”. *PNAS*, 118(26), 2021, e2024292118. O estudo analisou Facebook e Twitter e encontrou linguagem sobre o grupo adversário como forte preditora de compartilhamentos e retweets.
+
+[^11]: Brady, William J.; McLoughlin, Killian; Doan, Tuan N.; Crockett, Molly J. “How social learning amplifies moral outrage expression in online social networks”. *Science Advances*, 7(33), 2021, eabe5641. DOI: https://doi.org/10.1126/sciadv.abe5641
+
+[^12]: Luo, Kai; Yang, Yang; Teo, Hock Hai. “The Asymmetric Influence of Emotion in the Sharing of COVID-19 Science on Social Media: Observational Study”. *JMIR Infodemiology*, 2(2), 2022, e37331. DOI: https://doi.org/10.2196/37331. Ver também estudos de comunicação de saúde no Twitter que encontram mais replies diante de anger/disgust em contextos específicos.
+
+[^13]: Garimella, Kiran; Weber, Ingmar; De Choudhury, Munmun. “Quote RTs on Twitter: Usage of the New Feature for Political Discourse”. *WebSci ’16*, 2016. DOI: https://doi.org/10.1145/2908131.2908170. Pew Research Center (2022) também mostra que retweets e quote tweets de usuários adultos nos EUA eram mais frequentemente políticos que replies e tweets originais.
