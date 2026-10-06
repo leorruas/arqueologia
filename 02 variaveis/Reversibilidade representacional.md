@@ -65,6 +65,8 @@ Essa tensão também distingue reversibilidade representacional de [[02 variavei
 
 [[02 variaveis/Ameaça percebida|Ameaça percebida]] pode funcionar como condição que torna revisão mais custosa: informação sobre um grupo interpretado como perigoso pode ser processada defensivamente ou reenquadrada como nova evidência de risco. Essa relação permanece hipótese comparativa do projeto e não implica que toda representação rígida seja produzida por ameaça.
 
+[[02 variaveis/Normatividade percebida da hostilidade|Normatividade percebida da hostilidade]] pode estabilizar a representação por outro caminho: uma crença interpretada como consenso social recebe apoio aparente toda vez que o ambiente oferece exemplos compatíveis. A hipótese do projeto é que revisar a representação passa então a exigir também revisar o modelo sobre o que “todo mundo sabe” ou considera normal.
+
 ## Do fechamento à reabertura
 
 Dentro de [[01 conceitos/Design da aversão|Design da aversão]], a variável permite comparar dispositivos que operam em níveis diferentes. O [[03 artefatos/Apelido político|apelido político]] pode reduzir revisabilidade por compressão semântica; o [[03 artefatos/Clip político|clip político]], por compressão temporal. A [[03 artefatos/Entrevista longa|entrevista longa]] pode aumentar a quantidade de evidência disponível para revisão; o [[03 artefatos/Tango|Tango]] pode introduzir evidência relacional produzida durante a própria interação.
