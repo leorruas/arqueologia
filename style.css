@@ -458,6 +458,45 @@ html body .artigo-corpo h6 {
 .artigo-corpo h2 { font-size: 1.45rem; border-bottom: 1px solid color-mix(in srgb, var(--text) 20%, transparent); padding-bottom: 8px; }
 .artigo-corpo h3 { font-size: 1.2rem; }
 .artigo-corpo h4 { font-size: 1.05rem; }
+.artigo-corpo h2,
+.artigo-corpo h3 { position: relative; }
+.heading-anchor {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: .42em;
+  padding: 0 .16em !important;
+  border: 0 !important;
+  background: transparent !important;
+  color: var(--muted) !important;
+  font-size: .7em;
+  font-weight: 650;
+  line-height: 1;
+  opacity: 0;
+  text-decoration: none !important;
+  vertical-align: .08em;
+  transition: opacity .15s ease, color .15s ease;
+}
+.artigo-corpo h2:hover .heading-anchor,
+.artigo-corpo h3:hover .heading-anchor,
+.heading-anchor:focus-visible,
+.heading-anchor.copiado {
+  opacity: 1;
+}
+.heading-anchor:hover,
+.heading-anchor:focus-visible,
+.heading-anchor.copiado { color: var(--accent) !important; }
+.heading-anchor.copiado::after {
+  content: "copiado";
+  margin-left: .45em;
+  color: var(--muted);
+  font-size: .78em;
+  font-weight: 500;
+}
+.artigo-corpo h2.secao-ativa,
+.artigo-corpo h3.secao-ativa { scroll-margin-top: 90px; }
+.artigo-corpo h2.secao-ativa .heading-anchor,
+.artigo-corpo h3.secao-ativa .heading-anchor { opacity: 1; }
 .artigo-corpo a { color: var(--accent); text-decoration: none; border-bottom: 1px dashed var(--accent); padding-bottom: 1px; }
 .artigo-corpo a:hover { color: var(--text); border-bottom-style: solid; background-color: var(--accent-15); }
 .artigo-corpo strong { font-weight: 690; }
