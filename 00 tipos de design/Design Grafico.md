@@ -41,6 +41,8 @@ Esses casos parecem muito diferentes porque o campo não possui um único objeto
 
 Essa capacidade também produz autoridade. Um documento diagramado com consistência pode parecer mais oficial; um pôster pode transformar uma parede em espaço de convocação; uma interface pode fazer uma resposta probabilística parecer estável porque chega com tipografia limpa, hierarquia e ritmo visual. É por isso que o design gráfico cruza hoje o [[00 tipos de design/Design de IA|Design de IA]]: sistemas generativos podem produzir linguagem, mas continuam dependendo de uma superfície que ensina ao usuário como interpretar aquilo que “parece saber”. O percurso [[05 percursos/Da Parede ao Interlocutor|Da parede ao interlocutor]] acompanha justamente essa transformação.
 
+A comunicação política torna esse poder particularmente visível. [[01 conceitos/Design do Voto|Design do voto]] investiga como decisões de composição, repetição e enquadramento alteram condições de julgamento; [[01 conceitos/Design da aversão|Design da aversão]] acrescenta a hipótese de que sinais gráficos também podem comprimir rejeições em formas fáceis de reconhecer e recircular. O [[03 artefatos/Meme|meme]] e o [[03 artefatos/Pôster|pôster]] oferecem casos concretos para investigar essa operação sem pressupor que forma visual, sozinha, determine voto ou identidade política.
+
 ## O campo não termina na página
 
 As fronteiras do design gráfico sempre foram porosas. [[00 tipos de design/Tipografia|Tipografia]] investiga a forma da linguagem escrita; [[00 tipos de design/Design de Interface|design de interface]] acrescenta estados e resposta à superfície; [[00 tipos de design/Design de Produto|design de produto]] incorpora sinais à materialidade; design de serviços usa mapas, diagramas e documentos para tornar coordenação visível.
@@ -57,7 +59,7 @@ Essa é também a ponte com [[01 conceitos/Redução de Inferências|redução d
 
 Para observar o campo por seus mecanismos, comece por [[03 artefatos/Pôster|Pôster]] e [[03 artefatos/Grid|Grid]]. O [[03 artefatos/Meme|Meme]] mostra como uma estrutura gráfica pode se tornar matéria-prima para produção distribuída e remix. Depois, [[03 artefatos/Mascote|Mascote]] mostra como identidade pode ganhar corpo; [[03 artefatos/QR Code|QR Code]], como uma forma gráfica pode virar comando; e [[05 percursos/Da Parede ao Feed|Da parede ao feed]] e [[05 percursos/Da Parede ao Interlocutor|Da parede ao interlocutor]] mostram como problemas clássicos de superfície, atenção e autoridade reaparecem em sistemas digitais.
 
-[[01 conceitos/Peles Temporarias da Arquitetura|Peles temporárias da arquitetura]], [[01 conceitos/Economia da Atencao|economia da atenção]] e [[01 conceitos/Redução de Inferências|redução de inferências]] ajudam a atravessar esses casos sem reduzir o campo a estilo.
+[[01 conceitos/Peles Temporarias da Arquitetura|Peles temporárias da arquitetura]], [[01 conceitos/Economia da Atencao|economia da atenção]], [[01 conceitos/Design do Voto|design do voto]], [[01 conceitos/Design da aversão|design da aversão]] e [[01 conceitos/Redução de Inferências|redução de inferências]] ajudam a atravessar esses casos sem reduzir o campo a estilo.
 
 ## Referências
 
