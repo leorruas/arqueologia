@@ -39,6 +39,26 @@ Esse poder também cria um risco. Estruturas bem conhecidas podem virar performa
 
 Por isso, gramáticas produtivas não eliminam a necessidade de investigação. Elas deslocam parte dela. Quanto mais decisões são incorporadas à estrutura, mais importante se torna perguntar **quem definiu essa estrutura, quais possibilidades ela favorece e quais deixam de aparecer porque não cabem em sua sintaxe**.
 
+## A gramática pode organizar uma investigação sobre a própria vida
+
+Há um passo além dos frameworks que organizam decisões de projeto. Uma gramática também pode estruturar uma investigação autobiográfica sem determinar previamente qual conclusão a pessoa deverá alcançar. Em política, por exemplo, uma pergunta como “que decisão pública mudou concretamente sua vida?” pode iniciar um percurso diferente de “qual partido foi melhor para você?”. A primeira começa pela experiência; a segunda já oferece uma categoria de interpretação.
+
+A hipótese deste projeto é que uma **biografia política** pode ser construída por uma sequência como:
+
+**experiência → política pública → atribuição → verificação → consequência → valor → identidade**
+
+A ordem importa. Primeiro aparece um acontecimento vivido: acesso a uma universidade, mudança de renda, atendimento de saúde, mobilidade, segurança, trabalho ou outra transformação concreta. Depois se investiga que política ou decisão institucional participou daquela experiência. Só então entram autoria, governo, partido ou campo político.
+
+Essa gramática precisa conter uma etapa de **verificação**. Memória autobiográfica e atribuição política podem divergir: uma pessoa pode lembrar corretamente o que viveu e atribuir de maneira imprecisa quem criou, ampliou, executou ou encerrou determinada política. Se a estrutura apenas pergunta “o que meu lado fez por mim?”, ela pode funcionar como máquina de confirmação identitária. Ao exigir “como sei que foi essa política?”, “quando ela surgiu?”, “quem criou, ampliou e implementou?” e “que evidência contrariaria minha atribuição?”, a gramática transforma lembrança em investigação.
+
+Isso aproxima a operação de [[01 conceitos/Investigação|Investigação]]. A estrutura produtiva não serve apenas para gerar uma narrativa; serve para tornar a própria narrativa contestável. Surge daí uma hipótese complementar: **gramáticas verificáveis** seriam estruturas em que produzir uma conclusão exige também declarar quais evidências poderiam sustentá-la, corrigi-la ou desmontá-la.
+
+A mesma lógica pode operar sobre pessoas. Em situações de forte identidade política, um rótulo pode funcionar como uma gramática de leitura: depois de saber que alguém pertence a determinado grupo, comportamentos e memórias anteriores passam a ser reinterpretados por essa categoria. Uma gramática de **reindividualização** inverteria deliberadamente a ordem: reconstruiria relação, biografia, ações, contradições e experiências compartilhadas antes de recolocar a identidade política na cena.
+
+Isso não implica que a pessoa deva mudar de voto, simpatia ou julgamento. O resultado projetado é outro: aumentar a quantidade de informação que precisa coexistir com o rótulo antes que uma conclusão seja produzida. A distinção entre **categoria → pessoa** e **pessoa → categoria** é uma hipótese de diagramação cognitiva: os mesmos elementos podem ganhar pesos diferentes dependendo da ordem em que organizam a interpretação.
+
+Esse caso amplia o alcance das gramáticas produtivas. Elas podem gerar não apenas objetos ou mensagens, mas também **percursos de reflexão**. O que permanece projetado é a estrutura; a conclusão continua aberta e precisa sobreviver ao encontro com evidências externas.
+
 ## O meme transforma estrutura em participação
 
 O [[03 artefatos/Meme|meme]] acrescenta uma mudança importante porque a produção deixa de acontecer apenas dentro de uma equipe ou disciplina profissional. Um template reconhecível pode circular por uma comunidade inteira. Pessoas que não criaram a estrutura inicial passam a utilizá-la para produzir piadas, comentários, ataques, respostas e inversões.
@@ -101,7 +121,7 @@ O princípio também sugere um critério para investigar esses sistemas: **quais
 | **Comportamento recorrente** | Usar regras e repertórios anteriores para produzir novas soluções sem recomeçar todas as decisões do zero |
 | **O que o design redistribui** | Decisão, esforço de formulação, liberdade de variação, autoria, coordenação e responsabilidade pela validação |
 | **Relação de poder** | Quem define a gramática influencia quais possibilidades ficam disponíveis, fáceis, legítimas ou invisíveis; quem produz dentro dela ganha autonomia local, mas opera sobre decisões estruturais anteriores |
-| **Conceitos relacionados** | [[01 conceitos/Design Systems|Design Systems]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Formulação|Formulação]], [[01 conceitos/Intenção|Intenção]] |
+| **Conceitos relacionados** | [[01 conceitos/Design Systems|Design Systems]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Formulação|Formulação]], [[01 conceitos/Intenção|Intenção]], [[01 conceitos/Investigação|Investigação]] |
 | **Variáveis relacionadas** | [[02 variaveis/Variabilidade|Variabilidade]], [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]], [[02 variaveis/Custo Transacional|Custo transacional]], [[02 variaveis/Custo de Busca|Custo de busca]] |
 | **Cuidado histórico** | Grid, JTBD, Ad Lib, meme e prompt emergem de histórias independentes. A genealogia compara uma operação de design compartilhada e não afirma que um artefato deu origem ao outro |
 | **Hipótese em aberto** | Quanto mais uma gramática amplia a capacidade de produzir variações — especialmente quando cada resultado também transporta a regra da próxima produção —, maior precisa ser a capacidade de perceber, questionar e alterar as regras que delimitam esse espaço? |
