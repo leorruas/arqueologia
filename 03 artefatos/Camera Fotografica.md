@@ -35,6 +35,8 @@ O enquadramento produz figura e fundo. Tudo que entra na fotografia ganha possib
 
 A câmera, portanto, não captura simplesmente a realidade. Ela materializa uma decisão sobre qual parte da realidade poderá produzir uma [[03 artefatos/Fotografia|fotografia]] e ser preservada como vestígio.
 
+[[autores/Vilem Flusser|Vilém Flusser]] acrescenta uma tensão útil ao tratar a câmera como **aparelho programado**: abertura, velocidade, foco, filme ou sensor, automatismos e interface delimitam um campo de possibilidades que o fotógrafo explora.[^3] Isso desloca parte da análise da intenção individual para o desenho do próprio dispositivo. Fotografar continua sendo decisão, mas uma decisão exercida dentro de um espaço de possibilidades previamente organizado.
+
 ## Do instante à memória externa
 
 Antes da fotografia, lembrar visualmente de um rosto, uma viagem ou um acontecimento dependia mais de memória interna ou de representações produzidas por outras pessoas. A fotografia reduz o custo de externalizar a memória visual.
@@ -103,7 +105,7 @@ A câmera, assim, não apenas oferece memória externa. Ela introduz no presente
 | **Genealogia** | [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]]; história técnica: câmera obscura → processos fotossensíveis → fotografia em placa → filme → câmera portátil → digital → smartphone |
 | **Percurso(s)** | Candidata ao percurso futuro `Do reflexo ao perfil` |
 | **Parentes** | [[03 artefatos/Fotografia|Fotografia]], [[03 artefatos/Luminaria|Luminária]], [[03 artefatos/Vaso de Plantas|Vaso de plantas]], moldura, cursor, Post-it, [[03 artefatos/Projetor|Projetor]], [[03 artefatos/Espelho|Espelho]], scanner e câmera de vídeo |
-| **Leituras-chave** | [[00 índices/Livros Indicados|Memory, History, Forgetting]], [[00 índices/Livros Indicados|Oneself as Another]] |
+| **Leituras-chave** | *Filosofia da caixa preta*, *Memory, History, Forgetting*, *Oneself as Another* |
 | **Princípio de design revelado** | Registrar é selecionar e estabilizar um vestígio; permanência aumenta a capacidade de lembrar e provar, mas não elimina a necessidade de contexto e interpretação |
 | **Questão em aberto** | O que acontece com a memória quando registrar praticamente tudo custa menos do que escolher o que merece ser lembrado? |
 
@@ -112,3 +114,5 @@ A câmera, assim, não apenas oferece memória externa. Ela introduz no presente
 [^1]: Ricoeur, Paul. *La mémoire, l'histoire, l'oubli*. Paris: Seuil, 2000. Tradução inglesa: *Memory, History, Forgetting*, trad. Kathleen Blamey e David Pellauer. Chicago: University of Chicago Press, 2004. Usado como lente sobre vestígio, documento, arquivo e representação do passado.
 
 [^2]: Ricoeur, Paul. *Soi-même comme un autre*. Paris: Seuil, 1990. Tradução inglesa: *Oneself as Another*, trad. Kathleen Blamey. Chicago: University of Chicago Press, 1992. Usado como lente comparativa sobre mesmidade, ipseidade e continuidade da identidade.
+
+[^3]: Flusser, Vilém. *Für eine Philosophie der Fotografie*. Göttingen: European Photography, 1983. Edição em português: *Filosofia da caixa preta*. São Paulo: Hucitec, 1985.
