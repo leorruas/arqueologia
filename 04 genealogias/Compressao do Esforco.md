@@ -39,6 +39,8 @@ Uma redução de esforço parece pequena quando observada uma única vez. O efei
 
 É aqui que [[01 conceitos/Compressao do Esforco|compressão do esforço]] encontra [[01 conceitos/Redução de Inferências|redução de inferências]] e [[01 conceitos/Memoria Distribuida|memória distribuída]]. O esforço retirado pode ser motor, cognitivo, temporal, decisional, social ou institucional. As variáveis [[02 variaveis/Friccao|fricção]], [[02 variaveis/Custo Transacional|custo transacional]] e [[02 variaveis/Atrito Decisorio|atrito decisório]] ajudam a separar essas formas em vez de chamá-las genericamente de conveniência.
 
+A genealogia [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]] recorta um subconjunto particular dessa operação: casos em que a redução de esforço vem de uma estrutura anterior capaz de orientar muitas produções futuras. Grid, meme, frameworks lacunados e prompt podem baratear decisões justamente porque parte da gramática já está disponível. A distinção é útil porque nem toda compressão do esforço cria um espaço de variação; um controle remoto, por exemplo, encurta uma ação sem funcionar como sistema para gerar novas soluções.
+
 ## Conveniência precisa de uma anatomia
 
 Retirar etapas também pode retirar pausas, contexto ou escolha. Infinite Scroll reduz uma transição e também um ponto de parada. Like facilita expressão e também empobrece nuance. Grid acelera composição e pode estabilizar convenções. Carimbo reduz repetição e pode transformar uma marca administrativa em autoridade aparentemente natural.
