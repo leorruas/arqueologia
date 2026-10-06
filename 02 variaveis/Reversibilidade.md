@@ -16,6 +16,8 @@ Algumas ações fecham possibilidades; outras mantêm um caminho de volta. **Rev
 
 A variável não mede apenas a existência de um botão “desfazer”. Uma ação pode ser parcialmente reversível, reversível por pouco tempo ou recuperável apenas com alto custo.
 
+Ela também deve ser separada de [[02 variaveis/Reversibilidade representacional|Reversibilidade representacional]]. Aqui, o objeto é um estado ou ação que pode ser desfeito. Na variável representacional, o objeto é uma interpretação que pode ou não ser revista diante de evidência nova.
+
 ## Undo transforma estado em experimento
 
 [[03 artefatos/Undo|Undo]] é o exemplo mais direto. Ao permitir voltar a estados anteriores, ele torna edições sucessivas menos comprometedoras e favorece ciclos de tentativa, observação e correção.
