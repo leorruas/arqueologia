@@ -108,7 +108,7 @@ Talvez o prompt conversacional não seja o fim da interface gráfica. Seja um no
 | **Variáveis relacionadas** | Ainda não explicitado. |
 | **Genealogia** | [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]], por parentesco funcional e comparativo |
 | **Percurso(s)** | [[05 percursos/Da Parede ao Interlocutor|Da Parede ao Interlocutor]] |
-| **Parentes** | interface de linha de comando, barra de busca, ELIZA, [[03 artefatos/Brief|Brief]], [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Mascote|Mascote]] |
+| **Parentes** | interface de linha de comando, barra de busca, ELIZA, [[03 artefatos/Brief|Brief]], [[03 artefatos/Jobs to Be Done|Jobs to Be Done]], [[03 artefatos/Sua vez Add Yours|Sua vez (Add Yours)]], [[03 artefatos/Mascote|Mascote]] |
 | **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Ainda não explicitado. |
 | **Questão em aberto** | Quanto da liberdade do prompt continuará aberta quando interfaces generativas amadurecerem e voltarem a incorporar estruturas visíveis para reduzir ambiguidade? |
