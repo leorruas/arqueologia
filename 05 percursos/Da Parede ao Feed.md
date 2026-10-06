@@ -49,6 +49,8 @@ O [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]] 
 
 O [[03 artefatos/Feed algoritmico do X Twitter|Feed algorítmico do X/Twitter]] acrescenta uma tensão própria do tempo real. Quando relevância prevista passa a disputar prioridade com recência, a infraestrutura deixa de apenas ordenar conteúdo e participa de qual recorte do presente parecerá mais importante para cada pessoa.
 
+O [[03 artefatos/Trending Topics do X Twitter|Trending Topics do X/Twitter]] opera um nível acima: detecta quando muitas mensagens parecem formar uma conversa emergente e comprime essa dinâmica numa lista de assuntos. O feed seleciona mensagens; Trends seleciona acontecimentos legíveis.
+
 ## A novidade deixa de ser página e vira condição permanente
 
 O [[03 artefatos/Pull to Refresh|Pull to Refresh]] introduz uma expectativa temporal: talvez exista alguma coisa nova **agora**. Atualizar deixa de exigir um botão visível e entra no próprio gesto de manipular a lista.
