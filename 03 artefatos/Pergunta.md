@@ -85,7 +85,7 @@ Talvez a pergunta seja um dos artefatos mais antigos que permanecem centrais jus
 | **Consequências inesperadas** | Custo invisível: Desconforto da incerteza, vieses de formulação e possibilidade de manipulação por perguntas capciosas |
 | **Destino ou transformação posterior** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Investigacao|Investigação]], [[01 conceitos/Autodeterminacao|Autodeterminação]], [[01 conceitos/Intencao|Intenção]] |
-| **Variáveis relacionadas** | Ainda não explicitado. |
+| **Variáveis relacionadas** | [[02 variaveis/Agencia Inferencial|Agência inferencial]] |
 | **Genealogia** | Formulação e direção |
 | **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | [[03 artefatos/Pergunta de Pesquisa|Pergunta de pesquisa]], [[03 artefatos/Problema de Design|Problema de design]], entrevista, mentoria, terapia, diálogo socrático |
