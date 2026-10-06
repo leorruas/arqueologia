@@ -14,7 +14,7 @@ tags:
 
 Duas pessoas podem discordar pouco sobre uma política pública e ainda assim sentir forte hostilidade uma pela outra por pertencerem a campos políticos rivais. **Polarização afetiva** descreve essa dimensão relacional: a distância de sentimentos entre o próprio grupo político e grupos adversários.
 
-O conceito ganhou força na literatura de identidade partidária ao separar divergência ideológica de sentimentos de simpatia, confiança e distância social.[^1] Estudos comparativos posteriores mostraram que essa distância aparece em diferentes democracias e pode se organizar tanto em torno de partidos quanto de lideranças.[^2]
+O conceito ganhou força na literatura de identidade partidária ao separar divergência ideológica de sentimentos de simpatia, confiança e [[02 variaveis/Distância social|distância social]].[^1] Estudos comparativos posteriores mostraram que essa distância aparece em diferentes democracias e pode se organizar tanto em torno de partidos quanto de lideranças.[^2]
 
 Essa distinção importa para a Arqueologia do Design porque permite observar efeitos que não aparecem quando a única métrica é intenção de voto. Um artefato pode não mudar a escolha eleitoral e ainda alterar disposição para conviver, ouvir, cooperar ou atribuir humanidade e boa-fé ao outro lado.
 
@@ -34,7 +34,7 @@ Essa arquitetura oferece uma ponte para [[01 conceitos/Design da aversão|Design
 
 O estudo de 2026 de William Brady e colegas torna essa última escala particularmente concreta. Em um experimento de oito semanas com feeds do Bluesky, ranking por engajamento aumentou exposição a conteúdo intergrupal, moralizado e emocional e elevou a percepção de animosidade partidária. Um algoritmo que reduzia a influência de usuários extremos diminuiu conteúdo tóxico e melhorou a precisão de normas percebidas sem reduzir o prazer declarado de uso.[^6] O resultado diz mais sobre arquitetura de exposição e percepção de normas do que sobre mudança de preferência política.
 
-A [[02 variaveis/Ameaça percebida|ameaça percebida]] é um possível antecedente da hostilidade intergrupal, mas deve permanecer separada da própria polarização afetiva. Pessoas podem avaliar o outro grupo negativamente sem percebê-lo como ameaça, e diferentes tipos de ameaça podem se relacionar de formas distintas com distância social e animosidade.
+A [[02 variaveis/Ameaça percebida|ameaça percebida]] é um possível antecedente da hostilidade intergrupal, mas deve permanecer separada da própria polarização afetiva. Pessoas podem avaliar o outro grupo negativamente sem percebê-lo como ameaça, e diferentes tipos de ameaça podem se relacionar de formas distintas com [[02 variaveis/Distância social|distância social]] e animosidade.
 
 ## Limites do conceito
 
@@ -55,7 +55,7 @@ Para o design, a pergunta útil é: **qual parte da distância é produzida pelo
 | **O que ajuda a explicar** | Hostilidade, confiança, distância social, cooperação e percepção do outro lado |
 | **O que não explica sozinho** | Voto, apoio à democracia, violência política ou conteúdo ideológico específico |
 | **Artefatos-chave** | [[03 artefatos/Tango|Tango]], [[03 artefatos/Meme|Meme]], feed algorítmico, documentário e encontros facilitados |
-| **Variáveis relacionadas** | [[02 variaveis/Ameaça percebida|Ameaça percebida]]; atenção, exposição, distância social e percepção de normas permanecem parcialmente fora do mapa atual |
+| **Variáveis relacionadas** | [[02 variaveis/Distância social|Distância social]], [[02 variaveis/Ameaça percebida|Ameaça percebida]]; atenção, exposição e percepção de normas permanecem parcialmente fora do mapa atual |
 | **Genealogias relacionadas** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] pode ganhar uma extensão política futura |
 
 ## Referências
