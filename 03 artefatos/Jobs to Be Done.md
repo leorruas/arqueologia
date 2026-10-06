@@ -120,7 +120,7 @@ Talvez seja por isso que uma boa formulação de Job se pareça tanto com uma vo
 | **Destino ou transformação posterior** | Diversificação em escolas qualitativas, quantitativas e híbridas aplicadas a inovação, produto, marketing e service design |
 | **Conceitos relacionados** | [[01 conceitos/Autodeterminacao|Autodeterminação]], [[01 conceitos/Intencao|Intenção]], [[01 conceitos/Formulacao|Formulação]], [[01 conceitos/Investigação|Investigação]], [[01 conceitos/Justificabilidade|Justificabilidade]] |
 | **Variáveis relacionadas** | [[02 variaveis/Atrito Decisorio|Atrito decisório]], [[02 variaveis/Custo de Busca|Custo de busca]], [[02 variaveis/Legitimidade Decisoria|Legitimidade decisória]] |
-| **Genealogia** | Artefatos de intenção, formulação e investigação |
+| **Genealogia** | [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]], por parentesco funcional e cognitivo; família de ideias: artefatos de intenção, formulação e investigação |
 | **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | [[03 artefatos/Brief|Brief]], [[03 artefatos/Pergunta de Pesquisa|Pergunta de pesquisa]], [[03 artefatos/Problema de Design|Problema de design]], [[03 artefatos/North Star|North Star]], [[03 artefatos/Hipótese Científica|Hipótese científica]], [[03 artefatos/Value Proposition Ad Lib|Value Proposition Ad Lib]], [[03 artefatos/Entrevista Qualitativa|Entrevista qualitativa]], [[03 artefatos/Pesquisa Quantitativa|Pesquisa quantitativa]], [[03 artefatos/Customer Journey Map|Customer Journey Map]] |
 | **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
