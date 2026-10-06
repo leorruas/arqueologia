@@ -106,7 +106,7 @@ A pergunta que a variável acrescenta ao projeto é: **o que este artefato faz p
 
 [^3]: Moore-Berg, Samantha L.; Ankori-Karlinsky, Lee-Or; Hameiri, Boaz; Bruneau, Emile. “Exaggerated meta-perceptions predict intergroup hostility between American political partisans.” *Proceedings of the National Academy of Sciences*, 117(26), 2020, pp. 14864–14872. [Acessar artigo em acesso aberto (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7334646/). DOI: `10.1073/pnas.2001263117`.
 
-[^4]: Lees, Jeffrey; Cikara, Mina. “Why partisans feel hated: Distinct static and dynamic relationships with animosity meta-perceptions.” *PNAS Nexus*, 3(10), 2024, pgae324. [Acessar artigo em acesso aberto (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11475464/). DOI: `10.1093/pnasnexus/pgae324`.
+[^4]: Lees, Jeffrey; Cikara, Mina; Druckman, James N. “Why partisans feel hated: Distinct static and dynamic relationships with animosity meta-perceptions.” *PNAS Nexus*, 3(10), 2024, pgae324. [Acessar artigo em acesso aberto (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11475464/). DOI: `10.1093/pnasnexus/pgae324`.
 
 [^5]: Brady, William J.; Doyle, Meriel; Elnakouri, Abdo; et al. “Redesigning algorithms to intervene on social norm misperceptions during a national election.” *Nature*, 655, 2026, pp. 942–956. [Acessar artigo na Nature](https://www.nature.com/articles/s41586-026-10536-1). DOI: `10.1038/s41586-026-10536-1`.
 
