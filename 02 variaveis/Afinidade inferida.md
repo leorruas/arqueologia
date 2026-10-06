@@ -22,6 +22,8 @@ No [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]]
 
 No X/Twitter, essa relação aparece em sinais como contas seguidas, Topics seguidos, posts curtidos pela pessoa, posts curtidos por sua rede e contas seguidas pela rede. A afinidade operacional pode ser construída tanto por vínculo direto quanto por proximidade social e padrões compartilhados.
 
+No [[03 artefatos/Feed Para Voce do TikTok|Feed Para Você do TikTok]], seguir cria uma evidência relacional explícita, mas não é a única fonte de afinidade. Curtir, compartilhar, comentar, assistir ou pesquisar conteúdos semelhantes também podem ajudar o sistema a inferir proximidade com temas e criadores. Sons e hashtags ajudam a descrever o objeto; a afinidade aparece quando esses descritores são relacionados ao histórico de uma pessoa.
+
 A variável permite observar esse descompasso. Uma pessoa pode visitar repetidamente um perfil por conflito, trabalho ou curiosidade e produzir rastros que o sistema interprete como afinidade. Da mesma forma, uma relação importante pode gerar pouco comportamento mensurável.
 
 Por isso, afinidade inferida não deve ser usada como sinônimo de amizade, preferência consciente ou identidade. Ela mede a força de uma relação **modelada para uma decisão computacional**.
@@ -42,7 +44,7 @@ Quanto mais esse valor influencia ranking, mais uma hipótese passada do sistema
 | **Como observar** | Scores de similaridade, probabilidade prevista de interação, histórico relacional e mudanças de ranking após novas interações |
 | **O que não mede sozinho** | Amizade, preferência consciente, satisfação, intenção ou identidade |
 | **Trade-offs principais** | Personaliza distribuição, mas pode reforçar interpretações antigas, ambíguas ou autoalimentadas do comportamento |
-| **Artefatos-chave** | [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]] |
+| **Artefatos-chave** | [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], [[03 artefatos/Feed algoritmico do X Twitter|Feed algorítmico do X/Twitter]], [[03 artefatos/Feed Para Voce do TikTok|Feed Para Você do TikTok]] |
 | **Conceitos relacionados** | [[01 conceitos/Engajamento em plataformas digitais|Engajamento em plataformas digitais]] |
 | **Genealogias relacionadas** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] |
 
