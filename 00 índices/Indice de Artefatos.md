@@ -83,6 +83,7 @@ Este índice organiza estudos publicados por campo de design. A classificação 
 - [[03 artefatos/Portfólio|Portfólio]]: seleção e ordenação de evidências para tornar capacidade e trajetória avaliáveis.
 - [[03 artefatos/Mentoria|Mentoria]]: tecnologia social de acesso a experiência contextualizada que pode ampliar capacidade de interpretação e ação.
 - [[03 artefatos/Tango|Tango]]: jogo cooperativo online que reorganiza encontro entre adversários políticos ao colocá-los numa tarefa mutuamente dependente.
+- [[03 artefatos/Voting Advice Application|Voting Advice Application]]: gramática de comparação que transforma respostas políticas do eleitor e posições de candidatos ou partidos em recomendação personalizada.
 
 ## Interfaces digitais e software
 
@@ -113,6 +114,7 @@ Este índice organiza estudos publicados por campo de design. A classificação 
 - [[03 artefatos/Temperatura e Criatividade|Temperatura e criatividade]]: traduz controle estatístico de variabilidade em categorias semânticas manipuláveis pelo usuário.
 - [[03 artefatos/LLM Wiki|LLM Wiki]]: síntese persistente mantida por LLM entre fontes brutas e consultas futuras.
 - [[03 artefatos/Tango|Tango]]: interface de pareamento, chat e cooperação que estrutura uma relação entre participantes.
+- [[03 artefatos/Voting Advice Application|Voting Advice Application]]: interface eleitoral que organiza perguntas, pesos e cálculo de afinidade para apoiar decisão de voto.
 
 ## Pistas ainda sem estudo publicado
 
