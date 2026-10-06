@@ -145,6 +145,10 @@ Isso cria uma tensão central para futuros estudos:
 
 Na prática, os dois podem se misturar. Uma pergunta também enquadra; uma seleção de fontes também exclui; uma comparação também escolhe critérios. O design nunca desaparece da investigação.
 
+A genealogia [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]] acrescenta uma exigência importante a essa frente: a estrutura pode começar pela experiência da própria pessoa e só depois reconstruir atribuição política. Uma possível **biografia política** seguiria a sequência experiência → política pública → atribuição → verificação → consequência → valor → identidade. O objetivo não é fazer a pessoa chegar a uma conclusão partidária específica, mas tornar explícito como acontecimentos vividos, políticas públicas e identidades foram conectados.
+
+Isso introduz a hipótese de **gramática verificável**. Se a pessoa atribui um efeito a determinado governo, partido ou política, o artefato deveria pedir também como essa atribuição pode ser checada, quem criou, ampliou ou implementou a medida e que evidência poderia corrigir a narrativa. Sem essa etapa, uma gramática de reflexão pode produzir apenas uma história mais elaborada para a preferência que já existia.
+
 ## Uma primeira matriz de mecanismos
 
 | Mecanismo | O que o design altera | Pergunta arqueológica |
@@ -157,6 +161,8 @@ Na prática, os dois podem se misturar. Uma pergunta também enquadra; uma sele�
 | Sequência | ordem de descoberta | O que muda quando a conclusão chega depois de pequenas etapas? |
 | Pergunta | agência inferencial | Quem parece ter descoberto a conclusão? |
 | Repetição social | percepção de presença e consenso | A mensagem parece importante porque é verdadeira ou porque está em toda parte? |
+| Biografia política | relação entre experiência vivida e atribuição política | Que decisões públicas atravessaram minha vida antes de eu transformá-las em identidade política? |
+| Verificação | possibilidade de revisar uma atribuição | Que evidência sustentaria, corrigiria ou desmontaria a história que acabei de produzir? |
 
 ## Ficha do conceito
 
