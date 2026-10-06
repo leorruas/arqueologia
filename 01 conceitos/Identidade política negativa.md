@@ -53,7 +53,7 @@ A pergunta de design que o conceito abre é precisa: **quais dispositivos transf
 | **O que ajuda a explicar** | Hostilidade persistente, fronteiras políticas e rejeição a eleitores associados ao outro lado |
 | **O que não explica sozinho** | Origem de toda aversão, voto, ideologia ou comportamento antidemocrático |
 | **Artefatos-chave** | [[03 artefatos/Apelido político|Apelido político]], [[03 artefatos/Tango|Tango]], [[03 artefatos/Meme|Meme]], [[03 artefatos/Pôster|Pôster]], símbolos, slogans e imagens políticas |
-| **Variáveis relacionadas** | Distância social e prototipicidade permanecem como possíveis eixos futuros |
+| **Variáveis relacionadas** | [[02 variaveis/Ameaça percebida|Ameaça percebida]], [[02 variaveis/Prototipicidade percebida|Prototipicidade percebida]]; distância social permanece como possível eixo futuro |
 | **Genealogias relacionadas** | Produção de identidade e dispositivos de delimitação permanecem em investigação |
 
 ## Referências
