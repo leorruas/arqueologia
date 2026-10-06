@@ -33,7 +33,7 @@ Cada uma dessas variáveis contém uma definição operacional diferente de suce
 
 Somar likes, comentários, compartilhamentos e tempo assistido pode ser útil operacionalmente, mas a soma sempre incorpora uma teoria sobre o que vale mais. Um comentário não é apenas um like mais forte; compartilhar redistribui conteúdo, salvar preserva possibilidade de retorno e permanecer pode ocorrer sem qualquer reação explícita.
 
-Por isso, este vault evita usar engajamento como variável única do tipo baixo ↔ alto. A palavra funciona melhor como conceito guarda-chuva para uma família de comportamentos e métricas. Quando uma análise precisar comparar situações, deve escolher a variável correspondente ao mecanismo investigado.
+Por isso, no Arqueologia do Design, engajamento não é usado como variável única do tipo baixo ↔ alto. A palavra funciona melhor como conceito guarda-chuva para uma família de comportamentos e métricas. Quando uma análise precisar comparar situações, deve escolher a variável correspondente ao mecanismo investigado.
 
 Essa escolha também torna visível o poder do sistema de ranking. Se a plataforma atribui pesos diferentes a ações diferentes, ela não apenas mede engajamento: participa da definição operacional de quais formas de resposta receberão mais oportunidade de produzir alcance.
 
