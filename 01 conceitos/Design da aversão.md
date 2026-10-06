@@ -75,7 +75,7 @@ A hipótese permanece aberta. Evidências de redução de [[01 conceitos/Polariz
 | **O que ajuda a explicar** | Como signos e sistemas tornam aversão recuperável, transmissível e operacional |
 | **O que não explica sozinho** | Origem causal de toda rejeição, mudança de voto ou qualidade democrática |
 | **Artefatos-chave** | [[03 artefatos/Apelido político|Apelido político]], [[03 artefatos/Tango|Tango]], [[03 artefatos/Meme|Meme]], [[03 artefatos/Pôster|Pôster]], post, carrossel, documentário, encontro facilitado, feed algorítmico |
-| **Variáveis relacionadas** | Saliência, exposição, distância social, prototipicidade e ameaça permanecem parcialmente fora do mapa atual |
+| **Variáveis relacionadas** | [[02 variaveis/Legibilidade da Mediacao Politica|Legibilidade da mediação política]]; saliência, exposição, distância social, prototipicidade e ameaça permanecem parcialmente fora do mapa atual |
 | **Genealogias relacionadas** | [[04 genealogias/Compressao do Esforco|Compressão do esforço]], [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] |
 
 ## Referências
