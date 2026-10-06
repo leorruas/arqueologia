@@ -18,7 +18,7 @@ A hipótese deriva de quatro literaturas que precisam permanecer separadas. [[01
 
 ## Como a rejeição ganha forma
 
-Aversão política precisa ser recuperável para influenciar repetidamente novas situações. Uma hipótese arqueológica é que muitos dispositivos executam uma operação de **compressão**: uma história longa, um conjunto de acusações, experiências e valores é condensado em um nome, rosto, cor, apelido, meme, frase, hashtag ou episódio exemplar. O signo funciona como acesso rápido a um arquivo maior de associações.
+Aversão política precisa ser recuperável para influenciar repetidamente novas situações. Uma hipótese arqueológica é que muitos dispositivos executam uma operação de **compressão**: uma história longa, um conjunto de acusações, experiências e valores é condensado em um nome, rosto, cor, apelido, meme, frase, hashtag ou episódio exemplar. O [[03 artefatos/Apelido político|apelido político]] materializa essa operação ao fundir referência e atributo numa unidade curta que pode circular como se fosse apenas um nome. O signo funciona como acesso rápido a um arquivo maior de associações.
 
 Essa operação aproxima o tema de [[01 conceitos/Design do Voto|Design do voto]] e de [[01 conceitos/Compressao do Esforco|Compressão do Esforço]]. O eleitor não reconstrói toda a cadeia argumentativa diante de cada nova peça. O artefato pode reativar uma estrutura já disponível. A repetição também pode aumentar saliência e familiaridade, enquanto formatos sociais como o [[03 artefatos/Meme|Meme]] tornam interpretações fáceis de circular e completar coletivamente.
 
@@ -44,11 +44,11 @@ A literatura disponível permite formular cinco famílias de dispositivos para i
 |---|---|---|---|
 | **Descompressão do protótipo** | comparação, card de distribuição, visualização de diversidade interna | percepção de homogeneidade e extremismo | correções podem ser pequenas e pouco duráveis |
 | **Reindividualização** | relato, entrevista, retrato, documentário, história pessoal | passagem de categoria abstrata para pessoa concreta | empatia local pode não generalizar para o grupo |
-| **Contato seguro** | encontro facilitado, conversa estruturada, atividade cooperativa | ansiedade, distância e atribuições hostis | efeitos podem desaparecer e participantes extremos podem evitar o contato |
+| **Contato seguro** | [[03 artefatos/Tango|Tango]], encontro facilitado, conversa estruturada, atividade cooperativa | ansiedade, distância e atribuições hostis | efeitos podem desaparecer e participantes extremos podem evitar o contato |
 | **Identidade sobreposta** | símbolo ou narrativa de pertencimento compartilhado | fronteira entre “nós” e “eles” | resultados dependem de contexto e do significado do pertencimento comum |
 | **Rebalanceamento da exposição** | ranking, curadoria, redução de amplificação de extremos | percepção de normas e frequência aparente do conflito | mudar exposição não equivale automaticamente a mudar preferência política |
 
-Há ainda evidência de que observar interações públicas calorosas entre lideranças rivais pode reduzir medidas de polarização afetiva.[^3] Em outra linha, tornar um pertencimento compartilhado mais saliente também reduziu polarização afetiva em experimentos conduzidos nos Estados Unidos.[^10] Esses resultados sugerem uma sexta operação possível: **modelagem de norma**. O artefato mostra que discordância e convivência podem coexistir, alterando aquilo que parece comportamento permitido ou esperado entre grupos. A generalização para outros contextos culturais permanece uma pergunta empírica.
+O [[03 artefatos/Tango|Tango]] oferece um caso particularmente útil porque transforma contato em cooperação: participantes de partidos adversários são colocados na mesma dupla para resolver um quiz, e os experimentos publicados encontraram redução de partidarismo negativo em medidas específicas.[^11] A interpretação do projeto é que a tarefa acrescenta ao rótulo “adversário” outra categoria operacional, “parceiro”, sem exigir mudança prévia de opinião.\n\nHá ainda evidência de que observar interações públicas calorosas entre lideranças rivais pode reduzir medidas de polarização afetiva.[^3] Em outra linha, tornar um pertencimento compartilhado mais saliente também reduziu polarização afetiva em experimentos conduzidos nos Estados Unidos.[^10] Esses resultados sugerem uma sexta operação possível: **modelagem de norma**. O artefato mostra que discordância e convivência podem coexistir, alterando aquilo que parece comportamento permitido ou esperado entre grupos. A generalização para outros contextos culturais permanece uma pergunta empírica.
 
 ## A reversão encontra a identidade
 
@@ -70,7 +70,7 @@ A hipótese permanece aberta. Evidências de redução de [[01 conceitos/Polariz
 | **Distinção central** | Rejeição política pode ser projetada e mantida por artefatos; reduzi-la exige identificar se o alvo é percepção, relação, identidade, exposição ou decisão |
 | **O que ajuda a explicar** | Como signos e sistemas tornam aversão recuperável, transmissível e operacional |
 | **O que não explica sozinho** | Origem causal de toda rejeição, mudança de voto ou qualidade democrática |
-| **Artefatos-chave** | [[03 artefatos/Meme|Meme]], [[03 artefatos/Pôster|Pôster]], post, carrossel, documentário, encontro facilitado, feed algorítmico |
+| **Artefatos-chave** | [[03 artefatos/Apelido político|Apelido político]], [[03 artefatos/Tango|Tango]], [[03 artefatos/Meme|Meme]], [[03 artefatos/Pôster|Pôster]], post, carrossel, documentário, encontro facilitado, feed algorítmico |
 | **Variáveis relacionadas** | Saliência, exposição, distância social, prototipicidade e ameaça permanecem parcialmente fora do mapa atual |
 | **Genealogias relacionadas** | [[04 genealogias/Compressao do Esforco|Compressão do esforço]], [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] |
 
@@ -86,3 +86,5 @@ A hipótese permanece aberta. Evidências de redução de [[01 conceitos/Polariz
 [^8]: Ankori-Karlinsky, Lee-Or; Blair, Robert A.; Gottlieb, Jessica; Moore-Berg, Samantha L. “Content that’s as good as contact? Vicarious intergroup contact and the promise of depolarization at scale.” *Political Science Research and Methods*, 2025. DOI: https://doi.org/10.1017/psrm.2025.10039
 [^9]: Brady, William J.; Doyle, Meriel; Elnakouri, Abdo; et al. “Redesigning algorithms to intervene on social norm misperceptions during a national election.” *Nature*, 655, 2026, pp. 942–956. DOI: https://doi.org/10.1038/s41586-026-10536-1
 [^10]: Levendusky, Matthew S. “Americans, Not Partisans: Can Priming American National Identity Reduce Affective Polarization?” *The Journal of Politics*, 80(1), 2018, pp. 59–70. DOI: https://doi.org/10.1086/693987
+
+[^11]: Woodley, Lucas; DeFilippis, Evan; Ravi, Shankar; Greene, Joshua D. “Defusing political animosity in the United States with a cooperative online quiz game.” *Nature Human Behaviour*, 9, 2025, pp. 1631–1644. DOI: https://doi.org/10.1038/s41562-025-02225-2
