@@ -111,6 +111,7 @@ Este índice organiza estudos publicados por campo de design. A classificação 
 - [[03 artefatos/Feed de Videos Curtos|Feed de vídeos curtos]]: fluxo vertical que integra consumo, descoberta e feedback, reduzindo o custo de experimentar e descartar o próximo vídeo.
 - [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]]: ranking personalizado que transforma rastros de interação em critérios de visibilidade e descoberta.
 - [[03 artefatos/Feed algoritmico do X Twitter|Feed algorítmico do X/Twitter]]: ranking que transforma um fluxo em tempo real em uma versão personalizada do presente e amplia descoberta para além das contas seguidas.
+- [[03 artefatos/Feed Para Voce do TikTok|Feed Para Você do TikTok]]: sistema de descoberta em que consumo, rejeição e recomendação formam um circuito contínuo antes mesmo de existir uma rede extensa de contas seguidas.
 - [[03 artefatos/Trending Topics do X Twitter|Trending Topics do X/Twitter]]: sistema que detecta assuntos emergentes e depois decide quais Trends mostrar segundo contexto, localização e interesse.
 - [[03 artefatos/Slide to Unlock|Slide to Unlock]]: gesto deliberado de travessia entre estados do dispositivo.
 - [[03 artefatos/Pinch to Zoom|Pinch to Zoom]]: gesto contínuo de manipulação de escala.
