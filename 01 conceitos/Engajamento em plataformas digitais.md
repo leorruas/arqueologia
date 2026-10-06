@@ -13,7 +13,7 @@ tags:
 
 Duas pessoas podem produzir o mesmo número de interações e ainda manter relações muito diferentes com uma plataforma. Uma pode assistir longamente sem clicar; outra pode curtir rapidamente dezenas de posts; uma terceira pode compartilhar pouco, mas fazer cada conteúdo atravessar sua rede social. A palavra **engajamento** costuma reunir esses comportamentos como se fossem uma única quantidade.
 
-A literatura não sustenta bem essa simplificação. Uma revisão sistemática de Trunfio e Rossi descreve o engajamento em mídias sociais como um construto polissêmico e multidimensional e mostra que métricas comportamentais, como likes, comentários e compartilhamentos, são usadas com frequência como proxies do fenômeno mais amplo.[^1] Neste vault, o conceito é usado de forma deliberadamente restrita: **engajamento é o conjunto de relações observáveis e inferidas entre pessoa, conteúdo e plataforma que podem produzir sinais comportamentais para medição ou recomendação**.
+A literatura não sustenta bem essa simplificação. Uma revisão sistemática de Trunfio e Rossi descreve o engajamento em mídias sociais como um construto polissêmico e multidimensional e mostra que métricas comportamentais, como likes, comentários e compartilhamentos, são usadas com frequência como proxies do fenômeno mais amplo.[^1] No Arqueologia do Design, o conceito é usado de forma deliberadamente restrita: **engajamento é o conjunto de relações observáveis e inferidas entre pessoa, conteúdo e plataforma que podem produzir sinais comportamentais para medição ou recomendação**.
 
 Isso preserva uma distinção importante. Engajamento vivido, interesse, satisfação e valor percebido não são diretamente observáveis pelo sistema. O que a plataforma possui são rastros.
 
