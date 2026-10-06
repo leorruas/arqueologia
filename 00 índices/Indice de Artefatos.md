@@ -34,6 +34,7 @@ Este índice organiza estudos publicados por campo de design. A classificação 
 ## Design gráfico e comunicação visual
 
 - [[03 artefatos/Pôster|Pôster]]: superfície pública de síntese visual e disputa de atenção.
+- [[03 artefatos/Fotografia|Fotografia]]: vestígio visual transportável que separa a imagem do acontecimento e a faz circular entre memória, prova, comunicação e interpretação.
 - [[03 artefatos/Meme|Meme]]: estrutura cultural remixável que combina reconhecimento, variação e produção distribuída de sentido.
 - [[03 artefatos/Apelido político|Apelido político]]: rótulo que funde referência e avaliação numa unidade curta, memorável e recirculável.
 - [[03 artefatos/Clip político|Clip político]]: recorte audiovisual que comprime uma sequência extensa em fragmento portátil e reenquadrável.
