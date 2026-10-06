@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-10-06T09:45:05.638Z",
+  "generatedAt": "2026-10-06T09:49:33.926Z",
   "scope": "Integração do grafo: títulos duplicados dentro da mesma camada, índices, home, reciprocidade estrutural, tipos de design e nós órfãos. Conceitos e variáveis não exigem backlink exaustivo.",
-  "issueCount": 20,
+  "issueCount": 17,
   "countsByKind": {
-    "missing-from-index": 8,
+    "missing-from-index": 3,
+    "missing-from-home": 1,
     "missing-reciprocal-link": 9,
+    "orphan-node": 1,
     "design-type-drift": 3
   },
   "issues": [
@@ -16,31 +18,7 @@
     },
     {
       "kind": "missing-from-index",
-      "sourcePath": "01 conceitos/Design da aversão.md",
-      "targetPath": "00 índices/Indice de Conceitos.md",
-      "detail": "Arquivo não aparece em 00 índices/Indice de Conceitos.md."
-    },
-    {
-      "kind": "missing-from-index",
-      "sourcePath": "01 conceitos/Identidade política negativa.md",
-      "targetPath": "00 índices/Indice de Conceitos.md",
-      "detail": "Arquivo não aparece em 00 índices/Indice de Conceitos.md."
-    },
-    {
-      "kind": "missing-from-index",
       "sourcePath": "01 conceitos/Mitologias da IA.md",
-      "targetPath": "00 índices/Indice de Conceitos.md",
-      "detail": "Arquivo não aparece em 00 índices/Indice de Conceitos.md."
-    },
-    {
-      "kind": "missing-from-index",
-      "sourcePath": "01 conceitos/Partidarismo negativo.md",
-      "targetPath": "00 índices/Indice de Conceitos.md",
-      "detail": "Arquivo não aparece em 00 índices/Indice de Conceitos.md."
-    },
-    {
-      "kind": "missing-from-index",
-      "sourcePath": "01 conceitos/Polarização afetiva.md",
       "targetPath": "00 índices/Indice de Conceitos.md",
       "detail": "Arquivo não aparece em 00 índices/Indice de Conceitos.md."
     },
@@ -51,10 +29,10 @@
       "detail": "Arquivo não aparece em 00 índices/Indice de Conceitos.md."
     },
     {
-      "kind": "missing-from-index",
-      "sourcePath": "01 conceitos/Voto negativo.md",
-      "targetPath": "00 índices/Indice de Conceitos.md",
-      "detail": "Arquivo não aparece em 00 índices/Indice de Conceitos.md."
+      "kind": "missing-from-home",
+      "sourcePath": "04 genealogias/Gramaticas Produtivas.md",
+      "targetPath": "index.md",
+      "detail": "Genealogia ou percurso publicado não aparece no index.md."
     },
     {
       "kind": "missing-reciprocal-link",
@@ -109,6 +87,12 @@
       "sourcePath": "03 artefatos/Portfólio.md",
       "targetPath": "04 genealogias/Permanencia e Memoria Externa.md",
       "detail": "A ficha liga para 04 genealogias/Permanencia e Memoria Externa.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "orphan-node",
+      "sourcePath": "04 genealogias/Gramaticas Produtivas.md",
+      "targetPath": null,
+      "detail": "Nota sem links de entrada a partir do acervo auditado."
     },
     {
       "kind": "design-type-drift",
