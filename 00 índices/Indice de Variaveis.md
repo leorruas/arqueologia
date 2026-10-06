@@ -22,6 +22,7 @@ Variáveis são eixos usados para comparar o efeito de decisões de design. Elas
 - [[02 variaveis/Legitimidade Decisoria|Legitimidade Decisória]]: **baixa ↔ alta capacidade de justificar, compreender e contestar uma decisão**.
 - [[02 variaveis/Permanencia|Permanência]]: **efêmero ↔ persistente** no espaço ou no tempo.
 - [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]]: **baixa ↔ alta capacidade de antecipar localização, hierarquia ou comportamento visual**.
+- [[02 variaveis/Prototipicidade percebida|Prototipicidade percebida]]: **baixa ↔ alta percepção de que uma pessoa, comportamento ou caso representa uma categoria ou grupo**.
 - [[02 variaveis/Reversibilidade|Reversibilidade]]: **irreversível ↔ facilmente reversível**.
 - [[02 variaveis/Reversibilidade representacional|Reversibilidade representacional]]: **representação rígida ↔ representação revisável** diante de informação nova, contraditória ou individuante.
 - [[02 variaveis/Variabilidade|Variabilidade]]: **estável ↔ altamente variável** nas condições ou resultados de operação.
