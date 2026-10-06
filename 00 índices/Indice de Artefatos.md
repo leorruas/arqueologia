@@ -86,6 +86,8 @@ Este índice organiza estudos publicados por campo de design. A classificação 
 - [[03 artefatos/Voting Advice Application|Voting Advice Application]]: gramática de comparação que transforma respostas políticas do eleitor e posições de candidatos ou partidos em recomendação personalizada.
 - [[03 artefatos/Biografia política|Biografia política]]: gramática experimental que reconstrói experiências, mediações públicas e valores para produzir critérios eleitorais verificáveis.
 - [[03 artefatos/Mapa pessoal de valores políticos|Mapa pessoal de valores políticos]]: estrutura experimental que explicita valores, conflitos e prioridades pessoais antes da comparação entre candidaturas.
+- [[03 artefatos/Jobs to Be Done eleitoral|Jobs to Be Done eleitoral]]: adaptação experimental que formula o progresso político buscado antes de estabilizar candidato ou solução.
+- [[03 artefatos/Teste de simetria eleitoral|Teste de simetria eleitoral]]: contraprova experimental que troca a identidade política do ator para testar a consistência do critério de julgamento.
 
 ## Interfaces digitais e software
 
