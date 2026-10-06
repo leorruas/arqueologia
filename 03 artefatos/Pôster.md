@@ -133,7 +133,7 @@ A pergunta que fica para o presente é se a migração da parede compartilhada p
 | **Variáveis relacionadas** | [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Previsibilidade Visual|Previsibilidade visual]], [[02 variaveis/Permanencia|Permanência]] |
 | **Genealogia** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]], [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] |
 | **Percurso(s)** | [[05 percursos/Da Parede ao Feed|Da Parede ao Feed]], [[05 percursos/Da Parede ao Interlocutor|Da Parede ao Interlocutor]] |
-| **Parentes** | [[03 artefatos/Hero Section|Hero section]], [[03 artefatos/Grid|Grid]], [[03 artefatos/Apelido político|Apelido político]], [[03 artefatos/Projetor|Projetor]], [[03 artefatos/Fila|Fila]], [[03 artefatos/Tapete|Tapete]]; outdoor, mural, sinalização, banner digital, thumbnail, post social e interface conversacional |
+| **Parentes** | [[03 artefatos/Hero Section|Hero section]], [[03 artefatos/Gancho de abertura|Gancho de abertura]], [[03 artefatos/Grid|Grid]], [[03 artefatos/Apelido político|Apelido político]], [[03 artefatos/Projetor|Projetor]], [[03 artefatos/Fila|Fila]], [[03 artefatos/Tapete|Tapete]]; outdoor, mural, sinalização, banner digital, thumbnail, post social e interface conversacional |
 | **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
 | **Princípio de design revelado** | Alterar a camada simbólica sobre uma estrutura física pode transformar o uso e a percepção do espaço sem reconstruí-lo; superfícies comprimem sistemas ausentes em sinais manipuláveis |
 | **Questão em aberto** | O que muda quando superfícies que antes apenas apresentavam mensagens passam a responder às perguntas de cada observador? |
