@@ -14,11 +14,11 @@ Curtir registra uma reação no lugar em que o conteúdo já apareceu. Compartil
 
 **Eixo:** baixa ↔ alta redistribuição entre pessoas.
 
-A variável pode ser observada por compartilhamentos, envios, reposts, retweets e taxas derivadas dessas ações. Ela descreve circulação, não aprovação. Uma pessoa pode compartilhar algo para elogiar, criticar, alertar, ridicularizar ou simplesmente mostrar a alguém.
+A variável pode ser observada por compartilhamentos, envios, reposts, retweets e taxas derivadas dessas ações. No X/Twitter, repostar aparece tanto na documentação atual como interação usada para treinar o For You quanto no snapshot aberto de 2023 como uma das probabilidades previstas pelo ranker. Ela descreve circulação, não aprovação. Uma pessoa pode compartilhar algo para elogiar, criticar, alertar, ridicularizar ou simplesmente mostrar a alguém.
 
 ## Distribuição vira comportamento do usuário
 
-No [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], compartilhar ou enviar pode funcionar ao mesmo tempo como ação social e como sinal para previsões futuras de ranking. Isso transforma parte da distribuição em comportamento medido pela própria plataforma.
+No [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], [[03 artefatos/Feed algoritmico do X Twitter|Feed algorítmico do X/Twitter]], compartilhar ou enviar pode funcionar ao mesmo tempo como ação social e como sinal para previsões futuras de ranking. Isso transforma parte da distribuição em comportamento medido pela própria plataforma.
 
 A literatura de difusão mostra que propriedades do conteúdo se associam a diferenças de propagação. Berger e Milkman encontraram que [[02 variaveis/Valência emocional|valência emocional]] se relacionava ao compartilhamento no conjunto estudado, mas também mostraram que positivo versus negativo não bastava para explicar circulação: estados de maior [[02 variaveis/Ativação emocional|ativação emocional]] tinham comportamento distinto mesmo dentro da mesma direção afetiva.[^1] Duas replicações preregistradas de 2024, porém, não encontraram efeito causal de ativação fisiológica incidental sobre disposição de compartilhar; por isso, o vínculo entre ativação e propagação deve permanecer contextual, não universal.[^3] Em comunicação política, trabalhos de Brady e colegas encontraram associação entre linguagem moral-emocional e maior difusão; uma replicação e meta-análise posterior encontrou efeito positivo em múltiplos conjuntos de dados e plataformas.[^2]
 
