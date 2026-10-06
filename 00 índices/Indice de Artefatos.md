@@ -84,6 +84,8 @@ Este índice organiza estudos publicados por campo de design. A classificação 
 - [[03 artefatos/Mentoria|Mentoria]]: tecnologia social de acesso a experiência contextualizada que pode ampliar capacidade de interpretação e ação.
 - [[03 artefatos/Tango|Tango]]: jogo cooperativo online que reorganiza encontro entre adversários políticos ao colocá-los numa tarefa mutuamente dependente.
 - [[03 artefatos/Voting Advice Application|Voting Advice Application]]: gramática de comparação que transforma respostas políticas do eleitor e posições de candidatos ou partidos em recomendação personalizada.
+- [[03 artefatos/Biografia política|Biografia política]]: gramática experimental que reconstrói experiências, mediações públicas e valores para produzir critérios eleitorais verificáveis.
+- [[03 artefatos/Mapa pessoal de valores políticos|Mapa pessoal de valores políticos]]: estrutura experimental que explicita valores, conflitos e prioridades pessoais antes da comparação entre candidaturas.
 
 ## Interfaces digitais e software
 
