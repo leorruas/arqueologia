@@ -61,6 +61,8 @@ O badge mostra que essa borda também pode funcionar no sentido contrário. O us
 
 Isso aproxima interface de design gráfico. Hierarquia, escala e composição não servem apenas para embelezar uma superfície, mas para reduzir o custo de descobrir o que aquela superfície espera do usuário.
 
+A organização de feeds mostra que estados legíveis não são a única forma de poder da interface. O sistema também pode ordenar aquilo que parece mais presente. A hipótese de [[01 conceitos/Design da aversão|Design da aversão]] conecta esse problema à política: critérios de ranking e curadoria podem alterar a exposição a conflito e, com isso, participar da percepção de normas e da [[01 conceitos/Polarização afetiva|polarização afetiva]]. Essa relação precisa ser distinguida de persuasão direta e mudança de voto.
+
 ## A linguagem natural reabre o problema da interface
 
 O [[03 artefatos/Prompt Conversacional|Prompt conversacional]] parece quebrar essa tradição porque substitui repertórios explícitos por uma caixa aberta. Em vez de escolher entre ações previamente representadas, a pessoa formula o que deseja em linguagem.
@@ -89,7 +91,7 @@ Para observar a passagem de comando para ação visível, leia [[03 artefatos/Cu
 
 Para interfaces gestuais, [[03 artefatos/Pinch to Zoom|Pinch to Zoom]], [[03 artefatos/Slide to Unlock|Slide to Unlock]] e [[03 artefatos/Pull to Refresh|Pull to Refresh]] mostram como convenções podem desaparecer dentro do corpo. [[03 artefatos/Hero Section|Hero section]] ajuda a observar a interface como limiar e enquadramento antes da ação.
 
-[[03 artefatos/Prompt Conversacional|Prompt conversacional]] e [[05 percursos/Da Parede ao Interlocutor|Da parede ao interlocutor]] ajudam a enxergar a mudança atual de superfície operável para superfície que parece interlocutora. [[04 genealogias/Reversibilidade e Custo do Erro|Reversibilidade e custo do erro]], [[04 genealogias/Limiares e Delimitacao|Limiares e delimitação]], [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] e [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] mostram famílias de problemas que atravessam a história da interface sem depender de uma tecnologia específica.
+[[03 artefatos/Prompt Conversacional|Prompt conversacional]] e [[05 percursos/Da Parede ao Interlocutor|Da parede ao interlocutor]] ajudam a enxergar a mudança atual de superfície operável para superfície que parece interlocutora. [[04 genealogias/Reversibilidade e Custo do Erro|Reversibilidade e custo do erro]], [[04 genealogias/Limiares e Delimitacao|Limiares e delimitação]], [[04 genealogias/Permanencia e Memoria Externa|Permanência e memória externa]] e [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] mostram famílias de problemas que atravessam a história da interface sem depender de uma tecnologia específica. [[01 conceitos/Design da aversão|Design da aversão]] abre uma aplicação política dessa última genealogia ao tratar ranking e curadoria como dispositivos de exposição.
 
 ## Referências
 
