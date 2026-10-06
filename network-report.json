@@ -1,17 +1,23 @@
 {
-  "generatedAt": "2026-10-06T10:26:08.426Z",
+  "generatedAt": "2026-10-06T10:27:19.345Z",
   "scope": "Integração do grafo: títulos duplicados dentro da mesma camada, índices, home, reciprocidade estrutural, tipos de design e nós órfãos. Conceitos e variáveis não exigem backlink exaustivo.",
-  "issueCount": 25,
+  "issueCount": 32,
   "countsByKind": {
-    "missing-from-index": 4,
-    "missing-reciprocal-link": 15,
+    "missing-from-index": 5,
+    "missing-reciprocal-link": 19,
     "orphan-node": 1,
-    "design-type-drift": 5
+    "design-type-drift": 7
   },
   "issues": [
     {
       "kind": "missing-from-index",
       "sourcePath": "03 artefatos/Clip político.md",
+      "targetPath": "00 índices/Indice de Artefatos.md",
+      "detail": "Arquivo não aparece em 00 índices/Indice de Artefatos.md."
+    },
+    {
+      "kind": "missing-from-index",
+      "sourcePath": "03 artefatos/Entrevista longa.md",
       "targetPath": "00 índices/Indice de Artefatos.md",
       "detail": "Arquivo não aparece em 00 índices/Indice de Artefatos.md."
     },
@@ -107,6 +113,30 @@
     },
     {
       "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Entrevista longa.md",
+      "targetPath": "00 tipos de design/Design de Servicos.md",
+      "detail": "A ficha liga para 00 tipos de design/Design de Servicos.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Entrevista longa.md",
+      "targetPath": "00 tipos de design/Design de Interface.md",
+      "detail": "A ficha liga para 00 tipos de design/Design de Interface.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Entrevista longa.md",
+      "targetPath": "04 genealogias/Compressao do Esforco.md",
+      "detail": "A ficha liga para 04 genealogias/Compressao do Esforco.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
+      "sourcePath": "03 artefatos/Entrevista longa.md",
+      "targetPath": "05 percursos/Da Parede ao Feed.md",
+      "detail": "A ficha liga para 05 percursos/Da Parede ao Feed.md, mas a nota relacionada não devolve o vínculo."
+    },
+    {
+      "kind": "missing-reciprocal-link",
       "sourcePath": "03 artefatos/Feed de Videos Curtos.md",
       "targetPath": "00 tipos de design/Design de Interface.md",
       "detail": "A ficha liga para 00 tipos de design/Design de Interface.md, mas a nota relacionada não devolve o vínculo."
@@ -125,7 +155,7 @@
     },
     {
       "kind": "orphan-node",
-      "sourcePath": "03 artefatos/Clip político.md",
+      "sourcePath": "03 artefatos/Entrevista longa.md",
       "targetPath": null,
       "detail": "Nota sem links de entrada a partir do acervo auditado."
     },
@@ -155,9 +185,21 @@
     },
     {
       "kind": "design-type-drift",
+      "sourcePath": "03 artefatos/Entrevista longa.md",
+      "targetPath": "00 tipos de design/Design de Interface.md",
+      "detail": "Artefato declara 00 tipos de design/Design de Interface.md, mas o tipo de design não o referencia."
+    },
+    {
+      "kind": "design-type-drift",
       "sourcePath": "03 artefatos/Feed de Videos Curtos.md",
       "targetPath": "00 tipos de design/Design de Interface.md",
       "detail": "Artefato declara 00 tipos de design/Design de Interface.md, mas o tipo de design não o referencia."
+    },
+    {
+      "kind": "design-type-drift",
+      "sourcePath": "03 artefatos/Entrevista longa.md",
+      "targetPath": "00 tipos de design/Design de Servicos.md",
+      "detail": "Artefato declara 00 tipos de design/Design de Servicos.md, mas o tipo de design não o referencia."
     }
   ]
 }
