@@ -75,6 +75,18 @@ A presença aqui não obriga a criação de uma nota. Cada pista deve ser avalia
 - **Carrossel político**: estudar sequência, revelação progressiva e pequenos compromissos sucessivos de atenção em comunicação política. Perguntar como a ordem dos slides altera enquadramento, compreensão e possibilidade de verificação.
 - **Post político como objeto social**: investigar como autor, comentários, métricas, compartilhamentos e contexto de rede participam do significado de uma peça que, isolada como imagem, teria outra leitura.
 
+## Aversão política e reabertura
+
+- **Caricatura política como dispositivo de aversão**: investigar quando exagero visual deixa de satirizar uma ação e passa a fixar um protótipo inteiro de candidato, partido ou grupo.
+- **Apelido político**: estudar a compressão de uma interpretação extensa em um rótulo curto e repetível, incluindo sua capacidade de sobreviver ao contexto que lhe deu origem.
+- **Contraprova visual de estereótipos**: investigar cards, gráficos e comparações que mostram diversidade interna de um grupo político. Separar mudança de percepção, distância social e voto; a literatura recente questiona durabilidade e escala das correções.
+- **Contato vicário**: estudar documentário, vídeo e relato em que o público observa pessoas de grupos políticos rivais conversando ou cooperando. Perguntar o que da experiência de contato pode ser transportado pela mídia.
+- **Interação pública entre adversários**: investigar fotografia, debate, entrevista conjunta, cumprimento e outras cenas em que lideranças rivais modelam convivência sem apagar desacordo.
+- **Identidade sobreposta**: investigar símbolos e narrativas que tornam uma categoria compartilhada mais saliente que a fronteira partidária. Evitar presumir que símbolos nacionais funcionem igualmente em contextos diferentes.
+- **Ranking de feed como dispositivo político**: investigar como critérios de ordenação alteram a frequência aparente de conflito, extremismo e hostilidade, distinguindo arquitetura de exposição de conteúdo individual.
+- **Durabilidade da despolarização**: tratar permanência do efeito como problema de design. Uma intervenção pode melhorar calor afetivo no encontro e desaparecer semanas depois; investigar repetição, manutenção e dependência de contexto.
+- **Reindividualização**: hipótese do projeto sobre dispositivos que devolvem biografia, variação e contradição a pessoas reduzidas a um protótipo político. Ainda não justifica nota própria.
+
 ## Pistas transversais
 
 - **Etiqueta**: estudar como um objeto passa a carregar informação sobre si mesmo e como classificação, preço, origem ou instrução podem viajar junto com ele.
