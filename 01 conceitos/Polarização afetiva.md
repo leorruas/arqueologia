@@ -32,7 +32,7 @@ Uma revisão de intervenções para reduzir animosidade partidária propõe trê
 
 Essa arquitetura oferece uma ponte para [[01 conceitos/Design da aversão|Design da aversão]]. A interface, o conteúdo ou o serviço podem intervir em escalas diferentes. Um card comparativo opera sobre crenças. Um encontro facilitado opera sobre relações. Um algoritmo de ranking opera sobre a ecologia de exposição.
 
-O estudo de 2026 de William Brady e colegas torna essa última escala particularmente concreta. Em um experimento de oito semanas com feeds do Bluesky, ranking por engajamento aumentou exposição a conteúdo intergrupal, moralizado e emocional e elevou a percepção de animosidade partidária. Um algoritmo que reduzia a influência de usuários extremos diminuiu conteúdo tóxico e melhorou a precisão de normas percebidas sem reduzir o prazer declarado de uso.[^6] O resultado diz mais sobre arquitetura de exposição e percepção de normas do que sobre mudança de preferência política.
+O estudo de 2026 de William Brady e colegas torna essa última escala particularmente concreta. Em um experimento de oito semanas com feeds do Bluesky, ranking por engajamento aumentou exposição a conteúdo intergrupal, moralizado e emocional e elevou a percepção de animosidade partidária. Um algoritmo que reduzia a influência de usuários extremos diminuiu conteúdo tóxico e melhorou a precisão de normas percebidas sem reduzir o prazer declarado de uso.[^6] O resultado diz mais sobre arquitetura de exposição e [[02 variaveis/Normatividade percebida da hostilidade|normatividade percebida da hostilidade]] do que sobre mudança de preferência política.
 
 A [[02 variaveis/Ameaça percebida|ameaça percebida]] é um possível antecedente da hostilidade intergrupal, mas deve permanecer separada da própria polarização afetiva. Pessoas podem avaliar o outro grupo negativamente sem percebê-lo como ameaça, e diferentes tipos de ameaça podem se relacionar de formas distintas com [[02 variaveis/Distância social|distância social]] e animosidade.
 
@@ -55,7 +55,7 @@ Para o design, a pergunta útil é: **qual parte da distância é produzida pelo
 | **O que ajuda a explicar** | Hostilidade, confiança, distância social, cooperação e percepção do outro lado |
 | **O que não explica sozinho** | Voto, apoio à democracia, violência política ou conteúdo ideológico específico |
 | **Artefatos-chave** | [[03 artefatos/Tango|Tango]], [[03 artefatos/Meme|Meme]], feed algorítmico, documentário e encontros facilitados |
-| **Variáveis relacionadas** | [[02 variaveis/Distância social|Distância social]], [[02 variaveis/Ameaça percebida|Ameaça percebida]]; atenção, exposição e percepção de normas permanecem parcialmente fora do mapa atual |
+| **Variáveis relacionadas** | [[02 variaveis/Normatividade percebida da hostilidade|Normatividade percebida da hostilidade]], [[02 variaveis/Distância social|Distância social]], [[02 variaveis/Ameaça percebida|Ameaça percebida]]; atenção e exposição permanecem parcialmente fora do mapa atual |
 | **Genealogias relacionadas** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] pode ganhar uma extensão política futura |
 
 ## Referências
