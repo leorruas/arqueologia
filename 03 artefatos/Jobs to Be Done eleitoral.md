@@ -125,7 +125,7 @@ A pergunta deixa então de ser “qual candidato realiza meu Job?” e passa a s
 | **Futuro tornado mais provável** | Ferramentas de decisão que começam por intenção e progresso antes de apresentar opções eleitorais |
 | **Descendentes possíveis** | Perguntas de comparação em [[03 artefatos/Voting Advice Application|Voting Advice Application]] orientada pelo eleitor |
 | **Novo problema produzido pelo sucesso** | Vários Jobs podem entrar em conflito e exigir uma segunda gramática para priorização e compromisso |
-| **Conceitos relacionados** | [[01 conceitos/Design do Voto|Design do voto]], [[01 conceitos/Intencao|Intenção]], [[01 conceitos/Investigação|Investigação]] |
+| **Conceitos relacionados** | [[01 conceitos/Design do Voto|Design do voto]], [[01 conceitos/Intenção|Intenção]], [[01 conceitos/Investigação|Investigação]] |
 | **Variáveis relacionadas** | [[02 variaveis/Agencia Inferencial|Agência inferencial]], [[02 variaveis/Atrito Decisorio|Atrito decisório]], [[02 variaveis/Reversibilidade representacional|Reversibilidade representacional]] |
 | **Genealogia** | [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]] |
 | **Percurso(s)** | Ainda não integrado a percurso específico |
