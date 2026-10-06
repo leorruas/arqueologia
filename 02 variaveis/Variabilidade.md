@@ -16,6 +16,8 @@ Uma garrafa térmica tenta manter temperatura estável. Um feed social pode apre
 
 A variável não é sinônimo de imprevisibilidade. Algo pode variar muito e ainda variar segundo regras conhecidas; pode variar pouco e continuar difícil de antecipar.
 
+Ela também deve ser separada de [[02 variaveis/Prototipicidade percebida|Prototipicidade percebida]]. Variabilidade descreve quanto uma condição, estado ou resultado muda entre ocorrências. Prototipicidade percebida descreve quanto um caso concreto é visto como representativo de uma categoria. Um grupo pode ser internamente muito variável e ainda ter alguns membros percebidos como altamente prototípicos.
+
 ## Estabilizar é uma forma de design
 
 [[03 artefatos/Garrafa de Agua|Garrafa de água]] é um caso material claro. Em recipientes térmicos, parte do valor está em reduzir quanto a temperatura do líquido acompanha o ambiente durante determinado período.
