@@ -15,6 +15,8 @@ A mudança parecia resolver um problema de abundância. Segundo o anúncio da é
 
 Essa escolha altera algo maior que a ordem dos posts. A posição de uma publicação deixa de depender principalmente de quando ela entrou na fila e passa a depender de uma inferência sobre quem está olhando. Relevância torna-se uma previsão personalizada.
 
+O relógio, porém, não desapareceu do sistema. Seu papel mudou. Num feed cronológico, o momento da publicação determinava diretamente sua posição na fila. Num feed ranqueado, o horário pode afetar as condições em que uma publicação começa a circular: quantas pessoas potencialmente interessadas estão presentes, quão rapidamente surgem interações e quanta recência o conteúdo ainda possui quando compete com outros candidatos.[^18] Isso ajuda a explicar por que diferentes horários ainda podem produzir desempenhos diferentes sem que exista um “melhor horário” universal. A temporalidade deixa de funcionar como regra única de ordenação e passa a participar do conjunto de sinais e condições que influenciam a distribuição.
+
 ## Quando o relógio perdeu o comando
 
 O Instagram foi lançado em 2010 com um fluxo cronológico de fotos. A plataforma documenta retrospectivamente essa fase ao explicar que o crescimento do volume de conteúdo tornou cada vez mais difícil acompanhar tudo o que era publicado pelas contas seguidas.[^2] Em março de 2016, anunciou que começaria a reorganizar o feed segundo a probabilidade de interesse, a relação entre as pessoas e a atualidade do post; em junho daquele ano, a mudança foi distribuída amplamente.[^1]
