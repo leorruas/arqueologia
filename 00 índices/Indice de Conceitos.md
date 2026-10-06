@@ -29,6 +29,8 @@ Este índice separa conceitos pela procedência intelectual. A distinção não 
 
 ## Adaptações para a arqueologia do design
 
+- [[01 conceitos/Feedback negativo em recomendação|Feedback negativo em recomendação]]: distingue rejeição explícita de rejeição implícita em sistemas que aprendem também com afastamento, skips e controles como “Não tenho interesse”.
+
 Estas notas reaproveitam ideias existentes, mas lhes dão uma função específica dentro deste projeto:
 
 - [[01 conceitos/Autonomia da Atencao|Autonomia da Atenção]]: usa discussões sobre atenção e autonomia para perguntar quem governa o foco.
