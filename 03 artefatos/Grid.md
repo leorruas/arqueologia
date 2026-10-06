@@ -101,7 +101,7 @@ Essa talvez seja sua principal contribuição histórica: transformar restriçã
 | **Destino ou transformação posterior** | Tornou-se tão incorporado à prática editorial e digital que frequentemente permanece invisível sob o conteúdo Legado: Sistemas editoriais, identidades, design systems e layouts digitais baseados em regras espaciais |
 | **Conceitos relacionados** | [[01 conceitos/Design Systems|Design Systems]], [[01 conceitos/Redução de Inferências|Redução de Inferências]], [[01 conceitos/Compressao do Esforco|Compressão do Esforço]] |
 | **Variáveis relacionadas** | [[02 variaveis/Previsibilidade Visual|Previsibilidade Visual]], [[02 variaveis/Atencao|Atenção]], [[02 variaveis/Custo Transacional|Custo Transacional]] |
-| **Genealogia** | [[04 genealogias/Compressao do Esforco|Compressão do esforço]], [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]] Família de ideias: Tecnologias de diagramação e regras espaciais |
+| **Genealogia** | [[04 genealogias/Compressao do Esforco|Compressão do esforço]], [[04 genealogias/Coordenacao e Sincronizacao|Coordenação e sincronização]], [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]]; família de ideias: tecnologias de diagramação e regras espaciais |
 | **Percurso(s)** | Ainda não integrado a um percurso editorial. |
 | **Parentes** | [[03 artefatos/Fila|Fila]], [[03 artefatos/Pôster|Pôster]], malhas de pintura, planos urbanos ortogonais, sistemas de layout digital |
 | **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
