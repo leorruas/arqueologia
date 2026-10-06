@@ -26,6 +26,8 @@ No X/Twitter, recência é especialmente estrutural porque a timeline histórica
 
 Nos [[03 artefatos/Trending Topics do X Twitter|Trending Topics do X/Twitter]], recência aparece em outra escala: a plataforma tenta identificar conversas populares agora, em vez de temas que permaneceram populares por períodos mais longos ou diariamente. A proximidade temporal é condição importante, mas continua insuficiente sem volume e ritmo de crescimento.
 
+No [[03 artefatos/Feed Para Voce do TikTok|Feed Para Você do TikTok]], recência aparece como contexto regional: o TikTok já explicou algumas recomendações pela presença de conteúdo publicado recentemente na região. Isso mostra que tempo pode participar da oportunidade de exposição mesmo quando o feed não é cronológico. A recência continua sendo uma condição entre várias e não uma garantia de distribuição.
+
 Recência também deve ser separada de [[02 variaveis/Momentum de atenção|momentum de atenção]]. Um post pode ser muito recente e receber pouca interação; outro pode ser um pouco mais antigo e estar acumulando respostas rapidamente.
 
 ## Ficha da variável
@@ -38,7 +40,7 @@ Recência também deve ser separada de [[02 variaveis/Momentum de atenção|mome
 | **Como observar** | Idade do item, tempo desde publicação, time decay e janelas temporais |
 | **O que não mede sozinho** | Popularidade, relevância pessoal, novidade percebida ou ritmo de crescimento |
 | **Trade-offs principais** | Favorecer recência melhora atualização, mas pode reduzir permanência de conteúdo ainda relevante |
-| **Artefatos-chave** | [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], [[03 artefatos/Trending Topics do X Twitter|Trending Topics do X/Twitter]] |
+| **Artefatos-chave** | [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], [[03 artefatos/Trending Topics do X Twitter|Trending Topics do X/Twitter]], [[03 artefatos/Feed Para Voce do TikTok|Feed Para Você do TikTok]] |
 | **Conceitos relacionados** | [[01 conceitos/Engajamento em plataformas digitais|Engajamento em plataformas digitais]], [[01 conceitos/Tendência em plataformas|Tendência em plataformas]] |
 | **Genealogias relacionadas** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] |
 
