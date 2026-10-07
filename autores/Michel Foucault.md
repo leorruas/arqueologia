@@ -25,6 +25,12 @@ Essa perspectiva também torna a naturalização um problema de design. Quando u
 
 Em *Vigiar e Punir* (1975), Foucault mostra como disciplina, vigilância, distribuição espacial e organização temporal podem operar juntas na produção de comportamentos.[^2] Para este projeto, o valor está em perceber que objetos, espaços e procedimentos podem participar de relações de poder sem que isso os transforme automaticamente em “artefatos foucaultianos”. A conexão é interpretativa e precisa ser demonstrada caso a caso.
 
+## Dispositivo e design
+
+Outra contribuição central para o Arqueologia do Design é o conceito de [[01 conceitos/Dispositivo|dispositivo]]. Em uma entrevista de 1977, Foucault usa o termo para descrever uma rede entre elementos heterogêneos — discursos, instituições, formas arquitetônicas, decisões regulatórias, leis, saberes e práticas — cuja articulação possui função estratégica em determinado momento histórico.[^3]
+
+Essa formulação amplia a análise de design para além do objeto isolado. Um artefato pode participar de um dispositivo quando sua capacidade de orientar condutas depende de normas, instituições, métricas, saberes e procedimentos que o sustentam. A relação é particularmente útil em [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]]: uma gramática define possibilidades de produção; o dispositivo permite perguntar que rede torna essa gramática legítima, operável, mensurável e capaz de produzir sujeitos e comportamentos.
+
 ## Obras, projetos e relações
 
 *Nietzsche, a genealogia e a história* (1971) é a referência metodológica central para a camada Genealogias. *A arqueologia do saber* (1969) ajuda a compreender a investigação de formações discursivas e descontinuidades. [[00 índices/Livros Indicados|*Vigiar e Punir*]] (1975) é particularmente útil quando uma investigação envolve disciplina, vigilância, normalização, classificação, espaço ou distribuição do tempo.
@@ -44,3 +50,6 @@ Também é importante não usar “genealogia” como sinônimo de origem. No se
 
 > [!IMPORTANT]
 > Ao usar Foucault numa investigação, diferencie referência metodológica de evidência histórica sobre o artefato. O autor pode orientar a pergunta; a história concreta ainda precisa de fontes próprias.
+
+
+[^3]: Foucault, Michel. “Le jeu de Michel Foucault”. *Ornicar?*, n. 10, 1977; republicado em *Dits et écrits*, v. 3, e em inglês como “The Confession of the Flesh”, em *Power/Knowledge: Selected Interviews and Other Writings, 1972–1977*, ed. Colin Gordon, 1980, pp. 194–228.
