@@ -39,6 +39,16 @@ Esse poder também cria um risco. Estruturas bem conhecidas podem virar performa
 
 Por isso, gramáticas produtivas não eliminam a necessidade de investigação. Elas deslocam parte dela. Quanto mais decisões são incorporadas à estrutura, mais importante se torna perguntar **quem definiu essa estrutura, quais possibilidades ela favorece e quais deixam de aparecer porque não cabem em sua sintaxe**.
 
+## Quando a gramática entra num dispositivo
+
+A pergunta sobre quem define a estrutura aproxima esta genealogia de [[01 conceitos/Dispositivo|dispositivo]], conceito de [[autores/Michel Foucault|Michel Foucault]]. Em 1977, Foucault descreveu o *dispositif* como uma rede heterogênea de discursos, instituições, formas arquitetônicas, decisões regulatórias, leis, saberes e práticas cuja relação adquire função estratégica em determinado momento histórico.[^2]
+
+A gramática produtiva descreve uma operação mais localizada: estabilizar relações suficientes para que múltiplos resultados possam ser produzidos. O dispositivo amplia a escala e pergunta **que rede faz essa gramática ganhar força**. Um grid pode organizar páginas; escolas, práticas editoriais, tecnologias de impressão, critérios profissionais e discursos de racionalidade podem explicar por que determinado modo de diagramar se torna legítimo e replicável. Componentes e tokens podem formar a gramática de um [[01 conceitos/Design Systems|design system]]; repositórios, processos de aprovação, hierarquias, métricas, documentação e políticas de release participam do dispositivo que define quem pode alterar essa gramática e quais desvios serão aceitos.
+
+O TikTok deixa essa passagem especialmente visível. Som reutilizável, Duet, challenge e formato memético podem funcionar como gramáticas de produção. Quando essas estruturas encontram o [[03 artefatos/Feed Para Voce do TikTok|Feed Para Você do TikTok]], métricas de performance, sistemas de recomendação, moderação, monetização e discursos sobre crescimento, surge uma rede que condiciona quais variações ganham visibilidade e quais práticas os criadores aprendem a repetir. A gramática organiza o espaço das formas possíveis; o dispositivo participa da distribuição diferencial dessas possibilidades.
+
+Essa conexão também qualifica a dimensão de poder desta genealogia. Foucault ajuda a enxergar poder como produtivo: arranjos de saber, técnica e norma podem produzir hábitos, classificações, competências e modos de subjetivação, além de restringir condutas.[^3] A pergunta arqueológica passa a incluir: **que dispositivo sustenta esta gramática, que tipo de produtor ou usuário ela ajuda a formar e quem pode modificar as regras que os demais aprendem a habitar?**
+
 ## A gramática pode produzir uma decisão personalizada sem entregar a mesma resposta
 
 A [[03 artefatos/Voting Advice Application|Voting Advice Application]] acrescenta um caso importante porque transforma uma estrutura fixa em recomendação personalizada. Perguntas, opções de resposta, pesos e algoritmo permanecem relativamente estáveis; o resultado muda conforme as posições do eleitor.
@@ -165,3 +175,8 @@ O princípio também sugere um critério para investigar esses sistemas: **quais
 ## Referências
 
 [^1]: SANTOS, Leonardo Ruas. *O refluir do tempo nas imagens de Claudia Andujar*. Trabalho de Conclusão de Curso (Comunicação Social) — Universidade Federal de Minas Gerais, Belo Horizonte, 2014. A monografia articula Bergson e Maurício Lissovsky para tratar a fotografia como duração, expectação e vestígio do tempo, e é usada aqui como antecedente teórico para a hipótese de atualização da memória pelo observador.
+
+
+[^2]: Foucault, Michel. “Le jeu de Michel Foucault”. *Ornicar?*, n. 10, 1977; republicado em *Dits et écrits*, v. 3, e como “The Confession of the Flesh” em *Power/Knowledge: Selected Interviews and Other Writings, 1972–1977*, ed. Colin Gordon, 1980, pp. 194–228.
+
+[^3]: Foucault, Michel. *Surveiller et punir: Naissance de la prison*. Gallimard, 1975.
