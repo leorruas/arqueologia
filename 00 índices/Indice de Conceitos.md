@@ -15,6 +15,7 @@ Este índice separa conceitos pela procedência intelectual. A distinção não 
 - [[01 conceitos/Antropomorfismo|Antropomorfismo]]: conceito estabelecido em psicologia, comunicação e estudos da interação humano-computador.
 - [[01 conceitos/Autodeterminação|Autodeterminação]]: teoria psicológica associada a autonomia, competência e pertencimento.
 - [[01 conceitos/Design Systems|Design Systems]]: prática e campo consolidado de sistematização de componentes, regras e linguagem de interface.
+- [[01 conceitos/Dispositivo|Dispositivo]]: conceito foucaultiano para redes heterogêneas de discursos, instituições, técnicas, normas, saberes e práticas articuladas estrategicamente em relações de poder.
 - [[01 conceitos/Economia da Atencao|Economia da Atenção]]: tradição que trata atenção humana como recurso escasso e disputado.
 - [[01 conceitos/Esqueuomorfismo|Esqueuomorfismo]]: termo estabelecido para persistência ou imitação de formas de uma tecnologia anterior em outra.
 - [[01 conceitos/Justica Procedimental|Justiça Procedimental]]: tradição de pesquisa sobre percepção de justiça nos processos de decisão.
