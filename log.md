@@ -8,6 +8,9 @@ status: "ativo"
 
 Registro decrescente de modificações significativas no vault Arqueologia do Design.
 
+## [2026-10-07]
+- **Dispositivo foucaultiano e gramáticas produtivas**: Criação de [[01 conceitos/Dispositivo|Dispositivo]] a partir da formulação de Michel Foucault em 1977 e integração a [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]]. A revisão distingue a gramática como estrutura geradora de possibilidades do dispositivo como rede mais ampla de saberes, instituições, técnicas, normas e relações de poder que dá força, visibilidade e legitimidade a essas possibilidades. Atualização recíproca de [[autores/Michel Foucault|Michel Foucault]] e do [[00 índices/Indice de Conceitos|Índice de conceitos]].
+
 ## [2026-10-06]
 - **Deep links por seção e consolidação do percurso do X**: O leitor público passa a gerar URLs estáveis para headings H2/H3 no formato `?secao=slug-do-titulo`, com links no sumário, botão discreto `#` no próprio título e cópia do endereço para compartilhamento. Wikilinks internos com `#Heading` também passam a apontar diretamente para a seção pública correspondente. O percurso específico `Do artefato ao sinal no X/Twitter` foi retirado após consolidação no [[05 percursos/Do artefato ao sinal em feeds algoritmicos|Do artefato ao sinal em feeds algorítmicos]], com backlinks de Feed do X, Pergunta, Fotografia, Meme, Clip político e Thread redirecionados para o percurso unificado e o índice central corrigido.
 - **Varredura preventiva de backlinks**: Formalização de regra operacional para renomear, mover, consolidar ou apagar notas. Antes da operação destrutiva, agentes devem localizar todas as referências ao título/caminho antigo e atualizar, redirecionar ou remover cada vínculo na mesma transação editorial. O gate de publicação permanece como verificação final, não como mecanismo primário de descoberta de backlinks órfãos. Regra propagada para `AGENTS.md`, `me.md` e `Instrucoes de Arqueologia.md`.
