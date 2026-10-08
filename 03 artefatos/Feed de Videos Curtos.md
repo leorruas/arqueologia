@@ -165,6 +165,14 @@ Isso tende a aumentar a importância do início do vídeo, da legibilidade imedi
 
 Outra consequência é que a interface de distribuição começa a influenciar a gramática do conteúdo produzido para ela. O feed deixa de ser apenas recipiente.
 
+## Quando consumir também vira treinamento
+
+O feed de vídeos curtos reúne descoberta e avaliação durante o consumo. Uma pessoa encontra um conteúdo já aberto e decide permanecer ou avançar; o gesto de descarte pode gerar informação para escolhas futuras de distribuição. [[02 variaveis/Tempo de permanência|Tempo de permanência]], conclusão e abandono, porém, descrevem dimensões distintas da experiência e não provam satisfação ou desinteresse isoladamente.
+
+A mesma interface pode influenciar quem produz. A possibilidade de abandono imediato cria uma condição perceptível de apresentação, e alguns produtores podem modificar ritmo e estrutura em resposta a seus resultados. O [[03 artefatos/Gancho de abertura|gancho de abertura]] é um parente funcional, embora não exista uma forma universalmente vencedora. A [[04 genealogias/Gramaticas Produtivas|gramática produtiva]] da sequência cria uma situação recorrente; recomendadores como [[03 artefatos/Feed Para Voce do TikTok|Para Você]] e [[03 artefatos/Feed algoritmico do Instagram|Instagram]] decidem de modos diferentes quais conteúdos serão encontrados.
+
+O parentesco com [[01 conceitos/Dispositivo|dispositivo]] surge quando esse formato se articula a indicadores, práticas de produção e distribuição. O ciclo é uma hipótese de interação entre interface e comportamento, e não uma prova de que o swipe determine estilos de vídeo ou preferências de audiência.
+
 ## Ficha arqueológica
 | Campo | Registro |
 |---|---|
@@ -183,8 +191,8 @@ Outra consequência é que a interface de distribuição começa a influenciar a
 | **Hipótese de design** | O feed curto não elimina toda decisão: elimina sobretudo a necessidade de escolher previamente qual será o próximo conteúdo |
 | **Promessa** | Ainda não explicitado. |
 | **Comportamento aproveitado** | Julgamento rápido de interesse e gesto de descarte |
-| **Comportamento produzido** | Ainda não explicitado. |
-| **Relação de poder** | Ainda não explicitado. |
+| **Comportamento produzido** | Avaliar durante o consumo; possível adaptação de formatos por criadores, a ser investigada em contextos concretos |
+| **Relação de poder** | A infraestrutura seleciona o próximo conteúdo; o usuário fornece sinais de permanência ou descarte; métricas podem influenciar práticas de produção |
 | **Consequências inesperadas** | O gesto de rejeitar também pode alimentar a seleção futura; a interface de distribuição passa a pressionar a forma do conteúdo Registros adicionais preservados da ficha anterior: produtos/contextos documentados: TikTok / For You, YouTube Shorts; ideia que mudou tudo: Tornar consumo, descoberta e feedback partes do mesmo fluxo vertical; comportamento criado/reforcado: Avaliar conteúdo durante o consumo em vez de selecionar tudo previamente |
 | **Destino ou transformação posterior** | Pode tornar-se uma gramática geral de distribuição de mídia para além do smartphone Legado: Feed vertical curto torna-se padrão replicado entre grandes plataformas |
 | **Futuro prometido** | Ainda não explicitado. |
@@ -193,9 +201,9 @@ Outra consequência é que a interface de distribuição começa a influenciar a
 | **Futuro tornado mais provável** | Ainda não explicitado. |
 | **Descendentes possíveis** | Ainda não explicitado. |
 | **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
-| **Conceitos relacionados** | [[01 conceitos/Arquiteturas de Continuidade|Arquiteturas de continuidade]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Padroes Enganosos|Padrões enganosos]] |
-| **Variáveis relacionadas** | Ainda não explicitado. |
-| **Genealogia** | Ainda não explicitado. |
+| **Conceitos relacionados** | [[01 conceitos/Arquiteturas de Continuidade|Arquiteturas de continuidade]], [[01 conceitos/Compressao do Esforco|Compressão do esforço]], [[01 conceitos/Padroes Enganosos|Padrões enganosos]], [[01 conceitos/Dispositivo|Dispositivo]] |
+| **Variáveis relacionadas** | [[02 variaveis/Tempo de permanência|Tempo de permanência]], [[02 variaveis/Afinidade inferida|Afinidade inferida]] |
+| **Genealogia** | [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]] (parentesco funcional) |
 | **Percurso(s)** | [[05 percursos/Do artefato ao sinal em feeds algoritmicos|Do artefato ao sinal em feeds algorítmicos]] |
 | **Parentes** | [[03 artefatos/Gancho de abertura|Gancho de abertura]], [[03 artefatos/Infinite Scroll|Infinite Scroll]], [[03 artefatos/Feed Para Voce do TikTok|Feed Para Você do TikTok]], [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], [[03 artefatos/Controle Remoto|Controle remoto]], autoplay, playlist, televisão linear |
 | **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |

@@ -97,6 +97,12 @@ O parentesco com [[03 artefatos/Infinite Scroll|Infinite Scroll]] ajuda a separa
 
 Talvez a consequência mais profunda do ranking personalizado apareça quando previsão e preferência começam a formar um ciclo. Se o sistema usa nosso comportamento para prever o que veremos e aquilo que vemos condiciona as próximas oportunidades de comportamento, a pergunta deixa de ser apenas se o algoritmo “acerta” nossos interesses. A tensão passa a ser **quando uma previsão de relevância começa também a participar da produção daquilo que aprendemos a considerar relevante**.
 
+O ciclo descrito acima também pode operar no lado de quem publica. Sinais de recepção são registrados, parte deles influencia decisões de distribuição e os resultados reaparecem em indicadores de desempenho. Quando um produtor observa repetidamente esses resultados, pode alterar suas decisões seguintes. **O sistema mede comportamentos e pode participar das condições em que novos comportamentos serão produzidos.** Essa última etapa é uma hipótese sobre adaptação humana, não uma propriedade garantida do cálculo.
+
+Esse mecanismo aproxima o feed de [[04 genealogias/Gramaticas Produtivas|gramáticas produtivas]] e de [[01 conceitos/Dispositivo|dispositivo]]. Os formatos disponíveis organizam o espaço da publicação; critérios de elegibilidade, métricas, práticas de produção e sistemas de recomendação participam de sua circulação. A autoridade para criar uma publicação continua diferente da autoridade para definir quais critérios aumentarão sua visibilidade.
+
+Para os destinatários, a [[02 variaveis/Afinidade inferida|afinidade inferida]] pode criar oportunidades desiguais de contato com temas e autores. Exposição repetida, porém, não demonstra concordância nem formação duradoura de preferências. A hipótese de influência sobre repertórios exige estudos de recepção, comparação e observação de escolhas para além das métricas nativas.
+
 ## Ficha arqueológica
 
 | Campo | Registro |

@@ -65,6 +65,14 @@ A interpretação arqueológica é que o risco sistêmico aparece quando determi
 
 O circuito é uma hipótese de sistema sustentada por estudos parciais de cada elo. Ele não demonstra que o algoritmo atual do X “prefere raiva”.
 
+## A infraestrutura e a conversa aprendem em ritmos diferentes
+
+Os estudos citados sobre comportamento social ajudam a compreender a relação entre a circulação de uma mensagem e as condutas futuras de quem participa da conversa. O reconhecimento por outras pessoas pode alterar a percepção de quais formas de expressão são aceitas ou valorizadas. Ao mesmo tempo, o sistema de recomendação observa algumas dessas interações como sinais para decisões de distribuição. O circuito técnico de previsão e a aprendizagem social podem interagir, mas suas causas e seus resultados precisam ser examinados separadamente.
+
+A [[04 genealogias/Gramaticas Produtivas|genealogia de gramáticas produtivas]] ajuda a observar a função da [[03 artefatos/Thread|thread]], das respostas e do reenquadramento público como formatos de produção. [[01 conceitos/Dispositivo|Dispositivo]] amplia a investigação para práticas sociais, normas das comunidades, métricas e decisões de visibilidade. Uma pessoa pode adotar formas de participação reconhecidas por sua rede sem conhecer os critérios internos do ranking.
+
+O limite desta leitura é importante: a documentação do sistema não demonstra preferência automática por uma emoção específica, e os estudos sobre comportamento social não provam o efeito causal do algoritmo atual em todas as comunidades. Repost, resposta e permanência continuam sendo acontecimentos distintos. A pergunta passa a ser como separar a influência das relações entre pessoas daquela exercida pela distribuição automatizada sobre o repertório de participação.
+
 ## Rejeitar também tem uma arquitetura
 
 O X oferece várias formas de dizer “quero menos disso”, mas elas atuam em escalas diferentes. **Not interested in this post** e **Not interested in this Topic** alimentam diretamente a personalização: a empresa afirma usar essas escolhas como sinal para recomendar menos daquele tipo de conteúdo.[^14] **Show less often** exerce função semelhante de redução futura.[^15]

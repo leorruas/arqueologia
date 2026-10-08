@@ -89,6 +89,12 @@ Isso ajuda a entender por que uma trend não deve ser confundida com popularidad
 
 Uma pesquisa de 2026 com mais de 85 mil vídeos de dança no TikTok encontrou justamente uma relação não linear entre aderência ao padrão e engajamento: versões moderadamente atípicas podiam superar tanto cópias muito próximas quanto variações excessivamente distantes.[^15] O resultado é contextual, mas reforça uma hipótese de design importante: **uma gramática produtiva funciona porque estabiliza algo que pode ser reconhecido e deixa outra parte aberta para variação**.
 
+A [[01 conceitos/Dispositivo|leitura do dispositivo]] acrescenta uma pergunta à gramática de participação. Sons, Duets, challenges e modelos de montagem tornam novas versões mais fáceis de produzir; o sistema de recomendação condiciona quais versões têm oportunidade de chegar a públicos. Métricas e práticas compartilhadas entre criadores podem influenciar decisões posteriores de produção, enquanto políticas da plataforma e critérios de distribuição permanecem parcialmente fora do controle de quem publica.
+
+Surge daí um circuito possível: **padrão reconhecível → nova produção → recepção e sinais → distribuição e feedback → novas escolhas de participação**. Os recursos de reutilização e as famílias de sinais são documentados; a medida em que cada produtor adapta seu trabalho a eles precisa de investigação própria. Uma tendência também pode se disseminar por relações entre pessoas, repertórios culturais e contingências que não se reduzem ao ranking.
+
+O contraste com [[03 artefatos/Feed algoritmico do Instagram|Instagram]] e [[03 artefatos/Feed algoritmico do X Twitter|X/Twitter]] esclarece a operação: recursos produtivos, práticas sociais e sistemas de distribuição variam entre plataformas. Para comparar seus efeitos, é necessário identificar separadamente **o que cada ambiente torna fácil produzir** e **quais comportamentos a infraestrutura observa**, antes de atribuir resultados a um único algoritmo.
+
 ## Descoberta sem catálogo
 
 Serviços de mídia anteriores já usavam recomendação, playlists e sugestões. A mudança de interface do TikTok está em reduzir fortemente o intervalo entre **escolher** e **consumir**. O usuário não precisa necessariamente abrir um catálogo, ler títulos, comparar thumbnails ou decidir qual criador merece atenção. O próximo item já ocupa quase toda a tela e pode ser avaliado durante o próprio consumo.
