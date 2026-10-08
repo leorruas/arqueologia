@@ -31,6 +31,12 @@ Outra contribuição central para o Arqueologia do Design é o conceito de [[01 
 
 Essa formulação amplia a análise de design para além do objeto isolado. Um artefato pode participar de um dispositivo quando sua capacidade de orientar condutas depende de normas, instituições, métricas, saberes e procedimentos que o sustentam. A relação é particularmente útil em [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]]: uma gramática define possibilidades de produção; o dispositivo permite perguntar que rede torna essa gramática legítima, operável, mensurável e capaz de produzir sujeitos e comportamentos.
 
+## Governamentalidade e mediações digitais
+
+Nos cursos *Segurança, território, população* (1977–1978), Foucault investigou a governamentalidade e racionalidades de condução de uma população a partir de conhecimentos, instituições e técnicas historicamente situados.[^4] A aproximação com [[03 artefatos/Feed algoritmico do Instagram|feeds algorítmicos]] é uma interpretação contemporânea do Arqueologia do Design. Critérios de visibilidade e métricas podem influenciar práticas sem constituir ordens explícitas a cada pessoa, mas seus efeitos precisam de investigação empírica.
+
+Kelley Cotter, ao estudar o *jogo da visibilidade* entre influenciadores, e Taina Bucher, ao investigar o *imaginário algorítmico* entre usuários, oferecem pesquisas distintas que ajudam a examinar essa relação.[^5][^6] Seus achados não são conceitos formulados por Foucault nem demonstram por si que uma plataforma conduz uniformemente seus usuários.
+
 ## Obras, projetos e relações
 
 *Nietzsche, a genealogia e a história* (1971) é a referência metodológica central para a camada Genealogias. *A arqueologia do saber* (1969) ajuda a compreender a investigação de formações discursivas e descontinuidades. [[00 índices/Livros Indicados|*Vigiar e Punir*]] (1975) é particularmente útil quando uma investigação envolve disciplina, vigilância, normalização, classificação, espaço ou distribuição do tempo.
@@ -53,3 +59,9 @@ Também é importante não usar “genealogia” como sinônimo de origem. No se
 
 
 [^3]: Foucault, Michel. “Le jeu de Michel Foucault”. *Ornicar?*, n. 10, 1977; republicado em *Dits et écrits*, v. 3, e em inglês como “The Confession of the Flesh”, em *Power/Knowledge: Selected Interviews and Other Writings, 1972–1977*, ed. Colin Gordon, 1980, pp. 194–228.
+
+[^4]: Foucault, Michel. *Sécurité, territoire, population*. Collège de France, 1977–1978. https://www.college-de-france.fr/en/agenda/lecture/security-territory-and-population
+
+[^5]: Cotter, Kelley. “Playing the Visibility Game”. *New Media & Society*, 21(4), 2019. https://doi.org/10.1177/1461444818815684
+
+[^6]: Bucher, Taina. “The Algorithmic Imaginary”. *Information, Communication & Society*, 20(1), 2017. https://doi.org/10.1080/1369118X.2016.1154086

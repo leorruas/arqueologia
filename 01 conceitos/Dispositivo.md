@@ -77,6 +77,14 @@ O [[03 artefatos/Prompt Conversacional|prompt conversacional]] leva a questão �
 
 As relações de poder não precisam nascer de um único plano consciente. Técnicas, conhecimentos, instituições e práticas podem convergir historicamente, e seus efeitos podem ser contestados, apropriados ou transformados pelos participantes. Uma decisão de projeto voltada à eficiência pode, quando acoplada a normas e instituições, modificar quem possui autoridade para classificar um problema, alterar uma regra ou validar um resultado. A finalidade declarada do artefato e seus efeitos históricos devem ser investigados separadamente.
 
+### O jogo da visibilidade e a antecipação do comportamento
+
+Um criador observa que determinados conteúdos alcançam menos pessoas. Pode trocar linguagem, formato ou assunto antes da próxima publicação, orientado pelo desempenho que espera receber. Essa mudança não exige que a plataforma proíba uma pauta. Também não comprova que a queda original foi causada por uma classificação ideológica: formato, audiência, elegibilidade e alterações de distribuição são explicações concorrentes que precisam ser testadas.
+
+Kelley Cotter descreveu o *jogo da visibilidade* em estudo sobre discussões entre influenciadores do Instagram. Os participantes interpretavam as regras que acreditavam governar o alcance e negociavam modos de produção dentro dessas expectativas.[^3] Taina Bucher, por sua vez, formulou o *imaginário algorítmico* ao investigar como usuários do Facebook imaginavam e experimentavam seus algoritmos.[^4] A conexão proposta aqui é analítica: **uma regra efetiva e uma crença sobre a regra podem participar da formação do comportamento**, mesmo quando a crença não reproduz o sistema corretamente.
+
+A palavra *governamentalidade* acrescenta outra pergunta. Nos cursos de 1977–1978, Foucault investigou racionalidades e técnicas de condução voltadas à população.[^5] Aplicada comparativamente ao feed, essa perspectiva pergunta como métricas, saberes, práticas profissionais e políticas de recomendação podem orientar condutas antes da publicação. O conceito de dispositivo continua designando a rede estratégica de práticas e instituições; nenhum algoritmo isolado equivale automaticamente à totalidade dessa rede.
+
 ### O possível também pode ser disputado
 
 A [[03 artefatos/Pergunta|pergunta]] acrescenta um contraste revelador. Na charada do corvo e da escrivaninha em *Alice no País das Maravilhas*, a forma interrogativa coloca dois objetos numa relação improvável e convoca o interlocutor a tentar construir uma semelhança. Na [[04 genealogias/Gramaticas Produtivas|genealogia de gramáticas produtivas]], essa operação foi interpretada como uma possibilidade de “dobra” entre categorias: o pensamento começa a examinar cada objeto a partir do outro, mesmo quando não existe uma resposta prevista.
@@ -112,3 +120,9 @@ A pergunta complementar à genealogia de gramáticas produtivas envolve, portant
 [^1]: Foucault, Michel. “Le jeu de Michel Foucault”. Entrevista publicada em *Ornicar?*, n. 10, 1977; republicada em *Dits et écrits*, v. 3, e em inglês como “The Confession of the Flesh”, em *Power/Knowledge: Selected Interviews and Other Writings, 1972–1977*, ed. Colin Gordon, 1980, pp. 194–228. Foucault descreve o dispositivo como uma rede entre elementos heterogêneos e lhe atribui função estratégica ligada a uma urgência histórica.
 
 [^2]: Foucault, Michel. *Surveiller et punir: Naissance de la prison*. Gallimard, 1975. A análise das disciplinas mostra como técnicas de observação, normalização e exame articulam poder e produção de saber.
+
+[^3]: Cotter, Kelley. “Playing the Visibility Game: How Digital Influencers and Algorithms Negotiate Influence on Instagram”. *New Media & Society*, 21(4), 2019. https://doi.org/10.1177/1461444818815684
+
+[^4]: Bucher, Taina. “The Algorithmic Imaginary: Exploring the Ordinary Affects of Facebook Algorithms”. *Information, Communication & Society*, 20(1), 2017. https://doi.org/10.1080/1369118X.2016.1154086
+
+[^5]: Foucault, Michel. *Sécurité, territoire, population*, curso no Collège de France, 1977–1978. https://www.college-de-france.fr/en/agenda/lecture/security-territory-and-population

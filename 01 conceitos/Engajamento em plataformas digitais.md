@@ -51,6 +51,14 @@ Essa interpretação se conecta a [[01 conceitos/Dispositivo|dispositivo]], porq
 
 Existência do circuito técnico não comprova seu efeito cultural em qualquer caso. Seria necessário distinguir exposição efetiva, comportamento observado, preferência consciente, adaptação deliberada e mudança duradoura de repertório. Uma curtida pode registrar curiosidade passageira; uma publicação amplamente distribuída pode não alterar crenças; um criador pode conhecer métricas e ainda escolher ignorá-las. A pergunta para o design é como observar esse retorno sem confundir correlação, adaptação e causalidade.
 
+## Quando a expectativa sobre o algoritmo também produz condutas
+
+Uma queda de impressões pode orientar o comportamento de quem publica antes mesmo que suas causas sejam conhecidas. Em *Playing the Visibility Game*, Kelley Cotter investigou discussões de influenciadores sobre o Instagram e identificou interpretações das regras percebidas que orientavam a busca por visibilidade.[^3] A pesquisa mostra uma negociação entre participantes, plataformas e algoritmos: as regras estruturam oportunidades, mas não determinam unilateralmente o comportamento.
+
+O estudo de Taina Bucher sobre usuários do Facebook formula o conceito de *imaginário algorítmico*: aquilo que pessoas acreditam que os algoritmos fazem, deveriam fazer ou podem fazer afeta sua experiência cotidiana.[^4] Aplicar essa lente a outros feeds é uma comparação do Arqueologia do Design, não uma conclusão empírica de Bucher sobre cada plataforma. Surge assim um segundo circuito além da atualização computacional: **métrica observada → interpretação sobre sua causa → possível alteração editorial**. A métrica não demonstra a causa nem o sentido que o criador atribuiu ao resultado.
+
+O vínculo com [[01 conceitos/Dispositivo|dispositivo]] permite investigar como indicadores, práticas profissionais e expectativas sobre distribuição tornam alguns comportamentos mais recompensadores ou mais custosos de manter.
+
 ## Ficha do conceito
 
 | Campo | Registro |
@@ -72,3 +80,7 @@ Existência do circuito técnico não comprova seu efeito cultural em qualquer c
 [^1]: Trunfio, Mariapina; Rossi, Simona. “Conceptualising and measuring social media engagement: A systematic literature review”. *Italian Journal of Marketing*, 2021, 267–292. DOI: https://doi.org/10.1007/s43039-021-00035-8
 
 [^2]: Hu, Yifan; Koren, Yehuda; Volinsky, Chris. “Collaborative Filtering for Implicit Feedback Datasets”. *2008 Eighth IEEE International Conference on Data Mining*, 2008, pp. 263–272. DOI: https://doi.org/10.1109/ICDM.2008.22
+
+[^3]: Cotter, Kelley. “Playing the Visibility Game”. *New Media & Society*, 21(4), 2019. https://doi.org/10.1177/1461444818815684
+
+[^4]: Bucher, Taina. “The Algorithmic Imaginary”. *Information, Communication & Society*, 20(1), 2017. https://doi.org/10.1080/1369118X.2016.1154086

@@ -107,6 +107,14 @@ Esse mecanismo aproxima o feed de [[04 genealogias/Gramaticas Produtivas|gramát
 
 Para os destinatários, a [[02 variaveis/Afinidade inferida|afinidade inferida]] pode criar oportunidades desiguais de contato com temas e autores. Exposição repetida, porém, não demonstra concordância nem formação duradoura de preferências. A hipótese de influência sobre repertórios exige estudos de recepção, comparação e observação de escolhas para além das métricas nativas.
 
+## Quando o criador antecipa a resposta do sistema
+
+A estrutura do feed também pode influenciar decisões editoriais anteriores à publicação. Em seu estudo do *jogo da visibilidade*, Kelley Cotter observou discussões entre influenciadores do Instagram que tentavam interpretar regras de alcance, conciliando suas expectativas com discursos de autenticidade e empreendedorismo.[^24] Esse aprendizado percebido não comprova que as explicações dos criadores correspondam às regras efetivas do ranking.
+
+Taina Bucher investigou experiências de usuários do Facebook e chamou de *imaginário algorítmico* as concepções e sensações mobilizadas na relação com algoritmos.[^25] A aplicação ao Instagram é comparativa: um criador pode evitar certos assuntos porque acredita que reduzirão sua visibilidade, mesmo quando a hipótese sobre a causa da queda não foi verificada. A consequência comportamental pode existir sem que a explicação do sistema esteja correta.
+
+Para reconstruir o processo, é preciso distinguir **o que o criador publicou, o que a plataforma mostrou, o que ele acreditou que aconteceu e o que decidiu publicar depois**. Essa investigação se conecta ao [[01 conceitos/Dispositivo|dispositivo]] e exige examinar elegibilidade para recomendação, mudanças de audiência, conteúdo e contexto, em vez de deduzir um tratamento ideológico a partir de duas métricas.
+
 ## Ficha arqueológica
 
 | Campo | Registro |
@@ -198,3 +206,7 @@ Para os destinatários, a [[02 variaveis/Afinidade inferida|afinidade inferida]]
 [^22]: Hutchinson, Andrew. “Instagram Shares Algorithm Insights To Inform Strategy”. *Social Media Today*, 22 jan. 2025. O texto reproduz declaração de Adam Mosseri segundo a qual watch time, likes e sends são os três sinais mais importantes para ranking; likes pesam relativamente mais para audiência conectada e sends para audiência não conectada. A declaração fornece importância relativa, não coeficientes numéricos.
 
 [^23]: Meta. “Test Content With Non-Followers Using Trial Reels”. 10 dez. 2024, atualizado em 2025; “Inspiring Creativity That Brings People Together”. 12 jun. 2025. Documentam exposição inicial a não seguidores e posterior expansão do recurso, sem afirmar que públicos alcançados sejam socialmente diferentes. https://about.fb.com/news/2024/12/trial-reels-try-content-non-followers-first-see-what-perfoms-best/ ; https://about.fb.com/news/2025/06/inspiring-creativity-that-brings-people-together/
+
+[^24]: Cotter, Kelley. “Playing the Visibility Game: How Digital Influencers and Algorithms Negotiate Influence on Instagram”. *New Media & Society*, 21(4), 2019. https://doi.org/10.1177/1461444818815684
+
+[^25]: Bucher, Taina. “The Algorithmic Imaginary: Exploring the Ordinary Affects of Facebook Algorithms”. *Information, Communication & Society*, 20(1), 2017. https://doi.org/10.1080/1369118X.2016.1154086
