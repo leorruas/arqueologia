@@ -61,6 +61,10 @@ A leitura dos [[03 artefatos/Feed algoritmico do Instagram|feeds algorítmicos]]
 
 Esse circuito aproxima a genealogia de [[01 conceitos/Engajamento em plataformas digitais|engajamento em plataformas digitais]] e de [[01 conceitos/Dispositivo|dispositivo]]. A repetição de uma oportunidade de exposição não demonstra prazer, compreensão ou adesão. Importa investigar quais sinais entram na seleção, como o sistema pode diversificar ou corrigir suas inferências e quando a medição transforma uma prática em referência de desempenho. A autonomia também envolve a possibilidade de modificar a regra de exposição, além de decidir continuar ou sair de uma sessão.
 
+Uma nova tensão aparece quando perguntamos o que resta depois de uma exposição. A atenção capturada por um [[03 artefatos/Pôster|pôster]] pode se transformar em lembrança; a atenção observada por um [[03 artefatos/Feed algoritmico do Instagram|feed]] pode se converter em sinal de distribuição. Nenhuma das duas garante que a pessoa conseguirá recuperar o conteúdo posteriormente. A relação entre primeiro encontro e reencontro, investigada em [[05 percursos/Da recomendacao a circulacao propria|Da recomendação à circulação própria]], introduz a duração da relação como dimensão distinta de alcance ou retenção.
+
+O [[03 artefatos/QR Code|QR Code]], os [[03 artefatos/Favorito Bookmark|bookmarks]] e um arquivo público consultável oferecem maneiras diferentes de conservar endereços e condições de retorno. Isso não resolve automaticamente os problemas de distribuição, mas muda o tipo de infraestrutura necessária: descobrir exige oportunidade de exposição; retornar exige caminhos reconhecíveis e persistentes. A pergunta sobre [[01 conceitos/Autonomia da Atencao|autonomia da atenção]] também passa a envolver quem escolhe quando voltar e quais meios tornam possível fazê-lo.
+
 ## Ficha da genealogia
 
 | Campo | Registro |

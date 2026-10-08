@@ -67,6 +67,7 @@ Catálogo de designers, pesquisadores, teóricos e pioneiros da história do des
 - [[autores/Kaisa Kärki|Kaisa Kärki]]: agência, autonomia e liberdade da atenção; referência central para investigar autogoverno atencional e regulação ambiental do foco.
 - [[autores/Paul Ricoeur|Paul Ricoeur]]: identidade narrativa, mesmidade e ipseidade, promessa, responsabilidade, memória, testemunho e arquivo.
 - [[autores/Michel Foucault|Michel Foucault]]: arqueologia do saber, dispositivos e relações de poder.
+- [[autores/Michel de Certeau|Michel de Certeau]]: distinção entre estratégia e tática para investigar modos de ação em estruturas organizadas por outros.
 - [[autores/Norbert Elias|Norbert Elias]]: processo civilizador, tempo e interdependência.
 
 ### Economia comportamental e arquitetura de escolha

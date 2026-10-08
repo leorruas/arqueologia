@@ -159,6 +159,14 @@ A comparação com o [[03 artefatos/Meme|meme]] é particularmente fértil. Nos 
 
 Esse deslocamento aumenta a abertura e também a necessidade de validação. Quanto menos o resultado é determinado pela estrutura visível, mais trabalho existe em avaliar se a saída respeitou as condições, se introduziu algo inadequado ou se uma ambiguidade foi interpretada de modo inesperado. O custo da produção cai; parte do custo reaparece como formulação e julgamento.
 
+## Produzir dentro de uma regra e conservar a possibilidade de retorno
+
+A diferença entre estratégias e táticas, examinada por [[autores/Michel de Certeau|Michel de Certeau]], abre uma pergunta complementar sobre quem consegue conservar os resultados de uma criação.[^6] Uma plataforma oferece recursos que tornam barato produzir variações e pode distribuir seus resultados a públicos que o autor não conhecia. O acesso a essa circulação permanece dependente de condições que o produtor não define integralmente. A mesma gramática que amplia a capacidade local de participação pode manter a distribuição e a recuperação sob controle externo.
+
+O percurso [[05 percursos/Da recomendacao a circulacao propria|Da recomendação à circulação própria]] distingue a produção de uma publicação, seu primeiro encontro com o público e a possibilidade de ela ser recuperada depois. Um [[03 artefatos/Sua vez Add Yours|sticker Sua vez]] reduz o esforço de encadear contribuições; um [[03 artefatos/QR Code|QR Code]] pode conectar uma superfície física a um endereço; um arquivo consultável preserva uma rota de reencontro. Essas operações possuem efeitos diferentes e precisam ser combinadas e testadas, sem pressupor que qualquer uma produza autonomia automaticamente.
+
+A hipótese desta comparação é que projetar possibilidades de ação também implica projetar **quem poderá continuar agindo quando a atenção inicial desaparecer**. Regras de produção e condições de circulação podem ser distribuídas entre agentes distintos, enquanto a possibilidade de reencontro exige persistência, manutenção e acesso.
+
 ## Projetar possibilidades também é distribuir poder
 
 Lidos em conjunto, grid, frameworks lacunados, meme, design system e prompt mostram que o design pode agir em dois tempos. Primeiro, alguém projeta uma estrutura. Depois, outras pessoas — ou sistemas — produzem resultados dentro dela.
@@ -204,3 +212,5 @@ O princípio também sugere um critério para investigar esses sistemas: **quais
 [^4]: Carroll, Lewis. *Alice's Adventures in Wonderland*. 1865, cap. VII, “A Mad Tea-Party”. Texto: https://www.gutenberg.org/files/19033/19033-h/19033-h.htm
 
 [^5]: Carroll, Lewis. Prefácio à edição de 1896 de *Alice's Adventures in Wonderland*. Registra que a resposta oferecida depois era uma elaboração posterior e que o enigma original não tinha solução. Reprodução: https://www.alice-in-wonderland.net/resources/background/trivia/
+
+[^6]: De Certeau, Michel. *L'invention du quotidien. 1. Arts de faire*. 1980; *The Practice of Everyday Life*, University of California Press, 1984. https://www.ucpress.edu/books/the-practice-of-everyday-life/paper
