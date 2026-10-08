@@ -43,6 +43,14 @@ Essa escolha também torna visível o poder do sistema de ranking. Se a platafor
 
 A relação com [[01 conceitos/Dispositivo|dispositivo]] acrescenta uma pergunta sobre efeitos posteriores à medição. Quando métricas se articulam a recomendação, monetização, incentivos e práticas de produção, criadores podem passar a desenhar conteúdos para os sinais que acreditam ser recompensados. O resultado é um circuito no qual critérios de observação também podem orientar comportamentos futuros. Essa é uma hipótese sobre uma rede de práticas, não uma conclusão causal derivada de likes, visualizações ou tempo assistido isoladamente.
 
+## A métrica pode influenciar a conduta que registra
+
+O feedback introduz um segundo tempo na história da medição. Um criador publica, a plataforma registra algumas reações e distribui conteúdos segundo previsões construídas a partir de sinais anteriores. Quando parte desse desempenho retorna ao criador em forma de métricas, ele pode reorganizar sua produção: testar aberturas, durações, temas ou maneiras de solicitar compartilhamentos. O sistema mede comportamentos humanos e, por meio da distribuição e do feedback, participa das condições em que comportamentos seguintes serão produzidos.
+
+Essa interpretação se conecta a [[01 conceitos/Dispositivo|dispositivo]], porque métricas se articulam a regras de recomendação, possibilidades de monetização, práticas profissionais e repertórios ensinados entre criadores. A [[02 variaveis/Afinidade inferida|afinidade inferida]] acrescenta o lado do destinatário: a exposição promovida por uma estimativa anterior cria oportunidades desiguais de novas interações. O circuito hipotético pode ser descrito como **ação → sinal → previsão → distribuição → nova exposição e ação → novo sinal**. Para produtores, acrescenta-se outra via: **métrica observada → hipótese de performance → possível mudança na produção**.
+
+Existência do circuito técnico não comprova seu efeito cultural em qualquer caso. Seria necessário distinguir exposição efetiva, comportamento observado, preferência consciente, adaptação deliberada e mudança duradoura de repertório. Uma curtida pode registrar curiosidade passageira; uma publicação amplamente distribuída pode não alterar crenças; um criador pode conhecer métricas e ainda escolher ignorá-las. A pergunta para o design é como observar esse retorno sem confundir correlação, adaptação e causalidade.
+
 ## Ficha do conceito
 
 | Campo | Registro |

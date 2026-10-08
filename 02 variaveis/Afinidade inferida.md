@@ -36,6 +36,14 @@ Quanto mais esse valor influencia ranking, mais uma hipótese passada do sistema
 
 A distinção também interessa a quem observa alcance fora de sua rede. A exposição a *não seguidores* mede ausência de um vínculo explícito com o autor, mas não mede distância temática, social ou política em relação aos seguidores. Um modelo pode identificar alta afinidade com uma publicação entre pessoas que nunca encontraram aquele perfil. Em diálogo com [[02 variaveis/Propagação|propagação]] e com [[05 percursos/Do artefato ao sinal em feeds algoritmicos|Do artefato ao sinal em feeds algorítmicos]], isso abre a hipótese da travessia entre públicos: a distribuição pode crescer sem alcançar repertórios efetivamente distintos.
 
+## Quando a previsão também modifica as oportunidades
+
+A afinidade inferida pode participar de um circuito de retroalimentação. Uma estimativa de proximidade aumenta a chance de determinado conteúdo aparecer, e essa exposição oferece novas ocasiões para assistir, compartilhar, discordar ou seguir. Se algumas dessas ações forem usadas como feedback, o sistema poderá atualizar suas próximas previsões. O mecanismo não exige que o modelo conheça uma preferência interior estável: ele trabalha com sinais produzidos em condições de exposição que o próprio ranking ajudou a organizar.
+
+A pergunta mais difícil ultrapassa a precisão do ranking. Uma pessoa pode se tornar mais familiarizada com um tema por encontrá-lo repetidamente, passar a reconhecer seus formatos e adquirir repertórios para interagir com ele. **A hipótese de que a distribuição participa da formação de preferências futuras** merece investigação, mas não se deduz do funcionamento técnico de um recomendador. Familiaridade, interesse, concordância e mudança de crença são resultados distintos, sujeitos à escolha ativa da pessoa e a influências fora da plataforma.
+
+Essa leitura amplia a relação com [[01 conceitos/Engajamento em plataformas digitais|engajamento em plataformas digitais]] e [[01 conceitos/Dispositivo|dispositivo]]: as previsões participam de uma infraestrutura que atribui oportunidades diferentes de visibilidade, enquanto instituições e práticas podem transformar essa diferença em incentivo de produção. A variável continua sendo **afinidade estimada pelo sistema**; não a transformamos em medida de preferência verdadeira, identidade ou efeito psicológico.
+
 ## Ficha da variável
 
 | Campo | Registro |
@@ -47,7 +55,7 @@ A distinção também interessa a quem observa alcance fora de sua rede. A expos
 | **O que não mede sozinho** | Amizade, preferência consciente, satisfação, intenção ou identidade |
 | **Trade-offs principais** | Personaliza distribuição, mas pode reforçar interpretações antigas, ambíguas ou autoalimentadas do comportamento |
 | **Artefatos-chave** | [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]], [[03 artefatos/Feed algoritmico do X Twitter|Feed algorítmico do X/Twitter]], [[03 artefatos/Feed Para Voce do TikTok|Feed Para Você do TikTok]] |
-| **Conceitos relacionados** | [[01 conceitos/Engajamento em plataformas digitais|Engajamento em plataformas digitais]] |
+| **Conceitos relacionados** | [[01 conceitos/Engajamento em plataformas digitais|Engajamento em plataformas digitais]], [[01 conceitos/Dispositivo|Dispositivo]] |
 | **Genealogias relacionadas** | [[04 genealogias/Atencao e Recompensa|Atenção e recompensa]] |
 
 ## Referências
