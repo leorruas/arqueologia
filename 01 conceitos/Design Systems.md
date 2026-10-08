@@ -49,6 +49,8 @@ Por isso, “consistência” não é valor absoluto. Um sistema saudável preci
 
 Essa tensão aparece em qualquer infraestrutura de padronização: quanto mais decisões o sistema absorve, menos decisões cada produto precisa tomar — e maior se torna o custo de uma decisão sistêmica ruim.
 
+A análise do [[01 conceitos/Dispositivo|dispositivo]] permite situar esse problema numa rede maior. Componentes são regras reutilizáveis, enquanto documentação, processos de aprovação, atribuições de responsabilidade, infraestrutura técnica e critérios de qualidade ajudam a estabelecer quais variações terão legitimidade institucional. Essa relação pode tornar a produção mais confiável e também concentrar autoridade sobre o que conta como solução aceitável. Avaliar seus efeitos exige observar quem participa da governança, como exceções são tratadas e quais alternativas se tornam difíceis de propor.
+
 ## O sistema desaparece quando funciona
 
 Para o usuário final, grande parte do Design System é invisível. Ele não vê tokens, pipelines ou documentação. Percebe regularidade: controles semelhantes se comportam de modos semelhantes, estados são reconhecíveis e a interface não precisa ser reaprendida a cada tela.

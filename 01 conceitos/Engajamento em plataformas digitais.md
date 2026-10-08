@@ -41,6 +41,8 @@ Por isso, no Arqueologia do Design, engajamento não é usado como variável ún
 
 Essa escolha também torna visível o poder do sistema de ranking. Se a plataforma atribui pesos diferentes a ações diferentes, ela não apenas mede engajamento: participa da definição operacional de quais formas de resposta receberão mais oportunidade de produzir alcance.
 
+A relação com [[01 conceitos/Dispositivo|dispositivo]] acrescenta uma pergunta sobre efeitos posteriores à medição. Quando métricas se articulam a recomendação, monetização, incentivos e práticas de produção, criadores podem passar a desenhar conteúdos para os sinais que acreditam ser recompensados. O resultado é um circuito no qual critérios de observação também podem orientar comportamentos futuros. Essa é uma hipótese sobre uma rede de práticas, não uma conclusão causal derivada de likes, visualizações ou tempo assistido isoladamente.
+
 ## Ficha do conceito
 
 | Campo | Registro |

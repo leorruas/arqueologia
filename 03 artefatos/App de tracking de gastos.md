@@ -93,6 +93,8 @@ Essa mudança abre uma possível genealogia futura de **registro e auto-observa�
 
 A pergunta arqueológica é incômoda: **quando um sistema nos ajuda a enxergar nossos próprios hábitos, quem decidiu quais hábitos merecem ser medidos — e em que momento auto-observação começa a se confundir com vigilância?**
 
+A leitura de [[01 conceitos/Dispositivo|dispositivo]] oferece uma cautela adicional. Um tracker usado para reflexão pessoal pode modificar hábitos porque seleciona categorias e devolve métricas como feedback. Sua integração a instituições, critérios de avaliação, contratos e incentivos pode ampliar os efeitos dessa classificação, inclusive sobre o que será cobrado do usuário. O parentesco é analítico: os efeitos de poder precisam ser demonstrados na rede concreta de práticas, sem tratar automaticamente toda medição individual como disciplina.
+
 ## Ficha arqueológica
 | Campo | Registro |
 |---|---|
