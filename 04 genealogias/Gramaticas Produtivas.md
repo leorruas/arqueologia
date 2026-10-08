@@ -121,6 +121,8 @@ Uma imagem pode, então, funcionar como **prompt imagético para a memória auto
 
 Esse mecanismo acrescenta um terceiro tempo ao esquema fotográfico discutido na monografia. Além do tempo do fotógrafo e do fotografado que participa da formação da imagem, há o **tempo do espectador que retorna a ela**. A sequência proposta pelo projeto fica: fotógrafo → fotografado → imagem → espectador → memória → presente. Essa extensão é uma hipótese arqueológica do Arqueologia do Design; o estudo específico de **Convocação temporal da imagem** permanece como pista de pesquisa antes de ganhar nota própria.
 
+O [[03 artefatos/Collab do Instagram|Collab do Instagram]] acrescenta outra condição de produção: um mesmo objeto publicado pode carregar mais de uma autoria formal e aparecer associado a perfis diferentes, depois de convite e aceite. O parentesco com [[03 artefatos/Remix Duet e Stitch|Remix, Duet e Stitch]] depende de uma diferença importante. Uma peça derivada reutiliza outra publicação como matéria-prima; a coassinatura vincula pessoas à identidade de uma mesma peça. O design desloca parte do trabalho de reconhecer colaboração de legendas e acordos manuais para o próprio sistema de publicação.
+
 ## O meme transforma estrutura em participação
 
 O [[03 artefatos/Meme|meme]] acrescenta uma mudança importante porque a produção deixa de acontecer apenas dentro de uma equipe ou disciplina profissional. Um template reconhecível pode circular por uma comunidade inteira. Pessoas que não criaram a estrutura inicial passam a utilizá-la para produzir piadas, comentários, ataques, respostas e inversões.

@@ -46,6 +46,8 @@ Uma questão ainda aberta é quanto dessa circulação atravessa redes distintas
 
 O [[03 artefatos/Repost e quote post|repost e quote post]] torna especialmente visível a distância entre circulação e aprovação. A primeira operação transporta a peça anterior; a segunda pode transportá-la acrescentando um julgamento que a contrarie. O rastro de redistribuição mede passagem entre públicos e não mede sozinho o sentido atribuído por quem recirculou.
 
+O [[03 artefatos/Collab do Instagram|Collab]] diferencia circulação por reenvio e associação formal de um mesmo objeto a perfis diferentes. As duas operações podem criar oportunidades de novos encontros, mas a [[02 variaveis/Propagação|propagação]] continua exigindo observar efetivamente redistribuição entre pessoas. Compartilhar autoria não equivale automaticamente a uma propagação humana nem a travessia entre audiências socialmente distantes.
+
 ## Ficha da variável
 
 | Campo | Registro |

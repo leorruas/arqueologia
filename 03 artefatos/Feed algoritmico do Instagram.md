@@ -85,6 +85,8 @@ A interpretação arqueológica aqui é que “relevância” nunca é apenas um
 
 A [[03 artefatos/Hashtag|hashtag]] ajuda a distinguir associação temática de recomendação: uma etiqueta pode favorecer recuperação e contexto sem representar uma previsão de afinidade suficiente para ordenar o feed. Já [[03 artefatos/Remix Duet e Stitch|Remix]] transforma conteúdo preexistente em matéria-prima de uma nova peça, com novos sinais de recepção e políticas próprias de elegibilidade.
 
+[[03 artefatos/Collab do Instagram|Collab]] acrescenta uma possibilidade diferente de ampliar os caminhos de descoberta: a mesma publicação passa a estar associada a mais de uma conta. Isso pode criar oportunidades de encontro entre redes, sem comprovar distância cultural entre elas ou garantir aumento de alcance. A decisão de coassinar pertence aos participantes; o sistema continua determinando como a publicação será distribuída.
+
 ## Quem treina quem?
 
 A personalização cria uma relação circular. Usuários treinam o sistema ao agir; o sistema reorganiza o ambiente em que as ações seguintes ocorrerão. Em 2024, o Instagram anunciou uma ferramenta para zerar recomendações em Explore, Reels e Feed e reconstruí-las a partir das novas interações.[^8] A existência desse mecanismo torna visível um problema que a própria personalização produz: um modelo aprendido pode continuar representando interesses que a pessoa já não quer reforçar.
