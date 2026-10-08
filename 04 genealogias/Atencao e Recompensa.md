@@ -57,6 +57,10 @@ Essa arquitetura também pode afetar [[02 variaveis/Ameaça percebida|ameaça pe
 
 [[02 variaveis/Normatividade percebida da hostilidade|Normatividade percebida da hostilidade]] torna explícita outra consequência possível da distribuição: sinais selecionados pela atenção podem ser usados pelo público para inferir o que grupos normalmente fazem ou aprovam. O parentesco é sistêmico e cognitivo; ele não implica que toda exposição saliente seja aprendida como norma.
 
+A leitura dos [[03 artefatos/Feed algoritmico do Instagram|feeds algorítmicos]] acrescenta uma dimensão temporal à recompensa: uma ação de atenção pode produzir informação que participa das próximas oportunidades de atenção. O conteúdo visto hoje influencia, em algumas condições, aquilo que será apresentado amanhã; a nova exposição permite outros sinais. Em paralelo, as pessoas que publicam podem receber métricas e alterar suas práticas. Essa segunda mudança depende da interpretação e das decisões humanas, não de uma ordem direta do algoritmo.
+
+Esse circuito aproxima a genealogia de [[01 conceitos/Engajamento em plataformas digitais|engajamento em plataformas digitais]] e de [[01 conceitos/Dispositivo|dispositivo]]. A repetição de uma oportunidade de exposição não demonstra prazer, compreensão ou adesão. Importa investigar quais sinais entram na seleção, como o sistema pode diversificar ou corrigir suas inferências e quando a medição transforma uma prática em referência de desempenho. A autonomia também envolve a possibilidade de modificar a regra de exposição, além de decidir continuar ou sair de uma sessão.
+
 ## Ficha da genealogia
 
 | Campo | Registro |
