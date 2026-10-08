@@ -57,6 +57,10 @@ Existe ainda um desconforto mais profundo. Uma boa pergunta pode retirar estabil
 
 A hipótese do projeto é que parte da força da pergunta vem justamente desse intervalo. Ela não entrega uma interpretação substituta imediatamente. Mantém um espaço aberto no qual a pessoa precisa construir alguma relação entre aquilo que sabe, aquilo que percebe e aquilo que ainda não consegue explicar.
 
+Uma cena literária leva esse intervalo ao extremo. No chá de *Alice no País das Maravilhas*, de Lewis Carroll, o Chapeleiro pergunta por que um corvo se parece com uma escrivaninha. Alice tenta resolver a charada, mas o Chapeleiro admite que não sabe a resposta. Carroll esclareceu mais tarde que o enigma fora criado originalmente sem solução.[^3][^4] A pergunta, mesmo assim, leva o interlocutor a procurar propriedades comuns, inventar analogias e talvez questionar a premissa da semelhança.
+
+Essa operação aproxima a pergunta de [[04 genealogias/Gramaticas Produtivas|gramáticas produtivas]]. A forma interrogativa oferece uma regra de comparação e deixa em aberto a relação que tornaria a resposta possível. A ideia de uma “dobra” entre categorias funciona aqui como hipótese interpretativa: cada objeto começa a ser examinado a partir do outro. O pensamento produzido durante a busca pode ser relevante mesmo quando nenhuma informação é obtida. A cena literária demonstra a possibilidade narrativa desse mecanismo, sem provar que ele produz aprendizado ou boas associações em qualquer situação.
+
 É nesse sentido que a pergunta pode favorecer autonomia intelectual. Não porque perguntas sejam sempre melhores que respostas, mas porque algumas delas transferem para o outro uma parte real do trabalho de interpretar.
 
 Com interfaces conversacionais e LLMs, essa propriedade ganha outra escala. Sistemas capazes de responder rapidamente tornam evidente uma assimetria antiga: **encontrar uma resposta pode ficar barato enquanto formular uma pergunta fértil continua sendo difícil**. Uma resposta abundante não elimina o problema de escolher o que merece ser investigado.
@@ -93,7 +97,7 @@ Talvez a pergunta seja um dos artefatos mais antigos que permanecem centrais jus
 | **Novo problema produzido pelo sucesso** | Ainda não explicitado. |
 | **Conceitos relacionados** | [[01 conceitos/Investigacao|Investigação]], [[01 conceitos/Autodeterminacao|Autodeterminação]], [[01 conceitos/Intencao|Intenção]] |
 | **Variáveis relacionadas** | [[02 variaveis/Agencia Inferencial|Agência inferencial]] |
-| **Genealogia** | Formulação e direção |
+| **Genealogia** | [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]] (parentesco funcional); formulação e direção |
 | **Percurso(s)** | [[05 percursos/Do artefato ao sinal em feeds algoritmicos|Do artefato ao sinal em feeds algorítmicos]] |
 | **Parentes** | [[03 artefatos/Pergunta de Pesquisa|Pergunta de pesquisa]], [[03 artefatos/Problema de Design|Problema de design]], [[03 artefatos/Gancho de abertura|Gancho de abertura]], entrevista, mentoria, terapia, diálogo socrático |
 | **Leituras-chave** | Nenhuma leitura-chave registrada no índice bibliográfico até o momento. |
@@ -105,3 +109,7 @@ Talvez a pergunta seja um dos artefatos mais antigos que permanecem centrais jus
 [^1]: Scott, Gary Alan (org.). *Does Socrates Have a Method? Rethinking the Elenchus in Plato's Dialogues and Beyond*. Penn State University Press, 2002. Discute a controvérsia em torno da ideia de um método socrático único e o papel do *elenchus*.
 
 [^2]: Freire, Paulo; Faundez, Antonio. *Por uma pedagogia da pergunta*. Obra sobre curiosidade, problematização e pergunta como prática pedagógica.
+
+[^3]: Carroll, Lewis. *Alice's Adventures in Wonderland*. 1865, cap. VII, “A Mad Tea-Party”. Texto: https://www.gutenberg.org/files/19033/19033-h/19033-h.htm
+
+[^4]: Carroll, Lewis. Prefácio à edição de 1896 de *Alice's Adventures in Wonderland*. Sobre a ausência de solução na charada original. Reprodução: https://www.alice-in-wonderland.net/resources/background/trivia/

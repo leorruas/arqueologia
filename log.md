@@ -9,6 +9,7 @@ status: "ativo"
 Registro decrescente de modificações significativas no vault Arqueologia do Design.
 
 ## [2026-10-08]
+- **A pergunta sem solução como gramática produtiva**: ampliação de [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]] e [[03 artefatos/Pergunta|Pergunta]] a partir da charada do corvo e da escrivaninha, em Lewis Carroll. O estudo separa a cena documentada, a hipótese de uma “dobra” entre categorias e seus efeitos cognitivos ainda não testados. Foram incorporadas fontes, vínculo recíproco, revisão da ficha arqueológica e pista de pesquisa. Não foi criado conceito novo porque a hipótese ainda precisa de investigação.
 - **Travessia entre públicos em feeds algorítmicos**: Ampliação do percurso [[05 percursos/Do artefato ao sinal em feeds algoritmicos|Do artefato ao sinal em feeds algorítmicos]] para separar alcance a não seguidores, propagação social, diversidade real das audiências e compreensão. O [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]] incorpora Trial Reels como mecanismo documentado de teste com não seguidores, sem inferir exposição entre grupos diferentes. Propagação recíproca para [[02 variaveis/Propagação|Propagação]] e [[02 variaveis/Afinidade inferida|Afinidade inferida]], com pista empírica em `Pistas de pesquisa.md`. Não foram criados conceito, variável ou percurso novos, pois a hipótese ainda depende de operacionalização e evidência.
 
 ## [2026-10-07]
