@@ -47,7 +47,7 @@ A questão arqueológica final é: **quando alguém republica um texto para disc
 | **Período** | Retweet informal anterior a 2009; botão oficial testado em novembro de 2009; quote post como operação nativa posterior |
 | **Autoria** | Convenção RT criada e difundida por usuários; refinamento e padronização por equipes do Twitter; sem inventor individual exclusivo |
 | **Produto ou contexto** | Twitter/X Repost e Quote post; análogos de repost em Instagram e TikTok |
-| **Tipo(s) de design** | [[00 tipos de design/Design de Interface|Design de interface]], [[00 tipos de design/Design de Serviços|Design de serviços]] |
+| **Tipo(s) de design** | [[00 tipos de design/Design de Interface|Design de interface]], [[00 tipos de design/Design de Servicos|Design de serviços]] |
 | **Empresas ou instituições relacionadas** | Twitter/X; Instagram/Meta; TikTok |
 | **Problema original** | Redistribuir uma publicação para outra audiência sem copiar e editar a mensagem manualmente |
 | **Mundo antes** | Cópia manual de mensagens com RT, atribuição textual e menção ao autor |
