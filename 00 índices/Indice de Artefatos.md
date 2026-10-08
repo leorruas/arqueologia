@@ -97,6 +97,8 @@ Este índice organiza estudos publicados por campo de design. A classificação 
 
 ## Interfaces digitais e software
 
+- [[03 artefatos/Enquete em plataformas sociais|Enquete em plataformas sociais]]: pergunta com alternativas predefinidas que transforma participação em contagem.
+- [[03 artefatos/Repost e quote post|Repost e quote post]]: convenção de retransmissão convertida em gesto de redistribuição e reenquadramento.
 - [[03 artefatos/App de tracking de gastos|App de tracking de gastos]]: registro financeiro automatizado que devolve comportamento passado como feedback.
 - [[03 artefatos/Banco de dados|Banco de dados]]: armazenamento que separa recuperação lógica de localização física.
 - [[03 artefatos/Arquivo em nuvem|Arquivo em nuvem]]: persistência remota que torna portátil a condição de acesso em vez do suporte físico.

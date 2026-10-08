@@ -47,6 +47,8 @@ Também existe uma camada posterior ao score aprendido. O Home Mixer aberto docu
 
 Por enquanto, a hipótese de design central está suficientemente clara: **um fluxo em tempo real pode se tornar mais útil quando o sistema seleciona e ordena aquilo que merece representar o presente de cada pessoa**. A tensão aberta é igualmente clara: quanto mais o sistema seleciona o presente, mais a experiência do “que está acontecendo agora” depende de uma política invisível de relevância.
 
+O [[03 artefatos/Repost e quote post|repost e quote post]] acrescenta uma distinção decisiva à circulação nesse ambiente. A comunidade inventou o RT manual antes de o Twitter formalizar o botão em 2009; no quote, a redistribuição inclui novo enquadramento. A interpretação do participante pode ser elogio, crítica ou ironia, portanto a ocorrência do gesto não permite inferir aprovação do conteúdo original. A [[03 artefatos/Enquete em plataformas sociais|enquete]] acrescenta um modo de participação que delimita previamente as respostas possíveis e produz contagens sobre uma audiência autoselecionada.
+
 ## Conflito não é um único sinal
 
 A documentação pública do X descreve likes, reposts, replies, clicks, dwell e feedback negativo como entradas e alvos de previsão, mas não declara “raiva”, “indignação” ou “polarização” como sinais internos do ranking.[^5][^6] A relação entre emoção e distribuição precisa, portanto, ser reconstruída por uma cadeia intermediária: propriedades da mensagem alteram comportamentos humanos; esses comportamentos produzem sinais; o ranking pode aprender a valorizá-los.

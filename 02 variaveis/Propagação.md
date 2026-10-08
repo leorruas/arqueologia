@@ -44,6 +44,8 @@ A distinção é importante para estudar poder. Quando o ranking valoriza previs
 
 Uma questão ainda aberta é quanto dessa circulação atravessa redes distintas. Taxa alta de envios pode ocorrer quase inteiramente entre pessoas com interesses semelhantes; poucos envios podem alcançar contextos distantes da audiência original. A partir dos dados agregados de uma conta, essa distância costuma permanecer invisível. A relação com [[02 variaveis/Afinidade inferida|afinidade inferida]] aparece no percurso [[05 percursos/Do artefato ao sinal em feeds algoritmicos|Do artefato ao sinal em feeds algorítmicos]]: alcançar não seguidores, circular por redes humanas e encontrar perspectivas diferentes são eventos que precisam ser observados separadamente.
 
+O [[03 artefatos/Repost e quote post|repost e quote post]] torna especialmente visível a distância entre circulação e aprovação. A primeira operação transporta a peça anterior; a segunda pode transportá-la acrescentando um julgamento que a contrarie. O rastro de redistribuição mede passagem entre públicos e não mede sozinho o sentido atribuído por quem recirculou.
+
 ## Ficha da variável
 
 | Campo | Registro |
