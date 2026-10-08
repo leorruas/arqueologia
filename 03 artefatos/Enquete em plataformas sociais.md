@@ -45,7 +45,7 @@ A tensão que fica é antiga e contemporânea: **quem ganha voz quando responder
 | **Período** | Práticas anteriores; enquete nativa do Twitter anunciada em outubro de 2015; variações posteriores em Instagram e TikTok |
 | **Autoria** | Prática de votação coletiva anterior e distribuída; padronização em plataformas por suas equipes de produto |
 | **Produto ou contexto** | Twitter/X Polls, Instagram Stories/Reels e Enquetes nos Comentários do TikTok |
-| **Tipo(s) de design** | [[00 tipos de design/Design de Interface|Design de interface]], [[00 tipos de design/Design de Serviços|Design de serviços]] |
+| **Tipo(s) de design** | [[00 tipos de design/Design de Interface|Design de interface]], [[00 tipos de design/Design de Servicos|Design de serviços]] |
 | **Empresas ou instituições relacionadas** | Twitter/X, Instagram/Meta e TikTok como contextos de implementação |
 | **Problema original** | Solicitar e contar respostas coletivas sem depender de replies ou contagem manual |
 | **Mundo antes** | Respostas escritas, votos por like, RT, hashtags, comentários ou formulários externos |

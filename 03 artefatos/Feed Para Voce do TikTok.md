@@ -95,6 +95,8 @@ Surge daí um circuito possível: **padrão reconhecível → nova produção �
 
 O contraste com [[03 artefatos/Feed algoritmico do Instagram|Instagram]] e [[03 artefatos/Feed algoritmico do X Twitter|X/Twitter]] esclarece a operação: recursos produtivos, práticas sociais e sistemas de distribuição variam entre plataformas. Para comparar seus efeitos, é necessário identificar separadamente **o que cada ambiente torna fácil produzir** e **quais comportamentos a infraestrutura observa**, antes de atribuir resultados a um único algoritmo.
 
+A comparação entre [[03 artefatos/Remix Duet e Stitch|Remix, Duet e Stitch]] mostra que resposta simultânea e resposta sequencial oferecem experiências distintas: o Duet mantém duas performances lado a lado; o Stitch usa um trecho inicial como premissa para uma continuação. A [[03 artefatos/Hashtag|hashtag]] cumpre outra função ao oferecer uma convenção indexável para reunir peças de pessoas que não se conhecem. As duas famílias podem ajudar a tornar uma tendência reproduzível, mas nenhuma delas garante distribuição por si.
+
 ## Descoberta sem catálogo
 
 Serviços de mídia anteriores já usavam recomendação, playlists e sugestões. A mudança de interface do TikTok está em reduzir fortemente o intervalo entre **escolher** e **consumir**. O usuário não precisa necessariamente abrir um catálogo, ler títulos, comparar thumbnails ou decidir qual criador merece atenção. O próximo item já ocupa quase toda a tela e pode ser avaliado durante o próprio consumo.

@@ -77,6 +77,8 @@ O [[03 artefatos/Áudio narrativo em vídeo curto|áudio narrativo em vídeo cur
 
 Essa combinação também revela um trade-off. Uma gramática em alta reduz o custo de participar, mas aumenta a competição dentro de uma família já saturada. Pesquisa de 2026 sobre mais de 85 mil vídeos de dança encontrou uma associação não linear entre proximidade com a trend e engajamento, sugerindo vantagem para variações moderadamente atípicas em relação tanto à cópia estreita quanto ao afastamento excessivo.
 
+O parentesco entre [[03 artefatos/Hashtag|hashtag]] e [[03 artefatos/Remix Duet e Stitch|Remix, Duet e Stitch]] acrescenta duas estratégias para a produção distribuída. Uma estabiliza a associação temática como convenção copiável; a outra incorpora material preexistente à composição de uma nova publicação. Em ambos os casos, produtores aproveitam parte de uma estrutura já disponível, embora indexar conteúdos e reutilizar conteúdo sejam operações diferentes.
+
 ## A circulação pode devolver regras aos produtores
 
 As plataformas de recomendação introduzem um movimento adicional nesta genealogia. Uma gramática como o som reutilizável do TikTok, o carrossel do Instagram ou a thread do X organiza condições para a produção de uma peça. Uma vez publicada, a peça entra em sistemas que observam ações humanas e decidem, por critérios distintos, que conteúdos terão novas oportunidades de exposição. A produção gera sinais; os sinais podem participar de decisões de circulação; os resultados da circulação tornam-se experiências e, em parte, indicadores acessíveis aos produtores.
