@@ -75,6 +75,18 @@ A [[04 genealogias/Gramaticas Produtivas|genealogia de gramáticas produtivas]] 
 
 O limite desta leitura é importante: a documentação do sistema não demonstra preferência automática por uma emoção específica, e os estudos sobre comportamento social não provam o efeito causal do algoritmo atual em todas as comunidades. Repost, resposta e permanência continuam sendo acontecimentos distintos. A pergunta passa a ser como separar a influência das relações entre pessoas daquela exercida pela distribuição automatizada sobre o repertório de participação.
 
+## Quando a distribuição política deixa de ser simétrica
+
+Uma investigação experimental da própria equipe do Twitter, publicada na *PNAS* em 2022, comparou um grupo com timeline cronológica reversa a usuários expostos à ordenação algorítmica. Entre publicações de parlamentares de sete países, a direita política convencional apresentou maior amplificação do que a esquerda em seis deles; análise paralela encontrou vantagem de amplificação para veículos de orientação à direita nos Estados Unidos. O estudo não encontrou evidências de que grupos extremos fossem sistematicamente mais amplificados do que os moderados.[^20] Isso descreve um padrão da infraestrutura estudada naquele período, sem identificar uma intenção política por trás de cada decisão do ranking.
+
+Um experimento independente com 4.965 usuários ativos dos Estados Unidos, realizado por sete semanas em 2023 e publicado na *Nature* em fevereiro de 2026, comparou feeds cronológicos e algorítmicos no X.[^21] Ativar o feed personalizado elevou engajamento e deslocou determinadas posições em direção a prioridades e opiniões mais conservadoras, incluindo avaliações sobre investigações relativas a Donald Trump e sobre a guerra na Ucrânia. O experimento não detectou mudanças significativas em identificação partidária declarada ou polarização afetiva. A afirmação de que o feed muda toda a ideologia de uma pessoa extrapolaria os dados.
+
+O mecanismo mais revelador envolveu a própria rede de contas seguidas. Usuários expostos ao feed algorítmico passaram a seguir mais contas de ativistas políticos conservadores e continuaram seguindo parte dessas contas ao voltar para o feed cronológico. A intervenção temporária na distribuição participou, portanto, da formação de condições futuras de exposição. Desativar o algoritmo não equivale necessariamente a desfazer as relações produzidas enquanto ele estava ativo.
+
+A diferença em relação aos experimentos sobre Facebook e Instagram durante a eleição dos Estados Unidos de 2020 também precisa aparecer. Guess e colaboradores, em estudo publicado na *Science* em 2023, observaram mudanças expressivas no conteúdo recebido ao alternar para ordem cronológica, mas não encontraram efeitos significativos em diversos indicadores de polarização, conhecimento político e atitudes durante os três meses investigados.[^22] Os estudos variam em plataforma, participantes, período e sentido da intervenção. Seu contraste impede generalizar um efeito uniforme dos sistemas de recomendação.
+
+Para a leitura de [[01 conceitos/Dispositivo|dispositivo]], essa evidência desloca o foco: as regras de visibilidade podem participar da distribuição de atenção, das relações sociais estabelecidas e, em determinadas condições, das próprias opiniões. Isso não demonstra que uma publicação individual perdeu impressões por sua posição ideológica. Investigar tal hipótese exigiria controlar diferenças de assunto, público, formato e elegibilidade, além de acompanhar o funcionamento da recomendação.
+
 ## Rejeitar também tem uma arquitetura
 
 O X oferece várias formas de dizer “quero menos disso”, mas elas atuam em escalas diferentes. **Not interested in this post** e **Not interested in this Topic** alimentam diretamente a personalização: a empresa afirma usar essas escolhas como sinal para recomendar menos daquele tipo de conteúdo.[^14] **Show less often** exerce função semelhante de redução futura.[^15]
@@ -175,3 +187,9 @@ Essa mediação acontece também em outra escala. O [[03 artefatos/Trending Topi
 [^18]: X Help Center. “Blocking on X”. Consultado em 6 out. 2026. O bloqueio impede follow, DM e engajamento entre as contas e remove posts da conta bloqueada da timeline, com exceções documentadas. https://help.x.com/en/using-x/blocking-and-unblocking-accounts
 
 [^19]: X Help Center. “Report a Post, List, or Direct Message”. Consultado em 6 out. 2026. Report solicita avaliação de possível violação e não implica suspensão automática da conta. https://help.x.com/en/safety-and-security/report-a-post
+
+[^20]: Huszár, Ferenc et al. “Algorithmic amplification of politics on Twitter”. *PNAS*, 119(1), 2022, e2025334119 (publicação on-line em 21 dez. 2021). Experimento com grupo cronológico de controle; vantagem relativa da direita convencional em seis dos sete países. https://doi.org/10.1073/pnas.2025334119
+
+[^21]: Gauthier, Germain et al. “The political effects of X’s feed algorithm”. *Nature*, 652, 2026, pp. 416–423. Publicado em 18 fev. 2026; experimento com usuários dos EUA realizado em 2023. https://doi.org/10.1038/s41586-026-10098-2
+
+[^22]: Guess, Andrew M. et al. “How do social media feed algorithms affect attitudes and behavior in an election campaign?”. *Science*, 381, 2023, pp. 398–404. Experimentos com Facebook e Instagram nas eleições dos EUA de 2020. https://doi.org/10.1126/science.abp9364

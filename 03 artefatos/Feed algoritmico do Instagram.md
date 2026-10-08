@@ -115,6 +115,16 @@ Taina Bucher investigou experiências de usuários do Facebook e chamou de *imag
 
 Para reconstruir o processo, é preciso distinguir **o que o criador publicou, o que a plataforma mostrou, o que ele acreditou que aconteceu e o que decidiu publicar depois**. Essa investigação se conecta ao [[01 conceitos/Dispositivo|dispositivo]] e exige examinar elegibilidade para recomendação, mudanças de audiência, conteúdo e contexto, em vez de deduzir um tratamento ideológico a partir de duas métricas.
 
+## Quando elegibilidade e política entram na distribuição
+
+Uma decisão explícita de política de recomendação oferece evidência particularmente concreta de como visibilidade pode orientar práticas. Em fevereiro de 2024, a Meta anunciou que Instagram e Threads deixariam de recomendar proativamente determinados conteúdos políticos de contas que os usuários não seguiam. Isso afetava superfícies como Explorar, Reels e recomendações no Feed, mas não era uma proibição de publicar nem uma remoção automática das publicações para seguidores.[^26] A empresa indicou que contas profissionais poderiam consultar seu status de elegibilidade, editar ou remover publicações, pedir revisão e até deixar de publicar esses temas por um período para buscar restabelecer a condição de recomendabilidade.
+
+O interesse arqueológico está nessa última possibilidade: **uma política de visibilidade pode introduzir razões para modificar o comportamento editorial antes da próxima publicação**. Existe uma diferença entre o efeito documentado da regra, a expectativa desenvolvida pelo produtor e a experiência concreta de uma conta. Comparar impressões de publicações políticas e não políticas não permite, sozinho, concluir que o sistema diferencia ideologicamente esquerda e direita.
+
+Em janeiro de 2025, a Meta anunciou uma revisão da abordagem, dizendo que voltaria a recomendar progressivamente mais conteúdo político com base em sinais personalizados, em Facebook, Instagram e Threads.[^27] Por isso, a política anunciada em 2024 precisa ser tratada historicamente; sua redação não comprova quais critérios estavam efetivamente ativos em outubro de 2026. A continuidade, a escala e os possíveis efeitos de cada configuração precisam ser verificados por período e superfície.
+
+Os experimentos de Guess e colaboradores sobre feeds cronológicos de Facebook e Instagram na eleição norte-americana de 2020 ampliam a cautela.[^28] A mudança de ordenação alterou exposição e atividades, mas não detectou efeitos significativos nos principais indicadores de atitudes políticas analisados. Resultados posteriores de uma plataforma diferente não podem ser transportados diretamente ao Instagram. O mecanismo geral em investigação permanece: uma decisão sobre o que é elegível, encontrável e recomendado pode participar das condições futuras de expressão; seus efeitos sociais e ideológicos exigem prova específica.
+
 ## Ficha arqueológica
 
 | Campo | Registro |
@@ -210,3 +220,9 @@ Para reconstruir o processo, é preciso distinguir **o que o criador publicou, o
 [^24]: Cotter, Kelley. “Playing the Visibility Game: How Digital Influencers and Algorithms Negotiate Influence on Instagram”. *New Media & Society*, 21(4), 2019. https://doi.org/10.1177/1461444818815684
 
 [^25]: Bucher, Taina. “The Algorithmic Imaginary: Exploring the Ordinary Affects of Facebook Algorithms”. *Information, Communication & Society*, 20(1), 2017. https://doi.org/10.1080/1369118X.2016.1154086
+
+[^26]: Meta. “Atualização de nossa abordagem sobre conteúdo político no Instagram e no Threads”. 9 fev. 2024; atualização de 12 ago. 2024. Declara redução de recomendação proativa a contas não seguidas e opções de revisão de elegibilidade. https://about.fb.com/br/news/2024/02/atualizacao-de-nossa-abordagem-sobre-conteudo-politico-no-instagram-e-no-threads/
+
+[^27]: Meta. “Mais expressão e menos erros”. 7 jan. 2025. Anuncia retomada gradual e personalizada de recomendações de conteúdo cívico. https://about.fb.com/br/news/2025/01/mais-expressao-e-menos-erros/
+
+[^28]: Guess, Andrew M. et al. “How do social media feed algorithms affect attitudes and behavior in an election campaign?”. *Science*, 381, 2023, pp. 398–404. https://doi.org/10.1126/science.abp9364

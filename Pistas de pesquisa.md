@@ -104,6 +104,12 @@ A presença aqui não obriga a criação de uma nota. Cada pista deve ser avalia
 - **Fechamento e reabertura de representações**: possível genealogia futura. O par [[03 artefatos/Apelido político|apelido político]] ↔ [[03 artefatos/Tango|Tango]] mostra fechamento semântico versus reabertura por cooperação; o par [[03 artefatos/Clip político|clip político]] ↔ [[03 artefatos/Entrevista longa|entrevista longa]] acrescenta compressão versus continuidade temporal. A família ganhou força, mas ainda convém encontrar casos fora da política antes de promovê-la a genealogia.
 - **Arquivo longo → recorte → circulação**: investigar a ecologia em que entrevistas, debates, lives e audiências extensas funcionam simultaneamente como experiência integral para uma audiência e como matéria-prima para clips, memes e reenquadramentos para outras. Perguntar quando disponibilidade do original realmente aumenta auditabilidade e quando apenas legitima fragmentos que circulam sem ele.
 
+## Visibilidade, recomendação e formação de preferências
+
+- **Causalidade da perda de alcance político**: construir protocolo de observação que distinga plataforma, superfície de recomendação, período, assunto, ideologia atribuída, elegibilidade, público, impressões, alcance e distribuição entre seguidores e não seguidores. Uma queda individual é o problema de investigação, não prova suficiente de discriminação ideológica. Ver [[03 artefatos/Feed algoritmico do Instagram|Instagram]] e [[03 artefatos/Feed algoritmico do X Twitter|X/Twitter]].
+- **Exposição transitória e redes duráveis**: examinar em que condições novas contas seguidas, hábitos de consulta e vínculos sociais permanecem depois da mudança de feed. O experimento de Gauthier et al. (2026) fornece evidência específica sobre usuários dos EUA no X em 2023; replicação para outras populações e plataformas permanece aberta. Relacionar à [[02 variaveis/Afinidade inferida|afinidade inferida]].
+- **Quando perceber consenso modifica disposição de falar**: hipótese de que visibilidade desigual pode afetar percepção de normalidade e, potencialmente, expressão pública. Investigar em que casos opera a espiral do silêncio, distinguindo exposição, percepção de opinião alheia, hostilidade percebida, preferência própria e conduta efetiva. Conectar à [[02 variaveis/Normatividade percebida da hostilidade|normatividade percebida da hostilidade]].
+
 ## Pistas transversais
 
 - **Etiqueta**: estudar como um objeto passa a carregar informação sobre si mesmo e como classificação, preço, origem ou instrução podem viajar junto com ele.

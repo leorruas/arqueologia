@@ -117,6 +117,14 @@ A arqueologia do Para Você começa, então, com uma hipótese humana bastante e
 
 Essa hipótese transforma o feed em algo maior que uma lista ordenada. Ele funciona como um experimento contínuo sobre a pessoa.
 
+## O que a comparação política ainda não prova
+
+Estudos experimentais sobre outras plataformas ajudam a formular perguntas, mas exigem distinções cuidadosas. Huszár e colaboradores encontraram amplificação relativamente maior de conteúdo da direita convencional na timeline do Twitter estudada em 2021–2022.[^16] Gauthier e colaboradores identificaram efeitos sobre algumas opiniões políticas e sobre contas seguidas ao alternar feeds de usuários dos Estados Unidos no X em 2023.[^17] Esses resultados não podem ser usados como prova direta de que o Para Você favoreça a mesma orientação ideológica, nem de que apresente os mesmos efeitos.
+
+O mecanismo comparável é mais geral: uma recomendação modifica oportunidades de exposição, e essa exposição pode produzir novos rastros, relações com autores e repertórios reconhecidos. No TikTok, as gramáticas de Duet, Stitch, sons e tendências organizam modos de participar; o sistema de distribuição reorganiza a probabilidade de encontro com os resultados. A hipótese de que isso modifica preferências ou a disposição para expressá-las precisa ser investigada no próprio ambiente, levando em conta diversidade de usuários, moderação e critérios de recomendação.
+
+O [[01 conceitos/Dispositivo|dispositivo]] ajuda a relacionar esses elementos sem tratar o ranking como causa única do comportamento. A pergunta permanece: **o que se aprende ao conviver com determinada seleção de conteúdos e que práticas persistem quando a seleção muda?**
+
 ## Ficha arqueológica
 
 | Campo | Registro |
@@ -189,3 +197,7 @@ Essa hipótese transforma o feed em algo maior que uma lista ordenada. Ele funci
 [^14]: Matamoros-Fernández, Ariadna. “Taking Humor Seriously on TikTok”. *Social Media + Society*, 9(1), 2023. DOI: https://doi.org/10.1177/20563051231157609. A autora destaca funções como “Use this Sound” e Duet na reutilização de sons, dança e challenges por imitação e transformação.
 
 [^15]: Bravin, Marc et al. “How Closely Should You Follow a Trend? Atypicality and Engagement on Social Media”. *Journal of Marketing*, 90(5), 2026. DOI: https://doi.org/10.1177/00222429261466668. O estudo analisa mais de 85 mil vídeos de dança no TikTok e encontra relação não linear entre tipicidade de uma trend e engajamento.
+
+[^16]: Huszár, Ferenc et al. “Algorithmic amplification of politics on Twitter”. *PNAS*, 119(1), 2022. https://doi.org/10.1073/pnas.2025334119
+
+[^17]: Gauthier, Germain et al. “The political effects of X’s feed algorithm”. *Nature*, 652, 2026, pp. 416–423. https://doi.org/10.1038/s41586-026-10098-2

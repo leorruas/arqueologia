@@ -44,6 +44,14 @@ A pergunta mais difícil ultrapassa a precisão do ranking. Uma pessoa pode se t
 
 Essa leitura amplia a relação com [[01 conceitos/Engajamento em plataformas digitais|engajamento em plataformas digitais]] e [[01 conceitos/Dispositivo|dispositivo]]: as previsões participam de uma infraestrutura que atribui oportunidades diferentes de visibilidade, enquanto instituições e práticas podem transformar essa diferença em incentivo de produção. A variável continua sendo **afinidade estimada pelo sistema**; não a transformamos em medida de preferência verdadeira, identidade ou efeito psicológico.
 
+## Quando uma exposição temporária deixa uma relação duradoura
+
+Um experimento com usuários do X, realizado em 2023 e publicado por Gauthier e colaboradores em 2026, ajuda a investigar o limite desta variável.[^3] Participantes que passaram do feed cronológico para o algorítmico receberam mais conteúdo político conservador e tiveram alterações em determinadas opiniões. Parte deles passou a seguir novas contas de ativistas conservadores, mantendo-as entre as contas seguidas depois de deixar o feed algorítmico.
+
+A distinção é importante: **uma previsão de afinidade opera sobre oportunidades de exposição, enquanto a decisão de seguir pode criar uma condição duradoura para exposições posteriores**. Mesmo quando a regra de ordenação muda, relações constituídas durante o período anterior podem permanecer. Esse resultado é específico à amostra, ao X de 2023 e ao desenho experimental; não autoriza inferir que todo conteúdo recebido transforma preferências ou que qualquer sistema de recomendação produzirá o mesmo efeito.
+
+Para estudos do Arqueologia do Design, convém observar separadamente afinidade estimada, conteúdo efetivamente visto, interação, seguimento, mudança de repertório e opinião declarada. Esses eventos podem participar do mesmo percurso e ainda representar fenômenos diferentes. O primeiro é uma variável operacional do sistema; os últimos requerem medidas adicionais do comportamento e da experiência humana.
+
 ## Ficha da variável
 
 | Campo | Registro |
@@ -63,3 +71,5 @@ Essa leitura amplia a relação com [[01 conceitos/Engajamento em plataformas di
 [^1]: Hu, Yifan; Koren, Yehuda; Volinsky, Chris. “Collaborative Filtering for Implicit Feedback Datasets”. *2008 Eighth IEEE International Conference on Data Mining*, 2008, pp. 263–272. DOI: https://doi.org/10.1109/ICDM.2008.22
 
 [^2]: Meta AI. “Instagram Feed Ranking System Card”. 23 fev. 2022. https://ai.meta.com/tools/system-cards/instagram-feed-ranking/
+
+[^3]: Gauthier, Germain et al. “The political effects of X’s feed algorithm”. *Nature*, 652, 2026, pp. 416–423. Experimento em 2023 com participantes dos EUA, alternando feed cronológico e algorítmico por sete semanas. https://doi.org/10.1038/s41586-026-10098-2
