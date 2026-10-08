@@ -53,6 +53,16 @@ Esse estudo oferece uma demonstração rara de um princípio de design sistêmic
 
 A variável, portanto, não mede apenas conteúdo. Ela mede uma interpretação produzida a partir da arquitetura de exposição.
 
+## Quando aparência de consenso encontra disposição para falar
+
+A teoria da *espiral do silêncio*, formulada por Elisabeth Noelle-Neumann em 1974, propõe uma relação entre a percepção do clima de opinião e a disposição pública de expressar posições percebidas como minoritárias.[^6] A teoria oferece um parentesco interpretativo para investigar feeds, mas não demonstra que toda exposição desigual produza silêncio ou mude posicionamentos. Perceber uma opinião como majoritária, considerá-la socialmente aceitável e sentir hostilidade dirigida ao próprio grupo são fenômenos distintos.
+
+A hipótese do Arqueologia do Design pode ser descrita como um circuito a testar: **distribuição desigual → percepção sobre o que os outros pensam → possível mudança na disposição para falar → alterações nas mensagens disponíveis**. Cada passagem exige evidência própria. Uma pessoa pode perceber que determinada opinião aparece com frequência e continuar disposta a discordar; outra pode preferir expressar-se em contextos diferentes. A hipótese não substitui observação de comportamentos nem atribui à plataforma intenção política automática.
+
+O experimento de Brady e colaboradores publicado na *Nature* em 2026 permite observar outra parte desse problema.[^5] Em uma experiência controlada com feeds personalizados durante a eleição norte-americana de 2024, a alteração da regra de ranking mudou exposição a conteúdo emocional e hostil, percepções de normas e animosidade percebida, mas não alterou significativamente determinados comportamentos próprios de engajamento. A distinção reforça o cuidado metodológico: **mudar a ideia de como os outros se comportam não equivale a mudar o próprio comportamento**.
+
+O fenômeno deve continuar relacionado à [[02 variaveis/Normatividade percebida da hostilidade|normatividade percebida da hostilidade]] sem colapsar diferentes construtos em uma única escala. Uma nova variável de “consenso percebido” só deve ser criada se uma investigação posterior demonstrar utilidade operacional e fontes suficientes para diferenciá-la.
+
 ## Artefatos pequenos também ensinam normas
 
 O [[03 artefatos/Meme|meme]], o [[03 artefatos/Clip político|clip político]] e o [[03 artefatos/Apelido político|apelido político]] podem participar da formação de normas quando sua repetição torna determinados enquadramentos fáceis de encontrar e reconhecer. Uma peça isolada oferece pouco suporte para inferir norma; sua frequência, distribuição, reação pública e contexto de circulação importam mais que o formato em si.
@@ -113,3 +123,5 @@ A pergunta que a variável acrescenta ao projeto é: **o que este artefato faz p
 [^5]: Brady, William J.; Doyle, Meriel; Elnakouri, Abdo; et al. “Redesigning algorithms to intervene on social norm misperceptions during a national election.” *Nature*, 655, 2026, pp. 942–956. [Acessar artigo na Nature](https://www.nature.com/articles/s41586-026-10536-1). DOI: `10.1038/s41586-026-10536-1`.
 
 > “Normatividade percebida da hostilidade” é uma adaptação operacional deste projeto. A literatura fornece construtos consolidados de normas sociais, meta-percepções, animosidade percebida e superpercepção de indignação; o eixo os aproxima para comparar como artefatos e sistemas fazem hostilidade parecer excepcional ou normal.
+
+[^6]: Noelle-Neumann, Elisabeth. “The Spiral of Silence: A Theory of Public Opinion”. *Journal of Communication*, 24(2), 1974, pp. 43–51. https://doi.org/10.1111/j.1460-2466.1974.tb00367.x

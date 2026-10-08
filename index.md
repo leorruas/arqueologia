@@ -46,6 +46,7 @@ Use esta lente quando a pergunta exigir uma sequência: **o que acontece com uma
 - [[05 percursos/Como Projetamos Fronteiras|Como projetamos fronteiras]]
 - [[05 percursos/Da Parede ao Feed|Da parede ao feed]]
 - [[05 percursos/Da recomendacao a circulacao propria|Da recomendação à circulação própria]] *(rascunho: táticas, memória externa e autonomia no reencontro com a informação)*
+- [[05 percursos/Laboratorio de contradesign da distribuicao|Laboratório de contradesign da distribuição]] *(rascunho: experimentos para investigar compreensão, participação e recuperação fora do primeiro encontro)*
 - [[05 percursos/Da Espera a Sincronizacao|Da espera à sincronização]]
 - [[05 percursos/Da Parede ao Interlocutor|Da parede ao interlocutor]]
 - [[05 percursos/Do Reflexo ao Perfil|Do reflexo ao perfil]] *(rascunho: auto-observação, identidade e perfil)*

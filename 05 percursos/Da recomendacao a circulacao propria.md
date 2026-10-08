@@ -45,6 +45,8 @@ Essa investigação ajuda a separar métricas de visibilidade de resultados dese
 
 A hipótese de trabalho é que **a autonomia de circulação aumenta quando a criação inclui condições de recuperação, contestação e participação para além da primeira exposição**. Ela permanece aberta à experimentação: é possível construir um arquivo estável que ninguém reencontra ou uma experiência interativa que desperta curiosidade sem produzir conhecimento. O desafio não está em prometer vencer toda infraestrutura, mas em projetar caminhos de acesso cuja qualidade possa ser observada e corrigida.
 
+A hipótese encontra uma continuação experimental em [[05 percursos/Laboratorio de contradesign da distribuicao|Laboratório de contradesign da distribuição]]. O laboratório propõe comparar formatos editoriais, interfaces programáveis, suportes impressos e experiências participativas, avaliando compreensão, recuperabilidade e autonomia de acesso com métodos explícitos. Nenhum protótipo foi ainda executado ou validado empiricamente por esse registro; trata-se de uma agenda de pesquisa que poderá confirmar, qualificar ou refutar as propostas do percurso.
+
 ## Referências
 
 [^1]: De Certeau, Michel. *L'invention du quotidien. 1. Arts de faire*. 1980; tradução inglesa *The Practice of Everyday Life*. University of California Press, 1984, especialmente “Making Do: Uses and Tactics”. https://www.ucpress.edu/books/the-practice-of-everyday-life/paper

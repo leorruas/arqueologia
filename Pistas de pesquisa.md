@@ -110,6 +110,13 @@ A presença aqui não obriga a criação de uma nota. Cada pista deve ser avalia
 - **Exposição transitória e redes duráveis**: examinar em que condições novas contas seguidas, hábitos de consulta e vínculos sociais permanecem depois da mudança de feed. O experimento de Gauthier et al. (2026) fornece evidência específica sobre usuários dos EUA no X em 2023; replicação para outras populações e plataformas permanece aberta. Relacionar à [[02 variaveis/Afinidade inferida|afinidade inferida]].
 - **Quando perceber consenso modifica disposição de falar**: hipótese de que visibilidade desigual pode afetar percepção de normalidade e, potencialmente, expressão pública. Investigar em que casos opera a espiral do silêncio, distinguindo exposição, percepção de opinião alheia, hostilidade percebida, preferência própria e conduta efetiva. Conectar à [[02 variaveis/Normatividade percebida da hostilidade|normatividade percebida da hostilidade]].
 
+## Experimentos de circulação, autonomia e compreensão
+
+- **Recuperabilidade de uma publicação**: testar se um endereço persistente, uma versão imprimível ou um bookmark melhoram a capacidade de reencontrar fontes após uma primeira exposição. Distinguir encontrar pela primeira vez, lembrar, recuperar e compreender. Pesquisa planejada no [[05 percursos/Laboratorio de contradesign da distribuicao|Laboratório de contradesign da distribuição]], sem testes executados ainda.
+- **Transparência de critérios de ordenação**: comparar experiências em que usuários veem a mesma coleção fictícia organizada por recência, popularidade ou diversidade. Investigar compreensão das regras, percepção de representatividade e capacidade de contestá-las sem atribuir os resultados a algoritmos reais de plataformas.
+- **Experiência multimídia e participação voluntária**: testar uma mesma investigação com peça gráfica, texto com fontes, simulação e exercício cênico, preservando procedimentos de consentimento e evitando inferência sobre preferências políticas individuais. O resultado principal deve ser compreensão e autonomia, e não maximização de engajamento.
+- **Avaliação de visibilidade como indicador insuficiente**: elaborar protocolo de comparação entre alcance, impressões, compreensão, retorno, referência à fonte e participação, com hipóteses registradas antes dos resultados, repetição quando possível e relato de resultados negativos.
+
 ## Pistas transversais
 
 - **Etiqueta**: estudar como um objeto passa a carregar informação sobre si mesmo e como classificação, preço, origem ou instrução podem viajar junto com ele.

@@ -149,6 +149,8 @@ Uma investigação empírica precisaria combinar sinais de plataforma e evidênc
 
 A hipótese em aberto para o Arqueologia do Design é a **travessia entre públicos**: quais propriedades dos artefatos e quais rotas de distribuição permitem que uma publicação encontre pessoas situadas fora de seu circuito habitual, e como reconhecer esse encontro sem confundi-lo com crescimento quantitativo da audiência? A resposta pode depender tanto da infraestrutura de recomendação quanto dos vínculos humanos capazes de transportar, contextualizar ou contestar uma mensagem.
 
+O que os sinais permitem interpretar depende das perguntas da investigação. Um mesmo aumento de compartilhamentos pode representar concordância, crítica ou circulação irônica. O percurso experimental [[05 percursos/Laboratorio de contradesign da distribuicao|Laboratório de contradesign da distribuição]] acrescenta a possibilidade de testar compreensão, recuperação de fontes e participação voluntária, sem tratar alcance como desfecho suficiente. Esse laboratório permanece proposto, e seus resultados não devem ser antecipados.
+
 ## O que aparece quando lemos em sequência
 
 A pergunta “qual artefato performa melhor?” pode agora ser reescrita de forma mais produtiva: **qual comportamento queremos tornar mais provável, que decisão de design historicamente reduz o custo desse comportamento e como cada plataforma consegue observá-lo?**
