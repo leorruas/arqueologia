@@ -34,6 +34,8 @@ Em sistemas públicos, raramente conhecemos o valor interno da afinidade. Podemo
 
 Quanto mais esse valor influencia ranking, mais uma hipótese passada do sistema participa da exposição futura. Surge um circuito: a afinidade inferida aumenta exposição; maior exposição cria mais oportunidades de interação; essas interações podem fortalecer a própria afinidade inferida.
 
+A distinção também interessa a quem observa alcance fora de sua rede. A exposição a *não seguidores* mede ausência de um vínculo explícito com o autor, mas não mede distância temática, social ou política em relação aos seguidores. Um modelo pode identificar alta afinidade com uma publicação entre pessoas que nunca encontraram aquele perfil. Em diálogo com [[02 variaveis/Propagação|propagação]] e com [[05 percursos/Do artefato ao sinal em feeds algoritmicos|Do artefato ao sinal em feeds algorítmicos]], isso abre a hipótese da travessia entre públicos: a distribuição pode crescer sem alcançar repertórios efetivamente distintos.
+
 ## Ficha da variável
 
 | Campo | Registro |

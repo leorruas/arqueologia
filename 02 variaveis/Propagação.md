@@ -42,6 +42,8 @@ Um sistema pode mostrar um conteúdo a milhões de pessoas sem que elas o retran
 
 A distinção é importante para estudar poder. Quando o ranking valoriza previsões de compartilhamento, a plataforma pode ampliar conteúdos com maior probabilidade de serem recirculados, fazendo a propensão social à propagação participar da distribuição automática.
 
+Uma questão ainda aberta é quanto dessa circulação atravessa redes distintas. Taxa alta de envios pode ocorrer quase inteiramente entre pessoas com interesses semelhantes; poucos envios podem alcançar contextos distantes da audiência original. A partir dos dados agregados de uma conta, essa distância costuma permanecer invisível. A relação com [[02 variaveis/Afinidade inferida|afinidade inferida]] aparece no percurso [[05 percursos/Do artefato ao sinal em feeds algoritmicos|Do artefato ao sinal em feeds algorítmicos]]: alcançar não seguidores, circular por redes humanas e encontrar perspectivas diferentes são eventos que precisam ser observados separadamente.
+
 ## Ficha da variável
 
 | Campo | Registro |

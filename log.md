@@ -8,6 +8,9 @@ status: "ativo"
 
 Registro decrescente de modificações significativas no vault Arqueologia do Design.
 
+## [2026-10-08]
+- **Travessia entre públicos em feeds algorítmicos**: Ampliação do percurso [[05 percursos/Do artefato ao sinal em feeds algoritmicos|Do artefato ao sinal em feeds algorítmicos]] para separar alcance a não seguidores, propagação social, diversidade real das audiências e compreensão. O [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]] incorpora Trial Reels como mecanismo documentado de teste com não seguidores, sem inferir exposição entre grupos diferentes. Propagação recíproca para [[02 variaveis/Propagação|Propagação]] e [[02 variaveis/Afinidade inferida|Afinidade inferida]], com pista empírica em `Pistas de pesquisa.md`. Não foram criados conceito, variável ou percurso novos, pois a hipótese ainda depende de operacionalização e evidência.
+
 ## [2026-10-07]
 - **Dispositivo foucaultiano e gramáticas produtivas**: Criação de [[01 conceitos/Dispositivo|Dispositivo]] a partir da formulação de Michel Foucault em 1977 e integração a [[04 genealogias/Gramaticas Produtivas|Gramáticas produtivas]]. A revisão distingue a gramática como estrutura geradora de possibilidades do dispositivo como rede mais ampla de saberes, instituições, técnicas, normas e relações de poder que dá força, visibilidade e legitimidade a essas possibilidades. Atualização recíproca de [[autores/Michel Foucault|Michel Foucault]] e do [[00 índices/Indice de Conceitos|Índice de conceitos]].
 
