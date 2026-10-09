@@ -109,6 +109,8 @@ Nesse ponto, reduzir aversão deixa de ser apenas um problema de criar uma mensa
 
 A relação entre [[03 artefatos/Entrevista longa|entrevista longa]] e [[03 artefatos/Clip político|clip político]] mostra como essa infraestrutura também redistribui **duração**. Uma conversa extensa pode existir integralmente num podcast ou vídeo sob demanda e, ao mesmo tempo, ser encontrada pela maior parte do público apenas como sequência de fragmentos. O feed não precisa falsificar o material para alterar a representação disponível: selecionar e repetir momentos diferentes já muda qual versão temporal da pessoa é mais fácil de encontrar. Isso transforma entrevista e clip numa ecologia de descompressão e recompressão.
 
+O percurso ganha um ponto intermediário com o [[03 artefatos/Radar da Virada|Radar da Virada]]. Esse monitor procura reunir dados declarados de plataformas diferentes e apresentá-los em visualizações de volume, crescimento recente e menções. Ele lembra que, depois de a distribuição ter sido organizada em feeds, novas interfaces podem tentar observar seus resultados de fora. Seu painel não revela automaticamente os pesos dos sistemas originais, e as próprias categorias do observatório introduzem decisões de interpretação. A passagem do pôster ao feed pode, portanto, continuar até o painel que procura explicar o que circula.
+
 ## O que aparece quando lemos em sequência
 
 O percurso revela uma mudança de regime: **capturar atenção, prolongar atenção e reconvocá-la são problemas diferentes**.

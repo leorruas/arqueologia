@@ -26,6 +26,8 @@ No [[03 artefatos/Feed Para Voce do TikTok|Feed Para Você do TikTok]], populari
 
 Popularidade também precisa ser distinguida de prova social. A primeira é um estado mensurável do conteúdo. Prova social aparece quando pessoas percebem sinais dessa popularidade e alteram seu próprio comportamento em resposta. Experimentos como o de Muchnik, Aral e Taylor mostram que avaliações sociais exibidas podem produzir efeitos de influência e acumulação posteriores.[^2]
 
+O [[03 artefatos/Radar da Virada|Radar da Virada]] reúne sinais em uma visualização denominada *Mais ditas*, com 24 horas de referência e uma legenda que associa tamanho a “alcance (views por hora)”. Essa redação expõe uma dificuldade de mensuração: um estoque acumulado de visualizações, uma taxa horária e o alcance de pessoas distintas são indicadores diferentes. A ausência de documentação da fórmula impede determinar qual deles é efetivamente representado. Essa distinção deve acompanhar toda comparação de atenção entre plataformas.
+
 ## Ficha da variável
 
 | Campo | Registro |

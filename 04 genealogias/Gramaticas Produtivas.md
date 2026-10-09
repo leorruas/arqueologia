@@ -181,6 +181,8 @@ A hipótese desta genealogia é que **gramáticas produtivas são artefatos de s
 
 O princípio também sugere um critério para investigar esses sistemas: **quais possibilidades ficaram mais baratas depois que a gramática apareceu, e quais se tornaram mais difíceis de imaginar porque ficaram fora dela?**
 
+A [[03 artefatos/Radar da Virada|interface do Radar da Virada]] acrescenta um parentesco funcional: oferecer opções como *Mais ditas*, *Picos* e *Menções* é também estabelecer uma gramática para transformar observações em diferentes leituras do presente. A estrutura possibilita comparações sem revelar necessariamente todos os cálculos por trás delas. O que ganha forma nessa gramática não é uma publicação, mas um conjunto de prioridades de atenção, que pode ser contestado se as regras de cálculo se tornarem acessíveis.
+
 ## Ficha da genealogia
 
 | Campo | Registro |

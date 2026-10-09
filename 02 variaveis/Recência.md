@@ -30,6 +30,8 @@ No [[03 artefatos/Feed Para Voce do TikTok|Feed Para Você do TikTok]], recênci
 
 Recência também deve ser separada de [[02 variaveis/Momentum de atenção|momentum de atenção]]. Um post pode ser muito recente e receber pouca interação; outro pode ser um pouco mais antigo e estar acumulando respostas rapidamente.
 
+No [[03 artefatos/Radar da Virada|Radar da Virada]], as janelas declaradas de três e 24 horas mostram como a seleção de um horizonte temporal influencia o que um painel consegue destacar. A proximidade temporal é visível como regra de recorte, enquanto a operação de agregação interna permanece desconhecida. Duas consultas ao mesmo indicador em momentos diferentes podem tratar conjuntos de observações distintos.
+
 ## Ficha da variável
 
 | Campo | Registro |

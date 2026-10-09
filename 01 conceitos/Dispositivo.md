@@ -99,6 +99,8 @@ A pergunta complementar à genealogia de gramáticas produtivas envolve, portant
 
 **Que dispositivo faz uma gramática valer, e quem ganha capacidade de definir, medir, recompensar e contestar as possibilidades que ela produz?**
 
+No [[03 artefatos/Radar da Virada|Radar da Virada]], a lente do dispositivo permite perguntar como fontes, classificações e modos de visualização se articulam a práticas sociais de acompanhamento e atribuição de importância. A plataforma declara seu posicionamento político e fornece três maneiras de observar conversas. O projeto ainda precisa investigar seu código e sua recepção antes de atribuir-lhe efeitos efetivos sobre comportamentos ou instituições. Esse caso ajuda a separar uma gramática visível de indicadores da rede concreta que lhe dá autoridade.
+
 ## Ficha do conceito
 
 | Campo | Registro |

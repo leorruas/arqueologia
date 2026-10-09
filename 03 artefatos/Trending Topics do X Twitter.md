@@ -69,6 +69,8 @@ O [[03 artefatos/Feed algoritmico do X Twitter|Feed algorítmico do X/Twitter]] 
 
 A questão arqueológica que permanece é: **quando uma plataforma transforma mudança de atenção em “o que está acontecendo”, quanto dessa mudança pertence ao mundo e quanto pertence ao mecanismo que decidiu torná-la visível?**
 
+A comparação com o [[03 artefatos/Radar da Virada|Radar da Virada]] mostra um parentesco funcional entre *trending topic* e painel independente de narrativas: ambos procuram identificar assuntos visíveis num intervalo limitado. A diferença está na superfície e nas regras declaradas de leitura. O Radar oferece modos explícitos de volume, picos e menções e lista fontes heterogêneas; sua matemática de classificação não foi auditada. O parentesco não demonstra que o Radar reutilize o algoritmo de Trending Topics do X, nem que suas taxas sejam equivalentes.
+
 ## Ficha arqueológica
 
 | Campo | Registro |

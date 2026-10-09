@@ -97,6 +97,7 @@ Este índice organiza estudos publicados por campo de design. A classificação 
 
 ## Interfaces digitais e software
 
+- [[03 artefatos/Radar da Virada|Radar da Virada]]: monitor público de narrativas que transforma sinais de plataformas diferentes em visualizações de volume, picos e menções, com metodologia interna ainda por auditar.
 - [[03 artefatos/Collab do Instagram|Collab do Instagram]]: coautoria reconhecida na estrutura de uma publicação compartilhada.
 - [[03 artefatos/Remix Duet e Stitch|Remix, Duet e Stitch]]: montagem derivada que transforma uma publicação anterior em matéria-prima de uma resposta.
 - [[03 artefatos/Hashtag|Hashtag]]: convenção textual que torna conversas distribuídas indexáveis e recuperáveis.

@@ -28,6 +28,8 @@ No [[03 artefatos/Feed Para Voce do TikTok|Feed Para Você do TikTok]], o própr
 
 A consequência comportamental é importante. Uma tendência produtiva pode acelerar porque novas pessoas não precisam inventar um formato do zero; sons, hashtags e challenges reduzem o custo de produzir ocorrências adicionais. Nesse caso, [[04 genealogias/Gramaticas Produtivas|gramática produtiva]] e momentum se conectam: a estrutura reutilizável pode aumentar a taxa de novas variações, enquanto o crescimento torna a própria estrutura mais visível.
 
+Um painel como o [[03 artefatos/Radar da Virada|Radar da Virada]] transforma esse problema em uma visualização intitulada *Picos*: palavras que teriam disparado numa janela de três horas. A interpretação depende da fórmula escolhida. Crescer de 2 para 40 ocorrências e crescer de 100 para 300 são mudanças diferentes em termos relativos e absolutos. O site declara a janela, mas a implementação matemática não foi verificada. A relação é um caso de investigação, não um exemplo validado de cálculo de momentum.
+
 ## Como observar
 
 Uma medida simples pode ser interações novas por unidade de tempo. Medidas mais robustas podem normalizar por alcance, tamanho da audiência, idade do conteúdo ou exposição disponível. Dependendo do problema, também pode ser útil observar aceleração ou desaceleração da taxa.

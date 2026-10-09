@@ -101,6 +101,8 @@ Há ainda uma questão gráfica. Um pôster pode fazer uma mensagem parecer urge
 
 A pergunta que fica para o presente é se a migração da parede compartilhada para superfícies personalizadas e responsivas está produzindo algo historicamente novo: uma cidade informacional em que cada pessoa não apenas vê um cartaz diferente, mas pode perguntar ao cartaz o que deseja saber.
 
+O [[03 artefatos/Radar da Virada|Radar da Virada]] é um parente funcional inesperado. O pôster ocupa uma superfície compartilhada para dar saliência a determinado acontecimento; o painel ocupa uma superfície digital que atualiza e reorganiza indicadores. Ambos pressupõem que hierarquia visual ajuda a decidir a que prestar atenção. A diferença é que, no painel, essa hierarquia pode depender de classificações e cálculos continuamente refeitos, cuja procedência precisa ser reconstruída para que a escolha visual seja verificável.
+
 ## Ficha arqueológica
 | Campo | Registro |
 |---|---|

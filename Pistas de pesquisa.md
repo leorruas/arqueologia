@@ -123,6 +123,14 @@ A presença aqui não obriga a criação de uma nota. Cada pista deve ser avalia
 - **Histórico do criador versus histórico do destinatário**: documentar filtros de elegibilidade sobre conteúdo e conta, padrões repetidos de republicação, possibilidade de apelação e distribuição inicial de conteúdo elegível. Distinguir efeito de seguir uma conta, afinidade estimada por destinatário e inelegibilidade temporária de uma conta; evitar inferir restrições ocultas sem evidência.
 - **Auditoria comparativa entre contas**: exigir período e número de Reels por perfil, posts incluídos, data de captura, visualizações orgânicas versus pagas, formatos, audiência e critérios de cálculo de mediana antes de atribuir diferenças de desempenho a regras ideológicas de distribuição.
 
+## Painéis de monitoramento e legibilidade da atenção
+
+- **Dashboard como artefato**: investigar, em estudo próprio, como salas de situação, clipping, painéis industriais e interfaces contemporâneas de monitoramento transformam indicadores em prioridades visuais. [[03 artefatos/Radar da Virada|Radar da Virada]] oferece caso observado; parentescos históricos e autoria da família permanecem por pesquisar.
+- **Auditoria de medidas heterogêneas**: recuperar a definição operacional de “alcance (views por hora)” no Radar, conferir denominadores, deduplicação, fontes, tratamento de datas e agregação entre buscas, menções e visualizações de vídeo. A legenda pública não permite reproduzir esse cálculo.
+- **Picos e atribuição de posições**: identificar se as janelas de três horas usam variação absoluta, relativa ou outra linha de base; investigar classificação de posicionamento político e como crítica, ironia e menção são distinguidas. Registrar exemplos de falsos positivos e negativos antes de deduzir significado das cores.
+- **Da observação à decisão**: investigar, sem inferir intenção de voto, se modos nomeados de volume, picos e menções ajudam visitantes a distinguir atenção social de concordância e se os rótulos da interface criam percepções indevidas de certeza.
+- **Temas que viram voto**: levantar pesquisas específicas e metodologia citadas pelo site, verificando se medem interesse, conhecimento, intenção declarada ou voto. A afirmação editorial de efeito comprovado continua a exigir fontes identificáveis.
+
 ## Pistas transversais
 
 - **Etiqueta**: estudar como um objeto passa a carregar informação sobre si mesmo e como classificação, preço, origem ou instrução podem viajar junto com ele.
