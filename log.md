@@ -9,6 +9,7 @@ status: "ativo"
 Registro decrescente de modificações significativas no vault Arqueologia do Design.
 
 ## [2026-10-09]
+- **Histórico do criador e audiência — fase 2, caso comparativo**: registrada no [[03 artefatos/Feed algoritmico do Instagram|feed algorítmico do Instagram]] a imagem de mediana de visualizações de oito perfis divulgada em 8 out. 2026, com seus valores, procedência e limitações de método. Propagação para [[01 conceitos/Engajamento em plataformas digitais|Engajamento em plataformas digitais]] e [[05 percursos/Do artefato ao sinal em feeds algoritmicos|Do artefato ao sinal em feeds algorítmicos]]. Os resultados divulgados permanecem não reproduzidos, sem atribuição causal de favorecimento ou punição ideológica.
 - **Histórico do receptor e elegibilidade do criador — fase 1**: ampliados [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]] e [[02 variaveis/Afinidade inferida|Afinidade inferida]] com duas operações distintas: histórico de interações do destinatário para recuperar candidatos e histórico/condição da conta criadora para limites de recomendação. Fontes: consultas exemplificativas de 2020, arquitetura do Explore de 2023, política de republicação de 2024 e SilverTorch de 2026. Pistas de pesquisa atualizadas; valores históricos não tratados como regras atuais.
 
 ## [2026-10-08]

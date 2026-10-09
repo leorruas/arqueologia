@@ -59,6 +59,12 @@ O estudo de Taina Bucher sobre usuários do Facebook formula o conceito de *imag
 
 O vínculo com [[01 conceitos/Dispositivo|dispositivo]] permite investigar como indicadores, práticas profissionais e expectativas sobre distribuição tornam alguns comportamentos mais recompensadores ou mais custosos de manter.
 
+## Medianas entre contas mostram diferenças, mas não identificam filtros
+
+Uma mediana de visualizações de Reels descreve o centro de uma coleção de publicações, desde que saibamos quais foram incluídas e em que condições suas visualizações foram medidas. Ela não mede por si a proporção da audiência exposta, a qualidade da compreensão, o alcance entre pessoas distintas nem a elegibilidade de uma conta para recomendações. Um gráfico compartilhado em outubro de 2026 comparou medianas atribuídas a oito perfis públicos, de 2,4 milhões a 41,1 milhões de visualizações, sem explicitar no material reproduzido a amostra ou a janela temporal.[^5] A diferença exibida constitui uma observação a auditar, incapaz de identificar sozinha uma preferência ideológica do sistema.
+
+Para explicar a distribuição, é preciso relacionar sinais de resposta humana à [[02 variaveis/Afinidade inferida|afinidade estimada para destinatários]] e à condição de recomendabilidade de conteúdos e contas, investigadas no [[03 artefatos/Feed algoritmico do Instagram|feed algorítmico do Instagram]]. Histórico do criador, elegibilidade do item, resposta inicial e previsão personalizada pertencem a etapas diferentes. Esse cuidado evita que uma estatística agregada de performance seja interpretada diretamente como evidência do funcionamento interno do ranking.
+
 ## Ficha do conceito
 
 | Campo | Registro |
@@ -84,3 +90,5 @@ O vínculo com [[01 conceitos/Dispositivo|dispositivo]] permite investigar como 
 [^3]: Cotter, Kelley. “Playing the Visibility Game”. *New Media & Society*, 21(4), 2019. https://doi.org/10.1177/1461444818815684
 
 [^4]: Bucher, Taina. “The Algorithmic Imaginary”. *Information, Communication & Society*, 20(1), 2017. https://doi.org/10.1080/1369118X.2016.1154086
+
+[^5]: *Minas em Dia*. “Nikolas Ferreira divulga ranking em que supera Neymar, MrBeast e Trump em visualizações no Instagram”. 9 out. 2026. Reporta gráfico compartilhado em 8 out. 2026, sem dados suficientes para reproduzir as medianas. https://minasemdia.com.br/2026/10/09/nikolas-ferreira-supera-neymar-reels/

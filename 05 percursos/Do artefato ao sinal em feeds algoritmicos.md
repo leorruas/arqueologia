@@ -151,6 +151,8 @@ A hipótese em aberto para o Arqueologia do Design é a **travessia entre públi
 
 O que os sinais permitem interpretar depende das perguntas da investigação. Um mesmo aumento de compartilhamentos pode representar concordância, crítica ou circulação irônica. O percurso experimental [[05 percursos/Laboratorio de contradesign da distribuicao|Laboratório de contradesign da distribuição]] acrescenta a possibilidade de testar compreensão, recuperação de fontes e participação voluntária, sem tratar alcance como desfecho suficiente. Esse laboratório permanece proposto, e seus resultados não devem ser antecipados.
 
+A comparação das medianas de Reels atribuídas a oito perfis públicos e divulgada em outubro de 2026 ilustra o limite de explicar circulação a partir de uma medida agregada: números de visualizações diferentes não revelam, sozinhos, que autores foram filtrados, quais destinatários receberam recomendações ou qual foi a participação da resposta inicial do público.[^21] A investigação do [[03 artefatos/Feed algoritmico do Instagram|feed do Instagram]] distingue histórico do receptor, elegibilidade do criador, recomendabilidade da publicação e sinais posteriores. É necessário reconstruir a amostra e a janela de medição antes de atribuir aos números um mecanismo causal.
+
 ## O que aparece quando lemos em sequência
 
 A pergunta “qual artefato performa melhor?” pode agora ser reescrita de forma mais produtiva: **qual comportamento queremos tornar mais provável, que decisão de design historicamente reduz o custo desse comportamento e como cada plataforma consegue observá-lo?**
@@ -202,3 +204,4 @@ Parte desse mapa já ganhou estudos próprios: [[03 artefatos/Call to Action CTA
 
 [^18]: TikTok Help Center. “Sua Vez”. Consultado em 6 out. 2026. Documenta prompts Add Yours aos quais outras pessoas respondem adicionando novos posts. https://support.tiktok.com/pt_BR/using-tiktok/creating-videos/add-yours
 
+[^21]: *Minas em Dia*. “Nikolas Ferreira divulga ranking em que supera Neymar, MrBeast e Trump em visualizações no Instagram”. 9 out. 2026. Reprodução de gráfico divulgado pelo interessado; sem dados suficientes para auditoria das medianas. https://minasemdia.com.br/2026/10/09/nikolas-ferreira-supera-neymar-reels/
