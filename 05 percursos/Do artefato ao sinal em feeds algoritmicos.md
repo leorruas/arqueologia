@@ -153,6 +153,8 @@ O que os sinais permitem interpretar depende das perguntas da investigação. Um
 
 A comparação das medianas de Reels atribuídas a oito perfis públicos e divulgada em outubro de 2026 ilustra o limite de explicar circulação a partir de uma medida agregada: números de visualizações diferentes não revelam, sozinhos, que autores foram filtrados, quais destinatários receberam recomendações ou qual foi a participação da resposta inicial do público.[^21] A investigação do [[03 artefatos/Feed algoritmico do Instagram|feed do Instagram]] distingue histórico do receptor, elegibilidade do criador, recomendabilidade da publicação e sinais posteriores. É necessário reconstruir a amostra e a janela de medição antes de atribuir aos números um mecanismo causal.
 
+O percurso [[05 percursos/Como funciona a distribuicao no Instagram|Como funciona a distribuição no Instagram]] traduz parte dessa investigação em um guia de consulta: ele liga [[02 variaveis/Afinidade inferida|afinidade inferida]], [[01 conceitos/Engajamento em plataformas digitais|engajamento]], condição da conta criadora, recomendabilidade da publicação e os sinais apontados publicamente pela Meta a opções concretas de experimentação. A utilidade do guia depende de manter visível o que já foi documentado e aquilo que continua sendo hipótese.
+
 ## O que aparece quando lemos em sequência
 
 A pergunta “qual artefato performa melhor?” pode agora ser reescrita de forma mais produtiva: **qual comportamento queremos tornar mais provável, que decisão de design historicamente reduz o custo desse comportamento e como cada plataforma consegue observá-lo?**

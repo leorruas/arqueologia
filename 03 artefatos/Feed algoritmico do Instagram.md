@@ -151,6 +151,8 @@ O exemplo retoma a distinção entre condições de **quem publica** e de **quem
 
 Uma auditoria reproduzível começaria por identificar os Reels de cada perfil e o instante da coleta, documentar os critérios de inclusão e recomputar a mediana a partir dos dados observados. Uma segunda etapa compararia resultados relativos ao público disponível e, quando acessíveis, a proporção de seguidores e não seguidores, a idade dos vídeos, características editoriais e alterações no *Status da conta*. A comparação entre dois posts do mesmo autor reduz algumas diferenças entre perfis, mas ainda exige controle de tema, formato, horário e histórico de recepção. **A pergunta histórica sobre poder continua aberta; os dados precisam primeiro permitir distinguir os mecanismos de distribuição que se pretende explicar.**
 
+Para uma síntese de consulta rápida, acompanhada de referências e decisões editoriais testáveis, o percurso [[05 percursos/Como funciona a distribuicao no Instagram|Como funciona a distribuição no Instagram]] reúne as etapas de seleção, elegibilidade, previsão, distribuição e recepção. A comparação de táticas preserva a diferença entre regra documentada, hipótese de design e truque sem comprovação, permitindo voltar a este estudo histórico quando surgir uma dúvida de procedência.
+
 ## Ficha arqueológica
 
 | Campo | Registro |

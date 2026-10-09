@@ -13,6 +13,8 @@ Uma publicação recebe milhares de impressões e depois desaparece da experiên
 
 A ordem de leitura reúne [[03 artefatos/Feed algoritmico do Instagram|feed do Instagram]], [[03 artefatos/Feed Para Voce do TikTok|Para Você do TikTok]], [[03 artefatos/Feed algoritmico do X Twitter|feed do X]], [[03 artefatos/Pôster|pôster]], [[03 artefatos/Meme|meme]], [[03 artefatos/QR Code|QR Code]] e [[03 artefatos/Sua vez Add Yours|Sua vez (Add Yours)]]. É uma comparação funcional, sem alegação de descendência entre seus criadores. Os artefatos evidenciam possibilidades distintas: ser encontrado, ser retransmitido, conservar endereço, convocar participação e estabelecer uma relação continuada.
 
+Quando o objetivo é atuar dentro do Instagram, o guia [[05 percursos/Como funciona a distribuicao no Instagram|Como funciona a distribuição no Instagram]] distingue sinais documentados, elegibilidade da conta e da publicação, escolhas editoriais e experimentos possíveis. Ele também mostra o limite da abordagem: aumentar alcance continua sendo diferente de permitir que uma pessoa reencontre uma fonte depois de sair do feed. Essa diferença orienta o percurso seguinte.
+
 ## Jogar num espaço cujas regras não são nossas
 
 Em *A invenção do cotidiano*, [[autores/Michel de Certeau|Michel de Certeau]] distingue estratégias apoiadas em um lugar próprio de táticas que precisam operar num terreno organizado por outros.[^1] A comparação com plataformas de recomendação é uma interpretação atual do Arqueologia do Design. A infraestrutura estabelece formatos, políticas, elegibilidade e critérios variáveis de distribuição; os participantes tentam perceber oportunidades e aprender a usá-las, com graus diferentes de autonomia.

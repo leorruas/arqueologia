@@ -60,6 +60,8 @@ Já a condição da **conta criadora** pode afetar elegibilidade independentemen
 
 Um conteúdo elegível pode receber pontuação diferente para dois destinatários, enquanto uma conta temporariamente inelegível pode ficar fora de certas recomendações mesmo quando algumas pessoas teriam forte interesse em seu conteúdo. Distinguir essas camadas impede deduzir uma regra de punição ideológica apenas da comparação entre visualizações.
 
+A síntese [[05 percursos/Como funciona a distribuicao no Instagram|Como funciona a distribuição no Instagram]] distingue em linguagem acessível a memória de interações do destinatário, os limites de recomendabilidade sobre uma conta criadora e a elegibilidade de uma publicação específica. É útil para evitar chamar de “baixa afinidade” toda situação de pouco alcance e para propor comparações que não misturem previsão, acesso e recepção.
+
 ## Ficha da variável
 
 | Campo | Registro |

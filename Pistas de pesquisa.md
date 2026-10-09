@@ -117,6 +117,12 @@ A presença aqui não obriga a criação de uma nota. Cada pista deve ser avalia
 - **Experiência multimídia e participação voluntária**: testar uma mesma investigação com peça gráfica, texto com fontes, simulação e exercício cênico, preservando procedimentos de consentimento e evitando inferência sobre preferências políticas individuais. O resultado principal deve ser compreensão e autonomia, e não maximização de engajamento.
 - **Avaliação de visibilidade como indicador insuficiente**: elaborar protocolo de comparação entre alcance, impressões, compreensão, retorno, referência à fonte e participação, com hipóteses registradas antes dos resultados, repetição quando possível e relato de resultados negativos.
 
+## Testes práticos de distribuição no Instagram
+
+- **Guias e fontes mutáveis**: revisar periodicamente [[05 percursos/Como funciona a distribuicao no Instagram|Como funciona a distribuição no Instagram]] e registrar quando novas declarações oficiais alterarem políticas de conteúdo original, elegibilidade política, Trial Reels ou interpretação de sinais. Não transportar coeficientes históricos de uma superfície para outra.
+- **Teste de legibilidade sem truques invisíveis**: comparar, em um pequeno conjunto de peças informativas, aberturas claras, perguntas e composições legíveis com formatos alternativos; observar compreensibilidade e envios por alcance, sem supor bônus algorítmico por OCR ou por usar texto nativo.
+- **Sinais de recomendação versus métricas de criador**: verificar nos Insights disponíveis quais indicadores representam envios privados, compartilhamentos totais, visualizações repetidas e alcance de pessoas distintas antes de calcular taxas ou interpretar uma estratégia.
+
 ## Históricos distintos no sistema de recomendação
 
 - **Janelas de histórico utilizadas para recuperar candidatos**: a consulta exemplificativa do Instagram em 2020 usa até trinta itens curtidos e dez posts por conta candidata, sem documentar janela geral de memória. Comparar com a recuperação via histórico de curtidas, salvamentos e compartilhamentos no Explore de 2023 e com a arquitetura SilverTorch de 2026. Ver [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]] e [[02 variaveis/Afinidade inferida|Afinidade inferida]].
