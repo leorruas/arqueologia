@@ -18,6 +18,8 @@ O laboratório parte de artefatos concretos que já foram investigados: [[03 art
 
 O guia [[05 percursos/Como funciona a distribuicao no Instagram|Como funciona a distribuição no Instagram]] oferece um ponto de partida para selecionar sinais observáveis: alcance de seguidores e não seguidores, envios e curtidas por alcance, tempo assistido e elegibilidade de conta e publicação. A utilidade desse inventário depende de um cuidado: as recomendações de Adam Mosseri em janeiro de 2025 e as políticas divulgadas pela Meta em 2024 são declarações datadas, não pesos conhecidos nem garantias de comportamento atual. Aqui, elas passam a ser hipóteses examináveis com desenhos de estudo adequados.
 
+A fala dentro de um vídeo oferece mais uma operação a investigar. A Meta confirma legendas automáticas para vídeos do Feed e reconhecimento de áudio entre capacidades de compreensão de conteúdo, mas isso não revela quais transcrições ou atributos sonoros entram no ranking de Reels.[^4] Um experimento de clareza pode avaliar a compreensão de uma mensagem com locução, legendas corrigidas e apoio visual; comparações de alcance exigem repetição e controle de público. O [[05 percursos/Como funciona a distribuicao no Instagram|guia sobre distribuição no Instagram]] documenta o que já sabemos e os limites dessa inferência.
+
 ## A experiência começa pela pergunta e pelos limites
 
 Um experimento válido precisa começar por uma pergunta observável. “Como vencer o algoritmo?” supõe que existe uma regra estável conhecida e uma relação direta entre uma peça e sua distribuição. As pesquisas sobre [[03 artefatos/Feed algoritmico do Instagram|Instagram]], [[03 artefatos/Feed algoritmico do X Twitter|X]] e [[03 artefatos/Feed Para Voce do TikTok|TikTok]] mostram que sinais, elegibilidade, superfícies e públicos variam. Perguntas mais produtivas seriam: uma versão com fontes visíveis facilita verificar informações? Um URL persistente aumenta a possibilidade de reencontro? Uma interface que permite comparar critérios de ordenação melhora a compreensão do papel do ranking?
@@ -61,3 +63,5 @@ O experimento mais interessante talvez seja aquele que revela uma surpresa: uma 
 [^2]: “Teatro do oprimido: um teatro das emergências sociais e do conhecimento coletivo”. *Psicologia & Sociedade*, estudo sobre Augusto Boal e participação. https://www.scielo.br/j/psoc/a/dTFPNQgrRBJKS5vpfPjZTgp/
 
 [^3]: Cotter, Kelley. “Playing the Visibility Game: How Digital Influencers and Algorithms Negotiate Influence on Instagram”. *New Media & Society*, 21(4), 2019. https://doi.org/10.1177/1461444818815684
+
+[^4]: Meta. “Recognizing Global Accessibility Awareness Day”. 19 maio 2022. https://about.fb.com/news/2022/05/recognizing-global-accessibility-awareness-day/ ; Meta AI. “The AI behind unconnected content recommendations on Facebook and Instagram”. 29 jun. 2023. https://ai.meta.com/blog/ai-unconnected-content-recommendations-facebook-instagram/

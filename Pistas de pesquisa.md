@@ -119,6 +119,10 @@ A presença aqui não obriga a criação de uma nota. Cada pista deve ser avalia
 
 ## Testes práticos de distribuição no Instagram
 
+- **Fala, transcrição e recomendação**: a Meta documenta legendas automáticas no Instagram desde 2022 e reconhecimento de áudio para compreensão de conteúdo em recomendações desde 2023. Ainda falta identificar se o ranking de Reels utiliza transcrições textuais completas, atributos acústicos ou ambos, e com quais pesos. O código aberto de ASR comprova capacidade de pesquisa, não uso na recomendação em produção. Ver [[05 percursos/Como funciona a distribuicao no Instagram|guia de distribuição]] e [[03 artefatos/Feed algoritmico do Instagram|feed algorítmico do Instagram]].
+- **Teste acessível de locução e legendas**: investigar se diferentes condições de fala inteligível, legendas corrigidas e texto na tela modificam compreensão, retenção e envios por alcance. Controlar duração, tema, formato e público; não inferir bônus algorítmico de palavras pronunciadas. Priorizar acessibilidade e comparações em conteúdo informativo neutro.
+
+
 - **Guias e fontes mutáveis**: revisar periodicamente [[05 percursos/Como funciona a distribuicao no Instagram|Como funciona a distribuição no Instagram]] e registrar quando novas declarações oficiais alterarem políticas de conteúdo original, elegibilidade política, Trial Reels ou interpretação de sinais. Não transportar coeficientes históricos de uma superfície para outra.
 - **Teste de legibilidade sem truques invisíveis**: comparar, em um pequeno conjunto de peças informativas, aberturas claras, perguntas e composições legíveis com formatos alternativos; observar compreensibilidade e envios por alcance, sem supor bônus algorítmico por OCR ou por usar texto nativo.
 - **Sinais de recomendação versus métricas de criador**: verificar nos Insights disponíveis quais indicadores representam envios privados, compartilhamentos totais, visualizações repetidas e alcance de pessoas distintas antes de calcular taxas ou interpretar uma estratégia.
