@@ -117,6 +117,12 @@ A presença aqui não obriga a criação de uma nota. Cada pista deve ser avalia
 - **Experiência multimídia e participação voluntária**: testar uma mesma investigação com peça gráfica, texto com fontes, simulação e exercício cênico, preservando procedimentos de consentimento e evitando inferência sobre preferências políticas individuais. O resultado principal deve ser compreensão e autonomia, e não maximização de engajamento.
 - **Avaliação de visibilidade como indicador insuficiente**: elaborar protocolo de comparação entre alcance, impressões, compreensão, retorno, referência à fonte e participação, com hipóteses registradas antes dos resultados, repetição quando possível e relato de resultados negativos.
 
+## Históricos distintos no sistema de recomendação
+
+- **Janelas de histórico utilizadas para recuperar candidatos**: a consulta exemplificativa do Instagram em 2020 usa até trinta itens curtidos e dez posts por conta candidata, sem documentar janela geral de memória. Comparar com a recuperação via histórico de curtidas, salvamentos e compartilhamentos no Explore de 2023 e com a arquitetura SilverTorch de 2026. Ver [[03 artefatos/Feed algoritmico do Instagram|Feed algorítmico do Instagram]] e [[02 variaveis/Afinidade inferida|Afinidade inferida]].
+- **Histórico do criador versus histórico do destinatário**: documentar filtros de elegibilidade sobre conteúdo e conta, padrões repetidos de republicação, possibilidade de apelação e distribuição inicial de conteúdo elegível. Distinguir efeito de seguir uma conta, afinidade estimada por destinatário e inelegibilidade temporária de uma conta; evitar inferir restrições ocultas sem evidência.
+- **Auditoria comparativa entre contas**: exigir período e número de Reels por perfil, posts incluídos, data de captura, visualizações orgânicas versus pagas, formatos, audiência e critérios de cálculo de mediana antes de atribuir diferenças de desempenho a regras ideológicas de distribuição.
+
 ## Pistas transversais
 
 - **Etiqueta**: estudar como um objeto passa a carregar informação sobre si mesmo e como classificação, preço, origem ou instrução podem viajar junto com ele.

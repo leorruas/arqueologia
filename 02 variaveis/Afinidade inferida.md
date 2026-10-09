@@ -52,6 +52,14 @@ A distinção é importante: **uma previsão de afinidade opera sobre oportunida
 
 Para estudos do Arqueologia do Design, convém observar separadamente afinidade estimada, conteúdo efetivamente visto, interação, seguimento, mudança de repertório e opinião declarada. Esses eventos podem participar do mesmo percurso e ainda representar fenômenos diferentes. O primeiro é uma variável operacional do sistema; os últimos requerem medidas adicionais do comportamento e da experiência humana.
 
+## O histórico de quem recebe e a condição de quem publica
+
+Uma decisão de recomendação pode incorporar relações diferentes. O histórico do **destinatário** permite selecionar candidatos relacionados a seus interesses ou prever a probabilidade de interagir com eles. O Instagram documentou, em 2020, uma consulta exemplificativa baseada em até trinta curtidas e similaridade entre contas; em 2023, descreveu a seleção de itens semelhantes àqueles anteriormente curtidos, salvos ou compartilhados no Explore.[^4][^5] Essas fontes demonstram técnicas de recuperação, mas não estabelecem quanto tempo todo histórico permanece relevante em 2026.
+
+Já a condição da **conta criadora** pode afetar elegibilidade independentemente da afinidade estimada. A Meta anunciou, em 2024, limites para contas que republicavam repetidamente conteúdo não original e critérios de restrição de recomendações para contas com violações reiteradas.[^6] Isso não constitui uma medida de afinidade entre dois usuários: é uma regra de entrada aplicada à possibilidade de recomendar determinado conteúdo ou origem. A [[03 artefatos/Feed algoritmico do Instagram|arqueologia do feed do Instagram]] distingue memória relacional, estado de recomendabilidade da conta, elegibilidade da publicação e recepção inicial.
+
+Um conteúdo elegível pode receber pontuação diferente para dois destinatários, enquanto uma conta temporariamente inelegível pode ficar fora de certas recomendações mesmo quando algumas pessoas teriam forte interesse em seu conteúdo. Distinguir essas camadas impede deduzir uma regra de punição ideológica apenas da comparação entre visualizações.
+
 ## Ficha da variável
 
 | Campo | Registro |
@@ -73,3 +81,9 @@ Para estudos do Arqueologia do Design, convém observar separadamente afinidade 
 [^2]: Meta AI. “Instagram Feed Ranking System Card”. 23 fev. 2022. https://ai.meta.com/tools/system-cards/instagram-feed-ranking/
 
 [^3]: Gauthier, Germain et al. “The political effects of X’s feed algorithm”. *Nature*, 652, 2026, pp. 416–423. Experimento em 2023 com participantes dos EUA, alternando feed cronológico e algorítmico por sete semanas. https://doi.org/10.1038/s41586-026-10098-2
+
+[^4]: Meta Engineering. “How Instagram suggests new content”. 10 dez. 2020. https://engineering.fb.com/2020/12/10/web/how-instagram-suggests-new-content/
+
+[^5]: Meta Engineering. “Scaling the Instagram Explore recommendations system”. 9 ago. 2023. https://engineering.fb.com/2023/08/09/ml-applications/scaling-instagram-explore-recommendations-system/
+
+[^6]: Meta. “Ajudando o criador de conteúdo a encontrar novos públicos”. 30 abr. 2024. https://about.fb.com/br/news/2024/04/ajudando-o-criador-de-conteudo-a-encontrar-novos-publicos/
