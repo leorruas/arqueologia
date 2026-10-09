@@ -119,6 +119,10 @@ A presença aqui não obriga a criação de uma nota. Cada pista deve ser avalia
 
 ## Testes práticos de distribuição no Instagram
 
+- **Limites públicos da auditoria algorítmica**: o guia [[05 percursos/Como funciona a distribuicao no Instagram|Como funciona a distribuição no Instagram]] agora compara informações publicadas e lacunas sobre pesos por superfície, memória do receptor, eventual *score* global de criador, limiares de expansão de Reels, uso operacional de OCR/ASR, critérios políticos por país e explicações de não exposição. Meta (2023) declara selecionar apenas dez modelos de previsão para os cartões; verificar atualizações antes de inferir ausência definitiva de documentação.
+- **O dado que falta em cada hipótese**: para cada comparação de alcance, especificar quais observações privadas (scores, filtros, candidatos descartados, histórico e grupos experimentais) seriam necessárias para provar o mecanismo. Separar resultado observável, regra documentada e hipótese causal ainda não testada.
+
+
 - **Fala, transcrição e recomendação**: a Meta documenta legendas automáticas no Instagram desde 2022 e reconhecimento de áudio para compreensão de conteúdo em recomendações desde 2023. Ainda falta identificar se o ranking de Reels utiliza transcrições textuais completas, atributos acústicos ou ambos, e com quais pesos. O código aberto de ASR comprova capacidade de pesquisa, não uso na recomendação em produção. Ver [[05 percursos/Como funciona a distribuicao no Instagram|guia de distribuição]] e [[03 artefatos/Feed algoritmico do Instagram|feed algorítmico do Instagram]].
 - **Teste acessível de locução e legendas**: investigar se diferentes condições de fala inteligível, legendas corrigidas e texto na tela modificam compreensão, retenção e envios por alcance. Controlar duração, tema, formato e público; não inferir bônus algorítmico de palavras pronunciadas. Priorizar acessibilidade e comparações em conteúdo informativo neutro.
 

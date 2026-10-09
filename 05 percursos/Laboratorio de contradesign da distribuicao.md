@@ -38,6 +38,8 @@ Um **protótipo espacial** pode usar pôster, zine e QR Code para investigar des
 
 Um **protótipo performativo** pode se inspirar no distanciamento teatral estudado a partir de Bertolt Brecht e no *espect-ator* de Augusto Boal.[^1][^2] Uma cena mostra alguém interpretando métricas e alterando seu trabalho; os participantes são convidados a questionar a explicação oferecida e experimentar outra regra de distribuição. O propósito é tornar os critérios discutíveis e observar como o público reformula suas hipóteses. Uma encenação pode produzir perguntas úteis sem demonstrar empiricamente o funcionamento real de uma plataforma.
 
+Uma investigação sobre o Instagram precisa reconhecer três limites antes de propor uma intervenção: a Meta divulga os tipos de sinais, os critérios de recomendabilidade e partes da arquitetura; seleciona apenas alguns modelos de previsão em seus cartões públicos; e não disponibiliza os scores e as razões completas de não exposição de cada publicação.[^5] O [[05 percursos/Como funciona a distribuicao no Instagram|guia prático de distribuição]] organiza essas lacunas por dimensão. Nos protocolos deste laboratório, cada hipótese deve trazer uma observação possível e o dado ausente que impediria atribuir causalidade ao mecanismo interno do ranking. Essa precaução reduz a tendência de interpretar qualquer fracasso editorial como penalização do algoritmo.
+
 ## O método também precisa poder ser contestado
 
 Antes de publicar as versões, registrar qual pergunta cada uma busca responder, o que será mantido constante, o que efetivamente muda e quais resultados serão observados. Quando houver comparação quantitativa, preferir amostras, períodos e métodos que permitam interpretar diferenças de maneira responsável; repetir a observação quando possível. Mudanças simultâneas de tema, linguagem, horário, público e formato impedem atribuir a diferença a um único elemento.
@@ -65,3 +67,5 @@ O experimento mais interessante talvez seja aquele que revela uma surpresa: uma 
 [^3]: Cotter, Kelley. “Playing the Visibility Game: How Digital Influencers and Algorithms Negotiate Influence on Instagram”. *New Media & Society*, 21(4), 2019. https://doi.org/10.1177/1461444818815684
 
 [^4]: Meta. “Recognizing Global Accessibility Awareness Day”. 19 maio 2022. https://about.fb.com/news/2022/05/recognizing-global-accessibility-awareness-day/ ; Meta AI. “The AI behind unconnected content recommendations on Facebook and Instagram”. 29 jun. 2023. https://ai.meta.com/blog/ai-unconnected-content-recommendations-facebook-instagram/
+
+[^5]: Meta AI. “Introducing 22 system cards that explain how AI powers experiences on Facebook and Instagram”. 29 jun. 2023. Descreve publicação seletiva dos dez modelos de previsão principais, sem expor todas as regras de ranking. https://ai.meta.com/blog/how-ai-powers-experiences-facebook-instagram-system-cards/

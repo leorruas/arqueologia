@@ -161,6 +161,14 @@ Uma auditoria reproduzível começaria por identificar os Reels de cada perfil e
 
 Para uma síntese de consulta rápida, acompanhada de referências e decisões editoriais testáveis, o percurso [[05 percursos/Como funciona a distribuicao no Instagram|Como funciona a distribuição no Instagram]] reúne as etapas de seleção, elegibilidade, previsão, distribuição e recepção. A comparação de táticas preserva a diferença entre regra documentada, hipótese de design e truque sem comprovação, permitindo voltar a este estudo histórico quando surgir uma dúvida de procedência.
 
+## O limite da transparência como decisão de interface
+
+Os cartões de sistemas divulgados pela Meta em 2023 distinguem Feed, recomendações, Explorar, Reels e outros mecanismos, descrevendo previsões relevantes para cada superfície. A empresa afirmou que publicava os dez modelos de previsão mais importantes em cada cartão, em lugar de todos os modelos e sinais, e reconheceu que os sistemas mudam frequentemente.[^37] Um artigo técnico de 2025 identificou camadas de recuperação, ranking inicial e ranking final em várias superfícies, com numerosas configurações em experimentação.[^38] A documentação permite reconhecer uma arquitetura e exemplos de decisões; não fornece o código integral implantado, os pesos de cada sinal em outubro de 2026 nem as razões completas por que determinada pessoa deixou de receber certa publicação.
+
+A diferença entre as condições de quem produz e de quem recebe permanece particularmente difícil de auditar. Conhecemos exemplos históricos de janelas de recuperação do receptor e regras explícitas de elegibilidade de contas que publicam conteúdo não original. Não conhecemos uma janela universal de memória dos destinatários, uma fórmula abrangente de eventual reputação de criadores, os limiares atuais de expansão de Reels nem os atributos exatos usados para relacionar uma palavra transcrita, uma imagem ou um tema à distribuição. Desconhecer um coeficiente **não demonstra que ele exista**; também não autoriza descartá-lo quando a arquitetura admite diferentes classificadores.
+
+Essa assimetria repercute na experiência do autor: as métricas mostram resultados agregados, enquanto as condições internas de seleção, pontuação e não exposição não são disponibilizadas de maneira integral e reproduzível para cada post. O [[05 percursos/Como funciona a distribuicao no Instagram|guia prático de distribuição no Instagram]] reúne, em linguagem de consulta, o que está declarado, o que pode ser testado externamente e aquilo que permanece fora do alcance desta investigação. A pergunta de design é quem consegue explicar, contestar e verificar as regras de visibilidade de um sistema cuja participação se torna parte da rotina de produzir informação.
+
 ## Ficha arqueológica
 
 | Campo | Registro |
@@ -278,3 +286,7 @@ Para uma síntese de consulta rápida, acompanhada de referências e decisões e
 [^35]: Meta AI. “The AI behind unconnected content recommendations on Facebook and Instagram”. 29 jun. 2023. Descreve *audio recognition*, extração de texto e classificação temática nos sistemas de compreensão de conteúdo usados em recomendações, sem revelar transcrições ou pesos de cada Reel. https://ai.meta.com/blog/ai-unconnected-content-recommendations-facebook-instagram/
 
 [^36]: Meta. “Apresentamos a conversão de fala para texto, texto para fala e mais novidades para mais de 1.100 idiomas”. 22 maio 2023. https://about.fb.com/br/news/2023/05/apresentamos-a-conversao-de-fala-para-texto-texto-para-fala-e-mais-novidades-para-mais-de-1-100-idiomas/ ; Meta Research. *Massively Multilingual Speech*: implementação pública de pesquisa, não reprodução do ranking de Reels. https://github.com/facebookresearch/fairseq/tree/main/examples/mms
+
+[^37]: Meta AI. “Introducing 22 system cards that explain how AI powers experiences on Facebook and Instagram”. 29 jun. 2023. Informa múltiplos sistemas de recomendação, milhares de sinais e divulgação seletiva dos dez modelos de previsão mais importantes por cartão. https://ai.meta.com/blog/how-ai-powers-experiences-facebook-instagram-system-cards/
+
+[^38]: Meta Engineering. “Journey to 1000 models: Scaling Instagram's recommendation system”. 21 maio 2025. Descreve o funil de recuperação, early-stage ranking e late-stage ranking e a frequência de experimentação. https://engineering.fb.com/2025/05/21/production-engineering/journey-to-1000-models-scaling-instagrams-recommendation-system/
