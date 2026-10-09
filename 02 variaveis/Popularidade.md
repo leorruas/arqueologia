@@ -28,6 +28,8 @@ Popularidade também precisa ser distinguida de prova social. A primeira é um e
 
 O [[03 artefatos/Radar da Virada|Radar da Virada]] reúne sinais em uma visualização denominada *Mais ditas*, com 24 horas de referência e uma legenda que associa tamanho a “alcance (views por hora)”. Essa redação expõe uma dificuldade de mensuração: um estoque acumulado de visualizações, uma taxa horária e o alcance de pessoas distintas são indicadores diferentes. A ausência de documentação da fórmula impede determinar qual deles é efetivamente representado. Essa distinção deve acompanhar toda comparação de atenção entre plataformas.
 
+O problema da contagem também pode ser concreto: em outubro de 2026, a Meta reconheceu uma falha técnica em métricas de vídeo do Instagram após relatos de visualizações aparentemente inconsistentes.[^3] O caso é analisado no [[03 artefatos/Feed algoritmico do Instagram|feed algorítmico do Instagram]] e no [[05 percursos/Como funciona a distribuicao no Instagram|guia prático]]. Ele não comprova que o ranking tenha mudado; mostra que **a confiabilidade dos números exibidos precisa ser verificada antes de atribuir uma diferença de desempenho a um mecanismo de recomendação**.
+
 ## Ficha da variável
 
 | Campo | Registro |
@@ -47,3 +49,5 @@ O [[03 artefatos/Radar da Virada|Radar da Virada]] reúne sinais em uma visualiz
 [^1]: Karimi, Mozhgan et al. “News recommender system: a review of recent progress, challenges, and opportunities”. *Artificial Intelligence Review*, 2021. A revisão distingue popularidade, recência, frescor e tendências como características relevantes de recomendação temporal.
 
 [^2]: Muchnik, Lev; Aral, Sinan; Taylor, Sean J. “Social Influence Bias: A Randomized Experiment”. *Science*, 341(6146), 2013, pp. 647–651. DOI: https://doi.org/10.1126/science.1240466
+
+[^3]: Strickland, Fernanda; Souza, Renato. “Eleições: Meta admite falha na contagem de visualizações em vídeos no Instagram”. *Correio Braziliense*, 8 out. 2026. https://www.correiobraziliense.com.br/politica/2026/10/7517736-eleicoes-meta-admite-falha-na-contagem-de-visualizacoes-em-videos-no-instagram.html

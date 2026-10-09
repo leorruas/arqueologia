@@ -119,6 +119,10 @@ A presença aqui não obriga a criação de uma nota. Cada pista deve ser avalia
 
 ## Testes práticos de distribuição no Instagram
 
+- **Falha de métricas reconhecida pela Meta em outubro de 2026**: o [[05 percursos/Como funciona a distribuicao no Instagram|guia de distribuição]] e o [[03 artefatos/Feed algoritmico do Instagram|estudo do feed]] registram as reportagens do *Diário do Centro do Mundo* e do *Correio Braziliense*. Verificar a extensão técnica do incidente, indicadores afetados, datas, tratamento de contagens retrospectivas e se houve qualquer efeito na entrega efetiva; o reconhecimento de uma falha de contagem não demonstra favorecimento político.
+- **Auditoria de instrumentação do Reels**: registrar capturas com horários, possíveis discrepâncias entre curtidas, visualizações e alcance, diferenças entre contadores públicos e Insights autorizados e atualização tardia dos dados. Tratar as métricas apresentadas como medições sujeitas a defeitos antes de concluir que existe restrição de distribuição.
+
+
 - **Limites públicos da auditoria algorítmica**: o guia [[05 percursos/Como funciona a distribuicao no Instagram|Como funciona a distribuição no Instagram]] agora compara informações publicadas e lacunas sobre pesos por superfície, memória do receptor, eventual *score* global de criador, limiares de expansão de Reels, uso operacional de OCR/ASR, critérios políticos por país e explicações de não exposição. Meta (2023) declara selecionar apenas dez modelos de previsão para os cartões; verificar atualizações antes de inferir ausência definitiva de documentação.
 - **O dado que falta em cada hipótese**: para cada comparação de alcance, especificar quais observações privadas (scores, filtros, candidatos descartados, histórico e grupos experimentais) seriam necessárias para provar o mecanismo. Separar resultado observável, regra documentada e hipótese causal ainda não testada.
 
